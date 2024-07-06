@@ -42,6 +42,8 @@ def cast_chaos_bolt(spell_attack_modifier=0, target_AC=13):
         damage_d6 = random.randint(1, 6)
     # Add together the damage dice for a total
         damage_total = (first_d8 + second_d8 + damage_d6)
+        if is_critical: # double damage if crit
+                damage_total = (damage_total * 2)
     # Damage type determined by the first d8
         dam_type_str = f"{element_from_d8[first_d8]} damage"
     # Show the rolls and calculations, diagnostic
@@ -63,14 +65,14 @@ def cast_chaos_bolt(spell_attack_modifier=0, target_AC=13):
             second_d8 = random.randint(1, chaos_die_for_threshold)
             damage_d6 = random.randint(1, 6)
             aux_damage_total = (first_d8 + second_d8 + damage_d6)
+            if is_critical: # double damage if crit
+                aux_damage_total = (aux_damage_total * 2)
         # Damage type determined by the first d8
             dam_type_str = f"{element_from_d8[first_d8]} damage"
         # Show the rolls and calculations, diagnostic
             print(f"[{first_d8} + {second_d8}] + {damage_d6} =\n\t EXTRA TARGET takes {damage_total} {dam_type_str}<---")
     else:
         print(f"{total_acc} MISSES against [{target_AC} AC]")
-
-
 
 exit_string = "potato"
 while exit_string != "x":
