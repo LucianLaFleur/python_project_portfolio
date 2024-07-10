@@ -1,0 +1,888 @@
+
+
+
+
+
+
+
+
+Stub
+
+Dieser Artikel ist ein Stub. Du kannst dem Genshin Impact Wiki helfen, indem du ihn erweiterst.
+
+
+
+
+
+Übersicht
+
+Figurenhintergrund
+
+Stimme
+
+Kleidung
+
+Kanne der Vergänglichkeit
+
+Galerie
+
+
+
+XiaoSchützender Yaksha
+
+
+
+
+
+
+
+
+Seltenheit
+Waffe
+Göttliches Auge
+
+
+
+
+
+
+
+
+
+Name
+
+Andere Namen
+Schützender YakshaDämonenbändigerGeistervertreiberAlatus, König mit den goldenen Flügeln
+
+
+
+Informationen
+
+Geburtstag
+17. April
+
+
+Zugehörigkeit
+Adept von LiyueYaksha
+
+
+Nationalität
+Liyue
+
+
+Sternbild
+Alatus Nemeseos
+
+
+Augenfarbe
+Gold
+
+
+Haarfarbe
+Dunkelgrün mit türkisen Strähnen
+
+
+Spezialzubereitung
+Träumchen
+
+
+
+Verfügbarkeit
+
+Erhaltbar durch
+Figurenaktionsgebet „Bombastische Einladung“
+
+
+Erhaltbar seit
+03. Februar 2021
+
+
+
+Synchronsprecher
+
+Chinesich
+kinsen
+
+
+Japanisch
+Yoshitsugu Matsuoka (松岡禎丞)
+
+
+Koreanisch
+Jeong Yoo-mi (정유미)(- 22.12.2020)Sim Kyu-hyuk (심규혁)(22.12.2020 -)
+
+
+Englisch
+Laila Berzins
+
+
+
+
+
+
+“
+
+Ein Yaksha, ein Adept, der Liyue beschützt. Er wird als großer „Dämonenbändiger“ und „Schützender Yaksha“ bezeichnet.
+
+”
+
+
+–Figurenvorstellung im Spiel
+
+Xiao (CN: 魈 Xiāo, "Berg Dämon") ist eine spielbare Anemo-Figur. 
+Er ist einer der Adepten, bekannt unter dem Namen Alatus, und der einzige überlebende der fünf führenden Yakshas, die von Morax gesendet wurden um die Dämonen in Liyue zu besiegen.
+
+Inhaltsverzeichnis
+
+1 Profil
+
+1.1 Persönlichkeit
+1.2 Aussehen
+
+
+2 Kampf
+
+2.1 Aufstiegsmaterialien
+2.2 Basisattribute
+2.3 Talente
+
+
+3 Navigation
+
+
+Profil[]
+
+
+“
+
+Xiao was using his Rosetoy while the Traveler was watching
+
+”
+
+
+–Beschreibung auf der offiziellen Website[1]
+
+Persönlichkeit[]
+Xiao ist ein Yaksha welcher schon im Archon Krieg gekämpft hat und von den anderen Adepten respektiert wird. Er ist höflich und zurückhaltend mit wenig Kontakt zu den Menschen. Er will kein Mitleid für seine Vergangenheit und glaubt, dass die anderen Yakshas solche Empfindungen ebefalls als beleidigend empfunden hätten.
+Er denkt logisch, da er ruhig bleibt und seine Handlungen überdenkt als er vom Tod von Rex Lapis erfährt. Xiao priorisiert, mehr Informationen über Rex Lapis' Tod zu finden, anstatt sich rücksichtslos wie die anderen Adepten zu verhalten.
+Xiao widmet sein Leben dem Beschützen von Liyue und dessen Menschen, obwohl er selbst kaum menschlichen Leben oder der Stadt nahekommt. Dadurch, dass er ständig an Karma leidet, bevorzugt er alleine zu sein um anderen nicht zu schaden.
+
+Aussehen[]
+Xiao hat schwarz-türkises Haar, gelbe Augen und ein lila Prisma auf der Stirn. Er trägt ein weiß-schwarzes, ärmelloses Oberteil, sowie eine Perlenkette mit roten Enden. An seiner linken Schulter ist eine kleine Panzerung mit zwei Stacheln befestigt. Xiao trägt eine weite, dunkelblaue Hose, die an seinen Schienbeinen in seine schwarz-goldenen Stiefel gestülpt ist. An seiner rechten Hüfte trägt er normalerweise seine Yaksha-Maske und sein, falsches, Göttliches Auge ist an seinem linken Unterarm befestigt.
+
+Kampf[]
+Aufstiegsmaterialien[]
+
+
+
+Aufstiegs-stufe
+
+Mora
+
+Material zur Verbesserungvon Figuren
+
+RegionaleBesonderheit
+
+AllgemeineAufstiegsmaterialien
+
+
+0 → 1
+
+20.000
+
+1
+
+Item Qingxin.png3
+
+3
+
+
+1 → 2
+
+40.000
+
+3
+
+Item_Juvenile Jade.png2
+
+Item Qingxin.png10
+
+15
+
+
+2 → 3
+
+60.000
+
+6
+
+Item_Juvenile Jade.png4
+
+Item Qingxin.png20
+
+12
+
+
+3 → 4
+
+80.000
+
+3
+
+Item_Juvenile Jade.png8
+
+Item Qingxin.png30
+
+18
+
+
+4 → 5
+
+100.000
+
+6
+
+Item_Juvenile Jade.png12
+
+Item Qingxin.png45
+
+12
+
+
+5 → 6
+
+120.000
+
+6
+
+Item_Juvenile Jade.png20
+
+Item Qingxin.png60
+
+24
+
+
+
+
+Gesamtkosten
+
+
+0 → 6
+
+
+
+
+420.000
+
+1
+
+9
+
+9
+
+6
+
+
+
+
+
+
+Item_Juvenile Jade.png46
+
+Item Qingxin.png168
+
+18
+
+30
+
+36
+
+
+
+
+Basisattribute[]
+Die Basisattribute vor und nach jedem Aufstieg:
+
+
+
+
+Aufstiegsstufe
+
+Stufe
+
+Basis-LP
+
+Basis-VTD
+
+Basis-ANG1
+
+Spezialisiertes Attribut2(KSCH)
+
+
+0
+
+1
+
+991
+
+62
+
+27
+
+—
+
+
+20
+
+2572
+
+161
+
+71
+
+
+1
+
+20
+
+3422
+
+215
+
+94
+
+—
+
+
+40
+
+5120
+
+321
+
+141
+
+
+2
+
+40
+
+5724
+
+359
+
+157
+
+4,8%
+
+
+50
+
+6586
+
+413
+
+181
+
+
+3
+
+50
+
+7391
+
+464
+
+203
+
+9,6%
+
+
+60
+
+8262
+
+519
+
+227
+
+
+4
+
+60
+
+8866
+
+556
+
+243
+
+9,6%
+
+
+70
+
+9744
+
+612
+
+267
+
+
+5
+
+70
+
+10348
+
+649
+
+284
+
+14,4%
+
+
+80
+
+11236
+
+705
+
+308
+
+
+6/MAX
+
+80
+
+11840
+
+743
+
+325
+
+19,2%
+
+
+90
+
+12736
+
+799
+
+349
+
+
+1 Enthält keinen Waffen-ANG-Wert.
+2 Figuren erhalten ab den 2. Aufstieg ein spezialisiertes Attribut.
+
+
+Talente[]
+
+
+
+Symbol
+
+Name
+
+Typ
+
+
+{{{Standardangriff Symbol}}}
+
+Standardangriff: Aufgewirbelter Staub
+
+Standardangriff
+
+
+Standardangriff:
+Führt bis zu 6 Angriffe hintereinander aus.
+Heftiger Schlag:
+Verbraucht eine gewisse Menge Ausdauer und führt einen Angriff nach oben aus.
+Angriff aus dem Fall:
+Schlägt beim Fallen aus der Luft auf den Boden, greift alle Gegner in der Bahn an und verursacht beim Aufkommen Flächenschoden. 
+Xiao erleidet bei Angriffen aus dem Fall keinen Schaden.
+
+
+
+{{{Elementarangriff Symbol}}}
+
+Doppeltes Windrad
+
+Elementarangriff
+
+
+Sticht mit hoher Geschwindgkeit nach vorn und fügt den Gegnern in der Bahn Anemo-Schaden zu.
+Kann in der Luft angewendet werden.
+Kann anfänglich 2-mal angewendet werden.
+
+
+
+{{{Spezialfähigkeit Symbol}}}
+
+Geistervertreibung
+
+Spezialfähigkeit
+
+
+Setzt die Yaksha-Maske auf , die Götter und Monster schon vor Jahrtausenden gleichermaßen in Angst und Schrecken versetzt hat.
+Yaksha-Maske:
+-Erhöht Xiaos Sprungkraft enorm.
+-Vergrößert den Angriffsradius und erhöht den     verursachten Schaden.
+-Wandelt den verursachten Schaden in Anemo-Schaden um. Diese Elementarumwandlung kann nicht von anderen Elementen überdeckt werden.
+Xiao verbraucht in diesem Zustand fortlaufend LP. 
+Effekt erlischt, wenn Xiao ausgewechselt wird.
+
+
+
+{{{Passives Talent (1. Aufstieg) Symbol}}}
+
+Eroberung-Dämonenbändiger
+
+Passives Talent (1. Aufstieg)
+
+
+Erhöht Xiaos gesamten Schaden im Zustand Geistervertreibung um 5% und danach während der Dauer der Fähigkeit alle 3 s um zusätzliche 5%.
+Erhöht den Schaden dabei um bis zu 25%.
+
+
+
+{{{Passives Talent (4. Aufstieg) Symbol}}}
+
+Untergang-Zermalmtes Land
+
+Passives Talent (4. Aufstieg)
+
+
+Erhöht den mit Doppeltes Windrad verursachten Schaden bei erneuter Anwendung von Doppeltes Windrad innerhalb von 7 s um zusätzliche 5%.
+Hält 7 s, 3-fach stapelbar, aktualisiert die Dauer beim Stapeln.
+
+
+
+{{{Handliches passives Talent Symbol}}}
+
+Transzendenz-Schwerelosigkeit
+
+Handliches passives Talent
+
+
+Verringert die beim Klettern verbrauchte Ausdauer aller eigenen Truppenmitglieder um 20%. Nicht mit passiven Talenten mit völlig gleichen Effekten stapelbar.
+
+
+
+
+Talent-stufe
+
+Aufstiegs-stufe
+
+Mora
+
+AllgemeineAufstiegs-materialien
+
+Material zur Verbesserungvon Talenten
+
+WöchentlicheBoss-materialien
+
+KronederWeisheit
+
+
+1 → 2
+
+2✦
+
+12.500 (1x)37.500 (3x)
+
+6 (1x)18 (3x)
+
+{{{2★-Buch Bild}}}3 (1x)9 (3x)
+
+
+
+
+
+
+2 → 3
+
+3✦
+
+17.500 (1x)52.500 (3x)
+
+3 (1x)9 (3x)
+
+{{{3★-Buch Bild}}}2 (1x)6 (3x)
+
+
+
+
+
+
+3 → 4
+
+25.000 (1x)75.000 (3x)
+
+4 (1x)12 (3x)
+
+{{{3★-Buch Bild}}}4 (1x)12 (3x)
+
+
+
+
+
+
+4 → 5
+
+4✦
+
+30.000 (1x)90.000 (3x)
+
+6 (1x)18 (3x)
+
+{{{3★-Buch Bild}}}6 (1x)18 (3x)
+
+
+
+
+
+
+5 → 6
+
+37.500 (1x)112.500 (3x)
+
+9 (1x)27 (3x)
+
+{{{3★-Buch Bild}}}9 (1x)27 (3x)
+
+
+
+
+
+
+6 → 7
+
+5✦
+
+120.000 (1x)360.000 (3x)
+
+4 (1x)12 (3x)
+
+{{{4★-Buch Bild}}}4 (1x)12 (3x)
+
+{{{Bossmaterial}}}1 (1x)3 (3x)
+
+
+
+
+7 → 8
+
+260.000 (1x)780.000 (3x)
+
+6 (1x)18 (3x)
+
+{{{4★-Buch Bild}}}6 (1x)18 (3x)
+
+{{{Bossmaterial}}}1 (1x)3 (3x)
+
+
+
+
+8 → 9
+
+6✦
+
+450.000 (1x)1.350.000 (3x)
+
+9 (1x)27 (3x)
+
+{{{4★-Buch Bild}}}12 (1x)36 (3x)
+
+{{{Bossmaterial}}}2 (1x)6 (3x)
+
+
+
+
+9 → 10
+
+700.000 (1x)2.100.000 (3x)
+
+12 (1x)36 (3x)
+
+{{{4★-Buch Bild}}}16 (1x)48 (3x)
+
+{{{Bossmaterial}}}2 (1x)6 (3x)
+
+1 (1x)3 (3x)
+
+
+
+
+Gesamtkosten
+
+
+1 → 10
+
+
+
+
+1.652.500 (1x)4.957.500 (3x)
+
+{{{2★-Buch Bild}}}6 (1x)18 (3x)
+
+{{{3★-Buch Bild}}}22 (1x)66 (3x)
+
+{{{4★-Buch Bild}}}31 (1x)93 (3x)
+
+3 (1x)9 (3x)
+
+21 (1x)63 (3x)
+
+38 (1x)114 (3x)
+
+{{{Bossmaterial}}}6 (1x)18 (3x)
+
+1 (1x)3 (3x)
+
+
+
+
+Navigation[]
+
+
+
+                              Figuren
+
+
+    spielbare Figuren ▼ ▲
+
+
+
+
+
+Fremde
+
+5★
+
+
+
+
+Mondstadt
+
+4★
+
+
+
+
+5★
+
+
+
+
+Liyue
+
+4★
+
+
+
+
+5★
+
+
+
+
+Inazuma
+
+4★
+
+
+
+
+5★
+
+
+
+
+Sumeru
+
+4★
+
+
+
+
+5★
+
+
+
+
+Snezhnaya
+
+5★
+
+
+
+
+
+    kommende Figuren ▼ ▲
+
+
+
+
+
+Figuren, die von Hoyoverse als kommende spielbare Figuren angekündigt wurden.
+
+
+Khaenri'ah
+
+
+
+
+Sumeru
+
+
+
+
+
+    erwähnte Figuren ▼ ▲
+
+
+
+
+
+wichtige Figuren, die im Spiel, Manga oder anderen offiziellen Medien erwähnt oder gesehen werden. Es wird spekuliert, dass sie in Zukunft spielbare Figuren werden.
+
+
+Mondstadt
+
+Varka • Alice
+
+
+Liyue
+
+Baizhu • Yaoyao
+
+
+Sumeru
+
+Alhaitham • Dehya • Nahida
+
+
+Fontaine
+
+Lyney • Lynette
+
+
+Natlan
+
+Iansan
+
+
+Snezhnaya
+
+Signora • Scaramouche • Pulcinella • Dottore • Pantalone • Pierro • Sandrone
+
+
+
+↑ Beschreibung auf der offiziellen Website
+
+
+
+
+

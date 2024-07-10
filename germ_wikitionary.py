@@ -1,8 +1,8 @@
-import sys
+# import sys
 from bs4 import BeautifulSoup as bs
 import requests
-import os
-import re
+# import os
+# import re
 # -*- coding: utf-8 -*-
 
 # ! NOTE: not a target, since we're using the principle of contrast to 
@@ -12,19 +12,25 @@ import re
   # use appropriate grammar and lean towards portraying context with antonyms or thematically consistent ideas
  
 
-keywords = ["Antonyme", "Verwendungsbeispielsätze", "Phraseologismen"]
+keywords = ["Etymologie und Morphologie", "Antonyme", "Verwendungsbeispielsätze", "Phraseologismen"]
+# init. a list for containing the keywords that are not identified on the page
+#   used for printing information, currently diagnostic to check if CLI matches to webpage
+missing_keywords_list = []
 
-# For keyword search instead .... 
-# # Define the list of keywords to search for
-# keywords = ['keyword1', 'keyword2', 'keyword3']  # Replace with your actual keywords
 
-# # Iterate over all <p> tags within the content_div
-# for p_tag in content_div.find_all('p'):
-#     p_text = p_tag.get_text()
-#     # Check if any of the keywords are in the text content of the <p> tag
-#     if any(keyword in p_text for keyword in keywords):
-#         # Print the entire text content of the <p> tag
-#         print(p_text)
+
+def handle_messages_for_html_keywords(word):
+  if word ==  "Etymologie und Morphologie":
+    print(f"Found Related form:")
+  elif word ==  "Etymologie und Morphologie":
+    print(f"Found Related form:")
+  elif word ==  "Etymologie und Morphologie":
+    print(f"Found Related form:")
+  elif word ==  "Etymologie und Morphologie":
+    print(f"Found Related form:")
+  else:
+    print("No ")
+  #  "Etymologie und Morphologie", "Antonyme", "Verwendungsbeispielsätze", "Phraseologismen"
 
 def run_the_scrape(url):
   headers = {"Connection":"keep-alive",'User-Agent': 'Mozilla/5.0'}
@@ -39,6 +45,7 @@ def run_the_scrape(url):
       # Find the <p> tag with the specified keyword in the title attribute
       p_tag = content_div.find('p', title=keyword)
       # If the <p> tag is found, find the immediate sibling <dl> tag
+      # NOTE: If no <p> tag is found, then the message should not be printed
       if p_tag and p_tag.find_next_sibling('dl'):
           phrases_dl = p_tag.find_next_sibling('dl')
           
@@ -47,11 +54,22 @@ def run_the_scrape(url):
           
           # Print the text content of each <dd> tag
           for dd in dd_tags:
+              print(f"Keyword ")
               print(dd.get_text())
+      else:
+        missing_keywords_list.append(keyword)
 
-  # # Print the text content of each <dd> tag
-  # for dd in dd_tags:
-  #     print(dd.get_text())
+while True:
+  url = input("paste a url to scan (or [x] to exit): ")
+  if (url == "x") or (url == "e") or (url == "end") or (url == "q"):
+   break
+  else:
+    run_the_scrape(url)
+
+
+# Beispiele
+# Redewendungen
+# Wortkombinationen
 
 # def find_nth_item_in_scrape(url):
 #   headers = {"Connection":"keep-alive",'User-Agent': 'Mozilla/5.0'}
@@ -73,36 +91,31 @@ def run_the_scrape(url):
 #   # Print the text content of each <dd> tag
 #   for dd in dd_tags:
 #       print(dd.get_text())
-
-while True:
-  url = input("paste a url to scan: ")
-  if url == "c":
-   break
-  else:
-    run_the_scrape(url)
-
-
-# Beispiele
-# Redewendungen
-# Wortkombinationen
   
 # print("Reminder crtl+w closes current tab")
 
-# scan_gifcount(lops)
+#  --------------------------------------------------------------------------------------------------
+#  check VGM for gatcha games that'll have wikis.
+# For keyword search instead .... 
+# # Define the list of keywords to search for
+# keywords = ['keyword1', 'keyword2', 'keyword3']  # Replace with your actual keywords
 
-# https://e-hentai.org/?f_cats=967&f_search=animated&advsearch=1&f_srdd=4
+# # Iterate over all <p> tags within the content_div
+# for p_tag in content_div.find_all('p'):
+#     p_text = p_tag.get_text()
+#     # Check if any of the keywords are in the text content of the <p> tag
+#     if any(keyword in p_text for keyword in keywords):
+#         # Print the entire text content of the <p> tag
+#         print(p_text)
 
-# https://e-hentai.org/g/2972218/444be4d05e/
-
-# https://e-hentai.org/g/2972218/444be4d05e/
-#  (skyrim animated?)
-# https://en.wikiquote.org/wiki/German_proverbs
+#  --------------------------------------------------------------------------------------------------
 
 # Target: scrape all words from all German voice lines in Genshin, honkai star rail
 # https://genshin-impact.fandom.com/de/wiki/Amber/Stimme lines done in german, 
 # take the voices, use AI to generate them in German to add to flashcards
 
-#  
+# https://genshin-impact.fandom.com/de/wiki/Sangonomiya_Kokomi/Stimme 
+
 # https://de.wiktionary.org/wiki/abhalten
 # 
 # on cli, get the pattern to print out the examples, and since these jerks don't have it translated, do so with the espada.

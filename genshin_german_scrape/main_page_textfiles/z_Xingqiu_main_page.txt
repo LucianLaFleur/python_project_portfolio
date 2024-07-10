@@ -1,0 +1,955 @@
+
+
+
+
+
+
+
+
+Stub
+
+Dieser Artikel ist ein Stub. Du kannst dem Genshin Impact Wiki helfen, indem du ihn erweiterst.
+
+
+
+
+
+Übersicht
+
+Figurenhintergrund
+
+Stimme
+
+Kleidung
+
+Kanne der Vergänglichkeit
+
+Galerie
+
+
+
+Xingqiu
+
+
+
+
+
+
+
+
+Seltenheit
+Waffe
+Göttliches Auge
+
+
+
+
+
+
+
+
+
+Name
+
+Andere Namen
+Edelmütiger Jüngling
+
+
+
+Informationen
+
+Geschlecht
+Männlich
+
+
+Geburtstag
+09. Oktober
+
+
+Zugehörigkeit
+Händlergilde FeiyunGuhua-Klan
+
+
+Nationalität
+Liyue
+
+
+Sternbild
+Fabulae Textile
+
+
+Spezialzubereitung
+Rustikale Häppchen
+
+
+
+Verfügbarkeit
+
+Erhaltbar durch
+StandardgebetAnfängergebetFigurenaktionsgebetRares für Staub und Glanz
+
+
+Erhaltbar seit
+28. September 2020
+
+
+
+Synchronsprecher
+
+Chinesich
+Yajing Tang (唐雅菁)[1]
+
+
+Japanisch
+Junko Minagawa (皆川純子)[2]
+
+
+Koreanisch
+Gwak Gyu-mi (곽규미)[3]
+
+
+Englisch
+Cristina Vee Valenzuela[2]
+
+
+
+
+
+
+“
+
+Ein junger Mann, der häufig in der Nähe von Bücherständen gesehen werden kann. In der Hand trägt er ein Langschwert, in seiner Brust ein Herz für die Schwachen.
+
+”
+
+
+–Figurenvorstellung im Spiel
+
+Xingqiu ist eine spielbare Hydro-Figur in Genshin Impact aus Liyue.
+
+Inhaltsverzeichnis
+
+1 Profil
+
+1.1 Aussehen
+1.2 Persönlichkeit
+
+
+2 Kampf
+
+2.1 Talente
+2.2 Sternbild
+2.3 Aufstiegsmaterialien
+2.4 Basisattribute
+
+
+3 Änderungsverlauf
+4 Quellen
+5 Navigation
+
+
+Profil[]
+Aussehen[]
+Xingqiu hat dunkles, marineblaues Haar und gold-bernsteinfarbene Augen. Er ist zierlich gebaut und hellhäutig. Für gewöhnlich trägt er einen blauen Ohrring mit einer goldener Quaste an seinem rechten Ohr. Er ist der einzige Charakter, der nur an seinem rechten Ohr einen Ohrring trägt - andere Charaktere haben entweder zwei Ohrringe, einen am linken Ohr, oder überhaupt keine. Sein Göttliches Auge trägt er am linken, unteren Ende seines Umhangs. Daran hängt eine Quaste aus Bernstein, die farblich zu seinen Augen passt.
+Seine Kleidung besteht aus einem langen Seideumhang, der von schwarz zu Marineblautönen verläuft. 
+
+Persönlichkeit[]
+
+
+“
+
+Als jüngster Sohn des Besitzers der Händlergilde Feiyun musste er schon früh beste Noten vorzeigen und andere mit Respekt behandeln.
+Aber selbst der sonst so strebsame Junge hat seine gewisse Momente, in denen er aufmüpfig wird.
+
+
+”
+
+
+Auf die meisten Menschen wirkt Xingqiu wie ein höflicher, junger Mann, der seine Aufgaben ernst nimmt. In der Anwesenheit von Familie und engen Freunden ist er gesellig und gesprächig, zeigt gleichzeitig jedoch mehr Zurückhaltung als sein älterer Bruder. Er ist dafür bekannt, ziemlich chaotisch zu sein, da sein Bruder und die angestellten Dienstmädchen anmerkten, dass sein Zimmer unorganisiert sei und seine Handschrift für die meisten Menschen kaum lesbar ist. Im Gegensatz zu seinem älteren Bruder, der sich um den Erfolg der Gilde bemüht, ist Xingqiu nicht sehr für diesen Zweck engagiert, was zu Streit innerhalb der Familie führt.
+Er ist gut befreundet mit Hu Tao und Chongyun, obwohl er letzterem dauernd Streiche spielt. Er ist ein passionierter Leser und verbringt seine Zeit oft mit dem Suchen nach seltenen Büchern in der Buchhandlung Wanwen. Außerdem schreibt er von Zeit zu Zeit auch eigene Bücher, wobei "Vom Schwert gefunden im Herbst" sein erstes war. Obwohl der gewünschte Erfolg in Liyue ausblieb, hat er unerwarteterweise in Inazuma und Fontaine Bekanntheit erlangt, nachdem ein Geschäftsmann das Buch nach Inazuma brachte.
+Xingqiu mag Backwaren und die Yue-Küche, wohingegen er Möhren hasst, da seine Mutter sie immer zu etwas unbekanntem vermanschte.
+
+Kampf[]
+Talente[]
+
+
+
+Symbol
+
+Name
+
+Typ
+
+
+
+
+Guhua-Stil
+
+Standardangriff
+
+
+Standardangriff: Führt bis zu 5 Schwerthiebe aus.
+Heftiger Schlag: Verbraucht eine gewisse Menge Ausdauer und schwingt das Schwert zweimal schnell nach vorn.
+Angriff aus dem Fall: Schlägt beim Fallen aus der Luft auf den Boden, greift alle Gegner in der Bahn an und verursacht beim Aufkommen Flächenschaden.
+
+
+
+
+
+Guhua-Schwert - Wolkenbruch
+
+Elementarangriff
+
+
+Greift zweimal mit dem Schwert an und fügt gegenüberstehenden Gegnern Hydro-Schaden zu. Erstellt die Höchstzahl an Regenschwertern, die die aktuelle eigene Figur umkreisen.
+Merkmale:
+
+Wird bei Erleiden von Schaden zerstört und verringert den erlittenen Schaden.
+Erhöht den Unterbrechungs-WDS der Figur.
+20% von Xingqius Hydro-SCH-Bonus werden zusätzlich zu Schadensminderung der Regenschwerter umgewandelt.
+Bis zu 24% zusätzliche Schadensminderung auf diese Weise möglich.
+Anfänglich bis zu 3 Regenschwerter möglich.
+Verleiht der Figur bei Anwendung den Zustand Nass.
+
+
+
+
+
+Guhua-Schwert - Regen und Bogen
+
+Spezialfähigkeit
+
+
+Wendet "Regenbogentechnik" an, um mit Illusionsschwertern zu kämpfen, und erstellt die Höchstzahl an Regenschwertern.
+Regenbogentechnik:
+
+Standardangriffe der aktuellen eigenen Figur lösen aufeinanderfolgende Schwertregenangriffe aus, die Hydro-Schaden verursachen.
+Die Anzahl der Regenschwerter bleibt unverändert auf der höchsten Anzahl.
+
+
+
+
+Hydropathie
+
+Passives Talent (1. Aufstieg)
+
+
+Stellt der aktuellen Figut bei Zerstörung eines Regenschwerts durch einen ANgriff oder nach Ablauf der Wirkungsdauer LP in Höhe von 6% der max. LP von Xingqiu wieder her.
+
+
+
+
+Realistischer Schreibstil
+
+Passives Talent (4. Aufstieg)
+
+
+Erhöht Xingqius Hydro-Schaden um 20%.
+
+
+
+
+Gedankenblitz
+
+Handliches passives Talent
+
+
+Gibt beim Zusammensetzen von Material für Figurentalente mit einer Wahrscheinlichkeit von 25% einen Teil der Materialien zurück.
+
+
+
+
+Talent-stufe
+
+Aufstiegs-stufe
+
+Mora
+
+AllgemeineAufstiegs-materialien
+
+Material zur Verbesserungvon Talenten
+
+WöchentlicheBoss-materialien
+
+KronederWeisheit
+
+
+1 → 2
+
+2✦
+
+12.500 (1x)37.500 (3x)
+
+6 (1x)18 (3x)
+
+Datei:Lehren des „Golds“.png3 (1x)9 (3x)
+
+
+
+
+
+
+2 → 3
+
+3✦
+
+17.500 (1x)52.500 (3x)
+
+3 (1x)9 (3x)
+
+Datei:Anleitung zum „Gold“.png2 (1x)6 (3x)
+
+
+
+
+
+
+3 → 4
+
+25.000 (1x)75.000 (3x)
+
+4 (1x)12 (3x)
+
+Datei:Anleitung zum „Gold“.png4 (1x)12 (3x)
+
+
+
+
+
+
+4 → 5
+
+4✦
+
+30.000 (1x)90.000 (3x)
+
+6 (1x)18 (3x)
+
+Datei:Anleitung zum „Gold“.png6 (1x)18 (3x)
+
+
+
+
+
+
+5 → 6
+
+37.500 (1x)112.500 (3x)
+
+9 (1x)27 (3x)
+
+Datei:Anleitung zum „Gold“.png9 (1x)27 (3x)
+
+
+
+
+
+
+6 → 7
+
+5✦
+
+120.000 (1x)360.000 (3x)
+
+4 (1x)12 (3x)
+
+Datei:Philosophie des „Golds“.png4 (1x)12 (3x)
+
+Datei:Schwanz des Nordwinds.png1 (1x)3 (3x)
+
+
+
+
+7 → 8
+
+260.000 (1x)780.000 (3x)
+
+6 (1x)18 (3x)
+
+Datei:Philosophie des „Golds“.png6 (1x)18 (3x)
+
+Datei:Schwanz des Nordwinds.png1 (1x)3 (3x)
+
+
+
+
+8 → 9
+
+6✦
+
+450.000 (1x)1.350.000 (3x)
+
+9 (1x)27 (3x)
+
+Datei:Philosophie des „Golds“.png12 (1x)36 (3x)
+
+Datei:Schwanz des Nordwinds.png2 (1x)6 (3x)
+
+
+
+
+9 → 10
+
+700.000 (1x)2.100.000 (3x)
+
+12 (1x)36 (3x)
+
+Datei:Philosophie des „Golds“.png16 (1x)48 (3x)
+
+Datei:Schwanz des Nordwinds.png2 (1x)6 (3x)
+
+1 (1x)3 (3x)
+
+
+
+
+Gesamtkosten
+
+
+1 → 10
+
+
+
+
+1.652.500 (1x)4.957.500 (3x)
+
+Datei:Lehren des „Golds“.png6 (1x)18 (3x)
+
+Datei:Anleitung zum „Gold“.png22 (1x)66 (3x)
+
+Datei:Philosophie des „Golds“.png31 (1x)93 (3x)
+
+3 (1x)9 (3x)
+
+21 (1x)63 (3x)
+
+38 (1x)114 (3x)
+
+Datei:Schwanz des Nordwinds.png6 (1x)18 (3x)
+
+1 (1x)3 (3x)
+
+
+Sternbild[]
+
+
+
+Stufe
+
+Symbol
+
+Name
+
+Effekt
+
+
+1
+
+{{{1. Sternbild Stufe Bild}}}
+
+{{{1. Sternbild Stufe Name}}}
+
+{{{1. Sternbild Stufe Beschreibung}}}
+
+
+2
+
+{{{2. Sternbild Stufe Bild}}}
+
+{{{2. Sternbild Stufe Name}}}
+
+{{{2. Sternbild Stufe Beschreibung}}}
+
+
+3
+
+{{{3. Sternbild Stufe Bild}}}
+
+{{{3. Sternbild Stufe Name}}}
+
+{{{3. Sternbild Stufe Beschreibung}}}
+
+
+4
+
+{{{4. Sternbild Stufe Bild}}}
+
+{{{4. Sternbild Stufe Name}}}
+
+{{{4. Sternbild Stufe Beschreibung}}}
+
+
+5
+
+{{{5. Sternbild Stufe Bild}}}
+
+{{{5. Sternbild Stufe Name}}}
+
+{{{5. Sternbild Stufe Beschreibung}}}
+
+
+6
+
+{{{6. Sternbild Stufe Bild}}}
+
+{{{6. Sternbild Stufe Name}}}
+
+{{{6. Sternbild Stufe Beschreibung}}}
+
+Jede Aktivierung einer Konstellation benötigt eine  Stella Fortuna.
+
+Aufstiegsmaterialien[]
+
+
+
+Aufstiegs-stufe
+
+Mora
+
+Material zur Verbesserungvon Figuren
+
+RegionaleBesonderheit
+
+AllgemeineAufstiegsmaterialien
+
+
+0 → 1
+
+20.000
+
+Datei:Varunada-Lasurit-Splitter.png1
+
+Datei:Seidenblume.png3
+
+3
+
+
+1 → 2
+
+40.000
+
+Datei:Varunada-Lasurit-Bruchstück.png3
+
+Datei:Reinigendes Herz.png2
+
+Datei:Seidenblume.png10
+
+15
+
+
+2 → 3
+
+60.000
+
+Datei:Varunada-Lasurit-Bruchstück.png6
+
+Datei:Reinigendes Herz.png4
+
+Datei:Seidenblume.png20
+
+12
+
+
+3 → 4
+
+80.000
+
+Datei:Varunada-Lasurit-Brocken.png3
+
+Datei:Reinigendes Herz.png8
+
+Datei:Seidenblume.png30
+
+18
+
+
+4 → 5
+
+100.000
+
+Datei:Varunada-Lasurit-Brocken.png6
+
+Datei:Reinigendes Herz.png12
+
+Datei:Seidenblume.png45
+
+12
+
+
+5 → 6
+
+120.000
+
+Datei:Varunada-Lasurit.png6
+
+Datei:Reinigendes Herz.png20
+
+Datei:Seidenblume.png60
+
+24
+
+
+
+
+Gesamtkosten
+
+
+0 → 6
+
+
+
+
+420.000
+
+Datei:Varunada-Lasurit-Splitter.png1
+
+Datei:Varunada-Lasurit-Bruchstück.png9
+
+Datei:Varunada-Lasurit-Brocken.png9
+
+Datei:Varunada-Lasurit.png6
+
+
+
+
+
+
+Datei:Reinigendes Herz.png46
+
+Datei:Seidenblume.png168
+
+18
+
+30
+
+36
+
+
+Basisattribute[]
+Die Basisattribute vor und nach jedem Aufstieg:
+
+
+
+
+Aufstiegsstufe
+
+Stufe
+
+Basis-LP
+
+Basis-VTD
+
+Basis-ANG1
+
+Spezialisiertes Attribut2(Angriff)
+
+
+0
+
+1
+
+857
+
+64
+
+17
+
+—
+
+
+20
+
+2,202
+
+163
+
+43
+
+
+1
+
+20
+
+2,842
+
+211
+
+56
+
+—
+
+
+40
+
+4,257
+
+316
+
+84
+
+
+2
+
+40
+
+4,712
+
+349
+
+93
+
+6.0%
+
+
+50
+
+5,420
+
+402
+
+107
+
+
+3
+
+50
+
+6,027
+
+447
+
+119
+
+12.0%
+
+
+60
+
+6,735
+
+499
+
+133
+
+
+4
+
+60
+
+7,190
+
+533
+
+142
+
+12.0%
+
+
+70
+
+7,897
+
+585
+
+156
+
+
+5
+
+70
+
+8,352
+
+619
+
+165
+
+18.0%
+
+
+80
+
+9,060
+
+671
+
+179
+
+
+6/MAX
+
+80
+
+9,515
+
+705
+
+188
+
+24.0%
+
+
+90
+
+10,223
+
+758
+
+202
+
+
+1 Enthält keinen Waffen-ANG-Wert.
+2 Figuren erhalten ab den 2. Aufstieg ein spezialisiertes Attribut.
+
+Änderungsverlauf[]
+[Create New History]
+Quellen[]
+
+
+
+↑ (CN) Genshin Impact - offizielle Figurenseite
+
+↑ 2,0 2,1 (EN & JP) Twitter - Ankündigung zu den Synchronsprechern
+
+↑ (KR) Twitter - Ankündigung zu den Synchronsprechern
+
+
+
+Navigation[]
+
+
+
+                              Figuren
+
+
+    spielbare Figuren ▼ ▲
+
+
+
+
+
+Fremde
+
+5★
+
+
+
+
+Mondstadt
+
+4★
+
+
+
+
+5★
+
+
+
+
+Liyue
+
+4★
+
+
+
+
+5★
+
+
+
+
+Inazuma
+
+4★
+
+
+
+
+5★
+
+
+
+
+Sumeru
+
+4★
+
+
+
+
+5★
+
+
+
+
+Snezhnaya
+
+5★
+
+
+
+
+
+    kommende Figuren ▼ ▲
+
+
+
+
+
+Figuren, die von Hoyoverse als kommende spielbare Figuren angekündigt wurden.
+
+
+Khaenri'ah
+
+
+
+
+Sumeru
+
+
+
+
+
+    erwähnte Figuren ▼ ▲
+
+
+
+
+
+wichtige Figuren, die im Spiel, Manga oder anderen offiziellen Medien erwähnt oder gesehen werden. Es wird spekuliert, dass sie in Zukunft spielbare Figuren werden.
+
+
+Mondstadt
+
+Varka • Alice
+
+
+Liyue
+
+Baizhu • Yaoyao
+
+
+Sumeru
+
+Alhaitham • Dehya • Nahida
+
+
+Fontaine
+
+Lyney • Lynette
+
+
+Natlan
+
+Iansan
+
+
+Snezhnaya
+
+Signora • Scaramouche • Pulcinella • Dottore • Pantalone • Pierro • Sandrone
+
+
+
+
+

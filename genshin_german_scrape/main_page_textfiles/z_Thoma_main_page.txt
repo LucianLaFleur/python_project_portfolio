@@ -1,0 +1,821 @@
+
+
+
+Übersicht
+
+Figurenhintergrund
+
+Stimme
+
+Kleidung
+
+Kanne der Vergänglichkeit
+
+Galerie
+
+
+
+Thoma
+
+
+
+
+
+
+
+
+Seltenheit
+Waffe
+Göttliches Auge
+
+
+
+
+
+
+
+
+
+Name
+
+Andere Namen
+Haushälter des Kamisato-Clans
+
+
+
+Informationen
+
+Geschlecht
+Männlich
+
+
+Geburtstag
+9. Januar
+
+
+Zugehörigkeit
+Yashiro-VerwaltungKamisato-Clan
+
+
+Nationalität
+MondstadtInazuma
+
+
+Sternbild
+Rubeum Scutum
+
+
+Augenfarbe
+Grünbräunlich
+
+
+Haarfarbe
+Blondrötlich
+
+
+Spezialzubereitung
+"Wärme"
+
+
+
+Verfügbarkeit
+
+Erhaltbar seit
+2. November 2021
+
+
+
+Synchronsprecher
+
+Chinesich
+Pei Zhang (张沛)
+
+
+Japanisch
+Masakazu Morita (森田成一)
+
+
+Koreanisch
+Ryu Seung-gon (류승곤)
+
+
+Englisch
+Christian Banas
+
+
+
+
+
+
+“
+
+Der Haushälter des Kamisato-Clans und ein in Inazuma bekannter Vermittler.
+
+”
+
+
+–Beschreibung im Spiel
+
+Thoma ist eine spielbare Pyro-Figur in Genshin Impact aus Inazuma. 
+Er stammt zwar eigentlich aus Mondstadt, ist aber dennoch der Haushälter des Kamisato-Clans.
+
+Inhaltsverzeichnis
+
+1 Profil
+
+1.1 Aussehen
+1.2 Persönlichkeit
+
+
+2 Kampf
+
+2.1 Aufstiegsmaterialien
+2.2 Basisattribute
+2.3 Talente
+2.4 Talente hochstufen
+2.5 Sternbild
+
+
+3 Verfügbarkeit
+
+3.1 Figurenaktionsgebet
+
+
+
+
+Profil[]
+Aussehen[]
+Thoma stammt aus Mondstadt und ist ein junger Mann mit grünen Augen und unordentlichem erdbeerblondem Haar, das zu einem Pferdeschwanz gebunden ist.
+Thomas Kleidung ist eine Mischung aus westlicher Kleidung mit Teilen von Samurai-Rüstungen. Er trägt eine dekorative, rot-schwarze kurze Jacke über einem schwarzen Hemd, zusammen mit einem Paar silberner Erkennungsmarken, die um seinen Hals hängen. Die geknöpften Manschetten seiner koteähnlichen Ärmel mit Goldbesatz sind mit einem Fleur-de-Lis-Muster gemustert. Auf dem Kopf trägt er ein schwarzes Metall-Stirnband mit goldakzentuierten Hörnern, die dem Maedat (Vorderkamm) eines Kabuto-Helms ähneln. Er trägt einen Göttliches Auge an seinem Gürtel, zusätzlich zu einer Kusazuri (Quaste), die mit dem Wappen des Kamisato-Clans an der anderen Hüfte geschmückt ist. Das gleiche Wappen ist auf den Poleyns seiner stiefelgeschnürten Suneate (Schienbeinschützer) mit Tabi-Schuhen markiert. Außerdem hat er kleine, rote Ohrstecker.
+
+Persönlichkeit[]
+Thoma ist bei den Bürgern als „Helfer“ bekannt – er hilft allen und stellt sicher, dass alle Probleme schnell und friedlich gelöst werden.
+Als Sohn eines Vaters aus Inazuma und einer Mutter aus Mondstadt teilt Thoma die Eigenschaften, die in den Völkern beider Nationen zu sehen sind; Sein Vater legte großen Wert auf Loyalität, während er in Mondstadt aufgewachsen war, was bedeutete, dass er sich leicht unter die meisten Menschen mischen konnte. Er glaubt, dass die Menschen ein gemächliches Leben genießen sollten und kümmert sich nicht besonders um seinen Ruf, auch wenn die Leute schlecht über ihn sprechen. Er ging ursprünglich nach Inazuma, um seinem Vater Löwenzahnwein zu bringen, aber nachdem er über Bord gegangen war, landete er ohne Verbindungen und ohne Mora in Inazuma. Trotz der Gefahren, denen er damals ausgesetzt war, konnte Thoma das Beste aus seiner Situation machen und erlangte schließlich das Vertrauen des Kamisato-Clans. Er ist ein effizienter Arbeiter, der alle Probleme des Kamisato-Clans rechtzeitig löst.
+Er ist dem Kamisato-Clan gegenüber sehr loyal. Trotz seiner lockeren Erscheinung zeigt er keine Gnade gegenüber denen, die die Geschwister Kamisato und die Yashiro-Verwaltung bedrohen. Er nutzt seine Verbindungen nicht für persönliche Zwecke.
+
+Kampf[]
+Aufstiegsmaterialien[]
+
+
+
+Aufstiegs-stufe
+
+Mora
+
+Material zur Verbesserungvon Figuren
+
+RegionaleBesonderheit
+
+AllgemeineAufstiegsmaterialien
+
+
+0 → 1
+
+20.000
+
+1
+
+Leuchtpilz3
+
+3
+
+
+1 → 2
+
+40.000
+
+3
+
+Schwelende Perle2
+
+Leuchtpilz10
+
+15
+
+
+2 → 3
+
+60.000
+
+6
+
+Schwelende Perle4
+
+Leuchtpilz20
+
+12
+
+
+3 → 4
+
+80.000
+
+3
+
+Schwelende Perle8
+
+Leuchtpilz30
+
+18
+
+
+4 → 5
+
+100.000
+
+6
+
+Schwelende Perle12
+
+Leuchtpilz45
+
+12
+
+
+5 → 6
+
+120.000
+
+6
+
+Schwelende Perle20
+
+Leuchtpilz60
+
+24
+
+
+
+
+Gesamtkosten
+
+
+0 → 6
+
+
+
+
+420.000
+
+1
+
+9
+
+9
+
+6
+
+
+
+
+
+
+Schwelende Perle46
+
+Leuchtpilz168
+
+18
+
+30
+
+36
+
+
+
+
+Basisattribute[]
+Die Basisattribute vor und nach jedem Aufstieg:
+
+
+
+
+Aufstiegsstufe
+
+Stufe
+
+Basis-LP
+
+Basis-VTD
+
+Basis-ANG1
+
+Spezialisiertes Attribut2(ANG)
+
+
+0
+
+1
+
+866
+
+63
+
+17
+
+—
+
+
+20
+
+2225
+
+162
+
+43
+
+
+1
+
+20
+
+2872
+
+209
+
+56
+
+—
+
+
+40
+
+4302
+
+313
+
+84
+
+
+2
+
+40
+
+4762
+
+346
+
+93
+
+6,0%
+
+
+50
+
+5478
+
+398
+
+107
+
+
+3
+
+50
+
+6091
+
+443
+
+119
+
+12,0%
+
+
+60
+
+6806
+
+495
+
+133
+
+
+4
+
+60
+
+7266
+
+528
+
+142
+
+12,0%
+
+
+70
+
+7981
+
+580
+
+156
+
+
+5
+
+70
+
+8440
+
+613
+
+165
+
+18,0%
+
+
+80
+
+9156
+
+665
+
+179
+
+
+6/MAX
+
+80
+
+9616
+
+699
+
+188
+
+24,0%
+
+
+90
+
+10331
+
+751
+
+202
+
+
+1 Enthält keinen Waffen-ANG-Wert.
+2 Figuren erhalten ab den 2. Aufstieg ein spezialisiertes Attribut.
+
+
+Talente[]
+
+
+
+Symbol
+
+Name
+
+Typ
+
+
+{{{Standardangriff Symbol}}}
+
+Standardangriff: Schneller Schmetterspeer
+
+Standardangriff
+
+
+Standardangiff:
+Führt bis zu 4 Lanzenstiche hintereinander aus.
+Heftiger Schlag:
+Verbraucht eine gewisse Menge an Ausdauer, sticht geschwind nach vorn und fügt Gegnern in der Bahn Schaden zu.
+Angriff aus dem Fall:
+Schlägt beim Fallen aus der Luft auf den Boden, greift alle Gegner in der Bahn an und verursacht beim Aufkommen Flächenschaden.
+
+
+
+{{{Elementarangriff Symbol}}}
+
+Lodernder Segen
+
+Elementarangriff
+
+
+Thoma benutzt die Spitze seiner Stangenwaffe als Punkt, um Flammen zu kanalisieren und einen Tritt auszuführen, mit dem er Pyro-Flächenschaden verursacht. Erschafft dann einen Schild des lodernden Segens und verleiht Thoma beim auslösen das Pyro-Attribut.
+Die Schildstärke hängt von Thomas max. LP ab.
+Merkmale des Schilds des lodernden Segen:
+-Standardangiff:
+Führt bis zu 4 Lanzenstiche hintereinander aus.
+Heftiger Schlag:
+Verbraucht eine gewisse Menge an Ausdauer, sticht geschwind nach vorn und fügt Gegnern in der Bahn Schaden zu.
+Angriff aus dem Fall:
+Schlägt beim Fallen aus der Luft auf den Boden, greift alle Gegner in der Bahn an und verursacht beim Aufkommen Flächenschaden.
+-Hält bei Pyro-Schaden 250% ab.
+-Addiert die verbleibende Schildstärke beim Erhalten eines neuen Schilds des lodernden Segens hinzu und setzt die Wirkungsdauer zurück.
+Die Schildstärke kann einen bestimmten Anteil der max. LP von Thoma nicht übersteigen.
+
+
+
+{{{Spezialfähigkeit Symbol}}}
+
+Rote Ooyori
+
+Spezialfähigkeit
+
+
+Löst bei Angriffen aktueller Figuren unter Einfluss des Effekts "Brennender Zusammenbruch" aus, verursacht dabei Pyro-Flächenschaden und erschaftt einen Schild des lodernden Segens.
+1s Abklingzeit für "Brennender Zusammenbruch".
+Von der Schildstärke abgesehen sind die Merkmale dieses Schildes identisch mit denen des Schildes der Elementarfähigkeit "Lodernder Segen":
+-Hält bei Pyro-Schaden 250% ab.
+-Addiert die verbleibende Schildstärke beim Erhalten eines neuen Schilds des lodernden Segens hinzu und setzt die Wirkungsdauer zurück.
+Die Schildstärke kann einen bestimmten Anteil der max. LP von Thoma nicht übersteigen.
+
+
+
+{{{Passives Talent (1. Aufstieg) Symbol}}}
+
+Schichtpanzer
+
+Passives Talent (1. Aufstieg)
+
+
+Erhöht die Schildeffizienz aktueller Figuren beim Erhalten oder Aktualisieren von Schild des lodernden Segens 6s lang um 5%.
+0,3s Abklingzeit, 5-fach stapelbar.
+
+
+
+{{{Passives Talent (4. Aufstieg) Symbol}}}
+
+Flammenangriff
+
+Passives Talent (4. Aufstieg)
+
+
+Erhöht den mit brennenden Zusammenbruch von Rote Ooyori verursachten Schaden in Höhe von 2,2% der max. LP von Thoma.
+
+
+{{{Handliches passives Talent Symbol}}}
+
+Brassenjagd
+
+Handliches passives Talent
+
+
+Bringt beim erfolgreichen Angeln in Inazuma dank Thomas Hilfe mit einer Wahrscheinlichkeit von 20% den 2-fachen Betrag.
+
+
+
+Talente hochstufen[]
+
+
+
+Talent-stufe
+
+Aufstiegs-stufe
+
+Mora
+
+AllgemeineAufstiegs-materialien
+
+Material zur Verbesserungvon Talenten
+
+WöchentlicheBoss-materialien
+
+KronederWeisheit
+
+
+1 → 2
+
+2✦
+
+12.500 (1x)37.500 (3x)
+
+6 (1x)18 (3x)
+
+Lehren der „Vergänglichkeit“3 (1x)9 (3x)
+
+
+
+
+
+
+2 → 3
+
+3✦
+
+17.500 (1x)52.500 (3x)
+
+3 (1x)9 (3x)
+
+Anleitung zur „Vergänglichkeit“2 (1x)6 (3x)
+
+
+
+
+
+
+3 → 4
+
+25.000 (1x)75.000 (3x)
+
+4 (1x)12 (3x)
+
+Anleitung zur „Vergänglichkeit“4 (1x)12 (3x)
+
+
+
+
+
+
+4 → 5
+
+4✦
+
+30.000 (1x)90.000 (3x)
+
+6 (1x)18 (3x)
+
+Anleitung zur „Vergänglichkeit“6 (1x)18 (3x)
+
+
+
+
+
+
+5 → 6
+
+37.500 (1x)112.500 (3x)
+
+9 (1x)27 (3x)
+
+Anleitung zur „Vergänglichkeit“9 (1x)27 (3x)
+
+
+
+
+
+
+6 → 7
+
+5✦
+
+120.000 (1x)360.000 (3x)
+
+4 (1x)12 (3x)
+
+Philosophie der „Vergänglichkeit“4 (1x)12 (3x)
+
+Höllenfeuerfalter1 (1x)3 (3x)
+
+
+
+
+7 → 8
+
+260.000 (1x)780.000 (3x)
+
+6 (1x)18 (3x)
+
+Philosophie der „Vergänglichkeit“6 (1x)18 (3x)
+
+Höllenfeuerfalter1 (1x)3 (3x)
+
+
+
+
+8 → 9
+
+6✦
+
+450.000 (1x)1.350.000 (3x)
+
+9 (1x)27 (3x)
+
+Philosophie der „Vergänglichkeit“12 (1x)36 (3x)
+
+Höllenfeuerfalter2 (1x)6 (3x)
+
+
+
+
+9 → 10
+
+700.000 (1x)2.100.000 (3x)
+
+12 (1x)36 (3x)
+
+Philosophie der „Vergänglichkeit“16 (1x)48 (3x)
+
+Höllenfeuerfalter2 (1x)6 (3x)
+
+1 (1x)3 (3x)
+
+
+
+
+Gesamtkosten
+
+
+1 → 10
+
+
+
+
+1.652.500 (1x)4.957.500 (3x)
+
+Lehren der „Vergänglichkeit“6 (1x)18 (3x)
+
+Anleitung zur „Vergänglichkeit“22 (1x)66 (3x)
+
+Philosophie der „Vergänglichkeit“31 (1x)93 (3x)
+
+3 (1x)9 (3x)
+
+21 (1x)63 (3x)
+
+38 (1x)114 (3x)
+
+Höllenfeuerfalter6 (1x)18 (3x)
+
+1 (1x)3 (3x)
+
+
+
+
+Sternbild[]
+
+
+
+Stufe
+
+Symbol
+
+Name
+
+Effekt
+
+
+1
+
+{{{1. Sternbild Stufe Bild}}}
+
+Kameradschaftliche Pflichten
+
+Verkürzt die beim Schützen vor Angriffen durch Schild des lodernden Segens für Figuren außer Thoma die Abklingzeit von Thomas eigenem Lodernder Segen um 3s und die Abklingzeit von Rote Ooyori um 3s.
+20s Abklingzeit.
+
+
+
+2
+
+{{{2. Sternbild Stufe Bild}}}
+
+Beflissener Assistent
+
+Verlängert die Dauer von Rote Ooyori um 3s.
+
+
+3
+
+{{{3. Sternbild Stufe Bild}}}
+
+Bestimmtheit vor dem Feind
+
+Erhöht die Stufe der Fähigkeit Lodernder Segen um 3.
+Höchststufe 15.
+
+
+
+4
+
+{{{4. Sternbild Stufe Bild}}}
+
+Längerfristige Planung
+
+Stellt Thoma nach Anwendung von Rote Ooyori 15 Punkte Elementarenergie wieder her.
+
+
+5
+
+{{{5. Sternbild Stufe Bild}}}
+
+Weitreichende Flammen
+
+Erhöht die Stufe der Fähigkeit Rote Ooyori um 3.
+Höchststufe 15.
+
+
+
+6
+
+{{{6. Sternbild Stufe Bild}}}
+
+Brennendes Herz
+
+Erhöht beim Erhalten oder Aktualisiern des Schilds von Lodernder Segen den mit Standardangriffen, heftigen Schlägen und Angriffen aus dem Fall aller Truppenmitglieder verursachten Schaden 6s lang um 15%.
+
+Jede Aktivierung einer Konstellation benötigt eine  Stella Fortuna.
+
+Verfügbarkeit[]
+Standardgebet Wanderlust (Dauerhaft)
+Anfängergebet (permanent bis alle 20 Wünsche gemacht wurden)
+in allen Figurenaktionsgebeten
+Figurenaktionsgebet[]
+Augenblick des Erblühens (2. 11. 2021)
+Violette Blütenwolken (16. 2. 2022)
+
+
+

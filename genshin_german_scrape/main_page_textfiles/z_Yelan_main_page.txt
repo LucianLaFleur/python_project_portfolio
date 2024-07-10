@@ -1,0 +1,771 @@
+
+
+
+Übersicht
+
+Figurenhintergrund
+
+Stimme
+
+Kleidung
+
+Kanne der Vergänglichkeit
+
+Galerie
+
+
+YelanOrchidee im tiefen Tal
+
+
+
+Seltenheit
+Göttliches Auge
+
+
+
+
+
+
+
+
+Name
+
+Andere Namen
+Eine mysteriöse Person, die behauptet, für den Rat für Allgemeine Angelegenheiten zu arbeiten
+
+
+
+Informationen
+
+Geschlecht
+Weiblich
+
+
+Geburtstag
+20.April
+
+
+Zugehörigkeit
+Rat für Allgemeine Angelegenheiten
+
+
+Nationalität
+Liyue
+
+
+Sternbild
+Umbrabilis Orchis
+
+
+Augenfarbe
+Grün
+
+
+Haarfarbe
+Schwarz mit blau zulaufenden Spitzen
+
+
+Spezialzubereitung
+Morgentaugarnelen
+
+
+
+Synchronsprecher
+
+Englisch
+Laura Post
+
+
+
+
+
+
+Stufe
+
+Symbol
+
+Name
+
+Effekt
+
+
+1
+
+{{{1. Sternbild Stufe Bild}}}
+
+Falle in der Falle
+
+Ermöglicht 1 weitere Anwendung von Seil der Todesbotin
+
+
+2
+
+{{{2. Sternbild Stufe Bild}}}
+
+Viel hilft viel
+
+Schießt beim abgestimmten Angriff von " Würfel der Mystik " einen zusätzlichen Wasserpfeil ab, der Hydro-Schaden in Höhe von 14% der max. LP von Yelan verursacht.
+1,8 s Abklingzeit
+
+
+
+3
+
+{{{3. Sternbild Stufe Bild}}}
+
+Gezinkter Würfel
+
+Erhöht die Stufe der Fähigkeit Würfel des Strategems um 3.
+Höchststufe 15.
+
+
+
+4
+
+{{{4. Sternbild Stufe Bild}}}
+
+Täuschung des Schwindlers
+
+Erhöht für jeden von dem " todbringenden Seil " markiertem Gegner bei der Explosion die max. LP aller Truppenmitglieder 25 s lang um 10 %. Auf diese Weise können die max. LP um bis zu 40 % erhöht werden.
+
+
+5
+
+{{{5. Sternbild Stufe Bild}}}
+
+Tricks des Bankhalters
+
+Erhöht die Stufe der Fähigkeit seil der Todesbotin um 3.
+Höchststufe 15.
+
+
+
+6
+
+{{{6. Sternbild Stufe Bild}}}
+
+Alles dem Gewinner
+
+{{{6. Sternbild Stufe Beschreibung}}}
+
+Yelan ist eine spielbare Hydro-Figur in Genshin Impact aus Liyue. Ihr Banner wurde in der Version 2.7. vorgestellt. 
+Sie behauptet, für den Rat für allgemeine Angelegenheiten zu arbeiten.
+
+Inhaltsverzeichnis
+
+1 Offizielle Einführung
+
+1.1 Die Welt ist unermesslich und unendlich, die Aussteigerin kommt und geht, wie es ihr gefällt
+
+
+2 Kampf
+
+2.1 Aufstiegsmaterialien
+2.2 Talente
+2.3 Talent hochstufen
+
+
+3 Andere Sprachen
+4 Änderungsverlauf
+5 Navigation
+
+
+Offizielle Einführung[]
+Die Welt ist unermesslich und unendlich, die Aussteigerin kommt und geht, wie es ihr gefällt[]
+
+
+“
+
+„Oh, du bist auf der Suche nach Yelan? Hmm, ich würde dir gern vorschlagen, sie wie eine gewöhnliche Person zu behandeln, aber wenn du das tust, ist es leicht, die Kontrolle über die Verhandlungen zu verlieren. Es gibt einige Dinge, die wirklich von ihrem Eindruck von dir abhängen.“
+
+”
+
+
+–Yanfei
+
+Die Identität von Yelan ist schon immer ein Rätsel gewesen.
+Wie ein Phantom erscheint sie oft in verschiedenen Gestalten im Zentrum der Ereignisse und verschwindet wieder, bevor der Sturm aufhört.
+Die Menschen, die in Schwierigkeiten stecken, freuen sich, ihr zu begegnen. Aus irgendeinem Grund glauben die meisten von ihnen, dass sie ihnen helfen wird, und wenn nicht, wollen sie sie zumindest als Verbündete haben.
+Das Problem ist jedoch, dass ihre Gegner die gleiche Idee haben.
+Jeder von ihnen hat eine Yelan kennengelernt, die einen anderen Namen und eine andere Identität trägt, und jeder von ihnen glaubt, dass er mit ihr eine Partnerschaft eingehen kann. Doch alle werden im Unklaren gelassen.
+Wem will sie helfen? Wann wird sie die Wahrheit sagen?
+Sobald sie handelt und eingreift, gibt es von ihr kein Wort der Wahrheit mehr.
+Wenn sie ihre wahre Identität preisgibt und die Wahrheit ausspricht, haben diejenigen, die sich nach Antworten sehnen, vielleicht keine Chance, sie zu hören.
+
+Kampf[]
+Aufstiegsmaterialien[]
+
+
+
+Aufstiegs-stufe
+
+Mora
+
+Material zur Verbesserungvon Figuren
+
+RegionaleBesonderheit
+
+AllgemeineAufstiegsmaterialien
+
+
+0 → 1
+
+20.000
+
+1
+
+3
+
+3
+
+
+1 → 2
+
+40.000
+
+3
+
+2
+
+10
+
+15
+
+
+2 → 3
+
+60.000
+
+6
+
+4
+
+20
+
+12
+
+
+3 → 4
+
+80.000
+
+3
+
+8
+
+30
+
+18
+
+
+4 → 5
+
+100.000
+
+6
+
+12
+
+45
+
+12
+
+
+5 → 6
+
+120.000
+
+6
+
+20
+
+60
+
+24
+
+
+
+
+Gesamtkosten
+
+
+0 → 6
+
+
+
+
+420.000
+
+1
+
+9
+
+9
+
+6
+
+
+
+
+
+
+46
+
+168
+
+18
+
+30
+
+36
+
+
+
+
+Talente[]
+
+
+
+Symbol
+
+Name
+
+Typ
+
+
+
+
+Bogen der Unterströmung
+
+Standardangriff
+
+
+Standardangriff:
+Führt bis zu 4 Pfeilschüsse hintereinander aus.
+Heftiger Schlag:
+Führt einen gezielten Schuss mit höherem Schaden und höherer Genauigkeit aus. Konzentriert das fließende Wasser während des Zielens an der Pfeilspitze, die voll aufgeladen Hydro-Schaden verursacht.
+Durchstoß:
+5s nach Verlassen des Kampfes erhält Yelan den Zustand "Durchstoß", der ihre Aufladedauer beim nächsten voll aufgeladenen gezielten Schuss um 80% verringert und den Pfeil beim Schießen des voll aufgeladenen Schusses in einen "Durchstoßpfil" verwandelt, der basierend auf Yelans max. LP Hydro-Flächenschaden verursacht.
+Angriff aus dem Fall:
+Schießt in der Luft einen Pfeilregen ab, trifft schnell auf dem Boden auf und verursacht dort Flächenschaden.
+
+
+
+
+
+Seil der Todesbotin
+
+Elementarangriff
+
+
+Yelan bewegt sich schnell mit ihrem "todbringenden Seil" in der Hand, dass alle Gegner in ihrer Bahn verknüpft und markiert. Nach der schnellen Bewegung explodiert das "todbringende Seil", wobei es den markierten Gegnern Hydro-Schaden basierend auf Yelans max.LP zufügt.
+
+
+Datei:Würfel des Strategens
+
+Würfel des Strategens
+
+Spezialfähigkeit
+
+
+Verursacht Hdro-Flächenschaden und erschafft einen "Würfel der Mystik", der beim Kampf Unterstützung leistet.
+
+
+{{{Passives Talent (1. Aufstieg) Symbol}}}
+
+{{{Passives Talent (1. Aufstieg) Name}}}
+
+Passives Talent (1. Aufstieg)
+
+
+{{{Passives Talent (1. Aufstieg) Beschreibung}}}
+
+
+{{{Passives Talent (4. Aufstieg) Symbol}}}
+
+{{{Passives Talent (4. Aufstieg) Name}}}
+
+Passives Talent (4. Aufstieg)
+
+
+{{{Passives Talent (4. Aufstieg) Beschreibung}}}
+
+
+{{{Handliches passives Talent Symbol}}}
+
+{{{Handliches passives Talent Name}}}
+
+Handliches passives Talent
+
+
+{{{Handliches passives Talent Beschreibung}}}
+
+
+
+Talent hochstufen[]
+
+
+
+Talent-stufe
+
+Aufstiegs-stufe
+
+Mora
+
+AllgemeineAufstiegs-materialien
+
+Material zur Verbesserungvon Talenten
+
+WöchentlicheBoss-materialien
+
+KronederWeisheit
+
+
+1 → 2
+
+2✦
+
+12.500 (1x)37.500 (3x)
+
+6 (1x)18 (3x)
+
+3 (1x)9 (3x)
+
+
+
+
+
+
+2 → 3
+
+3✦
+
+17.500 (1x)52.500 (3x)
+
+3 (1x)9 (3x)
+
+2 (1x)6 (3x)
+
+
+
+
+
+
+3 → 4
+
+25.000 (1x)75.000 (3x)
+
+4 (1x)12 (3x)
+
+4 (1x)12 (3x)
+
+
+
+
+
+
+4 → 5
+
+4✦
+
+30.000 (1x)90.000 (3x)
+
+6 (1x)18 (3x)
+
+6 (1x)18 (3x)
+
+
+
+
+
+
+5 → 6
+
+37.500 (1x)112.500 (3x)
+
+9 (1x)27 (3x)
+
+9 (1x)27 (3x)
+
+
+
+
+
+
+6 → 7
+
+5✦
+
+120.000 (1x)360.000 (3x)
+
+4 (1x)12 (3x)
+
+4 (1x)12 (3x)
+
+1 (1x)3 (3x)
+
+
+
+
+7 → 8
+
+260.000 (1x)780.000 (3x)
+
+6 (1x)18 (3x)
+
+6 (1x)18 (3x)
+
+1 (1x)3 (3x)
+
+
+
+
+8 → 9
+
+6✦
+
+450.000 (1x)1.350.000 (3x)
+
+9 (1x)27 (3x)
+
+12 (1x)36 (3x)
+
+2 (1x)6 (3x)
+
+
+
+
+9 → 10
+
+700.000 (1x)2.100.000 (3x)
+
+12 (1x)36 (3x)
+
+16 (1x)48 (3x)
+
+2 (1x)6 (3x)
+
+1 (1x)3 (3x)
+
+
+
+
+Gesamtkosten
+
+
+1 → 10
+
+
+
+
+1.652.500 (1x)4.957.500 (3x)
+
+6 (1x)18 (3x)
+
+22 (1x)66 (3x)
+
+31 (1x)93 (3x)
+
+3 (1x)9 (3x)
+
+21 (1x)63 (3x)
+
+38 (1x)114 (3x)
+
+6 (1x)18 (3x)
+
+1 (1x)3 (3x)
+
+
+
+
+Andere Sprachen[]
+
+
+
+Sprache
+
+Name
+
+Wörtliche Bedeutung
+
+
+Deutsch
+
+Yelan
+
+—
+Englisch
+Yelan
+—
+Chinesisch(vereinfacht)
+夜兰Yè lán
+—
+Chinesisch(traditionell)
+夜蘭Yè lán
+—
+Koreanisch
+야란Yalan
+—
+Spanisch
+Yelan
+—
+Französisch
+Yelan
+—
+Russisch
+Е ЛаньE Lan’
+—
+Thailändisch
+Yelan
+—
+Vietnamesisch
+Yelan
+—
+Indonesisch
+Yelan
+—
+Portugiesisch
+Yelan
+—
+
+Änderungsverlauf[]
+Released in Version 2.7[Create New History]
+Navigation[]
+
+
+
+                              Figuren
+
+
+    spielbare Figuren ▼ ▲
+
+
+
+
+
+Fremde
+
+5★
+
+
+
+
+Mondstadt
+
+4★
+
+
+
+
+5★
+
+
+
+
+Liyue
+
+4★
+
+
+
+
+5★
+
+
+
+
+Inazuma
+
+4★
+
+
+
+
+5★
+
+
+
+
+Sumeru
+
+4★
+
+
+
+
+5★
+
+
+
+
+Snezhnaya
+
+5★
+
+
+
+
+
+    kommende Figuren ▼ ▲
+
+
+
+
+
+Figuren, die von Hoyoverse als kommende spielbare Figuren angekündigt wurden.
+
+
+Khaenri'ah
+
+
+
+
+Sumeru
+
+
+
+
+
+    erwähnte Figuren ▼ ▲
+
+
+
+
+
+wichtige Figuren, die im Spiel, Manga oder anderen offiziellen Medien erwähnt oder gesehen werden. Es wird spekuliert, dass sie in Zukunft spielbare Figuren werden.
+
+
+Mondstadt
+
+Varka • Alice
+
+
+Liyue
+
+Baizhu • Yaoyao
+
+
+Sumeru
+
+Alhaitham • Dehya • Nahida • Rana
+
+
+Fontaine
+
+Lyney • Lynette
+
+
+Natlan
+
+Iansan
+
+
+Snezhnaya
+
+Signora • Scaramouche • Pulcinella • Dottore • Pantalone • Pierro • Sandrone
+
+
+
+
+

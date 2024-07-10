@@ -1,3 +1,5 @@
+last snapshot : 7/10/2024
+
 unfinished documentation
 [NYI] - purpose document for TV trope single-shot scraper
 [NYI] - purpose document for Genshin text project

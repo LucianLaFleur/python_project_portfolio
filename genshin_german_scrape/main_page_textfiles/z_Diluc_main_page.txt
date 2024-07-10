@@ -1,0 +1,880 @@
+
+
+
+
+
+
+
+
+Stub
+
+Dieser Artikel ist ein Stub. Du kannst dem Genshin Impact Wiki helfen, indem du ihn erweiterst.
+
+
+
+
+Übersicht
+
+Figurenhintergrund
+
+Stimme
+
+Kleidung
+
+Kanne der Vergänglichkeit
+
+Galerie
+
+{{Infobox Figur
+|Bild=
+|Seltenheit=5
+|Waffe Bild=
+|Göttliches Auge Bild= 
+|Chinesischer Name=
+|Japanischer Name=
+|Koreanischer Name=
+|andere Namen=
+|voller Name=Diluc Ragnvindr
+|Geschlecht=Male
+|Geburtstag=30. April 
+|Zugehörigkeit=Ordo Favonius (ehemalig)Weingut Morgenröte
+|Nationalität=Mondstadt
+|Sternbild=Noctua
+|Augenfarbe=Rot
+|Haarfarbe=Rot
+|Verwandtschaft=Kaeya (Adoptivbruder)
+|Spezialzubereitung=
+|Dialog-Belohnung=
+|Erhaltbar durch=StandardgebetAnfängergebetFigurenaktionsgebet
+|Veröffentlichungsdatum=28. September 2020
+|Synchronsprecher/Chinesisch=[Yang Ma (马洋)][1]
+|Synchronsprecher/Japanisch=[Kensho Ono (小野 賢章)][2]
+|Synchronsprecher/Koreanisch=[Choi SeungHoon (최승훈)][3]
+|Synchronsprecher/Englisch= [Sean Chiplock][2]
+
+
+
+“
+
+Der reiche Junggeselle, der den größten Teil der Getränkewirtschaft in Mondstadt kontrolliert. Sein Reichtum, seine Eleganz und seine Fähigkeiten sind bewundernswert.
+
+”
+
+
+–Figurenvorstellung im Spiel
+
+Diluc Ragnvindr ist eine spielbare Pyro Figur in Genshin Impact.
+Diluc wurde in den wohlhabenden Ragnvindr-Clan hineingeboren und ist der derzeitige Besitzer des Weinguts Morgenröte. Er ist in der Mondstädter Gesellschaft hoch angesehener Adliger. Obwohl ein vergangener Vorfall dazu führte, dass sich seine Wege mit den Rittern des Ordo Favonius trennten, beschützt er Mondstadt weiterhin auf seine eigene Weise.[4]
+
+Inhaltsverzeichnis
+
+1 Profil
+
+1.1 Aussehen
+1.2 Persönlichkeit
+
+
+2 Kampf
+
+2.1 Talente
+2.2 Sternbild
+2.3 Aufstiegsmaterialien
+2.4 Basisattribute
+
+
+3 Änderungsverlauf
+4 Quellen
+5 Navigation
+
+
+Profil[]
+Aussehen[]
+Diluc ist ein großer, schlanker Mann mit blasser Haut, roten Augen und leuchtend rotem Haar, das er zu einem niedrigen Pferdeschwanz trägt, der ihm bis zur Mitte des Rückens reicht. Sein Gesichtsausdruck lässt ihn meist streng, verärgert oder unbeeindruckt erscheinen.
+Diluc trägt eine weiße Hemd und ein schwarzes Halstuch mit einem roten Edelstein. Darüber zieht er einen halblangen, dunkelbraunen, offenden  Mantel an. Er trägt eine schwarze Hose, die am rechten Oberschenkel mit Ketten verziert ist, während sein Göttliches Auge an seinem Gürtel befestigt ist. Diluc trägt außerdem dunkelbraune Stiefel mit Stulpen und ein Paar schwarze Handschuhe, an die er immer wieder zu recht rückt.
+
+Persönlichkeit[]
+Kaeya nennt sich und Diluc „Antihelden mit Einstellungsproblemen“. Er beschloss, die Sache selbst in die Hand zu nehmen, indem er zu seiner Bestürzung und Verlegenheit zum „Helden der dunklen Nacht“ wurde, um die Leute von Mondstadt zu beschützen. 
+Diluc war einst ein idealer junger Mann, der sich seiner Arbeit mit Knights of Favonius verschrieben hatte. Nach dem vorzeitigen Tod seines Vaters infolge des Einsatzes einer Täuschung, zusammen mit Inspektor Eroch, der Diluc befahl, den Vorfall zu vertuschen, erschütterte sein Vertrauen in die Ritter und er verließ die Organisation. Selbst nachdem Eroch von den Rittern als Verräter ausgeschlossen wurde, hegt er immer noch Groll gegen sie. Er behauptet, dass die Ritterzu lange brauchen, um die Arbeit zu erledigen, obwohl er immer noch diejenigen schätzt, die sich die Mühe geben, wie Lisa und Jean. 
+Als er Mitglied der Ritter war, verehrte er seinen Vater Crepus. Von seinem Vater gelobt zu werden, machte ihn glücklicher als Ruhm und alles andere, und Crepus forderte Diluc auf, seinen Pflichten treu zu bleiben. Nach dem Tod seines Vaters unterdrückt er sich selbst. Obwohl er durch seine Sprache bitter und mürrisch rüberkommt, hat er eine sanfte, zärtliche und bescheidene Natur. In seiner Kindheit war Diluc ein unbeschwertes und fröhliches Wesen, im Gegensatz zu ihm jetzt.
+Diluc mag keinen Alkohol, da er seinen Geschmack nicht mag und dass er seinen Verstand trübt, wenn er versucht zu arbeiten. Er bevorzugt alkoholfreie Getränke wie Traubensaft und Apfelwein, die er nach seiner Rückkehr nach Mondstadt entwickelt hatte. Vielen scheint dies jedoch nicht bekannt zu sein, was höchstwahrscheinlich darauf zurückzuführen ist, dass er der derzeitige Eigentümer von Mondstadts größtem Weinproduzenten ist. Er ist sogar überrascht, als er erfährt, dass auch Diona Alkohol verabscheut, nachdem sie zunächst geglaubt hatte, er sei der einzige Barkeeper in Mondstadt, der keinen Alkohol mag.[5] Er neigt auch dazu, sich von seinen Besitztümern zu trennen, die er nicht mehr benötigt, wie zum Beispiel dem Privathaus seines Vaters.
+
+Kampf[]
+Talente[]
+
+
+
+Symbol
+
+Name
+
+Typ
+
+
+
+
+Gehärteter Stahl
+
+Standardangriff
+
+
+Standardangriff
+Führt bis zu 4 Schwünge mit dem Schwert hintereinander aus.
+Heftiger Schlag
+Verbraucht fortlaufend Ausdauer und führt mehrere Hiebe aus. Schwingt das Schwert am Ende mit besonders großer Wucht.
+Angriff aus dem Fall
+Schlägt beim Fallen aus der Luft auf den Boden, greift alle Gegner in der Bahn an und verursacht beim Aufkommen Flächenschaden.
+
+
+
+
+
+Sengende Klinge
+
+Elementarangriff
+
+
+Wirbelt das Großschwert, schlägt nach vorn und verursacht Pyro Schaden.
+Kann bis zu 3-mal hintereinander angewendet werden. Bei nciht fortgeführter Anwendung innerhalb kurzer Zeit beginnt eine Abklingphase.
+
+
+
+
+
+Dämmerung
+
+Spezialfähigkeit
+
+
+Erschafft Flammen, die Gegner in der Umgebung zurückstoßen und Pyro-Schaden verursachen. Die Flammen sammeln sich auf der Waffe und bilden einen Feuervogel, der nach vorn fliegt, Gegnern in seiner Bahn hohen Pyro-Schaden zufügt und am Ende des Fluges bei einer Explosion hohen Pyro-Flächenschaden verursacht. Die Flammen auf Dilucs Waffe verleihen ihm die Pyro Kraft.
+
+
+
+
+Ruhelos
+
+Passives Talent (1. Aufstieg)
+
+
+Verringert Dilucs Ausdauerverbrauch für heftige Schöge um 50 % und verlängert die maximale Wirkungsdauer um 3 Sekunden.
+
+
+
+
+Flammende Flügel
+
+Passives Talent (4. Aufstieg)
+
+
+Verlängert die Zeit, die Dämmerung das Pyro Attribut verleiht, um 4 Sekunden und erhöht Dilucs Pyro Schaden während der Wirkungsdauer des Effekts um 20 %.
+
+
+
+
+Tradition der Dämmerung
+
+Handliches passives Talent
+
+
+Gibt beim Schmieden von Zweihändern 15 % des verbrauchten Erzes zurück.
+
+
+
+
+Talent-stufe
+
+Aufstiegs-stufe
+
+Mora
+
+AllgemeineAufstiegs-materialien
+
+Material zur Verbesserungvon Talenten
+
+WöchentlicheBoss-materialien
+
+KronederWeisheit
+
+
+1 → 2
+
+2✦
+
+12.500 (1x)37.500 (3x)
+
+6 (1x)18 (3x)
+
+3 (1x)9 (3x)
+
+
+
+
+
+
+2 → 3
+
+3✦
+
+17.500 (1x)52.500 (3x)
+
+3 (1x)9 (3x)
+
+2 (1x)6 (3x)
+
+
+
+
+
+
+3 → 4
+
+25.000 (1x)75.000 (3x)
+
+4 (1x)12 (3x)
+
+4 (1x)12 (3x)
+
+
+
+
+
+
+4 → 5
+
+4✦
+
+30.000 (1x)90.000 (3x)
+
+6 (1x)18 (3x)
+
+6 (1x)18 (3x)
+
+
+
+
+
+
+5 → 6
+
+37.500 (1x)112.500 (3x)
+
+9 (1x)27 (3x)
+
+9 (1x)27 (3x)
+
+
+
+
+
+
+6 → 7
+
+5✦
+
+120.000 (1x)360.000 (3x)
+
+4 (1x)12 (3x)
+
+4 (1x)12 (3x)
+
+1 (1x)3 (3x)
+
+
+
+
+7 → 8
+
+260.000 (1x)780.000 (3x)
+
+6 (1x)18 (3x)
+
+6 (1x)18 (3x)
+
+1 (1x)3 (3x)
+
+
+
+
+8 → 9
+
+6✦
+
+450.000 (1x)1.350.000 (3x)
+
+9 (1x)27 (3x)
+
+12 (1x)36 (3x)
+
+2 (1x)6 (3x)
+
+
+
+
+9 → 10
+
+700.000 (1x)2.100.000 (3x)
+
+12 (1x)36 (3x)
+
+16 (1x)48 (3x)
+
+2 (1x)6 (3x)
+
+1 (1x)3 (3x)
+
+
+
+
+Gesamtkosten
+
+
+1 → 10
+
+
+
+
+1.652.500 (1x)4.957.500 (3x)
+
+6 (1x)18 (3x)
+
+22 (1x)66 (3x)
+
+31 (1x)93 (3x)
+
+3 (1x)9 (3x)
+
+21 (1x)63 (3x)
+
+38 (1x)114 (3x)
+
+6 (1x)18 (3x)
+
+1 (1x)3 (3x)
+
+
+Sternbild[]
+
+
+
+Stufe
+
+Symbol
+
+Name
+
+Effekt
+
+
+1
+
+{{{1. Sternbild Stufe Bild}}}
+
+{{{1. Sternbild Stufe Name}}}
+
+{{{1. Sternbild Stufe Beschreibung}}}
+
+
+2
+
+{{{2. Sternbild Stufe Bild}}}
+
+{{{2. Sternbild Stufe Name}}}
+
+{{{2. Sternbild Stufe Beschreibung}}}
+
+
+3
+
+{{{3. Sternbild Stufe Bild}}}
+
+{{{3. Sternbild Stufe Name}}}
+
+{{{3. Sternbild Stufe Beschreibung}}}
+
+
+4
+
+{{{4. Sternbild Stufe Bild}}}
+
+{{{4. Sternbild Stufe Name}}}
+
+{{{4. Sternbild Stufe Beschreibung}}}
+
+
+5
+
+{{{5. Sternbild Stufe Bild}}}
+
+{{{5. Sternbild Stufe Name}}}
+
+{{{5. Sternbild Stufe Beschreibung}}}
+
+
+6
+
+{{{6. Sternbild Stufe Bild}}}
+
+{{{6. Sternbild Stufe Name}}}
+
+{{{6. Sternbild Stufe Beschreibung}}}
+
+Jede Aktivierung einer Konstellation benötigt eine  Stella Fortuna.
+
+Aufstiegsmaterialien[]
+
+
+
+Aufstiegs-stufe
+
+Mora
+
+Material zur Verbesserungvon Figuren
+
+RegionaleBesonderheit
+
+AllgemeineAufstiegsmaterialien
+
+
+0 → 1
+
+20.000
+
+1
+
+3
+
+3
+
+
+1 → 2
+
+40.000
+
+3
+
+2
+
+10
+
+15
+
+
+2 → 3
+
+60.000
+
+6
+
+4
+
+20
+
+12
+
+
+3 → 4
+
+80.000
+
+3
+
+8
+
+30
+
+18
+
+
+4 → 5
+
+100.000
+
+6
+
+12
+
+45
+
+12
+
+
+5 → 6
+
+120.000
+
+6
+
+20
+
+60
+
+24
+
+
+
+
+Gesamtkosten
+
+
+0 → 6
+
+
+
+
+420.000
+
+1
+
+9
+
+9
+
+6
+
+
+
+
+
+
+46
+
+168
+
+18
+
+30
+
+36
+
+
+Basisattribute[]
+Die Basisattribute vor und nach jedem Aufstieg:
+
+
+
+
+Aufstiegsstufe
+
+Stufe
+
+Basis-LP
+
+Basis-VTD
+
+Basis-ANG1
+
+Spezialisiertes Attribut2()
+
+
+0
+
+1
+
+
+
+
+
+
+
+—
+
+
+20
+
+
+
+
+
+
+
+
+1
+
+20
+
+
+
+
+
+
+
+—
+
+
+40
+
+
+
+
+
+
+
+
+2
+
+40
+
+
+
+
+
+
+
+
+
+
+50
+
+
+
+
+
+
+
+
+3
+
+50
+
+
+
+
+
+
+
+
+
+
+60
+
+
+
+
+
+
+
+
+4
+
+60
+
+
+
+
+
+
+
+
+
+
+70
+
+
+
+
+
+
+
+
+5
+
+70
+
+
+
+
+
+
+
+
+
+
+80
+
+
+
+
+
+
+
+
+6/MAX
+
+80
+
+
+
+
+
+
+
+
+
+
+90
+
+
+
+
+
+
+
+
+1 Enthält keinen Waffen-ANG-Wert.
+2 Figuren erhalten ab den 2. Aufstieg ein spezialisiertes Attribut.
+
+Änderungsverlauf[]
+[Create New History]
+Quellen[]
+
+
+
+↑ [(CN) Genshin Impact - offizielle Figurenseite]
+
+↑ 2,0 2,1 [(EN & JP) Facebook - Ankündigung zu den Synchronsprechern]
+
+↑ [(KR) Twitter - Ankündigung zu den Synchronsprechern]
+
+↑ Beschreibung auf der offiziellen Website: Diluc
+
+↑ Dilucs Stimme: Über Diona
+
+
+
+Navigation[]
+
+
+
+                              Figuren
+
+
+    spielbare Figuren ▼ ▲
+
+
+
+
+
+Fremde
+
+5★
+
+
+
+
+Mondstadt
+
+4★
+
+
+
+
+5★
+
+
+
+
+Liyue
+
+4★
+
+
+
+
+5★
+
+
+
+
+Inazuma
+
+4★
+
+
+
+
+5★
+
+
+
+
+Sumeru
+
+4★
+
+
+
+
+5★
+
+
+
+
+Snezhnaya
+
+5★
+
+
+
+
+
+    kommende Figuren ▼ ▲
+
+
+
+
+
+Figuren, die von Hoyoverse als kommende spielbare Figuren angekündigt wurden.
+
+
+Khaenri'ah
+
+
+
+
+Sumeru
+
+
+
+
+
+    erwähnte Figuren ▼ ▲
+
+
+
+
+
+wichtige Figuren, die im Spiel, Manga oder anderen offiziellen Medien erwähnt oder gesehen werden. Es wird spekuliert, dass sie in Zukunft spielbare Figuren werden.
+
+
+Mondstadt
+
+Varka • Alice
+
+
+Liyue
+
+Baizhu • Yaoyao
+
+
+Sumeru
+
+Alhaitham • Dehya • Nahida
+
+
+Fontaine
+
+Lyney • Lynette
+
+
+Natlan
+
+Iansan
+
+
+Snezhnaya
+
+Signora • Scaramouche • Pulcinella • Dottore • Pantalone • Pierro • Sandrone
+
+
+
+
+

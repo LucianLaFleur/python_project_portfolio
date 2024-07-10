@@ -1,0 +1,940 @@
+
+
+
+
+
+
+
+
+Stub
+
+Dieser Artikel ist ein Stub. Du kannst dem Genshin Impact Wiki helfen, indem du ihn erweiterst.
+
+
+
+
+Übersicht
+
+Figurenhintergrund
+
+Stimme
+
+Kleidung
+
+Kanne der Vergänglichkeit
+
+Galerie
+
+
+
+Razor
+
+
+
+
+
+
+
+
+Seltenheit
+Waffe
+Göttliches Auge
+
+
+
+
+
+
+
+
+
+Informationen
+
+Geschlecht
+Männlich
+
+
+Geburtstag
+9. September
+
+
+Nationalität
+Mondstadt
+
+
+Sternbild
+Lupus Minor
+
+
+
+Synchronsprecher
+
+Chinesich
+[][1]
+
+
+Japanisch
+[][2]
+
+
+Koreanisch
+[][3]
+
+
+Englisch
+[][2]
+
+
+
+
+
+
+“
+
+Ein Junge, der zusammen mit Wölfen in Wolfenlauf bei Mondstadt weit ab von den Menschen lebt. Seine Instinkte sind scharf und seine Bewegungen schnell.
+
+”
+
+
+Razor ist ein spielbarer Elektro-Charakter in Genshin Impact. 
+Als Säugling ausgesetzt, wurde Razor vom Wolf des Nordens, Andrius, aufgenommen und von seinem Wolfsrudel im Wolfenlauf aufgezogen. Nach einer zufälligen Begegnung mit Varka, dem derzeitigen Großmeister des Ordo Favonius und Ritter von Boreas, hat er langsam wieder angefangen, sich unter die Menschen zu mischen. 
+
+Inhaltsverzeichnis
+
+1 Profil
+
+1.1 Aussehen
+
+
+2 Kampf
+
+2.1 Talente
+2.2 Sternbild
+2.3 Aufstiegsmaterialien
+2.4 Basisattribute
+
+
+3 Änderungsverlauf
+4 Quellen
+5 Navigation
+
+
+Profil[]
+Aussehen[]
+Razor hat Weiße lange Haare eine Grüne Hose und ein Paar Narben auf dem Arm. Er hat Rote Augen und eine Halskette aus Knochen. Er hat Elebogen lange Handschuhe und an die Braun sind
+Persönlichkeit
+Ein Junge, der zusammen mit Wölfen in Wolfenlauf bei Mondstadt weit ab von den Menschen lebt. Seine Instinkte sind scharf und seine Bewegungen schnell.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kampf[]
+Talente[]
+
+
+
+Symbol
+
+Name
+
+Typ
+
+
+
+
+Standardangriff: Stählernes Kreuz
+
+Standardangriff
+
+
+Standardangriff:
+Führt bis zu 4 Schwünge mit dem Schwert aus.
+Heftiger Schlag:
+Verbraucht fortlaufend Ausdauer, wirbelt das Großschwert und greift Gegner in der Umgeung an. Schwingt das Schwert am Ende mit besonders grioßer Wucht. 
+Angriff aus dem Fall:
+Schlägt beim Fallen aus der Luft auf den Boden, greift alle Gegner in der Bahn an und verursacht beim Aufkommen Flächenschaden.
+
+
+
+
+
+Klauen und Donner
+
+Elementarangriff
+
+
+Erledigt seine Beute mithilfe der Methoden, die ihm sein Meister und seine Familie beigebracht haben.
+Drücken:
+Fügt den Gegnern vor ihm mit den Klauen des Blitzwolfs Elektro-Schaden zu. Sammelt beim Treffen von Gegnern ein Elektro-Siegel, das Razors Aufladerate erhöht. Bis zu 3 Elektro-Siegel sammelbar. Aktualisiert bei weiteren Elektro-Siegeln die Dauer.
+Gedrückt halten:
+Konzentriert die Kraft des Blitzes zu einer Explosion mit geringer Reichweite, verursacht hohen Elektro-Schaden und entfernt vorhandene Elktro-Siegel. Erhöht Razors Elementarenergie für jedes entfernte Elektro-Siegel.
+
+
+
+
+
+Blitzklauen
+
+Spezialfähigkeit
+
+
+Erweckt den formlosen Blitzwolf, um sich zu schützen, und fügt Gegnern in der Umgebung Elektro-Schaden zu. Verbraucht alle Elektro-Siegel, um Razors Elementarenergie wiederherzustellen.
+Der Blitzwolf kämpft gemeinsam mit Razor, solange er auf dem Feld ist.
+Blitzwolf
+-Greift an, sobald Razor einen Standardangriff ausführt und verursacht Elektro-Schaden
+-Erhöht Razors Angriffs-GSW und Elektro-WDS
+-Macht Razor immun gegen die Reaktion unter Strom
+-Anwendung heftiger Schläge nicht möglich
+-Erhöht Razors Unterbrechungs-WDS
+Effekt erlischt, wenn Razor ausgewechselt wird.
+Gibt bis zu 10 Punkte Elementarenergie zurück, wenn Razor während der Dauer der Fähigkeit gewchselt wird.
+
+
+
+
+
+Laufender Wolf
+
+Passives Talent (1. Aufstieg)
+
+
+Verringert die beim Rennen verbrauchte Ausdauer aller eigenen Truppenmitglieder um 20%. Nicht mit passiven Talenten mit völlig gleichen Effekten stapelbar.
+
+
+
+
+Erwachen
+
+Passives Talent (4. Aufstieg)
+
+
+Verringert die Abklingzeit vn Klauen und Donner um 18%. Überspringt die Abklingzeit von Klauen und Donner bei Anwendung von Blitzklauen.
+
+
+
+
+Hunger
+
+Handliches passives Talent
+
+
+Erhöht Razors Aufladerate bei weniger als 50% Elementarenergie um 30%.
+
+
+
+
+Talent-stufe
+
+Aufstiegs-stufe
+
+Mora
+
+AllgemeineAufstiegs-materialien
+
+Material zur Verbesserungvon Talenten
+
+WöchentlicheBoss-materialien
+
+KronederWeisheit
+
+
+1 → 2
+
+2✦
+
+12.500 (1x)37.500 (3x)
+
+6 (1x)18 (3x)
+
+3 (1x)9 (3x)
+
+
+
+
+
+
+2 → 3
+
+3✦
+
+17.500 (1x)52.500 (3x)
+
+3 (1x)9 (3x)
+
+2 (1x)6 (3x)
+
+
+
+
+
+
+3 → 4
+
+25.000 (1x)75.000 (3x)
+
+4 (1x)12 (3x)
+
+4 (1x)12 (3x)
+
+
+
+
+
+
+4 → 5
+
+4✦
+
+30.000 (1x)90.000 (3x)
+
+6 (1x)18 (3x)
+
+6 (1x)18 (3x)
+
+
+
+
+
+
+5 → 6
+
+37.500 (1x)112.500 (3x)
+
+9 (1x)27 (3x)
+
+9 (1x)27 (3x)
+
+
+
+
+
+
+6 → 7
+
+5✦
+
+120.000 (1x)360.000 (3x)
+
+4 (1x)12 (3x)
+
+4 (1x)12 (3x)
+
+1 (1x)3 (3x)
+
+
+
+
+7 → 8
+
+260.000 (1x)780.000 (3x)
+
+6 (1x)18 (3x)
+
+6 (1x)18 (3x)
+
+1 (1x)3 (3x)
+
+
+
+
+8 → 9
+
+6✦
+
+450.000 (1x)1.350.000 (3x)
+
+9 (1x)27 (3x)
+
+12 (1x)36 (3x)
+
+2 (1x)6 (3x)
+
+
+
+
+9 → 10
+
+700.000 (1x)2.100.000 (3x)
+
+12 (1x)36 (3x)
+
+16 (1x)48 (3x)
+
+2 (1x)6 (3x)
+
+1 (1x)3 (3x)
+
+
+
+
+Gesamtkosten
+
+
+1 → 10
+
+
+
+
+1.652.500 (1x)4.957.500 (3x)
+
+6 (1x)18 (3x)
+
+22 (1x)66 (3x)
+
+31 (1x)93 (3x)
+
+3 (1x)9 (3x)
+
+21 (1x)63 (3x)
+
+38 (1x)114 (3x)
+
+6 (1x)18 (3x)
+
+1 (1x)3 (3x)
+
+
+Sternbild[]
+
+
+
+Stufe
+
+Symbol
+
+Name
+
+Effekt
+
+
+1
+
+{{{1. Sternbild Stufe Bild}}}
+
+{{{1. Sternbild Stufe Name}}}
+
+{{{1. Sternbild Stufe Beschreibung}}}
+
+
+2
+
+{{{2. Sternbild Stufe Bild}}}
+
+{{{2. Sternbild Stufe Name}}}
+
+{{{2. Sternbild Stufe Beschreibung}}}
+
+
+3
+
+{{{3. Sternbild Stufe Bild}}}
+
+{{{3. Sternbild Stufe Name}}}
+
+{{{3. Sternbild Stufe Beschreibung}}}
+
+
+4
+
+{{{4. Sternbild Stufe Bild}}}
+
+{{{4. Sternbild Stufe Name}}}
+
+{{{4. Sternbild Stufe Beschreibung}}}
+
+
+5
+
+{{{5. Sternbild Stufe Bild}}}
+
+{{{5. Sternbild Stufe Name}}}
+
+{{{5. Sternbild Stufe Beschreibung}}}
+
+
+6
+
+{{{6. Sternbild Stufe Bild}}}
+
+{{{6. Sternbild Stufe Name}}}
+
+{{{6. Sternbild Stufe Beschreibung}}}
+
+Jede Aktivierung einer Konstellation benötigt eine  Stella Fortuna.
+
+Aufstiegsmaterialien[]
+
+
+
+Aufstiegs-stufe
+
+Mora
+
+Material zur Verbesserungvon Figuren
+
+RegionaleBesonderheit
+
+AllgemeineAufstiegsmaterialien
+
+
+0 → 1
+
+20.000
+
+1
+
+3
+
+3
+
+
+1 → 2
+
+40.000
+
+3
+
+2
+
+10
+
+15
+
+
+2 → 3
+
+60.000
+
+6
+
+4
+
+20
+
+12
+
+
+3 → 4
+
+80.000
+
+3
+
+8
+
+30
+
+18
+
+
+4 → 5
+
+100.000
+
+6
+
+12
+
+45
+
+12
+
+
+5 → 6
+
+120.000
+
+6
+
+20
+
+60
+
+24
+
+
+
+
+Gesamtkosten
+
+
+0 → 6
+
+
+
+
+420.000
+
+1
+
+9
+
+9
+
+6
+
+
+
+
+
+
+46
+
+168
+
+18
+
+30
+
+36
+
+
+Basisattribute[]
+Die Basisattribute vor und nach jedem Aufstieg:
+
+
+
+
+Aufstiegsstufe
+
+Stufe
+
+Basis-LP
+
+Basis-VTD
+
+Basis-ANG1
+
+Spezialisiertes Attribut2(Physischer SCH-Bonus)
+
+
+0
+
+1
+
+1003
+
+63
+
+20
+
+—
+
+
+20
+
+2577
+
+162
+
+50
+
+
+1
+
+20
+
+3326
+
+209
+
+65
+
+—
+
+
+40
+
+4982
+
+313
+
+97
+
+
+2
+
+40
+
+5514
+
+346
+
+108
+
+7,5%
+
+
+50
+
+6343
+
+398
+
+124
+
+
+3
+
+50
+
+7052
+
+443
+
+138
+
+15,0%
+
+
+60
+
+7881
+
+495
+
+154
+
+
+4
+
+60
+
+8413
+
+528
+
+164
+
+15,0%
+
+
+70
+
+9241
+
+580
+
+180
+
+
+5
+
+70
+
+9773
+
+613
+
+191
+
+22,5%
+
+
+80
+
+10602
+
+665
+
+207
+
+
+6/MAX
+
+80
+
+11134
+
+699
+
+217
+
+30,0%
+
+
+90
+
+11962
+
+751
+
+234
+
+
+1 Enthält keinen Waffen-ANG-Wert.
+2 Figuren erhalten ab den 2. Aufstieg ein spezialisiertes Attribut.
+
+Änderungsverlauf[]
+[Create New History]
+Quellen[]
+
+
+
+↑ [(CN) Genshin Impact - offizielle Figurenseite]
+
+↑ 2,0 2,1 [(EN & JP) Facebook - Ankündigung zu den Synchronsprechern]
+
+↑ [(KR) Twitter - Ankündigung zu den Synchronsprechern]
+
+
+
+Navigation[]
+
+
+
+                              Figuren
+
+
+    spielbare Figuren ▼ ▲
+
+
+
+
+
+Fremde
+
+5★
+
+
+
+
+Mondstadt
+
+4★
+
+
+
+
+5★
+
+
+
+
+Liyue
+
+4★
+
+
+
+
+5★
+
+
+
+
+Inazuma
+
+4★
+
+
+
+
+5★
+
+
+
+
+Sumeru
+
+4★
+
+
+
+
+5★
+
+
+
+
+Snezhnaya
+
+5★
+
+
+
+
+
+    kommende Figuren ▼ ▲
+
+
+
+
+
+Figuren, die von Hoyoverse als kommende spielbare Figuren angekündigt wurden.
+
+
+Khaenri'ah
+
+
+
+
+Sumeru
+
+
+
+
+
+    erwähnte Figuren ▼ ▲
+
+
+
+
+
+wichtige Figuren, die im Spiel, Manga oder anderen offiziellen Medien erwähnt oder gesehen werden. Es wird spekuliert, dass sie in Zukunft spielbare Figuren werden.
+
+
+Mondstadt
+
+Varka • Alice
+
+
+Liyue
+
+Baizhu • Yaoyao
+
+
+Sumeru
+
+Alhaitham • Dehya • Nahida
+
+
+Fontaine
+
+Lyney • Lynette
+
+
+Natlan
+
+Iansan
+
+
+Snezhnaya
+
+Signora • Scaramouche • Pulcinella • Dottore • Pantalone • Pierro • Sandrone
+
+
+
+
+

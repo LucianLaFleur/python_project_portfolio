@@ -1,0 +1,944 @@
+
+
+
+
+
+
+
+
+Stub
+
+Dieser Artikel ist ein Stub. Du kannst dem Genshin Impact Wiki helfen, indem du ihn erweiterst.
+
+
+
+
+Übersicht
+
+Figurenhintergrund
+
+Stimme
+
+Kleidung
+
+Kanne der Vergänglichkeit
+
+Galerie
+
+
+
+Diona
+
+
+
+
+
+
+
+
+Seltenheit
+Waffe
+Göttliches Auge
+
+
+
+
+
+
+
+
+
+Name
+
+Andere Namen
+Putzige Mischung
+
+
+
+Informationen
+
+Geschlecht
+Weiblich
+
+
+Geburtstag
+18. Januar
+
+
+Zugehörigkeit
+Taverne Zum KatzenschwanzKätzlein Familie
+
+
+Nationalität
+Mondstadt
+
+
+Sternbild
+Feles
+
+
+Augenfarbe
+Türkis
+
+
+Haarfarbe
+PinkSchildplatt (Fell)
+
+
+Spezialzubereitung
+Verträgt sich nicht mit Alkohol
+
+
+
+Verfügbarkeit
+
+Erhaltbar durch
+StandardgebetAnfängergebetFigurenaktionsgebet
+
+
+Erhaltbar seit
+11. November 2020
+
+
+
+Synchronsprecher
+
+Chinesich
+Nuoya (诺亚)[1]
+
+
+Japanisch
+Shiori Izawa (井澤詩織)[2]
+
+
+Koreanisch
+Woo Jeong-shin (우정신)[3]
+
+
+Englisch
+Dina Sherman[2]
+
+
+
+
+
+
+“
+
+Eine junge Frau, die nicht-menschliches Blut in sich trägt. Zudem ist sie die äußerst beliebte Wirtin der Taverne „Zum Katzenschwanz“.
+
+”
+
+
+–Figurenvorstellung im Spiel
+
+Diona ist eine spielbare Kryo-Figur in Genshin Impact. Sie kämpft mit einem Bogen.
+
+Inhaltsverzeichnis
+
+1 Profil
+
+1.1 Aussehen
+1.2 Persönlichkeit
+
+
+2 Kampf
+
+2.1 Talente
+2.2 Sternbild
+2.3 Aufstiegsmaterialien
+2.4 Basisattribute
+
+
+3 Änderungsverlauf
+4 Quellen
+5 Navigation
+
+
+Profil[]
+Aussehen[]
+Text wird noch hinzugefügt.
+
+Persönlichkeit[]
+Laut ihrem Vater Draff befindet sich Diona in einer rebellischen Phase. Während Diona ihren Vater verehrte und ihn in ihrer Jugend vergötterte, zerschmetterte sie das Podest, auf das sie ihn stellte, als sie betrunken seine Persönlichkeit veränderte - und begann ihre Rache gegen Alkohol. Diona versucht, die ekelhaftesten alkoholischen Getränke zu mischen und die Mondstädter Weinindustrie zu ruinieren. Unglücklicherweise hat sie eine magische Note, die all ihre Getränke köstlich macht, egal wie schädlich ihre Zutaten sind, sehr zu ihrer Frustration.
+In ihren Voice-Overs erweist sich Diona als klassischer Tsundere. Sie macht sich Sorgen über die Fähigkeit des Reisenden, ohne Nachtsicht sicher nach Hause zu kommen, und bietet an, sie nach Hause zu begleiten ... bis der Reisende sie daran erinnert, dass Straßenlaternen existieren, und Diona bestreitet schnell, jemals angeboten zu haben, sie zu begleiten. Sie scheint sich auch nach Kameradschaft zu sehnen, was darauf zurückzuführen ist, dass Draff sie vernachlässigt, wenn er betrunken ist.
+
+Kampf[]
+Talente[]
+
+
+
+Symbol
+
+Name
+
+Typ
+
+
+Datei:Schießkunst der Jäger.png
+
+Schießkunst der Jäger
+
+Standardangriff
+
+
+Standardangriff: Führt bis zu 5 Pfeilschüsse aus.
+Heftiger Schlag: Führt einen gezielten Schuss mit höherem Schaden und höherer Genauigkeit aus.
+Konzentriert die eisige Kälte während des Zielens an der Pfeilspitze, die voll aufgeladen Kryo-Schaden verursacht.
+Angriff aus dem Fall: Schießt in der Luft einen Pfeilregen ab, trifft schnell auf dem Boden auf und verursacht dort Flächenschaden.
+
+
+
+Datei:Eistatzen.png
+
+Eistatzen
+
+Elementarangriff
+
+
+Schießt Eistatzen ab, die Gegnern Kryo-Schaden zufügen und bei Treffern Schilde erstellen.Die Schildstärke hängt von Dionas max. LP ab, die Wirkungsdauer von der Anzahl der am Treffer beteiligten Eistatzen.
+Drücken:Schießt schnell zwei Eispfoten ab.
+Gedrückt halten:Springt geschwind zurück und feuert fünf Eistatzen ab.Durch Gedrückthalten entstehende Schilde halten 75% mehr Schaden ab.Schilde halten bei Kryo-Schaden 250% ab und verleihen der aktuellen Figur beim Entstehen für kurze Zeit das Kryo-Attribut.
+
+
+
+Datei:Eisgekühlter Branntwein.png
+
+Eisgekühlter Branntwein
+
+Spezialfähigkeit
+
+
+Wirft besonders starken eisgekühlten Alkohol nach vorn und verursacht Kryo-Flächenschaden sowie ein Kältedunstfeld.
+Kältedunstfeld
+
+Fügt Gegnern darin fortlaufend Kryo-Schaden zu.
+Stellt Figuren darin fortlaufend LP wieder her.
+
+
+Datei:Geheimes Menü Zum Katzenschwanz.png
+
+Geheimes Menü Zum Katzenschwanz
+
+Passives Talent (1. Aufstieg)
+
+
+Erhöht die Bewegungs-GSW von Figuren im Schutz eines Schilds von Eistatzen um 10% und verringert ihren Ausdauerverbrauch um 10%.
+
+
+Datei:Hundert Weinpossen.png
+
+Hundert Weinpossen
+
+Passives Talent (4. Aufstieg)
+
+
+Verringert den ANG von Gegnern im Feld von Eisgekühlter Branntwein nach dem Betreten 15s lang um 10%.
+
+
+Datei:Appetitsanreger.png
+
+Appetitsanreger
+
+Handliches passives Talent
+
+
+Stellt bei der perfekten Zubereitung eines Gerichts mit wiederherstellender Funktion mit einer Wahrscheinlichkeit von 12% den 2-fachen Ertrag her.
+
+
+
+
+Talent-stufe
+
+Aufstiegs-stufe
+
+Mora
+
+AllgemeineAufstiegs-materialien
+
+Material zur Verbesserungvon Talenten
+
+WöchentlicheBoss-materialien
+
+KronederWeisheit
+
+
+1 → 2
+
+2✦
+
+12.500 (1x)37.500 (3x)
+
+6 (1x)18 (3x)
+
+3 (1x)9 (3x)
+
+
+
+
+
+
+2 → 3
+
+3✦
+
+17.500 (1x)52.500 (3x)
+
+3 (1x)9 (3x)
+
+2 (1x)6 (3x)
+
+
+
+
+
+
+3 → 4
+
+25.000 (1x)75.000 (3x)
+
+4 (1x)12 (3x)
+
+4 (1x)12 (3x)
+
+
+
+
+
+
+4 → 5
+
+4✦
+
+30.000 (1x)90.000 (3x)
+
+6 (1x)18 (3x)
+
+6 (1x)18 (3x)
+
+
+
+
+
+
+5 → 6
+
+37.500 (1x)112.500 (3x)
+
+9 (1x)27 (3x)
+
+9 (1x)27 (3x)
+
+
+
+
+
+
+6 → 7
+
+5✦
+
+120.000 (1x)360.000 (3x)
+
+4 (1x)12 (3x)
+
+4 (1x)12 (3x)
+
+Datei:Dämonengewand – Fragment.png1 (1x)3 (3x)
+
+
+
+
+7 → 8
+
+260.000 (1x)780.000 (3x)
+
+6 (1x)18 (3x)
+
+6 (1x)18 (3x)
+
+Datei:Dämonengewand – Fragment.png1 (1x)3 (3x)
+
+
+
+
+8 → 9
+
+6✦
+
+450.000 (1x)1.350.000 (3x)
+
+9 (1x)27 (3x)
+
+12 (1x)36 (3x)
+
+Datei:Dämonengewand – Fragment.png2 (1x)6 (3x)
+
+
+
+
+9 → 10
+
+700.000 (1x)2.100.000 (3x)
+
+12 (1x)36 (3x)
+
+16 (1x)48 (3x)
+
+Datei:Dämonengewand – Fragment.png2 (1x)6 (3x)
+
+1 (1x)3 (3x)
+
+
+
+
+Gesamtkosten
+
+
+1 → 10
+
+
+
+
+1.652.500 (1x)4.957.500 (3x)
+
+6 (1x)18 (3x)
+
+22 (1x)66 (3x)
+
+31 (1x)93 (3x)
+
+3 (1x)9 (3x)
+
+21 (1x)63 (3x)
+
+38 (1x)114 (3x)
+
+Datei:Dämonengewand – Fragment.png6 (1x)18 (3x)
+
+1 (1x)3 (3x)
+
+
+Sternbild[]
+
+
+
+Stufe
+
+Symbol
+
+Name
+
+Effekt
+
+
+1
+
+{{{1. Sternbild Stufe Bild}}}
+
+{{{1. Sternbild Stufe Name}}}
+
+{{{1. Sternbild Stufe Beschreibung}}}
+
+
+2
+
+{{{2. Sternbild Stufe Bild}}}
+
+{{{2. Sternbild Stufe Name}}}
+
+{{{2. Sternbild Stufe Beschreibung}}}
+
+
+3
+
+{{{3. Sternbild Stufe Bild}}}
+
+{{{3. Sternbild Stufe Name}}}
+
+{{{3. Sternbild Stufe Beschreibung}}}
+
+
+4
+
+{{{4. Sternbild Stufe Bild}}}
+
+{{{4. Sternbild Stufe Name}}}
+
+{{{4. Sternbild Stufe Beschreibung}}}
+
+
+5
+
+{{{5. Sternbild Stufe Bild}}}
+
+{{{5. Sternbild Stufe Name}}}
+
+{{{5. Sternbild Stufe Beschreibung}}}
+
+
+6
+
+{{{6. Sternbild Stufe Bild}}}
+
+{{{6. Sternbild Stufe Name}}}
+
+{{{6. Sternbild Stufe Beschreibung}}}
+
+Jede Aktivierung einer Konstellation benötigt eine  Stella Fortuna.
+
+Aufstiegsmaterialien[]
+
+
+
+Aufstiegs-stufe
+
+Mora
+
+Material zur Verbesserungvon Figuren
+
+RegionaleBesonderheit
+
+AllgemeineAufstiegsmaterialien
+
+
+0 → 1
+
+20.000
+
+1
+
+3
+
+3
+
+
+1 → 2
+
+40.000
+
+3
+
+2
+
+10
+
+15
+
+
+2 → 3
+
+60.000
+
+6
+
+4
+
+20
+
+12
+
+
+3 → 4
+
+80.000
+
+3
+
+8
+
+30
+
+18
+
+
+4 → 5
+
+100.000
+
+6
+
+12
+
+45
+
+12
+
+
+5 → 6
+
+120.000
+
+6
+
+20
+
+60
+
+24
+
+
+
+
+Gesamtkosten
+
+
+0 → 6
+
+
+
+
+420.000
+
+1
+
+9
+
+9
+
+6
+
+
+
+
+
+
+46
+
+168
+
+18
+
+30
+
+36
+
+
+Basisattribute[]
+Die Basisattribute vor und nach jedem Aufstieg:
+
+
+
+
+Aufstiegsstufe
+
+Stufe
+
+Basis-LP
+
+Basis-VTD
+
+Basis-ANG1
+
+Spezialisiertes Attribut2(Kryo-Schaden-Bonus)
+
+
+0
+
+1
+
+802
+
+50
+
+18
+
+—
+
+
+20
+
+2,061
+
+129
+
+46
+
+
+1
+
+20
+
+2,661
+
+167
+
+59
+
+—
+
+
+40
+
+3,985
+
+250
+
+88
+
+
+2
+
+40
+
+4,411
+
+277
+
+98
+
+6.0%
+
+
+50
+
+5,074
+
+318
+
+113
+
+
+3
+
+50
+
+5,642
+
+354
+
+125
+
+12.0%
+
+
+60
+
+6,305
+
+396
+
+140
+
+
+4
+
+60
+
+6,731
+
+422
+
+149
+
+12.0%
+
+
+70
+
+7,393
+
+464
+
+164
+
+
+5
+
+70
+
+7,818
+
+491
+
+174
+
+18.0%
+
+
+80
+
+8,481
+
+532
+
+188
+
+
+6/MAX
+
+80
+
+8,907
+
+559
+
+198
+
+24.0%
+
+
+90
+
+9,570
+
+601
+
+212
+
+
+1 Enthält keinen Waffen-ANG-Wert.
+2 Figuren erhalten ab den 2. Aufstieg ein spezialisiertes Attribut.
+
+Änderungsverlauf[]
+[Create New History]
+Quellen[]
+
+
+
+↑ (CN) Diona Figurenvorstellung
+
+↑ 2,0 2,1 (EN & JP) Twitter - Ankündigung zu den Synchronsprechern
+
+↑ (KR) Twitter - Ankündigung zu den Synchronsprechern
+
+
+
+Navigation[]
+
+
+
+                              Figuren
+
+
+    spielbare Figuren ▼ ▲
+
+
+
+
+
+Fremde
+
+5★
+
+
+
+
+Mondstadt
+
+4★
+
+
+
+
+5★
+
+
+
+
+Liyue
+
+4★
+
+
+
+
+5★
+
+
+
+
+Inazuma
+
+4★
+
+
+
+
+5★
+
+
+
+
+Sumeru
+
+4★
+
+
+
+
+5★
+
+
+
+
+Snezhnaya
+
+5★
+
+
+
+
+
+    kommende Figuren ▼ ▲
+
+
+
+
+
+Figuren, die von Hoyoverse als kommende spielbare Figuren angekündigt wurden.
+
+
+Khaenri'ah
+
+
+
+
+Sumeru
+
+
+
+
+
+    erwähnte Figuren ▼ ▲
+
+
+
+
+
+wichtige Figuren, die im Spiel, Manga oder anderen offiziellen Medien erwähnt oder gesehen werden. Es wird spekuliert, dass sie in Zukunft spielbare Figuren werden.
+
+
+Mondstadt
+
+Varka • Alice
+
+
+Liyue
+
+Baizhu • Yaoyao
+
+
+Sumeru
+
+Alhaitham • Dehya • Nahida
+
+
+Fontaine
+
+Lyney • Lynette
+
+
+Natlan
+
+Iansan
+
+
+Snezhnaya
+
+Signora • Scaramouche • Pulcinella • Dottore • Pantalone • Pierro • Sandrone
+
+
+
+
+

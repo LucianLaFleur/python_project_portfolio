@@ -1,0 +1,795 @@
+
+
+
+Übersicht
+
+Figurenhintergrund
+
+Stimme
+
+Kleidung
+
+Kanne der Vergänglichkeit
+
+Galerie
+
+
+Sangonomiya Kokomi
+
+
+
+
+Karte
+
+
+
+
+Seltenheit
+Waffe
+Göttliches Auge
+
+
+
+
+
+
+
+
+
+Informationen
+
+Geschlecht
+Weiblich
+
+
+Geburtstag
+22. Februar
+
+
+Zugehörigkeit
+WatatsumiSangonomiya-KlanWatatsumi-Armee
+
+
+Nationalität
+Inazuma
+
+
+Sternbild
+Dracaena Somnolenta
+
+
+Augenfarbe
+Blaulila
+
+
+Haarfarbe
+Pinkblond
+
+
+Spezialzubereitung
+Atemberaubende Kriegslist
+
+
+
+Verfügbarkeit
+
+Erhaltbar durch
+Figurenaktionsgebet"Treibende Perle"
+
+
+Erhaltbar seit
+21. September 2021
+
+
+
+Synchronsprecher
+
+Chinesich
+Guiniang (龟娘)
+
+
+Japanisch
+Suzuko Mimori (三森すずこ)
+
+
+Koreanisch
+Yeo Yun-mi (여윤미)
+
+
+Englisch
+Risa Mei
+
+
+
+
+
+“
+
+Die göttliche Priesterin und Herrscherin von Watatsumi
+
+”
+
+
+–Figurenvorstellung im Spiel
+
+Sangonomiya Kokomi (japanisch: 珊瑚宮心海) ist ein spielbarer Hydro-Charakter in Genshin Impact aus Inazuma.
+Sie ist eine junge göttliche Priesterin von Watatsumi und eine Nachfahrin des Sangonomiya-Klans. Kokomi ist für die meisten Angelegenheiten von Watatsumi verantwortlich und übernimmt allein viel Verantwortung, in der Hoffnung, den Menschen auf der Insel Watatsumi die Hoffnungen und das Glück zu geben, die sie sich wünschen. 
+
+Inhaltsverzeichnis
+
+1 Kampf
+
+1.1 Aufstiegsmateralien
+1.2 Basisattribute
+1.3 Talente
+1.4 Sternbild
+
+
+2 Verfügbarkeit
+3 Name in anderen Sprachen
+4 Navigation
+
+
+Kampf[]
+Aufstiegsmateralien[]
+
+
+
+Aufstiegs-stufe
+
+Mora
+
+Material zur Verbesserungvon Figuren
+
+RegionaleBesonderheit
+
+AllgemeineAufstiegsmaterialien
+
+
+0 → 1
+
+20.000
+
+Datei:Varunada-Lasurit-Splitter.png1
+
+{{{Regionale Besonderheit}}}3
+
+{{{1. allgemeine Aufstiegsmaterialien}}}3
+
+
+1 → 2
+
+40.000
+
+Datei:Varunada-Lasurit-Bruchstück.png3
+
+Item Dew of Repudiation.png2
+
+{{{Regionale Besonderheit}}}10
+
+{{{1. allgemeine Aufstiegsmaterialien}}}15
+
+
+2 → 3
+
+60.000
+
+Datei:Varunada-Lasurit-Bruchstück.png6
+
+Item Dew of Repudiation.png4
+
+{{{Regionale Besonderheit}}}20
+
+{{{2. allgemeine Aufstiegsmaterialien}}}12
+
+
+3 → 4
+
+80.000
+
+Datei:Varunada-Lasurit-Brocken.png3
+
+Item Dew of Repudiation.png8
+
+{{{Regionale Besonderheit}}}30
+
+{{{2. allgemeine Aufstiegsmaterialien}}}18
+
+
+4 → 5
+
+100.000
+
+Datei:Varunada-Lasurit-Brocken.png6
+
+Item Dew of Repudiation.png12
+
+{{{Regionale Besonderheit}}}45
+
+{{{3. allgemeine Aufstiegsmaterialien}}}12
+
+
+5 → 6
+
+120.000
+
+Datei:Varunada-Lasurit.png6
+
+Item Dew of Repudiation.png20
+
+{{{Regionale Besonderheit}}}60
+
+{{{3. allgemeine Aufstiegsmaterialien}}}24
+
+
+
+
+Gesamtkosten
+
+
+0 → 6
+
+
+
+
+420.000
+
+Datei:Varunada-Lasurit-Splitter.png1
+
+Datei:Varunada-Lasurit-Bruchstück.png9
+
+Datei:Varunada-Lasurit-Brocken.png9
+
+Datei:Varunada-Lasurit.png6
+
+
+
+
+
+
+Item Dew of Repudiation.png46
+
+{{{Regionale Besonderheit}}}168
+
+{{{1. allgemeine Aufstiegsmaterialien}}}18
+
+{{{2. allgemeine Aufstiegsmaterialien}}}30
+
+{{{3. allgemeine Aufstiegsmaterialien}}}36
+
+
+
+
+Basisattribute[]
+Die Basisattribute vor und nach jedem Aufstieg:
+
+
+
+
+Aufstiegsstufe
+
+Stufe
+
+Basis-LP
+
+Basis-VTD
+
+Basis-ANG1
+
+Spezialisiertes Attribut2(Hydro-SCH-Bonus)
+
+
+0
+
+1
+
+1049
+
+51
+
+18
+
+—
+
+
+20
+
+2720
+
+133
+
+47
+
+
+1
+
+20
+
+3691
+
+177
+
+63
+
+—
+
+
+40
+
+5416
+
+264
+
+94
+
+
+2
+
+40
+
+6055
+
+295
+
+105
+
+7,2%
+
+
+50
+
+6966
+
+340
+
+121
+
+
+3
+
+50
+
+7818
+
+381
+
+136
+
+14,4%
+
+
+60
+
+8738
+
+426
+
+152
+
+
+4
+
+60
+
+9377
+
+457
+
+163
+
+14,4%
+
+
+70
+
+10306
+
+503
+
+179
+
+
+5
+
+70
+
+10945
+
+534
+
+190
+
+21,6%
+
+
+80
+
+11885
+
+580
+
+207
+
+
+6/MAX
+
+80
+
+12524
+
+611
+
+218
+
+28,8%
+
+
+90
+
+13471
+
+657
+
+234
+
+
+1 Enthält keinen Waffen-ANG-Wert.
+2 Figuren erhalten ab den 2. Aufstieg ein spezialisiertes Attribut.
+
+
+Talente[]
+
+
+
+Symbol
+
+Name
+
+Typ
+
+
+{{{Standardangriff Symbol}}}
+
+{{{Standardangriff Name}}}
+
+Standardangriff
+
+
+{{{Standardangriff Beschreibung}}}
+
+
+{{{Elementarangriff Symbol}}}
+
+Eid des Kurage
+
+Elementarangriff
+
+
+Beschwört eine Hydro-Lebensform namens "Bakekurage", die ihre Kameraden heilen kann. Verleiht Kokomi beim Auslösen den Effekt "Nass"
+Bakekurage:
+Fügt Gegnern in der Umgebung in gewissen Abständen Hydro-Schaden zu und stellt den aktuellen Figuren in der Umgebung LP basierend auf Kokomis max. LP wieder her.
+
+
+
+{{{Spezialfähigkeit Symbol}}}
+
+Nereidenaufstieg
+
+Spezialfähigkeit
+
+
+Stellt die Macht der Watatsumi zur Schau und fügt Gegnern in der Umgebung Hydro-Schaden zu. Hüllt Kokomi daraufhin in ein "Rituelles Federkleid" aus dem Fließenden Wasser von Sangonomiya.
+Rituelles Federkleid:
+-Erhöht den mit Standardangriffen, heftigen Schlägen und dem "Bakekurage" ihrer Elemenarfähigkeit verursachten Schaden basierend auf ihren max. LP.
+-Stellt allen Truppenmitgliedern inder Nähe beim Treffen von Gegnern mit Standardangriffen heftigen Schlägen LP basierend auf Sangonomiya Kokomis max. LP wieder her.
+-Erhöht Sangonomiya Kokomis Unterbrechungs-WDS und ermöglicht es ihr, sich auf Wasseroberflächen fortzubewegen.
+Effekt erlischt, wenn Sangonomiya Kokomi ausgewechselt wird
+
+
+
+{{{Passives Talent (1. Aufstieg) Symbol}}}
+
+Tamanooyas Kästchen
+
+Passives Talent (1. Aufstieg)
+
+
+Setzt die Wirkungsdauer des von Sangonomiya Kokomi selbst beschworenen Bakekurage beim Auslösen von Nereidenaufstieg zurück, sofern ein Bakekurage vorhanden ist.
+
+
+{{{Passives Talent (4. Aufstieg) Symbol}}}
+
+Gesang der Perle
+
+Passives Talent (4. Aufstieg)
+
+
+Erhöht den basierend auf Sangonomiya Kokomis max. LP mit Standardangriffen und heftigen Schlägen im Zustand Rituelles Federkleid  von Nereidenaufstieg verursachten Schaden zusätzlich um 15% ihres Heilungsbonus.
+
+
+{{{Handliches passives Talent Symbol}}}
+
+Einwandfreie Strategie
+
+Handliches passives Talent
+
+
+Erhöht Sangonomiya Kokomis Heilungseffekt um 25% und verringert ihre KT um 100%.
+
+
+
+Sternbild[]
+
+
+
+Stufe
+
+Symbol
+
+Name
+
+Effekt
+
+
+1
+
+{{{1. Sternbild Stufe Bild}}}
+
+Am Rande des Flusses
+
+Entfesselt im Zustand Rituelles Federkleid von Nereidenaufstieg mit dem letzten Angriff der Standardangriffe von Sangonomiya Kokomi einen schwimmenden Fisch, der Hydro-Schaden in Höhe von 30% der max. LP von Sangonomiya Kokomi verursacht.
+Dieser Schaden gilt nicht als Schaden von Standardangriffen.
+
+
+
+2
+
+{{{2. Sternbild Stufe Bild}}}
+
+Wellen des Wolkenmeers
+
+Gewährt Sangonomiya Kokomi Heilungsboni in Bezug auf Figuren mit 50% oder weniger LP basierend auf ihren max. LP auf folgende Art und Weise:
+-Durcch "Bakekurage" von Eid des Kurage: 4,5% der max. LP
+-Durch Standardangriffe und heftige Schläge von Nereidenaufstieg: 0,6% der max. LP
+
+
+
+3
+
+{{{3. Sternbild Stufe Bild}}}
+
+Mondschiff auf den Meeren
+
+Erhöht die Stufe der Fähigkeit Nereidenaufstieg um 3.
+Höchststufe 15.
+
+
+
+4
+
+{{{4. Sternbild Stufe Bild}}}
+
+Mond über den Strömen
+
+Erhöht die Angriffsgeschwindigkeit der Standardangriffe von Sangonomiya Kokomi im Zustand Rituelles Federkleid von Nereidenaufstieg um 10% und stellt 0,8 Punkte Elementarenergie wieder her, wenn die Standardangriffe Gegner treffen.
+0,2s Abklingzeit
+
+
+
+5
+
+{{{5. Sternbild Stufe Bild}}}
+
+Alle Ströme fließen ins Meer
+
+Erhöht die Stufe der Fähigkeit Eid des Kurage um 3.
+Höchststufe 15.
+
+
+
+6
+
+{{{6. Sternbild Stufe Bild}}}
+
+Sango Isshin
+
+Gewährt Sangonomiya Kokomi im Zustand Rituelles Kleid von Nereidenaufstieg 4s lang einen Hydro-SCH Bonus von 40%, wenn die Standardangriffe und heftigen Schläge von Sangonomiya Kokomi Figuren mit 80% LP oder mehr heilen.
+
+
+
+Verfügbarkeit[]
+Eventgebet: Treibende Perle
+
+Name in anderen Sprachen[]
+
+
+
+Sprache
+
+Name
+
+Wörtliche Bedeutung
+
+
+Deutsch
+
+Sangonomiya Kokomi
+
+—
+Englisch
+Sangonomiya Kokomi
+—
+Chinesisch(vereinfacht)
+珊瑚宫心海
+Shānhúgōng Xīnhǎi
+Chinesisch(traditionell)
+珊瑚宮心海-+
+Sangonomiya Kokomi
+Japanisch
+珊瑚宮心海
+Sangonomiya Kokomi
+Koreanisch
+산고노미야 코코미
+Sangonomiya Kokomi
+Spanisch
+Sangonomiya Kokomi
+—
+Französisch
+Sangonomiya Kokomi
+—
+Russisch
+Кокоми
+Kokomi
+Thailändisch
+Sangonomiya Kokomi
+—
+Vietnamesisch
+Sangonomiya Kokomi
+—
+Indonesisch
+Sangonomiya Kokomi
+—
+Portugiesisch
+Sangonomiya Kokomi
+—
+
+
+
+Navigation[]
+
+
+
+                              Figuren
+
+
+    spielbare Figuren ▼ ▲
+
+
+
+
+
+Fremde
+
+5★
+
+
+
+
+Mondstadt
+
+4★
+
+
+
+
+5★
+
+
+
+
+Liyue
+
+4★
+
+
+
+
+5★
+
+
+
+
+Inazuma
+
+4★
+
+
+
+
+5★
+
+
+
+
+Sumeru
+
+4★
+
+
+
+
+5★
+
+
+
+
+Snezhnaya
+
+5★
+
+
+
+
+
+    kommende Figuren ▼ ▲
+
+
+
+
+
+Figuren, die von Hoyoverse als kommende spielbare Figuren angekündigt wurden.
+
+
+Khaenri'ah
+
+
+
+
+Sumeru
+
+
+
+
+
+    erwähnte Figuren ▼ ▲
+
+
+
+
+
+wichtige Figuren, die im Spiel, Manga oder anderen offiziellen Medien erwähnt oder gesehen werden. Es wird spekuliert, dass sie in Zukunft spielbare Figuren werden.
+
+
+Mondstadt
+
+Varka • Alice
+
+
+Liyue
+
+Baizhu • Yaoyao
+
+
+Sumeru
+
+Alhaitham • Dehya • Nahida
+
+
+Fontaine
+
+Lyney • Lynette
+
+
+Natlan
+
+Iansan
+
+
+Snezhnaya
+
+Signora • Scaramouche • Pulcinella • Dottore • Pantalone • Pierro • Sandrone
+
+
+
+
+

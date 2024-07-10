@@ -1,0 +1,952 @@
+
+
+
+
+
+
+
+
+Stub
+
+Dieser Artikel ist ein Stub. Du kannst dem Genshin Impact Wiki helfen, indem du ihn erweiterst.
+
+
+
+
+
+Übersicht
+
+Figurenhintergrund
+
+Stimme
+
+Kleidung
+
+Kanne der Vergänglichkeit
+
+Galerie
+
+
+
+Chongyun
+
+
+
+
+
+
+
+
+Seltenheit
+Waffe
+Göttliches Auge
+
+
+
+
+
+
+
+
+
+Name
+
+Andere Namen
+Eismann
+
+
+
+Informationen
+
+Geschlecht
+Männlich
+
+
+Geburtstag
+07. September
+
+
+Zugehörigkeit
+Liyue
+
+
+Nationalität
+Liyue
+
+
+Sternbild
+Nubis Caesor
+
+
+Spezialzubereitung
+Kalte Bergnudeln
+
+
+
+Verfügbarkeit
+
+Erhaltbar durch
+StandardgebetAnfängergebetFigurenaktionsgebet
+
+
+Erhaltbar seit
+28. September 2020
+
+
+
+Synchronsprecher
+
+Chinesich
+kinsen[1]
+
+
+Japanisch
+Soma Saito (斉藤壮馬)[2]
+
+
+Koreanisch
+Yang Jeong-hwa (양정화)[3]
+
+
+Englisch
+Beau Bridgland[2]
+
+
+
+
+
+
+“
+
+Ein junger Mystiker aus einer Familie von Dämonenvertreibern, der alles dafür tut, seine "Yang-Lastigkeit" zu unterdrücken.
+
+”
+
+
+–Figurenvorstellung im Spiel
+
+Chongyun (CN: 重云 Chóngyún) ist ein spielbarer Charakter in Genshin Impact.
+Er ist ein Mystiker aus Liyue. Er ist mit exzessiver, positiven Energie geboren, welche auch "Yang-Lastigkeit" genannt wird. Diese Yang-Lastigkeit hat seine Vor- und Nachteile, weil, er dadurch sehr effektiv die bösen Geister vertreiben kann, aber andererseits nie einen Geist sehen kann, da diese Geister sich nicht in der Nähe von positiver Energie aufhalten können. Außerdem bewirkt diese Energie das er sich bei Hitze oder starken Gefühlen ungewöhnlich verhält.
+
+Inhaltsverzeichnis
+
+1 Profil
+
+1.1 Vorstellung
+1.2 Persönlichkeit
+1.3 Aussehen
+
+
+2 Kampf
+
+2.1 Talente
+2.2 Sternbild
+2.3 Aufstiegsmaterialien
+2.4 Basisattribute
+
+
+3 Änderungsverlauf
+4 Quellen
+5 Navigation
+
+
+Profil[]
+Vorstellung[]
+
+
+“
+
+Im Herzen Liyues betreibt ein wandernder Mystiker seinen Exorzismus dort, wo immer er benötigt wird. Als Erbe in einer langen Reihe von Geistervertreibern hatte er bereits in frühsten Kindertagen erstaunliche Fähigkeiten. Solche Fähigkeiten kann man nicht einfach erlernen, man erhält sie von der Geburt an - die "Yang-Lastigkeit".
+
+”
+
+
+–von der offiziellen GI Website
+
+Ein junger Mystiker aus einer Familie von Dämonenvertreibern, der alles dafür tut, seine "Yang-Lästigkeit" zu unterdrücken.
+
+Persönlichkeit[]
+Angeborene Positivität ist eine äußerst seltene Physiologie, die den Körper anfällig dafür macht, sich aufgrund eines Übermaßes an positiver Energie zu erhitzen. Wenn sie unkontrolliert ist, können diejenigen, die eine solche Form besitzen, leicht heißblütig werden. Chongyun ist ein besonders schwerer Fall, seine Stimmungsschwankungen sind explosiv, und er erinnert sich an nichts von solchen Episoden. Allerdings ist Chongyuns Zustand auch sein größter Vorteil, denn alles, was er tun muss, um böse Geister zu vertreiben, ist, sich eine Weile in eine dunkle Ecke zu setzen, in der sie spuken mögen.
+So war Chongyuns Weg als Exorzist so glatt wie nur möglich. Er selbst ist jedoch mit dieser Art, Dinge zu tun, nicht einverstanden. In seinem ehrlichen und aufrechten Herzen ist es nur ein billiger Trick, sich auf seine einzigartige Physiologie zu stützen, um das Böse auszutreiben. Ein Exorzist muss seiner Meinung nach seine Aufgabe mit den Künsten eines Exorzisten erfüllen.
+Um dieser angeborenen Positivität entgegenzuwirken, hat Chongyun mehrere Disziplinen, die er praktiziert. Er geht nicht in die Sonne und trägt keine dicke Kleidung, und er enthält sich heißer Getränke und scharfer und würziger Speisen. Er lässt sich nicht auf Streitereien ein, und er gibt keinen Wutausbrüchen nach. Doch trotz aller Bemühungen, weit und breit, konnte er keine dauerhafte Lösung für seinen Zustand finden.
+Das beunruhigte den jungen Exorzisten. Die bösen Geister waren ausgetrieben, ja, aber wenn es so weiterging, wie sollte er sich dann jemals als qualifizierter Exorzist beweisen?
+Während er auf einem eisbedeckten Berg sitzt und an einem Schneebrötchen kaut, kann Chongyun nicht anders als zu seufzen. Der Weg, der vor ihm liegt, ist in der Tat noch lang.
+
+Aussehen[]
+Chongyun ist ein Teenager mit hellblauem Haar, das ihm bis zu den Ohren reicht, blasser Haut und eisblauen Katzenschlitzaugen.
+Chongyun trägt normalerweise eine symmetrische weiße Kapuzenjacke mit marineblauer Stickerei. Darunter trägt er ein blaues Hemd mit goldenen Aufklebern über einer weißen Hose mit goldenen Manschetten, zusammen mit einem dunkel-marinefarbenen Unterhemd. Außerdem trägt er schwarz-goldene Pantoffeln. Er hat Bandagen um sein rechtes Handgelenk und seinen rechten Knöchel. Er trägt seine Vision an der linken Seite seines Gürtels. 
+
+Kampf[]
+Talente[]
+
+
+
+Symbol
+
+Name
+
+Typ
+
+
+
+
+Auslöschung des Bösen
+
+Standardangriff
+
+
+Standardangriff: Führt bis zu 4 Schwünge mit dem Schwert aus.
+Heftiger Schlag: Verbraucht fortlaufend Ausdauer, wirbelt das Großschwert und greift Gegner in der Umgebung an.Schwingt das Schwert am Ende mit besonders großer Wucht.
+Angriff aus dem Fall: Schlägt beim Fallen aus der Luft auf den Boden, greift alle Gegner in der Bahn an und verursacht beim Aufkommen Flächenschaden.
+
+
+
+
+
+Seelenklinge - Schichtfrost
+
+Elementarangriff
+
+
+Chongyun schlägt mit voller Wucht mit seinem riesigen Schwert auf den Boden, verursacht vor sich eine runde Kryo-Explosion und fügt Gegnern Kryo-Schaden zu.Konzentriert kurze Zeit nach der Explosion die verströmende Kälte zu einem Schichtfrostfeld, das Figuren mit Einhändern, Großschwertern und Stangenwaffen die Kryo-Kraft verleiht.
+
+
+
+
+Seelenklinge - Wolken teilender Stern
+
+Spezialfähigkeit
+
+
+Chongyun formt Fingerzeichen, mit denen er drei große Seelenklingen in der Luft beschwört, die nach kurzer Zeit nacheinander auf den Boden fallen und zerspringen.Beim Zerspringen verursachen die Seelenklingen Kryo-Flächenschaden und schleudern Gegner weg.
+
+
+
+
+Atemtechnik
+
+Passives Talent (1. Aufstieg)
+
+
+Erhöht die Standardangriff-GSW aller Figuren mit Einhändern, Großschwertern und Stangenwaffen im Wirkungsbereich von Seelenklinge - Schichtfrost um 8%.
+
+
+
+
+Eisjägerschwert
+
+Passives Talent (4. Aufstieg)
+
+
+Erschafft beim Verschwinden des Wirkungsbereichs von Seelenklinge - Schichtfrost eine Seelenklinge, die Gegner in der Nähe automatisch angreift und Kryo-Flächenschaden in Höhe von 100% des Schadens von Seelenklinge - Schichtfrost verursacht. Verringert den Schaden Kryo-WDS getroffener Gegner 8s lang um 10%.
+
+
+
+
+Durch Land und Meer
+
+Handliches passives Talent
+
+
+Verkürzt die bei Erkundungen innerhalb des Einflussbereichs von Liyue verbrauchte Zeit um 25%.
+
+
+
+
+Talent-stufe
+
+Aufstiegs-stufe
+
+Mora
+
+AllgemeineAufstiegs-materialien
+
+Material zur Verbesserungvon Talenten
+
+WöchentlicheBoss-materialien
+
+KronederWeisheit
+
+
+1 → 2
+
+2✦
+
+12.500 (1x)37.500 (3x)
+
+6 (1x)18 (3x)
+
+Datei:Lehren des „Fleißes“.png3 (1x)9 (3x)
+
+
+
+
+
+
+2 → 3
+
+3✦
+
+17.500 (1x)52.500 (3x)
+
+3 (1x)9 (3x)
+
+Datei:Anleitung zum „Fleiß“.png2 (1x)6 (3x)
+
+
+
+
+
+
+3 → 4
+
+25.000 (1x)75.000 (3x)
+
+4 (1x)12 (3x)
+
+Datei:Anleitung zum „Fleiß“.png4 (1x)12 (3x)
+
+
+
+
+
+
+4 → 5
+
+4✦
+
+30.000 (1x)90.000 (3x)
+
+6 (1x)18 (3x)
+
+Datei:Anleitung zum „Fleiß“.png6 (1x)18 (3x)
+
+
+
+
+
+
+5 → 6
+
+37.500 (1x)112.500 (3x)
+
+9 (1x)27 (3x)
+
+Datei:Anleitung zum „Fleiß“.png9 (1x)27 (3x)
+
+
+
+
+
+
+6 → 7
+
+5✦
+
+120.000 (1x)360.000 (3x)
+
+4 (1x)12 (3x)
+
+Datei:Philosophie des „Fleißes“.png4 (1x)12 (3x)
+
+1 (1x)3 (3x)
+
+
+
+
+7 → 8
+
+260.000 (1x)780.000 (3x)
+
+6 (1x)18 (3x)
+
+Datei:Philosophie des „Fleißes“.png6 (1x)18 (3x)
+
+1 (1x)3 (3x)
+
+
+
+
+8 → 9
+
+6✦
+
+450.000 (1x)1.350.000 (3x)
+
+9 (1x)27 (3x)
+
+Datei:Philosophie des „Fleißes“.png12 (1x)36 (3x)
+
+2 (1x)6 (3x)
+
+
+
+
+9 → 10
+
+700.000 (1x)2.100.000 (3x)
+
+12 (1x)36 (3x)
+
+Datei:Philosophie des „Fleißes“.png16 (1x)48 (3x)
+
+2 (1x)6 (3x)
+
+1 (1x)3 (3x)
+
+
+
+
+Gesamtkosten
+
+
+1 → 10
+
+
+
+
+1.652.500 (1x)4.957.500 (3x)
+
+Datei:Lehren des „Fleißes“.png6 (1x)18 (3x)
+
+Datei:Anleitung zum „Fleiß“.png22 (1x)66 (3x)
+
+Datei:Philosophie des „Fleißes“.png31 (1x)93 (3x)
+
+3 (1x)9 (3x)
+
+21 (1x)63 (3x)
+
+38 (1x)114 (3x)
+
+6 (1x)18 (3x)
+
+1 (1x)3 (3x)
+
+
+Sternbild[]
+
+
+
+Stufe
+
+Symbol
+
+Name
+
+Effekt
+
+
+1
+
+{{{1. Sternbild Stufe Bild}}}
+
+{{{1. Sternbild Stufe Name}}}
+
+{{{1. Sternbild Stufe Beschreibung}}}
+
+
+2
+
+{{{2. Sternbild Stufe Bild}}}
+
+{{{2. Sternbild Stufe Name}}}
+
+{{{2. Sternbild Stufe Beschreibung}}}
+
+
+3
+
+{{{3. Sternbild Stufe Bild}}}
+
+{{{3. Sternbild Stufe Name}}}
+
+{{{3. Sternbild Stufe Beschreibung}}}
+
+
+4
+
+{{{4. Sternbild Stufe Bild}}}
+
+{{{4. Sternbild Stufe Name}}}
+
+{{{4. Sternbild Stufe Beschreibung}}}
+
+
+5
+
+{{{5. Sternbild Stufe Bild}}}
+
+{{{5. Sternbild Stufe Name}}}
+
+{{{5. Sternbild Stufe Beschreibung}}}
+
+
+6
+
+{{{6. Sternbild Stufe Bild}}}
+
+{{{6. Sternbild Stufe Name}}}
+
+{{{6. Sternbild Stufe Beschreibung}}}
+
+Jede Aktivierung einer Konstellation benötigt eine  Stella Fortuna.
+
+Aufstiegsmaterialien[]
+
+
+
+Aufstiegs-stufe
+
+Mora
+
+Material zur Verbesserungvon Figuren
+
+RegionaleBesonderheit
+
+AllgemeineAufstiegsmaterialien
+
+
+0 → 1
+
+20.000
+
+1
+
+Datei:Cor Lapis.png3
+
+3
+
+
+1 → 2
+
+40.000
+
+3
+
+2
+
+Datei:Cor Lapis.png10
+
+15
+
+
+2 → 3
+
+60.000
+
+6
+
+4
+
+Datei:Cor Lapis.png20
+
+12
+
+
+3 → 4
+
+80.000
+
+3
+
+8
+
+Datei:Cor Lapis.png30
+
+18
+
+
+4 → 5
+
+100.000
+
+6
+
+12
+
+Datei:Cor Lapis.png45
+
+12
+
+
+5 → 6
+
+120.000
+
+6
+
+20
+
+Datei:Cor Lapis.png60
+
+24
+
+
+
+
+Gesamtkosten
+
+
+0 → 6
+
+
+
+
+420.000
+
+1
+
+9
+
+9
+
+6
+
+
+
+
+
+
+46
+
+Datei:Cor Lapis.png168
+
+18
+
+30
+
+36
+
+
+
+
+Basisattribute[]
+Die Basisattribute vor und nach jedem Aufstieg:
+
+
+
+
+Aufstiegsstufe
+
+Stufe
+
+Basis-LP
+
+Basis-VTD
+
+Basis-ANG1
+
+Spezialisiertes Attribut2(Angriff)
+
+
+0
+
+1
+
+921
+
+54
+
+19
+
+—
+
+
+20
+
+2,366
+
+140
+
+62
+
+
+1
+
+20
+
+3,054
+
+180
+
+62
+
+—
+
+
+40
+
+4,574
+
+270
+
+93
+
+
+2
+
+40
+
+5,063
+
+299
+
+103
+
+6.0%
+
+
+50
+
+5,824
+
+344
+
+118
+
+
+3
+
+50
+
+6,475
+
+382
+
+131
+
+12.0%
+
+
+60
+
+7,236
+
+427
+
+147
+
+
+4
+
+60
+
+7,725
+
+456
+
+157
+
+12.0%
+
+
+70
+
+8,485
+
+501
+
+172
+
+
+5
+
+70
+
+8,974
+
+530
+
+182
+
+18.0%
+
+
+80
+
+9,734
+
+575
+
+198
+
+
+6/MAX
+
+80
+
+10,223
+
+603
+
+208
+
+24.0%
+
+
+90
+
+10,984
+
+648
+
+223
+
+
+1 Enthält keinen Waffen-ANG-Wert.
+2 Figuren erhalten ab den 2. Aufstieg ein spezialisiertes Attribut.
+
+
+Änderungsverlauf[]
+Released in Version 1.0[Create New History]
+Quellen[]
+
+
+
+↑ (CN) Genshin Impact - offizielle Figurenseite
+
+↑ 2,0 2,1 (EN & JP) Twitter - Ankündigung zu den Synchronsprechern
+
+↑ (KR) Twitter - Ankündigung zu den Synchronsprechern
+
+
+
+Navigation[]
+
+
+
+                              Figuren
+
+
+    spielbare Figuren ▼ ▲
+
+
+
+
+
+Fremde
+
+5★
+
+
+
+
+Mondstadt
+
+4★
+
+
+
+
+5★
+
+
+
+
+Liyue
+
+4★
+
+
+
+
+5★
+
+
+
+
+Inazuma
+
+4★
+
+
+
+
+5★
+
+
+
+
+Sumeru
+
+4★
+
+
+
+
+5★
+
+
+
+
+Snezhnaya
+
+5★
+
+
+
+
+
+    kommende Figuren ▼ ▲
+
+
+
+
+
+Figuren, die von Hoyoverse als kommende spielbare Figuren angekündigt wurden.
+
+
+Khaenri'ah
+
+
+
+
+Sumeru
+
+
+
+
+
+    erwähnte Figuren ▼ ▲
+
+
+
+
+
+wichtige Figuren, die im Spiel, Manga oder anderen offiziellen Medien erwähnt oder gesehen werden. Es wird spekuliert, dass sie in Zukunft spielbare Figuren werden.
+
+
+Mondstadt
+
+Varka • Alice
+
+
+Liyue
+
+Baizhu • Yaoyao
+
+
+Sumeru
+
+Alhaitham • Dehya • Nahida
+
+
+Fontaine
+
+Lyney • Lynette
+
+
+Natlan
+
+Iansan
+
+
+Snezhnaya
+
+Signora • Scaramouche • Pulcinella • Dottore • Pantalone • Pierro • Sandrone
+
+
+
+
+

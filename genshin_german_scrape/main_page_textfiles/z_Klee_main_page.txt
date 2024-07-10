@@ -1,0 +1,922 @@
+
+
+
+
+
+
+
+
+Stub
+
+Dieser Artikel ist ein Stub. Du kannst dem Genshin Impact Wiki helfen, indem du ihn erweiterst.
+
+
+
+
+
+Übersicht
+
+Figurenhintergrund
+
+Stimme
+
+Kleidung
+
+Kanne der Vergänglichkeit
+
+Galerie
+
+
+Klee
+
+
+
+
+
+
+
+
+Seltenheit
+Waffe
+Göttliches Auge
+
+
+
+
+
+
+
+
+
+Informationen
+
+Geschlecht
+Weiblich
+
+
+Geburtstag
+27. Juli
+
+
+Zugehörigkeit
+Ordo Favonius
+
+
+Nationalität
+Mondstadt
+
+
+Sternbild
+Trifolium
+
+
+Augenfarbe
+Rot
+
+
+Haarfarbe
+Blond
+
+
+Spezialzubereitung
+Fischhäppchen auf Brot
+
+
+
+Verfügbarkeit
+
+Erhaltbar seit
+20. Oktober 2020
+
+
+
+Synchronsprecher
+
+Chinesich
+Hualing (花玲)[1]
+
+
+Japanisch
+Misaki Kuno (久野美咲)[2]
+
+
+Koreanisch
+Bang Yeon-ji (방연지)[3]
+
+
+Englisch
+Poonam Basu[2]
+
+
+
+
+
+“
+
+Ein häufiger Gast in der Arrestzelle des Ordo Favonius und ein wahrer Meister der Zerstörung. Man nennt sie auch die "Fliehende Sonne".
+
+”
+
+
+–Figurenvorstellung im Spiel
+
+Klee ist eine spielbare Pyro-Figur in Genshin Impact. Die Tochter der unerschrockenen - und zerstörerischen - Abenteurerin Alice eifert ihre Mutter in vielerlei Hinsicht nach, sehr zur Bestürzung der Ritter von Favonius, denen sie anvertraut wurde.
+
+Inhaltsverzeichnis
+
+1 Profil
+
+1.1 Aussehen
+1.2 Persönlichkeit
+
+
+2 Kampf
+
+2.1 Talente
+2.2 Sternbild
+2.3 Aufstiegsmaterialien
+2.4 Basisattribute
+
+
+3 Änderungsverlauf
+4 Quellen
+5 Navigation
+
+
+Profil[]
+Aussehen[]
+Klee ist ein kleines Mädchen mit blasser Haut und roten Augen. Sie hat blondes Haar und elfenähnliche Ohren.
+Klee trägt einen roten Mantel mit einem dunkleren roten und weißen Kragen über einem weißen Kleid und weißen Shorts, sowie einen flauschigen Schal mit einem Bommel und Handschuhe, zusammen mit Kniestrümpfen, Stiefeln und einer braunen Umhängetasche. An dieser Tasche ist ein pelziger Bommel in Form eines Waldtieres befestigt, den ihre Mutter gemacht hat und den sie Dodoco genannt hat. Klee trägt eine große rote Zeitungsmütze mit einem vierblättrigen Kleeblattabzeichen und zwei Federn. 
+
+Persönlichkeit[]
+Sie ist ein häufiger Gast der Arrestzelle des Ordo Favonius und ein wahrer Meister der Zerstörung. Man nennt sie auch die "Fliehende Sonne". Klee ist ein energiegeladenes und aufgeschlossenes Mädchen mit einer Leidenschaft für Bomben und Sprengstoff. Sie verhält sich wie ein durchschnittliches kleines Kind - sehr energisch, liebt es, mit anderen zu spielen, auf Schatzsuche zu gehen und mit Sprengstoff nach Fischen zu werfen. Leider wird ihr Optimismus durch eine große Portion Sorglosigkeit ausgeglichen, da sie oft vergisst, dass ihre Sprengstoffe andere verletzen und in Bedrängnis bringen können. Sie wird traurig, wenn jemand durch ihre Sprengstoffe verletzt wird, selbst wenn er böse Absichten hat. 
+Zum Teil aufgrund ihres jungen Alters hat Klee leichte Schwierigkeiten, richtig und falsch zu unterscheiden. Obwohl sie ein offizielles Mitglied der Ritter von Favonius ist, veranlassen Klees Eskapaden Jean in der Regel dazu, sie in Einzelhaft zu schicken, damit sie über ihre Handlungen nachdenken kann. Sie scheint sich auch ihres Rufes, mächtige "Schätze" zu erschaffen, nicht bewusst zu sein. Auch wenn sie sich ihrer eigenen Handlungen bewusst ist, verbringt Klee die Zeit in der Einzelhaft auch damit, weitere Bomben zu entwickeln. Sie ist leichtgläubig und kann leicht auf Lügen hereinfallen, besonders auf die von Kaeya. 
+
+Kampf[]
+Talente[]
+
+
+
+Symbol
+
+Name
+
+Typ
+
+
+Datei:Bumm-Bumm.png
+
+Bumm-Bumm
+
+Standardangriff
+
+
+Standardangriff: Wirft eine nette, effektvolle Bombe! Führt bis zu 3 Bombenangriffe aus und verursacht Pyro-Flächenschaden.Heftiger Schlag: Verbraucht eine gewisse Menge Ausdauer, bombardiert Gegner nach kurzer Aufladezeit und verursacht Pyro-Flächenschaden.Angriff aus dem Fall: Konzentriert die Kraft der Flammen, schlägt beim Fallen aus der Luft auf den Boden, greift alle Gegner in der Bahn an und verursacht beim Aufkommen Pyro-Flächenschaden.
+
+
+Datei:Bimm-Bamm-Bombe.png
+
+Bimm-Bamm-Bombe
+
+Elementarangriff
+
+
+Wirft eine Bombe, die dazu bestimmt ist, große Freude zu bringen!Die Bimm-Bamm-Bombe kommt dreimal auf dem Boden auf und verursacht jedes Mal eine Explosion sowie Pyro-Flächenschaden.Spaltet sich beim dritten Mal zu vielen, kleinen Sprengfallen auf.Bei Berührung mit einem Gegner oder nach einer gewissen Zeit explodieren die Sprengfallen und verursachen Pyro-Flächenschaden.Kann anfänglich 2-mal angewendet werden.
+
+
+Datei:Funkelfunken.png
+
+Funkelfunken
+
+Spezialfähigkeit
+
+
+Und Feuer! Beschwört während der Wirkungsdauer ununterbrochen Funkelfunken, die Gegner in der Nähe angreifen und Pyro-Flächenschaden verursachen.
+
+
+Datei:Explosives Geschenk.png
+
+Explosives Geschenk
+
+Passives Talent (1. Aufstieg)
+
+
+Erschafft beim Verursachen von Schaden mit Bimm-Bamm-Bombe oder Standardangriffen mit einer Wahrscheinlichkeit von 50% einen explosiven Funken.Verbraucht beim nächsten heftigen Schlag den Funken statt Ausdauer und erhöht den damit verursachten Schaden um 50%.
+
+
+Datei:Unzählige Funken.png
+
+Unzählige Funken
+
+Passives Talent (4. Aufstieg)
+
+
+Stellt allen Truppenmitgliedern beim Verursachen von KT mit Klees heftigen Schlägen 2 Punkte Elementarenergie wieder her.
+
+
+Datei:Alles voller Schätze.png
+
+Alles voller Schätze
+
+Handliches passives Talent
+
+
+Zeigt alle Besonderheiten Mondstadts in der Nähe auf der Minikarte an.
+
+
+
+
+Talent-stufe
+
+Aufstiegs-stufe
+
+Mora
+
+AllgemeineAufstiegs-materialien
+
+Material zur Verbesserungvon Talenten
+
+WöchentlicheBoss-materialien
+
+KronederWeisheit
+
+
+1 → 2
+
+2✦
+
+12.500 (1x)37.500 (3x)
+
+6 (1x)18 (3x)
+
+3 (1x)9 (3x)
+
+
+
+
+
+
+2 → 3
+
+3✦
+
+17.500 (1x)52.500 (3x)
+
+3 (1x)9 (3x)
+
+2 (1x)6 (3x)
+
+
+
+
+
+
+3 → 4
+
+25.000 (1x)75.000 (3x)
+
+4 (1x)12 (3x)
+
+4 (1x)12 (3x)
+
+
+
+
+
+
+4 → 5
+
+4✦
+
+30.000 (1x)90.000 (3x)
+
+6 (1x)18 (3x)
+
+6 (1x)18 (3x)
+
+
+
+
+
+
+5 → 6
+
+37.500 (1x)112.500 (3x)
+
+9 (1x)27 (3x)
+
+9 (1x)27 (3x)
+
+
+
+
+
+
+6 → 7
+
+5✦
+
+120.000 (1x)360.000 (3x)
+
+4 (1x)12 (3x)
+
+4 (1x)12 (3x)
+
+Datei:Ring des Nordwinds.png1 (1x)3 (3x)
+
+
+
+
+7 → 8
+
+260.000 (1x)780.000 (3x)
+
+6 (1x)18 (3x)
+
+6 (1x)18 (3x)
+
+Datei:Ring des Nordwinds.png1 (1x)3 (3x)
+
+
+
+
+8 → 9
+
+6✦
+
+450.000 (1x)1.350.000 (3x)
+
+9 (1x)27 (3x)
+
+12 (1x)36 (3x)
+
+Datei:Ring des Nordwinds.png2 (1x)6 (3x)
+
+
+
+
+9 → 10
+
+700.000 (1x)2.100.000 (3x)
+
+12 (1x)36 (3x)
+
+16 (1x)48 (3x)
+
+Datei:Ring des Nordwinds.png2 (1x)6 (3x)
+
+1 (1x)3 (3x)
+
+
+
+
+Gesamtkosten
+
+
+1 → 10
+
+
+
+
+1.652.500 (1x)4.957.500 (3x)
+
+6 (1x)18 (3x)
+
+22 (1x)66 (3x)
+
+31 (1x)93 (3x)
+
+3 (1x)9 (3x)
+
+21 (1x)63 (3x)
+
+38 (1x)114 (3x)
+
+Datei:Ring des Nordwinds.png6 (1x)18 (3x)
+
+1 (1x)3 (3x)
+
+
+Sternbild[]
+
+
+
+Stufe
+
+Symbol
+
+Name
+
+Effekt
+
+
+1
+
+Datei:Kettenreaktion.png
+
+Kettenreaktion
+
+Erschafft beim Angriff und beim Einsetzen von Fähigkeiten mit gewisser Wahrscheinlichkeit Funken, die Gegner angreifen und Schaden in Höhe von 120% des Schadens von Funkelfunken verursachen.
+
+
+2
+
+Datei:Splitterbombe.png
+
+Splitterbombe
+
+Die Sprengfallen von Bimm-Bamm-Bombe verringern die VTD von Gegnern 10s lang um 23%.
+
+
+3
+
+Datei:Klees Sonderanfertigung.png
+
+Klees Sonderanfertigung
+
+Erhöht die Stufe der Fähigkeit Bimm-Bamm-Bombe um 3.Höchststufe 15.
+
+
+4
+
+Datei:Manuelle Explosion (Klee).png
+
+Manuelle Explosion
+
+Löst beim Auswechseln der Figur während der Wirkungsdauer von Funkelfunken eine Explosion aus, die Pyro-Flächenschaden in Höhe von 555% ANG verursacht.
+
+
+5
+
+Datei:Explodierender Stern.png
+
+Explodierender Stern
+
+Erhöht die Stufe der Fähigkeit Funkelfunken um 3.Höchststufe 15.
+
+
+6
+
+Datei:Feuer frei.png
+
+Feuer frei!
+
+Klee stellt allen Truppenmitgliedern (außer sich selbst) während der Wirkungsdauer von Funkelfunken alle 3s 3 Punkte Elementarenergie wieder her.Erhöht den Pyro-Schaden aller Truppenmitglieder nach Anwenden von Funkelfunken 25s lang um 10%.
+
+Jede Aktivierung einer Sternbild Stufe benötigt eine  Stella Fortuna.
+
+Aufstiegsmaterialien[]
+
+
+
+Aufstiegs-stufe
+
+Mora
+
+Material zur Verbesserungvon Figuren
+
+RegionaleBesonderheit
+
+AllgemeineAufstiegsmaterialien
+
+
+0 → 1
+
+20.000
+
+1
+
+Datei:Philanemo-Pilz.png3
+
+3
+
+
+1 → 2
+
+40.000
+
+3
+
+2
+
+Datei:Philanemo-Pilz.png10
+
+15
+
+
+2 → 3
+
+60.000
+
+6
+
+4
+
+Datei:Philanemo-Pilz.png20
+
+12
+
+
+3 → 4
+
+80.000
+
+3
+
+8
+
+Datei:Philanemo-Pilz.png30
+
+18
+
+
+4 → 5
+
+100.000
+
+6
+
+12
+
+Datei:Philanemo-Pilz.png45
+
+12
+
+
+5 → 6
+
+120.000
+
+6
+
+20
+
+Datei:Philanemo-Pilz.png60
+
+24
+
+
+
+
+Gesamtkosten
+
+
+0 → 6
+
+
+
+
+420.000
+
+1
+
+9
+
+9
+
+6
+
+
+
+
+
+
+46
+
+Datei:Philanemo-Pilz.png168
+
+18
+
+30
+
+36
+
+
+Basisattribute[]
+Die Basisattribute vor und nach jedem Aufstieg:
+
+
+
+
+Aufstiegsstufe
+
+Stufe
+
+Basis-LP
+
+Basis-VTD
+
+Basis-ANG1
+
+Spezialisiertes Attribut2(Pyro-Schaden-Bonus)
+
+
+0
+
+1
+
+
+
+
+
+
+
+—
+
+
+20
+
+
+
+
+
+
+
+
+1
+
+20
+
+
+
+
+
+
+
+—
+
+
+40
+
+
+
+
+
+
+
+
+2
+
+40
+
+
+
+
+
+
+
+
+
+
+50
+
+
+
+
+
+
+
+
+3
+
+50
+
+
+
+
+
+
+
+
+
+
+60
+
+
+
+
+
+
+
+
+4
+
+60
+
+
+
+
+
+
+
+
+
+
+70
+
+
+
+
+
+
+
+
+5
+
+70
+
+
+
+
+
+
+
+
+
+
+80
+
+
+
+
+
+
+
+
+6/MAX
+
+80
+
+
+
+
+
+
+
+
+
+
+90
+
+
+
+
+
+
+
+
+1 Enthält keinen Waffen-ANG-Wert.
+2 Figuren erhalten ab den 2. Aufstieg ein spezialisiertes Attribut.
+
+Änderungsverlauf[]
+[Create New History]
+Quellen[]
+
+
+
+↑ (CN) Weibo - Klee Character Tales
+
+↑ 2,0 2,1 (EN & JP) Twitter - Ankündigung zu den Synchronsprechern
+
+↑ (KR) Twitter - Ankündigung zu den Synchronsprechern
+
+
+
+Navigation[]
+
+
+
+                              Figuren
+
+
+    spielbare Figuren ▼ ▲
+
+
+
+
+
+Fremde
+
+5★
+
+
+
+
+Mondstadt
+
+4★
+
+
+
+
+5★
+
+
+
+
+Liyue
+
+4★
+
+
+
+
+5★
+
+
+
+
+Inazuma
+
+4★
+
+
+
+
+5★
+
+
+
+
+Sumeru
+
+4★
+
+
+
+
+5★
+
+
+
+
+Snezhnaya
+
+5★
+
+
+
+
+
+    kommende Figuren ▼ ▲
+
+
+
+
+
+Figuren, die von Hoyoverse als kommende spielbare Figuren angekündigt wurden.
+
+
+Khaenri'ah
+
+
+
+
+Sumeru
+
+
+
+
+
+    erwähnte Figuren ▼ ▲
+
+
+
+
+
+wichtige Figuren, die im Spiel, Manga oder anderen offiziellen Medien erwähnt oder gesehen werden. Es wird spekuliert, dass sie in Zukunft spielbare Figuren werden.
+
+
+Mondstadt
+
+Varka • Alice
+
+
+Liyue
+
+Baizhu • Yaoyao
+
+
+Sumeru
+
+Alhaitham • Dehya • Nahida
+
+
+Fontaine
+
+Lyney • Lynette
+
+
+Natlan
+
+Iansan
+
+
+Snezhnaya
+
+Signora • Scaramouche • Pulcinella • Dottore • Pantalone • Pierro • Sandrone
+
+
+
+
+

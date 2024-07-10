@@ -1,0 +1,476 @@
+
+
+
+
+
+
+
+
+Stub
+
+Dieser Artikel ist ein Stub. Du kannst dem Genshin Impact Wiki helfen, indem du ihn erweiterst.
+
+
+
+
+
+Übersicht
+
+Figurenhintergrund
+
+Stimme
+
+Kleidung
+
+Kanne der Vergänglichkeit
+
+Galerie
+
+
+
+Tartaglia
+
+
+
+
+
+
+
+
+Seltenheit
+Waffe
+Göttliches Auge
+
+
+
+
+
+
+
+
+
+Informationen
+
+Geschlecht
+Männlich
+
+
+Zugehörigkeit
+Fatui
+
+
+Nationalität
+Snezhnaya
+
+
+Sternbild
+Monoceros Caeli
+
+
+
+Synchronsprecher
+
+Chinesich
+Dong Yu (鱼冻)
+
+
+Japanisch
+Ryohei Kimura (木村 良平)
+
+
+Koreanisch
+Nam Doh-hyeong (남도형)
+
+
+Englisch
+Griffin Burns
+
+
+
+Tartaglia ist eine spielbare Hydro Figur in Genshin Impact.
+
+Inhaltsverzeichnis
+
+1 Profil
+
+1.1 Vorstellung
+1.2 Figurendetails
+
+
+2 Kampf
+
+2.1 Basiswerte
+2.2 Talente
+2.3 Sternbild
+
+
+3 Hintergrund
+
+3.1 Figurenhintergrund 1
+3.2 Figurenhintergrund 2
+
+
+4 Trivia
+
+
+Profil[]
+Vorstellung[]
+
+
+“
+
+Tartaglia aus dem Reich des Eises, ein Fremder mit unberechenbaren Ideen.
+Es bringt nicht, seine Absichten zu hinterfragen. Man braucht nur eines zu wissen: Hinter dieser undurchdringlichen Maske steckt ein äußerst gut ausgebildeter Krieger.
+
+
+”
+
+
+–Von der offiziellen GI Seite
+
+Figurendetails[]
+Obwohl er bereits zu einem der Elf aufgestiegen war, dem höchsten Regierungsorgan der Fatui, sieht der "Graf" Tartaglia immer noch aus wie der junge Mann, der er eigentlich auch ist.
+Er ist wie ein Wolf im Schafspelz. Unter seiner fröhlichen und selbstbewussten Erscheinung verbirgt sich jedoch ein tödlicher Schwertkämpfer.
+Er ist der jüngste unter den Elf der Fatui, aber gleichzeitig auch einer der gefährlichsten von ihnen.
+Er scheint jedoch nicht sehr gut mit den anderen auszukommen. Als Kämpfer steht er ziemlich im Widerspruch zu den anderen Mitgliedern dieser Organisation, deren Kernarbeit aus Betrug und Verrat besteht.
+
+Kampf[]
+Basiswerte[]
+
+
+Aufstieg
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+
+Stufe
+
+1
+
+20
+
+40
+
+50
+
+60
+
+70
+
+80
+
+90
+
+
+HP
+
+1,020
+
+2,646
+
+3,521
+
+5,268
+
+5,889
+
+6,776
+
+7,604
+
+8,500
+
+9,121
+
+10,025
+
+10,647
+
+11,561
+
+12,182
+
+13,103
+
+
+ATK
+
+47
+
+
+
+81
+
+121
+
+136
+
+156
+
+175
+
+196
+
+210
+
+231
+
+245
+
+266
+
+280
+
+301
+
+
+DEF
+
+63
+
+165
+
+219
+
+328
+
+366
+
+421
+
+473
+
+528
+
+567
+
+623
+
+662
+
+719
+
+757
+
+815
+
+
+Hydro DMG%
+
+keine
+
+7.2%
+
+4.4%
+
+14.4%
+
+21.6%
+
+28.8%
+
+Talente[]
+Sternbild[]
+
+
+Stufe
+
+Name
+
+Effekt
+
+
+1
+
+Dämonengewand - Wellenbrecher
+
+Verkürzt die Abklingzeit für die Anwendung von Dämonengewand - Stürmische Gezeiten um 20 %.
+
+
+2
+
+Dämonengewand - Unterströmung
+
+Stellt Tartaglia, wenn von Versiegen betroffene Gegner besiegt werden, 4 Punkte Elementarenergie wieder her.
+
+
+3
+
+Katastrophe des Abgrunds - Studel der Zwietracht
+
+Erhöht die Stufe der Fähigkeit Dämonengewand - Stürmische Gezeiten um 3. Höchststufe 15.
+
+
+4
+
+Katastrophe des Abgrunds - Sprudelndes Wasser
+
+Löst bei Anwesenheit des von Tartaglia verursachten Effekts Verisegen alle 4 s Versiegen - Hieb aus, wenn Tartaglia im Nahkampfmodus von Dämonengewand - Stürmische Gezeiten ist, löst andernfalls Versiegen - Blitz aus. Versiegen - Hieb und Versiegen - Blitz werden, wenn sie durch dieses Sternbild ausgelöst werden, nicht von der zeitlichen Beschränkung der beiden Zustände des Versiegens beeinflusst und wirken sich auch nicht auf die Zeitabstände zum Auslösen aus.
+
+
+5
+
+Spezialangriff - Regenschlächter
+
+Erhöht die Stufe der Fähigkeit Spezialangriff - Totale Vernichtung um 3. Höchststufe 15.
+
+
+6
+
+Spezialangriff - Komplette Auslöschung
+
+Überschrift die Abklingzeit von Spezialangriff - Stürmische Gezeiten bei Anwendungen von Spezialangriff - Totale Vernichtung im Nahkampf. Dieser Effekt wird nach dem Wechsel in den Fernkampf aktiv.
+
+Hintergrund[]
+Figurenhintergrund 1[]
+Figurenhintergrund 2[]
+Trivia[]
+
+
+
+                              Figuren
+
+
+    spielbare Figuren ▼ ▲
+
+
+
+
+
+Fremde
+
+5★
+
+
+
+
+Mondstadt
+
+4★
+
+
+
+
+5★
+
+
+
+
+Liyue
+
+4★
+
+
+
+
+5★
+
+
+
+
+Inazuma
+
+4★
+
+
+
+
+5★
+
+
+
+
+Sumeru
+
+4★
+
+
+
+
+5★
+
+
+
+
+Snezhnaya
+
+5★
+
+
+
+
+
+    kommende Figuren ▼ ▲
+
+
+
+
+
+Figuren, die von Hoyoverse als kommende spielbare Figuren angekündigt wurden.
+
+
+Khaenri'ah
+
+
+
+
+Sumeru
+
+
+
+
+
+    erwähnte Figuren ▼ ▲
+
+
+
+
+
+wichtige Figuren, die im Spiel, Manga oder anderen offiziellen Medien erwähnt oder gesehen werden. Es wird spekuliert, dass sie in Zukunft spielbare Figuren werden.
+
+
+Mondstadt
+
+Varka • Alice
+
+
+Liyue
+
+Baizhu • Yaoyao
+
+
+Sumeru
+
+Alhaitham • Dehya • Nahida
+
+
+Fontaine
+
+Lyney • Lynette
+
+
+Natlan
+
+Iansan
+
+
+Snezhnaya
+
+Signora • Scaramouche • Pulcinella • Dottore • Pantalone • Pierro • Sandrone
+
+
+
+
+
