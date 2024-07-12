@@ -1,0 +1,115 @@
+
+
+
+
+
+Younan
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Sumeru
+
+
+Location
+Inazuma
+
+
+Affil­i­a­tion
+The Eremites
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Event-Exclusive NPCs 
+
+
+
+
+Younan is an event-exclusive NPC who appeared in Warrior's Spirit.
+
+Contents
+
+1 Profile
+
+1.1 Appearance
+
+
+2 Quests and Events
+
+2.1 Events
+
+
+3 Dialogue
+
+3.1 Dialogue Set #1
+3.2 Dialogue Set #2
+
+
+4 Other Languages
+5 Change History
+
+
+Profile[]
+(To be added.)
+
+Appearance[]
+Younan takes on the appearance of an Eremite Stone Enchanter.
+
+Quests and Events[]
+EventsWarrior's SpiritUnexpected Battle
+Dialogue[]
+Dialogue Set #1[]
+
+(After completing Unexpected Battle)
+Younan: Hmm? Are you one of the contestants on Warrior's Spirit?
+ You're from Sumeru?
+Younan: Yes. Us Eremites are tasked with ensuring safe passage of goods from Inazuma to Sumeru, which is why we often come to Ritou.
+Younan: You can sign up for this Warrior's Spirit contest as long as you have a weapon for close-quarters combat. How could I say no?
+Younan: Hah, not that I'm bragging, but my brothers at Port Ormos are famous for their martial prowess, and I'm the best out of them all!
+Younan: It seems that you know your way around a sword, young (‍manmanText for male Traveler/ladyladyText for female Traveler‍), but you do look a little... frail. If we see each other on the field, don't blame me for not going easy, haha!
+
+Dialogue Set #2[]
+
+(After completing Duel: Younan)
+Younan: Oh, it's you! I didn't think I would lose to a young (‍manmanText for male Traveler/womanwomanText for female Traveler‍) with scrawny arms and legs! But you're a real fighter, so it was an honorable loss, haha!
+ Will you stick around in Inazuma?
+Younan: What? Just because I lost doesn't mean I can't stay here! ...Well, to tell you the truth, I've been waiting these last two days for the next cargo ship that my brothers are on to come and take me home.
+Younan: If I'd known I would be out in the third round, I wouldn't have asked for so many days off, and not made any money. Fortunately, I won two games before, and I still have a few pennies left after I got the money to last me the next few days.
+
+Other Languages[]
+
+LanguageOfficial NameEnglishYounanChinese(Simplified)尤南YóunánChinese(Traditional)尤南YóunánJapaneseユナンYunanKorean유난YunanSpanishYounanFrenchYounanRussianЮ Нань[• 1]Yu Nan'ThaiYounanVietnameseYounanGermanYounanIndonesianYounanPortugueseYounanTurkishYounanItalianYounan
+↑ Russian: Transliteration is wrong in the Russian localization, it's supposed to be Юнан Yunan.
+
+
+Change History[]
+Released in Version 3.4[Create New History]
+
+
+

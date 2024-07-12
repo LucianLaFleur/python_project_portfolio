@@ -1,0 +1,207 @@
+
+
+
+
+
+Pyrrho
+Skeptic
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Sumeru
+
+
+Location
+Sumeru
+
+
+Affil­i­a­tion
+Order of Skeptics
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Quest-Exclusive NPCs 
+
+
+
+
+Pyrrho is a quest-exclusive NPC that appears in the World Quest Series Khvarena of Good and Evil.
+
+Contents
+
+1 Profile
+
+1.1 Appearance
+
+
+2 Quests and Events
+
+2.1 World Quests
+
+
+3 Thoughts
+4 Idle Quotes
+5 Dialogue
+
+5.1 Dialogue Set #1
+5.2 Dialogue Set #2
+5.3 Dialogue Set #3
+5.4 Dialogue Set #4
+
+
+6 Trivia
+
+6.1 Etymology
+
+
+7 Other Languages
+8 Change History
+
+
+Profile[]
+(To be added.)
+
+Appearance[]
+(To be added.)
+
+Quests and Events[]
+World QuestsKhvarena of Good and EvilThe Splendorous Sky That DayAs the Khvarena's Light Shows
+Thoughts[]
+Pyrrho's thoughts can be accessed by using Nahida's Elemental Skill, All Schemes to Know.
+
+
+(Before completing Step 4 of The Splendorous Sky That Day.)
+???: (Am I hearing things, or is there a suspicious sound...)
+
+
+(After completing Step 6 of The Splendorous Sky That Day.)
+Pyrrho: (Even Lady Sorush says so, which means I'm not the one to blame...)
+
+
+(After completing As the Khvarena's Light Shows.)
+Pyrrho: (I have to stay all the more alert...)
+
+Idle Quotes[]
+
+ Don't ask...
+Media:VO Pyrrho 01.ogg "Huh, keep your questions to yourself."
+
+After completing As the Khvarena's Light Shows
+
+ I never thought...
+Media:VO Pyrrho 02.ogg "I never thought that things would turn out this way..."
+
+Dialogue[]
+Dialogue Set #1[]
+Available before completing Step 4 in The Splendorous Sky That Day.
+
+
+???: Who are you?
+???: This is no place for you. Please, go back.
+
+Dialogue Set #2[]
+Available after completing Step 6 in The Splendorous Sky That Day.
+
+
+Pyrrho: Though Lady Sorush speaks for you, I will not be so lenient should you make any suspicious movements!
+ Look who sounds all reliable.
+Pyrrho: Hmph. Of course. I am one of the oldest qualified members of our Order, after all.
+Pyrrho: I am not quite the equal of our Vijnanapati, but as one of the desertfolk who have lived here for generations, the Order and I are as one by blood.
+Pyrrho: So if you encounter any issues, you can ask...
+Pyrrho: No, wait! No. I won't be answering any of your questions!
+ So, about your Vijnanapati...
+Pyrrho: He's a very knowledgeable scholar! He knows more than anyone I've ever met.
+Pyrrho: We Skeptics were once a Darshan within the Akademiya, but our traditions of knowledge have been eroded after hundreds of years here in the desert, far from the city.
+Pyrrho: It's all thanks to our Vijnanapati that we are recovering our ancient traditions. With him around, our Order shall soon reclaim our lost glory!
+ Don't worry, you shan't hear questions from me.
+Pyrrho: Hmph. As it should be.
+
+Dialogue Set #3[]
+Available after completing As the Khvarena's Light Shows.
+
+
+Pyrrho: Well, why are you back? Did you get the door slammed on you by our great Vijnanapati? I'll have you know that he doesn't compromise so easily with the Pari.
+Pyrrho: You should just leave. And don't even think of getting anything more from me!
+Paimon: Pfft! You spilled the beans without our help every time, though!
+ So, about your Vijnanapati...
+ Well, you say he's different, but...
+You tell Pyrrho of the Great Songs and Nasejuna's betrayal.
+Pyrrho: Nonsense. Utter nonsense! Our Vijnanapati is the most scholarly man I know. He would not band together with those defiled beings!
+Pyrrho: I'll bet you're just trying to mask your failure by sowing dissent.
+Pyrrho: Nice try, but your story's way out there. No way I'd fall for that!
+Paimon: Ugh... C'mon, we gotta think. Don't we have those notes that Nasejuna gave us?
+Paimon: It should still have Nasejuna's notes. Pyrrho should believe us if we give those to him!
+Pyrrho: What notes are these? You really love those tricks of yours, don't you?
+You give Rene's Investigation Notes to Pyrrho.
+Pyrrho: This... This is indeed the great Vijnanapati's handwriting...
+Pyrrho: It truly was a once-in-a-lifetime thing that we gained such a knowledgeable leader, and yet he turned his back on our duties and threw his lot with the followers of the dark hollow...
+Pyrrho: *sigh* You may not know this, but we have struggled against the followers of the dark hollow for hundreds of years.
+Pyrrho: You could say that they are akin to our shadow, always attempting to taint our heritage. I have no doubt that the fall of our order to its present state cannot be separated from their plots.
+Pyrrho: But I never thought that this time, even our leader would be... Ah, a plague upon our house, this is!
+Pyrrho: No doubt Nasejuna has gone with those impure villains and now skulks with them in the shadows.
+Pyrrho: In the past, he followed Elder Aryadeva to the Akademiya, and upon returning, he was absorbed with those ancient documents.
+Pyrrho: We were people who emphasized praxis, and we found ourselves without a scholar like him for many years. I had thought that he would lead us to reform, but...
+ Honestly, we didn't see that one coming either.
+ This wasn't your fault.
+Pyrrho: But since this is how things have played out, I must handle that which remains to be done.
+Pyrrho:  Our first priority is to appoint a new Vijnanapati. Things would go ill if someone takes advantage of this vacuum.
+Paimon: Well, Paimon's really not sure if you have much of a vacuum worth sneaking into now...
+Pyrrho: Indeed, and I am ashamed of it. As penance, allow me to give you these documents that Nasejuna left in my keeping. They record the various traditions of our Order.
+Pyrrho: Although I have not been able to understand it, I believe it might be of interest to you, so please, take it.
+Pyrrho: And if you should have any trouble in the future, just seek me out, and I will lend you my aid.
+(Obtain  Ancient Volume)
+
+Dialogue Set #4[]
+Available after obtaining the  Ancient Volume from Pyrrho.
+
+
+Pyrrho: To think that something like this would happen. What a disgrace...
+Pyrrho: As I thought, stuff regarding knowledge doesn't really suit me all that much. Too complicated.
+ Tell me about the Order of the Skeptics...
+Pyrrho: Our top priority is choosing a new Vijnanapati, but as you can see, we do not have anyone who can currently fill that role.
+Pyrrho: However, we have already asked Elder Aryadeva to invite an exceptional researcher to come over from the city.
+Pyrrho: We have stood sentinel here these hundreds of years, and we have seen many a crisis through in our time. This is but a small problem. Don't worry about us!
+ Not going over to the camp?
+Pyrrho: All the more I should stand guard here at a time like this. If some ill-intentioned villains sneak in, things might really get bad.
+Pyrrho: Even Miss Sosi told me not to go running around. She must rely on me quite a bit, I think.
+ I'll leave you to it, then.
+Pyrrho: Haha, see you, then.
+
+Trivia[]
+Etymology[]
+The name Pyrrho is a reference to the real world philosopher of Greek antiquity, Pyrrho of Elis, credited as being the first Greek skeptic philosopher.
+Other Languages[]
+
+LanguageOfficial NameEnglishPyrrhoChinese(Simplified)毕洛BìluòChinese(Traditional)畢洛BìluòJapaneseピュロンPyuronKorean피론PironSpanishPirrónFrenchPyrrhoRussianПирроPirroThaiPyrrhoVietnamesePyrrhoGermanPyrrhoIndonesianPyrrhoPortuguesePyrrhoTurkishPyrrhoItalianPyrrho
+Change History[]
+Released in Version 3.6[Create New History]
+
+
+

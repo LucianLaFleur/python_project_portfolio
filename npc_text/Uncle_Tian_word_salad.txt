@@ -1,0 +1,296 @@
+
+
+
+
+
+Uncle Tian
+Tianshu
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+								Family
+							
+
+
+
+								Voice Actors
+							
+
+
+
+
+
+Region
+Liyue
+
+
+Location
+Liyue
+
+
+Affil­i­a­tion
+Liyue Qixing
+
+
+Dialogue Reward
+ 5
+
+
+Genius Invokation TCG
+Stages
+
+
+
+
+Sibling
+Yundan
+
+
+Child
+Huixin
+
+
+
+
+English
+Bill Butts[1]
+
+
+Japanese
+Kubo Takuma (久保 拓馬)[2]
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Uncle Tian  (Chinese: 天叔 Tiānshū) is an open-world NPC in Liyue Harbor. He can be found near the dockyard during daytime (06:00 – 19:00).
+Yundan in Qingce Village is his older sister, and his daughter is Huixin, a secretary working for the Liyue Qixing.[3]
+Following a certain dialogue branch for the first time gives the player five Fish. His dialogue also changes after completing Act I of the Sinae Unicornis Chapter.
+
+Contents
+
+1 Location
+2 Profile
+
+2.1 Appearance
+
+
+3 Quests and Events
+
+3.1 Story Quests
+3.2 World Quests
+3.3 Events
+3.4 Web Events
+
+
+4 Idle Quotes
+5 Dialogue
+
+5.1 Dialogue Set #1
+5.2 Dialogue Set #2
+
+
+6 Event Dialogue
+
+6.1 Moonlight Merriment
+6.2 Fleeting Colors in Flight
+
+
+7 Trivia
+8 Gallery
+9 Other Languages
+10 Change History
+11 References
+
+
+Location[]
+Uncle Tian's location (Daytime)Additional context
+Profile[]
+While he appears to be an old and senile fisherman, he is actually the Tianshu of the Liyue Qixing[3], responsible for policymaking. As his position was envied by many, Tian was able to keep his position by pitting his enemies against each other.[4]
+As a result of his position, he is also quite familiar with many members of the Millelith; he knew Childish Jiang's parents and, after the death of his father during his final mission and his mother's death from illness, erected graves for them at their home and regularly visits Jiang to make sure he is doing well.
+Sometime after the events in The Chasm regarding the Chasm Nail, Tian noted that his mental and physical strength was dropping and decided on looking for a successor. He asked Yelan to act as an observing official on his behalf, in which he provided three candidates, all of whom he had mentored himself; Zhiyi, Mingbo and Qianwei. After interviewing each candidate, Yelan eventually chose Zhiyi due to his ability to react to situations with calm and collectiveness.
+In reality, Tian's weakness came from a fish soup that Zhiyi had provided him, having poisoned it in order to take the position for himself with the assistance of the Fatui. During the subsequent background investigation, Yelan discovers that his alibi had numerous anomalies and apprehended him with the Traveler. Upon learning of the poison, Baizhu was able to create an antidote before the poison could do serious harm, although Tian was shocked by the betrayal, having deemed him safe after looking into his past. Still with a few years of working capability, Tian decided to hand his duties off over time while mentoring some new candidates.[5]
+
+Appearance[]
+He has gray hair, gray vest, a black belt, and black sandals.
+
+Quests and Events[]
+Story QuestsSinae Unicornis Chapter (Ganyu)Act I: Sea of Clouds, Sea of PeopleA Secretary in a Sea of HumanityUmbrabilis Orchis Chapter (Yelan)Act I: Calculated GambitSeven-Star SelectionForegone ConclusionWorld QuestsWords Worth Their Weight in MoraEventsMoonlight MerrimentPart II: Three to Get Ready, and Here We GoWeb EventsHerbal Remedies
+Idle Quotes[]
+
+ ...Still not biting?
+Media:VO Uncle Tian 01.ogg "How are the fish still not biting today?"
+
+During Moonlight Merriment
+
+ Fullmoon Egg...
+Media:VO Uncle Tian Moonlight Merriment 01.ogg "I'm one fish away from being able to make a Fullmoon Egg..."
+
+After completing Where the Heart Finds Rest
+
+ The Jade Chamber...
+Media:VO Uncle Tian Lantern Rite 01.ogg "It's good to see the Jade Chamber back up where it belongs."
+
+Dialogue[]
+Dialogue Set #1[]
+Available before completing Sea of Clouds, Sea of People.
+
+
+Uncle Tian: Darn. Seems I forgot my bait.
+Uncle Tian: Oh, hey kiddo!
+ Hello.
+Uncle Tian: Hey there! Never expected any young 'uns would come talking to me at my age.
+Uncle Tian: Find yourself a spot to sit. You can call me Uncle Tian. Makes this old codger feel like a young man again.
+Uncle Tian: Huh? You think I still look young?
+Uncle Tian: Well, youth isn't really a matter of age... it's more to do with how much pain and suffering you've experienced in your life.
+ What are you doing?
+Uncle Tian: Just a spot of fishing. I don't make my living off of it anymore, though, so when I catch something, I throw it right back in again.
+Uncle Tian: It's been a long time since I chatted with someone your age. Good to meet you. Here, have a fish.
+(Obtain  Fish ×5)
+ Tell me about your boat.
+Uncle Tian: This boat? You like her huh? Been with me all my life...
+Uncle Tian: Back when I was a young fella, I was poorer than a panhandler, but at least I had it in me to haul in whatever snagged my line!
+Uncle Tian: Things you do for yourself, you yourself get to reap the rewards for. How much you sweat determines how much you get... Those were the good ole days, could just keep goin' an' never get tired.
+Uncle Tian: ...
+Uncle Tian: ...
+ ...?
+Uncle Tian: Ahhh, what was I saying... Lost my train of thought...
+Uncle Tian: Oh, right. Anyway, I struggled for the first... I dunno how long, but with perseverance and bit of luck, I got my own business started up and didn't have to do all the fishin' myself anymore.
+Uncle Tian: But, everyone's out tryna swindle each other, an' before I knew it, I'd lost sight of myself.
+Uncle Tian: So to bring myself back to my roots, I bring my tired old self here to fish and talk about the good ole days.
+Uncle Tian: Back when I was a young fella, I was poorer than a panhandler...
+ You ahh... said that part already...
+Uncle Tian: ...Whaddya mean I said that already? Don't butt in when the old fella's talkin'. Now back then I was poorer than a panhandler...
+Uncle Tian: but at least I had it in me to haul 'em in...
+Uncle Tian: ...
+ Okay, great. Ahh... Bye.
+Uncle Tian: Oh, alright then. Be careful out there young 'un.
+Uncle Tian: If you happen to pass by Qingce Village and see my dear Yundan, be sure to speak with her, let her know I'm alive, yeah?
+Dialogue Set #2[]
+Available after completing Sea of Clouds, Sea of People.
+
+Uncle Tian: Ho there, youngster.
+Uncle Tian: Oh? So it's you. Haha, I suppose there's no point keeping up the act, then.
+ Adventure Challenge
+(Opens Genius Invokation TCG match interface)
+(If the player loses the match)
+
+Uncle Tian: This is a game I've been thinking about for a long time. It's not easy to break, haha.
+(If the player wins the match)
+
+Uncle Tian: Wow. I didn't think you'd be able to break the game this way.
+ So, about your real identity...
+Uncle Tian: Shh... Don't shout it for the whole world to hear. Other than a few people in key posts, the number of people who know my identity can be counted on one hand.
+Uncle Tian: People have ever been made to choose between status and freedom.
+Uncle Tian: It has taken a lot of effort for me to preserve both, haha.
+Uncle Tian: But I, too, shall give up my seat as one of the Qixing someday. The more freedom I experience, the more status feels unwieldy and clumsy.
+Uncle Tian: ...I hope that "he" too can enjoy his freedom, now that he has thrown off his yoke.
+ About fishing...
+Uncle Tian: Fishing, you say... Well, it's certainly not a tool to hide my identity. I really do enjoy fishing.
+Uncle Tian: After a little life of struggle and strife, fishing is how I quiet down and clear my thoughts.
+Uncle Tian: To be honest, I'm not even all that concerned about the value of my catches anymore... On the other hand, you seem quite concerned about that, don't you?
+Uncle Tian: Haha, come now, of course I can see it. Here, you can take today's catch.
+(Obtain  Fish ×5)
+ About Huixin...
+Uncle Tian: Haha, thanks for looking out for my daughter.
+Uncle Tian: She can be quite headstrong. Only good old Ganyu... I mean, Ms. Ganyu, can get through to her.
+Uncle Tian: But ever since that incident, she seems to have become more receptive to my advice...
+Uncle Tian: ...Speaking of which, you're quite the crafty player yourself, hmm?
+ How have things been going lately?
+(After Calculated Gambit)‍[Unlock condition]
+Uncle Tian: Well, after handing my work off to others, I must say that I've certainly freed up a lot of time.
+Uncle Tian: And now that I've had time to handle more mundane matters, I've realized that many of my old fishing buddies have either passed, or that we've drifted apart in the intervening years.
+Uncle Tian: ...Seems like you've got a lot on your mind, too. So how about it, wanna reel a few fish in together?
+Uncle Tian: You've got to get away from the clutter if you want to keep your mind clear. In many things, you just have to go with the flow. As long as your conscience is clear, things will be fine.
+ Till next time.
+Uncle Tian: Go well, youngster.
+Uncle Tian: If you happen to pass by Qingce Village and see my dear Yundan, be sure to speak with her, let her know I'm alive, yeah?
+
+Event Dialogue[]
+Moonlight Merriment[]
+
+Uncle Tian: Hello there, youngster. Here to enjoy the Moonchase Festival?
+Uncle Tian: Back in the day, we would eat Wangxiao Cakes, drink Laurel Wine, and gather together with family and friends to share our hopes for the future.
+Uncle Tian: Nowadays, the number dishes to be had has grown and grown, and we aren't quite as particular as we once were — we simply eat whatever we wish.
+Uncle Tian: Take the opportunity to try some more of Liyue's delicacies, eh?
+ Hello.
+(Same as before)
+ Tell me about your boat.
+(Same as before)
+ Okay, great. Ahh... Bye.
+(Same as before)
+
+Fleeting Colors in Flight[]
+
+Uncle Tian: Oh, hey kiddo!
+Uncle Tian: Now here I was thinking that the Lantern Rite would go by without incident this year.  But my, did I not expect to see the Jade Chamber to rise again in my time.
+Uncle Tian: It's a good way to start the year, I say!
+ Hello.
+(Same as before)
+ Tell me about your boat.
+(Same as before)
+ Okay, great. Ahh... Bye.
+(Same as before)
+
+Trivia[]
+His title, Tianshu (Chinese: 天枢 Tiānshū, "Celestial Pivot"), is the Chinese name for the star in the Big Dipper named Alpha Ursae Majoris (Dubhe), consistent with the naming convention for members of the Liyue Qixing.
+His "commoner" name, Uncle Tian (Chinese: 天叔 Tiānshū), in Chinese is pronounced identically to his official title, Tianshu (Chinese: 天枢 Tiānshū).
+It is implied from the description of Tianshu Meat that the inventor of this dish is Uncle Tian.
+Uncle Tian is mentioned in the description of the following Furnishing: Liyue House: Time Waits for No One
+According to the description of the Furnishing item "Liyue House: Time Waits for No One," Uncle Tian used to live in a house like this before his rise to the position of Tianshu.
+In Korean, Uncle Tian is instead referred to as "Uncle Tianshu"  (Korean: 천추 아저씨 Cheonchu-ajeossi), referring to his official title rather than his personal name, which would instead be written as  (Korean: 천숙 Cheonsuk).
+Gallery[]
+Uncle Tian's Prescription in Herbal RemediesVersion 2.7 "Hidden Dreams in the Depths" Trailer - Genshin Impact
+Other Languages[]
+
+LanguageOfficial NameEnglishUncle TianChinese(Simplified)天叔TiānshūChinese(Traditional)天叔TiānshúJapanese天おじTen-ojiKorean천추 아저씨Cheonchu-ajeossiSpanishTío TianFrenchOncle TianRussianДядюшка ТяньDyadyushka Tyan'Thaiลุง TianLung  TianVietnameseChú TianGermanOnkel TianIndonesianPaman TianPortugueseTio TianTurkishTian AmcaItalianZio Tian
+Change History[]
+Released in Version 1.0[Edit History]Version 3.3
+Added a Genius Invokation TCG Adventure Challenge for Uncle Tian.
+
+Version 1.0
+
+Uncle Tian was released.
+References[]
+
+↑ Twitter: EN VA Self Announcement (Archived)
+
+↑ Amuleto: JP VA's Profile
+
+↑ 3.0 3.1 Story Quest Act, Ganyu, Sinae Unicornis Chapter: Act I: Sea of Clouds, Sea of People
+
+↑ Story Quest, Ganyu, Sinae Unicornis Chapter: Act I - Sea of Clouds, Sea of People, Part 2: A Secretary in a Sea of Humanity
+
+↑ Story Quest Act, Yelan, Umbrabilis Orchis Chapter: Act I: Calculated Gambit
+
+
+
+
+

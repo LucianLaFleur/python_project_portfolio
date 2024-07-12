@@ -1,0 +1,151 @@
+
+
+
+
+
+Nanako
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Inazuma
+
+
+Location
+Inazuma
+
+
+Affil­i­a­tion
+Meikyou Shisui Art
+
+
+Dialogue Reward
+ 1
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Nanako (Japanese: 菜々子 Nanako) is an open-world NPC located in Inazuma City, Inazuma. She can be found at all times outside the Dojo.
+Her dialogue changes after completing the Archon Quest A Swordmaster's Path Is Paved With Broken Blades in Chapter II: Act I - The Immovable God and the Eternal Euthymia, and following a certain branch of this dialogue will give the player a 3-star Harbinger of Dawn.
+
+Contents
+
+1 Location
+2 Profile
+
+2.1 Appearance
+
+
+3 Quests and Events
+
+3.1 Archon Quests
+
+
+4 Idle Quotes
+5 Dialogue
+
+5.1 Dialogue Set #1
+5.2 Dialogue Set #2
+
+
+6 Other Languages
+7 Change History
+
+
+Location[]
+Nanako's locationAdditional context
+Profile[]
+Nanako is a young swordswoman, currently being trained to master Meikyou Shisui Arts under Domon alongside Junya.
+
+Appearance[]
+She has black hair and eyes and wears a green robe with a red belt around her waist.
+
+Quests and Events[]
+Archon QuestsChapter IIAct I: The Immovable God and the Eternal EuthymiaA Swordmaster's Path Is Paved With Broken Blades
+Idle Quotes[]
+Before completing A Swordmaster's Path Is Paved With Broken Blades
+
+ Everything will be fine...
+Media:VO Nanako 01.ogg "Sensei... I will find a way to restore you."
+
+After completing A Swordmaster's Path Is Paved With Broken Blades
+
+ Rebuilding the Dojo...
+Media:VO Nanako 02.ogg "As long as sensei is here, our dojo can be revitalized."
+
+Dialogue[]
+Dialogue Set #1[]
+Available before completing A Swordmaster's Path Is Paved With Broken Blades.
+
+
+Nanako: Huh, who are you? Are you just here to watch my master's humiliation?
+ Your master?
+Nanako: I'm a disciple of the Meikyou Shisui Art. My master's name is Domon.
+Nanako: My master used to be a great swordsman and a Vision-wielder. He will become the best in the world one day!
+Nanako: However, my master has been very out of sorts after losing his Vision due to the Vision Hunt Decree. I don't know what to do...
+Nanako: My parents were murdered by pirates when I was little, and I was almost killed as well. If it hadn't been for my master, I would have been dead a long time ago.
+Nanako: I will never find a way to repay him fully. Now that he's in trouble, I have to find a way to help him get back on his feet...
+ Goodbye.
+Nanako: No, I can't give up yet. I need to figure this out somehow...
+
+Dialogue Set #2[]
+Available after completing A Swordmaster's Path Is Paved With Broken Blades.
+
+
+Nanako: It's you, Traveler. Long time no see!
+ How've things been going lately?
+Nanako: Thanks to you and Guuji Yae, my master has returned to normal again. He has been teaching us swordsmanship every day, and there's hope in his eyes again.
+Nanako: As his disciples, we shall also work harder to fulfill our goal of becoming the greatest swordsmen.
+ Keep up the good work.
+(After completing Omnipresence Over Mortals)‍[verification needed]
+Nanako: Yup! With your encouragement, I'll definitely become strong!
+Nanako: That reminds me. Recently, when I was training in the dojo, I discovered a foreign-looking weapon. Did my master study it to hone his martial arts...?
+Nanako: Even if we kept it here, not many people will know how to use it. If that's the case, how about I give it to you? You came from another lands, so I think you'll be able to draw out this sword's true potential.
+(Obtain  Harbinger of Dawn ×1)
+ Goodbye.
+Nanako: Bye! I should be getting back to practice, at any rate.
+
+Other Languages[]
+
+LanguageOfficial NameEnglishNanakoChinese(Simplified)菜菜子CàicàizǐChinese(Traditional)菜菜子CàicàizǐJapanese菜々子NanakoKorean나나코NanakoSpanishNanakoFrenchNanakoRussianНанакоNanakoThaiNanakoVietnameseNanakoGermanNanakoIndonesianNanakoPortugueseNanakoTurkishNanakoItalianNanako
+Change History[]
+Released in Version 2.0[Edit History]Version 2.2
+The orientation of Nanako's katana was adjusted.
+
+
+Version 2.0
+
+Nanako was released.
+
+
+

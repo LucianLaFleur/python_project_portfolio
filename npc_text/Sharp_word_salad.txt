@@ -1,0 +1,148 @@
+
+
+
+
+
+Sharp
+"Black Hound"
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Mondstadt
+
+
+Location
+Mondstadt
+
+
+Dialogue Reward
+ 5
+
+
+
+
+
+
+
+
+								Additional Titles
+							
+
+
+
+								Categories
+							
+
+
+
+
+
+Mercenary
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Sharp is an open-world NPC who appears in the City of Mondstadt during the day and in Starsnatch Cliff during the night, between 19:00 – 06:00.
+He is a mercenary hired by Goth to protect his son Marvin. Little does Goth know, Marvin also pays Sharp money to keep his nightly rendezvous with Marla a secret.
+Following a certain dialogue branch for the first time gives the player five Cecilias.
+
+Contents
+
+1 Location
+2 Profile
+
+2.1 Appearance
+
+
+3 Idle Quotes
+4 Dialogue
+
+4.1 Daytime
+4.2 Nighttime
+
+
+5 Other Languages
+6 Change History
+
+
+Location[]
+Sharp's location (Daytime)Additional context (Daytime)Sharp's location (Nighttime)Additional context (Nighttime)
+Profile[]
+(To be added.)
+
+Appearance[]
+(To be added.)
+
+Idle Quotes[]
+
+ ...
+
+Dialogue[]
+Daytime[]
+
+(Talk to Sharp at Mondstadt City)
+Sharp: ...What do you think you're doing?
+ Who are you?
+Sharp: Sharp.
+Sharp: Master Goth's PSD.
+Sharp: If you know the first thing about me, you'll keep away from my VIP.
+ "PSD"?
+Sharp: Tsk. Of course. You wouldn't know.
+Sharp: PSD, personal security detachment. Bodyguard. We take the hit, so our clients don't have to.
+Sharp: Personally, I much prefer "merc for hire." But now that I work for them, they've insisted on PSD.
+ "VIP"?
+Sharp: That one, over there. Marvin.
+Sharp: My client. VIP, very important person. Very important to me, anyway, because he pays my wages.
+Sharp: Master Goth's young... esquire.
+Sharp: Tsk. They insist that I refer to him as "esquire." Well, what can I do? They pay my wages.
+ Sorry to bother you.
+Sharp: Mm. On your way.
+
+
+Nighttime[]
+
+(Talk to Sharp at Starsnatch Cliff)
+Sharp: What do you want?
+ What are you doing?
+Sharp: Master Goth pays me to protect his young esquire. His young esquire pays me to keep this a secret from his old man.
+Sharp: To get paid double, I just have to stay put and keep my mouth shut.
+Sharp: Hmph, look at them. Being all lovey-dovey when I'm right here watching. Young people these days have no sense of shame...
+Sharp: Wait a second... Are they getting a kick out of me watching them!?
+Sharp: Ugh, I cannot abide this!
+ Are you bored?
+Sharp: Of course. After chasing the monsters away, I have absolutely nothing to do.
+Sharp: Earlier, the young master asked me to help him pick some flowers, but he and that young lady started getting all lovey-dovey right away...
+Sharp: What need do they have for flowers? I reckon the young master's forgotten all about it already.
+Sharp: Do you want them? Just take them if you do. They're no use to me, anyhow.
+(Obtain  Cecilia ×5)
+ Goodbye.
+Sharp: Scram!
+
+Other Languages[]
+
+LanguageOfficial NameEnglishSharpChinese(Simplified)锋FēngChinese(Traditional)鋒FēngJapanese鋒Hou‍[!][!]Assumed readingKorean샤프SyapeuSpanishAfilado FarrisFrenchFarrisRussianШарпSharpThaiSharpVietnameseSharpGermanScharfIndonesianAfilado FarrisPortugueseAfiadoTurkishSharpItalianFaina
+Change History[]
+Released in Version 1.0[Create New History]
+
+
+

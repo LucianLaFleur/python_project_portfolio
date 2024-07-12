@@ -1,0 +1,229 @@
+
+
+
+
+
+Kaede
+Owner of Eipekkusu
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+								Voice Actors
+							
+
+
+
+
+
+Region
+Inazuma
+
+
+Location
+Inazuma
+
+
+Genius Invokation TCG
+Stages
+
+
+
+
+English
+Anne Yatco[1]
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Kaede  (Japanese: 楓) is an open-world NPC located in Ritou, Inazuma.
+
+Contents
+
+1 Location
+2 Profile
+
+2.1 Appearance
+
+
+3 Quests and Events
+
+3.1 Story Quests
+
+3.1.1 Hangout Events
+
+
+3.2 World Quests
+3.3 Events
+
+
+4 Idle Quotes
+5 Dialogue
+
+5.1 Dialogue Set #1
+5.2 Dialogue Set #2
+5.3 After ???
+
+
+6 Event Dialogue
+
+6.1 Hues of the Violet Garden
+
+
+7 Gallery
+8 Other Languages
+9 Change History
+10 References
+
+
+Location[]
+Kaede's locationAdditional context
+Profile[]
+(To be added.)
+
+Appearance[]
+(To be added.)
+
+Quests and Events[]
+Story QuestsCypressus Custos Chapter (Kamisato Ayato)Act I: The Firmiana Leaf FallsThe Wind SettlesHangout EventsThomaAct I: A Housekeeper's Daily ChoresA Trip for Two in RitouWorld QuestsIn Another LandEventsHues of the Violet GardenFestival DeedsPart III: Buyer's Guide to the Statue of Her Excellency, the Almighty Narukami Ogosho, God of ThunderDuel! The Summoners' Summit!Round 3: Cards Out! Grievances Begone
+Idle Quotes[]
+
+ Since there is no one...
+Media:VO Kaede 01.ogg "*sigh* Should I close early? It's not like I'll get any customers..."
+
+After completing Transient Dreams
+
+ So many customers...
+Media:VO Kaede 02.ogg "So many new customers! Maybe I should order some new stock..."
+
+During Hues of the Violet Garden
+
+ So many people...
+Media:VO Kaede Irodori 01.ogg "The festivals always attract so many people, ugh..."
+
+Dialogue[]
+This page is missing dialogue.Can you help out? Click here to add more.Check dialogue condition
+Dialogue Set #1[]
+Available before completing Radiant Sakura.
+
+
+Kaede: Hmm? You're talking to me... Are you a customer?
+ Adventure Challenge
+(Opens Genius Invokation TCG match interface)
+(If the player loses the match)
+
+Kaede: Ah, why don't you buy a doll? Maybe it'll give you better luck...
+(If the player wins the match)
+
+Kaede: Ack... How? I can't believe I lost because of this...
+ So, what's this shop all about?
+Kaede: We mainly sell souvenirs, like Inazuman novels, tanuki dolls, and stuff like that.
+Kaede: Back then... we might also have sold statues of the Almighty Shogun and other related goods as well.
+Kaede: Sadly, we haven't really seen that many customers since the lockdown came into effect except for those Snezhnayan merchants who want to entertain their families.
+ What kinds of dolls?
+Kaede: Our featured products are statues  of fox spirits and porcelain tanuki dolls. Uh... tanuki dolls sell a bit better.
+Kaede: They represent good fortune in Inazuma. Many business owners buy one to place in their stores, hoping for financial success.
+Kaede: They look really cute as well! It's not a bad idea to gift them to your favorite girl or the children in your family.
+ Statues of the Shogun?
+Kaede: Yeah, our Almighty Shogun is a merciful and forgiving person who doesn't really mind people buying the statues for any reason whatsoever.
+Kaede: *sigh* It used to be our best-selling product...
+Kaede: Sadly, we've lost our customer base ever since the lockdown happened. And such a delicate item is not cheap to craft, so we've had no choice but to take them off the shelves.
+ Goodbye.
+Kaede: *sigh* So you're not here to buy anything after all, are you...
+
+Dialogue Set #2[]
+Available after completing Radiant Sakura.
+
+
+Kaede: Again, seriously— uh, I mean, hello, how may I help you?
+ Adventure Challenge
+(Same as before)
+ So what do you sell here?
+Kaede: We mainly sell souvenirs, like Inazuman novels, tanuki dolls, and stuff like that.
+Kaede: Back then... we might also have sold statues of the Almighty Shogun and other related goods as well.
+ What kinds of dolls?
+(Same as before)
+ Statues of the Shogun?
+Kaede: Yeah, our Almighty Shogun is a merciful and forgiving person who doesn't really mind people buying the statues for any reason whatsoever.
+Kaede: Before the Sakoku Decree was instated, it used to be our best-selling product... But the old edition long ceased production.
+Kaede: I've heard that a new model is being developed, though...
+Kaede: I should keep an eye on developments on that front. This is a business after all... But it's such a bother...
+ Goodbye.
+(Same as before)
+
+After ???[]
+
+Kaede: Again, seriously— uh, I mean, hello, how may I help you?
+ Adventure Challenge
+(Same as before)
+ So what do you sell here?
+Kaede: We mainly sell souvenirs, like Inazuman novels, tanuki dolls, and stuff like that.
+Kaede: During special periods like holidays or festivals, we would also sell statues of the Almighty Shogun and other related goods.
+ What kinds of dolls?
+(Same as before)
+ Statues of the Shogun?
+Kaede: Yeah, our Almighty Shogun is a merciful and forgiving person who doesn't really mind people buying the statues for any reason whatsoever.
+Kaede: Before the Sakoku Decree was instated, it was our best-selling product... But the old edition has long ceased production, and we've switched to a new one since.
+ Goodbye.
+(Same as before)
+
+Event Dialogue[]
+Hues of the Violet Garden[]
+
+(After looking for Yae Miko in Festive Elegance)
+Kaede: Wow. The Irodori Festival hasn't started yet, and there are already so many people on Ritou...
+Kaede: Well, dear customer, you'll have to wait till the festival starts to get one of our Statues of Her Excellency, the Almighty Narukami Ogosho, God of Thunder!
+Kaede: ...Ah, you're not here about the Shogun Statues? Sorry, we've just gotten so many queries concerning those recently.
+(Continue non-event dialogue)
+(After completing The Strange Tale of Suikou's Tipsy Tincture)
+Kaede: I never thought that Ritou would play host to a festival by the Yae Publishing House, nor that this many people would show up.
+Kaede: Thanks to the Irodori Festival, our Inazuman products and toys have been very popular indeed, even those that aren't necessarily part of our event-specific promotions.
+(Continue non-event dialogue)
+
+Gallery[]
+Version 2.6 "Zephyr of the Violet Garden" Trailer - Genshin Impact
+Other Languages[]
+
+LanguageOfficial NameEnglishKaedeChinese(Simplified)枫FēngChinese(Traditional)楓FēngJapanese楓KaedeKorean카에데KaedeSpanishKaedeFrenchKaedeRussianКаэдэKaedeThaiKaedeVietnameseKaedeGermanKaedeIndonesianKaedePortugueseKaedeTurkishKaedeItalianKaede
+Change History[]
+Released in Version 2.0[Edit History]Version 3.3
+Added a Genius Invokation TCG Adventure Challenge for Kaede.
+
+Version 2.0
+
+Kaede was released.
+References[]
+
+↑ Twitter: EN VA Self Announcement
+
+
+
+
+

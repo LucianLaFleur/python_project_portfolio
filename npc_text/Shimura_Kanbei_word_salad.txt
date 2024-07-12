@@ -1,0 +1,205 @@
+
+
+
+
+
+Shimura Kanbei
+Owner of Shimura's
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Inazuma
+
+
+Location
+Inazuma
+
+
+Affil­i­a­tion
+Shimura's
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Shimura Kanbei  (Japanese: 志村勘兵衛 Shimura Kanbee) is an open-world NPC in Inazuma City, Narukami Island. He runs Shimura's, indicated by the  icon on the map.
+The shop is open at all times of the day and sells food, recipes, and ingredients. The frequency of the stock refresh varies.
+
+Contents
+
+1 Shop
+
+1.1 Food and Ingredients
+1.2 Recipes
+
+
+2 Location
+3 Profile
+
+3.1 Appearance
+
+
+4 Quests and Events
+
+4.1 Story Quests
+
+4.1.1 Hangout Events
+
+
+4.2 Commissions
+4.3 Events
+
+
+5 Idle Quotes
+6 Dialogue
+7 Event Dialogue
+
+7.1 Hues of the Violet Garden
+
+
+8 Trivia
+
+8.1 Etymology
+
+
+9 Gallery
+10 Other Languages
+11 Change History
+12 References
+
+
+Shop[]
+Food and Ingredients[]
+ItemCostStockTotalCostRefreshes
+ Teyvat Fried Egg200(180)102,000(1,800)Daily
+ Chicken-Mushroom Skewer450(405)104,500(4,050)Daily
+ Fisherman's Toast1,250(1,125)22,500(2,250)Daily
+ Fish240(215)102,400(2,150)Daily
+ Crab240(215)102,400(2,150)Daily
+ Seagrass240(215)102,400(2,150)Every 3 Days
+ Lavender Melon240(215)102,400(2,150)Every 3 Days
+ Radish350(315)103,500(3,150)Every 3 Days
+ Sausage840(755)108,400(7,550)Weekly
+ Bacon720(645)107,200(6,450)Weekly
+ Flour150(135)101,500(1,350)Weekly
+ Sugar450(405)104,500(4,050)Weekly
+Total cost for all items43,700(39,250) 
+Recipes[]
+ItemCostStockTotalCostRequiredAdventure Rank
+ Recipe: Egg Roll1,250(1,125)11,250(1,125)?
+ Recipe: Miso Soup1,250(1,125)11,250(1,125)?
+ Recipe: Sweet Shrimp Sushi1,250(1,125)11,250(1,125)?
+ Recipe: Bird Egg Sushi1,250(1,125)11,250(1,125)?
+ Recipe: Mixed Yakisoba2,500(2,250)12,500(2,250)?
+ Recipe: Grilled Unagi Fillet2,500(2,250)12,500(2,250)?
+ Recipe: Sangayaki2,500(2,250)12,500(2,250)?
+ Recipe: Udon Noodles2,500(2,250)12,500(2,250)?
+ Recipe: Tonkotsu Ramen5,000(4,500)15,000(4,500)?
+ Recipe: Omelette Rice5,000(4,500)15,000(4,500)?
+ Recipe: Unagi Chazuke5,000(4,500)15,000(4,500)?
+ Recipe: Five Pickled Treasures5,000(4,500)15,000(4,500)?
+ Recipe: Sakura Shrimp Crackers5,000(4,500)15,000(4,500)?
+Total cost for all items30,000(27,000) 
+Brackets indicate cost after reputation discount.
+
+Location[]
+Shimura's locationAdditional context
+Profile[]
+Shimura Kanbei used to be a samurai with very little money, until he realized that he still had not figured out who he truly was and that he "was alone in this world," which motivated him to start his business. The restaurant is managed exclusively by him, and he is in charge of all the cooking.
+He has a rivalry with Uyuu Restaurant.
+
+Appearance[]
+Shimura Kanbei is an old man, nearly bald, save for some gray hair at the base of his head. He wears a maroon robe with a brown vest on top.
+
+Quests and Events[]
+Story QuestsHangout EventsKuki ShinobuAct I: The Gang's Daily DeedsKey DecisionCommissionsBantan Sango Case File: The Right IdentityEventsHues of the Violet GardenTrue Tales of the Violet GardenAct II: What the Blue Flowers Left BehindWhat the Blue Flowers Left Behind
+Idle Quotes[]
+
+ Not worth mentioning...
+Media:VO Shimura Kanbei 01.ogg "Uyuu Restaurant? That place isn't even worth mentioning!"
+
+During Hues of the Violet Garden
+
+ Troublemaker...
+Media:VO Shimura Kanbei Irodori 01.ogg "Hmm, he didn't seem like a troublemaker..."
+
+Dialogue[]
+
+Shimura Kanbei: Welcome! Come try Shimura's fine cuisine!
+ I'd like to see the menu.
+Shimura Kanbei: We serve great local cuisine here. Satisfaction guaranteed!
+ About Shimura's...
+Shimura Kanbei: How do you like it? The food's got that authentic flavor, eh?
+Shimura Kanbei: Back in the days, I was just a poor samurai without a single dime to my name. I started Shimura's from the ground up. Every plank and every window here, I installed by hand.
+Shimura Kanbei: I manage every ingredient, every sauce and every change in cooking temperature. It's guaranteed to be top-notch. Even Uyuu Restaurant can't compete with us!
+ You used to be a samurai?
+Shimura Kanbei: Hmm? Oh yeah... But it's been decades. Nothing worth talking about.
+Shimura Kanbei: I was too naive back then. I only thought of serving and dying for the cause, or building some track record, or becoming a Hatamoto.
+Shimura Kanbei: I kept going until my hair turned gray and my parents were long gone...
+Shimura Kanbei: At that point, I finally realized that I was all alone in this world, and yet I still hadn't figured out who I was supposed to be yet...
+Shimura Kanbei: Thankfully, I still have this restaurant. I've been working at it for decades.
+Shimura Kanbei: Can you imagine it? It took decades for me to realize that I'm more suitable to being a small business owner than a warrior.
+ What's up with Uyuu Restaurant?
+Shimura Kanbei: Hmph, what about them? They've been just around a bit longer than us, have a little more staff than us and have classier decorations... Well, and the owner has a better background. That's all there is to their popularity!
+Shimura Kanbei: I walked past that place several days ago, and they insisted on inviting me in. Of course, I knew they were just testing me!
+Shimura Kanbei: My restaurant is just at the, uh, start-up stage! Just give me a bit of time, and I'll be better than them for sure!
+ Goodbye.
+Shimura Kanbei: Take care. Come back if you ever want more!
+
+Event Dialogue[]
+Hues of the Violet Garden[]
+
+Shimura Kanbei: A few days ago, a handsome young fellow came here to eat. From the way he dressed, he was probably from Liyue.
+Shimura Kanbei: But when I asked him if he was here to take part in the Irodori Festival, he shifted his gaze away, and he tried to divert the conversation.
+Shimura Kanbei: That's rather odd.
+Shimura Kanbei: Indeed. But he dressed so well. I don't think he could have been some sort of troublemaker...
+(Continue non-event dialogue)
+
+Trivia[]
+Etymology[]
+His name may be a reference to the fictional samurai 島田勘兵衛, the leader of Seven Samurai (1954), who was played by the Japanese actor Shimura Takashi (Japanese: 志村喬).[1]
+Gallery[]
+Yoohoo Art: Seichou no Jutsu ending: Everything in Moderation(Aether Version)Yoohoo Art: Seichou no Jutsu ending: Everything in Moderation(Lumine Version)
+Other Languages[]
+
+LanguageOfficial NameEnglishShimura KanbeiChinese(Simplified)志村勘兵卫Zhìcūn KānbīngwèiChinese(Traditional)志村勘兵衛Zhìcūn KānbīngwèiJapanese志村勘兵衛Shimura KanbeeKorean시무라 칸베이Shimura KanbeeSpanishShimura KanbeiFrenchShimura KanbeiRussianСимура КамбэйSimura KambeyThaiShimura KanbeiVietnameseShimura KanbeiGermanShimura KanbeiIndonesianShimura KanbeiPortugueseShimura KanbeiTurkishShimura KanbeiItalianShimura Kanbei
+Change History[]
+Released in Version 2.0[Create New History]
+References[]
+
+↑ NGA: 闲聊杂谈:关于稻妻人名地名角色天赋命座的考据(更新珊瑚宫心海九条裟罗考据)
+
+
+
+
+

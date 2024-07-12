@@ -1,0 +1,183 @@
+
+
+
+
+
+Alvard
+"Rag and Bone Shop" Owner
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+								Voice Actors
+							
+
+
+
+
+
+Region
+Fontaine
+
+
+Location
+Fontaine
+
+
+Affil­i­a­tions
+Fortress of MeropideRag and Bone Shop 
+
+
+
+
+English
+Patrick Mealey[1]
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Alvard is an open-world NPC located in the Administrative Area, Fortress of Meropide, Fontaine. He is the owner of the Rag and Bone Shop.
+He can be found under the  icon on the map while the shop still has anything for purchase. The icon disappears upon buying the last item, signifying that there is nothing left to purchase, although Alvard can still be found there.
+
+Contents
+
+1 Shop
+2 Location
+3 Profile
+4 Quests and Events
+
+4.1 World Quests
+
+
+5 Idle Quotes
+6 Dialogue
+
+6.1 Dialogue Set #1
+6.2 Dialogue Set #2
+6.3 Dialogue Set #3
+
+
+7 Other Languages
+8 Change History
+9 References
+
+
+Shop[]
+Buying all items in the shop grants the Wonders of the World achievement Consumer Society.
+Once all items in the shop have been bought, the dialogue option to access the shop will instead lead to more dialogue, and the shop icon will no longer be presented on map.
+The Genius Invokation TCG cards and card back will be unavailable and marked with "This item has been reserved by someone and cannot be purchased." until after the first Daily Reset after buying "The Art of Negotiation."
+"The Art of Negotiation" becomes available in the shop one Daily Reset after completing the World Quest Series Unfinished Comedy.
+ItemCostStockTotalCost
+ "The Art of Negotiation"20120
+ Motorized Autonomous Fonta Vending Machine: Modified2501250
+ Blueprint: "Majesty of the Forbidden Fortress"5001500
+ Blueprint: Linden Wood "Sturdy" Bunk2501250
+ "Pure Water"15575
+ The Fortress of Meropide1,50011,500
+ Pankration!2502500
+Total cost for all items3095
+Location[]
+Alvard's locationAdditional context
+Profile[]
+Alvard is friends with Chamboduc and Wriothesley. When Alvard is out restocking goods, he lets Chamboduc take care of the shop.
+
+Quests and Events[]
+World QuestsScenes from Life in MeropideScenes from Life in Meropide: The Art of NegotiationUnfinished ComedyGame of the Rich
+Idle Quotes[]
+
+ All essential provisions!
+Media:VO Alvard 01.ogg "Welcome to the Rag and Bone Shop, purveyor of all essential provisions."
+
+Dialogue[]
+Dialogue Set #1[]
+Available before completing Step 9 of Game of the Rich.
+
+
+Alvard: The Rag and Bone Shop. You need it, we got it!
+ I want to buy something.
+Alvard: Have you got enough Coupons?
+ I'm just browsing...
+Alvard: Feel free to look at anything. But some stuff has been reserved already, so don't go breaking anything.
+ Do you have anything for free?
+Alvard: Haha! You're a real funny one.
+Alvard: Go see Wolsey, if you haven't gotten your Welfare Meal yet today. He'll give you free food and a free smile. The only thing free here is the air you're breathing.
+ See you.
+Alvard: Take care.
+
+Dialogue Set #2[]
+Available after completing Step 15 of Game of the Rich.
+
+
+Alvard: The Rag and Bone Shop. You need it, we got it!
+ I want to buy something
+Alvard: Choose anything.
+(Opens shop interface)
+ Where do you get your goods from?
+Alvard: No comment.
+Alvard: But all my goods are guaranteed safe, from legit sources, and my prices are fair. That's all I can say.
+ Do you take orders?
+Alvard: Depends on who's ordering what. You'll understand that I can't be completely frank with you.
+ See you.
+Alvard: Take care.
+
+Dialogue Set #3[]
+Available after buying everything in the Rag and Bone Shop.
+
+
+Alvard: The Rag and Bone Shop. You need it, we got it!
+ I want to buy something
+Alvard: Haven't got anything worth looking at right now
+ Let me shop!
+Alvard: We really haven't got anything worth looking at right now!
+Alvard: Last time you and Little Skylark bought all my stock. Then I had problems restocking. All my regulars were complaining they couldn't even get a bottle of Fonta. The reputational damage...
+Alvard: Anyway, there's nothing here worth your time. I suggest you try elsewhere
+ Okay then...
+Alvard: Sorry. Take care.
+ Where do you get your goods from?
+Alvard: No comment.
+Alvard: But all my goods are guaranteed safe, from legit sources, and my prices are fair. That's all I can say.
+ Do you take orders?
+Alvard: Depends on who's ordering what. You'll understand that I can't be completely frank with you.
+ See you.
+Alvard: Take care.
+
+Other Languages[]
+
+LanguageOfficial NameEnglishAlvardChinese(Simplified)埃尔瓦德Āi'ěrwǎdéChinese(Traditional)埃爾瓦德Āi'ěrwǎdéJapaneseアルヴァードAruvaadoKorean에르바도EreubadoSpanishAlvardFrenchAlvardRussianАлвардAlvardThaiAlvardVietnameseAlvardGermanAlvardIndonesianAlvardPortugueseAlvardTurkishAlvardItalianAlvard
+Change History[]
+Released in Version 4.1[Create New History]
+References[]
+
+↑ Twitter: EN VA Self Announcement (Archived)
+
+
+
+
+

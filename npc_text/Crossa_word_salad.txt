@@ -1,0 +1,98 @@
+
+
+
+
+
+Crossa
+Merchant
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Fontaine
+
+
+Location
+Fontaine
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Crossa is an open-world NPC located in Court of Fontaine: Fleuve Cendre. She sells artifacts.
+
+Contents
+
+1 Shop
+2 Location
+3 Idle Quotes
+4 Dialogue
+5 Other Languages
+6 Change History
+
+
+Shop[]
+ItemCostStockTotalCostRefreshes
+ Lucky Dog's Goblet2,00012,000Weekly
+ Lucky Dog's Eagle Feather2,00012,000Weekly
+ Lucky Dog's Silver Circlet2,00012,000Weekly
+ Lucky Dog's Clover2,00012,000Weekly
+ Lucky Dog's Hourglass2,00012,000Weekly
+Total cost for all items10,000 
+Location[]
+Crossa's locationAdditional context
+Idle Quotes[]
+
+ Dizzy...
+Media:VO Crossa 01.ogg "Am I imagining things, or is all this standing making me dizzy?"
+
+Dialogue[]
+
+Crossa: Was that an earthquake? Or am I just getting seasick...
+ What do you sell here?
+Crossa: Take your pick.
+(Opens shop interface)
+ I don't really feel anything.
+Crossa: *sigh* Must be my old sickness acting up, then.
+Crossa: I used to be a sailor, but I was injured in an accident, and ever since, I've felt like my surroundings are shaking.
+Crossa: I can't go back to being a sailor, so I can only help old friends sell things they salvage underwater to make a living.
+ Take care of yourself.
+Crossa: Yeah... I think I should take a break for now.
+
+Other Languages[]
+
+LanguageOfficial NameEnglishCrossaChinese(Simplified)克洛莎KèluòshāChinese(Traditional)克洛莎KèluòshāJapaneseクラッサKurassaKorean크라사KeurasaSpanishCrossaFrenchCrossaRussianКроссаKrossaThaiCrossaVietnameseCrossaGermanCrossaIndonesianCrossaPortugueseCrossaTurkishCrossaItalianCrossa
+Change History[]
+Released in Version 4.0[Create New History]
+
+
+

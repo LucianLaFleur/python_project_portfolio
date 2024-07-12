@@ -1,0 +1,124 @@
+
+
+
+
+
+Belkacem
+Aaru Village Guard
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Sumeru
+
+
+Location
+Sumeru
+
+
+Affil­i­a­tion
+Aaru Village
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Belkacem is an open-world NPC located in Aaru Village, Sumeru. He is stationed outside the Village Chief's House during the day, and can be found indoors talking to Uncle Anpu during the night.
+
+Contents
+
+1 Location
+2 Idle Quotes
+3 Thoughts
+4 Dialogue
+
+4.1 Daytime
+4.2 Nighttime
+
+
+5 Other Languages
+6 Change History
+
+
+Location[]
+Belkacem's location (Daytime)Additional context (Daytime)Belkacem's location (Nighttime)Additional context (Nighttime)
+Idle Quotes[]
+
+(Daytime)
+ Earthquakes and sandstorms...
+Media:VO Belkacem 01.ogg "You need to watch out for any signs of earthquakes and sandstorms."
+(Nighttime)
+ Speaking of which...
+Media:VO Belkacem 02.ogg "*sigh* By the way, do you still remember?"
+
+Thoughts[]
+Belkacem's thoughts can be accessed by using Nahida's Elemental Skill, All Schemes to Know.
+
+
+(Daytime)
+Media:VO Belkacem All Schemes to Know 01.ogg Belkacem: (Weather in the desert is always so unpredictable.)
+(Nighttime)
+Media:VO Belkacem All Schemes to Know 02.ogg Belkacem: (It's nice to know that the kids here would grow up to be valuable members of the village.)
+
+Dialogue[]
+Daytime[]
+
+Belkacem: Hello, what can I help you with?
+ Things are going fine.
+Belkacem: Ah, that is good. If you do run into any trouble, remember to call the guards.
+Belkacem: Though that old fellow Anpu likes to say "come to me if you have any trouble," please, don't bother him with every little thing.
+Belkacem: I've known him since we were children, then I left the village to seek out more opportunities. I've done business, made a living as a mercenary, done menial labor... I've tried just about everything.
+Belkacem: When I came back, he'd already become a "do-everything-myself" kind of naggy old man. Unexpected, but still...
+Belkacem: And that's why I've volunteered to become a guard. Apart from going on patrol, I also help to lighten his load somewhat.
+ See you around.
+Belkacem: Goodbye. Please be careful — and do watch your step!
+
+Nighttime[]
+
+Uncle Anpu: My old pal, what do you think? When we're too old to remember anything, will there be any young people willing to take our places?
+Belkacem: Of course! Don't say things like that.
+Belkacem: Our village may be small, but we've got quite a lot of decent youngsters here.
+Belkacem: Never mind the people who came back from working with the Eremites, even Kazim's boy is working hard, you know?
+Uncle Anpu: Ah, true, true. You're right. I must've been overthinking.
+Uncle Anpu: I'm sure we'll have more reliable successors like Candace in our village.
+Belkacem: Of course! Speaking of Candace, remember when she was a little girl?
+Belkacem: How she'd go to the wrong house because of her poor eyesight?
+Uncle Anpu: ... Yes, yes. That did happen, I believe. Hah, between the two of us, I guess you're the one with good memory...
+
+Other Languages[]
+
+LanguageOfficial NameEnglishBelkacemChinese(Simplified)贝尔卡塞姆Bèi'ěrkǎsāimǔChinese(Traditional)貝爾卡塞姆Bèi'ěrkǎsāimǔJapaneseベルカセムBerukasemuKorean벨카셈BelkasemSpanishBelkacemFrenchBelkacemRussianБелькасемBel'kasemThaiBelkacemVietnameseBelkacemGermanBelkacemIndonesianBelkacemPortugueseBelkacemTurkishBelkacemItalianBelkacem
+Change History[]
+Released in Version 3.1[Create New History]
+
+
+

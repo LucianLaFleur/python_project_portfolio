@@ -1,0 +1,170 @@
+
+
+
+
+
+Amir
+Forest Watcher
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Sumeru
+
+
+Location
+Sumeru
+
+
+Affil­i­a­tion
+Forest Rangers
+
+
+Dialogue Reward
+ 4
+
+
+Genius Invokation TCG
+Stages
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Amir is an open-world NPC located in Gandharva Ville, Sumeru. He can be found with Sag.
+Following a certain dialogue branch for the first time gives the player four Nilotpala Lotuses.
+
+Contents
+
+1 Location
+2 Profile
+
+2.1 Appearance
+
+
+3 Quests and Events
+
+3.1 Archon Quests
+3.2 World Quests
+
+3.2.1 Requests
+
+
+
+
+4 Idle Quotes
+5 Thoughts
+6 Dialogue
+7 Gallery
+8 Other Languages
+9 Change History
+
+
+Location[]
+Amir's locationAdditional context
+Profile[]
+(To be added.)
+
+Appearance[]
+(To be added.)
+
+Quests and Events[]
+Archon QuestsChapter IIIAct I: Through Mists of Smoke and Forests DarkFurther ObservationChronic IllnessWorld QuestsRequestsAmir's Raw Meat Commission
+Idle Quotes[]
+
+ One, two, three...
+Media:VO Amir 01.ogg "One, two, three, good! There isn't a single one missing."
+
+Thoughts[]
+Amir's thoughts can be accessed by using Nahida's Elemental Skill, All Schemes to Know.
+
+
+Media:VO Amir All Schemes to Know 01.ogg Amir: (Did the search and rescue dog run off somewhere? Is the Trainee Forest Ranger doing okay in her job? Do we still have enough medicinal herbs in stock?)
+
+Dialogue[]
+
+Amir: These guys just love running about when they aren't working.
+Amir: I hope they pay close attention to that girl's condition and report any changes immediately.
+ Duel
+(Opens Genius Invokation TCG match interface)
+(If the player loses the match)
+
+Amir: Haha, I narrowly won...
+(If the player wins the match)
+
+Amir: Ah, I thought I was going to win, but I guess I overthought the whole thing, haha...
+ These guys?
+Amir: Yeah, these fluffy guys. They just refuse to sit still, and they keep running around and making noise all day.
+Amir: Luckily, they get serious when it's time for work. Otherwise, I would have taught them another good lesson.
+ Fluffy... Forest Watchers?
+Amir: Haha, I think you've misunderstood. I didn't mean my colleagues, I meant these doggies.
+Amir: They may seem like they're all over the place, but they're actually very reliable. They're good friends and assistants for our forest patrol work.
+Amir: As for myself, I am responsible for managing and training these search and rescue dogs.
+Amir: Sag is my best student, so I appointed it captain of the search and rescue dog team. If you can't find a Forest Watcher or a Forest Ranger, you can ask it for help too.
+ That girl?
+(Before finishing Where the Boat of Consciousness Lies‍[verification needed])
+Amir: Oh... She's a Trainee Forest Ranger with us.
+Amir: She... is in poor health, so she's here to learn and recuperate at the same time.
+Amir: She's so young yet so eager to excel. I'm still quite worried about her condition.
+Amir: That's why I asked the search and rescue dogs to pay attention to her condition and notify me immediately if something happens. That's the only way I can be there in time to help her.
+ I can help too.
+Amir: That means a lot to me. Ah, how I wish more kind people like you would join the Forest Rangers.
+Amir: By the way, are you heading to Avidya Forest? If so, let me give you some common herbs that might come in handy.
+(Obtain  Nilotpala Lotus ×4)
+ So, who's that girl?
+(After finishing Where the Boat of Consciousness Lies‍[verification needed])
+Amir: Oh... She's a Trainee Forest Ranger who's currently stationed with us.
+Amir: She's only just recovered from a very serious illness, but it seems that she's been trying a bit too hard recently.
+Amir: She's been all over the shop, so much so that I've started to worry that she might go running off into a storm again just to rescue someone.
+Amir: That's why I've asked our search and rescue dogs to pay attention to her condition and notify me immediately if something happens. That's the only way that I can be there in time to help her.
+ I can help too.
+Amir: That means a lot to me. Ah, how I wish more kind people like you would join the Forest Rangers.
+Amir: By the way, are you heading to Avidya Forest? If so, let me give you some common herbs that might come in handy.
+(Obtain  Nilotpala Lotus ×4)
+ See you.
+Amir: Goodbye. Safe travels.
+
+Gallery[]
+Request icon
+Other Languages[]
+
+LanguageOfficial NameEnglishAmirChinese(Simplified)阿米尔Āmǐ'ěrChinese(Traditional)阿米爾Āmǐ'ěrJapaneseアミルAmiruKorean아미르AmireuSpanishAmirFrenchAmirRussianАмирAmirThaiAmirVietnameseAmirGermanAmirIndonesianAmirPortugueseAmirTurkishAmirItalianAmir
+Change History[]
+Released in Version 3.0[Edit History]Version 3.3
+Added a Genius Invokation TCG Duel for Amir.
+
+Version 3.0
+
+Amir was released.
+
+
+

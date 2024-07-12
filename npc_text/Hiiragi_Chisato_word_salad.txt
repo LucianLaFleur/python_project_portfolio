@@ -1,0 +1,242 @@
+
+
+
+
+
+Hiiragi Chisato
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+								Family
+							
+
+
+
+								Voice Actors
+							
+
+
+
+
+
+Region
+Inazuma
+
+
+Location
+Inazuma
+
+
+Affil­i­a­tion
+Kanjou Commission
+
+
+Dialogue Reward
+ 1
+
+
+
+
+Ancestry
+Hiiragi Clan
+
+
+Father
+Hiiragi Shinsuke
+
+
+
+
+English
+Anne Yatco[1]
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Hiiragi Chisato (Japanese: 柊千里 Hiiragi Chisato) is an open-world NPC located in Ritou, Inazuma.
+After completing Chisato's Letter, following a certain dialogue branch for the first time gives the player one 4★ Storm Cage.
+
+Contents
+
+1 Location
+2 Profile
+
+2.1 Appearance
+
+
+3 Quests and Events
+
+3.1 Archon Quests
+3.2 Story Quests
+3.3 World Quests
+3.4 Events
+
+
+4 Idle Quotes
+5 Dialogue
+
+5.1 Dialogue Set #1
+5.2 Dialogue Set #2
+5.3 Dialogue Set #3
+
+
+6 Event Dialogue
+
+6.1 Hues of the Violet Garden
+
+
+7 Other Languages
+8 Change History
+9 References
+
+
+Location[]
+Hiiragi Chisato's locationAdditional context
+Profile[]
+Hiiragi Chisato is the daughter of Hiiragi Shinsuke, the leader of the Hiiragi Clan which leads the Kanjou Commission in Ritou. When the Traveler and Paimon arrived at her residence to look for a way out of Ritou, she secretly offered to help them escape in exchange for delivering her letter to Kujou Kamaji, her lover.[2] She asked for the Traveler's help because her father is against her relationship with the son of the Kujou Clan.
+The Kujou Clan and the Hiiragi Clan are leaders of the Tri-Commission. So, both families are political enemies that must keep each other in check to keep the balance within Inazuma's government.[3] Considering the relationship between the two families, their marriage would have a lot of political influence. In fact, Kujou Kamaji admits that someone might take advantage of their situation. So, to reply to Chisato's message, Kamaji sends a Snack Box which he claims to be a simple public relations gesture.[4]
+Following the unraveling of the Fatui plot, Chisato was left as the figurehead of the Kanjou Commission. Due to her inexperience, some of the clan's retainers sought to remove her to claim the commissioner's spot by penning a false love letter to Kamaji suggesting that they get married. The marriage would cause her to be absorbed into the Kujou Clan and lose all influence in the Hiiragi Clan. However, the plot was foiled by the Traveler and the Yashiro Commissioner, Kamisato Ayato. The plot's catastrophic failure led to Chisato assuming a more serious stance in the commission's affairs.[5] Furthermore, their plans for marriage has been postponed indefinitely and the marriage announcements has been treated as false information.[6]
+
+Appearance[]
+Hiiragi Chisato wears a simple blue kimono with a pink flower pattern.
+
+Quests and Events[]
+Archon QuestsChapter IIAct I: The Immovable God and the Eternal EuthymiaRitou Escape PlanStory QuestsCypressus Custos Chapter (Kamisato Ayato)Act I: The Firmiana Leaf FallsNew Shoots from Old BranchesThe Wind SettlesWorld QuestsRitou Travel PermitChisato's LetterEventsWarrior's SpiritUnexpected BattleWarrior's Spirit
+Idle Quotes[]
+
+ Whom should I give it to? (before accepting Chisato's Letter)
+Media:VO Hiiragi Chisato 01.ogg "Hmm, who can I entrust this matter to? After all, the stakes are quite high."
+ I wonder if he has received it... (during Chisato's Letter)
+Media:VO Hiiragi Chisato 02.ogg "I wonder if he has received my letter."
+ When can I see him... (after Chisato's Letter)
+Media:VO Hiiragi Chisato 03.ogg "I wonder when I'll be able to see him."
+
+After The Firmiana Leaf Falls
+
+ Future plans...
+Media:VO Hiiragi Chisato 04.ogg "Let me look at my future arrangement."
+
+During Hues of the Violet Garden
+
+ So much work to do...
+Media:VO Hiiragi Chisato Irodori 01.ogg "The reception of the guests, the maintenance of the venue... *sigh* There's still so much work to arrange."
+
+Dialogue[]
+Dialogue Set #1[]
+Available before starting Chisato's Letter.
+
+
+Hiiragi Chisato: Mr. Kamaji...
+Hiiragi Chisato: How can I be sure that my letter gets to you...
+
+Dialogue Set #2[]
+Available after completing Chisato's Letter.
+
+
+Hiiragi Chisato: Oh, it's the Traveler. Hello! Do you need anything from me today?
+ About the Hiiragi Clan...
+(After completing Omnipresence Over Mortals)
+Hiiragi Chisato: My father's matters... I finally know the truth now.
+Hiiragi Chisato: So that arrogant-sounding woman is...
+Hiiragi Chisato: My elderly father is imprisoned. As his daughter, I am really worried about his condition.
+Hiiragi Chisato: But... No matter who he is, as long as one makes a mistake, he must be held accountable for it.
+Hiiragi Chisato: As for the outcome, we can only wait for the Almighty Shogun's judgment... Anyway, thank you for your concern.
+ How have things been lately?
+Hiiragi Chisato: Thanks to you, I'm doing very well.
+Hiiragi Chisato: Thank you for delivering the letter for me earlier! You know, it's very difficult for Kamaji and I to write to each other due to our respective positions.
+Hiiragi Chisato: I believe that he must be very bossy with the Kujou Clan's affairs. I don't want to bother him too often... Eh? He said that he wanted to visit me personally?
+Hiiragi Chisato: Ah... I don't think it would be possible based on the bad blood between our clans. Still... I'm very glad to know that he'd do that for me.
+Hiiragi Chisato: If it wasn't for you, we'd probably have been unable to reach out to each other for a long while. I'm most grateful to you.
+ It's nothing worth mentioning.
+Hiiragi Chisato: You don't have to be polite. Who knows... Maybe I'll need your help in the future.
+Hiiragi Chisato: I've prepared a small gift for you. It's a trinket you can wear around. If you don't mind, please accept it.
+(Obtain 4★  Storm Cage)
+ Goodbye.
+Hiiragi Chisato: Goodbye! Good luck to you.
+
+Dialogue Set #3[]
+Available after completing The Firmiana Leaf Falls.
+
+
+Hiiragi Chisato: Oh, it's the Traveler. Hello! Do you need anything from me today?
+ How've you been lately?
+Hiiragi Chisato: Things at the estate are far more complicated than I could have anticipated. I haven't quite gotten the hang of it all just yet.
+Hiiragi Chisato: Thankfully, everyone's been quite willing to listen to my suggestions, so I can start from the simplest matters and slowly sort everything out from there.
+Hiiragi Chisato: The more I do this, the more I realize that these things are as urgent as they are laden with great meaning... and only I can do them.
+Hiiragi Chisato: I'm glad we didn't end up sinking even deeper into the mire back there.
+ Keep it up!
+Hiiragi Chisato: It's thanks to you and the Yashiro Commissioner. I won't let your goodwill go to waste.
+Hiiragi Chisato: "I've prepared a small gift for you. It's a small trinket that you can wear around. If you don't mind, please accept it.
+(Obtain 4★  Storm Cage)
+ What happened to the addendum to the announcement?
+Hiiragi Chisato: The Matsuura Clan have already sent someone to handle that. Currently, everyone thinks that it was all a big misunderstanding.
+Hiiragi Chisato: There are still some ill-favored rumors going about, but I believe that they will disappear given time.
+Hiiragi Chisato: I will keep a close eye on that. Hopefully, nothing similar happens in the future.
+ So, about the wedding...
+Hiiragi Chisato: Kamaji and I talked it over afterward. He was very supportive of my current course of action.
+Hiiragi Chisato: "I will wait for you, no matter how long it takes," he promised me. I must say that I was greatly relieved to hear that.
+Hiiragi Chisato: The ceremonial matters may have been pushed back, yes, but I believe that our hearts grew closer together. That is of great comfort to me.
+ See you.
+Hiiragi Chisato: Goodbye! Good luck to you as well.
+
+Event Dialogue[]
+Hues of the Violet Garden[]
+
+Hiiragi Chisato: Since Ritou has been selected as the site for the Irodori Festival, the Kanjou Commission must take responsibility for the proceedings.
+Hiiragi Chisato: Whether it be receiving the guests or setting the area up, nothing must be left to chance...
+Hiiragi Chisato: Ah, yes, and then there's the matter of our guests' safety! We must strengthen our seaside patrols...
+Hiiragi Chisato: Ah, I'm sorry, I was so preoccupied with my work, I almost forgot to say hello.
+Hiiragi Chisato: Oh, Traveler, it's you. Hello! Do you need anything from me today?
+(Continue non-event dialogue)
+
+Other Languages[]
+
+LanguageOfficial NameEnglishHiiragi ChisatoChinese(Simplified)柊千里Zhōng QiānlǐChinese(Traditional)柊千里Zhōng QiānlǐJapanese柊千里Hiiragi ChisatoKorean히이라기 치사토Hiiragi ChisatoSpanishHiiragi ChisatoFrenchHiiragi ChisatoRussianХийраги ТисатоKhiyragi TisatoThaiHiiragi ChisatoVietnameseHiiragi ChisatoGermanHiiragi ChisatoIndonesianHiiragi ChisatoPortugueseHiiragi ChisatoTurkishHiiragi ChisatoItalianHiiragi Chisato
+Change History[]
+Released in Version 2.0[Create New History]
+References[]
+
+↑ Twitter: EN VA Self Announcement
+
+↑ Archon Quest, Chapter II, Act I - The Immovable God and the Eternal Euthymia, Part 3: Ritou Escape Plan
+
+↑ Story Quest, Kamisato Ayato, Cypressus Custos Chapter: Act I - The Firmiana Leaf Falls, Part 3: The Wind Settles
+
+↑ World Quest, Ritou Travel Permit: Chisato's Letter
+
+↑ Story Quest Act, Kamisato Ayato, Cypressus Custos Chapter: Act I: The Firmiana Leaf Falls
+
+↑ Point of Interest, Hanamizaka Bulletin Board: Delayed Matrimonial Ceremonies
+
+
+
+
+

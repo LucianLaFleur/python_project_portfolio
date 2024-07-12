@@ -1,0 +1,98 @@
+
+
+
+
+
+Behrouz
+Merchant
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Sumeru
+
+
+Location
+Sumeru
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Behrouz is an open-world NPC located in Port Ormos, Sumeru.
+
+Contents
+
+1 Location
+2 Idle Quotes
+3 Thoughts
+4 Dialogue
+5 Other Languages
+6 Change History
+
+
+Location[]
+Behrouz's locationAdditional context
+Idle Quotes[]
+
+ Adjust the schedule...
+Media:VO Behrouz 01.ogg "Hmm... Should I adjust the shipping schedule?"
+
+Thoughts[]
+Behrouz's thoughts can be accessed by using Nahida's Elemental Skill, All Schemes to Know.
+
+
+Media:VO Behrouz All Schemes to Know 01.ogg Behrouz: (There's nothing else to do. Guess I'll have another drink.)
+
+Dialogue[]
+
+Behrouz: Sea monsters and Kairagi... Both troublesome issues.
+ And you are...
+Behrouz: I'm the owner of a nearby merchant ship, and I mainly deal with import and export.
+Behrouz: If you have a good source of excellent goods or trade routes, please do acquaint me. We can talk about share ratios.
+Behrouz: It would be even better if I can have fine goods like gems and silks from Liyue, or Fontaine boats.
+ Troublesome issues?
+Behrouz: You probably know that we cross-border merchants fear mishaps at sea the most.
+Behrouz: I'm a seasoned ship owner, and very experienced in dealing with the issues, but these sea monsters still give me headaches.
+Behrouz: And there are those vicious Kairagi too. It's no joke when they sink fortunes.
+Behrouz: It's best to avoid things like these if possible. I'll need to plan my next sailing route now...
+ See you.
+Behrouz: See you. Be safe at sea.
+
+Other Languages[]
+
+LanguageOfficial NameEnglishBehrouzChinese(Simplified)贝鲁兹BèilǔzīChinese(Traditional)貝魯茲BèilǔzīJapaneseベロズBerozuKorean베로즈BerojeuSpanishBehruzFrenchBehrouzRussianБехрузBekhruzThaiBehrouzVietnameseBehrouzGermanBehrouzIndonesianBehrouzPortugueseBehrouzTurkishBehrouzItalianBehrouz
+Change History[]
+Released in Version 3.0[Create New History]
+
+
+

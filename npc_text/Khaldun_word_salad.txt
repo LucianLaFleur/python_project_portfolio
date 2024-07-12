@@ -1,0 +1,151 @@
+
+
+
+
+
+Khaldun
+Researcher
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+								Voice Actors
+							
+
+
+
+
+
+Region
+Sumeru
+
+
+Location
+Sumeru
+
+
+Affil­i­a­tion
+Vahumana
+
+
+
+
+English
+Brienne Olvera[1]
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Khaldun is an open-world NPC located in Sumeru City, Sumeru. He can be found arguing with Yavanani in front of the House of Daena during the day, and continuing the argument inside Lambad's Tavern at night.
+
+Contents
+
+1 Location
+2 Idle Quotes
+3 Thoughts
+4 Dialogue
+
+4.1 Daytime
+4.2 Nighttime
+
+
+5 Event Dialogue
+
+5.1 A Parade of Providence
+
+
+6 Other Languages
+7 Change History
+8 References
+
+
+Location[]
+Yavanani's location (Daytime)Additional context (Daytime)Yavanani's location (Nighttime)Additional context (Nighttime)
+Idle Quotes[]
+
+ Tunnel visioning...
+Media:VO Khaldun 01.ogg "Well, your perspective is just tunnel visioning."
+
+During A Parade of Providence
+
+ Only one side...
+Media:VO Khaldun A Parade of Providence 01.ogg "Looking at the scores alone only gives you one side of the story."
+
+Thoughts[]
+Khaldun's thoughts can be accessed by using Nahida's Elemental Skill, All Schemes to Know. 
+
+Media:VO Khaldun All Schemes to Know 01.ogg Khaldun: (Hmph, narrow-minded Haravatat!)
+Dialogue[]
+Daytime[]
+
+Khaldun: Studying ancient history through linguistics and semiotics is tunnel-visioning. It's impossible to draw any meaningful conclusions from it.
+Khaldun: This is where you Haravatat would make mistakes. See Faruzan.
+Yavanani: You Vahumana are no better.
+Yavanani: Your sociological approach to history would be putting the cart before the horse.
+Yavanani: It is meaningless to try to find some universal rules and norms that can explain all events throughout history.
+Yavanani: As for Faruzan, her points are out of date. Can't even be used as a reference.
+Khaldun: Hmph, I beg to differ.
+
+Nighttime[]
+
+Khaldun: Vikram is the obvious candidate for the next Grand Conservator. He's good at communicating, and will surely be able to strike a balance between the various schools of thought.
+Khaldun: His research paper may not be top tier, but he's still young after all, and has great potential.
+Yavanani: It is, without a doubt, putting the cart before the horse to rank interpersonal skills more highly than academic skills.
+Yavanani: I reckon that the most important quality required to manage the House of Daena is to be able to discern the academic value of books and adhere to the virtues of the Akademiya.
+Yavanani: So Rifaet of Haravatat is the better choice.
+Khaldun:  A single-minded focus on scholarly competence is like studying ancient history through linguistics and semiology. It's like bashing your head against a brick wall.
+Yavanani: Again? Were the arguments during the day not enough...?
+
+Event Dialogue[]
+A Parade of Providence[]
+
+(Daytime & Nighttime)
+Yavanani: ...Should you deny that the Championship rates Darshans based on their scores, please recall that we all entered our respective Darshans via our test scores.
+Yavanani: To overlook the scores is to overlook the very basis for all assessments made by the Darshans.
+Khaldun: In turn, you should remember before you overemphasize the scores, that they are only representative of how each contestant performs for specific tasks exclusive to the competition.
+Khaldun: Moreover, we also need to consider other probabilistic factors such as weather, geography, morale and so on.
+Yavanani: Oh? And we didn't need to consider this when we were testing into our Darshans?
+Khaldun: A sophistic comparison! My test scores can represent my capabilities, but it does not showcase the totality of what a Darshan represents.
+Khaldun: A foolish opinion as usual. No offense intended.
+Yavanani: Disagree though you may, scores determine the rankings and results speak for everything.
+
+Other Languages[]
+
+LanguageOfficial NameEnglishKhaldunChinese(Simplified)哈勒敦HālēidūnChinese(Traditional)哈勒敦HālēidūnJapaneseハルドゥーンHaruduunKorean할둔HaldunSpanishJaldúnFrenchKhaldunRussianХальдунKhal'dunThaiKhaldunVietnameseKhaldunGermanKhaldunIndonesianKhaldunPortugueseKhaldunTurkishKhaldunItalianKhaldun
+Change History[]
+Released in Version 3.0[Create New History]
+References[]
+
+↑ Twitter: EN VA Self Announcement (Archived)
+
+
+
+
+

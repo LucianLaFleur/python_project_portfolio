@@ -1,0 +1,130 @@
+
+
+
+
+
+Kiyoko
+Merchant
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Inazuma
+
+
+Location
+Inazuma
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Kiyoko is a shop NPC in Bourou Village, Inazuma, that sells cooking ingredients. Her stock refreshes every week.
+
+Contents
+
+1 Shop
+2 Location
+3 Profile
+
+3.1 Appearance
+
+
+4 Idle Quotes
+5 Dialogue
+6 Trivia
+7 Gallery
+
+7.1 Cameos
+
+
+8 Other Languages
+9 Change History
+
+
+Shop[]
+ItemCostStockTotalCostRefreshes
+ Milk6010600Weekly
+ Tomato8010800Weekly
+ Potato8010800Weekly
+ Wheat6010600Weekly
+ Tofu6010600Weekly
+Total cost for all items3,400 
+Location[]
+Kiyoko's locationAdditional context
+Profile[]
+Kiyoko is the daughter of a wealthy family who came to Bourou Village. Her goods are very limited and takes longer to replenish because of the area's distance from Ritou Harbor. Despite the difficulties on procuring the items and the logistics of bringing them to the island, she still sells them at affordable prices to help the area develop and provide affordable ingredients to the people of Watatsumi Island who cannot farm their own food due to the land's quality.
+
+Appearance[]
+(To be added.)
+
+Idle Quotes[]
+
+ General goods!
+Media:VO Kiyoko 01.ogg "General goods! Handy and cheap!"
+
+Dialogue[]
+
+Kiyoko: Would you like to buy anything? Our prices are reasonable and our goods are convenient and practical. Definitely worth your Mora!
+ What do you sell here?
+Kiyoko: Well, feel free to have a look. This way, please.
+ Tell me a bit about yourself, if you would...
+Kiyoko: I'm a merchant who came to Watatsumi Island specifically to do business. I provide high-quality, low-cost goods.
+Kiyoko: You've seen how things are around here. The village is small, the villagers lead rather limited existences, and they still need to receive those soldiers...
+Kiyoko: *cough* It's not that I'm looking down on this place. In fact, it's precisely because it's lacking development that it needs our help, right?
+Kiyoko: So that's why I decided to stay here for good and provide goods at an affordable asking, such that the inhabitants of this island will never lack daily necessities.
+ Is importing goods convenient?
+Kiyoko: Well... This is a rather distant location, and it isn't under the jurisdiction of the Shogunate either, which makes importing goods quite tricky. In fact, I really don't know how these people got by before I came here...
+Kiyoko: *cough* Well, I've got my ways in any case. All my goods are delivered from the wharf via legal means.
+Kiyoko: The only big hassle is the questioning I get from the soldiers there every single time.
+Kiyoko: I mean, couldn't they give me a pass on account of all the help that I've given them? You know, like an exemption certificate or something...
+ See you, then.
+Kiyoko: See you! Come back next time if you need anything.
+
+Trivia[]
+Kiyoko is mentioned on the Ritou Harbor Bulletin Board, in which an unidentified outlander professes their love for Kiyoko and indicates they are willing to pay off the Kanjou Commission troops at Ritou to go on dates with her.
+Gallery[]
+Cameos[]
+Collected Miscellany - "Sangonomiya Kokomi- Secret Tides of the Heart" - Genshin ImpactCollected Miscellany - "Gorou- Forward Unto Victory" - Genshin Impact
+Other Languages[]
+
+LanguageOfficial NameEnglishKiyokoChinese(Simplified)清子QīngziChinese(Traditional)清子QīngziJapanese清子KiyokoKorean키요코KiyokoSpanishKiyokoFrenchKiyokoRussianКиёкоKiyokoThaiKiyokoVietnameseKiyokoGermanKiyokoIndonesianKiyokoPortugueseKiyokoTurkishKiyokoItalianKiyoko
+Change History[]
+Released in Version 2.1[Edit History]Version 2.2
+Kiyoko's idle voice-over was added.
+
+Version 2.1
+
+Kiyoko was released.
+
+
+

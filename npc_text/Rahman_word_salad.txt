@@ -1,0 +1,182 @@
+
+
+
+
+
+Rahman
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+								Voice Actors
+							
+
+
+
+
+
+Region
+Sumeru
+
+
+Location
+Sumeru
+
+
+Affil­i­a­tion
+The Eremites
+
+
+
+
+English
+Christopher Swindle[1]
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Rahman  is an open-world NPC located in Land of Upper Setekh, Sumeru. He first appears as a quest NPC during the Archon Quest Cry From the Eleazar Hospital in Chapter III: Act IV - King Deshret and the Three Magi and plays a supporting role in the rest of the Sumeru Archon Quest storyline.
+
+Contents
+
+1 Location
+2 Profile
+
+2.1 Appearance
+
+
+3 Quests and Events
+
+3.1 Archon Quests
+
+
+4 Story
+5 Idle Quotes
+6 Thoughts
+7 Dialogue
+
+7.1 Dialogue Set #1
+7.2 Dialogue Set #2
+
+
+8 Other Languages
+9 Change History
+10 References
+
+
+Location[]
+Rahman's locationAdditional contextRahman's location 2Additional context 2
+Profile[]
+Rahman is the leader of an Eremite faction whose loyalty to King Deshret led him to believe Sumeru Akademiya's misinformation campaign, which claimed that the deceased god would soon return to life. His faith in this widespread rumor, and resentment towards the people of Dharma Forest for the mistreatment that the desert people suffered under the Akademiya's rule, leads him to clash with the Traveler and their party, including his longtime friend Dehya. After finally being convinced that their true, common enemy is the Akademiya's sages, and not the entirety of Dharma Forest or the Dendro Archon, Rahman and his men lend their aid to the Traveler's cause and help overthrow the sages.
+
+Appearance[]
+(To be added.)
+
+Quests and Events[]
+Archon QuestsChapter IIIAct IV: King Deshret and the Three MagiCry From the Eleazar HospitalSecret of the Scorching DesertAct V: Akasha Pulses, the Kalpa Flame RisesThrough the Predawn NightJnagarbha DayA Toast to Victory
+Story[]
+Rahman first appears during the investigation into the whereabouts of Aaru Village's missing Village Keepers — exiled scholars who had lost their sanity while conducting research for Sumeru Akademiya. He and his faction had intercepted the Akademiya's men who had kidnapped the Village Keepers and took them all as hostages, planning to use them to gain safe passage to — and then crush — Sumeru Akademiya. Dehya planned on leveraging her camaraderie with Rahman to infiltrate his group, only for Isak to accidentally expose her during their talk. Seeing that the group that now approached included Alhaitham and Cyno, two higher-ranking members in the Akademiya, Rahman immediately grows hostile despite Dehya and Alhaitham's attempts to reason with him. Only Dehya's willingness to sacrifice her arm as a token of her faith in Alhaitham's honesty moves Rahman enough to consider a hostage exchange: Alhaitham for the missing Village Keepers.[2]
+However, when the day comes, Rahman reneges on his promise by only bringing one Village Keeper, Khalil. Infuriated, Dehya attacks him and his men, leading one member to take Khalil hostage. At that moment, an earthquake causes the entire group to fall into some mysterious ruins from King Deshret's era, which the Traveler's group plus Rahman investigates.They find a recording left behind by Kasala, a former priest, recounting how Greater Lord Rukkhadevata and King Deshret worked together to suppress the forbidden knowledge Deshret accidentally released; Deshret sacrificed his life, while Rukkhadevata spent much of her power and shrank to the form of a child. After this revelation, Rahman apologizes to the group for being misled and informs the rest of his group of the truth. He also turns in Judar and Morghi, the Akademiya researchers responsible for kidnapping the Village Keepers.[3]
+As part of Alhaitham's plan to overthrow the sages and free Lesser Lord Kusanali, Rahman and his men infiltrate Sumeru City by being "arrested" by Cyno, with the unwitting help of the Corps of Thirty.[4] Taking advantage of a fake arrest announcement Alhaitham implanted into the Akasha, Dehya, Rahman, and Isak lure the Akademiya's guards into a trap and subdue them; the other Corps of Thirty in Sumeru City, sick of the sages' treatment of them, agreed to turn a blind eye to the incident.[5]
+After the sages' plot is foiled and Kusanali freed, Rahman returns to the desert with Setaria. When the Traveler finds him to invite him to the celebratory feast for Cyno's reinstatement as General Mahamatra, Rahman declines and explains that he and Setaria are planning to find Eremites suited to teach and spread knowledge across the desert. He and Cyno also plan to bring badly needed academic materials to the people of the desert.[6]
+
+Idle Quotes[]
+Upon completing King Deshret and the Three Magi‍[verification needed]
+
+ The right decision...
+Media:VO Rahman 01.ogg "I hope I made the right decision..."
+
+Upon completing Akasha Pulses, the Kalpa Flame Rises
+
+ Hard-earned...
+Media:VO Rahman 02.ogg "Everything we now have is hard-earned..."
+
+Thoughts[]
+Rahman's thoughts can be accessed by using Nahida's Elemental Skill, All Schemes to Know.
+
+
+Upon completiing King Deshret and the Three Magi‍[verification needed]
+Media:VO Rahman All Schemes to Know 01.ogg Rahman: (Trust your eyes and what you see.)
+
+
+Upon completing Akasha Pulses, the Kalpa Flame Rises
+Media:VO Rahman All Schemes to Know 02.ogg Rahman: (I need to tell the others to give our new friends lots of support.)
+
+Dialogue[]
+Dialogue Set #1[]
+Available before completing Where the Boat of Consciousness Lies.
+
+
+Rahman: Well now, if it isn't our new friend!
+Rahman: How are things going? How's your mood? Everything going fine?
+ Fine. And you?
+Rahman: Well, if I may be frank? Things are changing so very suddenly... It's hard not to feel lost.
+Rahman: That's the truth of the matter, I fear.
+Rahman: Though I'm not fond of the people on the other side of the Wall of Samiel, I'd like to think myself the sensible sort — I won't be having any further delusions about King Deshret's revival.
+Rahman: We're friends now, I say — should you need me, I won't just stand idly by and watch.
+Rahman: If I might say something else, I would warn you that you're up against the lofty Akademiya. Whatever you do, you've got to be careful.
+ Nothing new.
+Rahman: Haha! Is that how it is? Well, whatever, keep on keeping on.
+Dialogue Set #2[]
+Available after completing Where the Boat of Consciousness Lies.
+
+Rahman: We meet again. How have you been recently? Have things settled down a bit for you?
+ A bit is about right. And you?
+Rahman: Hah, well, I've actually gotten busier recently. Other than completing the work that Cyno has assigned to us, I still have my lady's protection to worry about.
+Rahman: By "my lady," I mean Ms. Setaria, whom I'm sure you know. She left the Akademiya recently — with permission, of course.
+Rahman: She wants to pass on the things she knows to the desert people. Both Lesser Lord Kusanali and Cyno have approved of this plan, and they've both helped quite a bit, too.
+Rahman: Ah, this is a blessing that is hard to come by, especially for us, the children of King Deshret. We must hold it most dear indeed.
+ Things aren't going too differently for me.
+Rahman: Is that so? Well then, please stay safe while you're out exploring.
+Rahman: If there's anything I can help you with, don't hesitate to ask. I'll be here for the foreseeable future, in any case.
+
+Other Languages[]
+
+LanguageOfficial NameEnglishRahmanChinese(Simplified)拉赫曼LāhèmànChinese(Traditional)拉赫曼LāhèmànJapaneseラフマンRafumanKorean라흐만RaheumanSpanishRahmanFrenchRahmanRussianРахманRakhmanThaiRahmanVietnameseRahmanGermanRahmanIndonesianRahmanPortugueseRahmanTurkishRahmanItalianRahman
+Change History[]
+Released in Version 3.1[Create New History]
+References[]
+
+↑ Twitter: EN VA Self Announcement
+
+↑ Archon Quest, Chapter III, Act IV - King Deshret and the Three Magi, Part 2: Cry From the Eleazar Hospital
+
+↑ Archon Quest, Chapter III, Act IV - King Deshret and the Three Magi, Part 3: Secret of the Scorching Desert
+
+↑ Archon Quest, Chapter III, Act V - Akasha Pulses, the Kalpa Flame Rises, Part 1: Through the Predawn Night
+
+↑ Archon Quest, Chapter III, Act V - Akasha Pulses, the Kalpa Flame Rises, Part 3: Jnagarbha Day
+
+↑ Archon Quest, Chapter III, Act V - Akasha Pulses, the Kalpa Flame Rises, Part 5: A Toast to Victory
+
+
+
+
+

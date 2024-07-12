@@ -1,0 +1,119 @@
+
+
+
+
+
+Dana
+Student
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Sumeru
+
+
+Location
+Sumeru
+
+
+Affil­i­a­tion
+Amurta
+
+
+Dialogue Reward
+ 4
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Dana is an open-world NPC located in Pardis Dhyai, Sumeru. He is a member of Amurta.
+Following a certain dialogue branch for the first time gives the player four Padisarah.
+
+Contents
+
+1 Location
+2 Idle Quotes
+3 Thoughts
+4 Dialogue
+5 Other Languages
+6 Change History
+
+
+Location[]
+Dana's locationAdditional context
+Idle Quotes[]
+
+ Return home...
+Media:VO Dana 01.ogg "When will I hear back about my application?"
+
+Thoughts[]
+Dana's thoughts can be accessed by using Nahida's Elemental Skill, All Schemes to Know.
+
+
+Media:VO Dana All Schemes to Know 01.ogg Dana: (O great Dendro Archon, please let my application get approved...)
+
+Dialogue[]
+
+Dana: Days feel like years while I wait for this...
+ What are you waiting for?
+Dana: An outcome that will decide my future!
+Dana: ...It's my application to remain in school after graduation.
+Dana: I heard the competition to join the Akademiya has been growing in intensity. People are giving recommendations to Ms. Kemia every day. I wonder if I still have a chance...
+Dana: No, I must stay confident. Based on the results of my final paper, I still have quite the advantage.
+ Tell me about your results...
+Dana: It was on Padisarah.
+Dana: Do you know that there are very few plantations of Padisarah due to its harsh requirements for the environment?
+Dana: If it's possible to develop a stabler variety, then it'll be able to greatly improve the efficiency of growing Padisarah.
+Dana: I proposed quite an effective solution in my graduation paper. If I can stay in school and continue my research after graduation, I'm certain that I'll be able to make a bigger breakthrough.
+ Sounds like a plan.
+Dana: Hearing you say this, I feel a bit more relieved.
+Dana: Anyway, I've done the best I could, now it's all up to destiny.
+Dana: By the way, these are the Padisarah I cultivated during my research.
+Dana: Smells amazing, right? Please take them as a gift. I just hope all our wishes will come true.
+(Obtain  Padisarah ×4)
+ See you.
+(Before completing Where the Boat of Consciousness Lies)
+
+Dana: Greater Lord Rukkhadevata, please let my application get approved...
+(After completing Where the Boat of Consciousness Lies)
+
+Dana: O great Dendro Archon, please let my application receive approval...
+
+Other Languages[]
+
+LanguageOfficial NameEnglishDanaChinese(Simplified)达纳Dá'nàChinese(Traditional)達納Dá'nàJapaneseダナDanaKorean다나DanaSpanishDanaFrenchDanaRussianДанаDanaThaiDanaVietnameseDanaGermanDanaIndonesianDanaPortugueseDanaTurkishDanaItalianDana
+Change History[]
+Released in Version 3.0[Create New History]
+
+
+

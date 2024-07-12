@@ -1,0 +1,217 @@
+
+
+
+This article is about the Mondstadt NPC. For the Inazuma character, see Kujou Sara.
+
+
+Sara
+Waitress, Good Hunter
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+								Voice Actors
+							
+
+
+
+
+
+Region
+Mondstadt
+
+
+Location
+Mondstadt
+
+
+Affil­i­a­tion
+Good Hunter
+
+
+Dialogue Reward
+ 4
+
+
+
+
+Japanese
+Nagaki Sakura (永木 さくら)[1]
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Sara is a shop NPC located in the City of Mondstadt, Mondstadt. She can be found serving as a waitress at Good Hunter, indicated by the  icon on the map.  The shop is open at all times of the day and sells food, recipes, and ingredients. The frequency of the stock refresh varies.
+Following a certain dialogue branch for the first time gives the player four Satisfying Salads.
+
+Contents
+
+1 Shop
+
+1.1 Food and Ingredients
+1.2 Recipes
+
+
+2 Location
+3 Profile
+
+3.1 Appearance
+
+
+4 Quests and Events
+
+4.1 Archon Quests
+4.2 Story Quests
+
+4.2.1 Hangout Events
+
+
+4.3 World Quests
+4.4 Commissions
+4.5 Events
+
+
+5 Idle Quotes
+6 Dialogue
+7 Character Mentions
+
+7.1 Character Voice-Overs
+
+
+8 Trivia
+9 Gallery
+10 Other Languages
+11 Change History
+12 References
+
+
+Shop[]
+Food and Ingredients[]
+ItemCostStockTotalCostRefreshes
+ Teyvat Fried Egg200(180)51,000(900)Daily
+ Chicken-Mushroom Skewer450(405)52,250(2,025)Daily
+ Fisherman's Toast1,025(920)55,125(4,600)Daily
+ Flour150(135)101,500(1,350)Weekly
+ Cream150(135)101,500(1,350)Weekly
+ Smoked Fowl900(810)109,000(8,100)Weekly
+ Butter270(240)102,700(2,400)Weekly
+ Ham630(565)106,300(5,650)Weekly
+ Sugar450(405)104,500(4,050)Weekly
+ Crab Roe1,125(1,010)1011,250(10,100)Weekly
+ Jam1,475(1,325)1014,750(13,250)Weekly
+ Cheese420(375)104,200(3,750)Weekly
+ Bacon720(645)107,200(6,450)Weekly
+ Sausage845(755)108,450(7,550)Weekly
+Total cost for all items79,725(71,525) 
+Recipes[]
+ItemCostStockTotalCostRequiredAdventure Rank
+ Recipe: Mint Jelly1,250(1,125)11,250(1,125)15
+ Recipe: Tea Break Pancake2,500(2,250)12,500(2,250)15
+ Recipe: Flaming Red Bolognese2,500(2,250)12,500(2,250)20
+ Recipe: Cream Stew2,500(2,250)12,500(2,250)25
+ Recipe: Calla Lily Seafood Soup5,000(4,500)15,000(4,500)30
+ Recipe: Sautéed Matsutake5,000(4,500)15,000(4,500)35
+ Recipe: "Pile 'Em Up"5,000(4,500)15,000(4,500)40
+ Recipe: Crispy Potato Shrimp Platter5,000(4,500)15,000(4,500)30
+Total cost for all items28,750(25,875) 
+Brackets indicate cost after reputation discount.
+
+Location[]
+Sara's locationAdditional context
+Profile[]
+(To be added.)
+
+Appearance[]
+Sara is a female of average height and build with hazelnut hair and red eyes. Her hair is tucked in a high ponytail, with her hair reaching the end of her neck. She has straight-cut bangs with a slight parting to the left, and longer side bangs that hang on each side of her face.
+Her attire is of a vintage knee-length maid's outfit, bearing the color scheme of white, black, and brown. She wears a ruffled maid headdress, along with white gloves with black cuffs. She wears translucent black stockings underneath her dress, with white socks underneath her black mary janes.
+
+Quests and Events[]
+Archon QuestsPrologueAct III: Song of the Dragon and FreedomWhen the Wind Dies DownStory QuestsAphros Delos Chapter (Eula)Act I: The Spindrift Shall Never Return to the SeaSpeech and EtiquetteLeo Minor Chapter (Jean)Act I: Master's Day OffWhen the West Wind ArisesSara's WorriesNoctua Chapter (Diluc)Act I: Darknight Hero's AlibiLegend of the Darknight HeroTempus Fugit Chapter (Lisa)Act I: Troublesome WorkTroublesome WorkHangout EventsBennettAct I: Fantastic VoyageSomething... Other Than Adventure?DionaAct I: The Cat and the CocktailTo Catch a KittenWorld QuestsEquivalent ExchangeCommissionsA Surprise GiftFood DeliveryOwe Mora, Pay MoraPigeons Go AWOLEventsWhile It's WarmInvitation of WindblumePart I: Ode to Flower and CloudEight Locales Over Mountains and SeasEight Locales Over Mountains and Seas: Two Cities' RecommendationsWindblume's BreathWindblume FestivalPart I: A Gathering of Outlanders
+Idle Quotes[]
+
+ Our recommendations for today are...
+Media:VO Sara 01.ogg "Today's recommendation is the steak."
+ It's getting busier.
+Media:VO Sara 02.ogg "It's been getting quite busy recently."
+
+Dialogue[]
+
+Sara: Welcome to Good Hunter. How can I help you?
+ Can I get food to-go?
+Sara: Certainly. Here's the menu.
+(Opens Good Hunter wares)
+ About Stormterror...
+(Before completing The Outlander Who Caught the Wind)
+Sara: *sigh* Business has really taken a turn for the worse ever since Stormterror appeared. Nobody's in the mood to eat.
+Sara: Even those customers who do show up do nothing but sigh and moan...
+Sara: But I suppose that's normal. I just hope that all this will be over soon.
+ I'd like to ask about something.
+Sara: Oh? What can I do for you?
+ What is Good Hunter?
+Sara: Good Hunter is the best restaurant in town. We are famous for our Venison Steak and Satisfying Salad.
+Sara: The hunters in Springvale provide us with the ingredients.
+Sara: All ingredients are brought in fresh every day.
+Sara: I can tell you about any item on the menu if you're interested.
+ Tell me about Mondstadt.
+Sara: Judging by your looks, you must be a traveler.
+Sara: Mondstadt truly is a great place for visitors.
+Sara: Its temperate climate and clean water give birth to the best apples in all of Teyvat.
+Sara: Our famous Satisfying Salad has Mondstadt apples in it. Do you want to give it a try?
+ Tell me, are there any events happening as of late?
+Sara: There happens to be a salad tasting event ongoing now.
+Sara: Here you go. If you like it, you can always visit me again.
+(Obtain  Satisfying Salad ×4)
+ Sorry for bothering you.
+Sara: Thank you for coming to Good Hunter. Do come back next time!
+
+Character Mentions[]
+Character Voice-OversCharacterVoice-OversTravelerAbout Someone Unforgettable Media:VO_Aether_About Someone Unforgettable.ogg Media:VO ZH_Aether_About Someone Unforgettable.ogg Media:VO JA_Aether_About Someone Unforgettable.ogg Media:VO KO_Aether_About Someone Unforgettable.ogg Media:VO_Lumine_About Someone Unforgettable.ogg Media:VO ZH_Lumine_About Someone Unforgettable.ogg Media:VO JA_Lumine_About Someone Unforgettable.ogg Media:VO KO_Lumine_About Someone Unforgettable.ogg Paimon: Has anyone left a big impression on you during our recent travels?Paimon: For Paimon, that's Sara.(Traveler): Timmie.Paimon: ...Huh? Why him?(Traveler): His face comes to mind every time I've eaten a Sweet Madame recently... Really makes it hard to chow down.
+Trivia[]
+She decided she wanted to import Jueyun Chili peppers from Liyue for local resale. However, Vile thinks this would not be a sound business decision, as the peppers are supposedly extremely hot and "86%" of locals wouldn't want them. Vile is considering sending Kaeya to talk to Sara after having failed to convince her otherwise herself.
+Gallery[]
+Pre-release appearance
+Other Languages[]
+
+LanguageOfficial NameEnglishSaraChinese(Simplified)莎拉ShālāChinese(Traditional)莎拉ShālāJapaneseサラSaraKorean사라SaraSpanishSaraFrenchSaraRussianСараSaraThaiSaraVietnameseSaraGermanSaraIndonesianSaraPortugueseSaraTurkishSaraItalianSara
+Change History[]
+Released in Version 1.0[Edit History]Version 1.4
+New Recipes: Crispy Potato Shrimp Platter, Mint Jelly
+
+Version 1.0
+
+Sara and the Good Hunter shop were released.
+References[]
+
+↑ Amuleto: JP VA's Profile
+
+
+
+
+

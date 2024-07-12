@@ -1,0 +1,151 @@
+
+
+
+
+
+Sanguinetti
+Host
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Fontaine
+
+
+Location
+Fontaine
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Sanguinetti is a shop NPC found in Hotel Debord, Court of Fontaine: Quartier Narbonnais, Fontaine.
+He is marked with the  icon above him. The shop is open at all times of the day and sells food, recipes, and ingredients. The frequency of the stock refresh varies.
+
+Contents
+
+1 Shop
+
+1.1 Food and Ingredients
+1.2 Recipes
+
+
+2 Location
+3 Idle Quotes
+4 Dialogue
+5 Other Languages
+6 Change History
+
+
+Shop[]
+Food and Ingredients[]
+ItemCostStockTotalCostRefreshes
+ Fonta160(140)101,600(1,400)Daily
+ Ile flottante1,775(1,595)23,550(3,190)Daily
+ Garlic Baguette1,850(1,665)23,700(3,330)Daily
+ Cream of Mushroom Soup1,625(1,460)23,250(2,920)Daily
+ Fontainian Foie Gras7,125(6,410)214,250(12,820)Daily
+ Flour150(135)101,500(1,350)Weekly
+ Cream150(135)101,500(1,350)Weekly
+ Butter270(240)102,700(2,400)Weekly
+ Ham630(565)106,300(5,650)Weekly
+ Sugar450(405)104,500(4,050)Weekly
+ Crab Roe1,125(1,010)1011,250(10,100)Weekly
+ Jam1,475(1,325)1014,750(13,250)Weekly
+ Cheese420(375)104,200(3,750)Weekly
+ Bacon720(645)107,200(6,450)Weekly
+ Sausage845(755)108,450(7,550)Weekly
+Total cost for all items87,770(79,560) 
+Recipes[]
+ItemCostStockTotalCostRequiredAdventure Rank
+ Recipe: Duck Confit1,250(1,125)11,250(1,125)10
+ Recipe: Cream of Mushroom Soup2,500(2,250)12,500(2,250)15
+ Recipe: Fontaine Aspic2,500(2,250)12,500(2,250)20
+ Recipe: Boudin Noir aux Pommes2,500(2,250)12,500(2,250)20
+ Recipe: Fontainian Foie Gras5,000(4,500)15,000(4,500)30
+ Recipe: Lasagna5,000(4,500)15,000(4,500)35
+ Recipe: Poisson Seafood Soup5,000(4,500)15,000(4,500)40
+ Recipe: Tripes du Port5,000(4,500)15,000(4,500)40
+ Recipe: Tomates Narbonnaises5,000(4,500)15,000(4,500)40
+ Recipe: Consomme5,000(4,500)15,000(4,500)40
+ Recipe: Cassoulet5,000(4,500)15,000(4,500)40
+ Recipe: Rainbow Macarons5,000(4,500)15,000(4,500)40
+Total cost for all items48,750(43,875) 
+Brackets indicate cost after reputation discount.
+
+Location[]
+Sanguinetti's locationAdditional context
+Idle Quotes[]
+
+ If you want tea or water...
+Media:VO Sanguinetti 01.ogg "*sigh* If you want tea or water, just help yourselves."
+
+Dialogue[]
+
+Sanguinetti: Greetings, dear customer. Can I help you?
+ I'd like to see the menu.
+Sanguinetti: Here you are.
+(Opens restaurant menu)
+ Any recommendations?
+Sanguinetti: You can try some Fontainian Foie Gras alongside this red wine blend of Sassica and Ornella, produced on Erinnyes.
+Sanguinetti: This wine is naturally sweet and carries a slightly sour note, while its fruity flavors stand out to balance out the fatty flavor, rounding it out and making it even more elegant.
+Sanguinetti: Finally, allow its silky finish to fill your senses with the fragrance of roasted Figs and Sweet Flowers as a parting gift.
+Sanguinetti: Those revelers who raise their champagnes in toast can never appreciate such beauty.
+ You don't seem too pleased.
+Sanguinetti: ...You're quite sharp.
+Sanguinetti: Though those who come and go here at Hotel Debord are well-known in society, not every well-dressed gentleman or lady is as elegant in their tastes as their appearance might indicate.
+Sanguinetti: "What's the oldest and most expensive wine in your store? We'll have one of those." How often have I heard those words?
+Sanguinetti: Only Vaneigem can smile as he faces down such louts. My suggestion would've been "please raise your aesthetic levels before you enter these grounds."
+ See you.
+Sanguinetti: See you, then.
+
+Other Languages[]
+
+LanguageOfficial NameEnglishSanguinettiChinese(Simplified)桑格内蒂SānggénèidìChinese(Traditional)桑格內蒂SānggénèidìJapaneseサンギネッティSanginettiKorean상귀네티SanggwinetiSpanishSanguinettiFrenchSanguinettiRussianСангинеттиSanginettiThaiSanguinettiVietnameseSanguinettiGermanSanguinettiIndonesianSanguinettiPortugueseSanguinettiTurkishSanguinettiItalianSanguinetti
+Change History[]
+Released in Version 4.0[Edit History]Version 4.7
+New Recipe: Bulle Sauce Duck Breast
+
+Version 4.3
+
+New Recipe: Rainbow Macarons
+
+Version 4.1
+
+New Recipes: Boudin Noir aux Pommes, Cassoulet, Consomme, Tripes du Port, Tomates Narbonnaises
+
+Version 4.0
+
+Sanguinetti and his shop were released.
+
+
+

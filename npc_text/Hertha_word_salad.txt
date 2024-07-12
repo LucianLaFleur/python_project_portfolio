@@ -1,0 +1,176 @@
+
+
+
+
+
+Hertha
+Coordinator, Knights of Favonius
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+								Voice Actors
+							
+
+
+
+
+
+Region
+Mondstadt
+
+
+Location
+Mondstadt
+
+
+Affil­i­a­tion
+Knights of Favonius
+
+
+
+
+English
+Amber May[1]
+
+
+
+
+
+
+
+
+								Additional Titles
+							
+
+
+
+								Categories
+							
+
+
+
+
+
+Captain of the 6th Company
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Hertha is a Coordinator of the Knights of Favonius, and the Reputation Advisor for Mondstadt. She is located in the Market District area of the City of Mondstadt.
+She gives the World Quest Knight of the Realm, which unlocks Mondstadt's Reputation menu. She can be found under the  icon on the map.
+
+Contents
+
+1 Location
+2 Profile
+
+2.1 Appearance
+
+
+3 Quests and Events
+
+3.1 World Quests
+
+
+4 Idle Quotes
+5 Dialogue
+6 Event Dialogue
+
+6.1 Of Ballads and Brews
+
+
+7 Character Mentions
+
+7.1 Character Voice-Overs
+
+
+8 Other Languages
+9 Change History
+10 References
+
+
+Location[]
+Hertha's locationAdditional context
+Profile[]
+Hertha, overseer of goods and supplies for the Knights of Favonius. If anyone understands the city of wind and the concerns of its people, it's her. Increase your reputation in Mondstadt and gain the trust of its people, and she might even be willing to provide you some unique goods.—Map Description: Coordinator, Knights of Favonius
+Hertha is the Captain of the Knights of Favonius' 6th Company — which is in charge of logistics — and takes on the role of Coordinator. Her work includes the charter and administration of baggage train, resource management and record-keeping.
+
+Appearance[]
+Hertha wears one of the standard uniforms of the Knights of Favonius. The uniform consists of a black long-sleeved shirt, tight-fitting pants under a gray skirt and then white plate armor worn on top. Unlike other Knights, she does not have her knees covered and only has greaves on her legs. The Knights of Favonius crest decorates the breastplate and a sheathed sword hangs from her belt on her right side.
+
+Quests and Events[]
+World QuestsKnight of the Realm
+Idle Quotes[]
+
+ Transfers of supplies...
+Media:VO Hertha 01.ogg "Transfers of supplies must be reported."
+
+During the Event "Of Ballads and Brews"
+
+ I never thought...
+Media:VO Hertha Of Ballads and Brews 01.ogg "I never thought Mr. Elzer would come all the day from Dawn Winery to see me."
+
+Dialogue[]
+
+(Reputation Level 1–2)
+Hertha: Well met. What do you need from me?
+(Reputation Level 3)
+Hertha: Oh, it's you. We've been short-handed again lately... There any chance that you could help out?
+(Reputation Level 7)
+Hertha: It's been a while. Are you here to help us out with some work?
+Hertha: ...If only you were an official Knight. We could definitely use more able hands like yours.
+ How's my reputation in Mondstadt?
+(Opens Mondstadt Reputation menu)
+ Tell me a little about yourself...
+Hertha: I am the Captain in charge of the 6th Company, in charge of logistics. You can just call me Hertha.
+Hertha: My work mostly includes the charter and administration of our baggage train, resource management and record-keeping.
+Hertha: ...But Mondstadt's state is as you have seen. With the Grand Master having brought much of our manpower with him, we have since been in a constant state of short-handedness.
+Hertha: At the same time, our inventory is running a surplus to match... So I'm more than willing to exchange some of it for a little hand here and there.
+Hertha: I'm taking all comers who have experience in solving problems. With any luck, we'll take some of the burden off our Acting Grand Master's shoulders.
+Hertha: But first, you need to earn everyone's trust. So how about starting from a few small errands for the citizenry?
+ Mm. See you around, then.
+Hertha: Well, best you get working on your reputation in this city. The road will surely open up to you.
+
+Event Dialogue[]
+Of Ballads and Brews[]
+
+(New option after normal introduction dialogue)
+ About Elzer...
+(After completing Aroma of the Past)
+Hertha: Ah, so you heard... Elzer is the executive chairman of the Mondstadt Wine Guild.
+Hertha: This year, the Knights of Favonius, in collaboration with the Church of Favonius and the Adventurers' Guild, is hosting a Wine Market and are in need of a special budget.
+Hertha: However, Elzer invited me to collaborate and he helped us solve a lot of our financial problems.
+Hertha: Although he didn't say it explicitly... But my guess is that this grant came at the behest of a once senior Knight of Favonius.
+
+Character Mentions[]
+Character Voice-OversCharacterVoice-OversLisaLisa's Troubles Media:VO_Lisa Troubles.ogg Media:VO ZH_Lisa Troubles.ogg Media:VO JA_Lisa Troubles.ogg Media:VO KO_Lisa Troubles.ogg The interrogation room upstairs has sat there unused for two years now... It would be a much more lively place if Hertha would agree to let me use it as my private workshop... *sigh* She's such a spoilsport.
+Other Languages[]
+
+LanguageOfficial NameEnglishHerthaChinese(Simplified)赫塔HètǎChinese(Traditional)赫塔HètǎJapaneseヘルターHerutaaKorean헤르타HereutaSpanishHerthaFrenchHerthaRussianГертаGertaThaiHerthaVietnameseHerthaGermanHerthaIndonesianHerthaPortugueseHerthaTurkishHerthaItalianHertha
+Change History[]
+Released in Version 1.1[Create New History]
+References[]
+
+↑ Twitter: EN VA Self Announcement (Archived)
+
+
+
+
+

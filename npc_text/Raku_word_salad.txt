@@ -1,0 +1,110 @@
+
+
+
+
+
+Raku
+Sangonomiya Samurai
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Inazuma
+
+
+Location
+Inazuma
+
+
+Affil­i­a­tion
+Watatsumi Army
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Raku  (Japanese: 落) is an open-world NPC located in Bourou Village, Inazuma.
+
+Contents
+
+1 Location
+2 Profile
+
+2.1 Appearance
+
+
+3 Idle Quotes
+4 Dialogue
+5 Other Languages
+6 Change History
+
+
+Location[]
+Raku's locationAdditional context
+Profile[]
+Raku is a Sangonomiya samurai who got a serious injury that is still recovering.
+
+Appearance[]
+Raku wears the Watatsumi Army's standard uniform, modeled from the ashigaru (Japanese: 足軽) of feudal Japan. His clothing consists of a light red-white gradient shitagi with a red-violet colored left sleeve, gray kobakama, and waraji sandals without the socks. Although not visible, the Sangonomiya Clan's crest is imprinted on the back of the shitagi, below the neck. Additional features on the uniform's design such as breastplates and helmets are not present, compared to Shogun's Army uniforms, but were still equipped with sode (shoulder armor), han-kote (half-armored sleeves), haidate (thigh guards), and sune-ate (greaves) armor, whose colors were red and black with gold accents. The right shoulder guard has the Sangonomiya Clan's crest imprinted on it.
+
+Idle Quotes[]
+
+ Still a little sore...
+Media:VO Raku 01.ogg "Ugh... It's still a bit sore."
+
+Dialogue[]
+
+Raku: *sigh* Old illnesses fester, and old wounds still ache...
+ Are you hurt?
+Raku: Well, what do you think? It was a pretty serious injury, too. It still hurts even now...
+Raku: Hey, hey, stop peeking. My old wound looks awful. Why, the very sight of it might shock and disturb you... I'd advise against it.
+Raku: Ow ow ow, that... really hurts.
+ I can bring you to see a doctor.
+Raku: Eh? Uh... There's no need, I went to see a doctor long ago. I mean, it's a serious injury. How could I have not gone to see a doctor, huh?
+Raku: The doctor said that I needed to convalesce. That I needed a, ah, quiet environment and some time.
+Raku: Anyway, don't you have better things to do? You look like a busy person. I'm sure you don't have time to waste here with me!
+ Take care of yourself.
+Raku: Oh, alright. Ow ow, it's hurting again...
+
+Other Languages[]
+
+LanguageOfficial NameEnglishRakuChinese(Simplified)落LuòChinese(Traditional)落LuòJapanese落RakuKorean라쿠RakuSpanishRakuFrenchRakuRussianРакуRakuThaiRakuVietnameseRakuGermanRakuIndonesianRakuPortugueseRakuTurkishRakuItalianRaku
+Change History[]
+Released in Version 2.1[Edit History]Version 2.2
+Raku's idle voice-over was added.
+
+Version 2.1
+
+Raku was released.
+
+
+

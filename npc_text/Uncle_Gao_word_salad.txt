@@ -1,0 +1,160 @@
+
+
+
+
+
+Uncle Gao
+Fishmonger
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Liyue
+
+
+Location
+Liyue
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Uncle Gao (Chinese: 老高 Lǎo Gāo) is an open-world NPC in Liyue Harbor. He can be found at the wharf during the day (11:00–19:00) and at Third-Round Knockout at night.
+
+Contents
+
+1 Shop
+2 Location
+3 Profile
+
+3.1 Appearance
+
+
+4 Quests and Events
+
+4.1 Archon Quests
+4.2 Story Quests
+
+
+5 Idle Quotes
+6 Dialogue
+
+6.1 Daytime
+6.2 Nighttime
+
+
+7 Event Dialogue
+
+7.1 Fleeting Colors in Flight
+
+
+8 Trivia
+9 Other Languages
+10 Change History
+
+
+Shop[]
+ItemCostStockTotalCostRefreshes
+ Fish ×1300103,000Daily
+ Fish ×31,00055,000Daily
+Total cost for all items8,000 
+Location[]
+Uncle Gao's location (Daytime)Additional context (Daytime)Uncle Gao's location (Nighttime)Additional context (Nighttime)
+Profile[]
+Uncle Gao is infamous for his apparently-terrible bargains: He sells fish for 300 Mora (compared to Uncle Sun who sells them for 240), and offers a bizarre "package deal" of 3 fish for 1,000 Mora, which is more expensive than buying them separately.
+At nighttime, he can be found at Third-Round Knockout, where it turns out that he and Uncle Sun are actually in cahoots, and Gao is deliberately making bad deals so people assume Sun's fish are a bargain and buy from him. The two then split the profits.
+
+Appearance[]
+(To be added.)
+
+Quests and Events[]
+Archon QuestsChapter IAct III: A New Star ApproachesThe Fond FarewellStory QuestsMonoceros Caeli Chapter (Tartaglia)Act I: Mighty Cyclops' Adventure!Teucer's Terrific TourUmbrabilis Orchis Chapter (Yelan)Act I: Calculated GambitCandidature Analysis
+Idle Quotes[]
+
+(Daytime)
+ Fresh fish...
+Media:VO Uncle Gao 01.ogg "Ugh, fresh fish. Come get your fresh fish."
+(Nighttime)
+ Made another handsome sum...
+Media:VO Uncle Gao 02.ogg "Made another handsome sum today?"
+
+During Fleeting Colors in Flight
+
+(Daytime)
+ Same deal as always...
+Media:VO Uncle Gao Lantern Rite 01.ogg "Same deal as always! Still fish, still fresh!"
+
+Dialogue[]
+Daytime[]
+
+Uncle Gao: Would you like to buy some fish?
+Uncle Gao: Get one for three hundred Mora, or three for a thousand.
+ Get your fresh fish here!
+(Opens shop menu)
+ Shouldn't buying more mean a better price?
+Uncle Gao: It's my fish, I'll do as I wish!
+Uncle Gao: These fish are as fresh as they come! Buy one and it's good for you. Buy two and that's a deal. Buy three and you're practically stealing from me. More sales means more Mora, got it?
+Uncle Gao: Besides, the more fish I sell means the fewer fish I have, and fewer fish means a higher price. Don't you get the principle of "limited supply"? These are fair prices.
+Uncle Gao: I have only one thing to say to people like you: either buy something or scram!
+ No, thank you. Goodbye.
+Uncle Gao: Just looking? Hah, your loss!
+
+Nighttime[]
+
+Uncle Gao: How was business today, brother?
+Uncle Sun: Here, let's just say this is a token of my appreciation, all thanks to your plan!
+Uncle Gao: Haw-haw, they won't suspect a thing. This is all going just as I planned it would.
+Uncle Sun: That's my Uncle Gao! There's no way anyone would ever remotely suspect that we're in cahoots. As soon as they compare our prices, they'll surely think that I'm the only one getting any business.
+Uncle Gao: Hahaha! Come now, Uncle Sun! Bottoms up!
+Uncle Sun: Here, let me fill that up for ya!
+Uncle Gao: Aye! Tonight will be a night that we never remember, hahaha!
+Uncle Sun: Enough talking, now drink up!
+
+Event Dialogue[]
+Fleeting Colors in Flight[]
+
+Uncle Gao: Would you like to buy some fish?
+Uncle Gao: It's as fresh as always, Lantern Rite notwithstanding!
+Uncle Gao: The price is same as always! One for three hundred Mora, or three for a thousand.
+(Continue non-event dialogue)
+
+Trivia[]
+Gao and Sun's trick is known in real-life as price anchoring.
+On the Chihu Rock Bulletin Board, he and Uncle Sun post advertisements as "Fresh Fish Stall Ad" and "Fresher Fish Stall Ad."
+Other Languages[]
+
+LanguageOfficial NameEnglishUncle GaoChinese(Simplified)老高Lǎo GāoChinese(Traditional)老高Lǎo GāoJapanese高Taka‍[!][!]Assumed readingKorean고 씨Go SsiSpanishLao GaoFrenchLao GaoRussianСтарина ГаоStarina GaoThaiลุง GaoLung GaoVietnameseLão GaoGermanLao GaoIndonesianPaman GaoPortugueseLao GaoTurkishGao AmcaItalianLao Gao
+Change History[]
+Released in Version 1.0[Create New History]
+
+
+

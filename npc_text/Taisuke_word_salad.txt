@@ -1,0 +1,163 @@
+
+
+
+
+
+Taisuke
+Adventurer
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Inazuma
+
+
+Location
+Inazuma
+
+
+Affil­i­a­tion
+Adventurers' Guild
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Taisuke is an open-world NPC located in Asase Shrine, Seirai Island, Inazuma.
+
+Contents
+
+1 Location
+2 Profile
+
+2.1 Appearance
+
+
+3 Quests
+
+3.1 World Quests
+
+
+4 Idle Quotes
+5 Dialogue
+6 Other Languages
+7 Change History
+8 References
+
+
+Location[]
+Taisuke's locationAdditional context
+Profile[]
+Taisuke is an adventurer with the Inazuma's Adventurers' Guild. During the events of Seirai Stormchasers, he and Eiko were sent to investigate a way to calm the storm on Seirai Island.
+He loves cats[1] and is very enthusiastic about Neko, willingly wanting to go above and beyond to help her whenever he finds out she requires assistance in the World Quest series Neko Is a Cat. When he had found out Neko was a talking cat during Seirai Stormchasers, he wanted to seal the Warding Stones quickly just so he could meet her more quickly. Despite this, he is thoughtful and seems to have proper manners and etiquette, wanting to get a greeting gift before meeting Neko.
+He seems quite knowledgeable about birds, as after defeating the Thunder Manifestation in Seirai Stormchasers where the Traveler picks up a Peculiar Pinion, he was able to analyze the feather's pattern, texture, dimensions and ratio to figure out the bird's size.[2]
+He has a lot of respect for his fellow adventurer Eiko, stating that she is skilled and has sound judgement as an adventurer.[3]
+
+Appearance[]
+Taisuke has short brown hair and wears square rimmed glasses. He wears the standard male uniform of the Adventurers' Guild. The uniform consists of two layers of shirt (a long-sleeve white shirt with mandarin collar and a green laced up vest), a green Dixie cap with a red cross on the left, green vambraces, a red necktie, a green cape collar with a ruffled trim and a triangular back flap, a buckled belt, knee-length green pants with red accents, brown stockings and laced leather shoes. The Adventurers' Guild logo, an eight-pointed star, is printed on the right and back flaps of the collar.
+
+Quests[]
+World QuestsNeko Is a CatNeko Is a Cat: Wooden ShelfNeko Is a Cat: Shrine RecipeNeko Is a Cat: Cat and StoneSeirai StormchasersSeirai Stormchasers: Part ISeirai Stormchasers: Part IISeirai Stormchasers: Part IIISeirai Stormchasers: Part IV
+Idle Quotes[]
+
+ A talking cat...
+Media:VO Taisuke 01.ogg "That cat can talk!"
+
+Dialogue[]
+
+Taisuke: I have to bring a gift for Lady Neko...
+ Lady... Neko?
+Taisuke: Of course! She's the provisional head priestess of this Asase Shrine, you know? She's a very distinguished cat indeed!
+Taisuke: Going to see her empty-handed would just be rude — so I must prepare some sort of greeting gift.
+Taisuke: I originally wanted to go to Narukami Island to prepare some gifts, but if we went back there, I'm sure that Miss Eiko would drag me off to the Guild...
+Taisuke: If that happened, I might never get another chance to come to Seirai Island...
+ You could just make some yourself.
+Taisuke: Exactly! That's exactly what I was thinking too! Seirai Island is dotted by a great number of shallows, so I decided to make some tools and go over there later to catch a few fish!
+Taisuke: Once that's done, we can make some grilled fish, some smoked fish, some dried fish, some fish soup...
+Taisuke: Oh, I do hope Lady Neko will like them!
+ Goodbye.
+Taisuke: Goodbye. Safe travels.
+
+(After completing Neko Is a Cat: A "Good Turn" Comes Late)
+Etsuko: Indeed, "Hibiki," "Asase Shrine," "Domeki"... these names are all quite concerning, actually.
+ And where did you two pop out from?
+Etsuko: Well, you were all making such a racket, so of course we'd come over.
+Etsuko: Still, there's something that I think you must know.
+Etsuko: Taisuke, if you'd do the honors.
+Taisuke: Ah right, of course, Miss Etsuko. So what we're going to say... concerns Seirai Island.
+ Do you know something?
+Taisuke: The history of this place is very obscure, and while the Guild has attempted to specifically search for information regarding it, we've found very little...
+Taisuke: According to what information we did manage to get, this was a gathering place for pirates several centuries ago. Then, it was the Shogunate who cleared all the pirates out and moved the inhabitants to other places...
+Taisuke: Unless I'm mistaken, this "Domeki" we speak of may well have been the pirate leader "Ako Domeki," who chose to fight the Shogunate head-on. The records do clearly record his name.
+Taisuke: According to that same information we have, this Ako Domeki led his pirate fleet in a naval battle against the Shogunate.
+Taisuke: They were quickly suppressed and forced to flee back to Seirai Island...
+Taisuke: But as the Shogunate fleet pursued him, a sudden storm erupted on Seirai Island.
+Taisuke: Ako Domeki's fleet and the Shogunate's were both caught in the ensuing storm... and they were all lost.
+ A storm...
+Etsuko: I'll pick things up from there. The biggest mystery here, of course, is the sudden emergence of that storm.
+Etsuko: Although Ako Domeki's fleet was also hit by the storm and was nearly wiped out as a result, the fleet that the Shogunate sent was also all but lost with all hands, with the remnants being forced to retreat to Narukami Island. It would be quite some time before the fleet was ready again.
+Etsuko: So the timing of that storm was just too good. Almost as if... someone was specifically controlling it.
+Etsuko: I'm sure you remember the Warding Stones on this island. Those had been intentionally unsealed.
+Etsuko: And once we sealed them again, the storm on the island became calm once more.
+Etsuko: I'm not going to jump to conclusions immediately, but my gut says that those incidents are definitely related.
+Taisuke: Well, we could ask Lady Neko...
+Etsuko: ...Eh, I say forget it. The record states that Domeki went missing — well, that's what it says anyway, but if he was hit by that storm, he probably...
+Etsuko: We'll continue exploring this island and collecting more information about this incident for a while, and then we'll report back to the Guild.
+Etsuko: Who knows? Maybe we'll have the pleasure of working together again some time.
+ I look forward to it.
+Etsuko: The feeling's mutual.
+Etsuko: Well, Taisuke, let's ready up. We've got some exploring to do.
+Taisuke: Uh, so Miss Etsuko, about Lady Neko...
+Etsuko: You can keep treating that cat just as you did before, of course.
+Etsuko: Just remember to refrain from saying anything you shouldn't.
+Etsuko: It's a real happy camper right now. No need for you to be a wet blanket.
+Taisuke: I got it. Haha, Miss Etsuko, you really are...
+Etsuko: ...Just trying to finish our commissions more efficiently. C'mon, let's get to work.
+Etsuko: Seirai Island... It seems that this place is still full of many mysteries...
+
+Other Languages[]
+
+LanguageOfficial NameEnglishTaisukeChinese(Simplified)大祐DàyòuChinese(Traditional)大祐DàyòuJapanese大祐TaisukeKorean타이유TaiyuSpanishTaisukeFrenchTaisukeRussianТайсукэTaysukeThaiTaisukeVietnameseTaisukeGermanTaisukeIndonesianTaisukePortugueseTaisukeTurkishTaisukeItalianTaisuke
+Change History[]
+Released in Version 2.1[Create New History]
+References[]
+
+↑ World Quest, Neko Is a Cat, Part 5: Neko Is a Cat: Cat and Stone
+
+↑ World Quest, Seirai Stormchasers: Seirai Stormchasers: Part IV
+
+↑ World Quest, Seirai Stormchasers: Seirai Stormchasers: Part I
+
+
+
+
+

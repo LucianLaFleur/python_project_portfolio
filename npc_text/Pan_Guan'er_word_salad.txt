@@ -1,0 +1,134 @@
+
+
+
+
+
+Pan Guan'er
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Liyue
+
+
+Location
+Liyue
+
+
+Dialogue Reward
+ 1
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Pan Guan'er is an open-world NPC in Liyue. He can be found at a teal pavilion at Jueyun Karst. He is a lumberjack, but he is unable to work since he lost his axe. 
+Following a certain dialogue branch for the first time gives the player a Skyrider Sword. 
+
+Contents
+
+1 Location
+2 Profile
+
+2.1 Appearance
+
+
+3 Idle Quotes
+4 Dialogue
+5 Other Languages
+6 Change History
+7 References
+
+
+Location[]
+Pan Guan'er's locationAdditional context
+Profile[]
+(To be added.)
+
+Appearance[]
+(To be added.)
+
+Idle Quotes[]
+
+ My axe...
+Media:VO Pan Guan'er 01.ogg "Urgh... my axe... where's my axe?"
+
+Dialogue[]
+
+Pan Guan'er: Are you a traveler? ...Did you see my axe on your way here?
+ Is there anything of note nearby?
+(If there are Magical Crystal Ore Veins Pan Guan'er knows; Version 1)
+
+Pan Guan'er: You've come to the right person. My family was in the mining business in the past. As a result, I have the ability to discern the quality of ore with a single glance, which earned me the moniker "Pan Guan'er."
+Pan Guan'er: I've discovered no small amount of Crystal Ores nearby in the past two days. They truly are splendid! I recall that I saw them around...
+Pan Guan'er: I've marked the locations out on your map. If you check those spots out, you're bound to reap quite the harvest!
+(Rich Ore Reserves nearby marked on the map)
+(If there are Magical Crystal Ore Veins Pan Guan'er knows; Version 2)
+
+Pan Guan'er: You've come to the right man, my ancestors were in the mining business. As such, I can discern the quality of ore with but one look. That's why they call me "Pan Guan'er."
+Pan Guan'er: I've heard that these Crystal Ores were formed under the influence of Ley Line energies. They are very hard to come by, and very few smiths know how to work them.
+Pan Guan'er: In the past two days, I discovered Magical Crystal Ores nearby — true treasures, and no mistake!
+Pan Guan'er: My father once told me that such ores were born from the influence of Ley Line energies, and are more valuable than Crystal Ores by far!
+Pan Guan'er: I've marked the locations out on your map. If you check those spots out, you're bound to reap quite the harvest!
+(Rich Ore Reserves nearby marked on the map)
+(If there are no Magical Crystal Ore Veins)
+
+Pan Guan'er: I've searched this entire area up and down looking for my axe, but I haven't seen a thing...
+ You lost something?
+Pan Guan'er: Yes. I'm a lumberjack, I work in this area. But I lost my axe — again.
+Pan Guan'er: Maybe I misplaced it when I stopped to take a break?
+Pan Guan'er: But if it's genuinely lost, then as the legend says, an adeptus should bring it back to me...
+Pan Guan'er: If that's the case... Maybe it would be quicker if I went looking for the adeptus instead?
+ So, have you found the adepti?
+Pan Guan'er: Not yet. No adeptus has come to give me back my axe, either. How strange...
+Pan Guan'er: I did in fact pick up a sword.
+Pan Guan'er: But... I don't know how to use swords! Did the adeptus get something wrong?
+Pan Guan'er: Well, whatever. Why don't you take this sword with you I still need to wait for my axe to come back...
+(Obtain  Skyrider Sword ×1)
+ Haven't seen it, sorry.
+Pan Guan'er: *sigh* ...Okay, then.
+
+Other Languages[]
+
+LanguageOfficial NameEnglishPan Guan'erChinese(Simplified)判官儿Pàn Guān'erChinese(Traditional)判官兒Pàn Guān'erJapanese判官Hangan‍[!][!]Assumed readingKorean판관PangwanSpanishPan Guang'er el OrfebreFrenchPan Guan'erRussianПань ГуаньэрPan' Guan'erThaiPan Guan'erVietnamesePan Guan'erGermanPan Guan’erIndonesianPan Guan'erPortuguesePan Guang'erTurkishPan Guan'erItalianPan Guan'er
+Change History[]
+Released in Version 1.0[Edit History]Version 1.1
+Pan Guan'er can now inform the player about Mining Outcrops.
+
+Version 1.0
+
+Pan Guan'er was released.
+References[]
+
+
+
+

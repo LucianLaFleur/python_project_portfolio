@@ -1,0 +1,247 @@
+
+
+
+
+
+Huffman
+Knight of Favonius
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+								Family
+							
+
+
+
+								Voice Actors
+							
+
+
+
+
+
+Real Name
+Huffman Schmidt
+
+
+Region
+Mondstadt
+
+
+Location
+Mondstadt
+
+
+Affil­i­a­tions
+Knights of FavoniusBarbara Fan Club 
+
+
+
+
+Sibling
+Mika (younger brother)
+
+
+
+
+English
+Cory Yee[1]
+
+
+Japanese
+Hayakawa Kei (早川 慧)[2]
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Huffman Schmidt is an open-world NPC located in the City of Mondstadt, Mondstadt. He patrols the street across the Angel's Share tavern.
+
+Contents
+
+1 Location
+2 Profile
+
+2.1 Appearance
+
+
+3 Quests and Events
+
+3.1 Archon Quests
+3.2 Story Quests
+3.3 World Quests
+3.4 Commissions
+3.5 Events
+
+
+4 Idle Quotes
+5 Dialogue
+6 Event Dialogue
+
+6.1 Of Ballads and Brews
+6.2 Windblume's Breath
+
+
+7 Character Mentions
+
+7.1 Character Stories
+7.2 Character Voice-Overs
+
+
+8 Trivia
+
+8.1 Etymology
+
+
+9 Gallery
+
+9.1 Cameos
+
+
+10 Other Languages
+11 Change History
+12 References
+
+
+Location[]
+Huffman's locationAdditional context
+Profile[]
+Huffman is the older brother of Mika and has been working as member of the Knights of Favonius for at least three years.[3][4] As a member of the Knights of Favonius, his responsibilities includes conducting safety patrols and restocking and dispensing medication together with Swan.[5] He has previously interacted with Alice, Klee's mother, before she left Mondstadt and scolded both of them for causing trouble.
+Aside from being a knight, Huffman is also a member of Barbara Fan Club and has received an autograph from Barbara because of his professional personality compared to other fans.
+
+Appearance[]
+Huffman wears one of the standard uniforms of the Knights of Favonius. The uniform consists of a black long-sleeve shirt, horse riding pants, gloves, and brown leather shoulder pads with brass-accented white plate armor worn on top. His vambraces however are black. Wing motifs decorate various parts of the armor along with the Knights of Favonius crest on the breastplate. A sheathed sword hangs from his belt on his left side and a blowing horn hangs from the back of his hip.
+
+Quests and Events[]
+Archon QuestsPrologueAct III: Song of the Dragon and FreedomWhen the Wind Dies DownStory QuestsNoctua Chapter (Diluc)Act I: Darknight Hero's AlibiLegend of the Darknight HeroDarknight Hero's CrisisDarknight Hero's AlibiWorld QuestsIn the AftermathCommissionsA Commission From "That Guy"EventsUnreconciled StarsContingenciesTo Each Their DutyMidsummer Island AdventurePart I: Mysterious Islands: Journey to the UnknownDuel! The Summoners' Summit!Round 1: Commence! A Suspect Genesis
+Idle Quotes[]
+
+ Can I get you anything?
+Media:VO Huffman 01.ogg "Anything the knights can do for you?"
+ May the god of Anemo protect you.
+Media:VO Huffman 02.ogg "Be safe. May the Anemo Archon protect you!"
+
+During Of Ballads and Brews
+
+ Little Mika...
+Media:VO Huffman Of Ballads and Brews 01.ogg "*Sigh* Looks like Mika's really growing up."
+
+During Windblume's Breath
+
+ May the Anemo Archon protect you.
+Media:VO Huffman Windblume's Breath 01.ogg "Be safe. May the God of Anemo protect you and your loved ones."
+
+Dialogue[]
+
+Huffman: Good day, Knights of Favonius at your service.
+ About Stormterror...
+(After completing The Outlander Who Caught the Wind)
+Huffman: Please, do not worry. The Knights of Favonius will do their utmost to protect Mondstadt!
+Huffman: This is not rhetoric from the Knights of Favonius Handbook, but something I truly wanted to say myself.
+Huffman: Even though Grand Master Varka is not currently in Mondstadt, our Acting Grand Master will surely bring us through this crisis.
+ Tell me about the Knights of Favonius.
+Huffman: Since I don't want to take up your time touring Mondstadt, I'll make it short.
+Huffman: The Knights of Favonius are the protectors of Mondstadt, the swords and shields of this city.
+Huffman: ...So you'd like to know how we're doing lately?
+Huffman: Thank you for your concern. Me and my outstanding colleagues are protecting our beloved people, as usual.
+ Tell me about Mondstadt.
+Huffman: It's a city adored by its archon and its people, which is the reason for the Knights of Favonius' existence.
+Huffman: Well, that's all. Our belief is short an simple, but strong. Isn't it?
+ Goodbye.
+Huffman: Goodbye. Enjoy the wind of Mondstadt.
+(After completing A Long Shot)
+Huffman: Oh, it's you. I salute you, Honorary Knight.
+Huffman: How may I be of service to you?
+ About Stormterror...
+Huffman: Though the end of this crisis is a good thing, it's come with its fair share of troubles, too.
+Huffman: Between tallying up the human cost, repairing damaged property and strengthening our defenses in case anyone tries to make trouble, we've got a busy time ahead of us.
+Huffman: During this time, we must all do our best to share the Acting Grand Master's burden.
+ Tell me about the Knights of Favonius.
+Huffman: ...So you'd like to know how we're doing lately?
+Huffman: Your concern is much appreciated. Thanks to you both, we've managed to solve many difficult problems.
+Huffman: I'm just glad that we've never let down the trust of the citizens of Mondstadt.
+Huffman: Me and my outstanding colleagues will continue protecting our beloved people, as usual.
+ Tell me about Mondstadt.
+(Same as before)
+ Goodbye.
+(Same as before)
+
+Event Dialogue[]
+Of Ballads and Brews[]
+
+(New option after normal introduction dialogue)
+ About Mika...
+(After completing Sounds From Afar)
+Huffman: Oh? You've already met my brother? Then I don't think there's much to say.
+Huffman: I was so worried about him when he went out with the Grand Master. But now it seems I was too worried.
+Huffman: Although he is still prone to shyness, his ability to survey and do mapping has improved a lot, and his work is done in short order.
+Huffman: I hear he's joining the Guerrilla Assault platoon next, and he probably won't be back in town for a while. I wish him all the best!
+
+Windblume's Breath[]
+
+Huffman: Greetings, the Knights of Favonius are at your service.
+Huffman: Blessings of the Anemo Archon upon you. On this romantic festival, I bid you and your companions joy and cheer.
+(Dialogue continues with the same options as normal)
+
+Character Mentions[]
+Character StoriesCharacterStoriesKleeCharacter Story 5LisaCharacter Story 3MikaCharacter DetailsCharacter Story 1Character Story 2Character Story 3Character Voice-OversCharacterVoice-OversAlbedoMore About Albedo: III Media:VO_Albedo More About Albedo - 03.ogg Media:VO ZH_Albedo More About Albedo - 03.ogg Media:VO JA_Albedo More About Albedo - 03.ogg Media:VO KO_Albedo More About Albedo - 03.ogg The time required to sketch portraits closely correlates with one's mood. I could spend half a day sketching Huffman, while I might only need three strokes of the pencil to sketch Kaeya — one for the face, one for the eyepatch string... and one for the eyepatch.KleeGood Evening Media:VO_Klee Good Evening.ogg Media:VO ZH_Klee Good Evening.ogg Media:VO JA_Klee Good Evening.ogg Media:VO KO_Klee Good Evening.ogg Good evening! Can you please tell Huffman that Klee is not a baby and is definitely allowed out to play at night? Please take me out to play together!LisaAbout Mika Media:VO_Lisa About Mika.ogg Media:VO ZH_Lisa About Mika.ogg Media:VO JA_Lisa About Mika.ogg Media:VO KO_Lisa About Mika.ogg I do rather envy Huffman for having such a caring little brother. Mika takes care of everything around the house and even looks after him when he's drunk... Ah, how nice it must be to lounge around all day without a care in the world... Hmm? What do you mean, I already do that? You're getting quite bold these days, aren't you, cutie?MikaMore About Mika: II Media:VO_Mika More About Mika - 02.ogg Media:VO ZH_Mika More About Mika - 02.ogg Media:VO JA_Mika More About Mika - 02.ogg Media:VO KO_Mika More About Mika - 02.ogg Ever since I was a kid, I've wanted to become a cartographer, and map out every corner of Teyvat. It's only later on that I discovered the Knights of Favonius actually have that kind of role. Thanks to my father and brother's support, I was able to make it through the selection process and become a Front-Line Surveyor. This job has let me live out my dreams, and it's already brought me lots of fulfillment.Least Favorite Food Media:VO_Mika Least Favorite Food.ogg Media:VO ZH_Mika Least Favorite Food.ogg Media:VO JA_Mika Least Favorite Food.ogg Media:VO KO_Mika Least Favorite Food.ogg Unlike my brother, I can't stand the taste of alcohol. All it takes is one sip and I'd be out cold, and the others would have to go out of their way to take care of me. Even just the smell of a strong drink being opened is enough to make me dizzy.TravelerAbout Effort and Reward Media:VO_Aether_About_Effort_and_Reward.ogg Media:VO ZH_Aether_About_Effort_and_Reward.ogg Media:VO JA_Aether_About_Effort_and_Reward.ogg Media:VO KO_Aether_About_Effort_and_Reward.ogg Media:VO_Lumine_About_Effort_and_Reward.ogg Media:VO ZH_Lumine_About_Effort_and_Reward.ogg Media:VO JA_Lumine_About_Effort_and_Reward.ogg Media:VO KO_Lumine_About_Effort_and_Reward.ogg Paimon: Paimon finds that hard work hardly works here in Mondstadt.(Traveler): Why do you say that?Paimon: Just look at Huffman from the Knights of Favonius. He does his best at his duties every day...Paimon: But the ever-relaxed Captain Kaeya is his boss.(Traveler): Hmm, but isn't Jean, who works the hardest, the Acting Grand Master?Paimon: W—Well, how about this, then...Paimon: Venti's the god of Mondstadt, and he's the laziest of them all!
+Trivia[]
+His English voice actor, Cory Yee, also voices the playable Geo character Gorou.
+He shares the same name with a character in Vol. 6 of Vera's Melancholy. Aside from sharing the same name, the both of them are called knights.
+Most of the volumes of Vera's Melancholy are obtained from the Knights of Favonius Headquarters.
+Before completing the Archon Quest A Long Shot in Prologue: Act III - Song of the Dragon and Freedom, Huffman will greet the Traveler with the Knight salute. After that, he will no longer perform the salute and his dialogue will change to address them as Honorary Knight.
+Etymology[]
+Huffman is an alternate spelling of Hoffmann, a German occupational surname referring to the owner or manager of a piece of land.[6]
+Gallery[]
+Cameos[]
+New Character Demo - "Rosaria- No Overtime, Ever" - Genshin ImpactCollected Miscellany - "Rosaria- Purger of the Shadows" - Genshin Impact
+Other Languages[]
+
+LanguageOfficial NameEnglishHuffmanChinese(Simplified)霍夫曼HuòfūmànChinese(Traditional)霍夫曼HuòfūmànJapaneseホフマンHofumanKorean호프만HopeumanSpanishHuffmanFrenchHoffmanRussianХоффманKhoffmanThaiHuffmanVietnameseHuffmanGermanHuffmanIndonesianHuffmanPortugueseHuffmanTurkishHuffmanItalianHuffman
+Change History[]
+Released in Version 1.0[Create New History]
+References[]
+
+↑ Cory Yee: EN VA's Website
+
+↑ Twitter: JP VA's Bio
+
+↑ Klee's Character Story: Character Story 1
+
+↑ Klee's Character Story: Character Story 5
+
+↑ Lisa's Character Story: Character Story 3
+
+↑ Wikitionary: Hoffman
+
+
+
+
+

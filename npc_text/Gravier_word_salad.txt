@@ -1,0 +1,103 @@
+
+
+
+
+
+Gravier
+Gestionnaire
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Fontaine
+
+
+Location
+Fontaine
+
+
+Affil­i­a­tion
+Maison Gestion
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Gravier is an open-world NPC located in Fountain of Lucine, Erinnyes, Fontaine.
+
+Contents
+
+1 Location
+2 Idle Quotes
+3 Dialogue
+4 Trivia
+
+4.1 Etymology
+
+
+5 Other Languages
+6 Change History
+
+
+Location[]
+Gravier's locationAdditional context
+Idle Quotes[]
+
+ ...
+
+Dialogue[]
+
+Gravier: Will my career end before it could even begin...?
+ Need help?
+Gravier: Uh, I'm fine... I mean, thanks for asking, but I suspect that only I can solve this problem of mine.
+Gravier: I'm a Gestionnaire, and I'm new here at the Palais Mermonia. I've been assigned to perform some simple legal work here.
+Gravier: That said, though, I'm a bit of an introvert. I'm not exactly used to a job like this, where I'll need to talk to lots of people.
+Gravier: Monsieur Neuvillette happened by me the other day, and seeing that I looked like I wasn't doing to well, he clapped a hand on my shoulder and gave me a few comforting words... But he just... made me even more nervous.
+ Would you like to switch jobs?
+Gravier: Thanks for the suggestion. You're a good person, just like Monsieur Neuvillette.
+Gravier: I'm new here, and this is my first job, while my superior seems to have high expectations for me.
+Gravier: He hopes that I will bring some youthful vigor to the rather lifeless Palais Mermonia, and I don't see myself working up the courage to refuse.
+Gravier: *sigh* If only I had known, I would have switched jobs with Iaune, who only recently joined as well... He seems like a much cheerier sort than I.
+ Sorry to bother you...
+Gravier: Oh, don't worry, take care...
+
+Trivia[]
+Etymology[]
+Gravier means "gravel" in French.
+Other Languages[]
+
+LanguageOfficial NameEnglishGravierChinese(Simplified)加维JiāwéiChinese(Traditional)加維JiāwéiJapaneseグラヴィエGuravieKorean그라비에GeurabieSpanishGravierFrenchGravierRussianГравьерGrav'yerThaiGravierVietnameseGravierGermanGravierIndonesianGravierPortugueseGravierTurkishGravierItalianGravier
+Change History[]
+Released in Version 4.0[Create New History]
+
+
+

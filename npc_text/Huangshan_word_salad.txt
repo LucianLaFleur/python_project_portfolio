@@ -1,0 +1,153 @@
+
+
+
+
+
+Huangshan
+Guard for Hire
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Liyue
+
+
+Location
+Liyue
+
+
+Dialogue Reward
+ 3
+
+
+Genius Invokation TCG
+Stages
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Huangshan (Chinese: 黄衫 Huángshān) is an open-world NPC in Liyue. She can be found at the ground floor of the Wangshu Inn in Dihua Marsh, seated at one of the tables.
+Following a certain dialogue branch for the first time gives the player three Adventurer's Experience.
+
+Contents
+
+1 Location
+2 Profile
+
+2.1 Appearance
+
+
+3 Quests and Events
+
+3.1 Events
+
+
+4 Idle Quotes
+5 Dialogue
+6 Event Dialogue
+
+6.1 Unreconciled Stars
+
+
+7 Gallery
+8 Other Languages
+9 Change History
+
+
+Location[]
+Huangshan's locationAdditional context
+Profile[]
+(To be added.)
+
+Appearance[]
+Huangshan has black hair, a gray shirt, and gray boots.
+
+Quests and Events[]
+EventsLantern Rite TalesLantern of the Wayfarer
+Idle Quotes[]
+
+ Need to get something...
+Media:VO Huangshan 01.ogg "Need to get something from A to B?"
+
+Dialogue[]
+
+Huangshan: Spare me the pleasantries; what is it you want?
+ Duel
+(Opens Genius Invokation TCG match interface)
+(If the player loses the match)
+
+Huangshan: Forgive me for saying this, but please, no need to go easy on me!
+(If the player wins the match)
+
+Huangshan: Brilliant! My defeat is utterly complete!
+ Who are you?
+Huangshan: I'm a guard for hire. I escort goods safely from A to B. Not to boast, but in all my time doing it I've never slipped up.
+ Might I ask your name?
+Huangshan: Haha, I forgot to say my name.
+Huangshan: It's Huangshan.
+Huangshan: I'm pretty well known on the merchants' route between Mondstadt and Liyue. I'm thorough in my work, and people so say.
+ What about the rumors on the road?
+Huangshan: A dragon attacked Mondstadt the other day, so I'm taking a temporary break.
+Huangshan: I can deal with monsters, beasts and bandits no problem, but I'm not trying my luck against no dragon.
+Huangshan: Speaking of rumors, this is where the rumors of two nations meet. I'm told the staff here are all informers for the Qixing.
+Huangshan: The look on your face suggests you took that seriously. Ahahaha...
+ About guards-for-hire...
+Huangshan: You just need to know that it's a term specific to Liyue that refers to mercenaries who specialize in protecting cargo.
+Huangshan: Well, the people of Liyue prize mercantilism, and traveling merchants must go far abroad. Our job is to protect them from bandits who would rob them of their goods.
+Huangshan: I've accumulated a lot of experience from my years working in this field for — and I don't mind sharing.
+(Obtain  Adventurer's Experience ×3)
+ Goodbye.
+Huangshan: Bye. I sense a certain confidence in you; we should team up some time.
+
+Event Dialogue[]
+Unreconciled Stars[]
+
+Huangshan: Need a guard? It'll cost you extra, though. Unique times and everything.
+Huangshan: The risks are high, after all. Meteorites are dropping from the sky — who knows what else might come down while we're at it?
+(Dialogue options and responses are the same as normal)
+
+Gallery[]
+Huangshan during Lantern of the Wayfarer quest
+Other Languages[]
+
+LanguageOfficial NameLiteral MeaningEnglishHuangshan—Chinese(Simplified)黄衫Huángshān—Chinese(Traditional)黃衫Huángshān—Japanese黄衣Koui‍[!][!]Assumed reading—Korean황삼황삼黃衫Hwangsam—SpanishHuangshan—FrenchHuangshan—RussianЖёлтая рубахаZhyoltaya rubakhaYellow ShirtThaiHuangshan—VietnameseHuangshan—GermanHuangshan—IndonesianHuangshan—PortugueseHuangshan—TurkishHuangshan—ItalianHuangshan—
+Change History[]
+Released in Version 1.0[Edit History]Version 3.7
+Added a Genius Invokation TCG Duel for Huangshan.
+
+Version 1.0
+
+Huangshan was released.
+
+
+

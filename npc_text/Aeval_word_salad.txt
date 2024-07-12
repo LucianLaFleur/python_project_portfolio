@@ -1,0 +1,237 @@
+
+
+
+
+
+Aeval
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+								Voice Actors
+							
+
+
+
+
+
+Region
+Fontaine
+
+
+Location
+Fontaine
+
+
+Affil­i­a­tion
+Marechaussee Phantom
+
+
+
+
+English
+Kristen McGuire[1]
+
+
+Japanese
+Ogino Hazuki (荻野葉月)[2]
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCsMelusine 
+
+
+
+
+Aeval is an open-world NPC located in Fontaine. She operates the Aquabus on the Clementine Line, and can be summoned at both Romaritime Harbor and Court of Fontaine: Court Region Waterway Hub.
+
+Contents
+
+1 Location
+2 Profile
+
+2.1 Appearance
+
+
+3 Quests and Events
+
+3.1 Events
+3.2 Web Events
+
+
+4 Dialogue
+
+4.1 Dialogue Set #1
+4.2 Dialogue Set #2
+4.3 Dialogue Set #3
+4.4 Dialogue Set #4
+
+
+5 Trivia
+
+5.1 Etymology
+
+
+6 Other Languages
+7 Change History
+8 References
+
+
+Location[]
+If Aeval is not at one location, she can be summoned by using the  "Wait for the aquabus..." prompt.
+
+Aeval's location(Court Region Waterway Hub,2F: Clementine Line)Additional contextAeval's location(Romaritime Harbor)Additional context
+Profile[]
+(To be added.)
+
+Appearance[]
+Aeval is a blue and pink melusine with blonde hair and blue-violet eyes, she wears a teal, pink, blue, and white uniform and wears a teal hat.
+
+Quests and Events[]
+EventsRoses and MusketsAct I: The Crack of Muskets Breaking the SilenceThe Crack of Muskets Breaking the SilenceWeb EventsMelusines' Survey
+Dialogue[]
+Dialogue Set #1[]
+Available at Romaritime Harbor.
+
+
+Aeval: Hello there, dear passenger. Is there anything I can do for you?
+ When does the aquabus head out?
+Aeval: O—Oh, right! It's time to go already, isn't it?
+(Starts Aquabus ride)
+ So...
+ You are...
+Aeval: Hmm. I'll introduce myself officially once we're underway, but guess there's no harm doing it now! I'm Aeval, and I'm in charge of introducing the Clementine Line!
+Aeval: Are you curious about us Melusines, dear passenger? Mm-hmm, I get it — they say that there aren't any Melusines anywhere else in Teyvat, after all!
+Aeval: Speaking of which, the secret we Melusines keep is...
+ Is...?
+Aeval: Well, I don't know either! I've just heard that we're a very young race — we've only been around for something over four hundred years.
+Aeval: It was Monsieur Neuvillette who brought us from the cavern of Elynas to the Court of Fontaine, to live with everyone else. That's why I'm here, in this smart uniform, giving this explanation!
+ About this ship...
+Aeval: This? This is an aquabus — the most advanced transportation device in Fontaine... Probably!
+Aeval: I've heard that some people are working on a boat that can fly in the sky. That sounds awesome, right? If boats really could do that...
+Aeval: Wait, that's bad! That would cause... seasick? Airsick? Either way, passengers who get sick will be in great danger.
+ When does the aquabus head out?
+Aeval: O—Oh, right! It's time to go already, isn't it?
+ Nothing.
+Aeval: Okay. Just call me if you need anything!
+ Nothing.
+Aeval: Okay. Just call me if you need anything!
+
+Dialogue Set #2[]
+Available immediately upon arriving at Court Region Waterway Hub.
+
+
+Aeval: Hello there, dear passenger. Is there anything I can do for you?
+ About the aquabuses...
+ They're way too fast!
+Aeval: I—I see. Feedback noted! I'll report it to the higher-ups. Thank you for your suggestion...
+ They're kinda slow...
+Aeval: That's true... Feedback noted! I'll report it to the higher-ups!
+Aeval: "She"'s not that young anymore, I'm afraid. I've heard that the aquabuses are converted small naval boats from Fontaine's navy after it got disbanded.
+Aeval: They were way faster when first converted than they are now — they got slowed down to keep operational costs low. I'll keep your suggestion in mind and pass the feedback on, though!
+ Tell me about the Court of Fontaine.
+Aeval: Yup! That's my favorite place — wait, no, it's probably my second-favorite...? The place I love most is still Merusea Village, I reckon!
+Aeval: That's our homeland — a warm and comfy place. It's not as big or as pretty as the Court of Fontaine, but I actually get a bit scared of having so many pretty things and big houses around sometimes...
+Aeval: Ah, um, sorry! About the Court... You're a traveler, aren't you, dear passenger? In which case, you should go pay Lady Furina a visit — by that, I mean the Statue of The Seven!
+Aeval: Other than that, I really love Café Lutece! When I'm free, I often sit there with my senior, who always takes good care of me, and we take in the scent of coffee!
+Aeval: As for Hotel Debord... Well, it's not really to my tastes, but it's recommended by the official guide, so I'm sure it's alright!
+Aeval: Bertin's House of Curiosities and Chioriya Boutique are also pretty good! That senior of mine who I go coffee-smelling with often gets clothes made there, though we usually don't have much opportunity to wear them...
+Aeval: As for the rest... Uhh...
+Aeval: Right! Once you go leave Hotel Debord, you can head straight to reach The Steambird publishing house! Feel free to subscribe to them!
+ See you, Ms. Aeval!
+Aeval: See you, dear passenger, and thanks!
+
+Dialogue Set #3[]
+Available at Court Region Waterway Hub.
+
+
+Aeval: Hello there, dear passenger. Is there anything I can do for you?
+ When does the aquabus head out?
+Aeval: O—Oh, right! It's time to go already, isn't it?
+ So...
+ What's our destination this time?
+Aeval: Right. Our destination is Romaritime Station, which is also Romaritime Harbor — which is the end of a large waterfall!
+Aeval: And opposite that big waterfall... Well, that's a big desert! Uh, is that where you want to go, dear passenger? That's... super amazing!
+ Could you tell me about the Melusines?
+Aeval: Hmm, now that you mention it, I haven't been back to Merusea Village in ages. I wonder how everyone's doing...
+Aeval: By the way, that's our hometown! It was where we lived before we came to the Court of Fontaine. Everyone there's really nice. Especially Serene — she's like a big sister to us all!
+Aeval: There's Lutine, who makes awesome food, and Topyas and Canotila... Actually, I wonder how they're doing? Guess I should write them a letter, huh?
+Aeval: Hmm... I'm also a bit worried about Mamere... Speaking of which...
+ *cough* Could I ask when the aquabus heads out?
+Aeval: O—Oh, right! Sorry, I really didn't mean to...
+ (Let's talk again later...)
+ When does the aquabus head out?
+Aeval: O—Oh, right! It's time to go already, isn't it?
+ Nothing.
+Aeval: Okay. Just call me if you need anything!
+ Nothing.
+Aeval: Okay. Just call me if you need anything!
+
+Dialogue Set #4[]
+Available immediately upon arriving at Romaritime Harbor.
+
+
+Aeval: Hello there, dear passenger. Is there anything I can do for you?
+ About the route...
+ The trip was way too short!
+Aeval: Ah! Dear passenger...
+Aeval: I definitely agree! it's a wonderful thing, isn't it? Traveling on the elevated aquabus lane, taking in the sights here in Fontaine, growing old with the aquabus...
+Aeval: Um, but changing the route might be kinda tough. Uh, maybe we could slow the boat down a bit? That way, the time taken will increase. Hehe, Aeval, you're so smart! That's what we'll suggest...
+ The trip was way too long!
+Aeval: That's true... Feedback noted! I'll report it to the higher-ups!
+Aeval: I've heard that Poisson is the hometown of the person who built the line, which is why the Clementine Line was made to pass through Mont Automnequi during the planning stages.
+Aeval: Going through the tunnel is super exciting — and that's why the Poisson Tunnel we went through was carved.
+Aeval: But that choice does also make sense. The land over at Elynas is not very stable, and since the seabed at Elton Trench is unsuitable, we can't just come over the water either!
+Aeval: So, all that is to say that changing the route might be a bit hard, so we could... make the boats faster? That way, we'd shorten travel time! Hmm, but what about explanation time...
+ About this area...
+Aeval: Yup, we've reached our destination, Romaritime Station, which is also Romaritime Harbor. Strictly speaking, the former's part of the latter, and is a station on this route!
+Aeval: Other than that... Uh...
+Aeval: (Uh oh, what do I do! There's nothing here in the official guide! C'mon, Aeval, you can't let the passenger down like that! C'mon!)
+Aeval: Err, right, there's also a big waterfall here! See? There's tons of water, so the waterfall's way big! And because it's way big, lots of water flows down it, and as the water flowing down increases, the water will decrease...
+Aeval: ...Eh? Eh?
+ See you, Ms. Aeval!
+Aeval: See you, dear passenger, and thanks!
+Aeval: Make sure you have enough water on you if you visit the desert!
+
+Trivia[]
+In Irish mythology, Aibell (also known as Aeval) is the name of a fairy queen who is said to live in Munster. She is said to be a wise and just ruler, and she is often depicted as holding a court to decide the fate of mortals.
+Etymology[]
+The name Aeval is of Irish origin and means "age, lifetime, eternity".
+Other Languages[]
+
+LanguageOfficial NameEnglishAevalChinese(Simplified)爱贝尔Àibèi'ěrChinese(Traditional)愛貝爾Àibèi'ěrJapaneseアイベルAiberuKorean아이벨AibelSpanishAevalFrenchAevalRussianЭвальEval'ThaiAevalVietnameseAevalGermanAevalIndonesianAevalPortugueseAevalTurkishAevalItalianAeval
+Change History[]
+Released in Version 4.0[Create New History]
+References[]
+
+↑ Twitter: EN VA Self Announcement (Archived)
+
+↑ Twitter: JP VA Self Announcement (Archived)
+
+
+
+
+

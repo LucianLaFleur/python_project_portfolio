@@ -1,0 +1,129 @@
+
+
+
+
+
+Aybak
+Eremite Mercenary
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Sumeru
+
+
+Location
+Sumeru
+
+
+Affil­i­a­tion
+The Eremites
+
+
+Dialogue Reward
+ 2
+
+
+Genius Invokation TCG
+Stages
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Aybak is an open-world NPC located in Caravan Ribat, Sumeru. He is the leader of the Eremites there.
+Following a certain dialogue branch for the first time gives the player two Hero's Wit.
+
+Contents
+
+1 Location
+2 Idle Quotes
+3 Thoughts
+4 Dialogue
+5 Other Languages
+6 Change History
+
+
+Location[]
+Aybak's locationAdditional context
+Idle Quotes[]
+
+ Please stay safe...
+Media:VO Aybak 01.ogg "Please stay safe while you're out exploring."
+
+Thoughts[]
+Aybak's thoughts can be accessed by using Nahida's Elemental Skill, All Schemes to Know.
+
+
+Media:VO Aybak All Schemes to Know 01.ogg Aybak: (The youth these days really don't care to settle down...)
+
+Dialogue[]
+
+Aybak: My sister, Safie, seems to have gone missing again...
+ Adventure Challenge
+(Opens Genius Invokation TCG match interface)
+(If the player loses the match)
+
+Aybak: Haha, don't worry! Playing cards is like adventuring. Some you win, some you lose!
+(If the player wins the match)
+
+Aybak: Wow, you dominated the game! Not surprised I lost to a natural like you.
+ Are you looking for someone?
+Aybak: Yes.
+Aybak: ...Ah, please don't get me wrong. Safie isn't my real sister, it's because we're a very close-knit group, so we call each other brother and sister.
+Aybak: Our group just received a few new commissions, and one of them really suits her. But she's nowhere to be found... I guess she wandered off somewhere again.
+ Why don't you do it yourself?
+Aybak: Haha, that won't be necessary. We're not that shorthanded.
+Aybak: I'm the leader of the Eremites in Caravan Ribat. It's best if I stay to supervise public safety here and carry out the maintenance of the Wall of Samiel.
+Aybak: Those are basic orders from the Akademiya, and I can deal with them on my own.
+Aybak: As for the other commissions, my brothers and sisters can see to them. If all of us can make money, we'll live happily together.
+ Need my help?
+Aybak: It's okay. It's not an emergency. No need to bother anyone else.
+Aybak: And she should be able to take care of herself on her own.
+Aybak: But you, you'd better watch yourself. In this place, quite a lot of people come and go... if you know what I mean.
+(Obtain  Hero's Wit ×2)
+ See you.
+Aybak: See you.
+
+Other Languages[]
+
+LanguageOfficial NameEnglishAybakChinese(Simplified)阿巴克ĀbākèChinese(Traditional)阿巴克ĀbākèJapaneseアイバクAibakuKorean아이벡AibekSpanishAybakFrenchAybakRussianАйбакAybakThaiAybakVietnameseAybakGermanAybakIndonesianAybakPortugueseAybakTurkishAybakItalianAybak
+Change History[]
+Released in Version 3.0[Edit History]Version 3.7
+Added a Genius Invokation TCG Adventure Challenge for Aybak.
+
+Version 3.0
+
+Aybak was released.
+
+
+

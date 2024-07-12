@@ -1,0 +1,145 @@
+
+
+
+
+
+Farghani
+Researcher
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Sumeru
+
+
+Location
+Sumeru
+
+
+Affil­i­a­tion
+Rtawahist
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Farghani is an open-world NPC located in Razan Garden, Sumeru City, Sumeru.
+
+Contents
+
+1 Location
+2 Profile
+
+2.1 Appearance
+
+
+3 Quests and Events
+
+3.1 Commissions
+
+
+4 Idle Quotes
+5 Thoughts
+6 Dialogue
+7 Event Dialogue
+
+7.1 A Parade of Providence
+
+
+8 Trivia
+9 Other Languages
+10 Change History
+
+
+Location[]
+Farghani's locationAdditional context
+Profile[]
+(To be added.)
+
+Appearance[]
+(To be added.)
+
+Quests and Events[]
+CommissionsTo Measure the World!
+Idle Quotes[]
+
+ Teyvat...
+Media:VO Farghani 01.ogg "But what if Teyvat is round?"
+
+During A Parade of Providence
+
+ Star course deviations...
+Media:VO Farghani A Parade of Providence 01.ogg "Could deviations in the star's course have affected my calculations?"
+
+Thoughts[]
+Farghani's thoughts can be accessed by using Nahida's Elemental Skill, All Schemes to Know.
+
+Media:VO Farghani All Schemes to Know 01.ogg Farghani: (Gah... These numbers don't make any sense... I can't get them to make sense, no matter what I do...)
+Dialogue[]
+
+Farghani: Why is discrepancy always inevitable at this point of calculation...?
+ What are you calculating?
+Farghani: Before I answer your question, let me ask you one: What do you think Teyvat is like?
+Farghani: You don't have to respond, just think.
+Farghani: I have a revolutionary idea... If Teyvat was round, that would explain a lot of things.
+Farghani: Why are there currents in oceans? Why would the sun and moon alternate rising? Why would there be changes in temperature?
+Farghani: All that could be explained with the round-earth theory!
+ So what's the discrepancy?
+Farghani: *sigh* That there's the rub.
+Farghani: My theory is perfect, but the calculation of land surface doesn't bear that out...
+Farghani: Damn it, I shouldn't have ditched math classes in school! It's all Vikram's fault!
+ Why blame him?
+Farghani: That's because he asked me to skip classes with him. Whenever there was a class he found boring, he would grab me and have coffee in the downtown area.
+Farghani: But that guy did surprisingly well in all the foundation courses. I suspect that he dragged me out of classes on purpose, while he studied by himself at night.
+Farghani: Ah, time passes so quickly. I didn't expect him to be a candidate for the next Grand Conservator now.
+Farghani: I hope he gets elected so I can go around telling everyone that I skipped classes with the Grand Conservator back in the day.
+ See you.
+Farghani: Where did it go wrong...?
+
+Event Dialogue[]
+A Parade of Providence[]
+
+Farghani: Star... star course deviations...
+Farghani: Ah, if I continue my studies down this path, I might just be able to see why there is a separation between my theories and the calculations.
+Farghani: The Interdarshan Championships have done a lot of good this time. If Rtawahist hadn't selected Miss Layla as the representative, I would have never consulted her research.
+Farghani: I can only say that Miss Layla keeps too low a profile. Such incredible research needs to be seen by more people.
+
+Trivia[]
+Farghani is named after the Persian astronomer Al-Farghani (Arabic: أبو العبّاس أحمد بن محمد بن كثير الفرغاني Abū al-ʿAbbās Aḥmad ibn Muḥammad ibn Kathīr al-Farghānī), also known as Alfraganus in the West, who formulated a more accurate figure for the size of the Earth. Farghani's talks of a "discrepancy" appears to be a nod to Christopher Columbus' incorrect estimate of the size of the Earth being based on interpreting Al-Farghani's figures as being in Roman rather than Arabic miles.
+Other Languages[]
+
+LanguageOfficial NameEnglishFarghaniChinese(Simplified)法伽尼FǎjiāníChinese(Traditional)法伽尼FǎjiāníJapaneseファルガーニーFarugaaniiKorean파르가니PareuganiSpanishFarganiFrenchFarghaniRussianФарганиFarganiThaiFarghaniVietnameseFarghaniGermanFarghaniIndonesianFarghaniPortugueseFarghaniTurkishFarghaniItalianFarghani
+Change History[]
+Released in Version 3.0[Create New History]
+
+
+

@@ -1,0 +1,125 @@
+
+
+
+
+
+Kosel
+Porter
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Fontaine
+
+
+Location
+Fontaine
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Kosel is an open-world NPC located in Poisson, Belleau Region, Fontaine.
+
+Contents
+
+1 Location
+2 Idle Quotes
+3 Dialogue
+
+3.1 Dialogue Set #1
+3.2 Dialogue Set #2
+3.3 Dialogue Set #3
+
+
+4 Other Languages
+5 Change History
+
+
+Location[]
+Kosel's locationAdditional context
+Idle Quotes[]
+
+ ...
+
+Dialogue[]
+Dialogue Set #1[]
+Available before step 5 of Deluge of Wrathful Waters.
+
+
+Kosel: Huh? A new batch of goods? I'll get them moved, no problem.
+ By new batch, you refer to...
+Kosel: Huh? Relax, I was referring to normal cargo.
+Kosel: Munaciello keeps saying that "information is cargo too" — and he's certainly succeeded in creating all sorts of unnecessary expectations of us porters.
+Kosel: Don't listen to his claptrap — we should all just do what we should.
+ Uh, that's not it...
+Kosel: Oh, so you're a guest here.
+Kosel: Alright then. Just call me if you need anything.
+
+Dialogue Set #2[]
+Available after step 5 of Deluge of Wrathful Waters.
+
+
+Kosel: Hello. The goods we're transporting have to pass right through here. Careful not to get hit.
+ When you say goods...
+Kosel: Supplies for disaster relief and reconstruction.
+Kosel: Some are from the Snezhnayans, others from Ms. Clorinde.
+Kosel: The Boss has already given instructions. I'll take care of these, no need to bother you.
+ Understood.
+Kosel: Mm-hmm.
+
+Dialogue Set #3[]
+Available after Condition missing.
+
+
+Kosel: Huh? A new shipment of goods? I'll get them moved, right away.
+ By new shipment, you mean...
+Kosel: Huh? Relax, I meant normal goods.
+Kosel: Munaciello used to keep saying that "information is a type of good too." That certainly succeeded in creating all sorts of unnecessary expectations of us porters.
+Kosel: Now that we can't hear his nagging anymore... being a porter is a boring profession once again.
+ Uh, that's not it...
+Kosel: Oh, so you're a customer.
+Kosel: Alright, then. Just call me if you need anything.
+
+Other Languages[]
+
+LanguageOfficial NameEnglishKoselChinese(Simplified)科赛尔Kēsài'ěrChinese(Traditional)科賽爾Kēsài'ěrJapaneseコーセルKooseruKorean코젤KojelSpanishKoselFrenchKoselRussianКосельKosel'ThaiKoselVietnameseKoselGermanKoselIndonesianKoselPortugueseKoselTurkishKoselItalianKosel
+Change History[]
+Released in Version 4.0[Edit History]Version 4.2
+Added dialogue after completing Masquerade of the Guilty.
+
+Version 4.0
+
+Kosel was released.
+
+
+

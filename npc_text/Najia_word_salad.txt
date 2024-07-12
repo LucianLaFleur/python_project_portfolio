@@ -1,0 +1,135 @@
+
+
+
+
+
+Najia
+Props Engineer
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Sumeru
+
+
+Location
+Sumeru
+
+
+Affil­i­a­tion
+Zubayr Theater
+
+
+Dialogue Reward
+ 4
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Najia is an open-world NPC located in Zubayr Theater, Sumeru City.
+Following a certain dialogue branch for the first time gives the player four Crystal Chunks.
+
+Contents
+
+1 Location
+2 Profile
+
+2.1 Appearance
+
+
+3 Quests and Events
+
+3.1 Story Quests
+
+
+4 Idle Quotes
+5 Thoughts
+6 Dialogue
+7 Gallery
+8 Other Languages
+9 Change History
+
+
+Location[]
+Najia's locationAdditional context
+Profile[]
+(To be added.)
+
+Appearance[]
+(To be added.)
+
+Quests and Events[]
+Story QuestsLotos Somno Chapter (Nilou)Act I: To the WiseThe Warm Rhythm of the StreetsShow Canceled
+Idle Quotes[]
+
+ Where else...
+Media:VO Najia 01.ogg "Hmm, let's see. *hiccup* Where else have I not inspected yet."
+
+Thoughts[]
+Najia's thoughts can be accessed by using Nahida's Elemental Skill, All Schemes to Know.
+
+
+Media:VO Najia All Schemes to Know 01.ogg Najia: (Safety first... safety first...)
+
+Dialogue[]
+
+Najia: Hello. It isn't showtime right now, and it's messy around here. Please mind your head and feet.
+ And you are...
+(Available before completing To the Wise)
+Najia: I'm a prop engineer for Zubayr Theater. Other than designing and making props, I also maintain the venue.
+ What are you doing?
+(Available after completing To the Wise)
+Najia: *sigh* I was halfway through working on my props when I realized that the stage needs maintenance again, and that we need to finish those safety checks before the next performance lest we put our actors at risk.
+ How's work?
+Najia: Mr. Zubayr is very strict about every aspect of a performance, so I always worry that I'm not good enough...
+Najia: Are the props attractive enough? Is every detail the best it can be? Do the mechanisms operate smoothly? I think hard about these things daily.
+Najia: Sometimes, it's enough for me to get the urge to join Kshahrewar. Some Kshahrewar regulars are on good terms with me as well...
+Najia: But then I'd give that up. It's not as if I was building a real palace or anything.
+ Rest assured.
+Najia: If only I could be as open-minded as you are.
+Najia: Maybe it all comes down to the fact that I'm so attached to this theater, and that I have certain demands on myself.
+Najia: Anyway, thank you for comforting me. Here are some leftover rocks from what we made props with. They are quality rocks. Please take them.
+(Obtain  Crystal Chunk ×4)
+ Thanks for the notice!
+Najia: You're welcome.
+
+Gallery[]
+Character Teaser - "Nilou- Dancing Grace" - Genshin Impact
+Other Languages[]
+
+LanguageOfficial NameEnglishNajiaChinese(Simplified)内嘉NèijiāChinese(Traditional)內嘉NèijiāJapaneseネガールNegaaruKorean네가르NegareuSpanishNayiaFrenchNajiaRussianНаджияNadzhiyaThaiNegarVietnameseNajiaGermanNajiaIndonesianNajiaPortugueseNegarTurkishNajiaItalianNajia
+Change History[]
+Released in Version 3.0[Create New History]
+
+
+

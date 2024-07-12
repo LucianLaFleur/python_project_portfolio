@@ -1,0 +1,164 @@
+
+
+
+
+
+Yavanani
+Researcher
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Sumeru
+
+
+Location
+Sumeru
+
+
+Affil­i­a­tion
+Haravatat
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Yavanani is an open-world NPC located in Sumeru City, Sumeru. She can be  found arguing with Khaldun in front of the House of Daena during the day, and continuing the argument inside Lambad's Tavern at night.
+
+Contents
+
+1 Location
+2 Profile
+
+2.1 Appearance
+
+
+3 Quests and Events
+
+3.1 World Quests
+
+3.1.1 Requests
+
+
+
+
+4 Idle Quotes
+5 Thoughts
+6 Dialogue
+
+6.1 Daytime
+6.2 Nighttime
+
+
+7 Event Dialogue
+
+7.1 A Parade of Providence
+
+
+8 Gallery
+9 Other Languages
+10 Change History
+
+
+Location[]
+Yavanani's location (Daytime)Additional context (Daytime)Yavanani's location (Nighttime)Additional context (Nighttime)
+Profile[]
+(To be added.)
+
+Appearance[]
+(To be added.)
+
+Quests and Events[]
+World QuestsRequestsYavanani's Apples
+Idle Quotes[]
+
+ Cart before the horse...
+Media:VO Yavanani 01.ogg "Your theory is just putting the cart before the horse."
+
+During A Parade of Providence
+
+ Clear-cut!
+Media:VO Yavanani A Parade of Providence 01.ogg "*pfft* Scores are the only clear measure of performance."
+
+Thoughts[]
+Yavanani's thoughts can be accessed by using Nahida's Elemental Skill, All Schemes to Know.
+
+Media:VO Yavanani All Schemes to Know 01.ogg Yavanani: (Hmph, foolish Vahumana!)
+Dialogue[]
+Daytime[]
+
+Khaldun: Studying ancient history through linguistics and semiotics is tunnel-visioning. It's impossible to draw any meaningful conclusions from it.
+Khaldun: This is where you Haravatat would make mistakes. See Faruzan.
+Yavanani: You Vahumana are no better.
+Yavanani: Your sociological approach to history would be putting the cart before the horse.
+Yavanani: It is meaningless to try to find some universal rules and norms that can explain all events throughout history.
+Yavanani: As for Faruzan, her points are out of date. Can't even be used as a reference.
+Khaldun: Hmph, I beg to differ.
+
+Nighttime[]
+
+Khaldun: Vikram is the obvious candidate for the next Grand Conservator. He's good at communicating, and will surely be able to strike a balance between the various schools of thought.
+Khaldun: His research paper may not be top tier, but he's still young after all, and has great potential.
+Yavanani: It is, without a doubt, putting the cart before the horse to rank interpersonal skills more highly than academic skills.
+Yavanani: I reckon that the most important quality required to manage the House of Daena is to be able to discern the academic value of books and adhere to the virtues of the Akademiya.
+Yavanani: So Rifaet of Haravatat is the better choice.
+Khaldun:  A single-minded focus on scholarly competence is like studying ancient history through linguistics and semiology. It's like bashing your head against a brick wall.
+Yavanani: Again? Were the arguments during the day not enough...?
+
+Event Dialogue[]
+A Parade of Providence[]
+
+(Daytime & Nighttime)
+Yavanani: ...Should you deny that the Championship rates Darshans based on their scores, please recall that we all entered our respective Darshans via our test scores.
+Yavanani: To overlook the scores is to overlook the very basis for all assessments made by the Darshans.
+Khaldun: In turn, you should remember before you overemphasize the scores, that they are only representative of how each contestant performs for specific tasks exclusive to the competition.
+Khaldun: Moreover, we also need to consider other probabilistic factors such as weather, geography, morale and so on.
+Yavanani: Oh? And we didn't need to consider this when we were testing into our Darshans?
+Khaldun: A sophistic comparison! My test scores can represent my capabilities, but it does not showcase the totality of what a Darshan represents.
+Khaldun: A foolish opinion as usual. No offense intended.
+Yavanani: Disagree though you may, scores determine the rankings and results speak for everything.
+
+Gallery[]
+Request icon
+Other Languages[]
+
+LanguageOfficial NameEnglishYavananiChinese(Simplified)雅瓦娜尼YǎwǎnàníChinese(Traditional)雅瓦娜尼YǎwǎnàníJapaneseヤヴァナニYavananiKorean야바나니YabananiSpanishYavananiFrenchYavananiRussianЯвананиYavananiThaiYavananiVietnameseYavananiGermanYavananiIndonesianYavananiPortugueseYavananiTurkishYavananiItalianYavanani
+Change History[]
+Released in Version 3.0[Edit History]Version 3.1
+Corrected the crest on her headpiece from Kshahrewar's symbol and colors to Haravatat's.
+
+Version 3.0
+
+Yavanani was released.
+
+
+

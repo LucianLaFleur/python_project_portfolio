@@ -1,0 +1,170 @@
+
+
+
+
+
+Euphrasie
+Chief Editor of The Steambird
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+								Voice Actors
+							
+
+
+
+
+
+Region
+Fontaine
+
+
+Location
+Fontaine
+
+
+Affil­i­a­tion
+The Steambird
+
+
+
+
+English
+Kelsey Poppen[1]
+
+
+Japanese
+Honami (ほなみ)[2]
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Euphrasie is an open-world NPC located in Court of Fontaine, Fontaine.
+She gives the World Quest Steambird Interview, which unlocks Fontaine's Reputation menu. She can be found under the  icon on the map.
+
+Contents
+
+1 Location
+2 Profile
+
+2.1 Appearance
+
+
+3 Quests and Events
+
+3.1 Story Quests
+
+3.1.1 Hangout Events
+
+
+3.2 World Quests
+
+
+4 Character Mentions
+
+4.1 Character Stories
+4.2 Character Voice-Overs
+
+
+5 Idle Quotes
+6 Dialogue
+7 Other Languages
+8 Change History
+9 References
+
+
+Location[]
+Euphrasie's locationAdditional context
+Profile[]
+Euphrasie is the Chief Editor of The Steambird. She shoulders a great many responsibilities in addition to her work at the agency — she posts commissions for local residents' everyday troubles, assists the Palais Mermonia in putting up posters for criminals and dangerous monsters wanted by the Maison Gardiennage, and taps into the newspaper's powerful sources to find and contact people best suited for the missions... If you can solve problems for local citizens, maintain the order of the wilds of Fontaine, and build up your reputation steadily, you may earn rewards from different clients via Euphrasie...—Map description: Chief Editor of The Steambird
+(To be added.)
+
+Appearance[]
+(To be added.)
+
+Quests and Events[]
+Story QuestsHangout EventsLynetteAct I: Checks & CatsDetectivesWorld QuestsQuestioning Melusine and Answering MachineAct I: Vagrants and ScampsAct III: Questions and AnswersLeroy: Dying FlashSteambird Interview
+Character Mentions[]
+Character StoriesCharacterStoriesCharlotteCharacter DetailsCharacter Story 3Character Story 5VisionCharacter Voice-OversCharacterVoice-OversCharlotteAbout Us: Headliners Media:VO_Charlotte About Us - Headliners.ogg Media:VO ZH_Charlotte About Us - Headliners.ogg Media:VO JA_Charlotte About Us - Headliners.ogg Media:VO KO_Charlotte About Us - Headliners.ogg Good news — I've convinced Euphrasie to make you the next headliners of The Steambird! You'll be right up there on the front cover, there'll be a whole feature about you that I wrote myself, and— Huh? What do you mean, "no need"? C'mon, I've been pushing Euphrasie for ages on this! Can't you reconsider? I'll make it up to you, I promise! I'll treat you to a huge meal, pleeease?About Navia Media:VO_Charlotte About Navia.ogg Media:VO ZH_Charlotte About Navia.ogg Media:VO JA_Charlotte About Navia.ogg Media:VO KO_Charlotte About Navia.ogg Now that her father's name's been cleared, and the case of the serial disappearances of young women is resolved, I guess Navia must be able to finally breathe a little easier. I don't know why, but somehow, she's found herself at the epicenter of all sorts of bad news lately... Luckily for her, I've been snatching up all the articles that mention her and doing whatever damage control I can before they get published. Heh, and uh... then getting told off constantly by Euphrasie for interfering... But y'know, I think Navia deserves a break, so I'm happy to take one for the team. Also, she agreed to do an in-depth exclusive interview, which definitely sweetens the deal!More About Charlotte: V Media:VO_Charlotte More About Charlotte - 05.ogg Media:VO ZH_Charlotte More About Charlotte - 05.ogg Media:VO JA_Charlotte More About Charlotte - 05.ogg Media:VO KO_Charlotte More About Charlotte - 05.ogg I don't really care whether these hidden truths are significant, what they mean, or what the wider ramifications are... I just want to bring them into the light of day. To put it in adventurer terms, I guess for me... it's all about the thrill of the chase, and not the treasure at the end. I've also met a lot of people along the way: all my Fontaine friends, Euphrasie, who believes I was born to be a journalist, and people like you, who join me in the search for the truth. Without everyone's help, I'd probably still be that nosy kid who runs around furiously snapping photos like a lunatic... Anywho... It's not often that I get to be the interviewee, but... this has been a real pleasure.
+Idle Quotes[]
+
+ Newspaper... lighthouse...
+Media:VO Euphrasie 01.ogg "A good newspaper should be a lighthouse of truth!"
+
+Dialogue[]
+
+(Reputation Level 1–2)
+Euphrasie: Huh? Were you talking to me? Sorry, I didn't see you there. Are you here to accept the commission regarding "Tales of Humanity"?
+(Reputation Level 3–6)
+Euphrasie: What nice weather today - doesn't it just put you in the mood to help some people in need?
+(Reputation Level 7–10)
+Euphrasie: Well met, dear. Your fine deeds are well-known amongst our readers — indeed, we've received a good number of thank-you letters.
+Euphrasie: Are you here to take up a commission again? Hehe, what a noble soul you are.
+ How's my reputation at the Court of Fontaine?
+(Reputation Level 1–2)
+Euphrasie: If you can help solve our readers' troubles, I'm sure they'd be willing to compensate you for your efforts.
+(Reputation Level 3–6)
+Euphrasie: "A kind soul who always knows what to do..." Everyone's got a rather positive opinion of you, I must say.
+(Reputation Level 7–10)
+Euphrasie: I and all our readers are thankful for your contributions. If you should need any help in the future, just let me know — we, too, hope that we'll be able to do something for you.
+(Opens Fontaine Reputation menu)
+ Tell me about "Tales of Humanity"...
+Euphrasie: One of the primary reasons we had for establishing our newspaper was to ensure that information flows and that everyone can understand what's happening around them.
+Euphrasie: Slowly, we moved to not only attempting to let readers "know," but to also let them "express" themselves.
+Euphrasie: Thus, "Tales of Humanity" was born. Everyone can write in to this column, and similarly, everyone can read it.
+Euphrasie: As for the result... Well, you've seen it, haven't you? Our prints are practically drowning in all manner of content.
+Euphrasie: But that's not a bad thing. In my experience, listeners also need some light reading to go with their explosive news.
+Euphrasie: Additionally, being able to help our readers does our reputation good.
+Euphrasie: In other words, we'll be troubling you somewhat further. Fret not — you will find our payment quite suitable.
+ Could you tell me about Charlotte?
+Euphrasie: Sure! She's one of our journalists... Is she in trouble again?
+ Not really.
+Euphrasie: Well, that's good. She is a live correspondent, and they tend to put themselves in the line of fire — I almost thought that someone had come to make a threat again.
+Euphrasie: Ah, don't worry, we have our ways of dealing with such matters.
+Euphrasie: After all, we'd have gone bust a long time ago if we couldn't handle ourselves in a little tussle or two.
+ See you.
+Euphrasie: See you. Have a lovely day.
+
+Other Languages[]
+
+LanguageOfficial NameEnglishEuphrasieChinese(Simplified)欧芙ŌufúChinese(Traditional)歐芙ŌufúJapaneseユーフラシアYuufurashiaKorean외프라지OepeurajiSpanishEuphrasieFrenchEuphrasieRussianЕвфрасияYevfrasiyaThaiEuphrasieVietnameseEuphrasieGermanEuphrasieIndonesianEuphrasiePortugueseEuphrasieTurkishEuphrasieItalianEuphrasie
+Change History[]
+Released in Version 4.0[Create New History]
+References[]
+
+↑ Twitter: EN VA Self Announcement (Archived)
+
+↑ Twitter: JP VA Self Announcement (Archived)
+
+
+
+
+

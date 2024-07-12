@@ -1,0 +1,123 @@
+
+
+
+
+
+Halva
+Tax Officer
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Sumeru
+
+
+Location
+Sumeru
+
+
+Affil­i­a­tion
+Sumeru Akademiya
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Halva is an open-world NPC located in Sumeru City, Sumeru. During the daytime, she is at the docks being reprimanded by Shahbandar and at nighttime, she is in Menakeri's Treasure Shop.
+
+Contents
+
+1 Location
+2 Idle Quotes
+3 Thoughts
+4 Dialogue
+
+4.1 Daytime
+4.2 Nighttime
+
+
+5 Other Languages
+6 Change History
+
+
+Location[]
+Halva's location (Daytime)Additional context (Daytime)Halva's location (Nighttime)Additional context (Nighttime)
+Idle Quotes[]
+
+(Daytime)
+ I don't think we should...
+Media:VO Halva 01.ogg "I just don't think we should squeeze the merchants too hard."
+(Nighttime)
+ Brightens my day...
+Media:VO Halva 02.ogg "Ah, the sight of shiny jewels always brightens my day."
+
+Thoughts[]
+Halva's thoughts can be accessed by using Nahida's Elemental Skill, All Schemes to Know.
+
+
+(Daytime)
+Media:VO Halva All Schemes to Know 01.ogg Halva: (I can't stand the way my boss works... Is this really how things are normally done?)
+(Nighttime)
+Media:VO Halva All Schemes to Know 02.ogg Halva: (Sparkling jewels... They always make me so happy.)
+
+Dialogue[]
+Daytime[]
+
+Shahbandar: Halva, did you lower tax rates for the merchants again?
+Shahbandar: I told you, don't be afraid to disagree with them. You have to be patient with them, and use the old carrot-and-stick approach...
+Halva: Uh, with all due respect, I don't think that's the problem...
+Halva: The majority of the taxes and fees we collect end up as funding for the researchers, but the Akademiya is hardly strapped for cash.
+Halva: But putting undue pressure on the merchants isn't conductive to the normal flow of business. So, it doesn't hurt to be more lenient with them...
+Shahbandar: Don't be naïve! I'll remind you that your job is to collect taxes and fees, not to promote business.
+Shahbandar: There are other ways of regulating such business matters. It's nothing we of the Navbed need to concern ourselves with.
+Shahbandar: You're still an intern, so all you need to do is the job you've been tasked with. Understood?
+Halva: Y—Yes...
+
+Nighttime[]
+
+Halva: Heh, I wonder what new stock the shop's got in today...!
+ Picking out some jewels?
+Halva: Ah, no. I'm just admiring them is all.
+Halva: I may not be able to afford anything like this as a trainee tax officer, but just being able to look at such shiny and beautiful things brings me joy.
+Halva: *sigh* It's hard not to doubt yourself when your superior is always scolding you for being childish...
+Halva: So, when I'm not working, I look at the things I like to blow off steam.
+ See you.
+Halva: Later, I'm gonna look around some more.
+
+Other Languages[]
+
+LanguageOfficial NameEnglishHalvaChinese(Simplified)哈尔瓦Hā'ěrwǎChinese(Traditional)哈爾瓦Hā'ěrwǎJapaneseハルヴァHaruvaKorean할와HalwaSpanishHalvaFrenchHalvaRussianХалваKhalvaThaiHalvaVietnameseHalvaGermanHalvaIndonesianHalvaPortugueseHalvaTurkishHalvaItalianHalva
+Change History[]
+Released in Version 3.0[Create New History]
+
+
+

@@ -1,0 +1,115 @@
+
+
+
+
+
+Boileau
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Fontaine
+
+
+Location
+Fontaine
+
+
+Dialogue Reward
+ 3
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Boileau is an open-world NPC located in Fountain of Lucine, Erinnyes, Fontaine.
+Following a certain dialogue branch for the first time gives the player three  Teachings of Justice.
+
+Contents
+
+1 Location
+2 Quests and Events
+
+2.1 Story Quests
+
+
+3 Idle Quotes
+4 Dialogue
+5 Trivia
+
+5.1 Etymology
+
+
+6 Other Languages
+7 Change History
+8 References
+
+
+Location[]
+Boileau's locationAdditional context
+Quests and Events[]
+Story QuestsDiluvies Chapter (Neuvillette)Act I: The Remains of the Past DayEver-Surging Memories
+Idle Quotes[]
+
+ Happy ending...
+Media:VO Boileau 01.ogg "Seems like the stories here never have a happy ending."
+
+Dialogue[]
+
+Boileau: If we counted all the cases that occurred as "theater" as well... Most of the stories here don't have happy endings.
+ A "case" did occur, after all.
+Boileau: Precisely. And where there's a case, there will be victims. It really is very sad.
+Boileau: Even if the culprit was sent to serve time, I'm not sure the tale could be said to have a "happy ending."
+Boileau: I've spent a lot of time at the theater on account of my love for tragic stories, and I've always found myself quite accepting of trials or performances that have tragic endings.
+Boileau: Over time, it's become less and less clear to me — am I sad on account of real compatriots of mine? Or on account of the story?
+Boileau: *sigh* This should not be.
+ Do not treat cases like child's play.
+Boileau: Yes, you are right.
+Boileau: They say Fontaine is the Nation of Justice. But I don't think such a reputation can be based solely on our Archon.
+Boileau: Fontainians must have their own sense of justice in their hearts.
+(Obtain  Teachings of Justice ×3)
+ See you.
+Boileau: Tragedy can be beautiful too.
+
+Trivia[]
+Etymology[]
+Boileau's name may be a reference to the French poet Nicolas Boileau.
+Other Languages[]
+
+LanguageOfficial NameEnglishBoileauChinese(Simplified)布瓦洛BùwǎluòChinese(Traditional)布瓦洛BùwǎluòJapaneseボワローBowarooKorean부알로BualloSpanishBoileauFrenchBoileauRussianБуалоBualoThaiBoileauVietnameseBoileauGermanBoileauIndonesianBoileauPortugueseBoileauTurkishBoileauItalianBoileau
+Change History[]
+Released in Version 4.0[Create New History]
+References[]
+
+
+
+

@@ -1,0 +1,209 @@
+
+
+
+
+
+Timaeus
+Scholar of Alchemy
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+								Voice Actors
+							
+
+
+
+
+
+Region
+Mondstadt
+
+
+Location
+Mondstadt
+
+
+Dialogue Reward
+ 1
+
+
+Genius Invokation TCG
+Stages
+
+
+
+
+English
+Brook Chalmers[1]
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Timaeus is an open-world NPC in the City of Mondstadt. He can be seen standing next to the Crafting Bench at the fountain plaza, indicated by the  icon on the map.
+Following a certain dialogue branch for the first time gives the player a 2★ Scholar's Clock.
+
+Contents
+
+1 Location
+2 Profile
+
+2.1 Appearance
+
+
+3 Quests and Events
+
+3.1 Story Quests
+3.2 World Quests
+3.3 Commissions
+3.4 Events
+
+
+4 Idle Quotes
+5 Dialogue
+6 Character Mentions
+
+6.1 Character Stories
+
+
+7 Trivia
+
+7.1 Etymology
+
+
+8 Gallery
+
+8.1 Cameos
+8.2 Genius Invokation TCG
+
+
+9 Other Languages
+10 Change History
+11 References
+
+
+Location[]
+Timaeus's locationAdditional context
+Profile[]
+Timaeus is a scholar of alchemy. While Albedo has a somewhat low opinion on his skills, he nonetheless continues to help him advance in the art. Timaeus is well aware that his skill pales in comparison to him and Sucrose, but nonetheless dedicates himself to spreading the knowledge of alchemy in Mondstadt.
+Timaeus eventually came upon what was called a "Smoldersleet Elixir" and asked the Traveler and Paimon to help him find the formula for it. They were taken to Liyue, where Timaeus met Ying'er, who was responsible for its creation. However, he was dismayed to find that it was only used for cosmetic purposes, although Ying'er helped him out in the creation process and made the "Smoldersleet Potion." He then tasked the Traveler with testing it on his behalf as he continued to talk with Ying'er. Timaeus later published a paper on the Smoldersleet Potion titled "Combat Environment Changes Made by the Spread of Aerolized Liquid Potions."[2]
+
+Appearance[]
+Timaeus has light brown eyes, and tousled reddish-brown hair swept to one side. He is wearing a leather vest and leather boots.
+
+Quests and Events[]
+Story QuestsPrinceps Cretaceus Chapter (Albedo)Act I: Traveler Observation ReportThe First Experiment: ElementsThe Second Experiment: The WorldThe Final Experiment: Withering GloryWorld QuestsBattlefield of Dice, Cats, and CardsCome Try Genius Invokation TCG!Wisdom of Ancient CivilizationsCommissionsTimaeus' Alchemy TutorialEventsElemental CrucibleOne Giant Step for Alchemy?Invitation of WindblumePart III: Realm of Fog and WindPart IV: Dream of Wind and FlowersShadows Amidst SnowstormsAct I: The Snowy PastAct III: A Secret Born From AshesA Study in PotionsElixirs and PotionsAcademic ExchangeWindblume's BreathWindblume FestivalPart II: A Riddle Amidst the CrowdsPart III: Joy Above the Clouds
+Idle Quotes[]
+
+ How marvelous...
+Media:VO Timaeus 01.ogg "Oh, ancient alchemy truly is fascinating!"
+
+Dialogue[]
+
+Timaeus: Hi there, are you also interested in alchemy?
+ I'd like to use the Crafting Bench.
+Timaeus: Sure, please go ahead.
+ Adventure Challenge
+(Opens Genius Invokation TCG match interface)
+(If the player loses the match)
+
+Timaeus: A victory, just as I expected.
+(If the player wins the match)
+
+Timaeus: Oh no. Where did I go wrong?
+ Who are you?
+Timaeus: I am Timaeus, an alchemy scholar. You may not have heard that name before...
+Timaeus: But I'll bet you'll have heard the names Albedo and Sucrose before.
+Timaeus: Albedo is nothing short of a genius in the field of alchemy. And his assistant, Sucrose, is extremely talented for her age.
+Timaeus: I'm a total amateur compared to them.
+ About Albedo...
+Timaeus: Albedo is an alchemy prodigy. A lot of people call him the Kreideprinz. He's the top alchemical talent in Mondstadt.
+Timaeus: They say he's an outlander who just showed up in Mondstadt one day and was instantly taken on as Chief Alchemist by the Knights of Favonius. He's also Captain of the Investigation Team.
+Timaeus: His alchemical theory is refreshingly unbridled in comparison to conventional theories. In practice it all works out too.
+Timaeus: In my eyes my work must seem like child's play... *sigh*
+ About Sucrose...
+Timaeus: Sucrose is Albedo's only assistant. She's so lucky to have gained Albedo's appreciation.
+Timaeus: As a born and bred child of Mondstadt, we should be proud of Sucrose's contributions to alchemy.
+Timaeus: But her research and interests are a little... antiquated, to the point that they rarely render any practical application.
+Timaeus: *sigh* If I had access to such a plethora of resources, who knows what I could accomplish.
+ Alchemy?
+Timaeus: Alchemy is a craft that has been passed down since ancient times, but it is barely understood in the present.
+Timaeus: Its mechanisms are magical and mysterious, completely unlike the principles that shape our understanding of the physical world.
+Timaeus: If I can get the hang of it, I should be able to create some pretty awesome stuff, and contribute to our knowledge of ancient civilization.
+ Sounds complicated.
+Timaeus: Its not that bad, the procedure is actually very simple. If you're interested, I can show you the basics?
+Timaeus: Much as one who uses a wind glider needs not understand how it was built in order to glide.
+Timaeus: The process is mesmerizing to witness. I'm confident you'll be singling the praise of ancient civilizations and their ingenuity after you've tried it for yourself.
+ How's your research coming along?
+Timaeus: Not too bad, although I haven't had the best of luck recently... My clock is a few minutes too slow, and thanks to that, a whole load of experiments have failed dismally...
+Timaeus: It's not much use for keeping time anymore, that's for sure...
+Timaeus: But after being sued in so many alchemical experiments, it seems to have gained some understanding of the basic makeup and functional principles of the world... Maybe it's undergone some sort of miraculous transformation.
+Timaeus: Why don't you take it? Maybe it'll come in handy in your adventures.
+(Obtain 2★  Scholar's Clock)
+ Goodbye.
+Timaeus: Bye then, I'll carry on with my research.
+
+Character Mentions[]
+Character StoriesCharacterStoriesAlbedoCharacter Story 1
+Trivia[]
+In the Archive description for Cryo Specters, Timaeus is the "certain alchemist" who studied them and came to the conclusion that they were related to either Slimes or the Traveler, only to be reprimanded by his teacher, Albedo. This is a reference to the quest The First Experiment: Elements, where Timaeus hypothesized that the Traveler was a type of Slime, only for the notion to be quickly rejected by Albedo.
+Etymology[]
+Timaeus' name likely derives from Timaeus of Locri, a character in Plato's dialogues who, in his dialogue, speculates on the nature of the physical world and human beings.
+Albedo pronounces Timaeus as "Timayus" while Timaeus of Locri is pronounced "Tyemeeus."
+Gallery[]
+Genshin Impact Preview Manga - Chap 1, Page 1Version 3.5 Wallpaper
+Cameos[]
+Collected Miscellany - "Mona- Stellaris Phantasm" - Genshin ImpactVersion 1.4 "Invitation of Windblume" Trailer - Genshin Impact"Floral Breeze" - Scenes from Windblume Festival - Genshin ImpactCollected Miscellany - "Eula- Surging Frost" - Genshin Impact
+Genius Invokation TCG[]
+Timaeus
+Other Languages[]
+
+LanguageOfficial NameEnglishTimaeusChinese(Simplified)蒂玛乌斯DìmǎwūsīChinese(Traditional)蒂瑪烏斯DìmǎwūsīJapaneseティマイオスTimaiosuKorean데마로우스DemarouseuSpanishTimaeusFrenchTimaeusRussianТимейTimeyThaiTimaeusVietnameseTimaeusGermanTimaeusIndonesianTimaeusPortugueseTimaeusTurkishTimaeusItalianTimaeus
+Change History[]
+Released in Version 1.0[Edit History]Version 3.3
+Added a Genius Invokation TCG Adventure Challenge for Timaeus.
+
+Version 2.2
+
+Players can access the Crafting Bench by talking to Timaeus.
+
+Version 1.0
+
+Timaeus was released.
+References[]
+
+↑ Twitter: EN VA Self Announcement
+
+↑ Event Tablet Analytics World Quest, Part 1: The Cliffside Weirdo and a Risky Study?
+
+
+
+
+

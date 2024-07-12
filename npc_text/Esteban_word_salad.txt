@@ -1,0 +1,105 @@
+
+
+
+
+
+Esteban
+Stenographer
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Fontaine
+
+
+Location
+Fontaine
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Esteban is an open-world NPC located in the Court of Fontaine, Fontaine.
+
+Contents
+
+1 Location
+2 Idle Quotes
+3 Dialogue
+4 Other Languages
+5 Change History
+6 References
+
+
+Location[]
+Esteban's locationAdditional context
+Idle Quotes[]
+
+ Mora or time...
+Media:VO Esteban 01.ogg "Which is more valuable: unlimited Mora or unlimited time?"
+
+Dialogue[]
+
+Esteban: Hmm... This will be tricky...
+ Hello there. You're...
+Esteban: Hmm? Oh, sorry, I was thinking about a certain problem earlier...
+Esteban: I'm a court stenographer. I happen to be done with work at the moment... But do you have anything else for me?
+ Tell me about the trial courts...
+(Before completing Masquerade of the Guilty)
+Esteban: You won't find the court here. Pursuit of criminal cases takes place at the Opera Epiclese on Erinnyes.
+Esteban: That is the home of the divine judge, the mechanism known as the Oratrice Mecanique d'Analyse Cardinale, the second layer of insurance behind the judges themselves.
+Esteban: Well, I'm just a stenographer, so that's what I do — record the proceedings within the opera house.
+ Tell me about the courtroom...
+(After completing Masquerade of the Guilty)
+Esteban: You won't find any courtrooms here. Criminal cases are heard in the Opera Epiclese on Erinnyes.
+Esteban: Hmm... I always feel something's missing without the Oratrice Mecanique d'Analyse Cardinale and Lady Furina. But the court is hearing cases as usual.
+Esteban: The atmosphere of the court won't affect the fairness of the proceedings.
+Esteban: Well, I'm just a stenographer, so that's what I do — record the proceedings within the opera house.
+ What's troubling you?
+Esteban: Well, judging cases is not under my purview, but having seen my fair share of trials, I can't help but think of how I should handle various dilemmas...
+Esteban: Between the process and the result, which is more important?
+Esteban: Is there a way to balance reason and jurisprudence?
+Esteban: Between infinite time and infinite Mora, which would I choose?
+Esteban: ...Oh, sorry, I'm all over the place, aren't I? Heh, not that these issues have anything to do with me, either...
+ Sorry for bothering you.
+Esteban: It's no trouble. See you.
+
+Other Languages[]
+
+LanguageOfficial NameEnglishEstebanChinese(Simplified)埃蒂安Āidì'ānChinese(Traditional)埃蒂安Āidì'ānJapaneseエティエンヌEtiennuKorean에티엔EtienSpanishEstebanFrenchEstébanRussianЭстебанEstebanThaiEstebanVietnameseEstebanGermanEstebanIndonesianEstebanPortugueseEstebanTurkishEstebanItalianEsteban
+Change History[]
+Released in Version 4.0[Create New History]
+References[]
+
+
+
+

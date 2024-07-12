@@ -1,0 +1,135 @@
+
+
+
+
+
+Anfortas
+Marshal Regent
+
+
+
+
+
+								Bio
+							
+
+
+
+								Family
+							
+
+
+
+
+
+Region
+Khaenri'ah
+
+
+Affil­i­a­tion
+Schwanenritter
+
+
+
+
+Ancestry
+Alberich Clan
+
+
+Relatives
+Chlothar AlberichCaribert (NPC)
+
+
+
+
+
+
+
+
+								Additional Titles
+							
+
+
+
+								Categories
+							
+
+
+
+
+
+Knight Marshal
+
+
+
+
+  Mentioned Characters 
+
+
+
+
+Anfortas was a historical figure from Khaenri'ah who lived during the cataclysm 500 years ago.
+At the time the cataclysm struck, Anfortas was the Knight Marshal and the leader of the Schwanenritter. He declared himself the Marshal Regent after King Irmin became "indisposed," and led an effort to take Khaenri'ahn survivors aboveground and into Sumeru.
+
+Contents
+
+1 Profile
+2 Story
+3 Trivia
+
+3.1 Etymology
+
+
+4 Other Languages
+5 Change History
+6 References
+
+
+Profile[]
+Little is known about Anfortas' background. His role as Marshal Regent suggests that he was a member of the Alberich Clan, given that Kaeya's childhood lessons on the clan's history emphasized how "it was the Alberich Clan, who did not have royal blood, who stepped in as regents when the strength of the one-eyed king Irmin failed."[1]
+Anfortas likely held a large amount of influence in Khaenri'ahn affairs even before the cataclysm, and the author of Someone's Abandoned Letter entreats Anfortas to convince Irmin of the value of preserving some Khaenri'ahn technology made before the introduction of forbidden knowledge. The Ruin Golems used by the Schwanenritter are an earlier design compared the other Ruin Machines commonly seen around Teyvat,[2] suggesting that Anfortas either shared the author's distrust of forbidden knowledge, or lost his faith in it with the advent of the cataclysm.
+
+Story[]
+By the time the cataclysm began in Khaenri'ah, Anfortas was the Knight Marshal. When Khaenri'ah faced an unprecedented crisis related to their use of forbidden knowledge and Irmin was "indisposed," Anfortas proclaimed himself temporary Regent and led the Regnum Concilium Ultimum, or Final Kingdom Council.[3] After Knight Commander Hadura led a successful operation in stalling Abyssal beasts, Anfortas is indicated to have bestowed them with the title "Sentinel of the Golden Hall."[4]
+The Schwanenritter decided to evacuate able persons from Khaenri'ah and take them to Sumeru, using the Ruin Golems to fight against Abyssal monsters. However, after reaching the surface, Khaenri'ahns started becoming afflicted with a strange disease which turned them into monsters.[5] This disease's symptoms[6] are described similarly to Eleazar's,[7] which resulted from Greater Lord Rukkhadevata's forbidden knowledge contamination; the effects were terrifying enough that a number of those who had not yet been affected decided to return underground.[5]
+The known members of the Schwanenritter were undeterred by the disease and continued fighting against the Abyss. Hildric died of multiple-organ failure while Ynghildr went missing during a battle against the dark beasts. Anfortas and Hadura were the only two Schwanenritter left when Hadura betrayed them and caused irreversible damage to a machine; when Anfortas went to execute them, he lost his left eye in the battle. Despite Hadura's betrayal, Anfortas gave them a proper Knight's funeral since they were the last of his compatriots.[8] Various Ruin Guards scattered around Dharma Forest contain fragments of a coded message which, when deciphered, reads: We Schwanenritters have fought to the last one;[9] reading all five parts to the message grants the Achievement In the Name of Anfortas.
+While fighting against the Abyss in Dharma Forest, the Schwanenritter were joined by the Sumeru Akademiya Darshan that would come to be known as the Order of Skeptics, led by the sage Nagarjuna. Nagarjuna and his followers recognized the Schwanenritter as "heroes of Dahri" and, to carry on the Schwanenritters' will to completely destroy the cataclysm, followed the path they had taken from the Girdle of the Sands, where they assisted the Pari and Dainsleif in quelling the calamity by purifying the Harvisptokhm.[10][11] Given that the Order of Skeptics were "carry[ing] the will those heroes had borne," it can be assumed that none of the Schwanenritter, including Anfortas, accompanied them. Anfortas' ultimate fate is left unknown.
+
+Trivia[]
+During the Archon Quest Destined Encounter in Chapter III: Act VI - Caribert, Dainsleif states that Kaeya is the descendant of the Abyss Order's founder, which is Chlothar. Whether Kaeya is Chlothar's lineal descendant or a collateral descendant is not specified, making it possible that Kaeya is Anfortas' lineal descendant and Chlothar's collateral descendant.
+Like King Irmin before him, Anfortas was a one-eyed regent of Khaenri'ah.
+Etymology[]
+In Eschenbach's Parzifal, "Anfortas" is the name of the Fisher King, an immortal king in Arthurian legend tasked with guarding the Holy Grail.
+Other Languages[]
+
+LanguageOfficial NameEnglishAnfortasChinese(Simplified)安弗塔斯ĀnfútǎsīChinese(Traditional)安弗塔斯ĀnfútǎsīJapaneseアンフォルタスAnforutasuKorean안포르타스AnporeutaseuSpanishAnfortasFrenchAnfortasRussianАнфортасAnfortasThaiAnfortasVietnameseAnfortasGermanAnfortasIndonesianAnfortasPortugueseAnfortasTurkishAnfortasItalianAnfortas
+Change History[]
+Introduced in Version 3.0[Create New History]
+References[]
+
+↑ Event Hidden Strife Optional Letter: The Brick
+
+↑ World Quest, Vimana Agama, Part 1: Vimana Agama: First ChapterJazari: It [the Ruin Golem's Amiti Device] should be marked with unique Khaenri'ah-style patterns, that can be recognized to be chronologically different from the common types seen on Ruin Guards, thus marking this as some sort of earlier version of the device...
+
+↑ Interactable: Barely-Legible Bulletin
+
+↑ World Quest: Afratu's Dilemma (optional interactable Old Orders)Old Orders: ...Knight Commander Hadura, who has successfully led the operation to stall the beasts, is hereby conferred the title of "Sentinel of the Golden Hall"...
+
+↑ 5.0 5.1 Interactable: Ancient Journal
+
+↑ Interactable, Ruin Golem at Valley of Dahri: Someone's Diary
+
+↑ Sumeru Hidden Exploration Objective, Unordered: Eleazar Hospital Notes
+
+↑ Interactable: Mysterious Chronicles
+
+↑ Sumeru Hidden Exploration Objective, Unordered: Cryptic Message in Sumeru
+
+↑ World Quest, Khvarena of Good and Evil, Part 4: The Hymn of Tir Yazad
+
+↑ Achievement Description: In the Name of AnfortasVisit the place where the heroes met their end
+
+
+
+
+

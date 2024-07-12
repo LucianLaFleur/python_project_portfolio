@@ -1,0 +1,5 @@
+
+Chinese and Japanese both have quality voice acting, but cannot easily be mimiced with AI examples.
+I suggest possibly making another scraper to find Hanzi/Kanji usage relating to voice overs, specifically
+as an example url: https://genshin-impact.fandom.com/wiki/Ganyu/Voice-Overs/Chinese
+The above notion is irrelevant to German, which has no voice acting. Different resources must be investigated for audio samples from discovered/variant sentences

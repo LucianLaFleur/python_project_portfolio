@@ -1,0 +1,210 @@
+
+
+
+
+
+Bu'yun
+Guide, Jade Chamber
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+								Voice Actors
+							
+
+
+
+
+
+Region
+Liyue
+
+
+Location
+Liyue
+
+
+Affil­i­a­tion
+Jade Chamber
+
+
+Genius Invokation TCG
+Stages
+
+
+
+
+English
+Phillip Reich[1]
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Bu'yun  (Chinese: 步云 Bùyún) is an open-world NPC in Liyue Harbor, Liyue.
+Speaking to him after completing Archon Quest Where the Heart Finds Rest in Interlude Chapter: Act I - The Crane Returns on the Wind will teleport the player to the Jade Chamber.
+
+Contents
+
+1 Location
+2 Profile
+
+2.1 Appearance
+
+
+3 Quests and Events
+
+3.1 Archon Quests
+
+
+4 Idle Quotes
+5 Dialogue
+
+5.1 Dialogue Set #1
+5.2 Dialogue Set #2
+5.3 Dialogue Set #3
+
+
+6 Other Languages
+7 Change History
+8 References
+
+
+Location[]
+Bu'yun's locationAdditional context
+Profile[]
+(To be added.)
+
+Appearance[]
+(To be added.)
+
+Quests and Events[]
+Archon QuestsChapter IAct III: A New Star ApproachesEquilibrium
+Idle Quotes[]
+(Before completing A New Star Approaches and after completing Where the Heart Finds Rest)
+
+
+ Though clouds may darken...
+Media:VO Bu'yun 01.ogg "Though the clouds may darken and light turn to gloom, still the moon over the Chamber roams."
+
+(After completing A New Star Approaches and before completing Where the Heart Finds Rest)
+
+
+ The moon drinks alone...
+Media:VO Bu'yun 02.ogg "The moon drinks alone in Guyun's skies...while the great mansion sinks, beneath its tides."
+
+Dialogue[]
+Dialogue Set #1[]
+Available before completing A New Star Approaches.
+
+
+Bu'yun: Though clouds may darken and light turn to gloam, still the moon over the Chamber roams...
+Bu'yun: May I help you?
+ Adventure Challenge
+(Opens Genius Invokation TCG match interface)
+(If the player loses the match)
+
+Bu'yun: Don't underestimate the guide...
+(If the player wins the match)
+
+Bu'yun: Impressive. It was easy for you to break it.
+ Duel
+(Opens Genius Invokation TCG match interface)
+(If the player loses the match)
+
+Bu'yun: Looks like I got the edge on this one.
+(If the player wins the match)
+
+Bu'yun: I didn't expect you to be so good at cards. What a disgrace.
+ Could you take us up to the Jade Chamber?
+Bu'yun: You perceive the mansion, but not the moon, and it is not in my power to bring them to you. Please await another opportunity.
+ It's nothing.
+Bu'yun: Go well, then.
+
+Dialogue Set #2[]
+Available after completing A New Star Approaches.
+
+
+Bu'yun: The moon drinks alone in Guyun's skies, while the great mansion sinks beneath its tides...
+Bu'yun: ...I wonder, what business brings you here today, honored guest?
+ Adventure Challenge
+(Same as before)
+ Duel
+(Same as before)
+ How are the people at the Jade Chamber doing?
+Bu'yun: It's all thanks to the help of the adepti and Lady Ningguang's brilliant planning...
+Bu'yun: The secretaries, maids and guards of the Jade Chamber are all safe and sound, and are at present well-settled in Liyue Harbor.
+Bu'yun: If you wish to meet Lady Ningguang...
+Bu'yun: I'm afraid that she is occupied by administrative tedium, and cannot meet you presently.
+ What about the Jade Chamber?
+Bu'yun: Sadly, the Jade Chamber, which once blotted out the sun and moon, has now been swallowed up by the waves of the Sea of Clouds.
+Bu'yun: They say that seasons come and seasons go, and that all things must rise and fall. Thus it is with the ancient gods, and so it is with mortal works. There is nothing there to mourn.
+Bu'yun: So they say. But still, I cannot help but sigh when I consider the fate of the Jade Chamber...
+Bu'yun: To sacrifice the work she had carved with her own hands over so many years...
+Bu'yun: And to do so without hesitation or regrets...
+Bu'yun: Lady Ningguang's strategems are beyond my ability to grasp...
+ Goodbye.
+Bu'yun: Take care, honored guest.
+
+Dialogue Set #3[]
+Available after completing Where the Heart Finds Rest.
+
+
+Bu'yun: Though clouds may darken and light turn to gloam, still the moon over the Chamber roams...
+Bu'yun: May I help you?
+ Adventure Challenge
+(Same as before)
+ Duel
+(Same as before)
+ Excuse me, do you sell the moon here?
+Bu'yun: Ah, so it's you. It's been a while.
+Bu'yun: I remember that you were the guest who used the Yuheng's code before, and you also helped us rebuild the Jade Chamber. I remember you well.
+Bu'yun: Please, this way. Ascend to the Chamber.
+ No need.
+Bu'yun: Go well, then.
+
+Other Languages[]
+
+LanguageOfficial NameEnglishBu'yunChinese(Simplified)步云BùyúnChinese(Traditional)步雲BùyúnJapanese歩雲Ho'un‍[!][!]Assumed readingKorean보운Bo'unSpanishBuyunFrenchBuyunRussianБу ЮньBu Yun'ThaiBu'yunVietnameseBu'yunGermanBuyunIndonesianBuyunPortugueseBuyunTurkishBu'yunItalianBu'yun
+Change History[]
+Released in Version 1.0[Edit History]Version 3.3
+Added a Genius Invokation TCG Adventure Challenge for Bu'yun.
+Added a Genius Invokation TCG Duel for Bu'yun.
+
+Version 1.0
+
+Bu'yun was released.
+References[]
+
+↑ Twitter: EN VA Self Announcement (Archived)
+
+
+
+
+

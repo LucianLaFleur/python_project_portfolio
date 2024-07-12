@@ -1,0 +1,143 @@
+
+
+
+
+
+Sun Rao
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Liyue
+
+
+Location
+Liyue
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Sun Rao  (Chinese: 孙桡 Sūn Ráo) is an open-world NPC located in Yilong Wharf, Chenyu Vale: Upper Vale, Chenyu Vale, Liyue. He operates a bamboo raft that the player can ride to the docks south of Qiaoying Village.
+
+Contents
+
+1 Location
+2 Idle Quotes
+3 Dialogue
+
+3.1 Dialogue Set #1
+3.2 Dialogue Set #2
+
+
+4 Soundtracks
+5 Trivia
+6 Other Languages
+7 Change History
+
+
+Location[]
+If Sun Rao is not at Yilong Wharf, he can be summoned by going to the nearby Notice and using the  "Wait for the bamboo raft to arrive" prompt.
+
+Sun Rao's locationAdditional context
+Idle Quotes[]
+
+ Need new bamboo...
+Media:VO Sun Rao 01.ogg "Need some fresh bamboo for this..."
+
+Dialogue[]
+Dialogue Set #1[]
+Available at Yilong Wharf.
+
+
+Sun Rao: Oars made from new bamboo feel better. Would you like to go to Qiaoying Village by raft?
+ Ride the bamboo raft to Qiaoying Village
+Sun Rao: Please, take your seat and we'll set out.
+ Bamboo? Oars?
+Sun Rao: Oars are made from new or old bamboo based on each ferryman's preference.
+Sun Rao: Strictly speaking, old and new bamboo from Qingce Village have the same strength so long as they're cut at the right time and processed the right way.
+Sun Rao: But every ferryman's hands are different, so they make different choices.
+Sun Rao: The ferryman who taught me to sing said that it's just like tea, where the same leaves have different flavors after being processed by different tea makers.
+Sun Rao: Some of us are accustomed to using oars made out of new bamboo, and some are accustomed to using oars made out of old bamboo. We each have our unique boating rhythm and hum melodies in unique ways...
+ Folksong?
+Sun Rao: Every boatman in Chenyu Vale will hum songs while sailing, and these songs are passed down to the young from the old.
+Sun Rao: Nobody knows who composed these songs many years ago, but they have been subtly engraved into the memories of most locals...
+Sun Rao: The line that touched me the most is...
+Sun Rao: "Sun and earth from each other divide, the eternal whirlpool that never churns, the beautiful jade concealed within..."
+ Not now, maybe next time!
+Sun Rao: No worries. There will always be a boatman waiting for you by the river here in Chenyu Vale.
+
+Dialogue Set #2[]
+Available upon arriving at the Qiaoying Village docks.
+
+
+Sun Rao: We've arrived at Qiaoying Village. May we meet again, if fate wills it so!
+
+Soundtracks[]
+The following soundtracks play while riding the bamboo raft:
+
+
+No.Soundtrack NameAlbumPlayed In25The Rime of the Ancient BargemanJadeite RedolenceSun Rao (riding bamboo raft)27Chenyu Fisherman's SongJadeite RedolenceSun Rao (riding bamboo raft)
+Trivia[]
+While ferrying the player to their destination, both Bosu and Sun Rao will sing folk songs said to be well-known throughout Chenyu Vale.
+
+
+Ferryman
+
+Folk Song 1
+
+Folk Song 2
+
+
+Bosu
+
+Media:VO Bosu Boat Folk Song 1.ogg
+
+Media:VO Bosu Boat Folk Song 2.ogg
+
+
+Sun Rao
+
+Media:VO Sun Rao Boat Folk Song 1.ogg
+
+Media:VO Sun Rao Boat Folk Song 2.ogg
+
+One of the songs is sung in Chinese in all dubs of the game. The lyrics of the song can be pieced together from the two ferrymen's dialogue:
+幽谷涟涟泉响圜，灵龛先出东北岸，幽峦岸峻藏西南；乾阳临坤自相隔，长流涡不转，美玉藏其间。 Yōugǔ liánlián quánxiǎng huán, língkān xiān chū dōngběi àn, yōuluán ànjùn cáng xīnán; qián yáng lín kūn zì xiānggé, cháng liú wō bù zhuǎn, měiyù cáng qíjiān.The spring's cries ripple through the vales, the shrines depart from northeast shores. The heights and shallows in the southwest hide, sun and earth from each other divide, the eternal whirlpool that never churns, beautiful jade concealed within.
+Other Languages[]
+
+LanguageOfficial NameEnglishSun RaoChinese(Simplified)孙桡Sūn RáoChinese(Traditional)孫橈Sūn NáoJapanese孫橈Son Jou‍[!][!]Assumed readingKorean손요손요孫橈Son YoSpanishSun RaoFrenchSun RaoRussianСунь ЖаоSun' ZhaoThaiSun RaoVietnameseSun RaoGermanSun RaoIndonesianSun RaoPortugueseSun RaoTurkishSun RaoItalianSun Rao
+Change History[]
+Released in Version 4.4[Create New History]
+
+
+

@@ -1,0 +1,154 @@
+
+
+
+
+
+Royinjan
+Jewelry Shop Owner
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+								Family
+							
+
+
+
+
+
+Region
+Sumeru
+
+
+Location
+Sumeru
+
+
+
+
+Relative
+Hasad the Golden Adventurer (grandfather)[1]
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Royinjan is an open-world NPC located in Port Ormos, Sumeru.
+
+Contents
+
+1 Location
+2 Quests and Events
+
+2.1 World Quests
+
+
+3 Idle Quotes
+4 Thoughts
+5 Dialogue
+
+5.1 Dialogue Set #1
+5.2 Dialogue Set #2
+
+
+6 Other Languages
+7 Change History
+8 References
+
+
+Location[]
+Royinjan's locationAdditional context
+Quests and Events[]
+World QuestsVimana AgamaVimana Agama: First ChapterVimana Agama: Royinjan's Chapter
+Idle Quotes[]
+
+ Antique appraisal...
+Media:VO Royinjan 01.ogg "Hmm... Got any commissions related to antique appraisal? I can handle them."
+
+Thoughts[]
+Royinjan's thoughts can be accessed by using Nahida's Elemental Skill, All Schemes to Know.
+
+
+Media:VO Royinjan All Schemes to Know 01.ogg Royinjan: (Antique appraisal doesn't actually have much to do with history, but the customers seem to buy it.)
+
+Dialogue[]
+Dialogue Set #1[]
+Available before completing Where the Boat of Consciousness Lies.
+
+
+Royinjan: Hello, would you like to commission antique appraisal?
+ Hello. You are...?
+Royinjan: I run an antique store, and I am the most reliable antique appraisal expert in Port Ormos.
+Royinjan: My grandfather was a well-renowned historian. The gift of antique appreciation runs in our family.
+Royinjan: You can definitely trust my eyes.
+Royinjan: Be it the relics of Greater Lord Rukkhadevata, or the accessories of the Goddess of Flowers, or even what King Deshret left amidst the desert, there is not a single thing that I cannot tell the authenticity of at first glance.
+ About Greater Lord Rukkhadevata...
+Royinjan: Ah... Though Greater Lord Rukkhadevata has long departed, she will always be the greatest deity of Sumeru.
+Royinjan: She defended Sumeru from calamities and troubles and left us inexhaustible knowledge and treasures after her death.
+Royinjan: So, usually, when I see an antique related to Greater Lord, I do my best to buy it and add it to my collection.
+ Not right now.
+Royinjan: Sure, sure. Let me help next time.
+
+Dialogue Set #2[]
+Available after completing Where the Boat of Consciousness Lies.
+
+
+Royinjan: Hello, would you like to commission antique appraisal?
+ You are...
+Royinjan: I run an antique store — they call me the most reliable antique appraisal expert in Port Ormos.
+Royinjan: My grandfather was a well-renowned historian, so the gift of antique appreciation runs in our family.
+Royinjan: As such, you can definitely trust my eyes.
+Royinjan: Be it accessories of the Goddess of Flowers, or relics of the Dendro Archon, or perhaps even that which King Deshret might have left amidst the desert sands, there is not one that can escape my appraising eye.
+ About the Dendro Archon...
+Royinjan: *sigh* The Dendro Archon will always be our greatest god. The Akademiya's conduct up till now has been simply disgraceful.
+Royinjan: She defended us from such calamities and left us an inexhaustible store of wisdom and treasure...
+Royinjan: So, usually, when I see an antique related to her, I will do my best to buy it and add it to my collection.
+ Not right now.
+(Same as Dialogue Set #1)
+
+Other Languages[]
+
+LanguageOfficial NameEnglishRoyinjanChinese(Simplified)罗因贾LuóyīnjiǎChinese(Traditional)羅因賈LuóyīnjiǎJapaneseロインジャRoinjaKorean로인잔RoinjanSpanishRoyinjanFrenchRoyinjanRussianРоинджанRoindzhanThaiRoyinjanVietnameseRoyinjanGermanRoyinjanIndonesianRoyinjanPortugueseRoyinjanTurkishRoyinjanItalianRoyinjan
+Change History[]
+Released in Version 3.0[Edit History]Version 3.1
+Text change:
+Old: Royinjan: [...], or even what the Scarlet King left amidst the desert, [...]
+New: Royinjan: [...], or even what King Deshret left amidst the desert, [...]
+
+Version 3.0
+
+Royinjan was released.
+References[]
+
+↑ World Quest, Vimana Agama, Part 1: Vimana Agama: First Chapter
+
+
+
+
+

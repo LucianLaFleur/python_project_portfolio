@@ -1,0 +1,135 @@
+
+
+
+
+
+Atiyah
+Eremite Mercenary
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Sumeru
+
+
+Location
+Sumeru
+
+
+Affil­i­a­tion
+The Eremites
+
+
+Dialogue Reward
+ 3
+
+
+Genius Invokation TCG
+Stages
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Atiyah is an open-world NPC located in Aaru Village, Sumeru.
+Following a certain dialogue branch for the first time gives the player three Shawarma Wraps.
+
+Contents
+
+1 Location
+2 Quests and Events
+
+2.1 World Quests
+
+
+3 Idle Quotes
+4 Thoughts
+5 Dialogue
+6 Other Languages
+7 Change History
+
+
+Location[]
+Atiyah's locationAdditional context
+Quests and Events[]
+World QuestsJoin the Eremites and Embrace a Wonderful New Life!
+Idle Quotes[]
+
+ Join the Eremites...
+Media:VO Atiyah 01.ogg "Join the Eremites and embrace a wonderful new life."
+
+Thoughts[]
+Atiyah's thoughts can be accessed by using Nahida's Elemental Skill, All Schemes to Know.
+
+
+Media:VO Atiyah All Schemes to Know 01.ogg Atiyah: (As long as I just keep talking up life outside of the village! People will keep flocking to me!)
+
+Dialogue[]
+
+Atiyah: Friend! A moment, please! You look like someone of skill. Would you be interested in joining the Eremites?
+ Adventure Challenge
+(Opens Genius Invokation TCG match interface)
+(If the player loses the match)
+
+Atiyah: Oh, wow. I think I got lucky there, so don't worry about it.
+(If the player wins the match)
+
+Atiyah: Ow, ow, ow. You're really strong, huh... Bet you'd do real well as an Eremite...
+ Does it come with benefits?
+Atiyah: Oh, lots!
+Atiyah: First, this is one of the few ways you can get out of Aaru Village.
+Atiyah: Get out of this desolate dump, and the world will be your oyster! Every young and ambitious soul longs to see the world, no?
+Atiyah: And we might all be people of the desert, sure, but you can bet that we know how to wrangle Mora off those tree-dwellers!
+Atiyah: Those from the Akademiya have the fattest wallets. They never quibble over prices or delay payments.
+Atiyah: You just need to take one of their commissions, and you'll be set!
+Atiyah: You won't find a better Mora-making venture anywhere else!
+ I'll give that some thought.
+Atiyah: ...Well, other than the stuff I mentioned earlier, our food is just the best! If you don't believe me, just try this!
+Atiyah: The way we treat our people is beyond reproach. That much I can guarantee!
+(Obtain  Shawarma Wrap ×3)
+ I've got other things to do at the moment.
+Atiyah: Oh? Are you sure there are better things to do than being a mercenary?
+Atiyah: Well, that's a right shame, but you can always come back to me if you change your mind!
+
+Other Languages[]
+
+LanguageOfficial NameEnglishAtiyahChinese(Simplified)阿提亚ĀtíyàChinese(Traditional)阿提亞ĀtíyàJapaneseアティヤAtiyaKorean아티야AtiyaSpanishAtiyahFrenchAtiyahRussianАтияAtiyaThaiAtiyahVietnameseAtiyahGermanAtiyahIndonesianAtiyahPortugueseAtiyahTurkishAtiyahItalianAtiyah
+Change History[]
+Released in Version 3.1[Edit History]Version 3.7
+Added a Genius Invokation TCG Adventure Challenge for Atiyah.
+
+Version 3.1
+
+Atiyah was released.
+
+
+

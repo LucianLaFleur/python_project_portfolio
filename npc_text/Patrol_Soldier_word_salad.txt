@@ -1,0 +1,81 @@
+
+
+
+
+
+Patrol Soldier
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Inazuma
+
+
+Location
+Inazuma
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Patrol Soldiers are NPCs located in Inazuma City encountered after completing Chapter II, Act II, Stillness, the Sublimation of Shadow.
+There are four patrol soldiers stationed in the upper levels of the city — one at the police station, one near the Teleport Waypoint at Tenshukaku, and two at the Statue of the Omnipresent God. Running into one of the soldiers will trigger a voiced dialogue and the player will be automatically teleported to the bridge leading to Tenshukaku.
+In Version 2.1, there are new patrol soldiers in Tenshukaku and in the alleyways of Hanamizaka, the lower level of the city. Players who run into them will trigger an unvoiced dialogue and be teleported to the same location.
+After starting the Archon Quest Blind Loyalty, Reckless Courage in Chapter II: Act III - Omnipresence Over Mortals, the soldiers will disappear from their posts.
+
+Contents
+
+1 Location
+2 Dialogue
+3 Other Languages
+4 Change History
+
+
+Location[]
+Patrol Soldiers' location in Version 2.0Police StationNear the Teleport WaypointTwo patrol soldiers in front of the StatueAlleyway 1Alleyway 2Third soldier near the Statue (right most)Leading to the right side of the Tenshukaku area (middle)Leading to the right side of the Tenshukaku area (entrance)Right side of the staircase leading up to TenshukakuAt the entrance of Tenshukaku (right most)
+Dialogue[]
+
+Media:vo dqaq009 1 soldier 01.ogg Patrol Soldier: Stop! I have orders to search for a wanted criminal!
+Media:vo dqaq009 1 paimon 14.ogg Paimon: Yikes! Hide — quick!
+
+
+Media:vo dqaq009 1 soldier 02.ogg Patrol Soldier: You! The warrant is for your arrest! Freeze!
+Media:vo dqaq009 1 paimon 15.ogg Paimon: Oh no — run!
+
+Other Languages[]
+
+LanguageOfficial NameEnglishPatrol SoldierChinese(Simplified)巡逻足轻Xúnluó Zú QīngChinese(Traditional)巡邏足輕Xúnluó Zú QīngJapanese見回りの足軽Mimawari no AshigaruKorean아시가루 순찰병순찰병巡察兵Asigaru SunchalbyeongSpanishSoldado centinelaFrenchAshigaru de patrouilleRussianПатрульный солдатPatrul'nyy soldatThaiกองลาดตระเวนKong Lat TrawenVietnameseBộ Binh Tuần TraGermanPatrouillensoldatIndonesianTentara PatroliPortugueseSoldado PatrulhadorTurkishDevriye AskeriItalianSoldato di pattuglia
+Change History[]
+Released in Version 2.0[Create New History]
+
+
+

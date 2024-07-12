@@ -1,0 +1,101 @@
+
+
+
+
+
+Mandana
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Sumeru
+
+
+Location
+Sumeru
+
+
+Dialogue Reward
+ 4
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Mandana is an open-world NPC located in The Palace of Alcazarzaray, Sumeru.
+Following a certain dialogue branch for the first time gives four Sumeru Roses.
+
+Contents
+
+1 Location
+2 Idle Quotes
+3 Thoughts
+4 Dialogue
+5 Other Languages
+6 Change History
+
+
+Location[]
+Mandana's locationAdditional context
+Idle Quotes[]
+
+ Water the flowers
+Media:VO Mandana 01.ogg "Today is not the day to water the flowers yet."
+
+Thoughts[]
+Mandana's thoughts can be accessed by using Nahida's Elemental Skill, All Schemes to Know.
+
+
+Media:VO Mandana All Schemes to Know 01.ogg Mandana: (Pretty flowers are all you need to brighten people's mood.)
+
+Dialogue[]
+
+Mandana: Following the instructions in the manual really did make the flowers bloom really well.
+ The manual?
+Mandana: Yes, it's a nursing manual on ornamental plants the Lord gave me. I heard it was personally revised by a Forest Watcher.
+Mandana: Following the instructions in the manual guarantees that beautiful flowers bloom all year round here.
+ Lovely.
+Mandana: Thanks, I'll take it as a compliment on the good job I did for the garden.
+Mandana: Cutting a fresh flower with its leaves on, put it into a vase with water, and you'll make a very nice interior decoration.
+Mandana: These are for you. Beautiful flowers will bring you good luck.
+(Obtain  Sumeru Rose ×4)
+ See you.
+Mandana: See you.
+
+Other Languages[]
+
+LanguageOfficial NameEnglishMandanaChinese(Simplified)曼达娜MàndánàChinese(Traditional)曼達娜MàndánàJapaneseマンダナMandanaKorean만다나MandanaSpanishMandanaFrenchMandanaRussianМанданаMandanaThaiMandanaVietnameseMandanaGermanMandanaIndonesianMandanaPortugueseMandanaTurkishMandanaItalianMandana
+Change History[]
+Released in Version 3.0[Create New History]
+
+
+

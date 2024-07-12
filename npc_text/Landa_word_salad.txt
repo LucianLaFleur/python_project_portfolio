@@ -1,0 +1,205 @@
+
+
+
+
+
+Landa
+Traveling Merchant
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+								Family
+							
+
+
+
+								Voice Actors
+							
+
+
+
+
+
+Region
+Mondstadt
+
+
+Location
+Liyue
+
+
+Affil­i­a­tion
+Fatui
+
+
+Genius Invokation TCG
+Stages
+
+
+
+
+Child
+Tia
+
+
+
+
+English
+Skylar Silverlake[1]
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Landa is an open-world NPC in located in Liyue. He can be found on the front porch of the Wangshu Inn in Dihua Marsh, standing next to his daughter Tia.
+
+Contents
+
+1 Location
+2 Profile
+
+2.1 Appearance
+
+
+3 Quests and Events
+
+3.1 World Quests
+
+
+4 Idle Quotes
+5 Dialogue
+6 Event Dialogue
+
+6.1 Unreconciled Stars
+
+
+7 Character Mentions
+
+7.1 Character Stories
+
+
+8 Trivia
+
+8.1 Etymology
+
+
+9 Other Languages
+10 Change History
+11 References
+
+
+Location[]
+Landa's locationAdditional context
+Profile[]
+Landa claims to be a traveling merchant from Mondstadt who works running errands for a "really rich" Liyue wine merchant. Per his own words, he often has to travel back and forth between Mondstadt and Liyue for his work,[2] and has become intimately familiar with the Wangshu Inn due to how often he has to travel that route. However, he also claims to not have been back to Mondstadt in a very long time, and makes some very basic mistakes regarding his supposed business (misnaming the Dawn Winery as the "Morn Winery"). Secretly, Landa is actually a Fatui agent working for the Harbinger Pantalone.[3] Landa's daughter Tia comes from Mondstadt and has recently started traveling with him; she says it is her first time outside of Mondstadt. Landa has instructed her to tell strangers only his cover story, though she says she is willing to reveal his true identity to people who play with her.[4]
+During one of his travels back to his boss in Liyue, Landa was attacked by monsters and lost a box containing invoices for a very important transaction. Fearful about the consequences of his failure, he asks the Traveler to retrieve the box, warning them not to look inside. The Traveler discovers the box was found by a Treasure Hoarder named Bao'er, and negotiates to retrieve it from her. According to her, the invoices seem to be highly valuable, and she warns the Traveler that the transactions are on such a large scale that they would be better off not asking any questions about them. Landa is highly relieved to have his invoices back, but is terrified when he finds out that someone looked at them.[2]
+
+Appearance[]
+(To be added.)
+
+Quests and Events[]
+World QuestsBig Business
+Idle Quotes[]
+
+ Hmm, this could be...
+Media:VO Landa 01.ogg "Hmm, this could be an obstacle for Pantalone..."
+
+Dialogue[]
+
+Landa: Can I help you? As you can see I'm a merchant from Mondstadt — so in the wine business, of course!
+Landa: ...W—Why are you looking at me like that. I'm telling the truth, I swear...
+ Adventure Challenge
+(Opens Genius Invokation TCG match interface)
+(If the player loses the match)
+
+Landa: Thank you! Your skills are an inspiration. Now I know how to deal with... difficult people...
+(If the player wins the match)
+
+Landa: Ah! I miscalculated. But that won't happen again!
+ Who are you?
+Landa: My name is Landa, and I'm in the wine business. That girl darting about all over the show is my daughter, Tia.
+Landa: Did you know that all of Mondstadt's wine exports go via Liyue before being distributed to the rest of the continent?
+Landa: And have you heard of the Morn Winery? That's where it comes from.
+Landa: ...Sorry yes, Dawn Winery. Not Morn. Dawn.
+ ...No true child of Mondstadt would make that mistake.
+Landa: Give me a break, I just haven't been back to Mondstadt in forever is all.
+Landa: Meanwhile, I've gotten to know this place like the back of my hand. I've traveled this route on business more times than I can remember.
+Landa: Both the innkeeper and the boss of this place will vouch for me on that!
+Landa: Isn't that right, Huai'an? Goldet? Hahahaha...
+Landa: ...Come on, don't leave me hanging now...
+ You get cuter each time you open your mouth.
+Landa: ...What a strange thing to say.
+Landa: Anyway, you want to hear a secret that only someone in the wine business could tell you?
+Landa: "Angel's Share" actually used to be wine brewers' slang before it was the name of a tavern.
+Landa: The idea was that the air bubbles you see during fermentation carry away the angel's share when they float off into the wind.
+Landa: Not bad huh? Vintage Mondstadt knowledge!
+ Whatever you say, I have to go.
+Landa: What's that supposed to mean? I'm telling the truth!
+Landa: Next time you see me re-stocking in Mondstadt, you'll know I'm the real deal!
+
+Event Dialogue[]
+Unreconciled Stars[]
+
+Landa: It seems that these strange meteorites have also appeared in Liyue, just as they have in Mondstadt...
+Landa: How may I help you? I mean, I'm just a merchant from Mondstadt who's in the wine business...
+(Dialogue options and responses are the same as normal)
+
+Character Mentions[]
+Character StoriesCharacterStoriesNoelleCharacter Story 2
+Trivia[]
+Landa may be the Snezhnayan merchant mentioned in Noelle's second Character Story, who went to Mondstadt with plans to ruin their wine industry. The merchant ultimately fled the country with his family, a daughter, out of fear of Noelle's apparent ability to read his mind — which was really just an extension of her dutiful nature.
+Landa left a message at the Wangshu Inn Bulletin Board about the "Morn Winery".
+Etymology[]
+His name could possibly be derived from Proto-Germanic *landą, meaning "land".
+His name could also be derived from a Spanish surname.
+Other Languages[]
+
+LanguageOfficial NameEnglishLandaChinese(Simplified)兰达LándáChinese(Traditional)蘭達LándáJapaneseランダRandaKorean란다RandaSpanishLandaFrenchLandaRussianЛандаLandaThaiLandaVietnameseLandaGermanLandaIndonesianLandaPortugueseLandaTurkishLandaItalianLanda
+Change History[]
+Released in Version 1.0[Edit History]Version 3.7
+Added a Genius Invokation TCG Adventure Challenge for Landa.
+
+Version 1.0
+
+Landa was released.
+References[]
+
+↑ Skylar Silverlake: EN VA's Website
+
+↑ 2.0 2.1 World Quest: Big Business
+
+↑ NPC Idle Quote: Landa
+
+↑ NPC Dialogue: Tia
+
+
+
+
+

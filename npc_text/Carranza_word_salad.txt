@@ -1,0 +1,131 @@
+
+
+
+
+
+Carranza
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Fontaine
+
+
+Location
+Fontaine
+
+
+Genius Invokation TCG
+Stages
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Carranza is an open-world NPC located in Administrative Area, Fontaine.
+
+Contents
+
+1 Location
+2 Idle Quotes
+3 Dialogue
+
+3.1 Dialogue Set #1
+3.2 Dialogue Set #2
+
+
+4 Other Languages
+5 Change History
+
+
+Location[]
+Carranza can be found in the Dormitory Block, near the Teleport Waypoint. After completing World Quest An Eye for an Eye in Series Unfinished Comedy, he will move into Lanoire and Caterpillar's room.
+
+Carranza's locationAdditional context
+Idle Quotes[]
+
+ Math...
+Media:VO Carranza 01.ogg "I don't get it. How come nobody likes math?"
+
+Dialogue[]
+Dialogue Set #1[]
+Available before completing An Eye for an Eye.
+
+
+Carranza: Math isn't just beautiful, it's practical. I wish more people understood that.
+ Adventure Challenge
+(Opens Genius Invokation TCG match interface)
+(If the player loses the match)
+
+Carranza: Thanks for the match, I've learned a lot from our encounter.
+(If the player wins the match)
+
+Carranza: Looks like my deck needs a rethink...
+ What are you doing here?
+Carranza: Waiting. I heard a rumor and if it turns out to be true, I will take action.
+ I don't understand what you're talking about...
+Carranza: Excellent. I don't want you to understand, because if you did, you would become a rival.
+Carranza: But if you really are in desperate need of someone to talk to, we could discuss something else entirely. Something that will not harm anyone's interests. Math, for example...
+ That's my cue to leave.
+Carranza: I'll see myself out.
+ Sorry to bother you.
+Carranza: Until next time.
+
+Dialogue Set #2[]
+Available after completing An Eye for an Eye.
+
+
+Carranza: It's important to study during your free time. Studying theater brings only the tiniest of results. It's better to study more practical subjects... Math, for example.
+ Adventure Challenge
+(Same as above)
+ Why are you here?
+Carranza: If you're allowed to be here, surely I am. This place is ideal for usage as a classroom. I can start my undertaking here.
+ ...Undertaking?
+Carranza: Ideally, I would help everyone realize the beauty of mathematics. I know that is not realistic, though.
+Carranza: So I will teach those willing to learn some practical mathematics. This will be much more meaningful than what the Tri-Coupon Troupe is doing.
+ They both have their benefits.
+Carranza: But you have to understand that very few people can manage both at once.
+ Good luck.
+Carranza: Thanks.
+ Good luck.
+Carranza: Thanks.
+ Sorry to bother you.
+Carranza: Until next time.
+
+Other Languages[]
+
+LanguageOfficial NameEnglishCarranzaChinese(Simplified)卡兰萨KǎlánsàChinese(Traditional)卡蘭薩KǎlánsàJapaneseカランザKaranzaKorean카란자KaranjaSpanishCarranzaFrenchCarranzaRussianКаррансаKarransaThaiCarranzaVietnameseCarranzaGermanCarranzaIndonesianCarranzaPortugueseCarranzaTurkishCarranzaItalianCarranza
+Change History[]
+Released in Version 4.1[Create New History]
+
+
+

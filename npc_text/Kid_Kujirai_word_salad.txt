@@ -1,0 +1,190 @@
+
+
+
+
+
+Kid Kujirai
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+								Family
+							
+
+
+
+								Voice Actors
+							
+
+
+
+
+
+Region
+Inazuma
+
+
+Location
+Inazuma
+
+
+Affil­i­a­tion
+Kujirai Clan
+
+
+
+
+Sibling
+Kujirai Momiji
+
+
+
+
+Japanese
+Akagi Haruna (赤木 春菜)[1]
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Kid Kujirai  (Japanese: 鯨井坊や Kujirai-bouya) is a group of NPCs consisting of many brothers with identical appearances found throughout Inazuma.
+When interacting with one of the Kid Kujirai in his secondary locations, he will initiate a Temari challenge. Finishing his Temari challenge successfully three times grants a Precious Chest, and allows the player to play custom games of Temari (in Co-Op Mode) freely at any time at that location.
+
+Contents
+
+1 Location
+2 Profile
+
+2.1 Appearance
+
+
+3 Quests and Events
+
+3.1 World Quests
+3.2 Events
+
+
+4 Dialogue
+5 Trivia
+6 Gallery
+
+6.1 Genius Invokation TCG
+
+
+7 Notes
+8 Other Languages
+9 Change History
+10 References
+
+
+Location[]
+Kid Kujirai's initial location before starting the World Quest, Temaria Game.
+
+Kid Kujirai's LocationAdditional context
+Profile[]
+Kid Kujirai are young boys wearing standard Inazuman clothes and a hat. Their family consists of their father, mother, a sister named Momiji, and the number of their identical brothers is unknown.
+At an unspecified point of time in the past, Kid Kujirai met Alice,[Note 1] who told them the wonders of Teyvat and taught them how to play Temari. She also taught them the "Kujirai Art, Temari Jutsu", a self-taught martial arts they created with Shousen's advice that is performed using a temari ball that has been turned into a bomb by manipulating it in an unspecified way. Kid Kujirai is a very brave boy, venturing to various areas in Inazuma alone and has blasted many Hilichurls, Slimes, Nobushi, and Treasure Hoarders using the temari.
+
+Appearance[]
+(To be added.)
+
+Quests and Events[]
+World QuestsTemaria GameEventsHues of the Violet GardenFestival DeedsPart II: About That Time We Saved the Tanuki Photo Board
+Dialogue[]
+After completing Temaria Game, the Traveler can interact with Kid Kujirai to begin a Temari challenge.
+
+
+(Speak to Kid Kujirai)
+Kid Kujirai: Big (‍brobroText for Aether/sissisText for Lumine‍), do you want to play a game of Temari?
+ Let's play a game of Temari!
+Kid Kujirai: Woohoo! The goal is to find the Temari within the time limit!
+ Now's not a good time for me...
+Kid Kujirai: Aww, it's okay then. Come play with me next time!
+(After completing the 1st Temari challenge)
+Kid Kujirai: Big (‍brobroText for Aether/sissisText for Lumine‍), do you want to play a game of Temari? I found a new place to hide it!
+Kid Kujirai: You found it so easily last time, so I want to make things a little harder this time. I found a location that is particularly difficult to find.
+ Let's play a game of Temari!
+Kid Kujirai: All the best, big (‍brobroText for Aether/sissisText for Lumine‍)! The goal is to find the Temari within the time limit!
+ Now's not a good time for me...
+Kid Kujirai: Aww, it's okay then. Come play with me when you have time!
+(After completing the 2nd Temari challenge)
+Kid Kujirai: Hello again, big (‍brobroText for Aether/sissisText for Lumine‍)!
+Kid Kujirai: This time, I found a particularly hard-to-find spot and hid the Temari. Want to take on the challenge?
+ Let's play a game of Temari!
+Kid Kujirai: All the best, big (‍brobroText for Aether/sissisText for Lumine‍)! The goal is to find the Temari within the time limit!
+ Now's not a good time for me...
+Kid Kujirai: Aww, it's okay then. Come play with me when you have time!
+(After completing the 3rd Temari challenge)
+Kid Kujirai: Big (‍brobroText for Aether/sissisText for Lumine‍), you're really good at this! You even cracked my "Kujirai Art, Temari Jutsu."
+ About how to play Temari...
+Kid Kujirai: If you are looking for the Temari, you need to find the Temari hidden by others within the time limit and you win.
+Kid Kujirai: If you are hiding the Temari, you must hide the Temari within the same limited time. It's only fair to the player looking for it. The Big Sister adventurer said that fairness in the game is very important!
+ About yourself...
+Kid Kujirai: Hmm, what's wrong?
+ "Kujirai Art, Temari Jutsu"?
+Kid Kujirai: Ah, it's a school of martial arts that we created ourselves with Grandpa Shousen's advice. The aim was to develop invincible martial arts using the Temari.
+Kid Kujirai: If we can use various methods to blast enemies away with explosive Temari, then we can win without even fighting!
+Paimon: Paimon's very sure that that's not how you play Temari...
+ How many people are there in the Kujirai family?
+Kid Kujirai: Hmm, let me think...
+Kid Kujirai: Besides my mom and dad, we have an eldest sister, named Momiji. She used to play with us a lot.
+Kid Kujirai: But ever since she got hooked on fishing, she won't play with us anymore. And she even says we'll scare the fish away!
+Kid Kujirai: Then... how many brothers do I have? Honestly, I'm not too sure either...
+ About the adventurer you mentioned...
+Kid Kujirai: She's a very powerful Big Sister adventurer!
+Kid Kujirai: She taught us how to play Temari, how to sing the Temari song, and how to use the Temari to blow up the bad guys!
+Kid Kujirai: When she left, she said she was going somewhere far, far away to do something very important.
+Kid Kujirai: That's why we have to study "Temari Jutsu" and help her in future!
+ Goodbye.
+Kid Kujirai: Bye-bye, big (‍brobroText for Aether/sissisText for Lumine‍)! Help me say hello if you see my brothers and sister!
+
+Trivia[]
+The Traveler speaks to the same Kid Kujirai during his World Quest and the first three encounters after completing the World Quest. Kid Kujirai's dialogue implies that the five subsequent encounters with Kid Kujirai are each with a different brother.
+The Loading Screen tip for "Special Temari" also makes the implication that Kid Kujirai are multiple children.
+Gallery[]
+Genius Invokation TCG[]
+Kid Kujirai
+Notes[]
+
+↑ In the video description for Aloy's Collected Miscellany, one of the titles Alice goes by is "Originator of the Kujirai Art – Temari Jutsu."
+
+
+Other Languages[]
+
+LanguageOfficial NameLiteral MeaningEnglishKid Kujirai—Chinese(Simplified)鲸井小弟Jīngjǐng-xiǎodìLittle Brother KujiraiChinese(Traditional)鯨井小弟Jīngjǐng-xiǎodìJapanese鯨井坊やKujirai-bouyaBoy KujiraiKorean쿠지라이KujiraiKujiraiSpanishPequeño KujiraiLittle KujiraiFrenchPetit KujiraiLittle KujiraiRussianМалыш КудзирайMalysh KudzirayLittle Kid KujiraiThaiKid Kujirai—VietnameseTiểu ĐệTiểu Đệ小弟 KujiraiGermanKleiner KujiraiLittle KujiraiIndonesianKid Kujirai—PortugueseGaroto KujiraiTurkishKüçük KujiraiLittle KujiraiItalianPiccolo KujiraiLittle Kujirai
+Change History[]
+Released in Version 2.0[Create New History]
+References[]
+
+↑ Twitter: JP VA's Profile
+
+
+
+
+

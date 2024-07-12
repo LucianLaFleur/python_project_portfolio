@@ -1,0 +1,223 @@
+
+
+
+
+
+Kurisu
+President of the International Trade Association
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+								Voice Actors
+							
+
+
+
+
+
+Real Name
+Christopher
+
+
+Regions
+Inazuma Fontaine 
+
+
+Location
+Inazuma
+
+
+Affil­i­a­tion
+International Trade Association
+
+
+Dialogue Reward
+ 1
+
+
+Genius Invokation TCG
+Stages
+
+
+
+
+English
+Brian Timothy Anderson[1]
+
+
+Japanese
+Yamaguchi Satoshi (山口 恵)[2]
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Kurisu  (Japanese: 久利須), real name Christopher, is an open-world NPC located in Ritou, Inazuma.
+Following a certain dialogue branch for the first time gives the player one Guide to Prosperity.
+
+Contents
+
+1 Location
+2 Profile
+
+2.1 Appearance
+
+
+3 Quests and Events
+
+3.1 Archon Quests
+3.2 Story Quests
+3.3 Events
+
+
+4 Idle Quotes
+5 Dialogue
+6 Event Dialogue
+
+6.1 Hues of the Violet Garden
+
+
+7 Other Languages
+8 Change History
+9 References
+
+
+Location[]
+Kurisu's locationAdditional context
+Profile[]
+Kurisu's real name is Christopher and he hails from Fontaine, although he changed his name to Kurisu when he arrived in Inazuma. Kaiser, a cat seen near him, is apparently quite attached to him. He is acquainted with Thoma.
+Kurisu eventually became the president of the International Trade Association, a trading group based in Ritou that sells foreign goods into Inazuma. After the Sakoku Decree was enacted, Kurisu and the others' quality of life began to decline due to harsh treatment by the Kanjou Commission, who would intimidate them into paying higher taxes and not investigate claims of stolen goods. Eventually, he and the other merchants were forced to use Crystal Marrow as payment.
+Thoma, who greeted the Traveler upon their arrival to Inazuma, had them help Kurisu with his problem.
+During Ayaka's Story Quest, she and the Traveler approached Kurisu for silk. He told them that the silk was stolen by vagrants. Ayaka assisted him in reclaiming the stolen goods and he gave them some of the silk in gratitude.
+After the Kanjou Commissioner is revealed to have taken part in the instability plaguing Inazuma, he is arrested and replaced. Kurisu was delighted by the change as the Kanjou Commission began to treat him and his fellow merchants on better terms, remaining resolved to continue trade and helping newcomers.
+
+Appearance[]
+(To be added.)
+
+Quests and Events[]
+Archon QuestsChapter IIAct I: The Immovable God and the Eternal EuthymiaConfessions of an OutlanderStory QuestsGrus Nivis Chapter (Kamisato Ayaka)Act I: The Whispers of the Crane and the White RabbitWoven WishesEventsDuel! The Summoners' Summit!Round 3: Cards Out! Grievances Begone
+Idle Quotes[]
+
+ International Trade Association...
+Media:VO Kurisu 01.ogg "If any outlanders are having trouble, feel free to visit the International Trade Association."
+
+During Hues of the Violet Garden
+
+ Five Kasen Plaza...
+Media:VO Kurisu Irodori 01.ogg "Not bad at all, the Five Kasen Plaza is looking absolutely amazing."
+
+Dialogue[]
+
+Kurisu: Oh? Do you require the assistance of the International Trade Association? Please, do tell.
+ Duel
+(Opens Genius Invokation TCG match interface)
+(If the player loses the match)
+
+Kurisu: Haha, maybe it's a businessman's intuition that prevails...
+(If the player wins the match)
+
+Kurisu: I have lost, and must admit that I'm not good enough...
+ About yourself...
+Kurisu: I'm Kurisu from Fontaine. My real name is actually Christopher, but I've been here so long that it seemed suitable to change it to fit the local customs.
+Kurisu: I'm currently in charge of the International Trade Association. My main task is to be the bridge between everyone here and the Shogunate officials.
+Kurisu: We're all considered outlanders here regardless of where you are from, so we've got to take care of each other.
+Kurisu: It's not an easy life abroad for folks like us. Hahaha...
+ About the outlanders in Ritou...
+(Before completing Omnipresence Over Mortals)
+
+Kurisu: Agh, I hardly even want to talk about it. It's just getting more and more difficult nowadays...
+Kurisu: Not only have they limited our trading time and locations, they've also added tax items for various reasons. The biggest headaches are those bureaucrats from the Kanjou Commission.
+Kurisu: Every now and then, they will come here and pick on us for whatever reason. It's just...
+Kurisu: ...Ah, alas! Anyway, the merchant guild and I have dedicated ourselves to providing every outlander with support.
+ That sounds painful.
+Kurisu: Haha. There might be a few tricky problems here and there, but I get a boost of determination seeing everyone's smiling faces after the problem has been resolved.
+Kurisu: We live in an ever-changing world, so we need to be prepared for all kinds of situations. For the sake of the continued prosperity of the International Trade Association, there's still a lot of work that I need to do.
+(Obtain  Guide to Prosperity ×1)
+(After completing Omnipresence Over Mortals)
+
+Kurisu: Since the head of the Hiiragi Clan was removed from his post, all the affairs of the Kanjou Commission have been well-regulated.
+Kurisu: Taxes were reduced, and the officials and soldiers made things less difficult for the merchants. Everyone is really relieved.
+Kurisu: However, there is still a lot to be done here. The source of goods, delivery routes and channels... There are still many things to settle.
+Kurisu: Anyway, the Trade Association and I have dedicated ourselves to providing every outlander with support.
+ That sounds painful.
+Kurisu: Haha. There might be a few tricky problems here and there, but I get a boost of determination seeing everyone's smiling faces after the problem has been resolved.
+Kurisu: We live in an ever-changing world, so we need to be prepared for all kinds of situations. For the sake of the continued prosperity of the International Trade Association, there's still a lot of work that I need to do.
+(Obtain  Guide to Prosperity ×1)
+(After completing Transient Dreams)
+
+Kurisu: Since the head of the Hiiragi Clan was removed from his post, all the affairs of the Kanjou Commission have been well-regulated.
+Kurisu: Taxes were reduced, and the officials and soldiers made things less difficult for the merchants. Everyone is really relieved, to be honest, and the number of merchants willing to set up shop here in Ritou has increased.
+Kurisu: We've got quite a few new arrivals who aren't yet used to the paths through which goods may be sourced or transported, and so that's where we come in.
+Kurisu: Anyway, the Trade Association and I have dedicated ourselves to providing every outlander with the support they need.
+ That sounds painful.
+Kurisu: Haha. There might be a few tricky problems here and there, but I get a boost of determination seeing everyone's smiling faces after the problem has been resolved.
+Kurisu: We live in an ever-changing world, so we need to be prepared for all kinds of situations. For the sake of the continued prosperity of the International Trade Association, there's still a lot of work that I need to do.
+(Obtain  Guide to Prosperity ×1)
+ It's been a while.
+(After completing Woven Wishes)
+Kurisu: Oh yes, it has been a while indeed, Traveler. How's everything?
+Kurisu: You have been doing the International Trade Association a great many favors. I deeply appreciate it. If you need anything, I will try my best to help you out.
+Kurisu: If it is not too much trouble, could you also help send my regards to Miss Kamisato? If you and Miss Kamisato need anything here, feel free to come find me.
+ Goodbye.
+Kurisu: You too. Our doors are always open to friendly outlanders.
+
+Event Dialogue[]
+Hues of the Violet Garden[]
+
+Kurisu: Recently, there's been quite a few outlanders who have come to Ritou specifically to take part in the Irodori Festival. As such, it's up to us here in the International Trade Association to welcome them warmly.
+Kurisu: From the moment we were notified that Ritou would be the festival site, which would be excellent for business, everyone's spirits really picked up.
+Kurisu: Whether you may have goods to sell or if you'd just like to know more about the festival events, feel free to ask me.
+Kurisu: So, is there anything I can help with? Do tell.
+(Continue non-event dialogue)
+
+Other Languages[]
+
+LanguageOfficial NameEnglishKurisuChinese(Simplified)久利须JiǔlìxūChinese(Traditional)久利須JiǔlìxūJapanese久利須KurisuKorean쿠리스KuriseuSpanishKurisuFrenchKurisuRussianКурисуKurisuThaiKurisuVietnameseKurisuGermanKurisuIndonesianKurisuPortugueseKurisuTurkishKurisuItalianKurisu
+Change History[]
+Released in Version 2.0[Edit History]Version 3.3
+Added a Genius Invokation TCG Duel for Kurisu.
+
+Version 2.5
+
+New dialogue was added for Kurisu after completing Transient Dreams.
+
+Version 2.0
+
+Kurisu was released.
+References[]
+
+↑ Twitter: EN VA Self Announcement
+
+↑ Twitter: JP VA Self Announcement
+
+
+
+
+

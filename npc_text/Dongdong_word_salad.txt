@@ -1,0 +1,157 @@
+
+
+
+
+
+Dongdong
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+								Voice Actors
+							
+
+
+
+
+
+Region
+Liyue
+
+
+Location
+Liyue
+
+
+Dialogue Reward
+ 7
+
+
+Genius Invokation TCG
+Stages
+
+
+
+
+Japanese
+Anna Ishikawa (石川 明日菜)[1]
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Dongdong (Chinese: 东东 Dōngdōng) is an open-world NPC found in Qingce Village.
+Following a certain dialogue branch for the first time gives the player seven milk.
+
+Contents
+
+1 Location
+2 Profile
+
+2.1 Appearance
+
+
+3 Quests and Events
+
+3.1 Events
+
+
+4 Idle Quotes
+5 Dialogue
+6 Trivia
+7 Other Languages
+8 Change History
+9 References
+
+
+Location[]
+Dongdong's locationAdditional context
+Profile[]
+Dongdong's father is believed to be a sailor with the Crux Fleet and doesn't come home much. However, he regards his father as a hero and looks forward to his letters. When he is older, he wishes to join the Crux Fleet as well.
+
+Appearance[]
+(To be added.)
+
+Quests and Events[]
+EventsUnreconciled StarsTrouble With LettersLantern Rite TalesQingce's Lanterns
+Idle Quotes[]
+
+ ...Raise the mainsail!
+Media:VO Dongdong 01.ogg "Hehe, all aboard! Raise the main sail!"
+ ...the Crux Fleet...
+Media:VO Dongdong 02.ogg "When I grow up, I'm gonna join the Crux too!"
+
+Dialogue[]
+
+Dongdong: Wow! You look like a traveler, are you?
+ Adventure Challenge
+(Opens Genius Invokation TCG match interface)
+(If the player loses the match)
+
+Dongdong: Yeeeaaah! I beat someone from outside our village! I'm gonna tell Daddy all about this one. He'll be so pleased!
+(If the player wins the match)
+
+Dongdong: Wow, you're invincible... Don't tell anyone you beat me, though. Especially not anyone from the Crux Fleet!
+ Yes.
+Dongdong: Wow, cool! You must have been to sooo many cool places and seen sooo many cool things!
+Dongdong: My dad's a sailor with The Crux! They travel all around the world and go on adventures every day. He's a real hero!
+Dongdong: He doesn't come home much, but he always sends me letters about the coolest, most exciting things that happen on his journeys. Hee-hee!
+Dongdong: When I'm older, I'm gonna join The Crux Fleet too! Then I'll be able to see all that stuff for myself! How cool will that be!?
+ Good luck, you can do it.
+Dongdong: Thanks! You're one of the few people in the village to encourage me!
+Dongdong: All the other villagers say I'll never become a big hero like my dad, because I don't drink my milk...
+Dongdong: But who says heroes have to drink milk? That stuff tastes so weird.
+Dongdong: Still, it'd be a shame to let it all go to waste... Why don't you take it instead?
+Dongdong: Just don't tell anyone, okay!
+(Obtain  Milk ×7)
+ Goodbye.
+Dongdong: Bye-bye! Have a cool adventure, just like my dad!
+
+Trivia[]
+The person who wrote Someone's Diary is Dongdong's father, probably his adventures to make money for his son before trying to join the Crux Fleet.
+Dongdong was mentioned in the event Echoing Tales, from the Conch Retrospection series Unlucky Father. At some point, his father got stuck in the Golden Apple Archipelago while sailing and is captured by Hilichurls. The conch records his father missing and worrying about him. He was later saved by a mysterious savior.
+Dongdong left a message for his father at the Qingce Village Bulletin Board.
+Other Languages[]
+
+LanguageOfficial NameEnglishDongdongChinese(Simplified)东东DōngdōngChinese(Traditional)東東DōngdōngJapaneseトントンTontonKorean동동DongdongSpanishDongdongFrenchDongdongRussianДундунDundunThaiDongdongVietnameseDongdongGermanDongdongIndonesianDongdongPortugueseDongdongTurkishDongdongItalianDongdong
+Change History[]
+Released in Version 1.0[Edit History]Version 3.7
+Added a Genius Invokation TCG Adventure Challenge for Dongdong.
+
+Version 1.0
+
+Dongdong was released.
+References[]
+
+↑ Twitter: JP VA Self Announcement (Archived)
+
+
+
+
+

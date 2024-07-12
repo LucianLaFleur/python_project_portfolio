@@ -1,0 +1,124 @@
+
+
+
+
+
+Galvana
+Fortress of Meropide Guard
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+								Family
+							
+
+
+
+
+
+Region
+Fontaine
+
+
+Location
+Fontaine
+
+
+Affil­i­a­tion
+Fortress of Meropide
+
+
+Dialogue Reward
+ 1
+
+
+
+
+Sibling
+Galvaryet
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Galvana is an open-world NPC located in Administrative Area, Fortress of Meropide, Fontaine.
+Following a certain dialogue branch for the first time gives the player a Guide to Order.
+
+Contents
+
+1 Location
+2 Quests and Events
+
+2.1 World Quests
+
+
+3 Idle Quotes
+4 Dialogue
+5 Other Languages
+6 Change History
+
+
+Location[]
+Galvana can be found guarding the Rift of Erosion in the Administrative Area's Dormitory Block. After completing the World Quest Scenes from Life in Meropide: Dead End in Series Scenes from Life in Meropide, she will move to outside the elevator to Production Zone: Lower Level, in the Administrative Area.
+
+Galvana's initial locationAdditional contextGalvana's final locationAdditional context
+Quests and Events[]
+World QuestsUnfinished ComedyGame of the Rich
+Idle Quotes[]
+
+ No funny business...
+Media:VO Galvana 01.ogg "I sure hope everything goes smoothly. I can't be dealing with any funny business."
+
+Dialogue[]
+
+Galvana: Huh? Is something wrong?
+ There's someone who looks just like you...
+Galvana: You've met Galvaryet? She's my younger sister. We're twins. *ahem* She's too old to keep calling me Sis all the time...
+Galvana: Oh, please don't take it the wrong way. I don't dislike her at all, it's just... This is our workplace, and we should be more serious when it's work hours!
+(Obtain  Guide to Order ×1)
+ About the Rift of Erosion...
+Galvana: Hmm. Yes, it is definitely a potential danger. Would you also agree it would be better to seal it off?
+ That's not what I said.
+Galvana: Hmm. Now that I think about it, it's not that small a space. It would be great if we could put it to good use...
+ I'm in favor of sealing up all entrances and exits.
+Galvana: Seal up all the entrances and exits? That's a little extreme... I never thought you would advocate doing something like that. You really can't judge a book by its cover...
+ About the searchlights...
+Galvana: The searchlights seem to break frequently. It might be because of the energy storage devices installed inside them.
+Galvana: Or maybe they break so often because people don't follow the instructions when they use them?
+ Nothing.
+Galvana: That's good then. Bye.
+
+Other Languages[]
+
+LanguageOfficial NameEnglishGalvanaChinese(Simplified)嘉维娜JiāwéinàChinese(Traditional)嘉維娜JiāwéinàJapaneseガルヴァーナGaruvaanaKorean갈바나GalbanaSpanishGalvanaFrenchGalvanaRussianГальванаGal'vanaThaiGalvanaVietnameseGalvanaGermanGalvanaIndonesianGalvanaPortugueseGalvanaTurkishGalvanaItalianGalvana
+Change History[]
+Released in Version 4.1[Create New History]
+
+
+

@@ -1,0 +1,185 @@
+
+
+
+
+
+Bolai
+Boss, Wanyou Boutique
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+								Voice Actors
+							
+
+
+
+
+
+Region
+Liyue
+
+
+Location
+Liyue
+
+
+Affil­i­a­tion
+Wanyou Boutique
+
+
+Dialogue Reward
+ 4
+
+
+
+
+Japanese
+Kubo Takuma (久保 拓馬)[1]
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Bolai (Chinese: 博来 Bólái) is an open-world NPC in Liyue Harbor. He can be found under the wharf. He is the owner of Wanyou Boutique, a store that once saw Morax's patronage.
+His introductory dialogue changes slightly after completing Archon Quest Chapter 1, Act 2: Farewell, Archaic Lord.
+Following a certain dialogue branch for the first time gives the player four Sunsettias.
+
+Contents
+
+1 Shop
+2 Location
+3 Profile
+
+3.1 Appearance
+
+
+4 Quests and Events
+
+4.1 Archon Quests
+4.2 Story Quests
+
+4.2.1 Hangout Events
+
+
+4.3 World Quests
+4.4 Events
+
+
+5 Idle Quotes
+6 Dialogue
+7 Trivia
+8 Gallery
+9 Other Languages
+10 Change History
+11 References
+
+
+Shop[]
+ItemCostStockTotalCostRefreshes
+ Apple240102,400Every 3 Days
+ Sunsettia170101,700Every 3 Days
+ Fish240102,400Every 3 Days
+ Starconch1,00055,000Every 3 Days
+Total cost for all items11,500 
+Location[]
+Bolai's LocationAdditional context
+Profile[]
+(To be added.)
+
+Appearance[]
+(To be added.)
+
+Quests and Events[]
+Archon QuestsChapter IAct I: Of the Land Amidst MonolithsRite of DescensionAct II: Farewell, Archaic LordThree Poignant PerfumesStory QuestsFabulae Textile Chapter (Xingqiu)Act I: Bookworm SwordsmanCalm Before the Storm (Story Quest)Sinae Unicornis Chapter (Ganyu)Act I: Sea of Clouds, Sea of PeopleA Secretary in a Sea of HumanityUmbrabilis Orchis Chapter (Yelan)Act I: Calculated GambitCandidature AnalysisHangout EventsNingguangAct I: The Jade Chamber's Returning GuestStarting From ZeroWorld QuestsA Lone Ship In GuyunA Quiet Day in Liyue HarborNine Pillars of PeaceEventsLantern RitePart I: The Origin of the Lanterns
+Idle Quotes[]
+
+ ...What can I get you?
+Media:VO Bolai 01.ogg "My friend, what can I get you?"
+
+Dialogue[]
+
+(Before completing Farewell, Archaic Lord)
+Bolai: Oi! Shhh! Keep your voice down!
+(After completing Farewell, Archaic Lord)
+Bolai: Shush! Keep your voice down. Now, what can I get you?
+Bolai: Oh, it's you! Let's get down to business then, what can I get you?
+ What are you selling?
+Bolai: *low voice* You're here to view the goods, are you? Hehehe... Good stuff, good stuff...
+(Opens the Shop menu)
+ About Rex Lapis' death...
+Bolai: Ah, to think that the rumors of his passing would turn out to be true...
+Bolai: Traveler. I hear that you came here from Mondstadt... In that case, I suppose you can feel the difference between our two nations now, yes?
+Bolai: In Liyue, even bit players such as myself have received Rex Lapis' grace in some fashion or another.
+Bolai: It was my honor to have been able to provide the Silk Flowers for his Rite of Parting.
+Bolai: I am no Qixing, and I don't possess a Vision, so that was the only way I could've been of help there...
+Bolai: *sigh* Let's not speak of it. I still have a business to run, and I can't run it with this frown on my face all the time, now can I?
+ Why are you acting so shady...
+Bolai: *low voice* I thought you were in the know... What's with all these questions?
+Bolai: *low voice* Discretion is key in this line of work...
+Bolai: *low voice* Come with me...
+Bolai: *low voice* Fresh sunsettias [sic]! Market rates, guaranteed...
+ ...These are all just everyday items, no?
+Bolai: *low voice* You got that right! I sell everyday items. What else would I be selling?
+Bolai: Haven't you heard the saying, "silence is golden"? Well, if silence is golden, quietness has to be silver at least?
+Bolai: *whispering* So when you're doing business, you've got to talk in whispers so the Mora keeps rolling in!
+Bolai: *whispering* But you youngsters wouldn't understand, you're easily led astray by wacky ideas...
+ Sunsettia?
+Bolai: Tsk, look, I know they're not much to look at, but these here Sunsettias hold a profound and mysterious secret...
+Bolai: ...If you were to try one, then you would know: they're much sweeter than most other Sunsettias.
+Bolai: In fact, you can take these ones. Then you'll see I'm telling the truth...
+(Obtain  Sunsettia ×4)
+ Goodbye.
+Bolai: *whispering* You're leaving? At least give me a few words of encouragement if you're not buying...
+
+Trivia[]
+Wanyou Boutique is mentioned in the description of the Furnishing item "Intricately Carved Calligraphy Table."
+If you go to Liyue Harbor before starting the Rite of Descension Archon Quest, Bolai will exist simultaneously near the Main Plaza and beneath the Northern Wharf. The Bolai near the Main Plaza cannot be interacted with.
+Gallery[]
+Character Tales - "Zhongli- An Additional Expense" - Genshin Impact
+Other Languages[]
+
+LanguageOfficial NameEnglishBolaiChinese(Simplified)博来BóláiChinese(Traditional)博來BóláiJapanese博来Hakurai[2]Korean박래Bak-raeSpanishBolaiFrenchBolaiRussianБо ЛайBo LayThaiBolaiVietnameseBolaiGermanBolaiIndonesianBolaiPortugueseBolaiTurkishBolaiItalianBolai
+Change History[]
+Released in Version 1.0[Edit History]Version 1.4
+Added a shop to his dialogue options, selling the following items: Apples, Sunsettias, Fish, and Starconches.
+
+Version 1.0
+
+Bolai was released.
+References[]
+
+↑ Amuleto: JP VA's Profile
+
+↑ Story Quest, Ganyu, Sinae Unicornis Chapter: Act I - Sea of Clouds, Sea of People, Part 2: A Secretary in a Sea of Humanity (Japanese Voice-Over)
+
+
+
+
+

@@ -1,0 +1,120 @@
+
+
+
+
+
+Bertrand
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Fontaine
+
+
+Location
+Inazuma
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Event-Exclusive NPCs 
+
+
+
+
+Bertrand is an event-exclusive NPC that appeared in the Event Core of the Apparatus. He is a toymaker from Fontaine.
+
+Contents
+
+1 Location
+2 Profile
+
+2.1 Appearance
+
+
+3 Quests and Events
+
+3.1 Events
+
+
+4 Idle Quotes
+5 Dialogue
+
+5.1 Dialogue Set #1
+
+
+6 Other Languages
+7 Change History
+
+
+Location[]
+During Core of the Apparatus
+Bertrand's locationAdditional context
+Profile[]
+Bertrand is a toymaker hailing from Fontaine, hoping to reach into the Inazuma market. Due to a hasty attempt to quickly break into the market, however, he created explosive toys, which got the Tenryou Commission involved. His toys were confiscated and he paid a hefty fine as a result, forcing him to borrow money from Kurisu to keep his project going. He placed a commission with the Adventurers' Guild to hire an assistant, a job Katheryne passed onto the Traveler and Paimon.
+
+Appearance[]
+(To be added.)
+
+Quests and Events[]
+EventsCore of the ApparatusA-Toymaking We Shall GoA-Toymaking We Shall Go: Energy StorageA-Toymaking We Shall Go: Core PropulsionA-Toymaking We Shall Go: Mass Production
+Idle Quotes[]
+During Core of the Apparatus
+ M—My toy...
+Dialogue[]
+Dialogue Set #1[]
+
+(During Core of the Apparatus)
+Bertrand: Heh! If that's the amount I'm getting for one of these, then I just need to sell 20,000 of them to pay off my debt!
+Bertrand: What's up, (TravelerTravelerThe player's chosen name for the Traveler)? Is there something wrong?
+Create test products... (Unlocked after completing Mass Production)
+Bertrand: Ohhh, have you collected all the materials? Let me activate the Great Machine for you!
+(Opens Product Creation)
+ I'd like to pick a toy to keep. (Unlocked after completing Mass Production)
+Bertrand: Oho! Have you toy models you'd like to redeem? Just roll up with your redemption voucher, then... Though as we said before, you can only redeem four...
+(Opens "Test Products to Redeem")
+ So about the creation process...
+Bertrand: Ah, sure. I can explain that again, no problem.
+Bertrand: You have to collect the materials needed for the three processes while carrying the Collector on your person.
+Bertrand: The second step is "Elemental Charge," which can only be achieved by staying affected by the elements for a certain duration.
+Bertrand: Finally, we have "Core Activation," which can be done by defeating some elemental life forms to achieve the motive force required to start the core up.
+Bertrand: After this, the Material Collector should have finished collecting all we need. Then, it just needs to be placed into the Great Machine to begin production.
+Bertrand: If you have any other questions, feel free to ask me.
+ Let's have a look at our production record... (Unlocked after completing Mass Production)
+(Opens Product Archive)
+ No, nothing at the moment.
+Bertrand: Well, then keep flexing those creative muscles of yours! Honestly, I'm very much looking forward to seeing what else you'll make!
+
+Other Languages[]
+
+LanguageOfficial NameEnglishBertrandChinese(Simplified)伯特兰BótèlánChinese(Traditional)伯特蘭BótèlánJapaneseバートランドBaatorandoKorean베르트랑BereuteurangSpanishBertrandFrenchBertrandRussianБертранBertranThaiBertrandVietnameseBertrandGermanBertrandIndonesianBertrandPortugueseBertrand
+Change History[]
+Released in Version 2.7[Create New History]
+
+
+

@@ -1,0 +1,95 @@
+
+
+
+
+
+Afanasi
+Merchant
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Snezhnaya
+
+
+Location
+Sumeru
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Afanasi is an open-world NPC located in Port Ormos, Sumeru.
+
+Contents
+
+1 Location
+2 Idle Quotes
+3 Thoughts
+4 Dialogue
+5 Other Languages
+6 Change History
+
+
+Location[]
+Afanasi's locationAdditional context
+Idle Quotes[]
+
+ I didn't do anything...
+Media:VO Afanasi 01.ogg "I didn't do anything, so why am I constantly being watched?"
+
+Thoughts[]
+Afanasi's thoughts can be accessed by using Nahida's Elemental Skill, All Schemes to Know.
+
+
+Media:VO Afanasi All Schemes to Know 01.ogg Afanasi: (Do these inspectors who come around every day think I'm with the Fatui? I'm really not!)
+
+Dialogue[]
+
+Afanasi: An inspection today, and tomorrow too... Why is there one every day?
+ Are you alright?
+Afanasi: Me? I'm okay. I'm holding up.
+Afanasi: I don't know why, but the port inspectors have been checking my goods every day.
+Afanasi: What I'm selling is clearly ordinary Snezhnayan industrial goods though.
+Afanasi: But these inspectors seem to be always on edge, as if they are afraid of my wares exploding all of a sudden.
+Afanasi: Ah, I wish they would relax. These constant investigations will affect my business...
+ See you.
+Afanasi: When will they leave me alone...?
+
+Other Languages[]
+
+LanguageOfficial NameEnglishAfanasiChinese(Simplified)阿法纳西ĀfǎnàxīChinese(Traditional)阿法納西ĀfǎnàxīJapaneseアファナシーAfanashiiKorean아파나시ApanasiSpanishAfanasiFrenchAfanasiRussianАфанасийAfanasiyThaiAfanasiVietnameseAfanasiGermanAfanasiIndonesianAfanasiPortugueseAfanasiTurkishAfanasiItalianAfanasi
+Change History[]
+Released in Version 3.0[Create New History]
+
+
+

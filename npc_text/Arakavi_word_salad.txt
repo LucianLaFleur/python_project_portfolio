@@ -1,0 +1,154 @@
+
+
+
+
+
+Arakavi
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Sumeru
+
+
+Location
+Sumeru
+
+
+Dialogue Reward
+ 1
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCsAranara 
+
+
+
+
+Arakavi is an open-world NPC in Vanarana (Subarea), Sumeru. It is a part of the Aranara.
+Following a certain dialogue branch for the first time gives the player one copy of the furnishing Singing Majalis.
+
+Contents
+
+1 Location
+2 Profile
+
+2.1 Appearance
+
+
+3 Quests and Events
+
+3.1 World Quests
+
+
+4 Idle Quotes
+5 Dialogue
+
+5.1 Dialogue Set #1
+5.2 Dialogue Set #2
+
+
+6 Character Mentions
+
+6.1 Character Voice-Overs
+
+
+7 Trivia
+
+7.1 Etymology
+
+
+8 Other Languages
+9 Change History
+
+
+Location[]
+Before completing In the End, the Forest Will Remember
+Arakavi's locationAdditional context
+After completing In the End, the Forest Will Remember
+Arakavi's locationAdditional context
+Profile[]
+(To be added.)
+
+Appearance[]
+(To be added.)
+
+Quests and Events[]
+World QuestsAranyakaPart II: Dream NurseryThe World of AranaraEncounter in the WoodsFestival UtsavaPart III: Nursery of Lost DreamsFor All Children Who Long for Life
+Idle Quotes[]
+
+ Close...
+ Ashvattha...
+
+Dialogue[]
+Dialogue Set #1[]
+
+Arakavi: Festival Utsava is getting closer. I wonder what melodies will be sung at the festival.
+ About Festival Utsava...
+Arakavi: Nara (TravelerTravelerThe player's chosen name for the Traveler) and Aranara must sing together at Festival Utsava.
+Arakavi: No need to worry, Nara (TravelerTravelerThe player's chosen name for the Traveler)'s voice will surely be warm and golden.
+ About Song Gatherers...
+Arakavi: Thanks to Nara (TravelerTravelerThe player's chosen name for the Traveler)'s help, the Song Gatherers have learned many songs that had been forgotten many sunrises ago,
+Arakavi: These songs, to Aranara, are like Nara's "treasure."
+Arakavi: The song gatherers and Nara (TravelerTravelerThe player's chosen name for the Traveler) went to look for treasures together, and are good friends.
+ Goodbye.
+Arakavi: Goodbye, good friend of Aranara.
+
+Dialogue Set #2[]
+Unlocked after completing In the End, the Forest Will Remember.‍[verification needed]
+
+
+Arakavi: Golden Nara and Arama defeated Marana, and brought new story and new song with the Ashvattha...
+ About the Ashvattha...
+Arakavi: A long, long time later, there will definitely be new Nara friends coming to Vanarana.
+Arakavi: But the future Nara will not have to go to the Ashvattha to look for the melodies of today.
+Arakavi: Because all Aranara and the leaves and soil of Vana will remember this Festival Utsava, remember the golden song.
+ The song from Festival Utsava...
+Arakavi: It was a song as golden as the sun, and I was proud to be a part of it. As the Golden Nara, you will always stay in my memories and the memory of Vanarana.
+Arakavi: I'll leave the little one to you. This is the Singing Majalis, and she loves being surrounded by warm sounds. In the past, she was the emblem of us Song Gatherers. Flowers like her have all perished during Vanarana's destruction, and now, only one seed remains.
+Arakavi: We did not think that this seed would never [sic] grow or bloom again... But I think that the song from Festival Utsava gave her a new lease on life. Please, take her with you and give her lots of warmth and light.
+(Obtain  Singing Majalis ×1)
+ Goodbye.
+Arakavi: Goodbye, Golden Nara. Aranara will not forget you.
+
+Character Mentions[]
+Character Voice-OversCharacterVoice-OversTravelerAbout Aranara Names Media:VO_Aether About Aranara Names.ogg Media:VO ZH_Aether About Aranara Names.ogg Media:VO JA_Aether About Aranara Names.ogg Media:VO KO_Aether About Aranara Names.ogg Media:VO_Lumine About Aranara Names.ogg Media:VO ZH_Lumine About Aranara Names.ogg Media:VO JA_Lumine About Aranara Names.ogg Media:VO KO_Lumine About Aranara Names.ogg Paimon: Arama, Arana, Araja, Arakavi... Whew, Aranara names are so hard to remember...Paimon: The only bit Paimon's sure of is that they all start with "Ara"!(Traveler): Right, so if you were an Aranara, your name would be "Arapaimon."Paimon: Yup, and as for (TravelerTravelerThe player's chosen name for the Traveler)...Paimon: Hmm, actually, they'd probably call you Nara (TravelerTravelerThe player's chosen name for the Traveler)...(Traveler): Yeah, we're all Nara to them... Paimon: So if there was someone whose actual name was "Nara," what would the Aranara call them?(Traveler): "Nara Nara"... I guess. Sounds kinda cute.Paimon: Hehe, yeah.
+Trivia[]
+Arakavi is mentioned in the description of the following Furnishing: Singing Majalis
+Etymology[]
+"Arakavi" is derived from kavi (Sanskrit: कवि "poet").
+Other Aranaras involved in Encounter in the Woods are named after poets in ancient India, fitting their roles as song-gatherers.
+Other Languages[]
+
+LanguageOfficial NameEnglishArakaviChinese(Simplified)兰加惟LánjiāwéiChinese(Traditional)蘭加惟LánjiāwéiJapaneseアランカヴィArankaviKorean아란카비ArankabiSpanishArakaviFrenchArakaviRussianАракавиArakaviThaiArakaviVietnameseArakaviGermanArakaviIndonesianArakaviPortugueseArakaviTurkishArakaviItalianArakavi
+Change History[]
+Released in Version 3.0[Create New History]
+
+
+

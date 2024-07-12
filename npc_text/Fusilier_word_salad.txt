@@ -1,0 +1,157 @@
+
+
+
+
+
+Fusilier
+Fontaine Research Institute Researcher
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Fontaine
+
+
+Location
+Fontaine
+
+
+Affil­i­a­tion
+Fontaine Research Institute
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Fusilier is an open-world NPC located in Lumidouce Harbor, Erinnyes Forest, Fontaine. She appears after completion of World Quest An Expected Lie.
+
+Contents
+
+1 Location
+2 Profile
+
+2.1 Appearance
+
+
+3 Quests and Events
+
+3.1 World Quests
+
+
+4 Idle Quotes
+5 Dialogue
+
+5.1 Daytime
+5.2 Nighttime
+
+
+6 Other Languages
+7 Change History
+8 References
+
+
+Location[]
+Fusilier's location (Daytime)Additional context (Daytime)Fusilier's location (Nighttime)Additional context (Nighttime)
+Profile[]
+Fusilier is a researcher from the Fontaine Research Institute. She was a member of Tech Section 3 of the Arkhium Research Project, and worked closely with her research advisor, Senior Technician Edwin Eastinghouse.[1] Due to Edwin's expertise and his help in modifying her Pneumousia Ray Self-Defense Device, she began to idolize him.[2] After the Arkhium explosion destroyed most of the Institute and presumably killed the one who caused it, Edwin, she joined the investigation in order to prove his innocence.[1]
+Following the events of Fontaine Research Institute, Stagnating in the Rubble, Fusilier was tasked with investigating the whereabouts of both the missing Arkhium Kinetic Core and the missing prime suspect, Nacker.[2] With the help of the Traveler, Paimon, Chaussivert, and Lemarcq, not only did Fusilier find both the core and Nacker, she also found Edwin Eastinghouse — alive. However, the man she long idolized showed that he did not care about her and disregarded the work on her Self-Defense Device as "a solo project with no real practical value."[2] After finally seeing Mr. Edwin's true colors, she aided in his arrest.
+
+Appearance[]
+(To be added.)
+
+Quests and Events[]
+World QuestsAn Expected LieAn Expected Plan
+Idle Quotes[]
+
+(Daytime)
+ This needs to be reported...
+Media:VO Fusilier 01.ogg "I need to report back about this."
+(Nighttime)
+ Nothing good...
+Media:VO Fusilier 02.ogg "*sigh* Nothing good happened today. Yet again."
+
+Dialogue[]
+Daytime[]
+
+Fusilier: This should all be written up and reported back to the Institute...
+ What do you have to report?
+Fusilier: Changes in the local hydrological environment, the way those meka operate in the wild, and... some residual Arkhium energy flow.
+Fusilier: I think these energy flows are just remnants from the explosion. Some shattered Arkhium crystals were washed down here, but it's not like there's anything serious going on.
+Fusilier: But just to be on the safe side, I'll compile a report and send it back to the Institute.
+Fusilier: ...But I don't want to set foot in the Fontaine Research Institute ever again, if I can help it.
+(Becomes available after completing An Expected Lie ‍[verification needed])
+ Your thoughts on the Fontaine Research Institute...
+Fusilier: I have no opinion or views on the Fontaine Research Institute now.
+Fusilier: ...Once, I poured my heart into my work. My passion, my sweat... I devoted so much.
+Fusilier: I'm tired now though, and happy with ordinary data collection work.
+Fusilier: I have absolutely no aptitude for research.
+ Who says you don't?
+Fusilier: Edwin, he... Edwin Eastinghouse said it himself.
+Fusilier: He was my superior, and the one who decided if I had any aptitude or not!
+Fusilier: ...If that's all, I really should be getting back to work. There's still so much data to collect.
+ See you.
+Fusilier: Bye. The road conditions around here are a little difficult, so be careful walking.
+
+Nighttime[]
+
+Fusilier: Nothing good happened today...
+ What are you doing here?
+Fusilier: I... I don't want to go back to the Fontaine Research Institute. But you gotta have somewhere to stay, right?
+Fusilier: I can't go beg for a place to stay in Lumidouce Harbor, and I don't want to stay at The Rusty Rudder. So... the Institute helped me get in touch with Chaussivert, who is letting me stay on his ship for a while.
+Fusilier: It's only temporary. I'll be outta here as soon as I find somewhere proper to live.
+ Are you used to being here yet?
+Fusilier: ...It's great. Staying on the ship means that at least no one's gonna suddenly turn up and cause me trouble.
+Fusilier: However, apart from the Institute I don't think anyone else would contact me.
+Fusilier: I just hope that every night from now on will be quiet and undisturbed.
+ About Chaussivert and Lemarcq...
+Fusilier: When I'm staying on the ship, they go to another cabin and don't bother me.
+Fusilier: I always bring some snacks and drinks as gifts when I come... I don't like drinking alcohol, and don't like seeing other people drunk.
+Fusilier: But, speaking of alcohol... I haven't seen a single bottle on board this ship. I asked Lemarcq, who just said that everything's already been drunk.
+Fusilier: But with Chaussivert around, will the wine racks on this ship really stay empty? It's strange...
+ See you.
+Fusilier: Bye. It's getting late, I should probably be calling it a day too.
+
+Other Languages[]
+
+LanguageOfficial NameEnglishFusilierChinese(Simplified)菲希里耶FēixīlǐyēChinese(Traditional)菲希里耶FēixīlǐyéJapaneseフュシリエFyushirieKorean퓨질리에PyujillieSpanishFusilierFrenchFusilierRussianФузильеFuzil'yeThaiFusilierVietnameseFusilierGermanFusilierIndonesianFusilierPortugueseFusilierTurkishFusilierItalianFusilier
+Change History[]
+Released in Version 4.2[Create New History]
+References[]
+
+↑ 1.0 1.1 World Quest: An Expected Lie
+
+↑ 2.0 2.1 2.2 World Quest: An Expected Plan
+
+
+
+
+

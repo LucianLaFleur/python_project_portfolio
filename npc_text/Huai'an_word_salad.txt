@@ -1,0 +1,213 @@
+
+
+
+
+
+Huai'an
+Innkeeper, Wangshu Inn
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+								Family
+							
+
+
+
+								Voice Actors
+							
+
+
+
+
+
+Region
+Liyue
+
+
+Location
+Liyue
+
+
+Affil­i­a­tions
+Wangshu InnLiyue Qixing Employees 
+
+
+Genius Invokation TCG
+Stages
+
+
+
+
+Spouse
+Verr Goldet
+
+
+
+
+English
+David Goldstein[1]
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Huai'an (Chinese: 淮安 Huái'ān) is an open-world NPC in Liyue. He can be found at the entrance of the Wangshu Inn at Dihua Marsh. He works together with his wife Verr Goldet as the business' innkeeper and boss respectively.
+He will move in and out of the inn — inspecting the drawers, talking to his wife at the registry desk, and examining the bonsai plants outside.
+
+Contents
+
+1 Location
+2 Profile
+
+2.1 Appearance
+
+
+3 Quests and Events
+
+3.1 Story Quests
+3.2 World Quests
+3.3 Commissions
+3.4 Events
+
+
+4 Idle Quotes
+5 Dialogue
+6 Event Dialogue
+
+6.1 Unreconciled Stars
+6.2 Moonlight Merriment
+6.3 Receiver of Friends From Afar
+
+
+7 Trivia
+8 Gallery
+9 Other Languages
+10 Change History
+11 References
+
+
+Location[]
+Huai'an's locationAdditional context
+Profile[]
+(To be added.)
+
+Appearance[]
+(To be added.)
+
+Quests and Events[]
+Story QuestsAstrolabos Chapter (Mona)Act I: Beyond This World's StarsTo MondstadtWorld QuestsA Provisional ArrangementCommissionsBusiness in a MarshStairway to WangshuUninvited GuestsEventsUnreconciled Stars (unique introductory dialogue)Act II: The Crisis DeepensLantern RitePart III: Light Upon the SeaFleeting Colors in FlightThe Stars Inscribe the Year's Wishes (cutscene)Receiver of Friends From AfarReceiver of Friends From Afar: Part IReceiver of Friends From Afar: Part IV
+Idle Quotes[]
+
+ ...Head straight on in.
+Media:VO Huai'an 01.ogg "Howdy! Please, head straight on in."
+
+During Moonlight Merriment
+
+ Moongazing...
+Media:VO Huai'an Moonlight Merriment 01.ogg "Would you be interested in some moongazing? I'd recommend the top floor of Wangshu Inn, the scenery there is unmatched."
+
+Dialogue[]
+
+Huai'an: Hello! I am Huai'an, innkeeper of the Wangshu Inn. Are you in need of a meal, or a room for the night?
+ Adventure Challenge
+(Opens Genius Invokation TCG match interface)
+(If the player loses the match)
+
+Huai'an: Phew, that was close. I doubt I'll be this lucky this next time!
+(If the player wins the match)
+
+Huai'an: Well played! You're as good at cards as you are at martial arts!
+ How's business been lately?
+Huai'an: Thanks to yourself and all our dear guests, business has been going reasonably well. We will get by.
+Huai'an: Haha, it's getting livelier again.
+ What can you tell me about the rumors?
+Huai'an: Rumors? What rumors?
+Huai'an: If you mean someone's been bad-mouthing the Wangshu Inn, don't believe a word of what you hear.
+Huai'an: But if you just wanted to get the lowdown about what's been going on recently...
+Huai'an: The Fatui's presence in Liyue Harbor has been growing recently. It looks like trouble is brewing.
+Huai'an: Now it's your turn! Any interesting stories to share with me?
+ Who's this lovely doggie?
+Huai'an: This is Richie! We called him that hoping it would bring us good luck.
+Huai'an: He's a good boy, aren't you Richie? He doesn't make a mess and he's good with the guests.
+ Who's that over there? She doesn't look like she's from Liyue.
+Huai'an: Ah yes, that would be my wife. She moved from Mondstadt to marry me.
+Huai'an: When I was a child we used to sing this nursery rhyme about Liyue women: "Half the girls marry to a winery town, the other half sail to a faraway land."
+Huai'an: Oh, how the tables have turned... I feel quite proud to have broken the mold! Hahaha.
+Huai'an: Goldet is very sharp. She picks up on all these little details about people and figures out their backgrounds.
+ Please excuse me.
+Huai'an: Alright, goodbye. Stop in for a chat anytime! You're always welcome at the Wangshu Inn.
+
+Event Dialogue[]
+Unreconciled Stars[]
+
+Huai'an: Greetings! My name is Huai'an, and I am the innkeeper. I would encourage you to stay here for a few days, but it seems that you have pressing matters to attend to...
+Huai'an: I fear the recent meteorites are bad omens. You will fare better if you steer well clear of them.
+(Dialogue options and responses are the same as normal)
+
+Moonlight Merriment[]
+
+Huai'an: Hello! I am Huai'an, innkeeper of the Wangshu Inn.
+Huai'an: Our inn is a fine vantage spot for moon-viewing. The view from the top floor is excellent, with obstructed views of the moon and of the surrounding scenery alike.
+
+Receiver of Friends From Afar[]
+
+Huai'an: Why, (TravelerTravelerThe player's chosen name for the Traveler), this year's off to a good start, wouldn't you say?
+ Adventure Challenge
+(Opens Genius Invokation TCG match interface)
+ I'll leave you to it.
+Huai'an: See you. Safe travels!
+
+Trivia[]
+Huai'an is a practitioner of martial arts, as are the rest of the staff at the Wangshu Inn.
+Huai'an is mentioned in the description of the following Furnishing: Stone Lion Statue: The Knowing
+Gallery[]
+Fleeting Colors in Flight Event Cutscene Animation- "Age of Flowing Hues" - Genshin Impact
+Other Languages[]
+
+LanguageOfficial NameEnglishHuai'anChinese(Simplified)淮安Huái'ānChinese(Traditional)淮安Huái'ānJapanese淮安Kaian‍[!][!]Assumed readingKorean회안회안淮安Hoe'anSpanishHuai'anFrenchHuai'anRussianХуай АньKhuay An'ThaiHuai'anVietnameseHuai'anGermanHuai’anIndonesianHuai'anPortugueseHuai'anTurkishHuai'anItalianHuai'an
+Change History[]
+Released in Version 1.0[Edit History]Version 3.7
+Added a Genius Invokation TCG Adventure Challenge for Huai'an.
+
+Version 2.4
+
+In Mona's Story Quest, "Astrolabos Chapter," the English voice actor for the NPC Huai'an is changed to David Goldstein.
+
+Version 1.0
+
+Huai'an was released.
+References[]
+
+↑ David Goldstein: EN VA's Website
+
+
+
+
+

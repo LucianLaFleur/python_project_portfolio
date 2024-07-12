@@ -1,0 +1,143 @@
+
+
+
+
+
+Georg
+Winemaker
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Mondstadt
+
+
+Location
+Mondstadt
+
+
+Affil­i­a­tion
+Angel's Share
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Event-Exclusive NPCs 
+
+
+
+
+Georg is an event-exclusive shop NPC that appeared in Of Ballads and Brews.
+
+Contents
+
+1 Shop
+
+1.1 Food and Ingredients
+1.2 Recipes
+
+
+2 Quests and Events
+
+2.1 Events
+
+
+3 Idle Quotes
+4 Dialogue
+
+4.1 Dialogue Set #1
+4.2 Dialogue Set #2
+
+
+5 Other Languages
+6 Change History
+
+
+Shop[]
+Food and Ingredients[]
+ItemCostStockTotalCostRefreshes
+ Fruits of the Festival6,450212,900Daily
+ Sparkling Berry Juice1,50023,000Daily
+ Wolfhook Juice1,50023,000Daily
+ Berry & Mint Burst1,50023,000Daily
+ Apple Cider1,50023,000Daily
+Total cost for all items24,900 
+Recipes[]
+ItemCostStockTotalCost
+ Recipe: Fruits of the Festival5,00015,000
+Total cost for all items5,000
+Quests and Events[]
+EventsOf Ballads and BrewsCharity Event? Securing Funds?Mountain Mixologist
+Idle Quotes[]
+Before starting Sounds From Afar
+
+ Once everything arrives...
+Media:VO Georg Of Ballads and Brews 01.ogg "I have to start setting up as soon as everything arrives..."
+
+During Weinlesefest
+
+ The best wine...
+Media:VO Georg Of Ballads and Brews 02.ogg "Try the best one in town!"
+
+Dialogue[]
+Dialogue Set #1[]
+Available before starting Sounds From Afar.
+
+
+Georg: Are you here to set up a booth, too?
+Georg: The wine market is being held outside of Springvale this time. Not only is the scenery gorgeous, but delivering goods there is pretty convenient.
+Georg: But since we — that is, Angel's Share — have a large booth, it takes quite a long time to get everything set up.
+
+Dialogue Set #2[]
+Available during Sounds From Afar, when the Weinlesefest venue is set up.
+
+
+Georg: Would you like something to drink? Not only are we selling wine, but we are also acquiring all kinds of wine-making ingredients during the festival. You're welcome to come around and discuss anything you're interested in.
+ I'd like to sell wine-making ingredients.
+Georg: Sure, these are the ingredients that we're buying at the moment.
+(Open menu for Selling Ingredients)
+ I'd like to buy some beverages.
+Georg: Here's the menu.
+(Open shop menu)
+ About this booth...
+Georg: Angel's Share participates in Weinlesefest each time, and plenty of folk come all the way here to Mondstadt to sample our limited-edition wines.
+Georg: Back when Master Crepus was around, he'd come to us in person every year to drink a glass...
+Georg: *sigh* I don't know why, but this festival always makes me nostalgic.
+Georg: Diluc... I mean, Master Diluc has had a rough go of it these past few years, but he seems to be in good spirits this year.
+Georg: As long as Master Diluc is well, I'm sure Master Crepus' spirit up above will also be pleased.
+ Bye.
+Georg: See you. Come back any time!
+
+Other Languages[]
+
+LanguageOfficial NameEnglishGeorgChinese(Simplified)格奥尔格Gé'ào'ěrgéChinese(Traditional)格奧爾格Gé'ào'ěrgéJapaneseゲオルグGeoruguKorean게오르크GeoreukeuSpanishGeorgFrenchGeorgRussianГеоргGeorgThaiGeorgVietnameseGeorgGermanGeorgIndonesianGeorgPortugueseGeorg
+Change History[]
+Released in Version 3.1[Create New History]
+
+
+

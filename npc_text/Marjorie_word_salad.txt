@@ -1,0 +1,281 @@
+
+
+
+
+
+Marjorie
+Owner, With Wind Comes Glory
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+								Family
+							
+
+
+
+								Voice Actors
+							
+
+
+
+
+
+Region
+Mondstadt
+
+
+Location
+Mondstadt
+
+
+Affil­i­a­tion
+With Wind Comes Glory
+
+
+Genius Invokation TCG
+Stages
+
+
+
+
+Father
+Cyrus
+
+
+Relative
+Iris (aunt)
+
+
+
+
+English
+Erica Mendez[1]
+
+
+Japanese
+Nakatomi Mana (中臣 真菜)[2]
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Marjorie is a shop NPC in the City of Mondstadt. She is the owner of the Souvenir Shop "With Wind Comes Glory" and can be found standing outside the establishment, indicated by the  icon on the map.
+The shop sells various character and weapon ascension materials, mora, Northlander Billets, and limited-event souvenirs. It is open at all times of the day.
+
+Contents
+
+1 Shop
+2 Location
+3 Profile
+
+3.1 Appearance
+
+
+4 Quests and Events
+
+4.1 Story Quests
+
+4.1.1 Hangout Events
+
+
+4.2 World Quests
+4.3 Commissions
+4.4 Events
+4.5 Hidden Exploration Objectives
+
+
+5 Idle Quotes
+6 Dialogue
+7 Event Dialogue
+
+7.1 Iridescent Arataki Rockin' for Life Tour de Force of Awesomeness
+7.2 Windblume's Breath
+
+
+8 Trivia
+9 Gallery
+
+9.1 Cameos
+
+
+10 Other Languages
+11 Change History
+12 References
+
+
+Shop[]
+ItemCostStockTotalCost
+ Agnidus Agate Sliver10660
+ Varunada Lazurite Sliver10660
+ Vayuda Turquoise Sliver10660
+ Shivada Jade Sliver10660
+ Prithiva Topaz Sliver10660
+ Vajrada Amethyst Sliver10660
+ Tile of Decarabian's Tower4312
+ Boreal Wolf's Milk Tooth4312
+ Fetters of the Dandelion Gladiator4312
+ Memory of Roving Gales2251225
+ Northlander Sword Billet2251225
+ Mora ×1,60016060
+ Mora ×1,6002∞—
+Total cost for all items906+
+With Wind Comes Glory — Special Shop
+ItemCostStockTotalCost
+ Windblume Festival Commemorative Balloon150,0001150,000
+ Windsong Lyre150,0001150,000
+ Wind-Blessed Harpastum150,0001150,000
+Total cost for all items450,000
+Location[]
+Marjorie's locationAdditional context
+Profile[]
+Marjorie is Cyrus' daughter and Iris' niece. She established her shop because she wants to share the stories behind the treasures her father found during his adventures.  Today, she purchases treasures from adventurers and sells them as souvenirs.
+
+Appearance[]
+She has orange hair, orange eyes, a gray shirt, a dark blue skirt, dark leggings, and black heels.
+
+Quests and Events[]
+Story QuestsTempus Fugit Chapter (Lisa)Act I: Troublesome WorkTroublesome WorkHangout EventsBennettAct I: Fantastic VoyageSomething... Other Than Adventure?DionaAct I: The Cat and the CocktailTo Catch a KittenNoelleAct I: Chivalric TrainingThe Art of HospitalityAct II: Knightly Exam PrepSubstitute Acting Grand Master NoelleWorld QuestsCollector of Anemo SigilsCommissionsReturn to Days of WinterA Surprise GiftEventsInvitation of WindblumePart I: Ode to Flower and CloudPart IV: Dream of Wind and FlowersMidsummer Island AdventurePart I: Mysterious Islands: Journey to the UnknownWindblume's BreathWindblume FestivalPart I: A Gathering of OutlandersIridescent Arataki Rockin' for Life Tour de Force of AwesomenessHidden Exploration ObjectivesSelling the Dragonbone Orb
+Idle Quotes[]
+
+ See for yourself!
+Media:VO Marjorie 01.ogg "Come take a look! There'll definitely be something that catches your eye."
+ Weirdo...
+Media:VO Marjorie 02.ogg "Haven't you heard? There's a strange wanderer near Wolvendom."
+
+During the Of Ballads and Brews event
+
+ Strange wanderer...
+Media:VO Marjorie Of Ballads and Brews 01.ogg "Have you heard? The strange wanderer from Wolvendom has shown up in Springvale."
+
+During Windblume's Breath event
+
+ Not of this world...
+Media:VO Marjorie Windblume's Breath 01.ogg "'A flower that is not of this world...' Could that be referring to the real Windblume?"
+
+Dialogue[]
+
+Marjorie: Welcome. Every treasure here is unique, so we don't negotiate on the price, nor do we give refunds.
+ Browse items. (Prior to unlocking shop)
+Marjorie: My, this is unfortunate. The shop's been undergoing renovations recently.
+Marjorie: Drop by next time. Our products will never disappoint!
+ Browse items.
+Marjorie: Take a look around. Let me know if you're interested in any of these.
+(Opens Souvenir Shop)
+ Adventure Challenge
+(Opens Genius Invokation TCG match interface)
+(If the player loses the match)
+
+Marjorie: Well, it looks like you need more practice.
+(If the player wins the match)
+
+Marjorie: Whoa. You're better than the regulars here...
+ I'd like to get some special souvenirs, please.
+Marjorie: Well, then you've come to the right place. Have a look, see if anything takes your fancy!
+(Opens Special Souvenir Shop)
+ I'd like to ask about something.
+Marjorie: Oh? I see you're very interested.
+ Tell me about your wares.
+Marjorie: Which one caught your eyes? Every item here is unique. Every purchase here is a bargain!
+Marjorie: They were all purchased from the adventurers. Each of them represents the passion and courage of these adventurers—
+Marjorie: So don't bother asking for a discount. You can never discount passion and courage!
+ How did you come to own this shop?
+Marjorie: Why did I open this shop, you ask? It's because of my dad.
+Marjorie: He's the Master of the Adventurers' Guild, Mondstadt Branch. He always brings tons of treasures after each adventure.
+Marjorie: He'll then tell me the story behind each of the treasures... He was my hero when I was little.
+Marjorie: I wanted to share these stories with everyone, so I opened this shop—
+Marjorie: But not long after opening, my dad became a bit more doddery and talks to himself all day...
+ Did I hear you talk about Wolvendom?
+Marjorie: Oh, yes. I did see something strange in Wolvendom not long ago.
+Marjorie: From the silhouette, it seems to have been a boy, but he was with a pack of wolves, and they seemed very close, too...
+Marjorie: Perhaps I was mistaken. I was quite a distance away, after all, and it was only a glimpse.
+Marjorie: I mean, how could humans live alongside wolves? How strange...
+ Goodbye.
+Marjorie: Oh! Don't forget to bring some goodies here next time!
+
+Event Dialogue[]
+Iridescent Arataki Rockin' for Life Tour de Force of Awesomeness[]
+
+ We'd like to invite you to attend this music festival.
+Marjorie: A music festival? Didn't we just hold the Windblume Festival?
+Paimon: This one's taking place in Inazuma, Marjorie, and it's a serious musical exchange! If you've got any tunes you like, we can play it for you right here and now.
+Marjorie: Hmm, let me think... Well, I don't remember this one's name, but could you play it if I were to just to hum the tune?
+ Sure, I'll give it a go.
+Marjorie: Oh, that'd be grand!
+(After performing)
+Marjorie: This tune is so gentle, just the way I remember it.
+Marjorie: My dad used to play this one for me on his harmonica while we were on the way back from Springvale.
+Marjorie: He said that this tune represented Springvale itself, and that's where Dad's dad grew up.
+Marjorie: Shame that my grandfather would pass before I was ever born.
+Marjorie: Thanks for playing that music. You know what? I've decided that I should spend a bit more time with my dad. He's an adventurer, so he tends to spend time out in the field.
+Marjorie: So, if you don't mind, I might have to give this festival a pass, but if there's another opportunity, I'll come — and drag him along as well!
+(Talk to Marjorie again, optional)
+ How was that?
+(Same as After performing)
+
+Windblume's Breath[]
+
+Marjorie: "A flower that is not of this world"... Could that be referring to the real Windblume?
+Marjorie: Ah, I'm sorry, I was preoccupied with thinking about something.
+Marjorie: An adorable child bought a storybook from me, but I remember there being a rather strange riddle within its pages.
+Marjorie: It might've been something that someone just accidentally left behind. You don't need to pay any special heed to it.
+(Dialogue options and responses are the same as normal)
+
+Trivia[]
+She shares her Chinese voice actor with Fischl and Albedo.
+She shares her English voice actor with Kamisato Ayaka and Timmie.
+She shares her Japanese voice actor with Xianyun and Timmie.
+Gallery[]
+Pre-release appearance
+Cameos[]
+Collected Miscellany - "Klee Jumpy Dumpty" Genshin ImpactCollected Miscellany - "Mona- Stellaris Phantasm" - Genshin ImpactVersion 1.4 "Invitation of Windblume" Trailer - Genshin Impact"Floral Breeze" - Scenes from Windblume Festival - Genshin Impact
+Other Languages[]
+
+LanguageOfficial NameEnglishMarjorieChinese(Simplified)玛乔丽MǎqiáolìChinese(Traditional)瑪喬麗MǎqiáolìJapaneseマージョリーMaajoriiKorean마죠리MajyoriSpanishMarjorieFrenchMarjorieRussianМарджориMardzhoriThaiMarjorieVietnameseMarjorieGermanMarjorieIndonesianMarjoriePortugueseMarjorieTurkishMarjorieItalianMarjorie
+Change History[]
+Released in Version 1.0[Edit History]Version 3.3
+Added a Genius Invokation TCG Adventure Challenge for Marjorie.
+
+Version 2.2
+
+Special Souvenir Shop was added.
+
+Version 1.0
+
+Marjorie was released.
+References[]
+
+↑ YouTube: EN VA Self Announcement (Timestamp: 37m 15s)
+
+↑ Twitter: JP VA's Bio
+
+
+
+
+

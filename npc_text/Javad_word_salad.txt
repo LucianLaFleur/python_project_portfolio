@@ -1,0 +1,101 @@
+
+
+
+
+
+Javad
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Sumeru
+
+
+Location
+Sumeru
+
+
+Dialogue Reward
+ 1
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Javad is an open-world NPC located in Sumeru City, Sumeru. During daytime, he can be found sitting next to a bed in Bimarstan while at night, he can be found walking right along the path leading to Bimarstan. His dialogue does not change based on time of day.
+Following a certain dialogue branch for the first time gives the player one 3★ Traveling Doctor's Medicine Pot.
+
+Contents
+
+1 Location
+2 Idle Quotes
+3 Thoughts
+4 Dialogue
+5 Other Languages
+6 Change History
+
+
+Location[]
+Javad's location (Daytime)Additional context (Daytime)Javad's location (Nighttime)Additional context (Nighttime)
+Idle Quotes[]
+
+ Incurable...
+Media:VO Javad 01.ogg "*sigh* They say my condition is incurable... In which case, I might as well relax and have some fun."
+
+Thoughts[]
+Javad's thoughts can be accessed by using Nahida's Elemental Skill, All Schemes to Know.
+
+
+Media:VO Javad All Schemes to Know 01.ogg Javad: (If you want to live a long life, you need to enjoy yourself.)
+
+Dialogue[]
+
+Javad: Ouch...
+ Are you hurting badly?
+Javad: It does hurt pretty bad, but I'm used to it.
+Javad: Even the best doctor couldn't do anything with my affliction, so I don't have any high hopes.
+Javad: Compared to griping and living in fear, it's better to be upbeat and charitable.
+ Get some rest.
+Javad: I appreciate your kindness, but life has to go on.
+Javad: I'd trade a few years of my life for not having to drink such bitter medicines every day!
+(Obtain 3★  Traveling Doctor's Medicine Pot)
+ Take care of yourself.
+Javad: Okay.
+
+Other Languages[]
+
+LanguageOfficial NameEnglishJavadChinese(Simplified)贾瓦德JiǎwǎdéChinese(Traditional)賈瓦德JiǎwǎdéJapaneseジャヴァドJavadoKorean자바드JabadeuSpanishJavadFrenchJavadRussianДжавадDzhavadThaiJavadVietnameseJavadGermanJavadIndonesianJavadPortugueseJavadTurkishJavadItalianJavad
+Change History[]
+Released in Version 3.0[Create New History]
+
+
+

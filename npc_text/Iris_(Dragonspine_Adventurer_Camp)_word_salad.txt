@@ -1,0 +1,162 @@
+
+
+
+This article is about the NPC found at Dragonspine Adventurer Camp. For the NPC found at Sumeru City, see Iris (Sumeru City).
+
+
+Iris
+Adventurer
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+								Family
+							
+
+
+
+
+
+Region
+Mondstadt
+
+
+Location
+Mondstadt
+
+
+Affil­i­a­tion
+Adventurers' Guild
+
+
+Dialogue Reward
+ 4
+
+
+
+
+Sibling
+Cyrus
+
+
+Relative
+Marjorie (niece)
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Iris is a member of the Adventurers' Guild. She can be found at the Dragonspine Adventurer Camp in Mondstadt. She is the older sister of Cyrus and aunt to his daughter Marjorie.
+Following a certain dialogue branch for the first time gives the player four Hero's Wit.
+
+Contents
+
+1 Location
+2 Profile
+
+2.1 Appearance
+
+
+3 Quests and Events
+
+3.1 World Quests
+3.2 Commissions
+3.3 Events
+
+
+4 Idle Quotes
+5 Dialogue
+6 Other Languages
+7 Change History
+
+
+Location[]
+Iris' locationAdditional context
+Profile[]
+Iris claims she and Cyrus were once a famous duo of the Adventurers' Guild. The duo however split up when the guild offered the positions of branch masters to the two. She refused the offer and has continued to be a regular adventurer, while Cyrus got promoted to the master of the Mondstadt branch.
+Despite being a sister of a Mondstadter, she looks (and, depending on the language setting, her name sounds) to be a person from Liyue. It is implied that this is due to her parentage.
+
+Appearance[]
+Iris has short black bob hair, green eyes and black square rimmed glasses. She wears the standard female uniform of the Adventurers' Guild. The uniform consists of three layers of clothing (a white short-sleeve dress with a front cut-off, a green cape collar with a ruffled trim and a triangular back flap, and a green panel skirt with slits and a red bow at the back), a short red neckerchief, brown socks and laced high leather boots. The Adventurers' Guild logo, an eight-pointed star, is printed on the right and back flaps of the collar.
+
+Quests and Events[]
+World QuestsIn the MountainsLow-Temperature WarningThe Festering FangWhen the Trail Goes ColdCommissionsEat It While It's HotEventsInvitation of WindblumeAdventurers in Windblume
+Idle Quotes[]
+
+ The situation here...
+Media:VO Iris 01.ogg "The situation here seems trickier than I thought."
+
+Dialogue[]
+
+Iris: Hmm? Is something the matter? Did you come here to see the sights, or did that boy Cyrus send you here on some commission?
+Iris: ...Well, whatever your reasons for being here may be, stay on your guard at all times.
+ Adventure Challenge
+(Opens Genius Invokation TCG match interface)
+(If the player loses the match)
+
+Iris: You're good, but I'm still a little better.
+(If the player wins the match)
+
+Iris: You're quite vigilant, and your tactics are impeccable.
+ So, what can you tell me about Dragonspine...
+Iris: Alfry from the Intelligence Department says that Dragonspine has some sort of connection with the evil dragon that fought Dvalin in the past, though none of that really interests me.
+Iris: As far as I'm concerned, this is just a place worth adventuring in.
+Iris: One thing to note is that this place is more dangerous than any other place in Mondstadt. In this extreme cold, your first priority must be maintaining your body temperature.
+Iris: ...Bravery and foolhardiness are not to be equated lightly here. It is best to proceed with a plan, lest you lose your life in vain.
+ Is this place very dangerous?
+Iris: I would strongly caution against venturing into these parts on a whim.
+Iris: Low temperatures, monsters, rugged terrain... Everything here is far more dangerous than one would imagine.
+Iris: ...Here are some of my notes from adventuring in Dragonspine. Take them with you — I trust that they'll be of some use.
+(Obtain  Hero's Wit ×4)
+ That... boy, Cyrus?
+Iris: Yes, Cyrus is my younger brother.
+Iris: We used to go on adventurers together — you could say that we were quite the famous duo, too.
+Iris: But he's been tied down by all sorts of trivial matters ever since taking up the role of branch master of the Mondstadt Adventurers' Guild. We haven't traveled together in quite some time.
+Iris: I did receive an offer to become a Guild branch master myself, but I refused. As far as I'm concerned, it's much easier to be a regular adventurer.
+ You're... his sister?
+Iris: Yes. We actually look quite alike, don't you think?
+Iris: As for why he looks like he's from Mondstadt while I look like I'm from Liyue... It's a long story. Something to do with our parents.
+Iris: ...Ho, do you mean to ask why I look younger than he does?
+Iris: There's no big secret behind it. It's just a matter of maintenance and attention.
+ See you, then.
+Iris: Stay on your guard and don't get careless. Ad astra abyssosque!
+
+Other Languages[]
+
+LanguageOfficial NameEnglishIrisChinese(Simplified)玉霞YùxiáChinese(Traditional)玉霞YùxiáJapanese玉霞Gyokuka‍[!][!]Assumed readingKorean옥옥玉희Ok-huiSpanishIrisFrenchIrisRussianЮй СяYuy SyaThaiIrisVietnameseIrisGermanIrisIndonesianIrisPortugueseYuxiaTurkishIrisItalianIris
+Change History[]
+Released in Version 1.2[Edit History]Version 4.3
+Added a Genius Invokation TCG Adventure Challenge for Iris (Dragonspine Adventurer Camp).
+
+Version 1.2
+
+Iris (Dragonspine Adventurer Camp) was released.
+
+
+

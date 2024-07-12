@@ -1,0 +1,108 @@
+
+
+
+
+
+Antoine
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Real Name
+Antoine Roger
+
+
+Region
+Fontaine
+
+
+Location
+Fontaine
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Antoine is an open-world NPC located in West Slopes of Mont Automnequi, Belleau Region, Fontaine.
+He is the creator of The Miraculous Antoine Roger Aircraft scattered throughout Fontaine, and one such aircraft can be found near him.
+
+Contents
+
+1 Location
+2 Idle Quotes
+3 Dialogue
+4 Trivia
+5 Other Languages
+6 Change History
+
+
+Location[]
+Antoine's locationAdditional context
+Idle Quotes[]
+
+ Break free...
+Media:VO Antoine 01.ogg "Humanity doesn't have to be land bound, we can break free! It's our destiny!"
+
+Dialogue[]
+
+Antoine: Humans should break free of the shackles of the earth and soar into the skies! Don't you think so too?
+ Err, you are...
+Antoine: Antoine Roger's the name, and clockwork engineering's the game. My specialty? The eternal dream of humanity: flight!
+Antoine: Now, you might be curious, and rightly so, as to how this might be different from Edwin Eastinghouse's research. In which case, let me explain!
+Antoine: I generate propulsion using energy converted from the annihilation reaction between pneuma and ousia, which powers my aircraft's movement!
+Antoine: What do you think? If you'd like to give it a try, hop aboard the Antoine Roger Aircraft and activate it using an annihilation reaction!
+Antoine: It will move along the designated path — accident-free travel guaranteed!
+ Is it really safe?
+Antoine: ...
+Antoine: Absolutely, positively — according to my calculations and simulation experiments, that is!
+ Is this work for the Fontaine Research Institute?
+Antoine: Ah, what are you talking about? The Institute has been rendered a ruin. Its capacity for research has been lost! All that remains is the official agency.
+Antoine: But what cannot be denied is that many independent engineers — of whom I am one — still use kinetic cores designed by Guillotin, the Institute's founder.
+Antoine: The aircraft is merely one step in the realization of my goals.
+Antoine: My final objective is the creation of sufficiently powerful and affordable kinetic cores.
+Antoine: I wish to attain greatness like that of Guillotin and build something that can change Fontaine.
+Antoine: Imagine a nation as I envision it, dear friend. Humans freed from gravity, free to fly through the skies.
+Antoine: Clockwork meka shall perform all the labor we need on the ground.
+Antoine: While we, having primacy over all other beings, shall be freed from such. We shall be free to think, to produce art, to develop culture!
+Antoine: Is this not lovely?
+ See you.
+Antoine: You have a wonderful day!
+
+Trivia[]
+Antoine Roger was the name of Antoine de Saint-Exupéry, the author of The Little Prince and an aviator.
+Other Languages[]
+
+LanguageOfficial NameEnglishAntoineChinese(Simplified)安东ĀndōngChinese(Traditional)安東ĀndōngJapaneseアントーンAntoonKorean앙투안AngtuanSpanishAntonFrenchAntoineRussianАнтуанAntuanThaiAntoineVietnameseAntoineGermanAntoineIndonesianAntoinePortugueseAntoineTurkishAntoineItalianAntoine
+Change History[]
+Released in Version 4.0[Create New History]
+
+
+

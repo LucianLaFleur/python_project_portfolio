@@ -1,0 +1,139 @@
+
+
+
+
+
+Su Er'niang
+Street Food Vendor
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Liyue
+
+
+Location
+Liyue
+
+
+Dialogue Reward
+ 4
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Su Er'niang  (Chinese: 苏二娘 Sū Èr'niáng) is a shop NPC in Liyue Harbor,Liyue. She runs a food stall next to Wanmin Restaurant that sells Mora Meat and Delicious Zhongyuan Chop Suey. Her stock refreshes every day.
+Following a certain dialogue path for the first time gives the player four Zhongyuan Chop Suey.
+
+Contents
+
+1 Shop
+2 Location
+3 Profile
+
+3.1 Appearance
+
+
+4 Idle Quotes
+5 Dialogue
+6 Trivia
+7 Gallery
+
+7.1 Cameos
+
+
+8 Other Languages
+9 Change History
+
+
+Shop[]
+Food stock refreshes every day.
+
+ItemCostStockTotalCostRefreshes
+ Delicious Zhongyuan Chop Suey6,600213,200Daily
+ Mora Meat430104,300Daily
+Total cost for all items17,500 
+Location[]
+Su Er'niang's locationAdditional context
+Profile[]
+(To be added.)
+
+Appearance[]
+(To be added.)
+
+Idle Quotes[]
+
+ ...Chop Suey!
+Media:VO Su Er'niang 01.ogg "Cheap and tasty Chop Suey!"
+
+Dialogue[]
+
+Su Er'niang: There's nothing better than piping hot Zhongyuan Chop Suey!
+Su Er'niang: There's only one fool who would ever say otherwise!
+ I'd like to buy a snack.
+Su Er'niang: Sure thing, we've got hot chop suey fresh from the oven!
+(Opens shop)
+ Chop suey...?
+Su Er'niang: I know, I know, the name sounds a little odd.
+Su Er'niang: But Zhongyuan Chop Suey is a local specialty here in Chihu Rock.
+Su Er'niang: It all starts with rinsed giblets that's chopped into mince meat. Then you add some Tiger Fish gelatin along with some starch and other ingredients, and roll it into meatballs.
+Su Er'niang: After a quick deep fry, they're ready to be enjoyed. Not a hint of fish in that wonderful aroma!
+Su Er'niang: But it sure is troublesome having to explain the name to every outlander that shows up to eat here, whew!
+ ...Giblets?
+Su Er'niang: There's nothing to worry about, everything's washed thoroughly before I use it.
+Su Er'niang: I have some customers who never used to go near any kind of animal innards, but after they'd tried it here they simply fell in love with it!
+Su Er'niang: Go on, have a taste! Free of charge. If you like it, please come back and buy some more!
+(Obtain  Zhongyuan Chop Suey ×4)
+ Who's the fool that disagrees?
+Su Er'niang: Why, that manager of the warehouse, Gou San'er. Who else!?
+Su Er'niang: After working all morning to prepare the food, I saw him looking after the warehouse all by himself. He looked quite tired, so I offered him some...
+Su Er'niang: Once he was finished, I asked him if he liked it. He said that he would have preferred something saltier and spicier!
+Su Er'niang: Some nerve he has talking like that! And to think that I was kind enough to offer him some!
+Su Er'niang: You see? I get all worked up just thinking about it. I'll be sure teach him a thing or two about good cooking!
+ Goodbye.
+Su Er'niang: Bring some of your friends along next time and I might even give you a discount!
+
+Trivia[]
+Su Er'niang is also the name of a fictional character in Water Margin, one of the Four Great Classical Novels of Chinese literature. Nicknamed the 'female Yaksha', she robs and turns customers at the inn she runs with her husband into filling for their meat buns.
+Su Er'niang posted an illegal advertisement at the Chihu Rock Bulletin Board.
+Gallery[]
+Cameos[]
+Collected Miscellany - "Hu Tao- Fragrance in Thaw" - Genshin Impact
+Other Languages[]
+
+LanguageOfficial NameEnglishSu Er'niangChinese(Simplified)苏二娘Sū Èr'niángChinese(Traditional)蘇二娘Sū Èr'niángJapanese蘇二おばSoni-oba‍[!][!]Assumed readingKorean소이모SoimoSpanishSeñora SuFrenchMadame SuRussianМадам СуMadam SuThaiคุณนาย SuKun nai SuVietnameseTô Nhị NươngGermanFrau SuIndonesianSu Er'niangPortugueseSu Er'niangTurkishSu Er'niangItalianSignora Su
+Change History[]
+Released in Version 1.0[Create New History]
+
+
+

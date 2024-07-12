@@ -1,0 +1,144 @@
+
+
+
+
+
+Iosaphat
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+								Family
+							
+
+
+
+
+
+Region
+Sumeru
+
+
+Location
+Sumeru
+
+
+
+
+Father
+Amadhiah
+
+
+Children
+Kavus (son)Sudabeh (daughter)
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Iosaphat is an open-world NPC located in Vimara Village, Sumeru. He is Amadhiah's son and the father of Kavus and Sudabeh. His unnamed wife is a researcher at Sumeru Akademiya and often spends time away from home.
+His dialogue changes after completing World Quest The Children of Vimara Village in Series Aranyaka: Part I - Woodland Encounter.
+
+Contents
+
+1 Location
+2 Quests and Events
+
+2.1 World Quests
+
+
+3 Idle Quotes
+4 Thoughts
+5 Dialogue
+
+5.1 Dialogue Set #1
+5.2 Dialogue Set #2
+
+
+6 Other Languages
+7 Change History
+
+
+Location[]
+Iosaphat's locationAdditional context
+Quests and Events[]
+World QuestsAranyakaPart I: Woodland EncounterThe Children of Vimara Village
+Idle Quotes[]
+Before completing The Children of Vimara Village
+
+ The harvest today...
+Media:VO Iosaphat 01.ogg "Hoho, the haul today is pretty great!"
+
+After completing The Children of Vimara Village
+
+ Wanna try fishing?
+Media:VO Iosaphat 02.ogg "You wanna fish together?"
+
+Thoughts[]
+Iosaphat's thoughts can be accessed by using Nahida's Elemental Skill, All Schemes to Know.
+
+
+Media:VO Iosaphat All Schemes to Know 01.ogg Iosaphat: (I'm gonna use a new type of bait to see if I can fish up new species!)
+
+Dialogue[]
+Dialogue Set #1[]
+Before completing The Children of Vimara Village.
+
+
+Iosaphat: Oh, are you a guest from outside the village? If you haven't tried fishing, I implore you give it a try!
+ I've fished enough.
+Iosaphat: Haha, the look on your face tells me it's either you dislike fishing, or you're too good at it.
+Iosaphat: Anyway, one must have a hobby to whittle away free time. I think fishing is a good way to go about that.
+ Maybe next time.
+Iosaphat: Sure, let's fish together when you have time!
+
+Dialogue Set #2[]
+After completing The Children of Vimara Village.
+
+
+Iosaphat: Isn't this the guest Rana brought? What's up, is something wrong?
+ About the children...
+Iosaphat: Oh, those "tiger cubs"... They want to go into the forest every day, but children should have this sort of energy.
+Iosaphat: Sudabeh and Kavus are just the child-version of me, haha...
+Iosaphat: But I hope they can be more careful. They have been missing for days before. Everyone in the village was worried sick...
+Iosaphat: Oh, if only my wife were here... She would be able to keep all the children in line.
+Iosaphat: But she's a busy researcher. Right now she's in the Akademiya, conducting some sort of research...
+ About Amadhiah...
+Iosaphat: Oh, you mean my father. His eyesight has become worse, but he is still hale and hearty otherwise because he wanted to be an adventurer when he was young.
+ Nothing...
+Iosaphat: Haha, okay then... By the way, come fishing with me when you get the time!
+
+Other Languages[]
+
+LanguageOfficial NameEnglishIosaphatChinese(Simplified)耶沙法特YēshāfǎtèChinese(Traditional)耶沙法特YéshāfǎtèJapaneseイサファットIsafattoKorean요사파트YosapateuSpanishYosafatFrenchIosaphatRussianИосафатIosafatThaiIosaphatVietnameseIosaphatGermanIosaphatIndonesianIosaphatPortugueseIosaphatTurkishIosaphatItalianIosaphat
+Change History[]
+Released in Version 3.0[Create New History]
+
+
+

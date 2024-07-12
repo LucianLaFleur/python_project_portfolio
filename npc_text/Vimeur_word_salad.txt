@@ -1,0 +1,133 @@
+
+
+
+
+
+Vimeur
+Member of the Gardes
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Fontaine
+
+
+Location
+Fontaine
+
+
+Affil­i­a­tions
+GardeMaison Gardiennage 
+
+
+Dialogue Reward
+ 1
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Vimeur is an open-world NPC located in Fountain of Lucine, Erinnyes, Fontaine.
+Following a certain dialogue branch for the first time gives the player  Guide to Equity ×1.
+
+Contents
+
+1 Location
+2 Idle Quotes
+3 Dialogue
+
+3.1 Dialogue Set #1
+3.2 Dialogue Set #2
+
+
+4 Trivia
+
+4.1 Etymology
+
+
+5 Other Languages
+6 Change History
+
+
+Location[]
+Vimeur's locationAdditional context
+Idle Quotes[]
+
+ Honestly...
+Media:VO Vimeur 01.ogg "Honestly, I'm not a big fan of opera."
+
+Dialogue[]
+Dialogue Set #1[]
+Before completing Masquerade of the Guilty.
+
+
+Vimeur: Hello there. Is anything the matter? I can help you with it — so long as it doesn't involve performances.
+ Is there something wrong with performances?
+Vimeur: Not that, per se. I'm just not all that interested in operas, plays, or magic, and the like.
+Vimeur: Speaking of which, I was only sent here because when asked "do you like theater?" I answered "no."
+Vimeur: I suppose they don't want Gardes posted here to be distracted by performances or trials. We do need to focus on work, after all.
+ A trial that looks like a performance?
+Vimeur: It's just a metaphor. Since the Hydro Archon would be present, we usually add some dramatic elements, like those found in plays.
+Vimeur: But the trials themselves are legitimate. Thanks to the Chief Justice and Oratrice's just verdict, every trial will come to a successful conclusion.
+(Obtain  Guide to Equity ×1)
+ I'm fine at the moment, thanks.
+Vimeur: Alright then, see you.
+
+Dialogue Set #2[]
+After completing Masquerade of the Guilty.
+
+
+Vimeur: Hello there. Is anything the matter? I can help you with it — so long as it doesn't involve performances.
+ Is there something wrong with performances?
+Vimeur: Not that, per se. I'm just not all that interested in operas, plays, or magic, and the like.
+Vimeur: Speaking of which, I was only sent here because when asked "Do you like theater?" I answered "No."
+Vimeur: I suppose they don't want Gardes posted here to be distracted by performances or trials. We do need to focus on work, after all.
+Vimeur: They've made big changes in how they publicize the performances and trials as if they're trying to differentiate more between them. That's a good thing, for me at least.
+ I see...
+Vimeur: Um, it seems that Lady Furina has left the Palais Mermonia and no longer involves herself in trials.
+Vimeur: Oops, I guess it's easy to slip into old habits when addressing her... Well, not that it matters. Whatever the case may be, she has dedicated herself to serving Fontaine for hundreds of years.
+Vimeur: And even if she's not present, the trial will proceed without issues. You should have faith in the impartial judgments of our judges.
+(Obtain  Guide to Equity ×1)
+ I'm fine at the moment, thanks.
+Vimeur: Alright then, see you.
+
+Trivia[]
+Etymology[]
+Vimeur may be a reference to Jean-Baptiste Donatien de Vimeur, comte de Rochambeau, a French nobleman and general under the Kingdom of France.
+Other Languages[]
+
+LanguageOfficial NameEnglishVimeurChinese(Simplified)维缪尔Wéimóu'ěrChinese(Traditional)維繆爾Wéimóu'ěrJapaneseヴィメールVimeeruKorean비뫼르BimoereuSpanishVimeurFrenchVimeurRussianВимёVimyoThaiVimeurVietnameseVimeurGermanVimeurIndonesianVimeurPortugueseVimeurTurkishVimeurItalianVimeur
+Change History[]
+Released in Version 4.0[Create New History]
+
+
+

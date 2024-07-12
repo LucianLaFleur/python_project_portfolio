@@ -1,0 +1,147 @@
+
+
+
+
+
+Rafiq
+Ship Engineer
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Sumeru
+
+
+Location
+Sumeru
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Rafiq is an open-world NPC located in Sumeru City, Sumeru. He can be found aboard a docked ship in the harbor during the day, and at night, he is conversing with Qishan about shipbuilding nearby off of the ship .
+
+Contents
+
+1 Location
+2 Profile
+
+2.1 Appearance
+
+
+3 Quests and Events
+
+3.1 Commissions
+
+
+4 Idle Quotes
+5 Thoughts
+6 Dialogue
+
+6.1 Daytime
+6.2 Nighttime
+
+
+7 Other Languages
+8 Change History
+
+
+Location[]
+Rafiq's location (Daytime)Additional contextRafiq's location (Nighttime)Additional context
+Profile[]
+(To be added.)
+
+Appearance[]
+(To be added.)
+
+Quests and Events[]
+CommissionsProblem ConversionProblem Conversion: Loading CapacityProblem Conversion: The Underpinning FactorProblem Conversion: Theory Reliability
+Idle Quotes[]
+
+(Daytime)
+ Requires reinforcing...
+Media:VO Rafiq 01.ogg "Em-hm, some parts of the ship still require reinforcing."
+(Nighttime)
+ Cabin capacity...
+Media:VO Rafiq 02.ogg "Huh, if only we can find a way to increase the cabin capacity."
+
+Thoughts[]
+Rafiq's thoughts can be accessed by using Nahida's Elemental Skill, All Schemes to Know.
+
+
+(Daytime)
+Media:VO Rafiq All Schemes to Know 01.ogg Rafiq: (I wonder if there is any other suitable material for strengthening boat hulls?)
+(Nighttime)
+Media:VO Rafiq All Schemes to Know 02.ogg Rafiq: (Qishan does know her way around boats... Maybe I should chat with her more in the future.)
+
+Dialogue[]
+Daytime[]
+
+Rafiq: Hi, need some commercial ship repairs done?
+(Before completing Where the Boat of Consciousness Lies)
+
+ And you are...
+Rafiq: I'm a ship craftsman. I'm responsible for ship repairs and maintenance.
+Rafiq: When there's no work to do, I'll carry out new research on such questions as how to expand a ship's cabin capacity without compromising the structural integrity of the hull...
+Rafiq: But I'm no researcher after all. I don't have a lot of theoretical knowledge, no means to conduct experiments, and I have no friends who study in Kshahrewar...
+Rafiq: I've submitted a request to the Akasha Terminal, but it seems to believe that I know enough already...
+Rafiq: With regards to my daily work alone, it is indeed enough. But I really want to make some new breakthroughs...
+(After completing Where the Boat of Consciousness Lies)
+
+ You are...
+Rafiq: I'm the ship's craftsman. I'm responsible for ship repairs and maintenance.
+Rafiq: When there's no work to do, I'll carry out new research on such questions as how to expand a ship's cabin capacity without compromising the structural integrity of its hull...
+Rafiq: But in the end, I'm no researcher. I don't have a lot of theoretical knowledge, no means to conduct experiments, and I have no friends who study in Kshahrewar, and now that Akasha has been shut down...
+Rafiq: But Qishan says that this may not be a bad thing. Now that the Akasha Terminals are gone, she says, everyone is free to obtain whatever knowledge they desire.
+Rafiq: And you know what? I think she's got a point there!
+ Not at the moment.
+Rafiq: Okay. Come find me if you do.
+
+Nighttime[]
+
+Rafiq: If only we could find a way to increase the cabin capacity...
+Qishan: Wouldn't that affect the ship's hull though?
+Qishan: At least, simply changing the material wouldn't cut it.
+Rafiq: But based on my calculations, if this cabin here could be opened up to the one next door...
+Rafiq: But you said that wouldn't work, so maybe it really isn't possible...
+Rafiq: Speaking of which, does everyone in Liyue know as much about ships as you do, Qishan?
+Qishan: Ahem... Not necessarily.
+Qishan: After all, we have people working in all sorts of industries in Liyue.
+
+Other Languages[]
+
+LanguageOfficial NameEnglishRafiqChinese(Simplified)拉菲克LāfēikèChinese(Traditional)拉菲克LāfēikèJapaneseラフィクRafikuKorean라픽RapikSpanishRafiqFrenchRafiqRussianРафикRafikThaiRafiqVietnameseRafiqGermanRafiqIndonesianRafiqPortugueseRafiqTurkishRafiqItalianRafiq
+Change History[]
+Released in Version 3.0[Create New History]
+
+
+

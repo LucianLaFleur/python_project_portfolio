@@ -1,0 +1,209 @@
+
+
+
+
+
+Earnshaw
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+								Family
+							
+
+
+
+
+
+Region
+Fontaine
+
+
+Location
+Fontaine
+
+
+
+
+Child
+Agnes
+
+
+Relative
+Lanoire (granddaughter)
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Earnshaw is an open-world NPC located in Court of Fontaine Region, Fontaine. He is Lanoire's grandfather.
+
+Contents
+
+1 Location
+2 Profile
+
+2.1 Appearance
+
+
+3 Quests and Events
+
+3.1 World Quests
+
+
+4 Idle Quotes
+5 Dialogue
+
+5.1 Dialogue Set #1
+5.2 Dialogue Set #2
+5.3 Dialogue Set #3
+5.4 Dialogue Set #4
+
+
+6 Other Languages
+7 Change History
+8 References
+
+
+Location[]
+Earnshaw's locationAdditional context
+Profile[]
+Several years ago, Earnshaw had a falling out with his daughter, Agnes, and she left home. While she did send some letters back to him, Earnshaw had not read any of them at the time, considering her to be stubborn and silly for not returning home.[1] In reality, Agnes did not return home because she was imprisoned in the Fortress of Meropide, where she had a daughter, Lanoire, and later died from a chronic illness.[2] Together with Caterpillar, the Traveler rescued Lanoire from Meropide and brought her to be cared for by her grandfather. He then read the letters, realizing what had happened to her and expressed regret for being too stubborn.[3]
+Earnshaw takes care of Agnes's three dogs: Prince, Princess, and Hero. He enjoys making Tasses Ragout.
+
+Appearance[]
+Earnshaw is a burly muscular man with white hair and red-brown overalls.
+
+Quests and Events[]
+World QuestsUnfinished ComedyHereafter...Happy BirthdayUpon a Flowery Field of Grass
+Idle Quotes[]
+
+(Before finishing Unfinished Comedy)
+ Extra Ragout...
+Media:VO Earnshaw 01.ogg "Hmmm... I think I should make some extra ragout..."
+
+(After finishing Unfinished Comedy, during daytime)
+ Your teeth will rot!
+Media:VO Earnshaw 02.ogg "*gasp*"
+
+(After finishing Unfinished Comedy, during nighttime)
+ *sigh*
+Media:VO Earnshaw 03.ogg "If only I'd read that letter sooner..."
+
+Dialogue[]
+Dialogue Set #1[]
+Before finishing Unfinished Comedy.
+
+
+Earnshaw: How's your trip been, kid? Why not take a load off and put your feet up for a bit?
+ Thanks. How are Hero and the others?
+Earnshaw: Well, they're fine — by which I mean they're always making me worry. What's new?
+Earnshaw: At least they're alive and kicking, which means they're healthy. That's always a good thing.
+ Thanks. Has your daughter returned home?
+Earnshaw: Hmph. Don't even talk about it.
+Earnshaw: That stubborn girl... I don't think she ever intends to come back.
+ Thanks. But I'll be going now.
+Earnshaw: Alright. Now, don't be a hero if you run into any trouble on your journey. Look after yourself.
+
+(Trample the nearby flowers before starting Upon a Flowery Field of Grass the first time)
+You are chased out of the garden by the angry old man...
+???: Naughty children! What are you doing, breaking into my garden for no reason, and trampling my flowers?
+Paimon: S—Sorry! We didn't mean to... Wait, Paimon didn't trample any flowers! Paimon should say, (TravelerTravelerThe player's chosen name for the Traveler) didn't mean to!
+
+(Trample the nearby flowers before starting Upon a Flowery Field of Grass subsequent times)
+You are chased out of the garden by the angry old man...
+???: You...
+Paimon: Aah... (TravelerTravelerThe player's chosen name for the Traveler), you really should be more careful, you know...
+
+(Trample the nearby flowers after completing Upon a Flowery Field of Grass)
+Earnshaw brings you out of the garden...
+Earnshaw: Good child, if you want to play, go somewhere more spacious.
+
+Dialogue Set #2[]
+After finishing Unfinished Comedy, during daytime.
+
+
+Lanoire:  It's too bad Cater isn't here! If he was, he could enjoy this with us too!
+Earnshaw: Even if Cater was here, you still wouldn't be allowed to drink any more Fonta today.
+Lanoire:  Awww... But Cater said, you have to share with others to be even more happy!
+Earnshaw: I'm sure Cater also said not to have too much sugar and to brush your teeth after eating.
+Lanoire:  Oh... He did mention that...
+
+Dialogue Set #3[]
+After finishing Unfinished Comedy, during nighttime.
+
+
+Earnshaw: It's getting late. You should get some rest, too.
+ About Agnes...
+Earnshaw: If she hadn't been so stubborn... *sigh* It's my fault, I was the one who was too stubborn. I'm a stone-hearted old fool.
+Earnshaw: But according to Lanoire, she smiled at everyone, even until the very end...
+ About Lanoire...
+Earnshaw: That child... She's just like her mother — spirited and independent.
+Earnshaw: Children grow up so quickly. What can I say? I just hope that she can live the life she wants. Health and happiness are more important than anything else.
+ Good night.
+Earnshaw: Good night, children. Sweet dreams.
+
+Dialogue Set #4[]
+After finishing Happy Birthday, during daytime.
+
+
+Earnshaw: Phew, that was close...
+ What's wrong?
+Earnshaw: *sigh* I didn't think that there would be any hilichurls that dared to attack people so close to the Court of Fontaine. I don't know what I'd have done if Lanoire was hurt. But thanks to you...
+Earnshaw: I was of a mind to not let her run around again. But if I did that, how different would life here be from life in the Fortress of Meropide?
+Earnshaw: I suppose I'll just keep her company more often, so that if anything happens, she'll at least have some adult to rely on.
+ See you.
+Earnshaw: Bye, take care! Don't have your loved ones worrying about you, alright?
+
+Other Languages[]
+
+LanguageOfficial NameEnglishEarnshawChinese(Simplified)恩肖ĒnxiàoChinese(Traditional)恩肖ĒnxiàoJapaneseアーンショウAanshouKorean언쇼EonsyoSpanishEarnshawFrenchEarnshawRussianЭрншоуErnshouThaiEarnshawVietnameseEarnshawGermanEarnshawIndonesianEarnshawPortugueseEarnshawTurkishEarnshawItalianEarnshaw
+Change History[]
+Released in Version 4.0[Edit History]Version 4.3
+Additional dialogue was added for completing Happy Birthday.
+
+Version 4.1
+
+Additional dialogue was added for completing Unfinished Comedy.
+
+Version 4.0
+
+Earnshaw was released.
+References[]
+
+↑ World Quest: Upon a Flowery Field of Grass
+
+↑ World Quest, Unfinished Comedy: Game of the Rich
+
+↑ World Quest, Unfinished Comedy: Hereafter...
+
+
+
+
+

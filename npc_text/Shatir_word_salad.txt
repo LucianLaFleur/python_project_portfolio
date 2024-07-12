@@ -1,0 +1,130 @@
+
+
+
+
+
+Shatir
+Researcher
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Sumeru
+
+
+Location
+Sumeru
+
+
+Affil­i­a­tion
+Vahumana
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Shatir is an open-world NPC located in The Akademiya, Sumeru City, Sumeru.
+
+Contents
+
+1 Location
+2 Idle Quotes
+3 Thoughts
+4 Dialogue
+5 Event Dialogue
+
+5.1 A Parade of Providence
+
+
+6 Trivia
+7 Other Languages
+8 Change History
+
+
+Location[]
+Shatir's locationAdditional context
+Idle Quotes[]
+
+ What a waste!
+Media:VO Shatir 01.ogg "Those closed-door research projects are a complete waste of money!"
+
+During A Parade of Providence
+
+ Blowing research funds...
+Media:VO Shatir A Parade of Providence 01.ogg "Don't tell me they're blowing all of our new research funds on the Interdarshan Championship..."
+
+Thoughts[]
+Shatir's thoughts can be accessed by using Nahida's Elemental Skill, All Schemes to Know.
+
+Media:VO Shatir All Schemes to Know 01.ogg Shatir: (Hmph, hopefully those earmarked funds were actually spent somewhere useful.)
+Dialogue[]
+
+Shatir: It's not fair. All those secret research projects are sucking up budgets that should be ours.
+ Budget?
+Shatir: Yeah, the budgets.
+Shatir: Sadly, even great things like knowledge can be thwarted by money.
+Shatir: The Akademiya has been spending more and more budgets on classified research over the past years.
+Shatir: Instead of maintaining a financial black hole, they should fund more practical disciplines like archaeology.
+Shatir: With a lack of self-reflection on history, we would get a short end in real life sooner or later.
+Shatir: Next time I apply for funding, I must get Vikram to join me!
+ About Vikram...
+Shatir: Vikram is my friend. He must be your friend, too.
+Shatir: You know how it is. As long as he's there helping with the negotiations, you can always get more funding than you expected.
+ I've only heard the name.
+Shatir: What? You don't know about him? Hm... Well, he has been busy recently with the thing about the next Grand Conservator.
+ It's my first time hearing this name.
+Shatir: What? There are people in Sumeru City who haven't heard of Vikram? Well... Maybe I'm the one who's taking it for granted, since I haven't met anyone who didn't know of him.
+Shatir: He's been in the limelight recently, and is a strong candidate for the next Grand Conservator.
+Shatir: I don't know what other people think, but other than Lisa, who according to legends has become Mondstadt's Grand Conservator, Vikram should be the most suitable candidate.
+Shatir: After all, if the person in charge of the collections is as unreasonable as the one managing the funds, this study will be dead in the water.
+ See you.
+Shatir: Goodbye.
+
+Event Dialogue[]
+A Parade of Providence[]
+
+Shatir: A pity that knowledge so great is constrained by matters of Mora...
+Shatir: And when there are wealthy sponsors, the wealth is not fed into valuable research but rather burned on frivolous competitions...
+Shatir: You mean the sponsor? Hm... I haven't heard much about them, but they should be a good person.
+Shatir: Even merchants who think of nothing but profit should not be judged with prejudice so long as they are willing to place emphasis on the development and preservation of knowledge.
+Shatir: ...Because, when it comes down to it, almost anything is better than someone who wastes money.
+
+Trivia[]
+Although he does not wear his school crest, it can be assumed that Shatir is a researcher of the Vahumana Darshan given his interest for archaeology and concerns about the Akademiya's lack of self-reflection on history.
+Other Languages[]
+
+LanguageOfficial NameEnglishShatirChinese(Simplified)沙蒂尔Shādì'ěrChinese(Traditional)沙蒂爾Shādì'ěrJapaneseシャーティルShaatiruKorean샤티르ShatireuSpanishShatirFrenchShatirRussianШатирShatirThaiShatirVietnameseShatirGermanShatirIndonesianShatirPortugueseShatirTurkishShatirItalianShatir
+Change History[]
+Released in Version 3.0[Create New History]
+
+
+

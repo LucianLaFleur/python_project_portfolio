@@ -1,0 +1,129 @@
+
+
+
+
+
+Damestier
+Fish-Type Clockwork Meka Research Team Director
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Fontaine
+
+
+Location
+Fontaine
+
+
+Dialogue Reward
+ 3
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Damestier is an open-world NPC located in New Fontaine Research Institute, Fontaine.
+Following a certain dialogue branch for the first time gives the player three Flashing Maintenance Mek Bait.
+
+Contents
+
+1 Location
+2 Quests and Events
+
+2.1 World Quests
+
+
+3 Idle Quotes
+4 Dialogue
+5 Other Languages
+6 Change History
+
+
+Location[]
+Damestier's locationAdditional context
+Quests and Events[]
+World QuestsFontaine Research Institute ChroniclesFontaine Research Institute, Stagnating in the Rubble
+Idle Quotes[]
+
+ Mekafish...
+Media:VO Damestier 01.ogg "What are we gonna do about these Mekafish..."
+
+Dialogue[]
+
+Damestier: Oh, I just can't handle these Mekafish...
+ Is there anything of note nearby?
+(If there are Magical Crystal Ore Veins Damesteir knows)
+Damestier: That said ... a fishing hobbyist who enjoys collecting Mekafish did tell me that there seem to be Condessence Crystals and Magic Crystal Ore nearby...
+Damestier: What do you think he meant by saying that? That he might make more Mekafish using those ores? ... Ugh, He'd better not. The Mekafish population shouldn't be allowed to grow, no sir!
+Damestier: Ugh, what to do... Wait, do you need ore? What would you say to going over and grabbing it all first?
+(Rich Ore Reserve marked on the map)
+(If there are no more Magical Crystal Ore Veins Damestier knows)
+Damestier: *cough* Well, if you're not interested in the Mekafish in the water, then I haven't much else I can tell you about
+ Mekafish?
+(Before completing Fontaine Research Institute, Stagnating in the Rubble)
+
+Damestier: The ones swimming about in the water.
+(After completing Fontaine Research Institute, Stagnating in the Rubble)
+
+Damestier: Hello, Honorary Senior Researcher. I mean the ones swimming about in the water.
+Damestier: I was part of the research team that developed them. The original idea was to have them clean up trash and junk from the water.
+Damestier: But a few problems emerged during development, and the Mekafish started treating everything that wasn't the water itself as "junk" and cleaning it all up...
+Damestier: We planned to turn them off remotely and retrieve them, then figure out what the problem was... But we never imagined the Institute would... y'know, explode...
+ I spot some people trying to catch Mekafish...
+Damestier: Oh, that... Technically, that's not fishing, but guiding Mekafish to designated spots with a specialized flashing gadget.
+Damestier: It's intended for the regular maintenance of the Mekafish... I still have some here. You can try it out if you're interested.
+(Obtain  Flashing Maintenance Mek Bait ×3)
+ What happened afterwards?
+Damestier: *sigh* ...Most of my research team perished in the blast. Only a few survived. I was one of the survivors, obviously.
+Damestier: But... Well, none of us survivors really understood the core technology, so we couldn't control the Mekafish. And we couldn't just start the research over again, either...
+Damestier: All we could do was stand around watching the malfunctioning ones swimming out of control, and the broken ones just floating there.
+Damestier: And just then, a bunch of reporters turned up demanding why we weren't doing anything about the chaos...
+Damestier: But I wanted to help! I'd love to retrieve the Mekafish! But... But I don't know how!
+Damestier: Oh, what should I do... Can't anyone help me...
+ See you.
+Damestier Goodbye. I hope no more reporters come to interrogate me. I mean, what am I supposed to do...
+
+Other Languages[]
+
+LanguageOfficial NameEnglishDamestierChinese(Simplified)达梅婕DáméijiéChinese(Traditional)達梅婕DáméijiéJapaneseダームスティアDaamusutiaKorean다메스티에DameseutieSpanishDamestierFrenchDamestierRussianДаместьеDamest'yeThaiDamestierVietnameseDamestierGermanDamestierIndonesianDamestierPortugueseDamestierTurkishDamestierItalianDamestier
+Change History[]
+Released in Version 4.1[Edit History]Version 4.1
+Damestier was released.
+
+Version 4.0
+
+Damestier was mentioned by Linorea in Fontaine Commission At Least the Fish Know and Fontaine Commission Other Duties.
+
+
+
+

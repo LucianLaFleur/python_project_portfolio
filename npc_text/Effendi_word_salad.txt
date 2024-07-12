@@ -1,0 +1,157 @@
+
+
+
+
+
+Effendi
+Researcher
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+								Voice Actors
+							
+
+
+
+
+
+Region
+Sumeru
+
+
+Location
+Sumeru
+
+
+Affil­i­a­tion
+Sumeru Akademiya
+
+
+
+
+English
+Brienne Olvera[1]
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Effendi is the Reputation Advisor for Sumeru. He is located in the Citadel of Regzar, situated in Sumeru City.
+He gives the World Quest Corps of Thirty Recruitment, which unlocks Sumeru's Reputation menu. He can be found under the  icon on the map.
+
+Contents
+
+1 Location
+2 Profile
+
+2.1 Appearance
+
+
+3 Quests and Events
+
+3.1 World Quests
+3.2 Events
+
+
+4 Idle Quotes
+5 Thoughts
+6 Dialogue
+7 Trivia
+
+7.1 Etymology
+
+
+8 Other Languages
+9 Change History
+10 References
+
+
+Location[]
+Effendi's LocationAdditional context
+Profile[]
+Researcher Effendi is a Liaison Officer from the Akademiya assigned to the Citadel of Regzar. He listens to various investigation reports, coordinates the work of the Corps of Thirty, and arranges for staff to help folks from Sumeru solve problems or expel monsters and bandits in the wilderness.Every once in a while, the Corps of Thirty will be otherwise occupied, leading Effendi to seek help from those who are kind and reliable enough to take the residents' commissions and bounty commissions. If you can help solve problems for the citizenry, this will raise your repute and allow you to receive rewards from the Akademiya through Effendi...—Map Description: Akademiya Liaison Officer
+Effendi is a Liaison Officer from the Sumeru Akademiya assigned to the Citadel of Regzar. His work includes listening to various investigation reports, coordinating the work of the Corps of Thirty, and arranging for staff to help folks from Sumeru solve problems or expel monsters and bandits in the wilderness. He does these work by communicating mainly with the Parchamdar, Rukh Shah, and the logistics officer, Yunus.
+
+Appearance[]
+Effendi wears one of the standard uniforms of the Akademiya.
+
+Quests and Events[]
+World QuestsCorps of Thirty RecruitmentEventsSecond BloomingA Librarian's Long and Carefree Vacation
+Idle Quotes[]
+
+ In other words...
+Media:VO Effendi 01.ogg "Hmm... When I hand this work over to the Eremites, I'll have to rephrase the request."
+
+Thoughts[]
+Effendi's thoughts can be accessed by using Nahida's Elemental Skill, All Schemes to Know.
+
+Media:VO Effendi All Schemes to Know 01.ogg Effendi: (Is it just me, or have we been getting more and more Fungi-management commissions lately...?)
+Dialogue[]
+
+(Reputation Level 1–2)
+Effendi: Greetings, welcome to the Citadel of Regzar. Would you be interested in taking on some commissions?
+(Reputation Level 3–6)
+Effendi: It's been a while. Are you here again today for the Residents' Commissions?
+(Reputation Level 7–10)
+Effendi: You're here! Welcome! How have you been? All good? I've got some new commissions here. It'll be great if you'd be willing to help.
+ How's my reputation in Sumeru City?
+(Reputation Level 1-2)
+Effendi: If you're willing to help complete some commissions, I can pay you.
+(Reputation Level 3-6)
+Effendi: On behalf of the Akademiya, I thank you for your contribution to Sumeru City.
+(Reputation Level 7-10)
+Effendi: Everyone speaks highly of your work, and even the most taciturn grizzled mercenary nodded in agreement. I hope you work with us for a long time.
+(Opens Sumeru Reputation menu)
+ Tell me about yourself...
+Effendi: I am the liaison officer sent by the Akademiya to the Citadel of Regzar.
+Effendi: The Citadel of Regzar is the gathering place of the Corps of Thirty. Many of the Eremites come and go every day.
+Effendi: But I mainly communicate with the Parchamdar and the logistics officer.
+Effendi: The Parchamdar used to be a researcher, and the logistics officer is friendly too. Overall, everyone is communicative and it's made my job much easier.
+Effendi: But the people of the Corps of Thirty are still too occupied by the commissions from the Akademiya, so I will post part of the commissions to the public.
+Effendi: The logistics officer, Yunus, is also greatly in favor of this practice, and is willing to allocate a portion of their military supplies as payment.
+ See you.
+Effendi: Farewell.
+
+Trivia[]
+Etymology[]
+"Effendi" is a Turkish title of courtesy and respect, comparable to "sir" in English, usually spoken after the person's given name. It is generally applied to people who are of high station or education.
+Other Languages[]
+
+LanguageOfficial NameEnglishEffendiChinese(Simplified)阿芬迪ĀfēndíChinese(Traditional)阿芬迪ĀfēndíJapaneseエフェンディEfendiKorean에펜디EpendiSpanishEfendiFrenchEffendiRussianЭффендиEffendiThaiEffendiVietnameseEffendiGermanEffendiIndonesianEffendiPortugueseEffendiTurkishEffendiItalianEffendi
+Change History[]
+Released in Version 3.0[Create New History]
+References[]
+
+↑ Twitter: EN VA Self Announcement (Archived)
+
+
+
+
+

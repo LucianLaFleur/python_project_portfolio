@@ -1,0 +1,158 @@
+
+
+
+
+
+Arapratap
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Sumeru
+
+
+Location
+Sumeru
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCsAranara 
+
+
+
+
+Arapratap is an open-world NPC simultaneously located in three different locations Sumeru. It is part of the Aranara. Unlike others, Arapratap does not disappear and relocate to Vanarana (Subarea) after completing its challenge. However, it will despawn if a player logs out and logs back in
+
+Contents
+
+1 Location
+2 Dialogue
+
+2.1 Avidya Forest
+2.2 Ashavan Realm
+2.3 Vissudha Field
+
+
+3 Other Languages
+4 Change History
+
+
+Location[]
+Arapratap's location (Avidya Forest)Additional context (Avidya Forest)Arapratap's location (Ashavan Realm)Additional context (Ashavan Realm)Arapratap's location (Vissudha Field)Additional context (Vissudha Field)
+Dialogue[]
+Avidya Forest[]
+
+(Talk to Arapratap)
+Arapratap: It's Nara! Arapratap wants to play a game with you. Will you play with Arapratap, good Nara?
+ Sure. What are we playing?
+Arapratap: Arapratap will show nice stuff to Nara, but only for a second, then Arapratap will hide the nice stuff.
+Arapratap: If Nara remembers, Nara will know how much nice stuff Arapratap thinks.
+Arapratap: Are you ready, Nara?
+ Let's do this.
+ Next time for sure.
+Arapratap: Arapratap can wait.
+(If the player breaks any of the crates)
+Arapratap: Whoa, it was broken... But that doesn't change the number Arapratap has in mind. Think carefully, Nara.
+(Talk to Arapratap after the countdown)
+Arapratap: Nara Friend, Arapratap is thinking of a wooden box, but not the big kind! The small kind. How many did Nara see?
+ One.
+Arapratap: Stupid Nara got it wrong.
+Arapratap: Arapratap's got many "chances" to give to Nara. Come back if you're up to the challenge!
+ Two.
+Arapratap: Golden Nara never forgets!
+Arapratap: Golden Nara is great! Arapratap has a nice gift for great Nara!
+ Three.
+Arapratap: Stupid Nara got it wrong.
+Arapratap: Arapratap's got many "chances" to give to Nara. Come back if you're up to the challenge!
+(Talk to Arapratap after successfully completing the challenge)
+Arapratap: One, two, three, three, two, one?
+
+Ashavan Realm[]
+
+(Talk to Arapratap)
+Arapratap: Oh yeah! It's the Golden Nara! Come and play games with Arapratap!
+ Sure, what are we playing?
+Arapratap: Arapratap prepared a lot of "good stuff," and will spread them all out. Nara should look and count carefully.
+Arapratap: After a while, Arapratap will take the "good stuff" away, and Golden Nara is going to tell Arapratap the number of the "good stuff" that Arapratap has in mind.
+Arapratap: Are you ready, good Nara?
+ Let's do this.
+ Next time for sure.
+Arapratap: Arapratap will wait patiently...
+(If the player activates any of the Boom Blossoms)
+Arapratap: It exploded... That was close! But it doesn't change the number Arapratap has in mind. Think carefully, Nara.
+(Talk to Arapratap after the countdown)
+Arapratap: Nara friend, what Arapratap has in mind is a purple, crisp and numbing... dangerous melon! How many did Nara see?
+ Three.
+Arapratap: Golden Nara never forgets!
+Arapratap: Golden Nara is great! Arapratap has a nice gift for great Nara!
+ Two.
+Arapratap: Stupid Nara got it wrong.
+Arapratap: Arapratap's got many "chances" to give to Nara. Come back if you're up to the challenge!
+ One.
+Arapratap: Stupid Nara got it wrong.
+Arapratap: Arapratap's got many "chances" to give to Nara. Come back if you're up to the challenge!
+(Talk to Arapratap after successfully completing the challenge)
+Arapratap: Nara can count, and I can count too. Nara is strong... So I'm strong too!
+
+Vissudha Field[]
+
+(Talk to Arapratap)
+Arapratap: Nara Friend, come play a game with Arapratap!
+ Sure. What are we playing?
+Arapratap: Arapratap collected a lot of 'thingy' to show Nara Friend. But Arapratap will hide 'thingy' after a moment...
+Arapratap: If Nara's got a good memory, Nara will know how many of the 'thingy' Arapratap showed, right?
+Arapratap: Are you ready, Nara?
+ Let's do this.
+ Next time for sure.
+Arapratap: Arapratap will wait patiently!
+(If the player collects any of the orbs)
+Arapratap: Uh... It's gone. But that doesn't change the number Arapratap has in mind. Think carefully, Nara.
+(Talk to Arapratap after the countdown)
+Arapratap: Nara Friend, I'm thinking of shiny Dendro! How many did you see?
+ One.
+Arapratap: Stupid Nara got it wrong.
+Arapratap: Arapratap's got many "chances" to give to Nara. Come back if you're up to the challenge!
+ Two.
+Arapratap: Stupid Nara got it wrong.
+Arapratap: Arapratap's got many "chances" to give to Nara. Come back if you're up to the challenge!
+ Three.
+Arapratap: Golden Nara never forgets!
+Arapratap: Golden Nara is great! Arapratap has a nice gift for great Nara!
+(Talk to Arapratap after successfully completing the challenge)
+Arapratap: Nara picked up one shiny. Nara picked up two shinies. How many shinies does Nara have?
+Arapratap: ...None! How shocking!
+
+Other Languages[]
+
+LanguageOfficial NameEnglishArapratapChinese(Simplified)兰钵答LánbōdáChinese(Traditional)蘭缽答LánbōdáJapaneseアランボタAranbotaKorean아란푸라탑AranpuratapSpanishArapratapFrenchArapratapRussianАрапратапArapratapThaiArapratapVietnameseArapratapGermanArapratapIndonesianArapratapPortugueseArapratapTurkishArapratapItalianArapratap
+Change History[]
+Released in Version 3.0[Create New History]
+
+
+

@@ -1,0 +1,145 @@
+
+
+
+
+
+Butrus
+Fishmonger
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+								Voice Actors
+							
+
+
+
+
+
+Region
+Sumeru
+
+
+Location
+Sumeru
+
+
+Dialogue Reward
+ 4
+
+
+
+
+English
+Kevin Andrew Rivera[1]
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Butrus is a shop NPC in Port Ormos, Sumeru. He sells Cooking Ingredients in exchange for Mora. His shop restocks every day.
+Following a certain dialogue branch for the first time gives the player four Fish.
+He can be found near Ouo and Sisi.
+
+Contents
+
+1 Shop
+2 Location
+3 Quests and Events
+
+3.1 Commissions
+
+
+4 Idle Quotes
+5 Thoughts
+6 Dialogue
+7 Other Languages
+8 Change History
+9 References
+
+
+Shop[]
+ItemCostStockTotalCostRefreshes
+ Fish240102,400Daily
+ Crab240102,400Daily
+ Shrimp Meat12010012,000Daily
+Total cost for all items16,800 
+Location[]
+Butrus's locationAdditional context
+Quests and Events[]
+CommissionsPrice Comparison
+Idle Quotes[]
+
+ Ask the cats...
+Media:VO Butrus 01.ogg "Just ask the cats how fresh my fish is!"
+
+Thoughts[]
+Butrus's thoughts can be accessed by using Nahida's Elemental Skill, All Schemes to Know.
+
+
+Media:VO Butrus All Schemes to Know 01.ogg Butrus: (Cats are so cute.)
+
+Dialogue[]
+
+Butrus: My fish have good meat! Kittens eat them and meow in happiness!
+ Have some fish.
+Butrus: Take your pick! All fresh!
+(Opens Shop menu)
+ Your fish...
+Butrus: Caught and sold on the same day! Fresh fish! Pay purely for the weight, no tricks!
+Butrus: Look at these fish and shrimp! All fat and fresh! Press on them and they bounce back, probably with enough force to push you into the sea!
+Butrus: I'd have gotten a full scholarship if the Akademiya opened a fishing school. If they graded on freshness, I'd be awarded all of the degrees.
+ Sounds a bit exaggerated.
+Butrus: Exaggerated? No, no, no!
+Butrus: I've been selling fish here my whole life. If I were a guy who exaggerates, I would've been shunned by customers and lost my business long ago.
+Butrus: I know you won't believe me without trying it. Here, take some and have a taste! It's on the house!
+Butrus: If you think they're good, then come back often.
+(Obtain  Fish ×4)
+ Your cats...
+Butrus: Uh, are they my cats? I don't think so...
+Butrus: I don't know where they came from either. Since I fed one, they've been coming to me one after another, bringing their families with them to have meals.
+Butrus: I can't help it either. The kittens are too cute, and I just can't stop my hand from feeding them fish!
+Butrus: There are even cats that came running from the inn owner's home, and they wouldn't leave. There, those two on the side.
+Butrus: But you know, they can't be blamed. I heard that their owner is going senile, and the cats are tired of hearing his rambling.
+ See you.
+Butrus: Goodbye, please come again!
+
+Other Languages[]
+
+LanguageOfficial NameEnglishButrusChinese(Simplified)布特罗斯BùtèluósīChinese(Traditional)布特羅斯BùtèluósīJapaneseブトルスButorusuKorean부트러스ButeureoseuSpanishButrusFrenchButrusRussianБутрусButrusThaiButrusVietnameseButrusGermanButrusIndonesianButrusPortugueseButrusTurkishButrusItalianButrus
+Change History[]
+Released in Version 3.0[Create New History]
+References[]
+
+↑ Twitter: EN VA Self Announcement (Archived)
+
+
+
+
+

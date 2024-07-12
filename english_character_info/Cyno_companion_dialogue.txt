@@ -1,0 +1,209 @@
+
+
+
+OverviewLoreVoice-OversOutfitsCompanionGallery
+
+
+Cyno
+
+
+
+
+
+
+
+
+
+
+Category
+Companion Companion
+
+
+Quality
+
+
+
+
+
+Adeptal Energy
+Load 
+
+
+300
+1200 
+
+
+
+
+Adeptal Energy per Load 
+
+
+0.25
+
+
+
+
+
+
+
+
+
+								Description
+							
+
+
+
+
+
+Character In-Residence
+
+
+
+
+
+Cyno can be invited as a Companion into the player's Serenitea Pot after obtaining him and completing the World Quest Idle Teapot Talk.
+
+Contents
+
+1 Favorite Furnishing Sets
+2 Idle Quotes
+3 Dialogue
+4 Special Dialogue
+
+4.1 Deep in the Quiet Forest
+4.2 Of Settled Thoughts
+
+
+5 Change History
+6 Navigation
+
+
+Favorite Furnishing Sets[]
+If a character's favorite furnishing set is placed in the same realm as the character for the first time, the character will automatically teleport to the furnishing set. Interacting with the character will initiate a special dialogue, after which the character will teleport back to their original position.
+
+Cyno has 2 Favorite Furnishing Sets:Furnishing SetRewardsOf Settled Thoughts 20 2 20,000Deep in the Quiet Forest 20 1 20,000
+Idle Quotes[]
+
+ Genius Invokation TCG...
+ Justice...
+ Rules...
+ Unfunny jokes...
+ Weighing...
+(When the player is nearby)
+ Take some rest...
+ You're back...
+
+Dialogue[]
+
+Media:vo cyno mimitomo hello 01.ogg Cyno: Ah, you're back.
+Media:vo cyno mimitomo hello 02.ogg Cyno: Be sure to get ample rest before your next adventure.
+ How do you like it here?
+Media:vo cyno mimitomo friendship1 01.ogg Cyno: At first, I couldn't get used to how quiet it is here.
+Media:vo cyno mimitomo friendship1 02.ogg Cyno: There's no howling desert wind or sound of bugs skittering in the rainforest.
+Media:vo cyno mimitomo friendship1 03.ogg Cyno: When you're trying to get to sleep, it's so quiet and peaceful that you almost start wondering whether it's even real... which makes it hard to relax.
+ Are you more used to it now?
+Media:vo cyno mimitomo friendship1 04.ogg Cyno: Yes. I just tell myself that I'm on a vacation and that I shouldn't worry about what's going on anywhere else.
+Media:vo cyno mimitomo friendship1 05.ogg Cyno: Though, of course, before bed every night I still reflect on my previous battles and review what I've learned.
+ Have you managed to get any rest?
+Media:vo cyno mimitomo friendship1 06.ogg Cyno: Don't worry, I feel much more relaxed now than I was at the Akademiya.
+Media:vo cyno mimitomo friendship1 07.ogg Cyno: The point of rest is to relieve the stress and fatigue you've built up, it doesn't mean completely changing who you are.
+Media:vo cyno mimitomo friendship1 08.ogg Cyno: I really like it here. It's a place where I can finally enjoy a moment of peace. I'll use this time to revitalize myself and prepare for the next time I need to administer judgment.
+(Unlocks at Friendship Level 4)
+ Want to have a chat?
+Media:vo cyno mimitomo friendship2 01.ogg Cyno: Sure, I'll even tell you a couple of jokes.
+Media:vo cyno mimitomo friendship2 02.ogg Cyno: Why did the Sumpter Beast cross the road while burdened with heavy goods? To get to Sumeru's "Most Sumptuous Sumpter Beast" bodybuilding competition.
+Media:vo cyno mimitomo friendship2 03.ogg Cyno: Well, what do you think?
+ Huh?
+ Is that all?
+Media:vo cyno mimitomo friendship2 04.ogg Cyno: Here's another one. Which creature has the worst personal hygiene in all of Teyvat? Cryo Slimes. Why? Because they always bounce on top of the water, and never go in for a bath.
+ ???
+Media:vo cyno mimitomo friendship2 05.ogg Cyno: You don't find that funny at all?
+ Uhh... it's very forced...
+ Maybe a little...
+Media:vo cyno mimitomo friendship2 06.ogg Cyno: Okay. Well, never mind...
+Media:vo cyno mimitomo friendship2 07.ogg Cyno: It's really hard for me to tell what jokes someone might find funny.
+ Why are you so eager to tell jokes?
+Media:vo cyno mimitomo friendship2 08.ogg Cyno: It's because I always have this ultra-serious look on my face, and it stresses out the other matra.
+Media:vo cyno mimitomo friendship2 09.ogg Cyno: One time, it hit me that I should try telling a couple of jokes. So I gave it my best shot, and the room fell completely silent, with everyone just staring at me. But then, after a few moments, someone started laughing and said "you call that a joke!?"
+Media:vo cyno mimitomo friendship2 10.ogg Cyno: Then everyone else started laughing. Even though they were all saying that my jokes weren't funny, I could tell that I had lightened the mood.
+Media:vo cyno mimitomo friendship2 11.ogg Cyno: So I thought, even if the jokes aren't funny, at least telling them can still help the others around me feel more at ease.
+Media:vo cyno mimitomo friendship2 12.ogg Cyno: Besides... if I tell lots of jokes, not ALL of them can be bad, surely.
+Media:vo cyno mimitomo friendship2 13.ogg Cyno: I just need to stick to it, and I know that one of them will land... someday.
+(Unlocks at Friendship Level 7)
+ Is there anything you'd like to do?
+Media:vo cyno mimitomo friendship3 01.ogg Cyno: Now that I think about it, it's been all of five days since I last played a game of Genius Invokation TCG.
+ Does that feel like a long time to you?
+Media:vo cyno mimitomo friendship3 02.ogg Cyno: No, not really. The longest I've ever gone without playing was 20 days.
+Media:vo cyno mimitomo friendship3 03.ogg Cyno: I was on a dangerous mission and didn't have any time to sit down and play.
+Media:vo cyno mimitomo friendship3 04.ogg Cyno: By the time I got back, I realized that my deck was already out of the meta, and I kept losing game after game. Eventually, I made some adjustments and finally started turning things around.
+Media:vo cyno mimitomo friendship3 05.ogg Cyno: You have to keep playing if you want to maintain a good win rate. Otherwise, you'll be caught off guard by new and upcoming strategies.
+ You really like Genius Invokation TCG, don't you?
+Media:vo cyno mimitomo friendship3 06.ogg Cyno: Yes. Is that strange? You have a funny look on your face.
+Media:vo cyno mimitomo friendship3 07.ogg Cyno: The first time I played, I just saw it as a game to pass the time.
+Media:vo cyno mimitomo friendship3 08.ogg Cyno: As a matra, your heart is like a bowstring... It cannot become too slack, but it cannot be too taut, either. Otherwise, it could snap without warning at any time.
+Media:vo cyno mimitomo friendship3 09.ogg Cyno: So once I started playing Genius Invokation TCG, I wanted to use it as a way to take my mind off other things. You know, as a way to help me relax.
+Media:vo cyno mimitomo friendship3 10.ogg Cyno: ...But now, it is much more than just a game to me.
+ What changed?
+ I think I understand what you mean.
+Media:vo cyno mimitomo friendship3 11.ogg Cyno: In my previous work, I punished many criminals who had broken the rules and had to listen to their constant complaining.
+Media:vo cyno mimitomo friendship3 12.ogg Cyno: In most cases, I couldn't understand them, and they couldn't seem to understand me, either.
+Media:vo cyno mimitomo friendship3 13.ogg Cyno: And it's not just criminals. Even with your friends, there are bound to be some topics where you are unable to understand one another.
+Media:vo cyno mimitomo friendship3 14.ogg Cyno: But Genius Invokation is different. I can always clearly discern what my opponent is thinking.
+Media:vo cyno mimitomo friendship3 15.ogg Cyno: Their hunger for victory, their confidence in the deck, their passion for the game... Many can hide their strategy, but few can conceal these emotions.
+ I can relate to those feelings, too.
+Media:vo cyno mimitomo friendship3 16.ogg Cyno: Really? Are you up for a game then?
+ Are you kidding? I thought you'd never ask!
+ Please go easy on me...
+Media:vo cyno mimitomo friendship3 17.ogg Cyno: I never go easy on anyone. Just play your best.
+Media:vo cyno mimitomo friendship3 18.ogg Cyno: I'll help walk you through the game once we're finished.
+(Between 6:00 and 19:00)
+ Good morning, Cyno.
+Media:vo cyno mimitomo morning 01.ogg Cyno: Good morning, you look like you're ready and raring to go.
+Media:vo cyno mimitomo morning 02.ogg Cyno: Any plans today? If there's anything you need help with, just let me know.
+(Between 19:00 and 6:00)
+ Good night, Cyno.
+Media:vo cyno mimitomo night 01.ogg Cyno: Sleep well. Everything else can wait until tomorrow.
+Media:vo cyno mimitomo night 02.ogg Cyno: Just calm your mind and breathe steadily, you'll fall right asleep. I'll be sure to wake you up in the morning. Goodnight.
+
+Special Dialogue[]
+When a character is invited to or invites themselves to their favorite set for the first time, the character will provide a reward. They will provide a reward for each of their favorite sets.
+Inviting them to the furnishing set again will replay the dialogue, but no further reward will be given.
+
+Deep in the Quiet Forest[]
+
+Media:vo mimitomo xm cyno forestvillage 01.ogg Cyno: Resting here brings back a lot of memories.
+Media:vo mimitomo xm cyno forestvillage 02.ogg Cyno: I travel a lot for work. Sometimes, I have to camp or lodge in a village.
+Media:vo mimitomo xm cyno forestvillage 03.ogg Cyno: It was an unfamiliar experience at first, but I got used to it. ...Looking back now, I can hardly believe how long I've been with the matra.
+
+Of Settled Thoughts[]
+
+Media:vo mimitomo xm cyno library 01.ogg Cyno: Good. Each book is neatly in its place.
+Media:vo mimitomo xm cyno library 02.ogg Cyno: The spines are facing out, books with a similar theme are grouped together, and there's not a single banned volume to be seen.
+Media:vo mimitomo xm cyno library 03.ogg Cyno: Wait, are some of them crooked? I must correct this at once...
+
+Change History[]
+Released in Version 3.1[Edit History]Version 3.2
+The following Furnishing Sets were assigned as favorite for this character:
+Deep in the Quiet Forest
+Of Settled Thoughts
+
+Version 3.1
+
+Cyno was released as Companion.
+Navigation[]
+  Living Beings
+ Companions5★
+
+4★
+
+Paimon
+
+
+
+ AnimalsCreatures
+
+
+
+
+
+

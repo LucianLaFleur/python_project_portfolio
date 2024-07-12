@@ -1,0 +1,109 @@
+
+
+
+
+
+Hugues
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Fontaine
+
+
+Location
+Fontaine
+
+
+Affil­i­a­tion
+Fontaine Research Institute (formerly)
+
+
+Dialogue Reward
+ 4
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Hugues is an open-world NPC located in Court of Fontaine: Fleuve Cendre.
+Following a certain dialogue branch for the first time gives the player four Condessence Crystals.
+
+Contents
+
+1 Location
+2 Profile
+3 Idle Quotes
+4 Dialogue
+5 Other Languages
+6 Change History
+
+
+Location[]
+Hugues' locationAdditional context
+Profile[]
+Hugues was a former staff member at the Fontaine Research Institute who was sent to the Fortress of Meropide to serve jailtime for the crime of modifying a Gardemek.
+
+Idle Quotes[]
+
+ Need those parts...
+Media:VO Hugues 01.ogg "...I really need those parts. What's taking him so long?"
+
+Dialogue[]
+
+Hugues: I wonder if Lucelle's doing alright...
+ Lucelle?
+Hugues: *sigh* An old companion of mine. It could have lived free after I modified it, but then they took it away from me.
+Hugues: There was no time to take anything back, because they then gave me a new workplace — the Fortress of Meropide.
+Hugues: By the way, before Lucelle belonged to me, it was a Gardemek with the Gardes.
+Hugues: It didn't resist when I modified it, so I took that as consent.
+ And that's how you landed a new job in jail.
+Hugues: ...Yes.
+Hugues: Even so, this job has some perks over my previous work at the Fontaine Research Institute.
+Hugues: My time in Meropide was more conducive to creativity, to be honest, given the lack of complicated processes and boring summary meetings.
+Hugues: Even my daily meals were delivered by clockwork machines. Such an enviable situation! A shame, though, that the canteen manager refused to sell me that machine.
+ Alright, such an innovative spirit should be praised.
+Hugues: I doubt this is a compliment.
+Hugues: No matter what, such an innovative spirit deserves praise.
+Hugues: I have some materials of various sorts, please take some. See if you can come up with some innovative ideas.
+(Obtain  Condessence Crystal ×4)
+ Not too sure about what you're saying here.
+Hugues: No problem, just take it as me talking to myself.
+
+Other Languages[]
+
+LanguageOfficial NameEnglishHuguesChinese(Simplified)于格YúgéChinese(Traditional)于格YúgéJapaneseユーグYuugeKorean위그WigeuSpanishHuguesFrenchHuguesRussianХьюгоKh'yugoThaiHuguesVietnameseHuguesGermanHuguesIndonesianHuguesPortugueseHuguesTurkishHuguesItalianHugues
+Change History[]
+Released in Version 4.0[Create New History]
+
+
+

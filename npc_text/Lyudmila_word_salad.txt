@@ -1,0 +1,343 @@
+
+
+
+
+
+Lyudmila
+Fatui Diplomat
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Snezhnaya
+
+
+Location
+Mondstadt
+
+
+Affil­i­a­tion
+Fatui
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Lyudmila (Russian: Людмила Lyudmila) is a member of the Fatui. After completing The Outlander Who Caught the Wind, she and fellow Fatui diplomat Mikhail can be found next to the Teleport Waypoint above the fountain plaza.
+She is always seen talking to Mikhail, and their dialogue changes to reflect the player's progress in the Archon Quests.
+
+Contents
+
+1 Location
+2 Profile
+
+2.1 Appearance
+
+
+3 Idle Quotes
+4 Dialogue
+
+4.1 Dialogue Set #1
+4.2 Dialogue Set #2
+4.3 Dialogue Set #3
+4.4 Dialogue Set #4
+4.5 Dialogue Set #5
+4.6 Dialogue Set #6
+4.7 Dialogue Set #7
+4.8 Dialogue Set #8
+4.9 Dialogue Set #9
+4.10 Dialogue Set #10
+4.11 Dialogue Set #11
+4.12 Dialogue Set #12
+
+
+5 Other Languages
+6 Change History
+
+
+Location[]
+Lyudmila's locationAdditional context
+Profile[]
+Lyudmila and Mikhail discuss the events going on in the Archon Quests, with their dialogue changing as major events occur.
+
+Appearance[]
+Lyudmila has a pale pink hair and wears the standard female Fatui uniform.
+
+Idle Quotes[]
+
+ ...The Stormterror crisis?
+Media:VO Lyudmila 01.ogg "Ugh, the Stormterror crisis? Did something terrible happen again?"
+
+After completing The Outlander Who Caught the Wind
+
+ ...One of our strongholds?
+Media:VO Lyudmila 02.ogg "One of our strongholds? Did something horrible happen again?"
+
+After completing A Long Shot
+
+ ...Stormterror?
+Media:VO Lyudmila 03.ogg "Ugh, Stormterror? Did something bad happen again?"
+
+After completing Rite of Descension
+
+ ...Liyue's archon?
+Media:VO Lyudmila 04.ogg "Liyue's archon? Did something awful happen again?"
+
+After completing The Fond Farewell
+
+ ...The Rite of Parting?
+Media:VO Lyudmila 05.ogg "The Rite of Parting? Did something terrible happen again?"
+
+After completing Setting Sail
+
+ Vision Hunt Decree?
+Media:VO Lyudmila 06.ogg "The Vision Hunt Decree? Did something bad happen again?"
+
+After completing Transient Dreams
+
+ What now?
+Media:VO Lyudmila 07.ogg "The Sakoku Decree? Ugh, did something disastrous happen again?"
+
+After completing At Tunnel's End, Light
+
+ ...The Chasm?
+Media:VO Lyudmila 08.ogg "The Chasm? Did something dreadful happen again?"
+
+After completing A Toast to Victory
+
+ The Akademiya?
+Media:VO Lyudmila 09.ogg "The Akademiya? Ugh, what happened this time?"
+
+After completing Finale
+
+ The prophecy?
+Media:VO Lyudmila 10.ogg "The prophecy in Fontaine? Oh no what's happened now?"
+
+Dialogue[]
+This page is missing dialogue.Can you help out? Click here to add more.Include dialogue variations for the Prologue acts
+Dialogue Set #1[]
+
+(After completing The Outlander Who Caught the Wind)
+Mikhail: Hey, did you hear what the informants have been saying? Apparently, the Knights of Favonius weren't working alone when they resolved the Stormterror crisis. They had other people working in the shadows!
+Lyudmila: So you're telling me there's a third faction we have to worry about now? The Fatui, the Knights of Favonius, and now these guys? This is not good news...
+Mikhail: I think there's an opportunity here. The people of Mondstadt don't currently know who these mysterious actors were, so...
+Mikhail: ...All we need to do is dress it up a little. Run some propaganda about how the Fatui rushed to Mondstadt's aid in their time of need, resolving the Stormterror crisis once and for all... *smug laugh*
+Lyudmila: That could be risky. If they saw through the propaganda, they'd end up even more mistrustful of us...
+Mikhail: There's no need to worry about the Fatui's propaganda capabilities, they know what they're doing. And in any case, given how powerful the Fatui is, who would dare question us!?
+Lyudmila: Hmm... Well, I wish us the best of luck...
+Mikhail: I'm telling you, everything will be fine! Stop worrying!
+
+Dialogue Set #2[]
+
+(After completing Chasing Shadows)
+Mikhail: Hey, did you get the word from the higher-ups? Bunch of masked bandits broke into one of our strongholds and tore the place up!
+Lyudmila: You mean someone else is out to get us now? This is not great...
+Mikhail: It's too early to say. We're still not sure on the identities or affiliations of these masked intruders...
+Mikhail: It could be the Abyss Order. Or it could be the Knights of Favonius, just working outside the system.
+Lyudmila: Well whoever it is, we're the enemy to them, so we need to be on our guard...
+Mikhail: It's fine. If it turns out the Knights of Favonius are ready to throw our good will back in our faces, they will find out soon enough just where the limit of their strength is!
+Lyudmila: I just hope all our efforts in Mondstadt won't go to waste...
+Mikhail: Don't worry about it! The Fatui can handle this, no problem!
+
+Dialogue Set #3[]
+
+(After completing A Long Shot)
+Mikhail: Hey, have you heard what the Knights of Favonius have been saying? They're claiming they've defeated Stormterror!
+Lyudmila: You know, I have been thinking — the Knights of Favonius can't be as impotent as they look. I'll bet they've been keeping their true power hidden until now...
+Mikhail: Hmph. Well, whatever secret weapons they might have stashed away, there's still no way they can compete with the might of the Fatui!
+Lyudmila: It's a pity our previous attempts to coerce the Acting Grand Master were unsuccessful...
+Mikhail: Ah, it's not a big problem. Didn't you notice about Signora? She didn't seem concerned about this minor quibble in the slightest. In fact, she seemed quite pleased with herself about something.
+Mikhail: About something she's done... Or maybe something she intends to do...
+Mikhail: Either way — we've got Signora at the helm, and even Barbatos himself would be no match for her!
+Lyudmila: Well let's just hope Signora never meets her match in battle...
+Mikhail: Relax! This is Signora we're talking about. As long as she's around, everything will be fine.
+
+Dialogue Set #4[]
+
+(After completing Rite of Descension)
+Mikhail: Hey, have you heard the news from our comrades in Liyue? Their archon's keeled over and died! Don't know if it's definitely true, but my word... Hahaha...
+Lyudmila: What a tragic loss. It makes you think, doesn't it? Imagine if one of us were to—
+Mikhail: Stop! Not another word! I get that you're a pessimist, but this topic is off-limits!
+Lyudmila: I was just making conversation, I didn't mean anything by it...
+Mikhail: We should focus on our part. If our comrades in Liyue are making their move, we need to make preparations here, too.
+Mikhail: Things may or may not kick off in Mondstadt too. If they do, it'll be time for the Fatui to show our loyalty to Her Majesty the Tsaritsa!
+Lyudmila: May the Tsaritsa always remain in good health...
+Mikhail: Hey! Snap out of it, will you!
+
+Dialogue Set #5[]
+
+(After completing The Fond Farewell)
+Mikhail: Hey, you heard what the Liyue merchants have been saying? It's true — their archon's really gone and died. They did a whole funeral and everything!
+Mikhail: If you think about it, that's a good thing for the Fatui. This is likely to cause major upheaval in Liyue...
+Mikhail: If we can take advantage of the power vacuum during the ensuing chaos...
+Lyudmila: But we'll just have to wait and see whether this is ultimately good or bad news.
+Lyudmila: It may cause difficulties for us. Economically, for instance — Liyue is the biggest trading hub in Teyvat after all...
+Mikhail: What's the worst that could happen? You're worrying over nothing. Snezhnaya's economy is rock-solid, so we won't be affected.
+
+Dialogue Set #6[]
+
+(After completing Setting Sail)
+Mikhail: Have you heard what our envoys to Inazuma have been saying? They sent a letter recently, saying that the Inazuma Shogunate has gone to war with the rebels!
+Lyudmila: Rebels... A war... Our comrades in Inazuma won't be caught in the crossfire, will they?
+Mikhail: Hah, I doubt it. We Fatui are official foreign envoys in Inazuma, and there's a Harbinger with us, too. We shan't be so easily swept up in their internal squabbles!
+Mikhail: Ah, Inazuma. They call it the eternal nation, but they can't even settle their own disputes. Now that's a good joke if I ever heard one!
+Lyudmila: Regardless, a war is always going to be a highly volatile factor.
+Lyudmila: If Inazuma, one of the Seven Nations, is truly in trouble, it may yet affect the progress of Her Majesty the Tsaritsa's grand design...
+Mikhail: Oh, there you go again. How could Inazuma not hacking it affect our mighty motherland Snezhnaya?
+Mikhail: If anything, I'd say that the chaos there is a great opportunity for us to get things done.
+
+Dialogue Set #7[]
+
+(After completing Duel Before the Throne)
+Mikhail: Hey, have you heard what our superiors have been saying? The Vision Hunt Decree that Inazuma was strictly enforcing has been abolished!
+Lyudmila: The Vision Hunt Decree... Wasn't that something that the Electro Archon promulgated herself? To think that even one so exalted as an Archon could change their mind...
+Lyudmila: Well, the more shocking thing I've heard is that Lady Signora, the Eighth of the Harbingers, was...
+Mikhail: Well, about that... I think that some sacrifices were inevitable on the path of Her Majesty's great work.
+Lyudmila: But Lady Signora's a Harbinger... What happened, I wonder, that she wound up losing her life?
+Mikhail: Who knows? People change, after all. Perhaps her strength was insufficient to remain a Harbinger. I don't believe that such a thing would have happened to her otherwise...
+Mikhail: Just you wait. I'm sure that our Eighth seat will be filled by someone even more powerful. And when that happens, we Fatui will be all the stronger for it!
+
+Dialogue Set #8[]
+
+(After completing Radiant Sakura)
+Mikhail: Hey, have you heard what our superiors have been saying? Inazuma, long under the Sakoku Decree, has become an open country again!
+Lyudmila: What? Did they seriously abolish it?
+Lyudmila: First the Vision Hunt Decree, and now the Sakoku Decree... These were both the direct decrees of the Electro Archon. Is she preparing to do something big soon?
+Lyudmila: Oh no. If the Electro Archon plans to involve herself in external affairs again, won't this affect our influence over Teyvat?
+Mikhail: Oh, come on, you're being such a worrywart.
+Mikhail: With Her Majesty the Tsaritsa on our side, Snezhnaya's eternal greatness is assured! There's absolutely no reason for us to worry!
+Mikhail: In fact, I'd say that Inazuma opening up is instead a great opportunity for us Fatui to expand our strength there.
+Mikhail: Indeed, everything that's happening is well within our control!
+Lyudmila: Well, I sure hope you're right...
+
+Dialogue Set #9[]
+
+(After completing At Tunnel's End, Light)
+Mikhail: Hey, have you heard that mining operations seem to have resumed in The Chasm of Liyue? The area has been sealed for quite some time.
+Lyudmila: Do you mean to say that The Chasm is now open to ordinary citizens?
+Mikhail: Not yet 100% open I presume, but small-scale mining is allowed there. Still, they wouldn't let ordinary people go in.
+Mikhail: But we're the powerful Fatui — they'll definitely green light our actions!
+Mikhail: But I heard that people can feel some strange shaking from deep down in The Chasm. It doesn't seem to be caused by mining.
+Lyudmila: That doesn't sound good. I've heard long ago that they dug something ominous up from The Chasm. Is the rumor true...
+Mikhail: Hmm, the way I see it, there's no need to worry too much about it.
+Mikhail: Perhaps it's just an ordinary Ley Line phenomenon, or perhaps it's because the Qixing did something.
+Mikhail: We'll find out when the people we sent earlier come back!
+Lyudmila: Um... Let's hope they can return safe and sound...
+
+Dialogue Set #10[]
+
+(After completing A Toast to Victory)
+Mikhail: Heh. Have you heard? It seems that the Sumeru Akademiya has made a real mess of one of their big projects!
+Mikhail: The Six Darshans have been left leaderless as a result, which has forced the weak Dendro Archon to take over.
+Lyudmila: Wait, so do you mean that something terrible has happened?
+Mikhail: Terrible? No, not at all. It's wonderful news, in fact!
+Mikhail: I've heard that Lord Dottore managed to infiltrate Sumeru during the chaos and perform a great work in the Tsaritsa's name with almost no effort at all!
+Lyudmila: Huh... Then what about Lord Scaramouche? I've heard that he was recently seen in Sumeru as well...
+Mikhail: Lord Scaramouche? Ah, you mean the one with the famously bad temper? To be honest, I've heard that he hasn't been seen since his assignment in Inazuma.
+Mikhail: Are you suggesting that he might be related to the project in Sumeru as well?
+Lyudmila: I'm not sure, really. But it seems that a lot of the soldiers under his command have been transferred elsewhere...
+Mikhail: Huh. Hmm... Well, you know, transfers happen all time, so who knows if those things are related at all?
+Mikhail: Anyway, I doubt that this will take away anything from the results that Lord Dottore has gotten this time!
+
+Dialogue Set #11[]
+
+(After completing The Night-Bird Falls at the Curtain's Call)
+Mikhail: Heh. Have you heard? It seems that the Sumeru Akademiya has made a real mess of one of their big projects!
+Mikhail: The Six Darshans have been left leaderless as a result, which has forced the weak Dendro Archon to take over.
+Lyudmila: Wait, so do you mean that something terrible has happened?
+Mikhail: Terrible? No, not at all. It's wonderful news, in fact!
+Mikhail: I've heard that Lord Dottore managed to infiltrate Sumeru during the chaos and perform a great work in the Tsaritsa's name with almost no effort at all!
+Lyudmila: Is that so... Just as expected from the Second Harbinger...
+Mikhail: Huh? You don't seem happy, judging by your tone.
+Lyudmila: It is indeed good that the Harbinger succeeded, but I'm reminded that Lady Signora also succeeded at Inazuma only to...
+Mikhail: Look at you. You're worrying too much. From how I see it, we don't have many people, and that's fine.
+Mikhail: With someone as powerful as Lord Dottore among our ranks, it shouldn't matter if the rest of our seats remain empty.
+Mikhail: But enough about the Eighth Harbinger. It is said that the Sixth Harbinger's seat has been left vacant for hundreds of years. Is that not cause for concern?
+
+Dialogue Set #12[]
+
+(After completing Finale)
+Mikhail: Hey, did you hear? That prophecy that everyone in Fontaine worried came true!
+Lyudmila: Wait, so does that mean something terrible happened?
+Mikhail: Well, for Fontainians, there's good news and there's bad news.
+Mikhail: The good news is that nobody dissolved in the water. The bad news is that there was still a huge flood.
+Lyudmila: I see... So, did Lady Arlecchino...
+Mikhail: Nothing to worry about! The Knave came out on top, didn't take a single loss!
+Mikhail: In fact, apparently she even obtained the Hydro Archon's Gnosis for  the Tsaritsa because she helped the Court of Fontaine!
+Lyudmila: For real? But I heard that Master Childe was badly hurt during the flood...
+Mikhail: Master Childe? There's even less of a need to worry about him.
+Mikhail: He's famous for his combat abilities. I'm sure he'll be up and about soon.
+
+Other Languages[]
+
+LanguageOfficial NameEnglishLyudmilaChinese(Simplified)柳德米拉LiǔdémǐlāChinese(Traditional)柳德米拉LiǔdémǐlāJapaneseリュドミラRyudomiraKorean류드밀라RyudeumillaSpanishLyudmilaFrenchLyudmilaRussianЛюдмила[• 1]LyudmilaThaiLyudmilaVietnameseLyudmilaGermanLyudmilaIndonesianLyudmilaPortugueseLyudmilaTurkishLyudmilaItalianLyudmila
+↑ Russian: Людмила Lyudmila comes from the words люд lyud, "people" + мила mila, "beloved, dear."The name can mean "dear to the people" or "beloved by the people".
+
+
+Change History[]
+Released in Version 1.0[Edit History]Version 4.2
+New dialogue was added between Lyudmila and Mikhail after completing Finale.
+
+Version 3.3
+
+New dialogue was added between Lyudmila and Mikhail after completing The Night-Bird Falls at the Curtain's Call.
+
+Version 3.2
+
+New dialogue was added between Lyudmila and Mikhail after completing A Toast to Victory.
+
+Version 2.7
+
+New dialogue was added between Lyudmila and Mikhail after completing At Tunnel's End, Light.
+
+Version 2.5
+
+New dialogue was added between Lyudmila and Mikhail after completing Radiant Sakura.
+
+Version 2.1
+
+New dialogue was added between Lyudmila and Mikhail after completing Duel Before the Throne.
+
+Version 2.0
+
+New dialogue was added between Lyudmila and Mikhail after completing Setting Sail.
+
+Version 1.1
+
+New dialogue was added between Lyudmila and Mikhail after completing The Fond Farewell.
+
+Version 1.0
+
+Lyudmila was released.
+
+
+

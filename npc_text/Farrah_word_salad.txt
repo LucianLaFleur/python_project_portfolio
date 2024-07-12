@@ -1,0 +1,145 @@
+
+
+
+
+
+Farrah
+Fruit Vendor
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+								Voice Actors
+							
+
+
+
+
+
+Region
+Mondstadt
+
+
+Location
+Mondstadt
+
+
+Dialogue Reward
+ 5
+
+
+
+
+English
+Cory Yee[1]
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Farrah is an open-world NPC in Mondstadt. He can be found between Springvale and Dawn Winery, in front of the Drunkard Gorge.
+Following a certain dialogue branch for the first time gives the player five Apples.
+
+Contents
+
+1 Location
+2 Profile
+
+2.1 Appearance
+
+
+3 Quests and Events
+
+3.1 Story Quests
+3.2 Commissions
+
+
+4 Idle Quotes
+5 Dialogue
+6 Other Languages
+7 Change History
+8 References
+
+
+Location[]
+Farrah's location (all day)Additional context
+Profile[]
+(To be added.)
+
+Appearance[]
+(To be added.)
+
+Quests and Events[]
+Story QuestsLepus Chapter (Amber)Act I: Wind, Courage, and WingsThey Call Him RaptorCommissionsUrgent Repairs
+Idle Quotes[]
+
+ They're going to go bad, the lot of them...
+Media:VO Farrah 01.ogg "They're all gonna rot if I don't deal with them in time."
+
+Dialogue[]
+
+Farrah: Traveler, this canyon is too dangerous for you. Please, keep your distance!
+ Did something happen?
+Farrah: Recently, lots of monsters have been showing up in the canyon, to the point where we vendors have been chased out.
+Farrah: *sigh* If my fruit has all gone rotten when I get it back it'll go all slimy and disgusting when I try to wash it...
+ Tell me more about Drunkard Gorge.
+Farrah: This used to be a popular route for all the merchant caravans. I used to set up my stall in the canyon earn a few Mora too...
+Farrah: Occasionally the odd monster would show up, and if so you just chalk it down to bad luck.
+Farrah: But now, everyone's fled the canyon and the merchant caravan is stuck here with no way through.
+Farrah: *sigh* It's not the end of the world if I can't sell the fruit, but if it goes rotten that's another story...
+ Tell me more about your fruit stand.
+Farrah: It's not so much about how much it cost...
+Farrah: It's more that once you've got rotten fruit on it, it's a nightmare to clean. The juices go all slimy and stick to it for ages, and the smell is nearly impossible to get rid of...
+Farrah: If don't get it cleaned in good time, my wife will kill me when I get back.
+ You have my sympathies.
+Farrah: *sigh* Thank you for that.
+Farrah: Well, I do only have these few fruit on hand, and they won't sell for much. You may as well take them.
+(Obtain  Apple ×5)
+ Sounds like a lot of trouble.
+Farrah: *sigh* I never said it wasn't...
+Farrah: I'm a bit of a clean freak as well, so just thinking about cleaning these things is making me nauseous.
+Farrah: If only Noelle from the Knights was here. If she were here, all this would be spick and span in no time — even better than new!
+Farrah: Still, I feel bad about troubling her to do something this trivial...
+ Goodbye.
+Farrah: Keep your eyes peeled when you're on the road.
+Farrah: *sigh* I think I can smell the fruit rotting...
+
+Other Languages[]
+
+LanguageOfficial NameEnglishFarrahChinese(Simplified)法拉FǎlāChinese(Traditional)法拉FǎlāJapaneseファオラFaoraKorean파라ParaSpanishFarrahFrenchFarahRussianФарраFarraThaiFarrahVietnameseFarrahGermanFarrahIndonesianFarrahPortugueseFarrahTurkishFarrahItalianFarrah
+Change History[]
+Released in Version 1.0[Create New History]
+References[]
+
+↑ Cory Yee: EN VA's Website
+
+
+
+
+

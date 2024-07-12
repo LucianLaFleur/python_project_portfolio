@@ -1,0 +1,172 @@
+
+
+
+
+
+Darina
+Traveling Merchant
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Sumeru
+
+
+Location
+Sumeru
+
+
+Dialogue Reward
+ 1
+
+
+Genius Invokation TCG
+Stages
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Darina is an open-world NPC that can be found in Gandharva Ville, Sumeru.
+Following a certain dialogue branch for the first time gives the player one 3★ Lucky Dog's Clover.
+
+Contents
+
+1 Location
+2 Profile
+
+2.1 Appearance
+
+
+3 Idle Quotes
+4 Thoughts
+5 Dialogue
+
+5.1 Dialogue Set #1
+5.2 Dialogue Set #2
+
+
+6 Other Languages
+7 Change History
+
+
+Location[]
+Darina's locationAdditional context
+Profile[]
+(To be added.)
+
+Appearance[]
+(To be added.)
+
+Idle Quotes[]
+
+ Rainforest climate...
+Media:VO Darina 01.ogg "*sigh* The rainforest climate is far more pleasant than that of the desert."
+
+Thoughts[]
+Darina's thoughts can be accessed by using Nahida's Elemental Skill, All Schemes to Know.
+
+Media:VO Darina All Schemes to Know 01.ogg Darina: (Some people might enjoy the sun, but I prefer humidity.)
+Dialogue[]
+Dialogue Set #1[]
+Available before completing Where the Boat of Consciousness Lies.
+
+
+Darina: Ah... It's been so long since I took in some fresh and clean air...
+ Adventure Challenge
+(Opens Genius Invokation TCG match interface)
+(If the player loses the match)
+
+Darina: We traveling merchants often play cards in private, so you shouldn't be surprised by the difficulty of this challenge...
+(If the player wins the match)
+
+Darina: Alas... How could this be? No one has ever passed this challenge before...
+ Hello.
+Darina: Hello, the environment here is pretty great, right?
+Darina: Many may say that the air here is too humid, but it's perfect for me.
+Darina: You must understand that traveling through the desert is torture. If it wasn't for business, would anyone want to land a foot on that Archon-forsaken place?
+ About the desert...
+Darina: I'm sure you can imagine it without my help. An endless expanse of sand, the scorching sun, wind mixed with dirt...
+Darina: Not to mention the dangers that the sandstorms pose, and the ruins filled with strange mechanisms.
+Darina: According to some legends, there used to be no desert in Sumeru, and it was the battle between King Deshret and the Greater Lord that created the desert...
+Darina: Oh, but I don't really care how the desert was formed. I'm more interested in when it'll go away.
+Darina: That's when we Traveling Merchants will be able to do business more safely, after all.
+ Big dream...
+Darina: I haven't been able to dream ever since I grew up, but still, one should dream big.
+Darina: Good luck will follow only if you dream big!
+Darina: Maybe one day, King Deshret or Greater Lord Rukkhadevata will come back again...
+Darina: Either will do. Upon their return, there will be no desert, no pain, no Samiel-Control Engineers, no Bimarstan's doctors.
+Darina: Hehehe, just saying this cracks me up.
+(Obtain 3★  Lucky Dog's Clover)
+ Goodbye.
+Darina: Goodbye, I'll be staying here for a while longer...
+
+Dialogue Set #2[]
+Available after completing Where the Boat of Consciousness Lies.
+
+
+Darina: Ah... It's been so long since I took in some fresh and clean air...
+ Adventure Challenge
+(Same as before)
+ Hello.
+Darina: Hello, the environment here is pretty great, right?
+Darina: Many may say that the air here is too humid, but it's perfect for me.
+Darina: You must understand that traveling through the desert is torture. If it wasn't for business, would anyone want to land a foot on that Archon-forsaken place?
+ About the desert...
+Darina: I'm sure you can imagine it without my help. An endless expanse of sand, the scorching sun, wind mixed with dirt...
+Darina: Not to mention the dangers posed by sandstorms, alongside ruins filled with strange mechanisms.
+Darina: Some say that in the past, there weren't any deserts in Sumeru. The desert only appeared due to a battle between King Deshret and the Dendro Archon...
+Darina: But every time I bring this up, someone will rebut me, saying that they never fought.
+Darina: Not that I really care how the desert was formed, really. I'm more interested in when it'll go away.
+Darina: That's when we traveling merchants will be able to do business more safely, you know?
+ Big dream...
+Darina: Good luck will follow only if you dream big!
+Darina: Maybe one day, King Deshret will come back again... Or the Dendro Archon will work wonders...
+Darina: Either will do. Upon their return, there will be no desert, no pain, no Samiel-Control Engineers, no Bimarstan doctors.
+Darina: Hehehe, just saying this cracks me up.
+(Obtain 3★  Lucky Dog's Clover)
+ Goodbye.
+(Same as Dialogue Set #1)
+
+Other Languages[]
+
+LanguageOfficial NameEnglishDarinaChinese(Simplified)达丽娜DálìnàChinese(Traditional)達麗娜DálìnàJapaneseダリナDarinaKorean다리나DarinaSpanishDarinaFrenchDarinaRussianДаринаDarinaThaiDarinaVietnameseDarinaGermanDarinaIndonesianDarinaPortugueseDarinaTurkishDarinaItalianDarina
+Change History[]
+Released in Version 3.0[Edit History]Version 3.3
+Added a Genius Invokation TCG Adventure Challenge for Darina.
+
+Version 3.0
+
+Darina was released.
+
+
+

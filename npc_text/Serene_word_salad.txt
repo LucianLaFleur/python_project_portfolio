@@ -1,0 +1,274 @@
+
+
+
+This page is in need of information.Can you help out? Click here to add more.Verify if Idle 2 and Dialogue Set 4 appear after completing only Poissonous Cuisine or all 4.0 Melusine quests.
+
+
+Serene
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+								Voice Actors
+							
+
+
+
+
+
+Region
+Fontaine
+
+
+Location
+Fontaine
+
+
+Dialogue Reward
+ 1
+
+
+
+
+English
+Daisy Guevara[1]
+
+
+Japanese
+Hanaoka Shiori (花岡志織)[2]
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCsMelusine 
+
+
+
+
+Serene is an open-world NPC located in Merusea Village, Fontaine.
+
+Contents
+
+1 Location
+2 Profile
+
+2.1 Appearance
+
+
+3 Quests and Events
+
+3.1 World Quests
+3.2 Hidden Exploration Objectives
+
+
+4 Idle Quotes
+5 Dialogue
+
+5.1 Dialogue Set #1
+5.2 Dialogue Set #2
+5.3 Dialogue Set #3
+5.4 Dialogue Set #4
+
+
+6 Other Languages
+7 Change History
+8 References
+
+
+Location[]
+Serene's locationAdditional context
+Profile[]
+(To be added.)
+
+Appearance[]
+Serene is an indigo melusine with short brown hair and red eyes, she wears a sleeveless brown dress.
+
+Quests and Events[]
+World QuestsAncient ColorsAct II: A Gradient of Dreams and OchreThere Will Come Soft RainsHidden Exploration ObjectivesPoissonous Cuisine
+Idle Quotes[]
+
+ Everyone's troubles...
+Media:VO Serene 01.ogg "I need to do my best today and help solve everyone's troubles."
+
+After completing Poissonous Cuisine‍[verification needed]
+
+ Look out for them...
+Media:VO Serene 02.ogg "I've got to make sure I look out for everyone again today."
+
+Dialogue[]
+Dialogue Set #1[]
+Available before completing Ancient Colors.
+
+
+Serene: Hmm. There's much left to do today...
+ Are there any Melusines around who might need help?
+(Randomly proceeds to one of the following valid dialogues)
+
+(Before helping Cosanzeana in There Will Come Soft Rains)
+
+Serene: One moment... Ah, yes. There's Cosanzeana. I think she's been concerned about her inability to grow flowers...
+Serene: Not that I know anything about flowers. I've tried to help her, but to no avail...
+Serene: Would you know something about that?
+ When I sing, flowers bloom...
+Serene: Really? That sounds like it'd make for a lovely scene... In that case, I do hope that you can bless her flowers with a song.
+Serene: I'd love to help myself, but it seems that deep subject matter knowledge will be required...
+Serene: Would you be willing to visit her garden at the village entrance and give her some suggestions?
+ I guess I know a thing or two.
+Serene: Do you really? Great! I'm afraid I haven't any knowledge myself... In which case, I'd be grateful if you could go see her garden.
+Serene: I'd love to help myself, but it seems that deep subject matter knowledge will be required...
+Serene: Would you be willing to visit her garden and give her some suggestions?
+ Just leave it to me.
+Serene: Alright. I do hope that she'll be able to grow some beautiful flowers...
+(Before beginning "Hey, This Isn't Pumpkin Soup...")
+
+Serene: Hmm. One moment. There's Verenata, I suppose. She's an earnest and hardworking sort, and she's learning from Carabosse. She says she wants to be able to help everyone...
+Serene: She's been struggling with some new medicine or another. I'm not sure about the details, but... *sigh* I wish Carabosse would be a bit more serious...
+ What can I do to help?
+Serene: I'm not all that sure myself... It seems to have something to do with developing medicine, or something.
+Serene: But if you do go and help her out, I'm sure she'll be very happy... And I'll be, too!
+(After completing "Hey, This Isn't Pumpkin Soup..." but before beginning The Lone Phantom Sail)
+
+Serene: Right. Let me think... There's Ahes. I believe she's been claiming recently that she's "seen a ship in my dreams"...
+Serene: I don't know what's going on with her, but I am quite worried...
+ That sounds problematic.
+Serene: True. Whatever the case, could you head over to the place with a lot of ships north of the village, and see if you can help?
+ Alright, you can count on me.
+Serene: Thank you so much.
+(Before beginning Fishing Game)
+
+Serene: Hmm. Let me think about this... Well, there's Iara. She seems to be having some trouble with fishing...
+ Fishing?
+Serene: Yes. She said that she met an angler named Delaroche and learned fishing skills from her... Despite that, she's been unable to catch anything — much to her consternation...
+(If Delaroche's Bait has been completed)
+ Delaroche? Seriously?
+ I think she might've gone for the wrong teacher...
+Serene: Oh, is that so? Oh dear.
+Serene: *sigh* I'm not sure how I can help her. I've given it some thought, though — if all else fails, I can play the role of the fish myself...
+Serene: But that's not really a solution I'd call "good," so... Could you try helping her?
+ No problem!
+ Oh, I'm a real pro!
+Serene: Wonderful! She should still be trying to fish at the south side of the village... So please, (TravelerTravelerThe player's chosen name for the Traveler) give her some pointers!
+(Before beginning Book of Esoteric Revelations)
+
+Serene: One moment... Ah, yes. There's Canotila. I think she's been puzzling over a certain book...
+Serene: See, she's still in intense meditation over there, beneath that waterfall.
+Serene: She says she can't understand its contents... and neither can I, but perhaps an experienced adventurer like you might be able to help her.
+ I'll give it a go.
+Serene: Alright. I do hope that Canotila can resolve this matter that so confuses her...
+(After completing Limner, Dreamer, and Robotic Dog but before beginning Strange Stone Chronicle)
+
+Serene: Huh. Let me see... Right, I believe Puca said that she's lost her token...
+Serene: These tokens are exceedingly important to us... Um, I was originally going to help her find it, like, immediately, but I can't quite leave now...
+ Leave it to me!
+Serene: Thank you, I'll leave Puca in your capable hands, then!
+(Otherwise, if no quests are available)
+
+Serene: Let me think. Actually, I don't think there's anyone around who really needs help at the moment!
+Serene: Still, troubles do often crop up in places that we can't see... For all we know, some of us might come to need your help in the future, (TravelerTravelerThe player's chosen name for the Traveler)...
+(After Step 3 of There Will Come Soft Rains and before completing Limner, Dreamer, and Robotic Dog)
+ About the earthquake just a while ago...
+Serene: Indeed. What was with that earthquake earlier?
+Serene: It didn't seem to have any negative consequences, but for things to start shaking so strongly all of a sudden... I'll have to report this to Monsieur Neuvillette...
+ Could you tell me about Merusea Village?
+Serene: Huh? Is it your first time here? Well, in that case, welcome!
+Serene: This is the home of us Melusines, but... as you can see, owing to the location, we don't get many human visitors.
+Serene: Be sure to let me know if you run into any trouble here, or if you need anything at all.
+ Are you the village head?
+Serene: The village head... do you mean some person who's in charge of everyone?
+Serene: I don't think that describes me. I'm just a little older than the other kids. As everyone's big sister, it's my responsibility to help with day-to-day issues.
+Serene: That's right — I've gotta look after everyone.
+ See you.
+Serene: Mmhmm, bye now! Please do let me know if I can help you with anything.
+ See you.
+Serene: Mmhmm, bye! Please do let me know if you need anything.
+
+Dialogue Set #2[]
+Available when approaching Serene's platform after completing Ancient Colors.
+
+
+Serene: Ah, (TravelerTravelerThe player's chosen name for the Traveler) and Paimon! Could you come over here for a moment?
+(Approach Serene)
+Paimon: Huh? Serene? Why did you call out to us? Did something happen?
+Serene: Yeah, so, remember when you two said you wanted to go collect some components, right?
+Paimon: Collecting components... Ah, you mean fixing Seymour!
+Serene: Yeah, at that time I didn't have that many components with me, so I couldn't help you two...
+Serene: So I went out and collected some more!
+Paimon: Whoa! You sure got a lot!
+Serene: Please take them. This way, you can speed up the repairs, right?
+Paimon: Well, thanks a lot, but Seymour is already fixed...
+Serene: Huh? Already? Wow, I should have expected that from you two!
+Serene: If that's the case, you doubly deserve these components!
+Paimon: Huh?
+Serene: You've been putting in a lot of work to help everyone, right?
+Serene: If that's the case, then I would like you two to have these components as a token of my gratitude. Thank you for taking care of everyone in the village!
+Serene: It just so happens that Xana is here in the village too! If you need anything, you can trade with her using these components!
+(Obtain  Strange Part x4)
+
+Dialogue Set #3[]
+Available after completing Ancient Colors.
+
+
+ About the earthquake before...
+Serene: Ah, Mamere told me about the situation. It was the first time that the kid talked that much...
+Serene: Anyway, Monsieur Neuvillette is very concerned about the matter. I heard that the Marechaussee Phantom has already sent someone to investigate.
+Serene: Thank you so much for your help! Right, a—as a token of gratitude, please, take this!
+(Obtain 4★  Hunter's Brooch)
+
+Dialogue Set #4[]
+Available after completing Poissonous Cuisine.‍[verification needed]
+
+
+Serene: Hmm. There's much left to do today...
+Serene: Oh, hi! About what happened before... I really can't thank you enough for all your help!
+ Could you tell me about Merusea Village?
+Serene: This is the home of us Melusines, but... as you can see, owing to the location, we don't get many human visitors.
+Serene: Be sure to let me know if you run into any trouble here, or if you need anything at all.
+ Are you the village head?
+Serene: The village head... do you mean some person who's in charge of everyone?
+Serene: I don't think that describes me. I'm just a little older than the other kids. As everyone's big sister, it's my responsibility to help with day-to-day issues.
+Serene: That's right — I've gotta look after everyone.
+ See you.
+Serene: Mmhmm, bye now! Please do let me know if I can help you with anything.
+ Are there any Melusines around who might need help?
+Serene: Let me think. Actually, I don't think there's anyone around who really needs help at the moment!
+Serene: This is all thanks to your help... Thank you so much!
+ See you.
+Serene: Mmhmm, bye now! Please do let me know if I can help you with anything.
+
+Other Languages[]
+
+LanguageOfficial NameEnglishSereneChinese(Simplified)瑟琳SèlínChinese(Traditional)瑟琳SèlínJapaneseセレーネSereeneKorean세린SerinSpanishSereneFrenchSereneRussianСеринSerinThaiSereneVietnameseSereneGermanSereneIndonesianSerenePortugueseSereneTurkishSereneItalianSerene
+Change History[]
+Released in Version 4.0[Create New History]
+References[]
+
+↑ Twitter: EN VA Self Announcement (Archived)
+
+↑ Twitter: JP VA Self Announcement (Archived)
+
+
+
+
+

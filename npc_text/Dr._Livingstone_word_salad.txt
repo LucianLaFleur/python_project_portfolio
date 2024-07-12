@@ -1,0 +1,139 @@
+
+
+
+
+
+Dr. Livingstone
+Adventurer
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Mondstadt
+
+
+Location
+Mondstadt
+
+
+Affil­i­a­tion
+Adventurers' Guild
+
+
+Dialogue Reward
+ 3
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Dr. Livingstone is an open-world NPC in Dadaupa Gorge, Mondstadt. She gives the World Quest Break the Sword Cemetery Seal. Completing the quest unlocks the random World Quest Dr. Livingstone's Transport Request.
+Following a certain dialogue branch for the first time gives the player three Adventurer's Experience.
+
+Contents
+
+1 Location
+2 Profile
+
+2.1 Appearance
+
+
+3 Quests and Events
+
+3.1 World Quests
+
+3.1.1 Random World Quests
+
+
+3.2 Events
+
+
+4 Idle Quotes
+5 Dialogue
+6 Trivia
+7 Other Languages
+8 Change History
+9 References
+
+
+Location[]
+Dr. Livingstone's locationAdditional context
+Profile[]
+Dr. Livingstone is an adventurer who works closely with Dr. Edith, her colleague. She primarily researches about the Forgotten Sword Cemetery and tries to uncover the history of the area which served as a witness to an ancient battle against the monsters of Khaenri'ah.[1]
+
+Appearance[]
+(To be added.)
+
+Quests and Events[]
+World QuestsBreak the Sword Cemetery SealRandom World QuestsDr. Edith's Transport RequestDr. Livingstone's Transport RequestEventsContending TidesMountainous Summons
+Idle Quotes[]
+
+ What a headache...
+Media:VO Dr. Livingstone 01.ogg "Ugh, what a headache."
+ Recording...
+Media:VO Dr. Livingstone 02.ogg "Hmm, it's just like the records say."
+
+Dialogue[]
+This page is missing dialogue.Can you help out? Click here to add more.other possible versions of Sword Cemetery
+
+Dr. Livingstone: Hmm? Pardon me, I was lost in thought.
+ Tell me about the Sword Cemetery...
+Dr. Livingstone: What the... You've broken the three seals!?
+Dr. Livingstone: Then... Does that mean you've defeated all three hilichurl tribes too?
+ Sure does.
+Dr. Livingstone: Wow. Such an appetite for action... Such boundless wisdom... Such great strength... I didn't know both of us were adventurers!
+Dr. Livingstone: Thank you for succeeding where I did not. But I am going to stay here.
+Dr. Livingstone: There are still many mysteries to be solved at this Sword Cemetery.
+Dr. Livingstone: As adventurers, it is our duty to unearth ancient secrets. So I shall continue to investigate here!
+ Goodbye.
+Dr. Livingstone: Be careful!
+ Are you an adventurer?
+Dr. Livingstone: I certainly am, though I would be the first to admit that my appearance is more that of a scholar... Nevertheless, my principle occupation is indeed adventuring.
+Dr. Livingstone: I have taken a few notes from my recent studies of the Sword Cemetery. Hope you find them useful.
+Dr. Livingstone: We adventurers have to look out for each other. Ad astra abyssosque!
+(Obtain  Adventurer's Experience ×3)
+
+Trivia[]
+David Livingstone was an adventurer and explorer who had a famous encounter with Henry Morton Stanley, who greeted him with the line "Dr Livingstone, I presume?" Other characters from Mondstadt share this connection, i.e., Henry Morton and Stanley.
+Other Languages[]
+
+LanguageOfficial NameEnglishDr. LivingstoneChinese(Simplified)利文斯通博士Lìwénsītōng BóshìChinese(Traditional)利文斯通博士Lìwénsītōng BóshìJapaneseリヴィングストン博士Rivingusuton HakaseKorean리빙스턴 박사Ribingseuteon BaksaSpanishDra. LivingstoneFrenchDr. LivingstoneRussianДоктор ЛивингстонDoktor LivingstonThaiDr. LivingstoneVietnameseTiến Sĩ LivingstoneGermanDr. LivingstoneIndonesianDr. LivingstonePortugueseDra. LivingstoneTurkishDr. LivingstoneItalianDottoressa Livingstone
+Change History[]
+Released in Version 1.0[Create New History]
+References[]
+
+↑ World Quest: Break the Sword Cemetery Seal
+
+
+
+
+

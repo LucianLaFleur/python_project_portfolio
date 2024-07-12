@@ -1,0 +1,101 @@
+
+
+
+
+
+Isami
+Researcher
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Sumeru
+
+
+Location
+Sumeru
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Isami is an open-world NPC located in Pardis Dhyai, Sumeru.
+
+Contents
+
+1 Location
+2 Idle Quotes
+3 Thoughts
+4 Dialogue
+5 Other Languages
+6 Change History
+
+
+Location[]
+Isami's locationAdditional context
+Idle Quotes[]
+
+ He shouldn't be...
+Media:VO Isami 01.ogg "Surely he's not a bad guy, is he?"
+
+Thoughts[]
+Isami's thoughts can be accessed by using Nahida's Elemental Skill, All Schemes to Know.
+
+
+Media:VO Isami All Schemes to Know 01.ogg Isami: (This guy just keeps going on and on... Why does he have to be so curious?)
+
+Dialogue[]
+
+Isami: That mercenary... shouldn't be a bad person, right? This place is just full of plants, so there's nothing worth taking for him.
+ Which mercenary?
+Isami: Oh, I was talking about Mr. Shahin who guards the place.
+Isami: I've never seen such an inquisitive person in the Eremites.
+Isami: I always though the Eremites were a group of reserved brutes, but I was gravely mistaken.
+Isami: I have nothing against friendly people, but he keeps asking about what's being done here and what's being stored there... It overwhelms me a little.
+Isami: It's mainly because he looks so curious, so he doesn't seem like he's scheming something, and I can't bother matra for just a few questions of his...
+Isami: So, I have to deal with him best I can.
+ What's this place?
+Isami: This is Pardis Dhyai, a research site for Amurta. You can meet researchers studying topics like plants, Shroom-Kin, and even insects here.
+Isami: They're mostly researchers and students of the Akademiya, and some are close collaborators with Pardis Dhyai.
+Isami: For example, a Forest Watcher of Gandharva Ville used to spend all his time here while he was studying. Even if he has left the Akademiya now, he still comes here often to conduct research.
+Isami: His research findings are very precious, so Pardis Dhyai is willing to assist the Forest Rangers in their work too. Call it a mutually beneficial cooperation.
+ See you.
+Isami: See you.
+
+Other Languages[]
+
+LanguageOfficial NameEnglishIsamiChinese(Simplified)伊萨米YīsàmǐChinese(Traditional)伊薩米YīsàmǐJapaneseイサミIsamiKorean이사미IsamiSpanishIsamiFrenchIsamiRussianИсамиIsamiThaiIsamiVietnameseIsamiGermanIsamiIndonesianIsamiPortugueseIsamiTurkishIsamiItalianIsami
+Change History[]
+Released in Version 3.0[Create New History]
+
+
+

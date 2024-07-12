@@ -1,0 +1,114 @@
+
+
+
+
+
+Roya
+Fresh Produce Vendor
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Sumeru
+
+
+Location
+Sumeru
+
+
+Dialogue Reward
+ 4
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Roya is an open-world NPC located in Port Ormos, Sumeru.
+Following a certain dialogue branch for the first time gives the player four Zaytun Peaches.
+
+Contents
+
+1 Location
+2 Quests and Events
+
+2.1 Story Quests
+
+2.1.1 Hangout Events
+
+
+
+
+3 Idle Quotes
+4 Thoughts
+5 Dialogue
+6 Other Languages
+7 Change History
+
+
+Location[]
+Roya's locationAdditional context
+Quests and Events[]
+Story QuestsHangout EventsKavehAct I: The Pendulum of Weal and WoeA Refuge in the Sands
+Idle Quotes[]
+
+ Quantity and quality...
+Media:VO Roya 01.ogg "Fresh fruits and veggies, both quantity and quality!"
+
+Thoughts[]
+Roya's thoughts can be accessed by using Nahida's Elemental Skill, All Schemes to Know.
+
+
+Media:VO Roya All Schemes to Know 01.ogg Roya: (These Zaytun Peaches are pretty high quality. I should plug them harder.)
+
+Dialogue[]
+
+Roya: Fresh fruits and veggies! Great quantity and quality!
+ And you are...
+Roya: I'm a wholesaler of fruits and vegetables.
+Roya: As you can see, there's a great number of merchant ships in the harbor, and my goods are sold in large quantities to meet the needs of ship crews going on long voyages.
+Roya: I'm used to selling crates of apples, peaches, potatoes, and tomatoes, so if you were to only buy a few, I wouldn't really know how to price them.
+ I'd like a couple...
+Roya: Just a couple? Just take some, then.
+Roya: It's not worth a fortune, just go ahead and take some.
+Roya: Right, since it's just a handful, eat them while they're still fresh!
+(Obtain  Zaytun Peach ×4)
+ See you.
+Roya: Let me know if you have any large orders!
+
+Other Languages[]
+
+LanguageOfficial NameEnglishRoyaChinese(Simplified)罗娅LuóyàChinese(Traditional)羅婭LuóyàJapaneseローヤRooyaKorean로야RoyaSpanishRoyaFrenchRoyaRussianРойяRoyyaThaiRoyaVietnameseRoyaGermanRoyaIndonesianRoyaPortugueseRoyaTurkishRoyaItalianRoya
+Change History[]
+Released in Version 3.0[Create New History]
+
+
+

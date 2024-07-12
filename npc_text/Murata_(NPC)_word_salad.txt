@@ -1,0 +1,175 @@
+
+
+
+This article is about the event-exclusive NPC. For the Pyro Archon, see Murata.
+
+
+Murata
+Yae Publishing House Editor
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+								Voice Actors
+							
+
+
+
+
+
+Region
+Inazuma
+
+
+Location
+Inazuma
+
+
+Affil­i­a­tion
+Yae Publishing House
+
+
+
+
+English
+Reagan Kathryn[1]
+
+
+Japanese
+Fujita Mizuki (藤田みずき)[2]
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Event-Exclusive NPCs 
+
+
+
+
+Murata is an event-exclusive shop NPC that appeared in Hues of the Violet Garden.
+
+Contents
+
+1 Shop
+2 Location
+3 Profile
+
+3.1 Appearance
+
+
+4 Quests and Events
+
+4.1 Events
+
+
+5 Idle Quotes
+6 Dialogue
+7 Other Languages
+8 Change History
+9 References
+
+
+Shop[]
+ItemCostStockTotalCost
+ The Saga of Hamavaran (Preface)1,50011,500
+ The Saga of Hamavaran (I)1,50011,500
+ The Saga of Hamavaran (II)1,50011,500
+ Treasured Tales of the Chouken Shinkageuchi (I)1,50011,500
+ The Serpent and Drakes of Tokoyokoku1,50011,500
+ Teyvat Travel Guide - Inazuma1,50011,500
+ Shogun Almighty: Reborn as Raiden With Unlimited Power1,50011,500
+ Pretty Please, Kitsune Guuji?1,50011,500
+ Hex & Hound (X)3,00013,000
+ Hex & Hound (XI)3,00013,000
+ New Chronicles of the Six Kitsune: Prologue3,00013,000
+ New Chronicles of the Six Kitsune (I)3,00013,000
+ New Chronicles of the Six Kitsune (II)3,00013,000
+ New Chronicles of the Six Kitsune (IV)3,00013,000
+ New Chronicles of the Six Kitsune (V)3,00013,000
+ A Legend of Sword (I)3,00013,000
+ A Legend of Sword (II)3,00013,000
+ A Legend of Sword (III)3,00013,000
+ A Legend of Sword (IV)3,00013,000
+ Princess Mina of the Fallen Nation (I)3,00013,000
+ Princess Mina of the Fallen Nation (II)3,00013,000
+ Princess Mina of the Fallen Nation (III)3,00013,000
+ Princess Mina of the Fallen Nation (IV)3,00013,000
+ Princess Mina of the Fallen Nation (VI)3,00013,000
+ Flowers for Princess Fischl (0)3,00013,000
+Total cost for all items31,500
+Location[]
+During Hues of the Violet Garden
+Murata's locationAdditional context
+Profile[]
+(To be added.)
+
+Appearance[]
+(To be added.)
+
+Quests and Events[]
+EventsHues of the Violet GardenFestival DeedsPart IV: Pen Pals, Book Reviews, and the Super Lucky GeneralTrue Tales of the Violet GardenAct I: The Strange Tale of Suikou's Tipsy TinctureFestive EleganceThe Strange Tale of Suikou's Tipsy TinctureAct II: What the Blue Flowers Left BehindWhat the Blue Flowers Left BehindAct III: A New Painting in Pale ScarletA New Painting in Pale Scarlet
+Idle Quotes[]
+
+ Don't miss it!
+Media:VO Murata Irodori 01.ogg "Don't miss the official stall of the Yae Publishing House!"
+
+Dialogue[]
+
+(After completing Festive Elegance)
+Murata: This is the official Yae Publishing House booth, but we're still setting it all up. We'll only open once the Irodori Festival starts.
+(After completing The Strange Tale of Suikou's Tipsy Tincture)
+Murata: Here's the official Yae Publishing House stall! Come check it out!
+ I'm looking to buy some books.
+Murata: Take your pick! We've got all sorts of new books here at the Irodori Festival!
+(Opens Shop menu)
+ How's the festival going?
+(Before completing The Five Colors' True Form)
+
+Murata: This Irodori Festival is different from ones in years past. I imagine that it's quite the sight for our guests.
+Murata: That said, I'm just here to collect the Mora, give out the change, thank people for their patronage... the works.
+Murata: Ah, sorry, no time for chit-chat. If Hirayama catches me, I'll be in hot stew for sure!
+(After completing The Five Colors' True Form)
+
+Murata: Oh, things have been going quite smoothly. Everyone in the editorial team has finally been able to heave a sigh of relief.
+Murata: Although the release event has ended, the festival will continue for a while more. I believe that there's also ongoing ikebana and Theater Mechanicus events...
+Murata: I'd have gone to take part in them myself if I didn't have to stay here to watch the booth.
+ See you.
+Murata: Yes, please come again!
+
+Other Languages[]
+
+LanguageOfficial NameEnglishMurataChinese(Simplified)村田CūntiánChinese(Traditional)村田CūntiánJapanese村田MurataKorean무라타MurataSpanishMurataFrenchMurataRussianМуратаMurataThaiMurataVietnameseMurataGermanMurataIndonesianMurataPortugueseMurata
+Change History[]
+Released in Version 2.6[Create New History]
+References[]
+
+↑ Twitter: EN VA Self Announcement
+
+↑ Twitter: JP VA Self Announcement
+
+
+
+
+

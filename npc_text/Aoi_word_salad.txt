@@ -1,0 +1,166 @@
+
+
+
+
+
+Aoi
+Owner of Tsukumomono Groceries
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Inazuma
+
+
+Location
+Inazuma
+
+
+Affil­i­a­tion
+Tsukumomono Groceries
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Aoi (Japanese: 葵 Aoi) is an open-world NPC located in Inazuma City, Inazuma. She runs the General Goods shop, Tsukumomono Groceries.
+The shop is open at all times of the day and sells cooking ingredients and Naku Weeds. The frequency of stock refresh varies.
+
+Contents
+
+1 Shop
+2 Location
+3 Profile
+
+3.1 Appearance
+
+
+4 Quests and Events
+
+4.1 Archon Quests
+4.2 Story Quests
+
+4.2.1 Hangout Events
+
+
+4.3 Events
+
+
+5 Idle Quotes
+6 Dialogue
+7 Event Dialogue
+
+7.1 Iridescent Arataki Rockin' for Life Tour de Force of Awesomeness
+
+
+8 Other Languages
+9 Change History
+
+
+Shop[]
+ItemCostStockTotalCostRefreshes
+ Salt60(50)1006,000(5,000)Daily
+ Pepper80(70)1008,000(7,000)Daily
+ Onion80(70)1008,000(7,000)Daily
+ Milk100(90)10010,000(9,000)Daily
+ Tomato120(105)10012,000(10,500)Daily
+ Cabbage120(105)10012,000(10,500)Daily
+ Potato120(105)10012,000(10,500)Daily
+ Wheat100(90)10010,000(9,000)Daily
+ Rice100(90)10010,000(9,000)Daily
+ Shrimp Meat120(105)10012,000(10,500)Daily
+ Tofu100(90)10010,000(9,000)Daily
+ Naku Weed1,000(900)55,000(4,500)Every 3 Days
+Total cost for all items115,000(101,500) 
+Brackets indicate cost after reputation discount.
+
+Location[]
+Aoi's locationAdditional context
+Profile[]
+(To be added.)
+
+Appearance[]
+Aoi has a brown bob-cut hair and wears a pink kimono with a black obi and a beige coat.
+
+Quests and Events[]
+Archon QuestsChapter IIAct I: The Immovable God and the Eternal EuthymiaTo Treat the Well-Meaning WellStory QuestsHangout EventsKuki ShinobuAct I: The Gang's Daily DeedsKey DecisionEventsIridescent Arataki Rockin' for Life Tour de Force of Awesomeness
+Idle Quotes[]
+
+ You can find everything...
+Media:VO Aoi 01.ogg "You can find everything and anything in Tsukumomono Groceries."
+
+Dialogue[]
+
+Aoi: Tsukumomono Groceries. All your wishes granted in this one place!
+ I'd like to make a purchase.
+Aoi: Your wish is my command. Please, pick anything you like.
+(Opens Tsukumomono Groceries wares)
+ You sell everything here, you mean?
+Aoi: That's right. "Tsukomomono" itself means "having almost everything." Similarly, our shop is dedicated to fulfilling the wishes of every customer.
+Aoi: Which means that as long as can you [sic] offer the right price, you can buy anything.
+Aoi: Hehe... and as for how we got the goods. I'm afraid I cannot disclose that.
+ One new Paimon, please.
+Aoi: Pai... mon? Oh, what is this? A flying doll that makes noises? Is... is this some antique imbued with genjutsu, by any chance?
+Aoi: Sorry, this is indeed a little... Please wait, dear customer. I shall have to consult my sources...
+ See you.
+Aoi: Goodbye! Tsukumomono Groceries will be at your service anytime.
+
+Event Dialogue[]
+Iridescent Arataki Rockin' for Life Tour de Force of Awesomeness[]
+
+ We'd like to invite you to attend this music festival.
+Aoi: How strange. No one's ever invited me to go attend such an event before.
+Paimon: Well, that's why we're here! Hehe.
+Paimon: You must have music you really love, right, Aoi? We could play it for you — we're serious musicians!
+Aoi: Music, you say? Well... There is one that I heard a long while back. I was your height when I last heard it, I believe.
+Aoi: I only remember bits and pieces of it, but could you play it for me all the same?
+ Sure, I'll give it a go.
+Aoi: Thank you.
+(After performing)
+
+Aoi: Ah... Lovely. It seems you're quite the dab hand at making others' wishes come true.
+Aoi: It's been almost twenty years since I last heard this tune. It was a boy in the neighborhood who played it for me.
+Aoi: His wish was to travel and see the outside world... It's just a shame that I couldn't have been the one to help him.
+Aoi: Heh, well, would you look at that? I've strayed from the topic. I'm afraid I can't help with this music festival. Tsukumomono Groceries can't do without me right now.
+Aoi: Still, I'm glad to have heard this once more. Thank you so much.
+(Talk to Aoi again, optional)
+ How was that?
+(Same as After performing)
+
+Other Languages[]
+
+LanguageOfficial NameEnglishAoiChinese(Simplified)葵KuíChinese(Traditional)葵KuíJapanese葵AoiKorean아오이AoiSpanishAoiFrenchAoiRussianАоиAoiThaiAoiVietnameseAoiGermanAoiIndonesianAoiPortugueseAoiTurkishAoiItalianAoi
+Change History[]
+Released in Version 2.0[Create New History]
+
+
+

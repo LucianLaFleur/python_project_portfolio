@@ -1,0 +1,153 @@
+
+
+
+
+
+Asfand
+Consultant
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Sumeru
+
+
+Location
+Sumeru
+
+
+Affil­i­a­tion
+Corps of Thirty
+
+
+Genius Invokation TCG
+Stages
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Asfand is an open-world NPC located in Citadel of Regzar, Sumeru City, Sumeru.
+
+Contents
+
+1 Location
+2 Profile
+
+2.1 Appearance
+
+
+3 Quests and Events
+
+3.1 Archon Quests
+3.2 Story Quests
+
+
+4 Idle Quotes
+5 Thoughts
+6 Dialogue
+
+6.1 Dialogue Set #1
+6.2 Dialogue Set #2
+
+
+7 Other Languages
+8 Change History
+
+
+Location[]
+Asfand's locationAdditional context
+Profile[]
+(To be added.)
+
+Appearance[]
+(To be added.)
+
+Quests and Events[]
+Archon QuestsChapter IIIAct I: Through Mists of Smoke and Forests DarkThe Trail of the God of WisdomStory QuestsLupus Aureus Chapter (Cyno)Act II: OathkeeperAfter Repose
+Idle Quotes[]
+
+ No news...
+Media:VO Asfand 01.ogg "No news is good news."
+
+Thoughts[]
+Asfand's thoughts can be accessed by using Nahida's Elemental Skill, All Schemes to Know.
+
+Media:VO Asfand All Schemes to Know 01.ogg Asfand: (If only Dehya would join the Corps of Thirty. We need more people like her.)
+Dialogue[]
+This page is missing dialogue.Can you help out? Click here to add more.Verification on when in the Archon Quest it changes
+Dialogue Set #1[]
+
+(Before ???)
+Asfand: I am Asfand, advisor of the Citadel of Regzar. I am happy to answer any questions you may have.
+ Duel
+(Opens Genius Invokation TCG match interface)
+(If the player loses the match)
+
+Asfand: Haha, it was a pleasure to win.
+(If the player wins the match)
+
+Asfand: Well, it's a defeat in the most unexpected circumstances. One can't see the path to victory when their vision is too narrow.
+ Hello.
+Asfand: Greetings. This is the Citadel of Regzar, headquarters of the Corps of Thirty, the Eremites that guard Sumeru City.
+Asfand: I have retired, but I have been asked by Rukh Shah to be an advisor because I have served in both the Corps of Thirty and other groups.
+Asfand: If there are any unexpected conflicts, you can call on me to resolve them.
+ Goodbye.
+Asfand: Safe travels.
+
+Dialogue Set #2[]
+
+(After ???)
+Asfand: If it isn't Dehya's friends! Welcome to the Citadel of Regzar.
+ Duel
+(Same as before)
+ Nice to meet you again.
+Asfand: Greetings. At my age, it's really nice to see familiar faces again.
+Asfand: Rukh Shah and I were talking about how well Dehya carried out the commission this time. Not only did she get to know the young lady of the Homayanis, she also managed to make some new friends.
+Asfand: Dehya is a reliable partner and one of the best in the Corps of Thirty. She does speak too frankly sometimes, please forgive her if she's offended you.
+Asfand: For people like the Eremites who always have to be on the move and travel far away, it's always a good thing to have more partners on the journey.
+ See you.
+Asfand: Safe travels.
+
+Other Languages[]
+
+LanguageOfficial NameEnglishAsfandChinese(Simplified)阿斯法德ĀsīfǎdéChinese(Traditional)阿斯法德ĀsīfǎdéJapaneseアスファンドAsufandoKorean아스판드AseupandeuSpanishAsfandFrenchAsfandRussianАсфандAsfandThaiAsfandVietnameseAsfandGermanAsfandIndonesianAsfandPortugueseAsfandTurkishAsfandItalianAsfand
+Change History[]
+Released in Version 3.0[Edit History]Version 3.3
+Added a Genius Invokation TCG Duel for Asfand.
+
+Version 3.0
+
+Asfand was released.
+
+
+

@@ -1,0 +1,195 @@
+
+
+
+
+
+Baiwen
+Secretary, Jade Chamber
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+								Voice Actors
+							
+
+
+
+
+
+Region
+Liyue
+
+
+Location
+Liyue
+
+
+Affil­i­a­tion
+Liyue Qixing Employees
+
+
+Dialogue Reward
+ 1
+
+
+
+
+Japanese
+Amemiya Mito (雨宮 美都)[1]
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Baiwen (Chinese: 百闻 Bǎiwén) is one of Ningguang's secretaries in the Jade Chamber.
+Following a certain dialogue branch for the first time gives the player one Guide to Prosperity.
+
+Contents
+
+1 Location
+2 Profile
+
+2.1 Appearance
+
+
+3 Quests and Events
+
+3.1 Archon Quests
+3.2 Story Quests
+
+3.2.1 Hangout Events
+
+
+3.3 World Quests
+3.4 Events
+
+
+4 Idle Quotes
+5 Dialogue
+
+5.1 During Equilibrium
+5.2 After Where the Heart Finds Rest
+
+
+6 Trivia
+7 Gallery
+
+7.1 Cameos
+
+
+8 Other Languages
+9 Change History
+10 References
+
+
+Location[]
+Baiwen's locationAdditional context
+Profile[]
+(To be added.)
+
+Appearance[]
+(To be added.)
+
+Quests and Events[]
+Archon QuestsChapter IIPrologue: Autumn Winds, Scarlet LeavesFollow the WindInterlude ChapterAct I: The Crane Returns on the WindJade Chamber RisingSeagaze SunsetBygones Times Like Dust PassingWhere the Heart Finds RestStory QuestsSinae Unicornis Chapter (Ganyu)Act I: Sea of Clouds, Sea of PeopleThe Illuminated Beast of the Sea of CloudsA Pact That Crosses TimeHangout EventsNingguangAct I: The Jade Chamber's Returning GuestAuction GamesThe Jade Chamber Once MoreWorld QuestsFishing For JadeReturn of the Jade Chamber?EventsThe Exquisite Night ChimesPart I: A Thousand Miles for an Enigmatic TuneDuel! The Summoners' Summit!Round 2: Roll! A Sea of New Acquaintances
+Idle Quotes[]
+
+ Good market insight...
+Media:VO Baiwen 01.ogg "Hmm... this gives good market insight!"
+
+Dialogue[]
+During Equilibrium[]
+
+Baiwen: Welcome, are you here to meet with Lady Ningguang?
+ That I am.
+Baiwen: As we expected, your aims correspond to the intelligence we have on hand.
+Baiwen: If you are looking for Lady Ningguang, you have come to the right place. This the Jade Chamber, the foremost intelligence hub and the epicenter of all important decisions in Liyue.
+Baiwen: Although, it seems that our estimate of your arrival time, which we based on the available intel on your circumstances at the time, was early by a whole two hours. Hmm..
+Baiwen: I must reflect on the cause of this discrepancy. Was our source at fault, or did we make an error in our calculations?
+ Uh, who are you?
+Baiwen: Ah. Where are my manners? You may call me Baiwen.
+Baiwen: I am Lady Ningguang's secretary, and I am in charge of data collection and organization.
+ I really respect Lady Ningguang.
+Baiwen: Many people do, including myself.
+Baiwen: The Tianquan's words can move mountains, and everyone knows it. My task is to help oversee Lady Ningguang's intelligence network.
+Baiwen: Lady Ningguang's razor-sharp mind tears through the vast amounts of information at pace, and quickly reaches a verdict. These pearls of wisdom are then discarded from the Jade Chamber, giving guidance on "prosperity" to the world below...
+Baiwen: Do you, too, wish to learn of such things?
+(Obtain  Guide to Prosperity ×1)
+ I'm just passing by.
+Baiwen: Is that so? How fascinating...
+Baiwen: I find it hard to believe that you came here for leisure alone.
+Baiwen: Our intel indicates that no one comes to the Jade Chamber without good reason. This rule has yet to see exception.
+Baiwen: But make no mistake, we will be certain to ascertain your motivations, irrespective of whether or not you yourself are forthcoming with them, and they will enter our records in due course. I would advise you not to underestimate the strength of our intelligence network.
+ See you.
+Baiwen: Goodbye, and may fortune find you.
+
+After Where the Heart Finds Rest[]
+
+Baiwen: Ah, it's you. Welcome. Here to meet with Lady Ningguang, I presume?
+ Hello there.
+Baiwen: Yes, nice to meet you as well. We were expecting you, in fact. Your movements correspond to the intelligence we have on hand.
+Baiwen: If you are looking for Lady Ningguang... Well, this is the Jade Chamber, the foremost intelligence hub and the epicenter of all important decisions in Liyue, after all. You've come to the right place.
+Baiwen: Although, based on the intel on your file, we estimated that you would arrive a whole two hours earlier than you actually did...
+Baiwen: I must reflect on the cause of this discrepancy. Was our source at fault, or did we make an error in our calculations?
+ I really respect Lady Ningguang.
+Baiwen: Many people do, including myself.
+Baiwen: The Tianquan's words can move mountains, and everyone knows it. My task is to help oversee Lady Ningguang's intelligence network.
+Baiwen: Lady Ningguang's razor-sharp mind tears through the vast amounts of information at pace, and quickly reaches a verdict. These pearls of wisdom are then discarded from the Jade Chamber, giving guidance on "prosperity" to the world below...
+Baiwen: Do you, too, wish to learn of such things?
+(Obtain  Guide to Prosperity ×1)
+ I'm just passing through, actually.
+Baiwen: Is that so? How fascinating...
+Baiwen: I find it hard to believe that you came here for leisure alone. After all, this is the very same Jade Chamber that you helped to rebuild.
+Baiwen: All intel heretofore gathered indicates that no one comes to the Jade Chamber without good reason. This rule has yet to see exception.
+Baiwen: As Lady Ningguang's secretary and one in charge of collecting and organizing intelligence, I must strive to get a handle on the information of all guests, even ones as esteemed as yourself.
+ Goodbye.
+Baiwen: Goodbye, and may fortune find you.
+
+Trivia[]
+In Chinese, Baiwen's name translates to "Hundred-Hearing"  (Chinese: 百闻). She shares a similar name with her two fellow secretaries, Baishi  (Chinese: 百识 "Hundred-Knowing") and Baixiao  (Chinese: 百晓 "Hundred-Understanding"). The names may collectively be a reference to Ningguang's renowned insight into the inner workings of Liyue Harbor.[2]
+Gallery[]
+Cameos[]
+Genshin Impact Ningguang StoryCutscene in Farewell, Archaic Lord
+Other Languages[]
+
+LanguageOfficial NameEnglishBaiwenChinese(Simplified)百闻BǎiwénChinese(Traditional)百聞BǎiwénJapanese百聞Hyakubun[3]Korean백문BaengmunSpanishBaiwenFrenchBaiwenRussianБай ВэньBay Ven'ThaiBaiwenVietnameseBaiwenGermanBaiwenIndonesianBaiwenPortugueseBaiwenTurkishBaiwenItalianBaiwen
+Change History[]
+Released in Version 1.1[Create New History]
+References[]
+
+↑ Amuleto: JP VA's Profile
+
+↑ Ningguang's Character Story: Character Story 2
+
+↑ Story Quest, Ganyu, Sinae Unicornis Chapter: Act I - Sea of Clouds, Sea of People, Part 1: The Illuminated Beast of the Sea of Clouds (Japanese Voice-Over)
+
+
+
+
+

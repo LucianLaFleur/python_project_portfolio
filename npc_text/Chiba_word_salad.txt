@@ -1,0 +1,174 @@
+
+
+
+
+
+Chiba
+Kanjou Commission Officer
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+								Voice Actors
+							
+
+
+
+
+
+Region
+Inazuma
+
+
+Location
+Inazuma
+
+
+Affil­i­a­tion
+Kanjou Commission
+
+
+
+
+English
+Andrew Eales[1][2]
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Chiba  (Japanese: 千葉) is an open-world NPC located in Ritou, Inazuma. He stands guard in front of the Outlander Affairs Agency.
+
+Contents
+
+1 Location
+2 Profile
+
+2.1 Appearance
+
+
+3 Idle Quotes
+4 Dialogue
+
+4.1 Dialogue Set #1
+4.2 Dialogue Set #2
+4.3 Dialogue Set #3
+
+
+5 Event Dialogue
+
+5.1 Hues of the Violet Garden
+
+
+6 Other Languages
+7 Change History
+8 References
+
+
+Location[]
+Chiba's locationAdditional context
+Profile[]
+Appearance[]
+Chiba wears a standard uniform modeled from the ashigaru (Japanese: 足軽) of feudal Japan. He wears a purple-gray shitagi, lavender kobakama, white socks, and waraji sandals. His eggplant-colored armor with pale gold accents consists of dou (breastplate) with the Inazuma Shogunate's crest, kote (armored sleeves), haidate (thigh guards), and sune-ate (greaves). He is equipped with a juumonji yari (cross-shaped spear), whose shaft is lavender colored, and contains the Shogunate crest under the spearhead.
+
+Idle Quotes[]
+
+ Outlander Affairs Agency...
+Media:VO Chiba 01.ogg "This is the Outlander Affairs Agency. Please have your documents and proof of identification ready."
+
+During Hues of the Violet Garden
+
+ Please stay safe...
+Media:VO Chiba Irodori 01.ogg "Please be mindful of your personal safety at all times."
+
+Dialogue[]
+Dialogue Set #1[]
+
+(Before completing Omnipresence Over Mortals)
+Chiba: Do you need anything?
+ What is this place?
+Chiba: This is the Outlander Affairs Agency, which is under the jurisdiction of the Kanjou Commissioner.
+Chiba: What is it? Are you here to apply to stay in Ritou? Come in, then... and remember to keep your wallet at hand.
+ Wallet?
+Chiba: Hmph, you'll see when you're in there...
+ What if I want to go to Narukami Island...
+Chiba: You want to go to Narukami Island? Then it's not just something that can be taken care of with just Mora.
+Chiba: Even Inazuma locals must come here for approval if they want to go to Ritou, let alone an outlander such as yourself trying to leave it. You can forget it.
+Chiba: Unless you can get a Travel Permit, but it's not something that can be obtained so easily. Even I don't have a way to get it. As for you... good luck to you.
+ Goodbye.
+Chiba: Yes...
+
+Dialogue Set #2[]
+
+(After completing Omnipresence Over Mortals)
+Chiba: Can I help you with something?
+ What is this place?
+Chiba: This is the Outlander Affairs Agency, which is under the jurisdiction of the Kanjou Commission.
+Chiba: What is it? Are you here to apply to stay in Ritou?
+ What if I want to go to Narukami Island...
+Chiba: You want to go to Narukami Island? You need to apply for a Travel Permit first.
+Chiba: You've come at a good time.
+Chiba: Nowadays, the authorities are strict. As long as the required materials are ready, it should be much easier to apply than before.
+ Goodbye.
+Chiba: Hmm...
+
+Dialogue Set #3[]
+
+(After completing Transient Dreams)
+Chiba: Is something the matter?
+ What's this place?
+Chiba: This is the Outlander Affairs Agency, which is under the jurisdiction of the Kanjou Commission.
+Chiba: What is it? Do you need to apply for anything?
+ Apply?
+Chiba: Yes, that's right. You have to register here in order to do business, organize activities, send letters, and transport goods.
+Chiba: You've come at just the right time, really. As long as you have the required materials at the ready, it should be much easier to apply than before.
+ See you.
+Chiba: Hmm...
+
+Event Dialogue[]
+Hues of the Violet Garden[]
+
+Chiba: Greetings. Please, this way for any certification regarding the festival.
+(Continue non-event dialogue)
+
+Other Languages[]
+
+LanguageOfficial NameEnglishChibaChinese(Simplified)千叶QiānyèChinese(Traditional)千葉QiānyèJapanese千葉ChibaKorean치바ChibaSpanishChibaFrenchChibaRussianТибаTibaThaiChibaVietnameseChibaGermanChibaIndonesianChibaPortugueseChibaTurkishChibaItalianChiba
+Change History[]
+Released in Version 2.0[Create New History]
+References[]
+
+↑ Twitter: EN VA Self Announcement (Archived)
+
+↑ IMDb: EN VA's Profile
+
+
+
+
+

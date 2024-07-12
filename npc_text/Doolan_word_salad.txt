@@ -1,0 +1,162 @@
+
+
+
+
+
+Doolan
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Mondstadt
+
+
+Location
+Mondstadt
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Doolan is an open-world NPC located near the Thousand Winds Temple in Mondstadt. He can be seen accompanying Patchi the Curious researching the ruins at dayttime (6:00 – 19:00) and sitting at a tent near the ruins at nighttime.
+
+Contents
+
+1 Location
+2 Profile
+
+2.1 Appearance
+
+
+3 Quests and Events
+
+3.1 Commissions
+3.2 Events
+
+
+4 Idle Quotes
+5 Dialogue
+6 Event Dialogue
+
+6.1 Invitation of Windblume and Windblume's Breath
+
+
+7 Other Languages
+8 Change History
+9 References
+
+
+Location[]
+Doolan's location (Daytime)Additional context (Daytime)Doolan's location (Nighttime)Additional context (Nighttime)
+Profile[]
+Doolan, together with Patchi, is researching the ruins of the Thousand Winds Temple. He is in love with his colleague Patchi and deliberately stalls their invenstigation so he can spend more time with her. His actions, however, becomes a constant source of argument with Patchi who wants to finish their investigation.[1]
+
+Appearance[]
+(To be added.)
+
+Quests and Events[]
+CommissionsAdventure Takes Courage!EventsUnreconciled StarsThat Which Fell From the Sky
+Idle Quotes[]
+
+ But...
+Media:VO Doolan 01.ogg "But, it'll still be dangerous..."
+ Favorite food...
+Media:VO Doolan 02.ogg "Oh, what do you like to eat?"
+
+During Invitation of Windblume and Windblume's Breath
+
+ There's gotta be a way...
+Media:VO Doolan Invitation of Windblume 01.ogg "There's gotta be a way to make her finally understand me"
+
+Dialogue[]
+
+Doolan: Don't get any closer to the temple. It's much too dangerous.
+ Is there anything of note nearby?
+(If there are Magical Crystal Ore Veins Doolan knows; Version 1)
+
+Doolan: Ah, yes. I have encountered some ores nearby. I believe that they're called Magical Crystal Ores?
+Doolan: I've heard that these Crystal Ores were formed under the influence of Ley Line energies. They are very hard to come by, and very few smiths know how to work them.
+Doolan: You can go have a look if you're interested. I think their locations were...
+Doolan: There. I've marked them out on your map. I mean, note-taking is a skill that every adventurer must have, no?
+(Rich Ore Reserves nearby marked on the map)
+(If there are Magical Crystal Ore Veins Doolan knows; Version 2)
+
+Doolan: Now that you mention it, I did see a few shiny ores nearby. Perhaps they're some sort of Crystal Ore?
+Doolan: You can go have a look if you're interested, I think they were located at...
+Doolan: There, I've marked them out on your map. I mean, note-taking is a skill that every adventurer must have, no?
+(Rich Ore Reserves nearby marked on the map)
+(If there are no more Magical Crystal Ore Veins Doolan knows)
+
+Doolan: I don't think there's anything of note nearby. If there had to be something... Well, Patchi's changed her hairstyle recently.
+ What's happened?
+Doolan: It started off as just an issue of adventuring into the ruins — my specialty — but what does it matter now; it's become too layered and complex, and elusive.
+Doolan: Do you know the feeling? It's like, just when you think you can't see the wood for the trees, suddenly you see a ray of light in the darkness and things take a turn for the better; then out of nowhere the answer is right under your nose. But it morphs again as you try to get a handle on it and suddenly it's got this ephemeral, dream-like quality to it...
+Doolan: It's more subtle and ambiguous than an adventure — it's got this really strong romantic vibe, with a hint of danger...
+ What in the world are you talking about?
+Doolan: I do apologize— I'm an adventurer, and in principle there's no significant difference between an adventure and a chance encounter, but I just can't seem to get a handle on this one.
+Doolan: Ms. Patchi is rash and impulsive, so adventuring with her would be high-risk. I worry that she would get injured.
+Doolan: But most importantly of all, neither adventures nor chance encounters last forever; in both cases, if you hesitate the opportunity will pass you by.
+Doolan: She's so persistent that there's nothing I can do other than to try and make this chance encounter last as long as possible.
+ You seem like a shady character.
+Doolan: Well, when one day you're traveling along and you suddenly come face to face with your destiny out of nowhere... Maybe it'll bring out the shady character in you, too.
+Doolan: Adventuring is a romantic pursuit. When I do things like refusing to join the Adventurers' Guild because of their boring clothes, and stuff like that, it's all because I'm a romantic at heart.
+Doolan: *sigh* It looks like it'll take both you and her some time to fully understand this feeling I feel... It's like an epiphany, but clouded somehow...
+ Goodbye.
+Doolan: There is much more to an adventure than its destination alone, traveler.
+
+Event Dialogue[]
+Invitation of Windblume and Windblume's Breath[]
+
+Doolan: This is the time of the Windblume Festival, the season when dandelions float about in the wind.
+Doolan: I've always been looking forward to a time when I might express my love for my destined one amid a sea of billowing dandelions...
+Doolan: But I never expected Miss Patchi to be too absorbed in her research to understand a thing I was saying...
+Doolan: Nothing could be more boring than spending such a romantic festival buried knee-deep in books and ruins.
+Doolan: Who knows how long it'll take for her to understand these deep yet nebulous feelings of mine...
+
+Other Languages[]
+
+LanguageOfficial NameEnglishDoolanChinese(Simplified)杜兰DùlánChinese(Traditional)杜蘭DùlánJapaneseドゥーランDuuranKorean두란DuranSpanishDoolanFrenchDoolanRussianДуланDulanThaiDoolanVietnameseDoolanGermanDoolanIndonesianDoolanPortugueseDoolanTurkishDoolanItalianDoolan
+Change History[]
+Released in Version 1.0[Edit History]Version 1.1
+Doolan can now inform the player about Mining Outcrops.
+
+Version 1.0
+
+Doolan was released.
+References[]
+
+↑ Commission: Adventure Takes Courage!
+
+
+
+
+

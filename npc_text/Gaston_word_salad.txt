@@ -1,0 +1,112 @@
+
+
+
+
+
+Gaston
+Reporter, The Steambird
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Fontaine
+
+
+Location
+Sumeru
+
+
+Affil­i­a­tion
+The Steambird
+
+
+Dialogue Reward
+ 4
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Gaston is an open-world NPC located in The Palace of Alcazarzaray, Sumeru.
+Following a certain dialogue branch for the first time gives the player four Adventurer's Experience.
+
+Contents
+
+1 Location
+2 Profile
+3 Idle Quotes
+4 Thoughts
+5 Dialogue
+6 Other Languages
+7 Change History
+
+
+Location[]
+Gaston's locationAdditional context
+Profile[]
+He is a reporter of The Steambird currently at The Palace of Alcazarzaray hoping to interview it's owner.
+
+Idle Quotes[]
+
+ Important person...
+Media:VO Gaston 01.ogg "The owner of this estate must be someone really important."
+
+Thoughts[]
+Gaston's thoughts can be accessed by using Nahida's Elemental Skill, All Schemes to Know.
+
+
+Media:VO Gaston All Schemes to Know 01.ogg Gaston: (Just wait for me to bring back that big scoop!)
+
+Dialogue[]
+
+Gaston: I must ask these questions once that "Lord" of theirs returns...
+ What are you doing?
+Gaston: I traveled all the way here from Fontaine just to interview the owner of this place.
+Gaston: I inquired about it everywhere, while people are constantly praising the architect who designed this place, no one knows who owns it.
+Gaston: Isn't that an obvious scoop for me!?
+Gaston: I may be just be a trainee reporter from The Steambird, but I can't let that stop me. If I want to write an intriguing article, then I must be the first to eat the Specter!
+Gaston: So no matter how hard it is, I'm going to meet the owner of this place!
+ Persistence is the key!
+Gaston: You're right!
+Gaston: That's what my teacher taught me: A journalist needs to have an adventurous spirit to make my news report the biggest blast!
+(Obtain  Adventurer's Experience ×4)
+ See you.
+Gaston: You're leaving already? Bye then. I'll be waiting a while longer.
+
+Other Languages[]
+
+LanguageOfficial NameEnglishGastonChinese(Simplified)加斯顿JiāsīdùnChinese(Traditional)加斯頓JiāsīdùnJapaneseガストンGasutonKorean가스톤GaseutonSpanishGastónFrenchGastonRussianГастонGastonThaiGastonVietnameseGastonGermanGastonIndonesianGastonPortugueseGastonTurkishGastonItalianGaston
+Change History[]
+Released in Version 3.0[Create New History]
+
+
+

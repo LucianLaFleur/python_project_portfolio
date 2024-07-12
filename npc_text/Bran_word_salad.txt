@@ -1,0 +1,136 @@
+
+
+
+
+
+Bran
+"Coupon Cafeteria" Staff
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Fontaine
+
+
+Location
+Fontaine
+
+
+Affil­i­a­tion
+Fortress of Meropide
+
+
+Dialogue Reward
+ 1
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+
+A complimentary dish provided by the Coupon Cafeteria in the Fortress of Meropide. Normally, one person can receive one free meal full of surprises per day. This is the sole thing at the Fortress where full equality need not be bought with Coupons.Welfare Meals, Map Description
+Bran is an open-world NPC located in Administrative Area, Fortress of Meropide, Fontaine that works at the Coupon Cafeteria, appearing under the  map icon.
+It will give the player a Welfare Meal once per day.
+
+Contents
+
+1 Location
+2 Profile
+
+2.1 Appearance
+
+
+3 Quests and Events
+
+3.1 World Quests
+
+
+4 Idle Quotes
+5 Dialogue
+
+5.1 Dialogue Set #1
+5.2 Dialogue Set #2
+
+
+6 Other Languages
+7 Change History
+8 References
+
+
+Location[]
+Bran's locationAdditional context
+Profile[]
+Bran had been broken even before the Geode Mine Shaft ceased operations in the Fortress of Meropide. It was left in the Abandoned Production Zone for an unknown length of time before it was retrieved by Wolsey after Camden complained about the noises it made during his naps. Wolsey successfully repaired Bran and provided it a job at the Coupon Cafeteria.[1]
+
+Appearance[]
+Bran takes on the appearance of a Nimble Harvester Mek - Pneuma. Its Arkhe alignment is disabled and colored gray.
+
+Quests and Events[]
+World QuestsUnfinished ComedyGame of the Rich
+Idle Quotes[]
+
+ ...
+
+Dialogue[]
+Dialogue Set #1[]
+Available the first time Bran is spoken to per day.
+
+
+Bran: Greetings. What can I do for you?
+ I'd like a Welfare Meal, please.
+Bran: Understood.
+Bran: Enjoy your meal.
+(Obtain  Welfare Meal ×1)
+
+Dialogue Set #2[]
+Available after obtaining a Welfare Meal from Bran.
+
+
+Bran: Greetings. What can I do for you?
+ I'd like a Welfare Meal, please.
+Bran: Negative. According to the Fortress of Meropide's Coupon Cafeteria Regulations, only one Welfare Meal per day can be claimed per person.
+ Nothing much.
+Bran: ...Understood.
+
+Other Languages[]
+
+LanguageOfficial NameEnglishBranChinese(Simplified)布兰BùlánChinese(Traditional)布蘭BùlánJapaneseブランBuranKorean브랑BeurangSpanishBranFrenchBranRussianБранBranThaiBranVietnameseBranGermanBranIndonesianBranPortugueseBranTurkishBranItalianBran
+Change History[]
+Released in Version 4.1[Create New History]
+References[]
+
+↑ NPC Dialogue: Wolsey
+
+
+
+
+

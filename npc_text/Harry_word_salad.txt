@@ -1,0 +1,139 @@
+
+
+
+
+
+Harry
+Knight of Favonius
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Mondstadt
+
+
+Location
+Mondstadt
+
+
+Affil­i­a­tion
+Knights of Favonius
+
+
+Dialogue Reward
+ 1
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Harry is an open-world NPC located in Stormbearer Point, Mondstadt. He can be found patrolling near the Teleport Waypoint in the area.
+Following a certain dialogue branch for the first time gives the player one 3★ Cool Steel.
+
+Contents
+
+1 Location
+2 Profile
+
+2.1 Appearance
+
+
+3 Quests and Events
+
+3.1 Events
+
+
+4 Idle Quotes
+5 Dialogue
+6 Event Dialogue
+
+6.1 Hidden Strife
+
+
+7 Other Languages
+8 Change History
+
+
+Location[]
+Harry's locationAdditional context
+Profile[]
+(To be added.)
+
+Appearance[]
+Harry wears one of the standard uniforms of the Knights of Favonius. The uniform consists of a black long-sleeve shirt, horse riding pants, gloves, and brown leather shoulder pads with brass-accented white plate armor worn on top. His vambraces however are black. Wing motifs decorate various parts of the armor along with the Knights of Favonius crest on the breastplate. A sheathed sword hangs from his belt on his left side.
+
+Quests and Events[]
+EventsUnreconciled StarsTo Each Their DutyHidden Strife
+Idle Quotes[]
+
+ Again?
+Media:VO Harry 01.ogg "Three new camps have popped up nearby..."
+
+Dialogue[]
+
+Harry: Oh! hi!
+Harry: Do you need a hand with anything?
+ Who are you?
+Harry: I'm Harry from the Knights of Favonius.
+Harry: I have been posted here by the Knights to help victims of the attack.
+ What kind of help do you provide?
+Harry: For regular citizens, I help escort them safely to the city, to Springvale, or wherever.
+Harry: For people who know how to look after themselves, adventurers and the like, I offer training in self-defense.
+Harry: Seems like you fall in the latter category. So please take this sword, and take care of yourself.
+(Obtain 3★  Cool Steel)
+ What are you doing?
+Harry: I am gathering information on where monsters are stationed along this road. It'll help me better protect the merchants' route.
+Harry: If the situation gets worse, intel like this will help me convince the Acting Grand Master that the Stormbearer Mountains area is in dire need of a cleanup operation!
+Harry: Just like the Grand Master's one, back in the day!
+ Goodbye.
+Harry: What? You're leaving already?
+
+Event Dialogue[]
+Hidden Strife[]
+
+Media:vo hyeq002 11 harry 01.ogg Harry: Hello there!
+Media:vo hyeq002 11 harry 02.ogg Harry: I'm Harry of the Knights of Favonius. This area has been deemed highly dangerous, and I have been ordered to keep the public away.
+Media:vo hyeq002 11 harry 03.ogg Harry: Vicious monsters have been reported around the Stormbearer Mountains.
+Media:vo hyeq002 11 harry 04.ogg Harry: We have yet to ascertain their precise location, but the Knights of Favonius are on their trail.
+ I don't see any other knights here except you...
+Media:vo hyeq002 11 harry 05.ogg Harry: We need to confirm the monsters' positions before taking large-scale action. Otherwise, they'll see us coming and run off.
+Media:vo hyeq002 11 harry 06.ogg Harry: Hence, the search team is operating in smaller units. They are operating very discreetly and staying away from the public eye.
+Media:vo hyeq002 11 harry 07.ogg Harry: Please, for your safety, stay away from the Stormbearer Mountains.
+
+Other Languages[]
+
+LanguageOfficial NameEnglishHarryChinese(Simplified)哈里HālǐChinese(Traditional)哈利HālìJapaneseハリーHariiKorean해리HaeriSpanishHarryFrenchHarryRussianГарриGarriThaiHarryVietnameseHarryGermanHarryIndonesianHarryPortugueseHarryTurkishHarryItalianHarry
+Change History[]
+Released in Version 1.0[Create New History]
+
+
+

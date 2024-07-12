@@ -1,0 +1,146 @@
+
+
+
+
+
+Ding Jr.
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+								Family
+							
+
+
+
+
+
+Region
+Liyue
+
+
+Location
+Liyue
+
+
+Affil­i­a­tion
+Chunming Teaworks
+
+
+
+
+Father
+Ding Sr.
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Ding Jr. is an open-world NPC located in Chunming Teaworks, Qiaoying Village, Chenyu Vale: Upper Vale, Chenyu Vale, Liyue.
+
+Contents
+
+1 Location
+2 Idle Quotes
+3 Dialogue
+
+3.1 Dialogue Set #1
+3.2 Dialogue Set #2
+
+
+4 Other Languages
+5 Change History
+
+
+Location[]
+Ding Jr.'s locationAdditional context
+Idle Quotes[]
+Before completing An Ancient Sacrifice of Sacred Brocade
+
+ Cultivation environment...
+Media:VO Ding Jr. 01.ogg "If there's a problem with the cultivation environment, the tea leaves won't be any good."
+
+After completing An Ancient Sacrifice of Sacred Brocade
+
+ Carp...
+Media:VO Ding Jr. 02.ogg "I always knew that the legends of the Carp Adeptus were true!"
+
+Dialogue[]
+Dialogue Set #1[]
+Available before completing An Ancient Sacrifice of Sacred Brocade.
+
+
+Ding Jr.: Did you hear the rumors about the water and the soil?
+ Rumors?
+Ding Jr.: Shhh! Don't let anyone else hear! I'm only telling you, alright!?
+Ding Jr.: There've been more and more Xuanwen Beasts skulking in the mountains lately. A fiend must be behind all this, or something!
+Ding Jr.: If you ask me, the quality of the tea's gone down because these monsters contaminated the water and the soil.
+ Okay, that's reaching a bit too far...
+Ding Jr.: You have no idea just how complicated it is.
+Ding Jr.: I think we'll need a thaumaturge to exorcise the fiends... or find some really powerful people to settle this.
+ I'm more interested in that machine than rumors...
+Ding Jr.: A practical one, aren't you? No interest in rumors, all work, work, work... Gah, you're making me feel bad.
+Ding Jr.: Anyway, this is the machine we use to bake the tea leaves. Some of the tea is placed in here after stirring to get rid of the moisture.
+Ding Jr.: The flames under the machine might be powerful, but the temperature inside isn't too high, so the process takes a good while.
+Ding Jr.: I don't need to watch the machine every second, so all in all, this job's not too tiring.
+Ding Jr.: But Ol' Senior can't be distracted at all. I'm afraid I can't do his job yet...
+ Goodbye.
+Ding Jr.: Take care, and see you next time!
+
+Dialogue Set #2[]
+Available after completing An Ancient Sacrifice of Sacred Brocade.
+
+
+Ding Jr.: Have you heard the rumors about the Carp Adeptus?
+ Rumors?
+Ding Jr.: Shhh! Don't let anyone else hear! I'm only telling you, alright!?
+Ding Jr.: A kind Carp Adeptus awakened recently, saw the damage in Chenyu Vale, and stopped the Xuanwen Beasts from wreaking more havoc.
+Ding Jr.: If that rumor's true, the quality of tea will return to normal soon, easy!
+Ding Jr.: Maybe it'll even be better than before!
+ If you really twist it, it kinda makes sense...
+Ding Jr.: Moving, huh?
+Ding Jr.: But baking is something I have to do every day, so my days are more or less the same.
+Ding Jr.: If only the Carp Adeptus could make tea easier to process... Or improve my techniques...
+ I'm more interested in that machine than rumors...
+Ding Jr.: A practical one, aren't you? No interest in rumors, all work, work, work... Gah, you're making me feel bad.
+Ding Jr.: Anyway, this is the machine we use to bake the tea leaves. Some of the tea is placed in here after stirring to get rid of the moisture.
+Ding Jr.: The flames under the machine might be powerful, but the temperature inside isn't too high, so the process takes a good while.
+Ding Jr.: I don't need to watch the machine every second, so all in all, this job's not too tiring.
+Ding Jr.: But Ol' Senior can't be distracted at all. I'm afraid I can't do his job yet...
+ Goodbye.
+Ding Jr.: Take care, and see you next time!
+
+Other Languages[]
+
+LanguageOfficial NameEnglishDing Jr.Chinese(Simplified)小丁Xiǎo DīngChinese(Traditional)小丁Xiǎo DīngJapanese小丁Shouchou‍[!][!]Assumed readingKorean작은 정 씨Jageun Jeong SsiSpanishDing JúniorFrenchDing Jr.RussianДин МладшийDin MladshiyThaiน้องบ่าว DingVietnameseTiểu DingGermanJüngerer DingIndonesianDing Jr.PortugueseDing Jr.TurkishKüçük DingItalianGiovane Ding
+Change History[]
+Released in Version 4.4[Create New History]
+
+
+

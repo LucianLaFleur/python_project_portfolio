@@ -1,0 +1,111 @@
+
+
+
+
+
+Frida
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Mondstadt
+
+
+Affil­i­a­tion
+Adventurers' Guild
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Event-Exclusive NPCs 
+
+
+
+
+Frida is an event-exclusive NPC who appeared in Duel! The Summoners' Summit!.
+
+Contents
+
+1 Location
+2 Profile
+
+2.1 Appearance
+
+
+3 Quests and Events
+
+3.1 Events
+
+
+4 Dialogue
+5 Other Languages
+6 Change History
+
+
+Location[]
+During Duel! The Summoners' Summit!
+Frida's locationAdditional context
+Profile[]
+(To be added.)
+
+Appearance[]
+(To be added.)
+
+Quests and Events[]
+EventsDuel! The Summoners' Summit!Zero Hour Invokation
+Dialogue[]
+
+Frida: Traveler, are you here to try Zero Hour Invokation?
+ I'll give it a try.
+Frida: No problem! Please select the cards you'd like to use.
+Frida: Oh, and your opponent will be... Let's see... Many players enter the contest using nicknames, and some of them are pretty hard to remember...
+Frida: Here it is! Your opponent will be Cheerful Torchbearer. Once you're prepared, you may begin anytime.
+Cheerful Torchbearer accepted your challenge, and has come to the table...
+Media:vo card ambor event invite start 01.ogg Amber: So you're the one I'll be playing against! It's a real competition this time, so you'd better be ready!
+ Let's play Genius Invokation TCG.
+(Open Zero Hour Invokation interface)
+(Win the match)
+
+Media:vo card ambor event invite fail 01.ogg Amber: Whoa... You're so much better than everyone I've played against...
+(Lose the match)
+
+Media:vo card ambor event invite win 01.ogg Amber: Hahaha, I won this round.
+ I've got other things to do right now...
+Media:vo card ambor event invite leave 01.ogg Amber: Okay! I need to go over my deck one more time, and if things don't work out... I guess I'll have to ask someone for advice.
+ I've got other things to do right now...
+Frida: That's alright. Zero Hour Invokation isn't just a one-day event.
+Frida: You're welcome to come take part anytime during the Grand Prix event period.
+
+Other Languages[]
+
+LanguageOfficial NameEnglishFridaChinese(Simplified)弗丽德FúlìdéChinese(Traditional)弗麗德FúlìdéJapaneseフリーダFuriidaKorean프리다PeuridaSpanishFridaFrenchFridaRussianФридаFridaThaiFridaVietnameseFridaGermanFridaIndonesianFridaPortugueseFridaTurkishFridaItalianFrida
+Change History[]
+Released in Version 3.7[Create New History]
+
+
+

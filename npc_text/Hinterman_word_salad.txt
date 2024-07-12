@@ -1,0 +1,197 @@
+
+
+
+
+
+Hinterman
+Fishmonger
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Fontaine
+
+
+Location
+Fontaine
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Hinterman is an open-world NPC located in Belleau Region, Fontaine.
+
+Contents
+
+1 Shop
+2 Location
+3 Idle Quotes
+4 Dialogue
+
+4.1 Dialogue Set #1
+4.2 Dialogue Set #2
+4.3 Dialogue Set #3
+4.4 Dialogue Set #4
+4.5 Dialogue Set #5
+
+
+5 Other Languages
+6 Change History
+
+
+Shop[]
+ItemCostStockTotalCostRefreshes
+ Fish240102,400Daily
+ Crab240102,400Daily
+ Tidalga240102,400Every 3 Days
+ Romaritime Flower1,00055,000Every 3 Days
+ Beryl Conch1,00055,000Every 3 Days
+ Shrimp Meat12010012,000Daily
+Total cost for all items29,200 
+Location[]
+Hinterman's locationAdditional context
+Idle Quotes[]
+
+ All kinds of fish...
+Media:VO Hinterman 01.ogg "I got every kind of fish you could want! What can I getcha?"
+
+After completing Step 5 of Deluge of Wrathful Waters
+
+ Don't come close!
+Media:VO Hinterman 02.ogg "It's dangerous here. Keep away!"
+
+Dialogue[]
+Dialogue Set #1[]
+Available before completing Condition missing.
+
+
+Hinterman: I have all sorts of fish here. What would you like?
+ Let's have a look.
+Hinterman: Please do.
+(Opens Shop menu)
+ Is there anything of note nearby?
+(If there are Magical Crystal Ore Veins Hinterman knows)
+
+Hinterman: A kind client told me that there's a place around here that produces Condessence Crystals and Magical Crystal Ore, asking if I'd need some to reinforce my fishing boat.
+Hinterman: I don't need any right now, but it'd be a shame to not put them to good use. If you're interested, perhaps you can go have a look around here, eh?
+(Rich Ore Reserve marked on the map)
+(If there are no more Magical Crystal Ore Veins Hinterman knows)
+
+Hinterman: I'm sorry. I was busy with my fish stall, so if there was, I didn't notice.
+ What is this place?
+Hinterman: Welcome to Poisson, a little place for us fishermen.
+Hinterman: The sights here aren't as grand as you'll see in the city, but everyone here lives a leisurely life.
+Hinterman: Ah, yes. I should probably mention that the terrain here can be quite slippery, so if you're here to travel, do watch your step.
+ I'm fine for now.
+Hinterman: Take care, then.
+
+Dialogue Set #2[]
+Available after completing Condition missing.
+
+
+Hinterman: Oh my, aren't you the Boss's friend? Welcome!
+ Could I buy some fish?
+Hinterman: Oh, so you're really here to do that? Well, in that case, please go ahead.
+(Opens Shop menu)
+ Is there anything of note nearby?
+(If there are Magical Crystal Ore Veins Hinterman knows)
+
+Hinterman: A kind client told me that there's a place around here that produces Condessence Crystals and Magical Crystal Ore, asking if I'd need some to reinforce my fishing boat.
+Hinterman: I don't need any right now, but it'd be a shame to not put them to good use. If you're interested, perhaps you can go have a look around here, eh?
+(Rich Ore Reserve marked on the map)
+(If there are no more Magical Crystal Ore Veins Hinterman knows)
+
+Hinterman: I'm sorry. I was busy with my fish stall, so if there was, I didn't notice.
+ How are things in town?
+Hinterman: Normal, ever-constant, just like our lady Navia's burning passion.
+Hinterman: Thanks for your concern, though, and if you should meet the Boss later, do take care of her on our behalf too, alright?
+ See you around.
+Hinterman: Sure. Thanks for your help!
+
+Dialogue Set #3[]
+Available after step 5 in Deluge of Wrathful Waters.
+
+
+Hinterman: Isn't this the Boss's friend? Things haven't been so good around Poisson recently. I know you're not from around here, but I wouldn't recommend tarrying.
+ It's that bad, huh?
+Hinterman: *sigh* The water rises quickly and recedes quickly. While it seems to be subsiding now, you never know when it'll be back.
+ Take care.
+Hinterman: Yes, I will.
+Hinterman: But someone's gotta be on guard here at all times. We can't let some random person wander in here again by accident and get themselves killed.
+
+Dialogue Set #4[]
+Available after completing Masquerade of the Guilty.
+
+
+Hinterman: Oh my, aren't you the Boss's friend? Welcome! Though things haven't been so good around Poisson recently, which may inconvenience you.
+ What's going on?
+Hinterman: Boss said that the crisis in the "prophecy" had passed, so loads of people came back to town. We're all pitching in, so reconstruction is coming along nicely.
+Hinterman: It's still a little chaotic though, and people can hurt themselves if they're not careful. That's why I'm on guard here, to stop any outsiders from wandering in by accident.
+ It's fine. I'm here to look around.
+Hinterman: Well... just watch your step. You don't want to get hurt.
+
+Dialogue Set #5[]
+Available after Condition missing.
+
+
+Hinterman: Oh my, aren't you the Boss's friend? Welcome!
+ Could I buy some fish?
+Hinterman: Oh, so you're really here for that? Well, in that case, please go ahead.
+(Opens Shop menu)
+ Is there anything of note nearby?
+(If there are Magical Crystal Ore Veins Hinterman knows)
+
+Hinterman: A kind client told me that there's a place around here that produces Condessence Crystals and Magical Crystal Ore, asking if I'd need some to reinforce my fishing boat.
+Hinterman: I don't need any right now, but it'd be a shame to not put them to good use. If you're interested, perhaps you can go have a look around here, eh?
+(Rich Ore Reserve marked on the map)
+(If there are no more Magical Crystal Ore Veins Hinterman knows)
+
+Hinterman: I'm sorry. I was busy with my fish stall, so if there was, I didn't notice.
+ How are things in town?
+Hinterman: It's steadily improving. Most residents have gone back to their everyday lives.
+Hinterman: Thanks for your concern, though if you meet the Boss later, do take care of her on our behalf too, alright? She's gone through a lot, she has.
+ See you around.
+Hinterman: Sure, and thanks!
+
+Other Languages[]
+
+LanguageOfficial NameEnglishHintermanChinese(Simplified)安特曼ĀntèmànChinese(Traditional)安特曼ĀntèmànJapaneseヒンターマンHintaamanKorean힌터만HinteomanSpanishHintermanFrenchHintermanRussianХинтерманKhintermanThaiHintermanVietnameseHintermanGermanHintermanIndonesianHintermanPortugueseHintermanTurkishHintermanItalianHinterman
+Change History[]
+Released in Version 4.0[Edit History]Version 4.2
+Added dialogue after completing Deluge of Wrathful Waters.
+
+Version 4.0
+
+Hinterman was released.
+
+
+

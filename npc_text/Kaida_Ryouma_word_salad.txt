@@ -1,0 +1,168 @@
+
+
+
+
+
+Kaida Ryouma
+Sangonomiya Officer
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Inazuma
+
+
+Location
+Inazuma
+
+
+Affil­i­a­tion
+Watatsumi Army
+
+
+Dialogue Reward
+ 1
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Kaida Ryouma (Japanese: 甲斐田龍馬 Kaida Ryouma) is an open-world NPC located in Fort Fujitou, Inazuma.
+His dialogue changes after completing Sangonomiya Kokomi's Story Quest Dracaena Somnolenta Chapter: Act I - Warriors' Dreams Like Spring Grass Renewing. Following a certain dialogue branch for the first time gives the player one Guide to Resistance.
+
+Contents
+
+1 Location
+2 Profile
+
+2.1 Appearance
+
+
+3 Quests and Events
+
+3.1 Archon Quests
+
+
+4 Idle Quotes
+5 Dialogue
+
+5.1 Dialogue Set #1
+5.2 Dialogue Set #2
+
+
+6 Gallery
+
+6.1 Cameos
+
+
+7 Other Languages
+8 Change History
+
+
+Location[]
+Kaida Ryouma's locationAdditional context
+Profile[]
+(To be added.)
+
+Appearance[]
+Kaida Ryouma wears the Watatsumi Army's standard uniform, modeled from the ashigaru (Japanese: 足軽) of feudal Japan. His clothing consists of a light red-white gradient shitagi with a red-violet colored left sleeve, gray kobakama, and waraji sandals without the socks. Although not visible, the Sangonomiya Clan's crest is imprinted on the back of the shitagi, below the neck. Additional features on the uniform's design such as breastplates and helmets are not present, compared to Shogun's Army uniforms, but were still equipped with sode (shoulder armor), han-kote (half-armored sleeves), haidate (thigh guards), and sune-ate (greaves) armor, whose colors were red and black with gold accents. The right shoulder guard has the Sangonomiya Clan's crest imprinted on it. Ryouma is equipped with a juumonji yari, whose shaft is colored with a red-white gradient and has the Sangonomiya Clan's crest under the spearhead.
+
+Quests and Events[]
+Archon QuestsChapter IIAct II: Stillness, the Sublimation of ShadowIn the Name of the Resistance
+Idle Quotes[]
+Before completing Warriors' Dreams Like Spring Grass Renewing
+
+ Increase the advantage...
+Media:VO Kaida Ryouma 01.ogg "We must seize the opportunity to expand..."
+
+After completing Warriors' Dreams Like Spring Grass Renewing
+
+ ...Make the Shogunate compromise.
+Media:VO Kaida Ryouma 02.ogg "Able to make the Shogunate compromise... Hmph, Her Excellency certainly deserves her title."
+
+Dialogue[]
+Dialogue Set #1[]
+
+(Before completing Warriors' Dreams Like Spring Grass Renewing)
+Kaida Ryouma: Our troops still can't get the upper hand over the Shogun's Army.
+Kaida Ryouma: But the next time we fight them, we must be sure to establish a position of absolute superiority.
+ Tell me more about yourself, if you would...
+Kaida Ryouma: Before serving as an officer here, I used to live on Narukami Island and work for the Kujou Clan.
+Kaida Ryouma: Hah... Life is full of twists. Who knew then that I would be fighting against them now?
+Kaida Ryouma: I remember the two brothers from the Kujou Clan. They were understanding and very well aware of the commoners' situation. I didn't think they would support this war...
+Kaida Ryouma: But now that we are on different sides, there is nothing for us but to do battle.
+ About the Sangonomiya troops...
+Kaida Ryouma: Compared to the elite troops of the Shogunate, we do appear to be the weaker side. But as an officer, I must have absolute confidence in our victory.
+Kaida Ryouma: Also, we are backed by Her Excellency and General Gorou. The two of them are both brave and thoughtful leaders. They will lead us to victory.
+ Goodbye.
+Kaida Ryouma: Okay, bye-bye!
+
+Dialogue Set #2[]
+
+(After completing Warriors' Dreams Like Spring Grass Renewing)
+Kaida Ryouma: Ah, it's you, Traveler. How have you been?
+ About the ceasefire...
+Kaida Ryouma: The Shogunate and Sangonomiya have entered peace talks, and the Vision Hunt Decree has been abolished. Good news all around, if you ask me.
+Kaida Ryouma: Her Excellency and General Gorou truly are impressive, achieving victory like that despite our disadvantageous position.
+Kaida Ryouma: Well, we do have you to thank as well for the current outcome. I've heard that you were the one who caused the Raiden Shogun to have a change of heart.
+Kaida Ryouma: That we were able to obtain the aid of a brilliant person like you is Sangonomiya's great fortune, haha!
+Kaida Ryouma: *sigh* I just wonder how my old place, the Tenryou Commission, is doing...
+ Everyone contributed to our success.
+Kaida Ryouma: Oh, come on, you don't have to be that humble. That said, you are correct to say that this is the result of everyone's ceaseless struggle...
+Kaida Ryouma: And that's why it's important that we further unite in the future and protect what we've won.
+(Obtain  Guide to Resistance ×1)
+ What have you heard about the Tenryou Commission?
+Kaida Ryouma: I've heard that they were convicted of a major crime. Who knows how the Almighty Shogun will deal with them? Ah, what a shame, especially for the two Kujou brothers...
+Kaida Ryouma: I was once a retainer of the Kujou Clan before coming here. The two Kujou brothers were both good administrators, concerned about the welfare of the people. I wonder if they've been dragged through the mud as well...
+Kaida Ryouma: I've heard that Kujou Kamaji's taken up the role of Provisional Clan Head. I hope he'll be up to the task...
+ About the Tatarigami...
+Kaida Ryouma: I'm not very sure about what happened there either.
+Kaida Ryouma: That said, considering the way the war went, it might well have been the work of Fatui special forces.
+Kaida Ryouma: It's normal to use extraordinary methods to gain an advantage over one's foes in war. The Kujou art of war I learned once was famed for its swift and brutal assaults that care little for the cost.
+Kaida Ryouma: But Her Excellency's playbook is quite different...
+Kaida Ryouma: In any case, she was out at sea negotiating with some mercenaries. I don't think she would have been apprised of what happened here in time.
+Kaida Ryouma: Thus, the only viable suspects in my eyes are the Fatui, who do really seem to enjoy poking their noses into other peoples' business...
+Kaida Ryouma: Of course, this is just my opinion, I doubt that a simple samurai like myself could grasp the breadth of Her Excellency's thought.
+ See you.
+Kaida Ryouma: See you again.
+
+Gallery[]
+Cameos[]
+Character Demo - "Gorou- The Ever-Victorious Pointy-Eared General" - Genshin ImpactCollected Miscellany - "Gorou- Forward Unto Victory" - Genshin Impact
+Other Languages[]
+
+LanguageOfficial NameEnglishKaida RyoumaChinese(Simplified)甲斐田龙马Jiǎfěitián LóngmǎChinese(Traditional)甲斐田龍馬Jiǎfěitián LóngmǎJapanese甲斐田龍馬Kaida RyoumaKorean카이다 료마Kaida RyomaSpanishKaida RyoumaFrenchKaida RyoumaRussianКаида РёмаKaida RyomaThaiKaida RyoumaVietnameseKaida RyoumaGermanKaida RyoumaIndonesianKaida RyoumaPortugueseKaida RyoumaTurkishKaida RyoumaItalianKaida Ryouma
+Change History[]
+Released in Version 2.0[Create New History]
+
+
+

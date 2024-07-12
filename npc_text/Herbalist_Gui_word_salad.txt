@@ -1,0 +1,173 @@
+
+
+
+
+
+Herbalist Gui
+Pharmacist, Bubu Pharmacy
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+								Voice Actors
+							
+
+
+
+
+
+Region
+Liyue
+
+
+Location
+Liyue
+
+
+
+
+English
+David Goldstein[1]
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Herbalist Gui is an open-world NPC in Liyue Harbor. He can be found working as a pharmacist at Bubu Pharmacy.
+
+Contents
+
+1 Shop
+
+1.1 Materials
+1.2 Recipes
+
+
+2 Location
+3 Profile
+
+3.1 Appearance
+
+
+4 Quests and Events
+
+4.1 Archon Quests
+4.2 Story Quests
+4.3 World Quests
+
+4.3.1 Requests
+
+
+4.4 Commissions
+4.5 Events
+
+
+5 Idle Quotes
+6 Dialogue
+7 Gallery
+
+7.1 Cameos
+
+
+8 Other Languages
+9 Change History
+10 References
+
+
+Shop[]
+Materials[]
+ItemCostStockTotalCostRefreshes
+ Qingxin600106,000Every 3 Days
+ Horsetail240102,400Every 3 Days
+ Lotus Head300103,000Every 3 Days
+ Mist Flower Corolla1,00055,000Every 3 Days
+ Flaming Flower Stamen1,00055,000Every 3 Days
+ Violetgrass1,00055,000Every 3 Days
+Total cost for all items26,400 
+Recipes[]
+ItemCostStockTotalCostRequiredAdventure Rank
+ Recipe: Lotus Seed and Bird Egg Soup2,50012,5001
+ Recipe: Jade Fruit Soup5,00015,0001
+Total cost for all items7,500 
+Location[]
+Herbalist Gui's locationAdditional context
+Profile[]
+Gui works for Baizhu at Bubu Pharmacy. Whenever Baizhu and Qiqi are out collecting herbs, he tends to the store. Due to Baizhu's unusual constitution, Gui is also responsible for creating medicine. He also sells a variety of other herbs and items for those without prescriptions.
+During Shenhe's visit to the city, the Traveler directed her to the pharmacy after she informed them that she needed Violetgrass, Qingxin and Glaze Lily. She asked Gui for the herbs and ate them promptly, much to his astonishment.
+
+Appearance[]
+(To be added.)
+
+Quests and Events[]
+Archon QuestsInterlude ChapterAct I: The Crane Returns on the WindJade Chamber RisingStory QuestsLagenaria Chapter (Baizhu)Act I: The Heart of HealingThe Search for a PhysicianThe Quest for a CureWorld QuestsRequestsHerbalist's ForageCommissionsThe Littlest Journey: Medicine On-HandEventsLantern Rite TalesA Very Festive Problem
+Idle Quotes[]
+
+ Please show me your prescription...
+Media:VO Herbalist Gui 01.ogg "Please, show me your prescription."
+
+Dialogue[]
+
+Herbalist Gui: Are you looking to buy some medicine? In that case, please give me your prescription.
+ I want to buy some herbs.
+Herbalist Gui: Do you have a prescription? If you don't, I'm afraid that I cannot provide you with some of the ingredients with stronger medicinal properties...
+(Opens Bubu Pharmacy's wares)
+ A prescription?
+Herbalist Gui: Medicine can both help and harm. The key lies in the amount used.
+Herbalist Gui: Use too little, and it has no effect. Use too much, and you could hurt yourself. A balance must be struck in order to heal.
+Herbalist Gui: I have yet to finish my training, so I cannot simply take what ingredients I will.
+Herbalist Gui: ...Regardless of whether this is about healing the sick, or simply about Master Baizhu and Bubu Pharmacy's good name, l cannot be careless about such things.
+ I'd like to know about Bubu Pharmacy...
+Herbalist Gui: As you've seen, this is the best pharmacy in Liyue. Thanks to Dr. Baizhu's extraordinary skills, we have an endless stream of customers who come to seek cures and get herbs every single day.
+Herbalist Gui: Dr. Baizhu himself has a poor constitution, so the job of putting the medicines together falls to me, while Qiqi handles herb-picking...
+Herbalist Gui: ...But as to What illness Dr. Baizhu has, I have no clue.
+Herbalist Gui: He's been ill from the very first time I met him, and hasn't completely recovered since.
+Herbalist Gui: Perhaps, it is as they say — "a physician cannot cure himself."
+ See you.
+Herbalist Gui: May you be in good health.
+Herbalist Gui: Please do not simply ignore small ills and aches. If you don't take them seriously, they could become a hidden dagger behind your back.
+
+Gallery[]
+Request icon
+Cameos[]
+Collected Miscellany - "Ganyu- Ambling Amidst Karst Peaks" - Genshin ImpactFleeting Colors in Flight Event Cutscene Animation- "Age of Flowing Hues" - Genshin ImpactCharacter Demo - "Kirara- Twin-Tailed Courier" - Genshin Impact
+Other Languages[]
+
+LanguageOfficial NameEnglishHerbalist GuiChinese(Simplified)阿桂Ā GuìChinese(Traditional)阿桂Ā GuìJapanese桂Kei[2]Korean아규AgyuSpanishHerborista GuiFrenchGui l'herboristeRussianТравник ГуйTravnik GuyThaiนักสมุนไพร GuiNak Samunphrai GuiVietnameseGuiGermanKräuterkundler GuiIndonesianHerbalis GuiPortugueseHerborista GuiTurkishOtacı GuiItalianGui l'erborista
+Change History[]
+Released in Version 1.0[Create New History]
+References[]
+
+↑ Twitter: EN VA Self Announcement
+
+↑ Story Quest, Baizhu, Lagenaria Chapter: Act I - The Heart of Healing, Part 1: The Search for a Physician (Japanese Voice-Over)
+
+
+
+
+

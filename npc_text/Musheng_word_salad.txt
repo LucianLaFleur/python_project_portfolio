@@ -1,0 +1,178 @@
+
+
+
+
+
+Musheng
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Liyue
+
+
+Location
+Liyue
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Musheng is an open-world NPC in Liyue Harbor. He can initially be found at Yujing Terrace during the day (06:00 – 19:00) and after completing the Archon Quest Rite of Descension in Chapter I: Act I - Of the Land Amidst Monoliths, he moves to Yiyan Temple.
+He comes to the city once a year to offer incense to Rex Lapis. In the past, he was rescued from bandits by Xingqiu.
+
+Contents
+
+1 Location
+2 Profile
+
+2.1 Appearance
+
+
+3 Quests and Events
+
+3.1 Commissions
+
+
+4 Idle Quotes
+5 Dialogue
+6 Event Dialogue
+
+6.1 Lantern Rite
+6.2 Moonlight Merriment
+6.3 The Exquisite Night Chimes
+6.4 Vibrant Harriers Aloft in Spring Breeze
+
+
+7 Other Languages
+8 Change History
+
+
+Location[]
+Musheng's location at Yiyan TempleAdditional context
+Profile[]
+Musheng is a devout believer of Rex Lapis' and returns to Liyue Harbor every year to attend the Rite of Descension, although his normal job is never specified. He is fairly well-versed in folk beliefs pertaining to the Geo Archon, although some of it has later proven to be inaccurate, such as ascribing the title "God of the Stove" to Morax when it was originally Marchosius'.
+While traveling to attend the Rite of Descension during Archon Quest Chapter I, Musheng was attacked by bandits. He was rescued by Xingqiu, and interpreted the boy's timely appearance to be divine intervention by Rex Lapis.
+
+Appearance[]
+Musheng takes the appearance of a young man, clad in typical Liyue attire. His outfit consists of a dark-teal button-up shirt adorned with cloud patterns, brown slacks, dark-brown boots that go up to his knees, and a black belt secured around his waist. His jet-black hair is styled in a side part, and he wears rectangular glasses over sharp dark-brown eyes. He also has a few accessories, such as a leather pouch by his side and wristbands on both of his arms.
+
+Quests and Events[]
+CommissionsGeo Travel Diary
+Idle Quotes[]
+
+ May the Lord...
+Media:VO Musheng 01.ogg "May the Lord of Geo protect you, and fortune find you."
+
+During Lantern Rite
+
+ May the adepti protect you...
+Media:VO Musheng Lantern Rite 01.ogg "May the adepti protect you, and may you sail smoothly."
+
+During Moonlight Merriment
+
+ May the adepti bless us...
+Media:VO Musheng Moonlight Merriment 01.ogg "May the adepti bless us with an abundant harvest."
+
+During The Exquisite Night Chimes
+
+ May the adepti bless us...
+Media:VO Musheng Lantern Rite 02.ogg "May the adepti bless us with abundant riches."
+
+During Vibrant Harriers Aloft in Spring Breeze
+
+ May the adepti bless us...
+Media:VO Musheng Lantern Rite 03.ogg "May the adepti bless us with new beginnings."
+
+Dialogue[]
+
+Musheng: Are you an outlander? Would you like to burn an incense stick?
+ About Rex Lapis' death... (Available after completing Rite of Descension)
+Musheng: How could a divinity like Rex Lapis die? Even though I witnessed it myself, I can't believe it.
+Musheng: He must've just moved back to Celestia. I mean, many of his old adepti pals are still there, right?
+Musheng: As for Liyue, I'm sure he's made thorough arrangements... Why, you ask?
+Musheng: Well, I've lived in my hometown for several decades now, and I sure did miss home a few times while I was here for the Rite...
+Musheng: Rex Lapis has been with us for thousands of years... I'm sure he'll miss us, too.
+ Who are you?
+Musheng: I live in the countryside. I visit the city once a year at this time to burn incense as an offering to the Geo Lord.
+Musheng: Everyone in Liyue is into things that bring good luck. I'm no different.
+Musheng: Were it not for the Geo Lord's power, Liyue would not be as prosperous as it is today. That is why I come here every year to pay my respects at this temple, no matter how long the journey is and no matter what other pressing business there is to attend to.
+Musheng: As the saying goes, "None shall learn what the immortals have in store for them until he first does that which is within his power as a mortal."
+ About Rex Lapis' protection...
+Musheng: Huh. Judging from your tone, you're not a believer, are you?
+Musheng: Well, just a short while back, I was set upon by bandits on the road to Liyue Harbor. It was only by the intervention of a young hero named "Xingqiu of the Guhua Clan" that I was saved.
+Musheng: This must have been the protection of Rex Lapis! He must have known that I was coming to offer incense, and thus stepped in to rescue me!
+Musheng: Were it not for Rex Lapis' divine arrangement, how could a long-lost Clan like Guhua suddenly return out of nowhere?
+Musheng: However you want to put it, I thank Rex Lapis. I shall also offer incense on behalf of that young hero of the Guhua Clan. I will pay for his fortune and safety, as repayment for his deeds.
+ Goodbye.
+Musheng: I will stay around in the city for a bit longer. It will be much more effective if I let the scent of incense permeate every inch of me...
+
+Event Dialogue[]
+Lantern Rite[]
+
+Musheng: I'm Musheng, I come from out in the country. There's definitely more of a festive atmosphere in the city.
+Musheng: The heroes that we remember during Lantern Rite are actually adepti who lived in Liyue in the distant past.
+Musheng: That was a time when the adepti lived among the normal people. I don't know why we never see any adepti nowadays...
+Musheng: I can't help but think it's a bad omen... Ah, what am I saying? I shouldn't jinx the festival, should I? Haha.
+
+Moonlight Merriment[]
+
+Musheng: Haha! It was the right call to come here during the festival. You just can't beat the festive cheer here in the city!
+Musheng: I've heard that the Moonchase Festival used to be celebrated for very different reasons in the past. Something about the adepti's rituals, I believe.
+Musheng: But I don't think that what it's about now — gathering together and admiring the moon — is half bad, either!
+Musheng: I'm sure that the adepti, too, would be gladdened to see everyone enjoying themselves.
+
+The Exquisite Night Chimes[]
+
+Musheng: Heh, doubtless, the city is more festive.
+Musheng: The heroes we commemorate during Lantern Rite are actually adepti who lived in Liyue in the distant past.
+Musheng: Do you know which adeptus the Mingxiao Lantern commemorates this year?
+Musheng: I asked around for information, and a gentleman who looked very knowledgeable told me that the adeptus' name is Sea Gazer.
+Musheng: He is said to be a collector of exotic treasures. I'm sure an adeptus like him will bless everyone with wealth and prosperity.
+(Continue non-event dialogue)
+Vibrant Harriers Aloft in Spring Breeze[]
+
+Musheng: Heh, doubtless, the city is more festive.
+Musheng: The heroes we commemorate during Lantern Rite are actually adepti who lived in Liyue in the distant past.
+Musheng: Do you know which adeptus the Mingxiao Lantern commemorates this year?
+Musheng: I asked around for information, and a gentleman who looked very knowledgeable told me that the adeptus' name is Menogias, also known as General Kapisas.
+Musheng: I've heard that although he was most famous for being a deadly yaksha warrior, he was also well-versed in clothing design and tailoring.
+Musheng: Ad adeptus of artistry, sounds like! I'm sure he will bless us with novelty!
+
+Other Languages[]
+
+LanguageOfficial NameEnglishMushengChinese(Simplified)慕胜MùshèngChinese(Traditional)慕勝MùshèngJapanese慕勝Boshou‍[!][!]Assumed readingKorean막승MakseungSpanishMushengFrenchMushengRussianМу ШэнMu ShenThaiMushengVietnameseMushengGermanMushengIndonesianMushengPortugueseMushengTurkishMushengItalianMusheng
+Change History[]
+Released in Version 1.0[Create New History]
+
+
+

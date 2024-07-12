@@ -1,0 +1,126 @@
+
+
+
+
+
+Kagemni
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Sumeru
+
+
+Location
+Sumeru
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Kagemni is an open-world NPC located in Aaru Village, Sumeru. After completion of Akasha Pulses, the Kalpa Flame Rises, he will be relocated to the village center where he will be scolded by Kulsoom.
+
+Contents
+
+1 Location
+2 Idle Quotes
+3 Thoughts
+4 Dialogue
+
+4.1 Dialogue Set #1
+4.2 Dialogue Set #2
+
+
+5 Other Languages
+6 Change History
+
+
+Location[]
+Kagemni's locationNPC Location Kagemni Context.pngAdditional contextKagemni's location (after completing Akasha Pulses, the Kalpa Flame Rises)Additional context (after completing Akasha Pulses, the Kalpa Flame Rises)
+Idle Quotes[]
+Before completing Akasha Pulses, the Kalpa Flame Rises
+
+ ...Just you wait!
+Media:VO Kagemni 01.ogg "Those who betray King Deshret... They'll get what's coming to 'em!"
+
+After completing Akasha Pulses, the Kalpa Flame Rises
+
+ I...
+Media:VO Kagemni 02.ogg "Yes... you were right."
+
+Thoughts[]
+Kagemni's thoughts can be accessed by using Nahida's Elemental Skill, All Schemes to Know.
+
+Before completing Akasha Pulses, the Kalpa Flame Rises
+
+Media:VO Kagemni All Schemes to Know 01.ogg Kagemni: (Hmph! Retribution is coming to all who betray King Deshret!)
+
+After completing Akasha Pulses, the Kalpa Flame Rises
+
+Media:VO Kagemni All Schemes to Know 02.ogg Kagemni: (Please stop scolding me...)
+
+Dialogue[]
+Dialogue Set #1[]
+
+(Before completing Akasha Pulses, the Kalpa Flame Rises)
+Kagemni: What are you staring at, huh?
+Kagemni: Just look at you! Could it be that you're a lapdog of the Dendro Archon?
+ ...
+Kagemni: As desert-dwellers, it is our duty to retain our faith in King Deshret!
+Kagemni: He will return to us, and when that day comes, he will return the faithful to our former prosperity and glory!
+Kagemni: As for those of you who betrayed King Deshret... You'll pay for all that you've done!
+ ...
+Kagemni: Hah! Thought as much.
+
+Dialogue Set #2[]
+
+(After completing Akasha Pulses, the Kalpa Flame Rises)
+Kulsoom: Do you now understand where you went wrong?
+Kagemni: Yes... I know...
+Kulsoom: And where was that exactly?
+Kagemni: I... I shouldn't have trusted in rumors...
+Kulsoom: And?
+Kagemni: And, uh... I... I shouldn't have gone babbling to your grandson about that hearsay?
+Kulsoom: Well, that was wrong of you, yes, but is that really the most important thing?
+Kulsoom: What's the point of just "knowing" things? Do them! That's the important part!
+Kulsoom: It's because you're always lounging around at home that you wound up believing those baseless rumors!
+Kulsoom: You're still young — you've still got all the time in the world to learn new things. Why don't you follow Setaria's example and go study?
+Kagemni: Y—Yes, you're right...
+
+Other Languages[]
+
+LanguageOfficial NameEnglishKagemniChinese(Simplified)卡格姆尼KǎgémǔníChinese(Traditional)卡格姆尼KǎgémǔníJapaneseカゲムニKagemuniKorean카겜니KagemniSpanishKagemniFrenchKagemniRussianКагемниKagemniThaiKagemniVietnameseKagemniGermanKagemniIndonesianKagemniPortugueseKagemniTurkishKagemniItalianKagemni
+Change History[]
+Released in Version 3.1[Create New History]
+
+
+

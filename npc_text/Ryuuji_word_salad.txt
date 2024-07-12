@@ -1,0 +1,194 @@
+
+
+
+
+
+Ryuuji
+Detective
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+								Voice Actors
+							
+
+
+
+
+
+Real Name
+Takeo
+
+
+Region
+Inazuma
+
+
+Location
+Inazuma
+
+
+Affil­i­a­tion
+Bantan Sango Detective Agency
+
+
+Dialogue Reward
+ 1
+
+
+Genius Invokation TCG
+Stages
+
+
+
+
+English
+Daman Mills[1]
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Ryuuji (Japanese: 龍二 Ryuuji), real name Takeo (Japanese: 竹生 Takeo), is an open-world NPC located in Inazuma City, Inazuma.
+Following a certain dialogue branch for the first time gives the player one Guide to Diligence.
+
+Contents
+
+1 Location
+2 Profile
+
+2.1 Appearance
+
+
+3 Quests and Events
+
+3.1 Story Quests
+
+3.1.1 Hangout Events
+
+
+3.2 World Quests
+3.3 Commissions
+3.4 Events
+
+
+4 Idle Quotes
+5 Dialogue
+6 Character Mentions
+
+6.1 Character Voice-Overs
+
+
+7 Trivia
+8 Gallery
+9 Other Languages
+
+9.1 Ryuuji
+9.2 Takeo
+
+
+10 Change History
+11 References
+
+
+Location[]
+Ryuuji's locationAdditional context
+Profile[]
+Ryuuji is a detective who works at the Bantan Sango Detective Agency as Sango's assistant. He used to be a Doushin but was framed and suspended from his job. After receiving Sango's help for free in resolving his false accusation case, Sango offered to take him in as her assistant. Because of his background as a Doushin, he is fairly capable of protecting himself in relatively dangerous investigations.[2]
+During investigations, he is responsible for gathering evidence and clues, and other physically intensive activities.[2] He also scouts suspected areas to confirm Sango's deductions. He admits that his specialty lies in running errands and not stealth.[3]
+He once rescued Takeru from falling off a cliff, making him a hero in Takeru's eyes.
+
+Appearance[]
+Ryuuji is a man with fair skin, brown eyes, and black hair. He is seen wearing traditional Inazuman clothes for men.
+
+Quests and Events[]
+Story QuestsAcer Palmatum Chapter (Kaedehara Kazuha)Act I: A Strange and Friendless RoadThrough the Mist, a Name UnveiledHangout EventsShikanoin HeizouAct I: Trap 'Em by StormLong-Sealed MysteryThe Missing PersonWorld QuestsThrough the MistsOctave of the MaushiroCommissionsBantan Sango Case FileBantan Sango Case File: The SearchBantan Sango Case File: MisdirectionBantan Sango Case File: The Right IdentityBantan Sango Case File: Case-Closing TimeBantan Sango Case File: Cleanup WorkEventsBantan Sango Case Files: The Warrior DogBantan Sango Case File: Mystery of the Black ShadowBantan Sango Case File: Stealthy TrailBantan Sango Case File: The Truth (Just About) Comes to LightBantan Sango Case File: Recognition
+Idle Quotes[]
+
+ Case assignment...
+Media:VO Ryuuji 01.ogg "Please speak to President Sango. I'm just a helper."
+
+Dialogue[]
+
+Ryuuji: If you need me to investigate, let me know.
+ Adventure Challenge
+(Opens Genius Invokation TCG match interface)
+(If the player loses the match)
+
+Ryuuji: Did... did I win? Ah, actually I don't know the rules. This game was set up by Sango...
+(If the player wins the match)
+
+Ryuuji: Good, I know how to do it now. In the future, I'll deal with Sango using this deck of yours...
+ About the commission...
+Ryuuji: Go talk to President Sango if it is about the commission's status. Leave the intel gathering to me. I will go where she tells me to.
+Ryuuji: You can call me Takeo or Ryuuji... Actually, never mind. Just call me Ryuuji.
+Ryuuji: Takeo is my real name, but President Sango thinks it isn't tough-sounding enough, so she insists on calling me Ryuuji. This does bother me... but I'll listen to her.
+ Are you busy?
+Ryuuji: You've probably heard about Inazuma's current situation.
+Ryuuji: Even the police... aren't fully reliable.
+Ryuuji: If President Sango's responsibility is using her wits to solve cases, then my responsibility is to support her using my physical abilities. In short, due to the changing world, things are becoming complicated. We'll have to sort them out one by one.
+(Obtain  Guide to Diligence ×1)
+ About President Sango...
+Ryuuji: Although President Sango has a short fuse, she is actually an upright person. You can trust her ability. When I was wrongly accused back in the day, she was the one who cleared my name.
+Ryuuji: I used to be a constable at the Police Station. Someone framed me, and I was suspended from my post. If it weren't for President Sango's amazing intelligence, I could not imagine how I would end up...
+Ryuuji: After the matters were taken care of, the president didn't even ask me for payment after seeing that I was broke. She even agreed to let me be her assistant.
+Ryuuji: Now, my name has been cleared, and I can work for President Sango. It's all the grace of the Electro Archon...
+ Goodbye.
+Ryuuji: Let's talk again when we have a new lead. See you.
+
+Character Mentions[]
+Character Voice-OversCharacterVoice-OversTravelerAbout Bantan Sango Detective Agency Media:VO_Aether_About Bantan Sango Detective Agency.ogg Media:VO ZH_Aether_About Bantan Sango Detective Agency.ogg Media:VO JA_Aether_About Bantan Sango Detective Agency.ogg Media:VO KO_Aether_About Bantan Sango Detective Agency.ogg Media:VO_Lumine_About Bantan Sango Detective Agency.ogg Media:VO ZH_Lumine_About Bantan Sango Detective Agency.ogg Media:VO JA_Lumine_About Bantan Sango Detective Agency.ogg Media:VO KO_Lumine_About Bantan Sango Detective Agency.ogg (Traveler): In Hanamizaka, there's a place called the Bantan Sango Detective Agency.Paimon: Paimon remembers. It's the one run by Sango and Ryuuji, right? Everyone speaks highly of them.(Traveler): Uh, I heard that they frequently get caught up in strange incidents, and some places have banned them from entering their premises...Paimon: Paimon thinks that's undeserved. After all, Sango and Ryuuji have helped a lot of people...(Traveler): Would you invite them if you were organizing a dinner party?(Traveler): What if halfway through the meal, one of the guests suddenly shrieked and collapsed onto the ground...Paimon: I—If that's the case, then Paimon thinks it's a bad idea. Paimon suddenly feels that hanging out with them could be dangerous...(Traveler): Well, that's the price you pay for being a famous detective.
+Trivia[]
+Although Ryuuji is not his real name, the name "Ryuuji" is consistently used by the game, even by people who knew Ryuuji before he met Sango and in legal documents like Ryuuji's Testimony, Conviction of Ryuuji, etc. This may suppose that the writers forgot about his real name Takeo, or Ryuuji legally changed his name after Sango had proved his innocence.
+Ryuuji shares his English VA with Lyney.
+Gallery[]
+Hangout Shikanoin Heizou Act 1 The Famous Detective's Principles AetherHangout Shikanoin Heizou Act 1 The Famous Detective's Principles LumineHangout Shikanoin Heizou Act 1 There's One Secret AetherHangout Shikanoin Heizou Act 1 There's One Secret Lumine
+Other Languages[]
+Ryuuji
+LanguageOfficial NameEnglishRyuujiChinese(Simplified)龙二Lóng'èrChinese(Traditional)龍二Lóng'èrJapanese龍二RyuujiKorean류지RyujiSpanishRyuujiFrenchRyuujiRussianРюдзиRyudziThaiRyuujiVietnameseRyuujiGermanRyuujiIndonesianRyuujiPortugueseRyuujiTurkishRyuujiItalianRyuujiTakeo
+LanguageOfficial NameEnglishTakeoChinese(Simplified)竹生ZhúshēngChinese(Traditional)竹生ZhúshēngJapanese竹生TakeoKorean타케오Take'oSpanishTakeoFrenchTakeoRussianТакэоTakeoThaiTakeoVietnameseTakeoGermanTakeoIndonesianTakeoPortugueseTakeoTurkishTakeoItalianTakeo
+Change History[]
+Released in Version 2.0[Edit History]Version 3.3
+Added a Genius Invokation TCG Adventure Challenge for Ryuuji.
+
+Version 2.0
+
+Ryuuji was released.
+References[]
+
+↑ Twitter: EN VA Self Announcement
+
+↑ 2.0 2.1 Commission: Bantan Sango Case File
+
+↑ Event Bantan Sango Case Files: The Warrior Dog World Quest, Part 2: Bantan Sango Case File: Stealthy Trail
+
+
+
+
+

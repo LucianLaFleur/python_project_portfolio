@@ -1,0 +1,162 @@
+
+
+
+
+
+Linyang
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Liyue
+
+
+Location
+Liyue
+
+
+Affil­i­a­tion
+Adventurers' Guild
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Event-Exclusive NPCs 
+
+
+
+
+Linyang is an event-exclusive NPC that appeared in the Moonlight Merriment event.
+She could be found under the  map icon in Liyue Harbor. Once per day, she could be asked to mark out  locations of Moonchase Charms and Mystmoon Chests.
+
+Contents
+
+1 Location
+2 Profile
+
+2.1 Appearance
+
+
+3 Quests and Events
+
+3.1 Events
+
+
+4 Idle Quotes
+5 Dialogue
+
+5.1 Path of Stalwart Stone
+5.2 Path of Gentle Breezes
+5.3 Path of Austere Frost
+
+
+6 Other Languages
+7 Change History
+
+
+Location[]
+During Moonlight Merriment
+Linyang's locationAdditional context
+Profile[]
+(To be added.)
+
+Appearance[]
+Linyang has short brown hair. She wears the standard female uniform of the Adventurers' Guild. The uniform consists of three layers of clothing (a white short-sleeve dress with a front cut-off, a green cape collar with a ruffled trim and a triangular back flap, and a green panel skirt with slits and a red bow at the back), a green Dixie cap with a red cross on the left, a short red neckerchief, brown socks and laced high leather boots. The Adventurers' Guild logo, an eight-pointed star, is printed on the right and back flaps of the collar.
+
+Quests and Events[]
+EventsMoonlight MerrimentThe Many Matters of the Moonchase Festival
+Idle Quotes[]
+During Moonlight Merriment
+
+ Happy Moonchase!
+Media:VO Linyang Moonlight Merriment 01.ogg "Please enjoy the festivities! Happy Moonchase!"
+
+Dialogue[]
+Path of Stalwart Stone[]
+
+Linyang: Hello, Traveler. Do you have anything to ask me?
+(If there are remaining Moonchase Charms or Mystmoon Chests)
+ So about the Moonchase Charms and treasure chests in Liyue...
+(Getting daily hints for the first time)
+Linyang: Uh... Let me have a look...
+Linyang: The placement of treasure chests and Moonchase Charms in Liyue should be handled by Tiantian... Oh well, let me mark some of them out for you.
+Linyang: Let's just hope that she made those placements as she should've...
+(If there are marked locations that have yet to be collected)
+Linyang: I've already marked some of them out for you. Go have a look at your map first.
+(If all the marked locations have been collected)
+Linyang: Eh? You... you seem to have found all the treasure chests and Moonchase Charms that I marked out for you.
+Linyang: Not bad, Traveler. Not bad at all.
+Linyang: Still, I can't tell you about the locations of anymore chests or charms today. These are the rules, so please understand...
+ Goodbye.
+Linyang: See you. Enjoy the Moonchase Festival!
+
+Path of Gentle Breezes[]
+
+Linyang: Hello, Traveler. Do you have anything to ask me?
+(If there are remaining Moonchase Charms or Mystmoon Chests)
+ So about the Moonchase Charms and treasure chests in Mondstadt...
+(Getting daily hints for the first time)
+Linyang: Huh, so that's what you wanted to ask me about. Let me have a look, and I'll mark some of them out on the map for you...
+Linyang: Still, I can't help you mark everything out. Guild rules, you know...?
+Linyang: Also, I'm pretty sure Mondstadt is supposed to be under Cyrus's jurisdiction. Seriously, that guy...
+Linyang: Well, I've marked them out. Have a look.
+(If there are marked locations that have yet to be collected)
+Linyang: I've already marked some of them out for you. Go have a look at your map first.
+(If all the marked locations have been collected)
+Linyang: Eh? You... you seem to have found all the treasure chests and Moonchase Charms that I marked out for you.
+Linyang: Not bad, Traveler. Not bad at all.
+Linyang: Still, I can't tell you about the locations of anymore chests or charms today. These are the rules, so please understand...
+ Goodbye.
+Linyang: See you. Enjoy the Moonchase Festival!
+
+Path of Austere Frost[]
+
+Linyang: Hello, Traveler. Do you have anything to ask me?
+(If there are remaining Moonchase Charms or Mystmoon Chests)
+ So about the Moonchase Charms and treasure chests on Dragonspine...
+(Getting daily hints for the first time)
+Linyang: Oh, on Dragonspine, you say... Give me a moment...
+Linyang: I remember that someone named Iris was in charge of placing items in the Dragonspine area... She really is very impressive...
+Linyang: There, I've marked some of the locations out for you. Take a look at your map.
+(If there are marked locations that have yet to be collected)
+Linyang: I've already marked some of them out for you. Go have a look at your map first.
+(If all the marked locations have been collected)
+Linyang: Eh? You... you seem to have found all the treasure chests and Moonchase Charms that I marked out for you.
+Linyang: Not bad, Traveler. Not bad at all.
+Linyang: Still, I can't tell you about the locations of anymore chests or charms today. These are the rules, so please understand...
+ Goodbye.
+Linyang: See you. Enjoy the Moonchase Festival!
+
+Other Languages[]
+
+LanguageOfficial NameEnglishLinyangChinese(Simplified)琳阳LínyángChinese(Traditional)琳陽LínyángJapanese琳陽Rinyou‍[!][!]Assumed readingKorean임양Im'yangSpanishLinyangFrenchLinyangRussianЛинь ЯнLin' YanThaiLinyangVietnameseLinyangGermanLinyangIndonesianLinyangPortugueseLinyang
+Change History[]
+Released in Version 2.1[Create New History]
+
+
+

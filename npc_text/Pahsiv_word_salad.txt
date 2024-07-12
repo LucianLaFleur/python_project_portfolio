@@ -1,0 +1,122 @@
+
+
+
+
+
+Pahsiv
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Fontaine
+
+
+Location
+Fontaine
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Quest-Exclusive NPCsMelusine 
+
+
+
+
+Pahsiv is a quest-exclusive NPC located in Erinnyes Forest, Fontaine.
+
+Contents
+
+1 Shop
+2 Location
+3 Profile
+
+3.1 Appearance
+
+
+4 Quests and Events
+
+4.1 World Quests
+4.2 Hidden Exploration Objectives
+
+
+5 Dialogue
+6 Trivia
+7 Other Languages
+8 Change History
+
+
+Shop[]
+After the World Quest Series The Wild Fairy of Erinnyes, Pahsiv can be found inside the entrance to the cavern northeast of Loch Urania. Submitting all 6 Foggy Forest Branches and buying every item in her shop grants the Wonders of the World achievement Tomorrow, and Tomorrow, and Tomorrow, but she can no longer be found at this location.
+
+ItemCostStock
+ Transoceanic Pearl Tidalga ×220
+ Lakelight Lily Tidalga ×215
+ Spring of the First Dewdrop Tidalga ×215
+ Bird Egg Tidalga ×25
+ Fish Tidalga ×25
+ Fowl Tidalga ×25
+ Crab Tidalga ×25
+ Mora Tidalga ×210
+
+Location[]
+Pahsiv's locationAdditional context
+Profile[]
+Pahsiv is a "fairy" that looks after and protects Erinnyes Forest. She uses a limited amount of words, most notably "pahsiv" for "yes" and "Melusine" for no. She is not aware of other Melusines, Merusea Village or the Court of Fontaine.
+During the events of The Wild Fairy of Erinnyes, the Traveler and Paimon encounter her by chance when solving a puzzle in the Erinnyes Forest. The two deduce that she was trying to restore the Weeping Willow of the Lake, which had been defiled by a Root-Consuming Tumor and a riftwolf nest. They assisted her in purging the defilement; when the riftwolves attacked, she fled, though upon seeing that they restored the tree's help, she returned with several chests to reward them for their efforts.
+
+Appearance[]
+Her color scheme resembles a Primordial Bathysmal Vishap — her skin and hair are dark blue and eyes are pink with vertical pupils, unlike in other Melusines.
+
+Quests and Events[]
+World QuestsThe Wild Fairy of ErinnyesFoggy Forest PathFurious Mouth of the SpringWilting Weeping WillowWithin the Depths of ErinnyesHidden Exploration ObjectivesExchange! Pahsiv!
+Dialogue[]
+
+Pahsiv: Paimon! (TravelerTravelerThe player's chosen name for the Traveler)!
+ We brought the Branches.
+Pahsiv: Branches! Branches! Pahsiv!
+(Opens submission menu)
+ I brought some Tidalga.
+Pahsiv: Tidalga! Tidalga! Tidalga Tidalga Tidalga! Swap!
+(Opens shop menu)
+Pahsiv: Thanks, Paimon. Thanks, (TravelerTravelerThe player's chosen name for the Traveler)! Thanks, Tidalga!
+Pahsiv: Pahsiv!
+
+Trivia[]
+Pahsiv is likely to be a Vishap in disguise:
+Her given name, when reversed, spells out "vishap." Her skin and clothing share a similar color hue as a Bathysmal Vishap.
+Like the Vassals of Watatsumi/Reptilians, Pahsiv has snake-like eyes with vertical pupils. Additionally, her eyes are the same color as a Primordial Bathysmal Vishap.
+Pahsiv is also able to calm down a Primordial Bathysmal Vishap.
+While the Traveler is fighting Rifthounds at the Roots of Erinnyes in the World Quest Within the Depths of Erinnyes in Series The Wild Fairy of Erinnyes, Pahsiv disappears and a vishap appears to assist the Traveler with fighting the Rifthounds.
+Other Languages[]
+
+LanguageOfficial NameEnglishPahsivChinese(Simplified)珀西芙PòxīfúChinese(Traditional)珀西芙PòxīfúJapaneseパシーフPashiifuKorean프샤비PeusyabiSpanishPahsivFrenchPahsivRussianПашивPashivThaiPahsivVietnamesePahsivGermanPahsivIndonesianPahsivPortuguesePahsivTurkishPahsivItalianPahsiv
+Change History[]
+Released in Version 4.2[Create New History]
+
+
+

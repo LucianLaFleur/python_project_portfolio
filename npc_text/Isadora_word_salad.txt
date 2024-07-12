@@ -1,0 +1,155 @@
+
+
+
+
+
+Isadora
+Auditor
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+								Voice Actors
+							
+
+
+
+
+
+Region
+Fontaine
+
+
+Location
+Fontaine
+
+
+Dialogue Reward
+ 4
+
+
+
+
+English
+Kristen McGuire[1]
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Isadora is an open-world NPC located in Court of Fontaine: Palais Mermonia, Fontaine. She can be found talking with Jacquetta near the entrance to the Palais Mermonia during the day and behind the Palais Mermonia at night.
+Following a certain dialogue branch for the first time gives the player four Rainbow Roses.
+
+Contents
+
+1 Location
+2 Quests and Events
+
+2.1 Archon Quests
+2.2 Commissions
+
+
+3 Idle Quotes
+
+3.1 Daytime
+3.2 Nighttime
+
+
+4 Dialogue
+
+4.1 Daytime
+4.2 Nighttime
+
+
+5 Other Languages
+6 Change History
+7 References
+
+
+Location[]
+Isadora's location (Daytime)Additional contextIsadora's location (Nighttime)Additional context
+Quests and Events[]
+Archon QuestsChapter IVAct III: To the Stars Shining in the DepthsA Tea Party Most ThornyAct V: Masquerade of the GuiltyDeluge of Wrathful WatersHunters, ProphetsCommissionsTales From the Court
+Idle Quotes[]
+Daytime[]
+
+ Try talking...
+Media:VO Isadora 01.ogg "Maybe try talking to them again?"
+
+Nighttime[]
+
+ Agree to disagree...
+Media:VO Isadora 02.ogg "I guess they'll just have to agree to disagree."
+
+Dialogue[]
+Daytime[]
+
+Jacquetta: I don't get it. Don't those two leaders sit in the same office — in fact, don't they sit at adjoining tables? Why are their views different?
+Isadora: It might be a communication issue...
+Jacquetta: And every time I try to get a signature, if they aren't both missing, then one will ask me to get a second opinion from the other. I mean, would it kill them to get their story straight first!?
+Isadora: Then maybe they don't have a good relationship...
+(If Archon Quest Chapter IV: Act V - Masquerade of the Guilty has not been completed)
+
+Jacquetta: Also, more and more people are growing dissatisfied with the Palais's inaction regarding the "prophecy." One of the construction teams has even gone on strike...
+Jacquetta: I mean, prophecies can't really be verified — we've got more practical problems to deal with!
+Jacquetta: [sic] Yeah, that's true...
+(If Masquerade of the Guilty has been completed)
+
+Jacquetta: There's been a lot of work to do regarding rebuilding and repairing the flood damage lately.
+Jacquetta: The excitement of not having been dissolved didn't last long, and now a pile of other problems have surfaced that need to be dealt with...
+Isadora: Yeah, that's true...
+
+Nighttime[]
+
+Isadora: Some problems might have been fated to be intractable... I suspect we've all got to make our own choices.
+ You seem a little down.
+Isadora: Heh... I'm not sure I'd say that, but at the same time, it's been a while since I last considered myself happy.
+Isadora: I'm an auditor here at the Palais. My work is confidential, so I can't really unburden myself of my complaints to anyone.
+Isadora: Of course, I fully intend to follow the rules, but sometimes I really do wish I had someone to talk to.
+Isadora: Maybe I need to take another approach — learn to live with those things that don't go smoothly.
+ Sorry that I couldn't help.
+Isadora: No, it's okay. It is good enough to chat under such a serene night sky. Thank you.
+Isadora: Good night and sweet dreams.
+(Obtain  Rainbow Rose ×4)
+ Best of luck to you.
+Isadora: And to you.
+
+Other Languages[]
+
+LanguageOfficial NameEnglishIsadoraChinese(Simplified)伊莎朵YīshāduǒChinese(Traditional)伊莎朵YīshāduǒJapaneseイサドラIsadoraKorean이사도라IsadoraSpanishIsadoraFrenchIsadoraRussianАйседораAysedoraThaiIsadoraVietnameseIsadoraGermanIsadoraIndonesianIsadoraPortugueseIsadoraTurkishIsadoraItalianIsadora
+Change History[]
+Released in Version 4.0[Create New History]
+References[]
+
+↑ Twitter: EN VA Self Announcement (Archived)
+
+
+
+
+

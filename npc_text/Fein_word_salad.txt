@@ -1,0 +1,98 @@
+
+
+
+
+
+Fein
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Mondstadt
+
+
+Affil­i­a­tion
+Adventurers' Guild
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Event-Exclusive NPCs 
+
+
+
+
+Fein is an event-exclusive NPC who appeared in Duel! The Summoners' Summit!.
+
+Contents
+
+1 Location
+2 Profile
+
+2.1 Appearance
+
+
+3 Quests and Events
+
+3.1 Events
+
+
+4 Dialogue
+5 Other Languages
+6 Change History
+
+
+Location[]
+During Duel! The Summoners' Summit!
+Fein's locationAdditional context
+Profile[]
+(To be added.)
+
+Appearance[]
+(To be added.)
+
+Quests and Events[]
+EventsDuel! The Summoners' Summit!Heart of the Dice
+Dialogue[]
+
+Fein: Traveler, would you like to try Heart of the Dice?
+ Yep.
+Fein: No problem. Um, have you finished reading the rulebook yet?
+Fein: Oh, it's fine, you don't have to read it cover to cover to play. You can always learn as you play.
+(Opens Heart of the Dice interface)
+ I've got something else to do.
+Fein: You're busy? Alright then, feel free to come find me anytime. This booth will be here throughout the King of Invokations Grand Prix event period.
+
+Other Languages[]
+
+LanguageOfficial NameEnglishFeinChinese(Simplified)费恩Fèi'ēnChinese(Traditional)費恩Fèi'ēnJapaneseフェインFeinKorean파인PainSpanishFeinFrenchFeinRussianФейнFeynThaiFeinVietnameseFeinGermanFeinIndonesianFeinPortugueseFeinTurkishFeinItalianFein
+Change History[]
+Released in Version 3.7[Create New History]
+
+
+

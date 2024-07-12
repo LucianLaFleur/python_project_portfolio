@@ -1,0 +1,130 @@
+
+
+
+
+
+Urville
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Fontaine
+
+
+Location
+Fontaine
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Urville is an open-world NPC located in Fontaine. During the day, he can be found at Lumidouce Harbor. At night, he can be found on The Rusty Rudder with Nadia. He appears at both locations after completing the World Quest Wish-Fulfilling Treasure Hunt.
+
+Contents
+
+1 Location
+2 Profile
+
+2.1 Appearance
+
+
+3 Quests and Events
+
+3.1 World Quests
+
+
+4 Idle Quotes
+5 Dialogue
+
+5.1 Daytime
+5.2 Nighttime
+
+
+6 Other Languages
+7 Change History
+
+
+Location[]
+Urville's location (Daytime)Additional context
+Urville's location (Nighttime)Additional context
+Profile[]
+(To be added.)
+
+Appearance[]
+(To be added.)
+
+Quests and Events[]
+World QuestsWish-Fulfilling Treasure Hunt
+Idle Quotes[]
+
+(Daytime)
+ Should be alright...
+Media:VO Urville 01.ogg "This batch should be alright."
+(Nighttime)
+ Don't lose hope!
+Media:VO Urville 02.ogg "You can't lose hope. Believe in yourself!"
+
+Dialogue[]
+Daytime[]
+
+Urville: Oh, it's you...
+ You seem a little down. What's wrong?
+Urville: Well, that probably has something to do with you... or myself, rather. I was bragging about how I'd have struck it rich the next time we met...
+Urville: But the truth is, wealth has remained as elusive as ever.
+ Just keep your feet on the ground and work hard, and one day...
+Urville: Nadia said the same thing. You're all more knowledgeable about this than I am, so I'll trust you.
+Urville: Actually, working here is a solid gig. It keeps you busy, unlike before when I was treasure hunting outside. You could go for days, or even weeks, without any discoveries.
+Urville: You're right! I should work hard and be diligent from today onwards!
+ Treasure hunt not going well?
+Urville: Yes, indeed. I actually tried diving to search for clues before that could lead to treasure, but I was too weak.
+Urville: Ball Octopuses are so hard to deal with...
+Urville: But I won't give up. Someday, I'll defeat them on my own terms. Only then can I continue moving forward.
+ I'm sure you have things to do.
+Urville: Very well. Goodbye.
+
+Nighttime[]
+
+Urville: I feel like I've gotten a little stronger recently. Let's go diving for treasure again when things are less busy at the harbor.
+Nadia: Alright, if we're chased by any Ball Octopuses again, I'll take the responsibility and bring Urville back.
+Urville: Can't you have a little faith in me? Why is it assumed from the get-go that I'm going to lose?
+Nadia: Well... I don't remember the exact score, but I know you have lost to the Ball Octopuses more than a few times before. Not exactly a track record that fills you with confidence.
+Urville: Darn it, we should still have hope, no matter what! What doesn't kill you only makes you stronger, right?
+Nadia: You are right. As long as we persevere, there will always be a chance of success.
+
+Other Languages[]
+
+LanguageOfficial NameEnglishUrvilleChinese(Simplified)尤维尔Yóuwéi'ěrChinese(Traditional)尤維爾Yóuwéi'ěrJapaneseユーヴィルYuuviruKorean유르빌YureubilSpanishUrvilleFrenchUrvilleRussianЮрвилльYurvill'ThaiUrvilleVietnameseUrvilleGermanUrvilleIndonesianUrvillePortugueseUrvilleTurkishUrvilleItalianUrville
+Change History[]
+Released in Version 4.2[Create New History]
+
+
+

@@ -1,0 +1,143 @@
+
+
+
+
+
+Homayun
+Researcher
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Sumeru
+
+
+Location
+Sumeru
+
+
+Affil­i­a­tion
+Sumeru Akademiya
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Homayun is an open-world NPC located in Sumeru City, Sumeru.
+
+Contents
+
+1 Location
+2 Idle Quotes
+3 Thoughts
+4 Dialogue
+5 Event Dialogue
+
+5.1 A Parade of Providence
+
+
+6 Other Languages
+7 Change History
+
+
+Location[]
+Homayun's locationAdditional context
+Idle Quotes[]
+Before completing Where the Boat of Consciousness Lies
+
+ Greater Lord Rukkhadevata...
+Media:VO Homayun 01.ogg "To honor the generosity of Greater Lord Rukkhadevata, we must properly care for the rainforest."
+
+After completing Where the Boat of Consciousness Lies
+
+ The Dendro Archon...
+Media:VO Homayun 02.ogg "To honor the generosity of the Dendro Archon, we must properly care for the rainforest."
+
+During A Parade of Providence
+
+ Not again...
+Media:VO Homayun A Parade of Providence 01.ogg "*groan* Not the Extravaganza again. Too much commotion for my liking."
+
+Thoughts[]
+Homayun's thoughts can be accessed by using Nahida's Elemental Skill, All Schemes to Know. 
+
+Media:VO Homayun All Schemes to Know 01.ogg Homayun: (Hopefully, I will be able to think uninterrupted here.)
+Dialogue[]
+
+(Before completing Where the Boat of Consciousness Lies)
+Homayun: If the present rainforest could not fight off pollution, we could only try to change the surrounding environment...
+Homayun: Gotta go to the House of Daena and request some previous research... Or go ask Rifaet.
+(After completing Where the Boat of Consciousness Lies)
+Homayun: We cannot rest on our laurels even though the pollution of the rainforest has decreased...
+Homayun: I must go to the House of Daena and request to requisition some previous research... Or go ask Rifaet.
+ What are you thinking about?
+(Before completing Where the Boat of Consciousness Lies)
+Homayun: The Withering has always been one of the tough issues that Amurta wanted to conquer.
+Homayun: It is true that while vision holders and forest rangers are working together to control the zones, the Withering won't impact Sumeru people's daily lives all too much.
+Homayun: But beyond dealing with the symptoms, we researchers want to cure the cause.
+Homayun: To this end, I've always wanted the Scribe to sort through the latest rainforest reports from the researchers.
+Homayun: The Scribe is only responsible for documenting their findings, but he'd be able to discern any anomalies with his keen eyes...
+ What are you thinking about?
+(After completing Where the Boat of Consciousness Lies)
+Homayun: Rainforest life is among the foremost concerns of the Amurta.
+Homayun: Although the taint caused by the Withering has been greatly alleviated, no one can say for sure that no new problems will arise.
+Homayun: To this end, I've always wanted the Scribe to sort through the latest rainforest reports from the researchers.
+Homayun: The Scribe is mainly responsible for documenting their findings, true. But I reckon he'd be able to discern any anomalies in those writings with his keen eyes...
+ About Rifaet...
+Homayun: Oh? He's a very knowledgeable young researcher. He's not very articulate, but he's familiar with all kinds of literature. Have you heard of him?
+ I've heard of him...
+Homayun: How rare. He's been absorbed in research and barely shows up around here.
+Homayun: If it weren't for the fact that he's a candidate for the next Grand Conservator, even fewer young researchers would know about him.
+ Never heard of him...
+Homayun: Well, he's been absorbed in research and barely shows up around here. That Vikram always steals the limelight.
+Homayun: If it weren't for the fact that he's a candidate for the next Grand Conservator, not many would have heard his name.
+Homayun: I prefer him though, compared to that Vikram fellow. Rifaet is more like a researcher in my opinion.
+Homayun: But I don't know what those sages think. After all, they're the ones who have the final say.
+ See you.
+Homayun: Okay, goodbye.
+
+Event Dialogue[]
+A Parade of Providence[]
+
+Homayun: Even if we find a calm place to think, we will inevitably be interrupted by noisy students.
+Homayun: To be honest, I was never interested in these celebratory events or competitions when I was in the Akademiya.
+Homayun: Winning the Championship doesn't really help add any credit to your research, and any renown gained from it only amounts to some short-lived attention.
+Homayun: ...Realistically speaking, there are few people as practical as I am.
+
+Other Languages[]
+
+LanguageOfficial NameEnglishHomayunChinese(Simplified)胡马延HúmǎyánChinese(Traditional)胡馬延HúmǎyánJapaneseフマユンFumayunKorean호마윤HomayunSpanishHomayunFrenchHomayunRussianХомаюнKhomayunThaiHomayunVietnameseHomayunGermanHomayunIndonesianHomayunPortugueseHomayúnTurkishHomayunItalianHomayun
+Change History[]
+Released in Version 3.0[Create New History]
+
+
+

@@ -1,0 +1,131 @@
+
+
+
+
+
+Hawad
+Merchant
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Sumeru
+
+
+Location
+Sumeru
+
+
+Genius Invokation TCG
+Stages
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Hawad is an open-world NPC located in Caravan Ribat, Sumeru.
+
+Contents
+
+1 Location
+2 Quests and Events
+
+2.1 World Quests
+
+2.1.1 Requests
+
+
+
+
+3 Idle Quotes
+4 Thoughts
+5 Dialogue
+6 Gallery
+7 Other Languages
+8 Change History
+
+
+Location[]
+Hawad's locationAdditional context
+Quests and Events[]
+World QuestsRequestsFungal Fracas
+Idle Quotes[]
+
+ When I'm done...
+Media:VO Hawad 01.ogg "What should I sell after I'm done with this batch..."
+
+Thoughts[]
+Hawad's thoughts can be accessed by using Nahida's Elemental Skill, All Schemes to Know.
+
+Media:VO Hawad All Schemes to Know 01.ogg Hawad: (What a pity. If only I knew her name...)
+Dialogue[]
+
+Hawad: I guess I'll rest around the pitstop once I'm done here.
+Hawad: Too bad I can't see that flower again...
+ Adventure Challenge
+(Opens Genius Invokation TCG match interface)
+(If the player loses the match)
+
+Hawad: I won? Uh... Thanks for going easy on me, dear guest?
+(If the player wins the match)
+
+Hawad: You're really good! If I had your skills, I'd be able to talk business with just about anyone!
+ You are...
+Hawad: Hello, I'm a traveling merchant who sells desert specialties. Unfortunately, I only brought a few items with me this time, and they've been booked.
+Hawad: But if you're interested, you can take a look for the moment.
+ What are your best sellers?
+Hawad: Ajilenakh Nuts have been the most in demand lately.
+Hawad: Ajilenakh Nuts are a common crop that the people of the desert used to plant. They make pretty good desserts and candy because of their high sugar content.
+Hawad: Sweets make people happy, so I guess that's where its popularity comes from.
+Hawad: I heard researchers from the Akademiya are even trying to find out which type of light produces sweeter Ajilenakh Nuts. I really look forward to their results.
+ What flower?
+Hawad: Ah... I mean a girl from here. She is the flower of this place. I only have to look at her smile from a distance and I feel cleansed already.
+Hawad: But I heard that she's gone to Sumeru City to look for her lover.
+Hawad: What a pity... I don't even know her name...
+ See you.
+Hawad: See you.
+
+Gallery[]
+Request icon
+Other Languages[]
+
+LanguageOfficial NameEnglishHawadChinese(Simplified)哈瓦德HāwǎdéChinese(Traditional)哈瓦德HāwǎdéJapaneseハワードHawaadoKorean하워드HawodeuSpanishHawadFrenchHawadRussianХавадKhavadThaiHawadVietnameseHawadGermanHawadIndonesianHawadPortugueseHawadTurkishHawadItalianHawad
+Change History[]
+Released in Version 3.0[Edit History]Version 3.7
+Added a Genius Invokation TCG Adventure Challenge for Hawad.
+
+Version 3.0
+
+Hawad was released.
+
+
+

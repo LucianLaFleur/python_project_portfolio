@@ -1,0 +1,156 @@
+
+
+
+
+
+Sanad
+Student
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+								Family
+							
+
+
+
+
+
+Region
+Sumeru
+
+
+Location
+Sumeru
+
+
+Affil­i­a­tion
+Amurta
+
+
+
+
+Sibling
+Zohreh
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Sanad is an open-world NPC located in House of Daena, Sumeru City, Sumeru during the day, and in Puspa Café talking to his sister Zohreh during the night.
+
+Contents
+
+1 Location
+2 Idle Quotes
+3 Thoughts
+4 Dialogue
+
+4.1 Daytime
+4.2 Nighttime
+
+
+5 Other Languages
+6 Change History
+
+
+Location[]
+Sanad's location (day)Additional context (day)Sanad's location (night)Additional context (night)
+Idle Quotes[]
+
+(Daytime)
+ It's so long...
+Media:VO Sanad 01.ogg "Hahh... Why is the book list he gave me so long...?"
+(Nighttime)
+ Ahem...
+Media:VO Sanad 02.ogg "Um, could you, maybe..."
+
+Thoughts[]
+Sanad's thoughts can be accessed by using Nahida's Elemental Skill, All Schemes to Know.
+
+
+(Daytime)
+Media:VO Sanad All Schemes to Know 01.ogg Sanad: (So I guess I can't just expect the Akasha to give me a boost in my grades...)
+(Nighttime)
+Media:VO Sanad All Schemes to Know 02.ogg Sanad: (Please help me, sis!)
+
+Dialogue[]
+Daytime[]
+
+Sanad: All these books... Do I have to read through every page?
+Sanad: I thought the entrance exam to the Akademiya was the biggest challenge I could ever face. Turns out I was too optimistic!
+ About the books...
+Sanad: My roommate recommended these books to me.
+Sanad: I asked for some advice on research, and his answer was that we can't only rely on the Akasha.
+Sanad: He said that to carry out in-depth research, it's best to track down the source of knowledge, read carefully, and also think proactively.
+Sanad: I said: "Sure! Lemme try your method!" He's the best among us, after all — we've almost given up on trying to catch up with him, you know.
+Sanad: But I really didn't expect him to read... so many books every day...
+ About studying...
+Sanad: I'm not very talented, and it took me great effort to get into the Akademiya.
+Sanad: My sister often encouraged me, saying that things would be much easier once I passed the exam.
+Sanad: That's not true at all! My schedule has become ever crazier since I got admitted... I've been experiencing hair loss lately. I'm just in a constant state of anxiety. Can I get my assignments done? Will my thesis proposal get approved?
+Sanad: Speaking of which, I wonder if I can borrow my sister's theses from when she was studying here. We're from the same Darshan, you see...
+ See you.
+Sanad: Oh, okay. See you!
+
+Nighttime[]
+
+(Before completing Where the Boat of Consciousness Lies)
+
+Sanad: My dear sister, uh, may I ask a... um... favor?
+Zohreh: Why are you talking to me like that? Don't tell me you've got yourself into some trouble at the Akademiya!
+Sanad: No, not at all! Everything's fine with school!
+Sanad: I just want to borrow your theses!
+Sanad: Don't worry. I won't copy them! I just need some reference materials! Yeah, that's what they are for, reference only!
+Zohreh: Well, I can lend them to you, but my research back then is probably out of date now.
+Zohreh: What's more, if it's something of reference value, it's probably already archived in the Akasha. Why don't you apply for access?
+Zohreh: Instead of borrowing my out-of-date theses, why don't you discuss your ideas with top students in your school?
+Sanad: My roommate is indeed a top achiever... One could even say he's an overacheiver. No one can understand the things he writes in his assignments except for our mentors.
+Sanad: *sigh* Speaking of him, I bet he must be burning midnight oil now. I should bring him some food and coffee on my way back.
+(After completing Where the Boat of Consciousness Lies)
+
+Sanad: My dear sister, uh, may I ask a... um... favor?
+Zohreh: Why are you talking to me like that? You haven't gotten yourself into some trouble at the Akademiya, have you?
+Sanad: No, not at all! Everything's fine at school!
+Sanad: I.. just want to borrow some of your old theses!
+Sanad: Don't worry. I won't copy them! I just need them as... reference materials! Yeah, that's right!
+Zohreh: Well, I can lend them to you, but my research back then is probably out of date now.
+Zohreh: I'd say that you might get more out of discussing your ideas with some better students in your cohort, as opposed to borrowing my theses from way back when.
+Zohreh: Perhaps a little discussion might lead to something new altogether. You never know...
+Sanad: My roommate is indeed a top achiever... or perhaps we should say that he achieves too much. No one can understand the things he writes in his assignments except for our mentors.
+Sanad: *sigh* Speaking of him, I bet he must be burning midnight oil right now. I should bring him some food and coffee on my way back.
+
+Other Languages[]
+
+LanguageOfficial NameEnglishSanadChinese(Simplified)萨纳德SànàdéChinese(Traditional)薩納德SànàdéJapaneseサナドSanadoKorean사나드SanadeuSpanishSanadFrenchSanadRussianСанадSanadThaiSanadVietnameseSanadGermanSanadIndonesianSanadPortugueseSanadTurkishSanadItalianSanad
+Change History[]
+Released in Version 3.0[Create New History]
+
+
+

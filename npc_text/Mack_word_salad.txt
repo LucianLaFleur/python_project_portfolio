@@ -1,0 +1,132 @@
+
+
+
+
+
+Mack
+Knight of Favonius
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Mondstadt
+
+
+Location
+Mondstadt
+
+
+Affil­i­a­tion
+Knights of Favonius
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Mack is an open-world NPC located in Falcon Coast, Mondstadt. He appears in the area during daytime (06:00 – 19:00), keeping watch over the two children Will and Jill who are trying to avoid him.
+
+Contents
+
+1 Location
+2 Profile
+
+2.1 Appearance
+
+
+3 Quests and Events
+
+3.1 Events
+
+
+4 Idle Quotes
+5 Dialogue
+6 Event Dialogue
+
+6.1 Hidden Strife
+
+
+7 Other Languages
+8 Change History
+
+
+Location[]
+Mack's location (Daytime)Additional context
+Profile[]
+(To be added.)
+
+Appearance[]
+Mack wears one of the standard uniforms of the Knights of Favonius. The uniform consists of a black long-sleeve shirt, horse riding pants, gloves, and brown leather shoulder pads with brass-accented white plate armor worn on top. His vambraces however are black. Wing motifs decorate various parts of the armor along with the Knights of Favonius crest on the breastplate. A sheathed sword hangs from his belt on his left side and a blowing horn hangs from the back of his hip.
+
+Quests and Events[]
+EventsUnreconciled StarsTo Each Their DutyHidden Strife
+Idle Quotes[]
+
+ This pair...
+Media:VO Mack 01.ogg "Those two kids sure can run."
+ But what if...
+Media:VO Mack 02.ogg "Falling into the sea is no joke."
+
+Dialogue[]
+
+Mack: Hi. I'm Mack, a Knight of Favonius. Is there anything I can help you with?
+ What are you doing here?
+Mack: Ah, well do you see those two children over there?
+Mack: They ran off to play together by themselves, without their parents.
+Mack: I was concerned for their safety, so I thought I'd follow them.
+ Who are those kids?
+Mack: That's Will and Jill. Children aren't really supposed to leave the city without an accompanying adult...
+Mack: But I thought, they just look so happy playing together. I couldn't bring myself to go and tell them off...
+Mack: So I've just stayed here watching them. Otherwise, I'm not sure how I'd be able to face their parents.
+ Goodbye.
+Mack: Alright, have a good one.
+
+Event Dialogue[]
+Hidden Strife[]
+
+(Talk to Mack where Falcon Coast's northern beach meets Windrise's grass)
+Media:vo hyeq002 10 mack 01.ogg Mack: Hold it, I have to stop you right there. Sorry, the name's Mack.
+Media:vo hyeq002 10 mack 02.ogg Mack: The Knights of Favonius are carrying out a training exercise near Falcon Coast. Access is temporarily denied to the public.
+ But I don't see any knights on the beach...
+Media:vo hyeq002 10 mack 03a.ogg Mack: They're still rounding up the troops, but they'll be arriving shortly.
+Media:vo hyeq002 10 mack 03a 1.ogg Mack: Please return to the city. Combat training is boring to watch, and we don't want to risk you getting injured.
+ But there are monsters on the beach...
+Media:vo hyeq002 10 mack 03b.ogg Mack: Exactly. They will serve as targets for the knights participating in the training exercise.
+Media:vo hyeq002 10 mack 03b 1.ogg Mack: Please return to the city. Combat training is boring to watch, and we don't want to risk you getting injured.
+
+Other Languages[]
+
+LanguageOfficial NameEnglishMackChinese(Simplified)麦克MàikèChinese(Traditional)麥克MàikèJapaneseマイクMaikuKorean마이크MaikeuSpanishMackFrenchMackRussianМакMakThaiMackVietnameseMackGermanMackIndonesianMackPortugueseMackTurkishMackItalianMack
+Change History[]
+Released in Version 1.0[Create New History]
+
+
+

@@ -1,0 +1,152 @@
+
+
+
+
+
+Shams
+Boat Captain
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Sumeru
+
+
+Location
+Sumeru
+
+
+Dialogue Reward
+ 1  3
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Shams is an open-world NPC located in Sumeru City, Sumeru. He appears during the day at the docks and inside Lambad's Tavern at night.
+Following the daytime dialogue branch for the first time gives the player one Guide to Gold and following the nighttime dialogue branch for the first time gives the player three Biryani.
+
+Contents
+
+1 Location
+2 Quests and Events
+
+2.1 World Quests
+
+2.1.1 Requests
+
+
+
+
+3 Idle Quotes
+4 Thoughts
+5 Dialogue
+
+5.1 Daytime
+5.2 Nighttime
+
+
+6 Gallery
+7 Other Languages
+8 Change History
+
+
+Location[]
+Shams' location (Nighttime)Additional context
+Quests and Events[]
+World QuestsRequestsFatuous Farce (Sumeru)
+Idle Quotes[]
+
+(Daytime)
+ Enjoy my vacation...
+Media:VO Shams 01.ogg "I've got plenty of time to enjoy my vacation."
+(Nighttime)
+ Bring me the booze...
+Media:VO Shams 02.ogg "*slurred* Bring me the booze, I can still... *laugh* I can still drink."
+
+Thoughts[]
+Shams's thoughts can be accessed by using Nahida's Elemental Skill, All Schemes to Know.
+
+
+(Daytime)
+Media:VO Shams All Schemes to Know 01.ogg Shams: (You can always rely on the Crux Fleet!)
+(Nighttime)
+Media:VO Shams All Schemes to Know 02.ogg Shams: (I hope I can get an unlimited supply of big orders...)
+
+Dialogue[]
+Daytime[]
+
+Shams: No one needs a vacation more than someone who's just had a vacation.
+ Are you on vacation?
+Shams: Bingo — warm sunlight, tasty food, and an endless supply of time!
+Shams: Haha, don't misunderstand me, I'm no hedonist. It's just that I finished up a big job, and now I happen to be enjoying my holiday.
+Shams:  It wasn't easy going to Inazuma to do business during the Sakoku Decree... *sigh* But that's all in the past now. No point in dwelling on it.
+Shams:  Anyway, after wrapping up that big one, I can finally take it easy for a while.
+ It was pretty tough.
+Shams:  Yeah, if you've tried to get through the thunderstorm around Inazuma, you must know what I mean.
+Shams:  In the end, I had to ask for help from the Crux Fleet to take the herbs and stuff to Watatsumi Island.
+Shams:  I learned quite a lot from them on that trip... But, uh, I'm gonna save it for the next time we work together.
+(Obtain  Guide to Gold)
+ Enjoy your vacation.
+Shams: Enjoy, enjoy! All together now!
+
+Nighttime[]
+
+Shams: Kamal, hear me out, next time, I want to do an even bigger job...
+ Who's Kamal?
+Shams: Kamal is my old pal!
+Shams: But Kamal's already packed it in and doesn't do this business with me anymore... *burp* He insisted on joining some doggone Adventurers' Guild.
+Shams: The way I see it, those small-fry jobs the Adventurers' Guild is slinging aren't nearly as — *burp* Aren't nearly as exciting as my work...
+Shams: Maybe he just got tired of it. If you have the spare time — *burp* — don't forget to bring my old pal Kamal some good food and drinks.
+ As long as I get paid.
+Shams: Okay, okay, payment's not an issue.
+Shams: *burp*... I don't think he's around here, so I'm gonna save you the trouble today.
+Shams: Here, this is... *burp* for you.
+(Obtain  Biryani ×3)
+ "An even bigger job"...?
+Shams: What's hottest in Sumeru right now is definitely... uh, that canned stuff, pretty rare... Right?
+Shams: *burp* ...Someone like me doesn't have the cushy reserves of the Homayanis. If I want to make money, I have to take risks and do high-end business.
+Shams: People of superior learning may not give a hoot about anything else, but that's not the case when it comes to knowledge.
+Shams: Let me tell ya, I got them all figured out... *burp*
+ (Time to make a discreet exit...)
+Shams: I will... make a profit!
+
+Gallery[]
+Request icon
+Other Languages[]
+
+LanguageOfficial NameEnglishShamsChinese(Simplified)沙姆斯ShāmǔsīChinese(Traditional)沙姆斯ShāmǔsīJapaneseシャムスShamusuKorean샴스SyamseuSpanishShamsFrenchShamsRussianШамсShamsThaiShamsVietnameseShamsGermanShamsIndonesianShamsPortugueseShamsTurkishShamsItalianShams
+Change History[]
+Released in Version 3.0[Create New History]
+
+
+

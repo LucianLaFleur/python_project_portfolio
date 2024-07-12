@@ -1,0 +1,345 @@
+
+
+
+
+
+Madame Ping
+Streetward Rambler
+
+
+
+
+
+							Older
+							
+						
+
+
+
+							Younger
+							
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+								Voice Actors
+							
+
+
+
+
+
+Region
+Liyue
+
+
+Location
+Liyue
+
+
+Affil­i­a­tion
+Adepti
+
+
+Dialogue Reward
+ 5
+
+
+
+
+Chinese
+Zhou Ji (周佶)[1]
+
+
+Japanese
+Iizumi Momone (飯泉 桃音)[2]
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Madame Ping (Chinese: 萍姥姥 Píng Lǎolao), also known by her adeptus title Streetward Rambler,[3] is an open-world NPC in Liyue Harbor. She can be found at Yujing Terrace during daytime, admiring the Glaze Lilies.
+Madame Ping's introductory dialogue changes slightly after completing Archon Quest Chapter I: Act II - Farewell, Archaic Lord.
+Following a certain dialogue branch for the first time gives the player five Glaze Lilies.
+
+Contents
+
+1 Location
+2 Profile
+
+2.1 History
+2.2 Present Day
+2.3 Appearance
+
+
+3 Quests and Events
+
+3.1 Archon Quests
+3.2 Story Quests
+3.3 World Quests
+3.4 Events
+3.5 Web Events
+
+
+4 Idle Quotes
+5 Dialogue
+
+5.1 Dialogue Set #1
+5.2 Dialogue Set #2
+
+
+6 Event Dialogue
+
+6.1 Lantern Rite
+6.2 Moonlight Merriment
+6.3 Fleeting Colors in Flight
+
+
+7 Character Mentions
+
+7.1 Character Stories
+7.2 Character Voice-Overs
+
+
+8 Trivia
+
+8.1 Etymology
+
+
+9 Gallery
+
+9.1 Videos
+9.2 Event Artwork
+
+9.2.1 The Great Banquet of the Adepti
+9.2.2 Starlit Sky
+9.2.3 Conch Reminiscences
+
+
+
+
+10 Notes
+11 Other Languages
+
+11.1 Madame Ping
+11.2 Streetward Rambler
+
+
+12 Change History
+13 References
+
+
+Location[]
+Madame Ping's location (Daytime)Additional context
+Profile[]
+History[]
+Over 3,700 years ago, Madame Ping was an adeptus who dwelt in the Guili Assembly, a civilization established by the gods Guizhong, Marchosius, and Morax. Ping's skill as a horticulturist is unparalled among the adepti, and she was the one who provided Mountain Shaper with the karst crawler seeds that are buried in Mt. Hulao.[4]
+Guizhong and Streetward Rambler once argued over the Cleansing Bell, with the former believing that machines could be used to produce simple but fine melodies, and the latter believing that music was emotional expression that could not be replicated by machines. Cloud Retainer asked Rex Lapis to intercede in the arguing, causing him to confiscate the bell and designate it for ceremonial use; afterwards, Guizhong and Streetward Rambler would become close friends.[5]
+Eventually, the Archon War broke out, and the Guili Assembly was engulfed in war, with Guizhong being killed in combat. Streetward Rambler asked Rex Lapis for the Cleansing Bell, which he agreed to, and she set out to compose a tune with it to mourn Guizhong and honor her memory.[5] When she eventually composed a melody that satisfied her and played it, Dvorak's ancestor was drawn to it, which caused him to slip and fall into a lake; Streetward Rambler would save his life and leave without a word. Dvorak's ancestor would tell stories of his experience, and "The Lady Overlooking the Lake" would become a local legend in Fontaine.[6] Streetward Rambler would never play the melody again; when Cloud Retainer asked her about this, she replied: "Though the strings that played that melody survive, the one who inspired it is gone. Tell me, Cloud Retainer... when the one attuned to my soul is no longer here, who else could hope to understand this tune?"[5] Not wishing to reveal the true, sad story of the bell, Madame Ping would later claim that she took the Cleansing Bell due to being a "vain beauty" in her youth.[7]
+With the destruction of the Guili Assembly, Streetward Rambler moved to Liyue Harbor along with the rest of its survivors, where she adopted her current elderly form and the persona of Madame Ping. She and Ganyu are among the few adepti who remained in Liyue Harbor after the end of the war, while most of the other adepti retreated to Jueyun Karst or asked Morax to transform them into stone statues.
+
+Present Day[]
+Madame Ping now dwells around Yuehai Pavilion, living inside the abode she created inside her magical teapot. When Yanfei's parents decided to embark on a journey, Madame Ping became Yanfei's caretaker. In recent years, she also became Xiangling and Yaoyao's martial arts master.[8][9]
+During the Archon Quests, Zhongli tasks the Traveler to retrieve the Cleansing Bell from Madame Ping for the Rite of Parting, a traditional ceremony to bid farewell to adepti. For his own reasons, he opts not to accompany them to visit Madame Ping and refuses to divulge his reasons why. While retrieving the bell from her, she transports them into her magical teapot as a test, revealing herself as an adeptus. After they successfully retrieve the Bell, she asks them to relay a message to her "old friend" (Zhongli), inviting him over for a pot of tea, having quickly deduced the truth behind his actions.
+Madame Ping later reappears with her fellow adepti in "Turning Point" to defend Liyue Harbor from Osial, the Overlord of the Vortex — an ancient god whom Morax sealed long ago in the past, as well as prevent the Fatui from destroying the Guizhong Ballistas. She grants the Traveler her adeptal energy which allows the Traveler to release intermittent shockwaves capable of bypassing Fatui Skirmishers' shields.
+After the dust settles, she speaks briefly with the group. She voices her acknowledgement of Liyue and its people and Ningguang's great sacrifice, as well as the new era Liyue is approaching — where the residents of Liyue no longer need the adepti's protection for every trifling matter. She encourages her friends to do the same, and reassures them that Liyue is left in good hands of the Liyue Qixing.
+Sometime after Osial's defeat, Ping learned that the Traveler and Paimon did not have proper shelter; they had usually camped out during the night. Hearing this, during their next visit, Ping told them that she was preparing a special gift for them in gratitude for their efforts in saving Liyue Harbor, having tasked a fellow adepti, Yanfei, to collect the materials. With the Traveler accompanying her, Yanfei was able to bring Smaragdus Jadeite to Ping, who then crafted a Serenitea Pot for them with the materials, explaining its purpose and telling them that it would serve them well on their travels.
+During the Moonchase Festival, Xiangling brings the Traveler, Paimon, and Keqing to visit Madame Ping and find out more about the Stove God. While she knew the truth, she believed it would be more meaningful for them to find out for themselves.[8] She waits until the large stone crumbles to reveal a Marchosius — or Guoba — statue before explaining the truth about Guoba and how the god Marchosius came to be in his current state.
+
+Appearance[]
+In her youth, Madame Ping herself said she was a "vain beauty", to which even Rex Lapis couldn't dissuade giving the Cleansing Bell to.[7] Nevertheless, Cloud Retainer refutes this as a pretext.[5]
+At present, Madame Ping is an elderly lady with her gray hair tucked in a low bun. She wears a long short-sleeved dark green dress, with brown accents and mint green patterns. Her longer sleeves that fit under her dress sleeves are white and loose, with matching green cuffs. Her collar and waistband on her dress are maroon, and she wears a wheat colored shawl.
+
+Quests and Events[]
+Archon QuestsChapter IAct II: Farewell, Archaic LordThe Realm WithinAct III: A New Star ApproachesTurning PointThe Fond FarewellStory QuestsGrus Serena Chapter (Xianyun)Act I: A Thousand Moonlit MilesA Search for SecretsWorld QuestsA Teapot to Call Home: Part IThe Art of HorticultureEventsLantern RitePart I: The Origin of the LanternsMoonlight MerrimentPart I: One for the Foodies, Two for the ShowPart II: Three to Get Ready, and Here We GoFleeting Colors in FlightSky-Gazers, Land-WalkersThe Stars Inscribe the Year's Wishes (cutscene)The Exquisite Night ChimesPart I: A Thousand Miles for an Enigmatic TunePart II: A Single Harmony for an Irreplaceable SoulWeb EventsAn Unforgettable JourneyThe Great Banquet of the AdeptiCanvas of Starlight MemoriesDancing Beasts and Soaring Kites
+Idle Quotes[]
+
+ Another flower is blooming...
+Media:VO Madame Ping 01.ogg "Ohohoho, wonderful. Another flower is blooming..."
+
+During Lantern Rite
+
+ So splendid...
+Media:VO Madame Ping Lantern Rite 01.ogg "If it could only be as splendid as you were in life..."
+
+During Moonlight Merriment
+
+ Another Moonchase...
+Media:VO Madame Ping Moonlight Merriment 01.ogg "Ah, another Moonchase is here. Flowers always seem prettier than usual around this time..."
+
+During Fleeting Colors in Flight
+
+ Lantern Rite is here again...
+Media:VO Madame Ping Lantern Rite 02.ogg "Oh, Lantern Rite is here again. Even the flowers are happier at this time of year."
+
+Dialogue[]
+Dialogue Set #1[]
+
+(Before completing The Realm Within)
+Madame Ping: ...The younger generation doesn't appreciate flowers anymore.
+
+Dialogue Set #2[]
+
+(After completing The Realm Within)
+Madame Ping: Oh? Why, hello child.
+Madame Ping: Though flowers bloom yet always fade, but people go yet return another day. I just knew that you'd be back to see me before long, hehe.
+ Admiring the flowers?
+Madame Ping: That I am. One season after the next, this flower blooms, then falls, only to bloom again. And on it goes — just like Liyue.
+Madame Ping: Look over here, and over here. So many flowers are blooming! It looks like this will be a blessed year.
+ What type of flowers are these?
+Madame Ping: These are Glaze Lilies. Probably the last surviving ones in all of Liyue Harbor.
+Madame Ping: People say that the sound of singing nourishes them, and helps them grow...
+Madame Ping: But the sound of fighting, of cursing... it is poison to them, and eats away at their roots.
+Madame Ping: That is why, over centuries of strife, they have disappeared from Liyue's landscape.
+ Tell me about the past.
+Madame Ping: Just because my complexion screams "ancient history" doesn't mean I love discussing the past, you know.
+Madame Ping: ...Relax, I'm only kidding.
+Madame Ping: Truth be told, the older you get, the more time you have on your hands, and the more you start contemplating the past... I do wonder how my old friends back in the mountains are getting on...
+Madame Ping: Liyue Harbor is really a wonderful place now. I wonder if they would ever want to step down into the mortal realm and get a taste of the lifestyle here...
+Madame Ping: Look at me rambling on again, I must sound like a lunatic! Maybe one day I can discuss my past with you... if it is meant to be.
+ This is a beautiful flower.
+Madame Ping: Hehe, all thanks to the beautiful weather we're having today.
+Madame Ping: I'd always hoped that one day this flower would bloom all over Liyue once more...
+Madame Ping: But in the meantime, would you take a few of these flowers from Yujing Terrace with you on your journey, so that they might see the world?
+(Obtain  Glaze Lily ×5)
+ Goodbye.
+Madame Ping: Goodbye, young one. If you are ever passing by Jueyun Karst, please pass on my regards to my old friends.
+Madame Ping: If it is meant to be that you see them... then you will see them.
+
+Event Dialogue[]
+Lantern Rite[]
+
+Madame Ping: This year's Mingxiao Lantern is dedicated to Skybracer... He always was a show off — I'm sure he will be very pleased!
+ Who's Skybracer?
+Madame Ping: Well, that's the plan. I do hope they make the antlers big enough, they were his pride and joy after all.
+Madame Ping: The story goes that the antlers were made from the very essence of Rex Lapis' divine power, which made it the hardest material in all of Liyue.
+Madame Ping: But then, that fateful battle happened... The gods exchanged powerful blows, and the mountains started collapsing. To avoid impacting the villagers at the foot of the mountain, the adeptus got his friend to chop his antlers off...
+Madame Ping: He used those blood-drenched antlers as a wedge to prop up the mountain. And if that wasn't enough of a sacrifice, he then kept on fighting until his blood was drained and his life ran out...
+Madame Ping: Thanks to him, Mt. Tianheng still stands tall and proud to this day. And the blood that he lost in the battle turned into the Bishui River.
+Madame Ping: Hehehe... Whether you believe the story or not, I'm just happy you're willing to listen to me tell it.
+Madame Ping: Surely, the reason the Lantern Rite exists is because people throughout the ages have chosen to come together as friends rather than stay in isolation.
+ Goodbye.
+Madame Ping: Goodbye. May the flames of wisdom spread to all, and never be extinguished.
+
+Moonlight Merriment[]
+
+Madame Ping: Oh, child, it's you! The Moonchase Festival is a most lively time here in Liyue, so feel free to walk around and see the sights.
+ About the Stove God...
+(Only available after completing Three to Get Ready, and Here We Go)
+Madame Ping: Well, now you know that the Moonchase Festival was instituted by Rex Lapis as a way of remember that friend of ours.
+Madame Ping: You call him Guoba nowadays, do you not? Hehe, I suppose it was destiny that led Xiangling to rename the God of the Stove for a dish they both enjoyed.
+Madame Ping: Take him around Liyue Harbor — you and Xiangling both — a little more, would you?
+Madame Ping: I'm sure he would be gladdened to see Liyue Harbor as populous as it presently is.
+ About the Moonchase Festival...
+Madame Ping: The meaning of the Festival in ages past was quite different. It was about the ancients of Liyue seeking the adeptal path.
+Madame Ping: Nowadays, it's more about admiring the moon, eating, and enjoying our time together with one another.
+Madame Ping: The meaning of festivals will shift with time, and some traditions will be forgotten. However, everyone's hopes for the future will remain the same, no matter what the day or age.
+
+Fleeting Colors in Flight[]
+
+Madame Ping: Oh? Why, hello child.
+Madame Ping: The flowers bloom and fade, people come and go, but the Lantern Rite will be held each year right on time.
+Madame Ping: But this year's Rite is quite different from those of yesteryear. Go, go have a look around. Enjoy the sights and sounds of Liyue Harbor.
+(Continue non-event dialogue)
+
+Character Mentions[]
+Character StoriesCharacterStoriesXianyunAs Madame Ping:Character Story 1As Streetward Rambler:Character Story 4JadevoidYaoyaoCharacter DetailsCharacter Story 1Character Story 2Character Story 3Character Story 4Character Story 5YueguiVisionCharacter Voice-OversCharacterVoice-OversXianglingAbout the Vision Media:VO_Xiangling About the Vision.ogg Media:VO ZH_Xiangling About the Vision.ogg Media:VO JA_Xiangling About the Vision.ogg Media:VO KO_Xiangling About the Vision.ogg Any time, night or day, I am always willing to make dishes everyone loves. I think the Archons agree with my passion, or else they wouldn't have given me this Vision, something even my master doesn't have... I know they want me to keep going!About Yaoyao Media:VO_Xiangling About Yaoyao.ogg Media:VO ZH_Xiangling About Yaoyao.ogg Media:VO JA_Xiangling About Yaoyao.ogg Media:VO KO_Xiangling About Yaoyao.ogg Hee-hee, I'm proud to call her my junior! She hasn't swung by the Wanmin Restaurant in ages, though. Maybe master is trying to protect her from me or something... Last time we hung out, I was about to dig into some fresh raw octopus from the Sea of Clouds, but not only did she stop me from eating it, she sent master to tell me off too! Ugh... Honestly, sometimes it feels like I'm the one who gets treated like the junior...More About Xiangling: II Media:VO_Xiangling More About Xiangling - 02.ogg Media:VO ZH_Xiangling More About Xiangling - 02.ogg Media:VO JA_Xiangling More About Xiangling - 02.ogg Media:VO KO_Xiangling More About Xiangling - 02.ogg My master did a good job teaching me spear fighting, don't you think? If you want, I could teach you too. Although... I'd much rather teach you my cooking, if you're interested! I want my recipes to spread all around Teyvat!XianyunMore About Xianyun: IV Media:VO_Xianyun More About Xianyun - 04.ogg Media:VO ZH_Xianyun More About Xianyun - 04.ogg Media:VO JA_Xianyun More About Xianyun - 04.ogg Media:VO KO_Xianyun More About Xianyun - 04.ogg For all the wondrous feats that can be accomplished by one who has mastered the mechanical arts, one often uses it for purely recreational purposes. There was one year when it snowed heavily in Liyue, and Mt. Aocang was covered in several feet of snow. Seeing everyone cooped up in their abodes with nothing to do, one created a Snowdrift Mechanism for skiing on the mountains. One was having a tremendous time of it along with Guizhong and Streetward Rambler... until, of course, Moon Carver noticed as much and decided to join in. Moments later, he had managed to send the mechanism flying off the rails and plummeted deep into a snow bank. It took us hours to dig him out... Later, one introduced a great many safety features to the mechanism, to the point where it could be safely piloted by even a three-year-old child. Although this did entail a compromise on the top speed of the vehicle.YaoyaoHello Media:VO_Yaoyao Hello.ogg Media:VO ZH_Yaoyao Hello.ogg Media:VO JA_Yaoyao Hello.ogg Media:VO KO_Yaoyao Hello.ogg Hello, I'm Yaoyao, a lowly disciple of the adeptus, Streetward Rambler. It's a pleasure to make your acquaintance! If you encounter any difficulties outdoors... then lemme help you! Oh, by the way, I brought some Fried Radish Balls with me, help yourself! Don't eat too many, though — too much oily stuff is hard work for your body. If you're still hungry, I also brought a freshly washed radish and some vinegar, so I could make you a shredded radish salad if you want~About Us: Polearm Training Media:VO_Yaoyao About Us - Polearm Training.ogg Media:VO ZH_Yaoyao About Us - Polearm Training.ogg Media:VO JA_Yaoyao About Us - Polearm Training.ogg Media:VO KO_Yaoyao About Us - Polearm Training.ogg It's not that I'm lazy, it's just the spear's too long for me, and it's so heavy that training with it is really hard work... Luckily, Master doesn't push me too hard.About the Vision Media:VO_Yaoyao About the Vision.ogg Media:VO ZH_Yaoyao About the Vision.ogg Media:VO JA_Yaoyao About the Vision.ogg Media:VO KO_Yaoyao About the Vision.ogg My Master's a Mighty and Illuminated Adeptus! She once told me that getting a Vision is a sign that the gods are pleased with you, but I don't think I've done anything special... I really wish I could talk to that god and see what she thinks about it!About Xiangling Media:VO_Yaoyao About Xiangling.ogg Media:VO ZH_Yaoyao About Xiangling.ogg Media:VO JA_Yaoyao About Xiangling.ogg Media:VO KO_Yaoyao About Xiangling.ogg Xiangling hasn't been, um... looking for strange ingredients lately, has she? She gave me a real fright last time. She said she was about to try some raw octopus from the Sea of Clouds. One of these days, she'll give herself an upset stomach — then what's she gonna do? 'Cause she definitely doesn't like taking Dr. Baizhu's medicine... Anyway, I got Master to try and talk some sense into her, too. Who knows what dangerous thing she'll be trying to eat next... *sigh*About Keqing Media:VO_Yaoyao About Keqing.ogg Media:VO ZH_Yaoyao About Keqing.ogg Media:VO JA_Yaoyao About Keqing.ogg Media:VO KO_Yaoyao About Keqing.ogg Keqing's a very thoughtful person, and she always does a good job of everything. She also makes sure to pay Master a visit at every festival... She's what you call a "bastion of piety." Or wait, maybe it's "paragon of propriety"? ...Well, anyway, I think I can learn a lot from her!About Yun Jin Media:VO_Yaoyao About Yun Jin.ogg Media:VO ZH_Yaoyao About Yun Jin.ogg Media:VO JA_Yaoyao About Yun Jin.ogg Media:VO KO_Yaoyao About Yun Jin.ogg Now, Yun Jin's really good at spear dancing, and her Liyue opera performances are very popular. Master even takes me to go see them sometimes. You won't find an empty seat when she's on stage... but, um... does anyone understand what she's singing about?About Yanfei Media:VO_Yaoyao About Yanfei.ogg Media:VO ZH_Yaoyao About Yanfei.ogg Media:VO JA_Yaoyao About Yanfei.ogg Media:VO KO_Yaoyao About Yanfei.ogg Yanfei takes that huge legal codex everywhere, even when she comes to pay Master a visit on her days off. She's incredible! I don't know how she carries that heavy thing around all the time, and I can't imagine how much hard work it must be to read it...About Xianyun Media:VO_Yaoyao About Xianyun.ogg Media:VO ZH_Yaoyao About Xianyun.ogg Media:VO JA_Yaoyao About Xianyun.ogg Media:VO KO_Yaoyao About Xianyun.ogg When I went to look for Master the other day, I found her chatting with a very elegant-looking lady. She said her name was "Xianyun," but her hijinks didn't fool me! I could tell it was Aunty Cloud Retainer right away! I mean, Master looked like she was really happy to see her, so how could it be a stranger? Evidently, she was an old friend!More About Yaoyao: V Media:VO_Yaoyao More About Yaoyao - 05.ogg Media:VO ZH_Yaoyao More About Yaoyao - 05.ogg Media:VO JA_Yaoyao More About Yaoyao - 05.ogg Media:VO KO_Yaoyao More About Yaoyao - 05.ogg After I met Master, she said that the path of my fate had intersected with the adepti way, and took me on as her disciple. To be honest with you, I didn't even understand what she meant by that. But it's been so much fun, getting to hang out with everybody, listening to Master tell stories, and sneakily slacking off with Xiangling... And we also get to help the people of Liyue Harbor out a lot. I really love it!Feelings About Ascension: Building Up Media:VO_Yaoyao Feelings About Ascension -  02.ogg Media:VO ZH_Yaoyao Feelings About Ascension -  02.ogg Media:VO JA_Yaoyao Feelings About Ascension -  02.ogg Media:VO KO_Yaoyao Feelings About Ascension -  02.ogg Wow! I might even be able to lift Xiangling's spear now! Yay~ Oh, I really wanna tell Master the good news!
+Trivia[]
+Xiao's introduction posts in Version 1.2 in both English and Chinese include a quote attributed to Streetward Rambler (Chinese: 歌尘浪市真君). However, Streetward Rambler was not identifiable as anyone until Version 2.2, when the video description of Story Teaser: Flavors of the World (CN) included a VA credit for 歌尘浪市真君 instead of Madame Ping, who was a narrator as heard during the Event Story Quest Three to Get Ready, and Here We Go in Moonlight Merriment: Part II.
+During the second Closed Beta Test, Madame Ping had black hair and did not wear glasses.
+      
+During the cutscene where Madame Ping tells the history of the Stove God, there is a panorama of many Adepti from the past (including Rex Lapis in his dragon form, Marchosius, an unsealed Azhdaha and the now deceased Skybracer and Pervases). Included is a young, blue-haired, female Adeptus in blue robes with a polearm across her back. This was speculated to be a much younger Ping, as the Cleansing Bell can clearly be seen tied to the woman's waist, and she is the one that taught Xiangling how to use a polearm.[8][9]
+In a cutscene in The Exquisite Night Chimes Event, the blue-haired Adeptus makes an appearance again when Streetward Rambler is mentioned.[5]
+Madame Ping is mentioned in the descriptions of the following 4 Furnishings: Euphonium Unbound: Winding Liyue Estate: Exquisite Mansion Mondstadt Mansion: Windward Manor Sub-Space Boulder: Rocky Bulwark
+Etymology[]
+The Chinese character for Ping is 萍, which primarily refers to the duckweed plant. Because duckweeds have no roots and float along the water, it is used as a metaphor for a person who wanders around without a fixed location.[10]
+Gallery[]
+Character Shorts featuring YanfeiMoonchase Festival Chinese Giveaway PromotionYaoyao Birthday 2023 - ShortsOfficial Genshin Impact TwitterChinese New Year's Eve 2024Official Genshin Impact Twitter
+Videos[]
+Story Teaser- Flavors of the World - Genshin ImpactPartially narrated by Madame PingFleeting Colors in Flight Event Cutscene Animation- "Age of Flowing Hues" - Genshin ImpactCharacter Demo - "Yaoyao- Purity of the Blossoming Osmanthus" - Genshin ImpactStory Teaser- Echoes of the Heart - Genshin ImpactThe Exquisite Night Chimes Cutscene Animation- "A Brilliant Banquet of Music" - Genshin ImpactGenshin Impact - Fontaine Gameplay Trailer｜Gamescom 2023"A Journey of Art and Heritage" - Adeptal Tales- Gu Embroidery - Genshin Impact
+Event Artwork[]
+The Great Banquet of the Adepti[]
+Main article: The Great Banquet of the Adepti
+TGBA Area Jade DelicaciesThe Great Banquet of the Adepti - AetherThe Great Banquet of the Adepti - LumineTGBA Madame Ping
+Starlit Sky[]
+Main article: Starlit Sky
+Look, Guoba! That's you!
+Conch Reminiscences[]
+Main article: Conch Reminiscences
+First Blossom of Spring
+Notes[]
+
+Other Languages[]
+Madame Ping
+LanguageOfficial NameEnglishMadame PingChinese(Simplified)萍姥姥Píng LǎolaoChinese(Traditional)萍姥姥Píng LǎolaoJapaneseピンばあやPin BaayaKorean평평萍 할머니Pyeong HalmeoniSpanishMadam PingFrenchMadame PingRussianМадам ПинMadam PinThaiมาดาม PingMadam PingVietnameseBình Lão LãoBình Lão Lão萍姥姥GermanMadame PingIndonesianMadame PingPortugueseMadame PingTurkishMadam PingItalianMadame PingStreetward Rambler
+LanguageOfficial NameLiteral MeaningEnglishStreetward Rambler—Chinese(Simplified)歌尘浪市真君Gēchén Làngshì ZhēnjūnThe Perfected Lord Who Sings Among the Mortals and Rambles in the CityChinese(Traditional)歌塵浪市真君Gēchén Làngshì ZhēnjūnJapanese歌塵浪市真君Kajin Rouichi Shinkun[11]The Perfected Lord Who Sings Among the Mortals and Rambles in the City‍[※][※]Sino-Japanese reading of Chinese nameKorean가진낭시진군가진낭시진군歌塵浪市真君Gajinnangsijin'gunThe Perfected Lord Who Sings Among the Mortals and Rambles in the City‍[※][※]Sino-Korean reading of Chinese nameSpanishCaminante ErranteWandering WalkerFrenchFlâne-sentierPath RamblerRussianВладыка Песен и СкитанийVladyka Pesen i SkitaniyLord of Songs and WanderingThaiจ้าวขับขานล่องนคราCao Khabkhan Long NakharaLord Who Sings and Rambles in the CityVietnameseCa Trần Lãng Thị Chân QuânCa Trần Lãng Thị Chân Quân歌尘浪市真君The Perfected Lord Who Sings Among the Mortals and Rambles in the City‍[※][※]Sino-Vietnamese reading of Chinese nameGermanFürstin des Singens und des StreunensPrincess of Singing and StrayingIndonesianStreetward Rambler—PortugueseAdeptus CoristaTurkishSokak GezginiStreet WandererItalianRaminga dei sentieriRanger of the Paths
+Change History[]
+Released in Version 1.0[Create New History]
+References[]
+
+↑ Bilibili: Story Teaser: Flavors of the World
+
+↑ Amuleto: JP VA's Profile
+
+↑ Official Introduction: Yaoyao
+
+↑ Event Vibrant Harriers Aloft in Spring Breeze Quest: Part I - The Orioles Bask in Spring, the Heavens Present Auspices, Part 1: The Orioles Bask in Spring, the Heavens Present Auspices
+
+↑ 5.0 5.1 5.2 5.3 5.4 Event The Exquisite Night Chimes Quest: Part II, Part 1: A Single Harmony for an Irreplaceable Soul
+
+↑ Event The Exquisite Night Chimes Quest: Part I, Part 1: A Thousand Miles for an Enigmatic Tune
+
+↑ 7.0 7.1 Archon Quest, Chapter I, Act II - Farewell, Archaic Lord, Part 4: The Realm Within
+
+↑ 8.0 8.1 8.2 Event Moonlight Merriment Quest: Part I, Part 1: One for the Foodies, Two for the Show
+
+↑ 9.0 9.1 Xiangling's Voice-Over: More About Xiangling: II
+
+↑ xh.5156edu.com: 萍
+
+↑ Event The Exquisite Night Chimes Quest: Part II, Part 1: A Single Harmony for an Irreplaceable Soul (Japanese Voice-Over)
+
+
+
+
+

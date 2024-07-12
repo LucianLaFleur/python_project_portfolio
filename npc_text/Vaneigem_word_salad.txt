@@ -1,0 +1,104 @@
+
+
+
+
+
+Vaneigem
+Boss of Hotel Debord
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Fontaine
+
+
+Location
+Fontaine
+
+
+Affil­i­a­tion
+Hotel Debord
+
+
+Dialogue Reward
+ 3
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Vaneigem is an open-world NPC located in Hotel Debord, Court of Fontaine, Fontaine.
+Following a certain dialogue branch for the first time gives the player three Ile flottante.
+
+Contents
+
+1 Location
+2 Idle Quotes
+3 Dialogue
+4 Trivia
+5 Other Languages
+6 Change History
+
+
+Location[]
+Vaneigem's locationAdditional context
+Idle Quotes[]
+
+ The key ingredient...
+Media:VO Vaneigem 01.ogg "Art is the key ingredient in fine dining."
+
+Dialogue[]
+
+Vaneigem: Fine art and good food. Ah, what a wonderful life...
+ Hello there.
+Vaneigem: It is a pleasure to have met you on this fine day, dear guest. My name is Vaneigem, and I am the owner of this establishment.
+Vaneigem: If you have any comments or suggestions regarding the menu or performances, please do speak your mind. I will do my best to provide you with more comprehensive services.
+ Tell me about art...
+Vaneigem: As you know, we often invite artists to perform here at our restaurant. The most popular of these are the magical performers Mr. Lyney and Ms. Lynette.
+Vaneigem: "Art is the key ingredient in fine dining" — this is something that I believe in most strongly, and I hope that the cultural atmosphere here shall spread far and wide.
+ Impressive.
+Vaneigem: Thank you so much for your appreciation, dear guest. If you don't mind, please accept this sweet treat as a personal thank-you gift.
+Vaneigem: Enjoy your meal.
+Obtain  Ile flottante ×3
+ See you.
+Vaneigem: Farewell, dear guest. I hope that Hotel Debord shall leave you with wondrous memories.
+
+Trivia[]
+Vaneigem is named after Raoul Vaneigem, a Belgian writer known writing one of the two most influential texts of the Situationist movement, the other being written by Guy Debord, for whom Hotel Debord is named.
+Other Languages[]
+
+LanguageOfficial NameEnglishVaneigemChinese(Simplified)瓦纳格姆WǎnàgémǔChinese(Traditional)瓦納格姆WǎnàgémǔJapaneseヴァネーゲムVaneegemuKorean바네겜BanegemSpanishVaneigemFrenchVaneigemRussianВанигемVanigemThaiVaneigemVietnameseVaneigemGermanVaneigemIndonesianVaneigemPortugueseVaneigemTurkishVaneigemItalianVaneigem
+Change History[]
+Released in Version 4.0[Create New History]
+
+
+

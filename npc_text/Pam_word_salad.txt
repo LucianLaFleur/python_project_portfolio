@@ -1,0 +1,128 @@
+
+
+
+
+
+Pam
+Fisherwoman
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Sumeru
+
+
+Location
+Sumeru
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Pam is an open-world NPC that can be found in Sumeru City, Sumeru.
+
+Contents
+
+1 Shop
+2 Location
+3 Profile
+
+3.1 Appearance
+
+
+4 Quests and Events
+
+4.1 World Quests
+
+4.1.1 Requests
+
+
+
+
+5 Idle Quotes
+6 Thoughts
+7 Dialogue
+8 Gallery
+9 Other Languages
+10 Change History
+
+
+Shop[]
+ItemCostStockTotalCostRefreshes
+ Fish240102,400Daily
+ Crab240102,400Daily
+ Seagrass240102,4003 Days
+ Shrimp Meat12010012,000Daily
+Total cost for all items19,200 
+Location[]
+Pam's locationAdditional context
+Profile[]
+(To be added.)
+
+Appearance[]
+(To be added.)
+
+Quests and Events[]
+World QuestsRequestsFungal Fracas
+Idle Quotes[]
+
+ Dishes that compliment [sic] wine...
+Media:VO Pam 01.ogg "Care to buy some fresh fish? However you cook it, there's no better dish to complement your wine."
+
+Thoughts[]
+Pam's thoughts can be accessed by using Nahida's Elemental Skill, All Schemes to Know.
+
+Media:VO Pam All Schemes to Know 01.ogg Pam: (I hope I can sell all my fish today. Otherwise, I'll have to eat the leftovers myself.)
+Dialogue[]
+
+Pam: Care to buy some fresh fish? However you cook it, there's no better dish to complement your wine!
+ What do you sell here?
+Pam: We sell seafood caught fresh every day, so you never have to worry about quality.
+(Opens the shop menu)
+ And you are...
+Pam: I'm a self-employed fishmonger. Running a small business means selling more for less.
+Pam: It's all about making the most of local resources.
+Pam: Getting fresh seafood and seagrass daily from the sea doesn't just fill our bellies, it keeps my family afloat, too.
+Pam: I can live a free life, and it's all thanks to the bounty of the sea.
+ See you.
+Pam: Take care. Remember to come back if you're ever looking to buy fresh seafood!
+
+Gallery[]
+Request icon
+Other Languages[]
+
+LanguageOfficial NameEnglishPamChinese(Simplified)珀姆PòmǔChinese(Traditional)珀姆PòmǔJapaneseパァムPaamuKorean팜PamSpanishPamFrenchPamRussianПэмPemThaiPamVietnamesePamGermanPamIndonesianPamPortuguesePamTurkishPamItalianPam
+Change History[]
+Released in Version 3.0[Create New History]
+
+
+

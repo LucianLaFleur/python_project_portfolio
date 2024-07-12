@@ -1,0 +1,119 @@
+
+
+
+
+
+Makhfi
+Researcher
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Sumeru
+
+
+Location
+Sumeru
+
+
+Affil­i­a­tion
+Amurta
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Makhfi is an open-world NPC located in Sumeru City, Sumeru.
+She can be found near the Sumeru Akademiya.
+
+Contents
+
+1 Location
+2 Idle Quotes
+3 Thoughts
+4 Dialogue
+5 Event Dialogue
+
+5.1 A Parade of Providence
+
+
+6 Trivia
+7 Other Languages
+8 Change History
+
+
+Location[]
+Makhfi's locationAdditional context
+Idle Quotes[]
+
+ ...Pardis Dhyai...
+Media:VO Makhfi 01.ogg "If only I could make Pardis Dhyai my permanent research location..."
+
+During A Parade of Providence
+
+ Tighnari's lecture...
+Media:VO Makhfi A Parade of Providence 01.ogg "I must note down the time of Tighnari's lecture before I forget... I can't miss it!"
+
+Thoughts[]
+Makhfi's thoughts can be accessed by using Nahida's Elemental Skill, All Schemes to Know.
+
+Media:VO Makhfi All Schemes to Know 01.ogg Makhfi: (It really is easier to work with plants...)
+Dialogue[]
+
+Makhfi: The life of a researcher is more than just researching topics.
+ What happened?
+Makhfi: Sorry you had to hear me complain.
+Makhfi: I was just lamenting that researchers have to deal with so many things on top of their own research.
+Makhfi: Such as official Akademiya assignments, delegated tasks from mentors, getting along with peers, and sometimes, even inquiry from the matra.
+Makhfi: *sigh* If only these things could just resolve themselves, like a tree shedding its leaves...
+Makhfi: Now I understand more or less why Tighnari left the Akademiya.
+ See you.
+Makhfi: The simple life is gone forever...
+Event Dialogue[]
+A Parade of Providence[]
+
+Makhfi: I didn't expect Tighnari, who rarely shows himself in the city, to participate in the Interdarshan Championship.
+Makhfi: I don't know much about Tighnari. He doesn't strike me as someone who is fame-hungry... Perhaps too many people were recommending him, and he didn't want to disappoint them.
+Makhfi: Speaking of which, I think he's planning to hold a new lecture next month.
+Makhfi: I must note down the time of his lecture before I forget... I can't miss it!
+
+Trivia[]
+Makhfi may be the unnamed researcher featured in one of the photos shown at the end of Tighnari's Story Quest Vulpes Zerda Chapter: Act I - The Unanswerable Problems, as she also mentions Tighnari in her dialogues.
+Tighnari with the Unnamed Researcher
+Other Languages[]
+
+LanguageOfficial NameEnglishMakhfiChinese(Simplified)玛赫菲MǎhèfēiChinese(Traditional)瑪赫菲MǎhèfēiJapaneseマクフィMakufiKorean마흐피MaheupiSpanishMajfiFrenchMakhfiRussianМахфиMakhfiThaiMakhfiVietnameseMakhfiGermanMakhfiIndonesianMakhfiPortugueseMakhfiTurkishMakhfiItalianMakhfi
+Change History[]
+Released in Version 3.0[Create New History]
+
+
+

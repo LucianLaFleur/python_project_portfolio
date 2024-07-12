@@ -1,0 +1,110 @@
+
+
+
+
+
+Aberdeen
+Adventurer
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Sumeru
+
+
+Location
+Sumeru
+
+
+Affil­i­a­tion
+Adventurers' Guild
+
+
+Dialogue Reward
+ 6
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Aberdeen is an open-world NPC located in Avidya Forest, Sumeru.
+Following a certain dialogue branch for the first time gives the player six Wanderer's Advice.
+
+Contents
+
+1 Location
+2 Idle Quotes
+3 Thoughts
+4 Dialogue
+5 Other Languages
+6 Change History
+
+
+Location[]
+Aberdeen's locationAdditional context
+Idle Quotes[]
+
+ Mysterious rainforest...
+Media:VO Aberdeen 01.ogg "Ah! This great mysterious rainforest is just waiting for me to explore it!"
+
+Thoughts[]
+Aberdeen's thoughts can be accessed by using Nahida's Elemental Skill, All Schemes to Know.
+
+
+Media:VO Aberdeen All Schemes to Know 01.ogg Aberdeen: (A vast adventure lies ahead!)
+
+Dialogue[]
+
+Aberdeen: If I can just avoid the Forest Rangers...
+ What are you planning?
+Aberdeen: As an adventurer, the greatest plan is of course to travel every inch of the world and explore every secret this world has to offer!
+Aberdeen: So, based on this goal of mine, I've decided to conquer Avidya Forest first!
+ First...
+Aberdeen: Ahem, what? I admit that I'm a novice, but every novice has to take their first step, right?
+Aberdeen: I heard cute Fungi live in the rainforest, and there are tiny forest cats and mysterious treasures...
+Aberdeen: Hehe, it sounds so exciting!
+Aberdeen: The only obstacle between me and my grand adventure is those annoying Forest Rangers. If I can just avoid them, then I can...
+ I hope you drop that thought...
+Aberdeen: If that's your thought, you are not exactly "adventurous."
+Aberdeen: Listen, to be the greatest adventurer, you must be ambitious and ready to take risks.
+(Obtain  Wanderer's Advice ×6)
+ Bye.
+Aberdeen: Bye! Maybe our next meeting will be in somewhere else!
+
+Other Languages[]
+
+LanguageOfficial NameEnglishAberdeenChinese(Simplified)阿布丁ĀbùdīngChinese(Traditional)阿布丁ĀbùdīngJapaneseアブティーンAbutiinKorean압틴AptinSpanishAberdeenFrenchAberdeenRussianАбердинAberdinThaiAberdeenVietnameseAberdeenGermanAberdeenIndonesianAberdeenPortugueseAberdeenTurkishAberdeenItalianAberdeen
+Change History[]
+Released in Version 3.0[Create New History]
+
+
+

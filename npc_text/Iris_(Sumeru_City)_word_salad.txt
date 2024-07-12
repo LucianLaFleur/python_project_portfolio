@@ -1,0 +1,165 @@
+
+
+
+This article is about the NPC found at Sumeru City. For the NPC found at Dragonspine Adventurer Camp, see Iris (Dragonspine Adventurer Camp).
+
+
+Iris
+Researcher
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+								Family
+							
+
+
+
+
+
+Region
+Sumeru
+
+
+Location
+Sumeru
+
+
+Affil­i­a­tion
+Vahumana
+
+
+Dialogue Reward
+ 1
+
+
+
+
+Sibling
+Hawa (younger sister)
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Iris is an open-world NPC located in Sumeru City, Sumeru who comes from a lineage of scholars. She and her younger sister Hawa are both researching material related to King Deshret, while their father is away on an expedition in the desert.
+During daytime, she can be found at Puspa Café, sitting across from Nayab. During nighttime, she can be found inside The Akademiya, discussing King Deshret's ancient runes with Hawa.
+Following a certain daytime dialogue branch for the first time gives the player one Guide to Ingenuity.
+
+Contents
+
+1 Location
+2 Profile
+
+2.1 Appearance
+
+
+3 Quests and Events
+
+3.1 World Quests
+
+
+4 Idle Quotes
+5 Thoughts
+6 Dialogue
+
+6.1 Daytime
+6.2 Nighttime
+
+
+7 Other Languages
+8 Change History
+
+
+Location[]
+Iris's location (Daytime)Additional contextIris's location (Nighttime)Additional context
+Profile[]
+(To be added.)
+
+Appearance[]
+(To be added.)
+
+Quests and Events[]
+World QuestsPurbiruni's Commandment
+Idle Quotes[]
+
+ King Deshret's Ruins...
+Media:VO Iris (Sumeru) 01.ogg "There must be even more secrets buried in the ruins of King Deshret."
+ Are you sure...
+Media:VO Iris (Sumeru) 02.ogg "Are you sure you found the correct semantics field for these ancient runes?"
+
+Thoughts[]
+Iris (Sumeru City)'s thoughts can be accessed by using Nahida's Elemental Skill, All Schemes to Know.
+
+
+(Daytime)
+Media:VO Iris (Sumeru) All Schemes to Know 01.ogg Iris: (Nayab still hasn't given up?)
+(Nighttime)
+Media:VO Iris (Sumeru) All Schemes to Know 02.ogg Iris: (I hope I can make some progress with my research...)
+
+Dialogue[]
+Daytime[]
+
+Iris: I'll think about my research topic before Nayab finds a new counter card.
+ About your research topic...
+Iris: I come from a family of academics. Everyone has either worked at the Akademiya or continued their studies there. So, research has become an essential part of my life.
+Iris: I'm from Vahumana, and am currently conducting research on the history of the desert and King Deshret.
+Iris: One of my younger sisters also happens to be researching the semantics of the ancient King Deshret runes, so occasionally we'll discuss our findings together.
+Iris: But she has to instruct new students during the day, so we can only talk at night.
+ About that countermeasure card...
+Iris: Well, you know the popular card game "Genius Invokation TCG"? It was invented in Sumeru and then spread throughout Teyvat via Inazuma.
+Iris: I'd only heard about this game before, but never tried it. Then one day, I came here to have a coffee and Nayab invited me to play a round.
+Iris: I was scared out of my wits at first. I thought I'd inadvertently let slip some forbidden knowledge about the King Deshret and that the matra had found me.
+Iris: But it was fine in the end. After this matra came over, it was just a few bizarre deck questions from there.
+Iris: That isn't the sort of thing I'm good at. I just ask the questions. As for the solutions, I let him work them out for himself.
+ It's pretty hard.
+Iris: Tell me about it. By the time he comes up with a solution, my sisters and I might have already finished our researchers.
+Iris: However, doing research is similar to playing cards. You need to think out of the box to make a breakthrough.
+(Obtain  Guide to Ingenuity)
+ See you.
+Iris: See you later. I'm going to order another cup of coffee and think over the problem.
+
+Nighttime[]
+
+Iris: Are you sure you've found the correct semantic field for these ancient runes?
+Hawa: Of course I'm not sure. I'm only speculating.
+Hawa: Besides, I discovered that there are overlapping marks on the ancient runes on this stone wall.
+Hawa: So, I have reason to suspect that they may have been carved by people over several generations.
+Iris: Well, that complicates things... In my history researches, the meanings of runes like these can differ significantly from era to era.
+Iris: When will Father finish his desert expedition again? We should ask him what he thinks when he gets back.
+Iris: Or ask Rifaet. Maybe he has some leads.
+
+Other Languages[]
+
+LanguageOfficial NameEnglishIrisChinese(Simplified)伊丽丝YīlìsīChinese(Traditional)伊麗絲YīlìsīJapaneseイリスIrisuKorean이리스IriseuSpanishIrisFrenchIrisRussianИрисIrisThaiIrisVietnameseIrisGermanIrisIndonesianIrisPortugueseIrisTurkishIrisItalianIris
+Change History[]
+Released in Version 3.0[Create New History]
+
+
+

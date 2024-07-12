@@ -1,0 +1,125 @@
+
+
+
+
+
+Boucicaut
+Manager, Damoville Purveyor
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Fontaine
+
+
+Location
+Fontaine
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Boucicaut is a shop NPC in the Court of Fontaine: Vasari Passage, Fontaine. He is the shopkeeper of Damoville Purveyor, indicated by the  icon on the map.
+The shop is open at all times of the day and sells cooking ingredients. The stock refreshes every day.
+
+Contents
+
+1 Shop
+2 Location
+3 Quests and Events
+
+3.1 Commissions
+
+
+4 Idle Quotes
+5 Dialogue
+6 Trivia
+
+6.1 Etymology
+
+
+7 Other Languages
+8 Change History
+
+
+Shop[]
+ItemCostStockTotalCostRefreshes
+ Fonta160(140)101,600(1,400)Daily
+ Mushroom180(160)101,800(1,600)3 Days
+ Marcotte240(215)102,400(2,150)3 Days
+ Salt60(50)1006,000(5,000)Daily
+ Pepper80(70)1008,000(7,000)Daily
+ Onion80(70)1008,000(7,000)Daily
+ Milk100(90)10010,000(9,000)Daily
+ Tomato120(105)10012,000(10,500)Daily
+ Cabbage120(105)10012,000(10,500)Daily
+ Potato120(105)10012,000(10,500)Daily
+ Wheat100(90)10010,000(9,000)Daily
+ Glabrous Beans100(90)10010,000(9,000)Daily
+ Almond120(105)10012,000(10,500)Daily
+ Fermented Juice100(90)10010,000(9,000)Daily
+Total cost for all items115,800(102,150) 
+Location[]
+Boucicaut's locationAdditional context
+Quests and Events[]
+CommissionsAesthetic Critique: Practice of AestheticsDown Time
+Idle Quotes[]
+
+ Skills and hobbies...
+Media:VO Boucicaut 01.ogg "Being skilled at something doesn't make it a hobby."
+
+Dialogue[]
+
+Boucicaut: Do you need something, dear customer? Say the word, and I shall procure it through my connections — anything you wish.
+ Let me see your wares.
+Boucicaut: Of course, of course — worry not, everything you might need can be found here.
+ Do you know a lot of people?
+Boucicaut: Indeed, and not merely people from Fontaine, no — I have many friends from abroad.
+Boucicaut: I've been a traveling merchant since I was young, but as my journey wore on, I felt that spending my days peacefully at home suited me better.
+ What connections have you got?
+Boucicaut: Well now, if I did tell you, I'd have another competitor in this world, now wouldn't I?
+Boucicaut: Anyway, I know a friend or two in almost any corner.
+Boucicaut: But don't worry, every nook is safe, and none of them are the Fortress of Meropide. A peaceful life is what I desire, not one afoul of the law.
+ I'll pass for now.
+Boucicaut: Alright, but I do hope that this will become your one-stop-shop someday.
+
+Trivia[]
+Etymology[]
+Boucicaut may be a reference to Aristide Boucicaut, a French entrepreneur who founded Le Bon Marché, which is widely considered the world's first modern department store.
+Other Languages[]
+
+LanguageOfficial NameEnglishBoucicautChinese(Simplified)布希柯BùxīkēChinese(Traditional)布希柯BùxīkēJapaneseブシコーBushikooKorean부시코BusikoSpanishBoucicautFrenchBoucicautRussianБусикоBusikoThaiBoucicautVietnameseBoucicautGermanBoucicautIndonesianBoucicautPortugueseBoucicautTurkishBoucicautItalianBoucicaut
+Change History[]
+Released in Version 4.0[Create New History]
+
+
+

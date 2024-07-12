@@ -1,0 +1,180 @@
+
+
+
+
+
+Blanche
+Shopkeeper, Mondstadt General Goods
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+								Voice Actors
+							
+
+
+
+
+
+Region
+Mondstadt
+
+
+Location
+Mondstadt
+
+
+Affil­i­a­tion
+Mondstadt General Goods
+
+
+
+
+English
+Christie Cate[1]
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Blanche is a shop NPC in the City of Mondstadt, Mondstadt. She is the shopkeeper of Mondstadt General Goods, indicated by the  icon on the map.
+The shop is open at all times of the day and sells cooking ingredients. The stock refreshes every day.
+
+Contents
+
+1 Shop
+2 Location
+3 Profile
+
+3.1 Appearance
+
+
+4 Quests and Events
+
+4.1 Story Quests
+
+4.1.1 Hangout Events
+
+
+4.2 Events
+
+
+5 Idle Quotes
+6 Dialogue
+7 Gallery
+
+7.1 Cameos
+7.2 Hangout Memories
+
+
+8 Other Languages
+9 Change History
+10 References
+
+
+Shop[]
+ItemCostStockTotalCostRefreshes
+ Salt60(50)1006,000(5,000)Daily
+ Pepper80(70)1008,000(7,000)Daily
+ Onion80(70)1008,000(7,000)Daily
+ Milk100(90)10010,000(9,000)Daily
+ Tomato120(105)10012,000(10,500)Daily
+ Cabbage120(105)10012,000(10,500)Daily
+ Potato120(105)10012,000(10,500)Daily
+ Wheat100(90)10010,000(9,000)Daily
+Total cost for all items78,000(68,500) 
+Brackets indicate cost after reputation discount.
+
+Location[]
+Blanche's locationAdditional context
+Profile[]
+(To be added.)
+
+Appearance[]
+Blanche is a woman with short brown hair and brown eyes. She wears a brown and beige sleeveless top, olive shoulder less sleeves, olive shorts, a bandage on her right thigh, and black, beige, and olive shoes.
+
+Quests and Events[]
+Story QuestsNoctua Chapter (Diluc)Act I: Darknight Hero's AlibiLegend of the Darknight HeroHangout EventsBennettAct I: Fantastic VoyageSomething... Other Than Adventure?DionaAct I: The Cat and the CocktailSpecial Cocktailing CondimentsEventsInvitation of WindblumeWindblumes and Snowflakes
+Idle Quotes[]
+
+ Welcome!
+Media:VO Blanche 01.ogg "Welcome! How can I help you?"
+ The commercial port in neighboring state Liyue...
+Media:VO Blanche 02.ogg "The neighboring nation of Liyue has the most prosperous commercial port in all of Teyvat!"
+
+Dialogue[]
+
+Blanche: Hey there! We have quality goods at honest prices!
+ What do you have for sale here?
+Blanche: Please have a look around.
+(Opens Mondstadt General Goods wares)
+ Adventure Challenge
+(Opens Genius Invokation TCG match interface)
+(If the player loses the match)
+
+Blanche: Sorry, but I have won this game.
+(If the player wins the match)
+
+Blanche: ...I've got other customers to attend to. Please excuse me.
+ I'd like to ask about something.
+Blanche: I'm listening.
+ What makes Mondstadt General Goods special?
+Blanche: Our shop may be small, but we do have a warehouse in Liyue Harbor.
+Blanche: We take pride in having the largest catalogue of items and the fastest shipping in all of Mondstadt.
+ What is Mondstadt known for?
+Blanche: Mondstadt is a city known for its wines. Taverns are where you'd want to go.
+Blanche: Most dwellers here go to one of the taverns for a drink after a hard day's work.
+Blanche: You can meet all sorts of people in the taverns at night.
+ Goodbye.
+Blanche: Thank you for coming to Mondstadt General Goods. Be sure to visit again!
+
+Gallery[]
+Pre-release appearance
+Cameos[]
+Collected Miscellany - "Mona- Stellaris Phantasm" - Genshin Impact"Floral Breeze" - Scenes from Windblume Festival - Genshin Impact
+Hangout Memories[]
+Fantastic Voyage ending: Fruitless Anticipation(Aether Version)Fantastic Voyage ending: Fruitless Anticipation(Lumine Version)
+Other Languages[]
+
+LanguageOfficial NameEnglishBlancheChinese(Simplified)布兰琪BùlánqíChinese(Traditional)布蘭琪BùlánqíJapaneseブランシュBuranshuKorean블랑키BeullangkiSpanishBlancheFrenchBlancheRussianБланшBlanshThaiBlancheVietnameseBlancheGermanBlancheIndonesianBlanchePortugueseBlancheTurkishBlancheItalianBlanche
+Change History[]
+Released in Version 1.0[Edit History]Version 3.3
+Added a Genius Invokation TCG Adventure Challenge for Blanche (Mondstadt).
+
+Version 1.0
+
+Blanche (Mondstadt) was released.
+References[]
+
+↑ Image: EN VA Self Announcement
+
+
+
+
+

@@ -1,0 +1,168 @@
+
+
+
+
+
+Archenoul
+Diver
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+								Voice Actors
+							
+
+
+
+
+
+Region
+Fontaine
+
+
+Location
+Fontaine
+
+
+Affil­i­a­tion
+Spina di Rosula
+
+
+
+
+English
+Caitlin Myers[1]
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Archenoul is an open-world NPC located in Poisson, Belleau Region, Fontaine.
+
+Contents
+
+1 Location
+2 Quests and Events
+
+2.1 Story Quests
+
+
+3 Idle Quotes
+4 Dialogue
+
+4.1 Dialogue Set #1
+4.2 Dialogue Set #2
+4.3 Dialogue Set #3
+
+
+5 Other Languages
+6 Change History
+7 References
+
+
+Location[]
+Archenoul's locationAdditional context
+Quests and Events[]
+Story QuestsRosa Multiflora Chapter (Navia)Act I: Braving the Tides TogetherYesterday's Tears, Tomorrow's Light
+Idle Quotes[]
+Prior to completing Masquerade of the Guilty and again after Condition missing
+
+ Inspect regularly...
+Media:VO Archenoul 01.ogg "It's important to inspect your diving equipment regularly."
+
+After completing Masquerade of the Guilty
+
+ Won't take other work...
+Media:VO Archenoul 02.ogg "Sorry, I'm not taking any new jobs right now."
+
+Dialogue[]
+Dialogue Set #1[]
+Available prior to completing Masquerade of the Guilty.
+
+
+Archenoul: Hello there.
+Archenoul: I'm a diver employed by the Spina di Rosula, so I usually don't accept outside commissions. I hope you'll understand.
+ Tell me about diving...
+Archenoul: If people without Visions want to dive, they need to go through specialized training first, and they must be accompanied by a professional diver when they first go underwater.
+Archenoul: The underwater world is very beautiful, but never underestimate its potential dangers.
+Archenoul: For example, most people only pay attention to whether their diving equipment is intact and functional, but ignore their own physical condition.
+Archenoul: If you do not warm up before a dive, or if you cannot adapt to the water pressure in time, you can get muscle cramps or symptoms such as tinnitus.
+ I'll leave you to it...
+Archenoul: Sure. See you.
+
+Dialogue Set #2[]
+Available after completing Masquerade of the Guilty.
+
+
+Archenoul: Hello.
+Archenoul: I'm the diver hired by Spina di Rosula, and I'm afraid I'm not taking any other commissions. My apologies.
+ For rebuilding Poisson, right?
+Archenoul: Hmm... half-and-half.
+Archenoul: It's partly to clear out the junk in the water and perform underwater reconstruction work. And partly to recover everyone's belongings.
+Archenoul: Loads of valuables belonging to the citizens were washed away. It doesn't matter how much they're actually worth, but they all meant something.
+Archenoul: I'd like to help recover them, if I can.
+ I'll leave you to it, then.
+Archenoul: Okay, goodbye.
+
+Dialogue Set #3[]
+Available after Condition missing.
+
+
+Archenoul: Hello there.
+Archenoul: I'm a diver employed by the Spina di Rosula, so I usually don't accept private commissions. I hope you'll understand.
+ Tell me about diving...
+Archenoul: Specialized diving training is required for people without Visions, and they must be accompanied by a professional diver for their first dive.
+Archenoul: The underwater world is very beautiful, but never underestimate the dangers lurking within its depths.
+Archenoul: For example, most people only pay attention to whether their diving equipment is intact and functional, and they ignore their own physical condition.
+Archenoul: If you do not warm up before a dive, or if you cannot adapt to the water pressure in time, you may suffer from muscle cramps or other symptoms such as tinnitus.
+ About the flood...
+Archenoul: The situation was bad back then, but it's all in the past now.
+Archenoul: This is exactly why I've constantly emphasized the necessity of regular diving equipment checks. It's so that we're always ready to deal with emergencies like this.
+Archenoul: Even though Navia said that the kind of disaster mentioned in the prophecy won't happen again, we should still pay attention to our safety.
+ I'll leave you to it, then.
+Archenoul: Okay, goodbye.
+
+Other Languages[]
+
+LanguageOfficial NameEnglishArchenoulChinese(Simplified)艾琪诺ÀiqínuòChinese(Traditional)艾琪諾ÀiqínuòJapaneseアルシュヌールArushunuuruKorean아르체놀AreuchenolSpanishArchenoulFrenchArchenoulRussianАршенульArshenul'ThaiArchenoulVietnameseArchenoulGermanArchenoulIndonesianArchenoulPortugueseArchenoulTurkishArchenoulItalianArchenoul
+Change History[]
+Released in Version 4.0[Edit History]Version 4.2
+Added dialogue for completing Masquerade of the Guilty.
+
+Version 4.0
+
+Archenoul was released.
+References[]
+
+↑ Twitter: EN VA Self Announcement (Archived)
+
+
+
+
+

@@ -1,0 +1,180 @@
+
+
+
+
+
+Trofin Snezhevich
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Regions
+Snezhnaya Fontaine Sumeru 
+
+
+Location
+Sumeru
+
+
+Affil­i­a­tions
+Vimara VillageFatuiHouse of the Hearth 
+
+
+Death
+May be killed by the Traveler in The Bad Guy in Vimara Village
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Quest-Exclusive NPCs 
+
+
+
+
+Trofin Snezhevich (Russian: Трофим Снежевич Trofim Snezhevich) is a quest-exclusive NPC in Vimara Village, Sumeru. Before completing the Hidden Exploration Objective The Bad Guy in Vimara Village, he goes by the name Alphonso.
+He plays a minor role in the first act of the Aranyaka World Quest series.
+His dialogue changes with the player's progress through Aranyaka.
+After completing The Bad Guy in Vimara Village, he either leaves Vimara Village permanently or dies upon the completion of the Hidden Exploration Objective.
+
+Contents
+
+1 Profile
+
+1.1 Appearance
+
+
+2 Quests and Events
+
+2.1 World Quests
+2.2 Hidden Exploration Objectives
+
+
+3 Idle Quotes
+4 Thoughts
+5 Dialogue
+
+5.1 Dialogue Set #1
+5.2 Dialogue Set #2
+5.3 Dialogue Set #3
+
+
+6 Trivia
+7 Other Languages
+
+7.1 Trofin Snezhevich
+7.2 Alphonso
+
+
+8 Change History
+9 References
+
+
+Profile[]
+Trofin Snezhevich was an orphan taken in by the House of the Hearth, raised to become an agent of the Fatui. After growing up, he was deemed as "having potential" and was sent to Vimara Village, where he was tasked by the Harbinger "Il Dottore" to capture an Aranara, which could only be seen by children.[1]
+For his mission, he adopted the name "Alphonso," claiming to be an apprentice from Fontaine. He lived in Vimara Village for several years and became close to the Forest Ranger Rana and the children Iotham, Sudabeh, and Kavus. However, he grappled with the guilt of having to forsake his Vimara Village "family" for the Fatui's goals, as he was unable to forsake his duty or his ties to his House of the Hearth "family." To lure the Aranara out, Trofin helped the Fatui kidnap the children by tricking them into going into the forest alone. However, the Aranara were capable of rescuing the children from under the Fatui's noses, while wiping the children's memories of their capture and rescue to prevent them from becoming accustomed to violence.[1]
+Trofin is implied to have also kidnapped Varsha, an orphaned girl who had run away from Gandharva Ville. An Aranara rescued her as well, but deposited her in a cave sealed by a Claustroflora and did not wipe her memories of the incident like Arana had with the Vimara Village children.[2]
+As part of the intelligence he received from the Fatui, Trofin learned about the Traveler, including their name. This detail — which is something Rana had not mentioned in front of him — is eventually what leads the Traveler to conclude that he is the "bad guy" hiding in the village, and they can choose to confront him over his involvement in the children's disappearances. During the confrontation, the player may choose to spare or kill him.[1]
+If spared, he agrees to leave; never to return to either Vimara Village or the Fatui, since he had shamed his former "family" on his failure and discovery. His Tattered Paper can be found abandoned in Old Vanarana, with two Riftwolves surrounding it, suggesting he may have died there. If the player chooses to kill him, he puts up a fight despite knowing that he would most certainly lose, and his last words are dedicated to Iotham. His Tattered Paper is automatically obtained on his death.
+
+Appearance[]
+(To be added.)
+
+Quests and Events[]
+World QuestsAranyakaPart I: Woodland EncounterThe Children of Vimara VillageThe Lost ChildHidden Exploration ObjectivesThe Bad Guy in Vimara Village
+Idle Quotes[]
+After completing ???
+
+ The quest this time..
+Media:VO Alphonso 01.ogg "*sigh* What am I going to do about this assignment?"
+
+After completing ???
+
+ This place is so great...
+Media:VO Alphonso 02.ogg "*sigh* Vimara Village is such a great place."
+
+After completing The Lost Child
+
+ This shouldn't have happened...
+Media:VO Alphonso 03.ogg "*sigh* This shouldn't have happened."
+
+Thoughts[]
+Alphonso's thoughts can be accessed by using Nahida's Elemental Skill, All Schemes to Know.
+
+
+Media:VO Alphonso All Schemes to Know 01.ogg Alphonso: (*sigh*... What am I going to do about this assignment...)
+
+Dialogue[]
+Dialogue Set #1[]
+
+Alphonso: The mission... I don't want to deal with it... What should I do? If the kids... Rana...
+ (Let's leave quietly.)
+Alphonso: There's no other choice... It must be done...
+
+Dialogue Set #2[]
+Replaces Dialogue Set #1 after completing The Lost Child.
+
+
+Alphonso: *sigh* What should I do if this goes on, Rana...
+ Rana will be fine.
+Alphonso: ...
+Alphonso: I'll take your word for it.
+ About Iotham...
+Alphonso: The good news is Iotham is unharmed. But... the incident with Rana was a major blow to him.
+Alphonso: But as they say, "Do not yield to the wind, or the rain. Do not yield to the winter snow, or the summer heat..."
+Alphonso: It's these setbacks that help us grow stronger. I hope Iotham will learn from this experience too.
+ See you.
+Alphonso: See you.
+
+Dialogue Set #3[]
+Replaces Dialogue Set #2 after completing the Aranyaka World Quest series.
+
+
+Alphonso: What should I do about my mission?
+ (Let's uncover the "bad guy" in Vimara Village.)
+(Starts The Bad Guy in Vimara Village)
+ (Let's leave quietly.)
+Alphonso: There's no other choice... It must be done...
+
+Trivia[]
+Fellow Fatui Pyro Agent Oleg mentions him during The Foolish Fatuus, pointing out how Trofin had failed to make any progress after staying in Sumeru for years.
+Although he claims to be a Fontainian, he wears a Mondstadter outfit, which may hint at his deceit.
+Other Languages[]
+Trofin Snezhevich
+LanguageOfficial NameEnglishTrofin SnezhevichChinese(Simplified)特洛芬・雪奈茨维奇Tèluòfēn XuěnàicíwéiqíChinese(Traditional)特洛芬・雪奈茨維奇Tèluòfēn XuěnàicíwéiqíJapaneseトロフィン・シュナイツェビッチTorofin ShunaitsebicchiKorean트로핀・슈나이제비치Teuropin SyunaijebichiSpanishTrofin SnezhevichFrenchTrofin SnezhevichRussianТрофим СнежевичTrofim SnezhevichThaiTrofin SnezhevichVietnameseTrofin SnezhevichGermanTrofin SnezhevichIndonesianTrofin SnezhevichPortugueseTrofin SnezhevichTurkishTrofin SnezhevichItalianTrofin SnezhevichAlphonso
+LanguageOfficial NameEnglishAlphonsoChinese(Simplified)艾方索ÀifāngsuǒChinese(Traditional)艾方索ÀifāngsuǒJapaneseアルフォンソArufonsoKorean알폰소AlponsoSpanishAlphonseFrenchAlphonsoRussianАльфонсоAl'fonsoThaiAlphonsoVietnameseAlphonsoGermanAlphonsoIndonesianAlphonsoPortugueseAlphonsoTurkishAlphonsoItalianAlphonso
+Change History[]
+Released in Version 3.0[Create New History]
+References[]
+
+↑ 1.0 1.1 1.2 Sumeru Hidden Exploration Objective, Quest-Like: The Bad Guy in Vimara Village
+
+↑ World Quest: Giving Flowers
+
+
+
+
+

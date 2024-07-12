@@ -1,0 +1,105 @@
+
+
+
+
+
+Shushan
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Liyue
+
+
+Location
+Liyue
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Shushan is an open-world NPC located southwest of Qiaoying Village, Chenyu Vale: Upper Vale, Chenyu Vale, Liyue.
+
+Contents
+
+1 Location
+2 Idle Quotes
+3 Dialogue
+4 Other Languages
+5 Change History
+
+
+Location[]
+Shushan's locationAdditional context
+Idle Quotes[]
+
+ The best stone...
+Media:VO Shushan 01.ogg "Even the best stone isn't much unless you've got a good stone mason."
+
+Dialogue[]
+
+Shushan: I have to think of a way to find some young people who will seriously learn the craft of masonry...
+ Is there anything of note nearby?
+(If there are Magical Crystal Ore Veins)
+Shushan: Chenyu Vale is full of noteworthy treasures... But in my opinion, the jade and ores are the most precious.
+Shushan: I stumbled upon an area rich in ores while on a stroll the other day. There were even some high-quality crystals with a brilliant blue hue amongst them...
+Shushan: Qiaoying Village is in no way lacking ores right now, so feel free to take a look for any you might need...
+(Rich Ore Reserves marked on the map)
+(If there are no more Magical Crystal Ore Veins)
+Shushan: Hmm... The sights are lovely around here. Take in all in slowly if you're interested...
+ You are?
+Shushan: Hmm? Why, aren't you an intelligent-looking youngster?
+Shushan: I'm Shushan. The trustiest stonemasons of Chenyu Vale have come from my family for generations now, ever since the time of my ancestors.
+Shushan: Many of the local stone buildings were build by my family.
+Shushan: Even after retiring, I still haven't found an apprentice worthy of inheriting my skills...
+ Craftmanship?
+Shushan: The craftmanship of cutting and transporting stones, the techniques required to carve on stone surfaces... These are only some of the many things a stonemason needs to learn to perfect their craft.
+Shushan: There's not only jade to be found around here. All manner of high-quality stone lie in this vale, the best materials for building roads and houses.
+Shushan: I'm not the only stonemason around these parts, but I'm sure everyone would want their family craft, passed down from generation to generation, to continue shining brightly.
+Shushan: Am I wrong?
+ Young people, you say?
+Shushan: You need skill and stamina to work with stone. Your body won't be able to cope unless you start training from a young age.
+Shushan: But some youngsters are too eager for success and end up taking the wrong path...
+Shushan: After learning some fancy skills from elsewhere, they carve and polish pure white stone to make mementos, which they sell to outsiders...
+Shushan: Such things are nice to keep as a souvenir if reasonably priced, but they're not worth it at all if they're too expensive.
+Shushan: After all, ordinary stone is not the equal of jade. It should be used to build ordinary houses, roads, and bridges.
+ Goodbye.
+Shushan: Take care.
+
+Other Languages[]
+
+LanguageOfficial NameEnglishShushanChinese(Simplified)舒山Chinese(Traditional)舒山Japanese舒山Shosan‍[!][!]Assumed readingKorean서산SeosanSpanishShushanFrenchShushanRussianШу ШаньShu Shan'ThaiShushanVietnameseShushanGermanShushanIndonesianShushanPortugueseShushanTurkishShushanItalianShushan
+Change History[]
+Released in Version 4.4[Create New History]
+
+
+

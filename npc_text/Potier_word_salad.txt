@@ -1,0 +1,127 @@
+
+
+
+
+
+Potier
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Fontaine
+
+
+Location
+Fontaine
+
+
+Dialogue Reward
+ 4
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Potier is an open-world NPC located in Fontaine. He is found in Court of Fontaine: Vasari Passage during the day, and Court of Fontaine: Fleuve Cendre during the night.
+Following a certain dialogue branch for the first time gives the player four Lumidouce Bells.
+
+Contents
+
+1 Location
+2 Idle Quotes
+3 Dialogue
+4 Trivia
+
+4.1 Etymology
+
+
+5 Other Languages
+6 Change History
+7 References
+
+
+Location[]
+Potier's location (Daytime)Additional context (Daytime)Potier's location (Nighttime)Additional context (Nighttime)
+Idle Quotes[]
+
+(Daytime)
+ ♪~
+Media:VO Potier 01.ogg
+(Nighttime)
+ Keep up with the times.
+Media:VO Potier 02.ogg "Whatever business you're in, you've gotta keep up with the changing times."
+
+Dialogue[]
+
+(Daytime)
+Potier: ~♪ The waters gleam, the fish they leap, the seafoam sings of night's deep sleep. ♪~
+Potier: ~♪ The homesick lightly grasp at sand, the shells bear their tears to their native land. ♪~
+ Hello there.
+Potier: Well met, lovely one!
+Potier: Call me Potier — a street artist, I am. My talents are many, and my skills, infinite!
+ Lovely singing!
+Potier: Thank you for your support! Parting is inevitable, but may my song accompany you on this beautiful day in Fontaine.
+(Obtain  Lumidouce Bell ×4)
+ What else can you do?
+Potier: I act, I do opera, I play the lyre... I can even do some magic.
+Potier: I am an artist after all — I can do a little bit of everything.
+Potier: Ah, if only the day would come when I can perform at the opera house — uh, not in the sense of standing trial, though.
+ (Enjoy in silence...)
+Potier: ♪~
+
+(Nighttime)
+Potier: Do you need a lock picked, or perhaps switched?
+ You do this business by night?
+Potier: Of course! Don't people usually realize that they've forgotten to bring their keys only upon returning home at night?
+Potier: Ah, wait, I get it — you're wondering if I'm doing something terrible here, are you?
+Potier: Don't worry, don't worry. I have principles and sense — and more importantly, I don't want to perform a "trial-standing show" at the opera house.
+ You seem a little familiar...
+Potier: Oh, uh, you must've seen me playing the lyre on the streets during the day.
+Potier: "The waters gleam, the fish they leap~" Ring a bell?
+Potier: Now, I know what you're thinking. "How does this person know how to do everything?"
+Potier: Hehe, it never hurts to learn new skills, you know? Just little tricks for a little profit — and every little is a gain.
+ I'm fine, thanks.
+Potier: No worries. Just call me up when you need me.
+
+Trivia[]
+Etymology[]
+Potier means "potter" in French.
+Other Languages[]
+
+LanguageOfficial NameEnglishPotierChinese(Simplified)波蒂埃Bōdì'āiChinese(Traditional)波蒂埃Bōdì'āiJapaneseポティエPotieKorean포티에PotieSpanishPotierFrenchPotierRussianПотьеPot'yeThaiPotierVietnamesePotierGermanPotierIndonesianPotierPortuguesePotierTurkishPotierItalianPotier
+Change History[]
+Released in Version 4.0[Create New History]
+References[]
+
+
+
+

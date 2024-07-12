@@ -1,0 +1,222 @@
+
+
+
+This article is about the NPC. For the Genius Invokation TCG Support Card, see Iron Tongue Tian (Support Card).
+
+
+Iron Tongue Tian
+Storyteller
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+								Voice Actors
+							
+
+
+
+
+
+Region
+Liyue
+
+
+Location
+Liyue
+
+
+Genius Invokation TCG
+Stages
+
+
+
+
+English
+David Lodge[1]
+
+
+Japanese
+Yamaguchi Masahide (山口 正秀)[2]
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Iron Tongue Tian (Chinese: 田铁嘴 Tián Tiězuǐ) is an open-world NPC located in Liyue Harbor, Liyue. He serves as a storyteller at Third-Round Knockout.
+He tells a story about Ningguang during the Archon Quest Zhongli's Treat in Chapter I: Act II - Farewell, Archaic Lord, when Zhongli brings the Traveler and Paimon to Third-Round Knockout as a treat for their work in the Rite of Parting preparations.
+
+Contents
+
+1 Location
+2 Profile
+
+2.1 Appearance
+
+
+3 Quests and Events
+
+3.1 Archon Quests
+3.2 Story Quests
+
+3.2.1 Hangout Events
+
+
+3.3 World Quests
+3.4 Events
+3.5 Web Events
+3.6 Events
+
+
+4 Idle Quotes
+5 Dialogue
+6 Event Dialogue
+
+6.1 The Exquisite Night Chimes
+
+
+7 Trivia
+8 Gallery
+
+8.1 Narration
+8.2 Cameos
+8.3 Genius Invokation TCG
+8.4 Hangout Memories
+8.5 Other Media
+
+
+9 Other Languages
+10 Change History
+11 References
+
+
+Location[]
+Iron Tongue Tian's locationAdditional context
+Profile[]
+Iron Tongue Tian is the storyteller at Third-Round Knockout. He frequently narrates various stories to the customers there, the most notable of them being Zhongli.
+He was Tea Master Liu Su's junior, but they have broken ties ever since Liu Siu began storytelling at the Heyu Tea House.
+
+Appearance[]
+Tian has dark hair and dark eyes and wears a long grey hanfu-like robe that covers his body. 
+
+Quests and Events[]
+Archon QuestsChapter IAct II: Farewell, Archaic LordZhongli's TreatStory QuestsHistoria Antiqua Chapter (Zhongli)Act II: No Mere StoneStrange Sights, Stolen SoulsHangout EventsNoelleAct II: Knightly Exam PrepA Knight's Journey Through LiyueWorld QuestsThe Tales Behind the FanEventsArataki Blazing Armor Beetle Battle Boot CampWeb EventsAncient Treasures Unearthed
+Events[]
+Moonlight Merriment (unique idle quote)
+Idle Quotes[]
+
+ Listen...
+Media:VO Iron Tongue Tian 01.ogg "Listen. Let me tell you how it is..."
+
+During Moonlight Merriment
+
+ Moonchase lore...
+Media:VO Iron Tongue Tian Moonlight Merriment 01.ogg "Today, we delve deeper into the Moonchase lore."
+
+During The Exquisite Night Chimes
+
+ A powerful scene...
+Media:VO Iron Tongue Tian Lantern Rite 01.ogg "How do I introduce a powerful scene into a story... about music?"
+
+Dialogue[]
+
+Iron Tongue Tian: Tea Master Liu Su was once my senior. He loves to tell elegant, high-flown stories.
+Iron Tongue Tian: Me? I don't truck with him and his faux-cultured fellows. What, are the common people unworthy of the storyteller's art, now?
+ Adventure Challenge
+(Opens Genius Invokation TCG match interface)
+(If the player loses the match)
+
+Iron Tongue Tian: Looks like you still got some more counting to do...
+(If the player wins the match)
+
+Iron Tongue Tian: Amazing. What a wonderful, eye-opening show.
+ Duel
+(Opens Genius Invokation TCG match interface)
+(If the player loses the match)
+
+Iron Tongue Tian: Haha, haha, you gotta quit while you're ahead. That's enough for today!
+(If the player wins the match)
+
+Iron Tongue Tian: That was a bad move. Today I really learned something. Hard to believe that you can play like this...
+ (Listen in)
+Iron Tongue Tian: I don't like the way he rarifies storytelling. This art was originally part of street culture.
+Iron Tongue Tian: It's like trying to turn offal from the street kitchens into divine elixir... It's just wrong-headed.
+Iron Tongue Tian: Those who aren't familiar with the art might be entertained, but all the old patrons in attendance know that it's got none of storytelling's original flavor.
+ (Keep listening)
+Iron Tongue Tian: So I'm not sour at all that my senior is famous and earns a lot of money.
+Iron Tongue Tian: In front of my old patrons, I daresay this much—
+Iron Tongue Tian: Were I to go to the Heyu Tea Whatever today and give an oration...
+ (Stop listening)
+Iron Tongue Tian: Don't be so skeptical. If I were to go to Heyu Tea House and speak before the ladies and gentlemen of Yujing Terrace...
+
+Event Dialogue[]
+The Exquisite Night Chimes[]
+
+(After completing A Thousand Miles for an Enigmatic Tune)
+Iron Tongue Tian: Have you heard? This year's Lantern Rite has a new event: a musical performance!
+Iron Tongue Tian: If you want to fit in, you should talk about music.
+Iron Tongue Tian: But it's hard to attract an audience when you have a romantic atmosphere without a powerful scene...
+Iron Tongue Tian: Do you think it's possible to combine singing and fighting?
+Iron Tongue Tian: Winning a battle while being accompanied by a dynamic rhythm... Yeah, I think that's a good idea.
+Iron Tongue Tian: You wouldn't be able to hear of this story from my fellow, Tea Master Liu Su. All he does is talk about dry, prissy, genteel stuff!
+(Dialogue continues as normal)
+
+Trivia[]
+Iron Tongue Tian is mentioned in the description of the following Furnishing: A Dragon's Wondrous Sight
+Gallery[]
+Narration[]
+Character Demo - "Zhongli- The Listener" - Genshin ImpactGenshin Impact Ningguang StoryStory Teaser- Through the Eyes of a Dragon - Genshin Impact
+Cameos[]
+Collected Miscellany - "Qiqi- Fortune-Preserving Talisman"｜Genshin ImpactCollected Miscellany - "Zhongli- Dominance of Earth" - Genshin Impact
+Genius Invokation TCG[]
+Iron Tongue Tian
+Hangout Memories[]
+Knightly Exam Prep ending: "The Maid-Knight's Tale"(Aether Version)Knightly Exam Prep ending: "The Maid-Knight's Tale"(Lumine Version)
+Other Media[]
+Lunar New Year 2022 Celebration Post
+Other Languages[]
+
+LanguageOfficial NameEnglishIron Tongue TianChinese(Simplified)田铁嘴Tián TiězuǐChinese(Traditional)田鐵嘴Tián TiězuǐJapanese田饒舌Den Jouzetsu‍[!][!]Assumed readingKorean전전田달변달변達辯Jeon-dalbyeonSpanishTian Lengua de aceroFrenchTian la langue de ferRussianТянь Железный ЯзыкTyan' Zheleznyy YazykThaiTian จอมคารมคมคายTian chom kharom khomkhaiVietnameseTian Miệng SắtGermanTian mit der eisernen ZungeIndonesianIron Tongue TianPortugueseTian "Língua de Ferro"TurkishDemir Dil TianItalianTian Lingua di ferro
+Change History[]
+Released in Version 1.0[Edit History]Version 3.3
+Added a Genius Invokation TCG Adventure Challenge for Iron Tongue Tian.
+Added a Genius Invokation TCG Duel for Iron Tongue Tian.
+
+Version 1.0
+
+Iron Tongue Tian was released.
+References[]
+
+↑ Twitter: EN VA Self Announcement (Confirmed Through Private Message)
+
+↑ Twitter: JP VA Self Announcement
+
+
+
+
+

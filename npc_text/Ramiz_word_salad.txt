@@ -1,0 +1,144 @@
+
+
+
+
+
+Ramiz
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+								Family
+							
+
+
+
+
+
+Region
+Sumeru
+
+
+Location
+Sumeru
+
+
+
+
+Relative
+Kulsoom (grandmother)
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Ramiz is an open-world NPC located in Aaru Village, Sumeru. Before completing Where the Boat of Consciousness Lies, he will be asking his grandmother about King Deshret, whereas after completion, he is on his own.
+
+Contents
+
+1 Location
+2 Idle Quotes
+3 Thoughts
+4 Dialogue
+
+4.1 Dialogue Set #1
+4.2 Dialogue Set #2
+
+
+5 Other Languages
+6 Change History
+
+
+Location[]
+Ramiz's locationAdditional context
+Idle Quotes[]
+Before completing Where the Boat of Consciousness Lies
+
+ King Deshret...
+Media:VO Ramiz 01.ogg "Grandma, is King Deshret really gonna come back from the dead?"
+
+After completing Where the Boat of Consciousness Lies
+
+ Picture books...
+Media:VO Ramiz 02.ogg "Will Miss Setaria bring me some new picture books?"
+
+Thoughts[]
+Ramiz's thoughts can be accessed by using Nahida's Elemental Skill, All Schemes to Know.
+
+Before completing Where the Boat of Consciousness Lies
+
+Media:VO Ramiz All Schemes to Know 01.ogg Ramiz: (I get it, I shouldn't listen to rumors.)
+
+After completing Where the Boat of Consciousness Lies
+
+Media:VO Ramiz All Schemes to Know 02.ogg Ramiz: (I really wanna meet an Aranara...)
+
+Dialogue[]
+Dialogue Set #1[]
+Available before completing Where the Boat of Consciousness Lies.
+
+
+Ramiz: Grandma, may I ask you a question? Nawaz and I have been thinking about this one, but we still don't get it.
+Kulsoom: Oh, of course you can, dear.
+Ramiz: So, uh... Grandma, is King Deshret really gonna come back from the dead...?
+Kulsoom: ...!
+Ramiz: Grandma?
+Kulsoom: Those fanatic believers! Can't they spare the children!?
+Kulsoom: Child, please, listen well. Though gods are indeed very powerful, even they can disappear.
+Kulsoom: Being obsessed with things that have disappeared is madness. It is no way to live.
+Kulsoom: *sigh* If only the desert children had the chance to learn a little more. Then they wouldn't easily fall for such lies...
+Kulsoom: Child, I... I know this is a lot to ask, but please, study hard — you should learn a thing or two from Setaria.
+Ramiz: I... I understand.
+
+Dialogue Set #2[]
+Available after completing Where the Boat of Consciousness Lies.
+
+
+Ramiz: Did you know that the rainforest is actually home to pigs that have mushrooms growing on them and fairies that have leaves on their heads?
+ I might have heard a thing or two.
+Ramiz: Ooh! That means you must've read the "Aranara" picture book series too, right?
+Ramiz: Setaria brought me lots and lots of those books so that I can read them and learn words at the same time.
+Ramiz: I thought that I might have trouble understanding them, but turns out that this stuff is super interesting!
+Ramiz: I just, uh... Sometimes, I get too excited to see the ending and read too fast, so I end up forgetting to record some words that I don't know yet...
+Ramiz: I'll ask Setaria the next time I see her, though!
+ Tell me more about Setaria...
+Ramiz: Setaria's been hanging around the village a lot these days, but she always looks super busy and hasn't been able to read with me much.
+Ramiz: I get it, though! She's here to do some really important work, I'm sure of that! Granny says that the thing she's working on will make life in the village better!
+Ramiz: I wanna learn loads of stuff too so I can help her!
+ See you.
+Ramiz: Bye!
+
+Other Languages[]
+
+LanguageOfficial NameEnglishRamizChinese(Simplified)拉米兹LāmǐzīChinese(Traditional)拉米茲LāmǐzīJapaneseラミズRamizuKorean라미즈RamijeuSpanishRamizFrenchRamizRussianРамизRamizThaiRamizVietnameseRamizGermanRamizIndonesianRamizPortugueseRamizTurkishRamizItalianRamiz
+Change History[]
+Released in Version 3.1[Create New History]
+
+
+

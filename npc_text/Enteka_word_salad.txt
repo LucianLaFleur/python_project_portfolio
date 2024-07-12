@@ -1,0 +1,150 @@
+
+
+
+
+
+Enteka
+Acting Manager of Puspa Café
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Sumeru
+
+
+Location
+Sumeru
+
+
+Affil­i­a­tion
+Puspa Café
+
+
+Dialogue Reward
+ 4
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Enteka is an open-world NPC located inside Puspa Café, Sumeru City, Sumeru.
+Following a certain dialogue branch for the first time gives the player four Fowls.
+
+Contents
+
+1 Location
+2 Shop
+
+2.1 Food and Ingredients
+2.2 Recipes
+
+
+3 Idle Quotes
+4 Thoughts
+5 Dialogue
+6 Other Languages
+7 Change History
+
+
+Location[]
+Enteka's locationAdditional context
+Shop[]
+Food and Ingredients[]
+ItemCostStockTotalCostRefreshes
+ Baklava6,225212,450Daily
+ Candied Ajilenakh Nut6,600213,200Daily
+ Padisarah Pudding6,525213,050Daily
+ Coffee Beans10010010,000Daily
+Total cost for all items48,700 
+Recipes[]
+ItemCostStockTotalCostRequiredAdventure Rank
+ Recipe: Rose Custard2,50012,5001
+ Recipe: Baklava5,00015,0001
+ Recipe: Candied Ajilenakh Nut5,00015,0001
+ Recipe: Padisarah Pudding5,00015,0001
+ Recipe: Tulumba5,00015,0001
+Total cost for all items22,500 
+Idle Quotes[]
+
+ Acting Café Manager...
+Media:VO Enteka 01.ogg "Acting Café Manager Enteka, at your service."
+
+Thoughts[]
+Enteka's thoughts can be accessed by using Nahida's Elemental Skill, All Schemes to Know.
+
+
+Media:VO Enteka All Schemes to Know 01.ogg Enteka: (Hmm... Is it just me, or is Gata shedding a lot these days...)
+
+Dialogue[]
+
+Enteka: Welcome. A good cup of coffee will keep you energized all day.
+ What have you got here?
+Enteka: Are you found of desserts? We have some that go very well with coffee. Please, feel free to try some!
+(Opens the Puspa Café Shop menu)
+ What is this place?
+Enteka: This is Puspa Café, and I'm the acting manager here.
+Enteka: If you're a first-time customer, why don't you tell me what your preferences are? Then I can recommend a coffee that will suit your tastes.
+Enteka: Do you like your coffee sweet, or do you prefer it more on the bitter side? Stronger or milder?
+Enteka: Whatever your preferences, no matter how offbeat, I can make something to your liking.
+ About that cat...
+Enteka: Ah, you must have spotted Gata.
+Enteka: Gata's not even a year old yet so she's still a very curious kitty. Whenever I read people's fortunes from the coffee grounds, she'll jump up to watch.
+Enteka: If you'd like, you can give her head a good pat. She'll get happy and start purring, and you'll get to enjoy the softest feeling in the world.
+ Yay, woohoo!
+Enteka: Haha, looks like you are a cat lover, too.
+Enteka: Here's a tip for you, my friend! Gata prefers Fowl to Fish.
+Enteka: If Gata eats the Fowl you feed her, then she must be willing to be your friend!
+(Obtain  Fowl ×4)
+ See you.
+Enteka: Take care, hope to see you again.
+
+Other Languages[]
+
+LanguageOfficial NameEnglishEntekaChinese(Simplified)恩忒卡ĒntèkǎChinese(Traditional)恩忒卡ĒntèkǎJapaneseエンテカEntekaKorean엔테카EntekaSpanishEntekaFrenchEntekaRussianЭнтекаEntekaThaiEntekaVietnameseEntekaGermanEntekaIndonesianEntekaPortugueseEntekaTurkishEntekaItalianEnteka
+Change History[]
+Released in Version 3.0[Edit History]Version 3.5
+New Recipe: Tulumba
+
+Version 3.2
+
+New Recipe: Rose Custard
+
+Version 3.1
+
+Added a shop to her dialogue options, selling the following items: Recipe: Baklava, Recipe: Candied Ajilenakh Nut, Recipe: Padisarah Pudding, Baklava, Candied Ajilenakh Nut, and Padisarah Pudding.
+
+Version 3.0
+
+Enteka was released.
+
+
+

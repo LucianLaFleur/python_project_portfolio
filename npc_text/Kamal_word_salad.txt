@@ -1,0 +1,143 @@
+
+
+
+
+
+Kamal
+Branch Master, Adventurers' Guild
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Sumeru
+
+
+Location
+Sumeru
+
+
+Affil­i­a­tion
+Adventurers' Guild
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Kamal is an open-world NPC located in Sumeru City, Sumeru.
+
+Contents
+
+1 Location
+2 Profile
+
+2.1 Appearance
+
+
+3 Quests and Events
+
+3.1 Story Quests
+
+3.1.1 Hangout Events
+
+
+3.2 World Quests
+3.3 Hidden Exploration Objectives
+
+
+4 Idle Quotes
+5 Thoughts
+6 Dialogue
+7 Gallery
+8 Other Languages
+9 Change History
+
+
+Location[]
+Kamal's locationAdditional context
+Profile[]
+(To be added.)
+
+Appearance[]
+(To be added.)
+
+Quests and Events[]
+Story QuestsHangout EventsFaruzanAct I: A Confounding ConundrumEarly Learning MechanismWorld QuestsThe Gourmet SupremosGourmet Supremos: Within Our DutiesHidden Exploration ObjectivesDrusus's Riddles
+Idle Quotes[]
+
+ Life at sea...
+Media:VO Kamal 01.ogg "Aghh, for all this time living in the city, I still miss life at sea."
+
+Thoughts[]
+Kamal's thoughts can be accessed by using Nahida's Elemental Skill, All Schemes to Know.
+
+Media:VO Kamal All Schemes to Know 01.ogg Kamal: (I hope no one from the Akademiya comes here to stir up trouble today...)
+Dialogue[]
+
+Kamal: Hope the Akademiya will not interfere with adventurers' activity too much...
+ Hello.
+Kamal: Hi, I'm Kamal, a Branch Master of the Adventurers' Guild.
+Kamal: I'm a former mariner. I can give you some practical tips if you want to set sail on an adventure.
+Kamal: If you want to go somewhere else in Sumeru, I can show the way as well.
+ Much obliged.
+(Before completing Where the Boat of Consciousness Lies)
+Kamal: Sumeru City was built on the Divine Tree, with the upper level for the Akademiya and the lower level for the common folks. Move up if you seek further education or get a promotion. For a steady life pace, Grand Bazaar is your choice.
+Kamal: Researchers led by Greater Lord Rukkhadevata cultivated a large rainforest next to Sumeru City, which helped Sumeru survive the difficult times in the past.
+Kamal: But it's not a good idea to delve too deep into the rainforest. Beasts and The Withering can be deadly. Be sure to call a Forest Ranger for help in case of danger.
+Kamal: There are plenty of places to stay near the rainforest. The Gandharva Ville where Forest Rangers and Vanara gather, and the tranquil Vimara Village. You name it.
+Kamal: Further south is Port Ormos, the largest import and export port in Sumeru. Most people who travel to Sumeru by water would enter through the port.
+ Much obliged, then.
+(After completing Where the Boat of Consciousness Lies)
+Kamal: Sumeru City was built on the Divine Tree, with the upper levels being meant for the Akademiya and the lower levels for the common folks. Move up if you seek further education or get a promotion, but if you want to take life steady, the Grand Bazaar is the choice for you.
+Kamal: Researchers led by Dendro Archon cultivated a large rainforest right next to Sumeru City, which has helped Sumeru survive difficult times in the past.
+Kamal: But it's not a good idea to delve too deep into the rainforest. An encounter with beasts and The Withering within can prove deadly, so be sure to call a Forest Ranger for help in case of any danger.
+Kamal: There are plenty of places to stay near the rainforest, such as Gandharva Ville, where the Forest Rangers and Vanara gather, and the tranquil Vimara Village.
+Kamal: Further south is Port Ormos, the largest import and export port in Sumeru. Most people who travel to Sumeru by water enter that way.
+ Beyond the rainforest...
+Kamal: Going west, across the Caravan Ribat, you will reach the desert. Somewhere in the desert lies King Deshret, a spot many Adventurers often beat a path to.
+Kamal: But the environment is treacherous, and even a small sandstorm can be a terribly foul experience. If you must go, you'd better find a reliable guide at Aaru Village.
+Kamal: Aaru Village is on the edge of the desert, and is friendly to tourists and traveling scholars.
+Kamal: There seems to be an abandoned medical facility up there, and it was sealed off by the Akademiya.
+Kamal: I know adventurers are mostly curious and don't really like the Akademiya or the Eremites bossing around with their plans...
+Kamal: Still, that doesn't look like a great place for travel, so I don't advise you to be rash with your actions.
+ See you.
+Kamal: Have a good day and a safe adventure.
+
+Gallery[]
+Hangout Faruzan Act 1 Knowledge is Wealth! AetherHangout Faruzan Act 1 Knowledge is Wealth! Lumine
+Other Languages[]
+
+LanguageOfficial NameEnglishKamalChinese(Simplified)卡玛尔Kǎmǎ'ěrChinese(Traditional)卡瑪爾Kǎmǎ'ěrJapaneseカマルKamaruKorean카말KamalSpanishKamalFrenchKamalRussianКамалKamalThaiKamalVietnameseKamalGermanKamalIndonesianKamalPortugueseKamalTurkishKamalItalianKamal
+Change History[]
+Released in Version 3.0[Create New History]
+
+
+

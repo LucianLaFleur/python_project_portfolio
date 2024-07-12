@@ -1,0 +1,135 @@
+
+
+
+
+
+Kamran
+Forest Ranger
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Sumeru
+
+
+Location
+Sumeru
+
+
+Affil­i­a­tion
+Forest Rangers
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Kamran is an open-world NPC that can be found in Gandharva Ville, Sumeru.
+
+Contents
+
+1 Location
+2 Profile
+
+2.1 Appearance
+
+
+3 Idle Quotes
+4 Thoughts
+5 Dialogue
+
+5.1 Dialogue Set #1
+5.2 Dialogue Set #2
+
+
+6 Other Languages
+7 Change History
+
+
+Location[]
+Kamran's locationAdditional context
+Profile[]
+(To be added.)
+
+Appearance[]
+(To be added.)
+
+Idle Quotes[]
+
+ Truly troublesome...
+Media:VO Kamran 01.ogg "Eleazar is a truly troublesome illness."
+ That little girl...
+Media:VO Kamran 02.ogg "Surely that little girl must be leaving soon."
+
+Thoughts[]
+Kamran's thoughts can be accessed by using Nahida's Elemental Skill, All Schemes to Know.
+
+
+Media:VO Kamran All Schemes to Know 01.ogg Kamran: (Don't fully trust anyone except yourself.)
+
+Dialogue[]
+Dialogue Set #1[]
+
+(Before completing Where the Boat of Consciousness Lies)
+Kamran: If it wasn't for the forest's alleviating effect on the disease... Someone with Eleazar would have never been allowed to be a Forest Ranger.
+ Eleazar?
+Kamran: Huh? Who are you? What are you doing here? Why are you asking about that?
+ I'm just passing by.
+Kamran: Right.
+Kamran: This is Gandharva Ville. You can rest here if you're tired.
+Kamran: If you don't want to be "educated" by the Forest Watchers, then take a look at the stuff on the noticeboard.
+Kamran: Forgive me for being unable to say more.
+ Goodbye...
+Kamran: Oh, bye then.
+
+Dialogue Set #2[]
+
+(After completing Where the Boat of Consciousness Lies)
+Kamran: I never thought I'd see the day when someone would be cured of Eleazar... though I suppose that'll mean the end of that young girl's time with the Forest Rangers soon.
+ Who are you referring to?
+Kamran: Huh? Who are you? What are you doing here? Why are you asking about that?
+ I'm a friend of Tighnari's.
+Kamran: Oh, you're that Forest Watcher's friend, are you? My apologies.
+Kamran: I'm referring to a Trainee Forest Ranger who's been stationed with us.
+Kamran: She was here as part of her recuperation process from the first, so I reckon that she'll be leaving now that she's recovered.
+Kamran: Now, she has said that she wouldn't mind staying on as a Forest Ranger, but you know — people change their minds all the time.
+Kamran: You can't even trust what the sages say nowadays, so I'm not sure how hopeful I should be about anyone or anything else, you know?
+ Goodbye...
+Kamran: Oh, bye then.
+
+Other Languages[]
+
+LanguageOfficial NameEnglishKamranChinese(Simplified)卡姆兰KǎmǔlánChinese(Traditional)卡姆蘭KǎmǔlánJapaneseカムランKamuranKorean캄란KamranSpanishKamranFrenchKamranRussianКамранKamranThaiKamranVietnameseKamranGermanKamranIndonesianKamranPortugueseKamranTurkishKamranItalianKamran
+Change History[]
+Released in Version 3.0[Create New History]
+
+
+

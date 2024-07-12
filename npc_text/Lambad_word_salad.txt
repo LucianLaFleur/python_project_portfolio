@@ -1,0 +1,189 @@
+
+
+
+
+
+Lambad
+Tavern Owner
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Sumeru
+
+
+Location
+Sumeru
+
+
+Affil­i­a­tion
+Lambad's Tavern
+
+
+Dialogue Reward
+ 3
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Lambad is an open-world NPC that can be found in Sumeru City, Sumeru.
+Following a certain dialogue branch for the first time gives the player three Delicious Lambad Fish Rolls.
+
+Contents
+
+1 Shop
+
+1.1 Food and Ingredients
+1.2 Recipes
+
+
+2 Location
+3 Quests and Events
+
+3.1 Archon Quests
+3.2 Story Quests
+
+3.2.1 Hangout Events
+
+
+3.3 Commissions
+
+
+4 Idle Quotes
+5 Thoughts
+6 Dialogue
+7 Trivia
+8 Other Languages
+9 Change History
+
+
+Shop[]
+Food and Ingredients[]
+ItemCostStockTotalCostRefreshes
+ Delicious Lambad Fish Roll530(475)105,300(4,750)Daily
+ Teyvat Fried Egg200(180)102,000(1,800)Daily
+ Chicken-Mushroom Skewer450(405)104,500(4,050)Daily
+ Shawarma Wrap2,150(1,935)24,300(3,870)Daily
+ Fisherman's Toast1,550(1,395)23,100(2,790)Daily
+ Charcoal-Baked Ajilenakh Cake6,825(6,140)213,650(12,280)Daily
+ Flour150(135)101,500(1,350)Weekly
+ Sausage840(755)108,400(7,550)Weekly
+ Bacon720(645)107,200(6,450)Weekly
+ Spice540(485)105,400(4,850)Weekly
+ Sugar450(405)104,500(4,050)Weekly
+ Fish240(215)102,400(2,150)Daily
+ Crab240(215)102,400(2,150)Daily
+ Starshroom240(215)102,400(2,150)3 Days
+ Glabrous Beans100(90)10010,000(9,000)Daily
+Total cost for all items77,050(69,240) 
+Recipes[]
+ItemCostStockTotalCostRequiredAdventure Rank
+ Recipe: Lambad Fish Roll1,250(1,125)11,250(1,125)1
+ Recipe: Minty Bean Soup1,250(1,125)11,250(1,125)1
+ Recipe: Shawarma Wrap2,500(2,250)12,500(2,250)1
+ Recipe: Fatteh2,500(2,250)12,500(2,250)1
+ Recipe: Charcoal-Baked Ajilenakh Cake5,000(4,500)15,000(4,500)1
+ Recipe: Sabz Meat Stew5,000(4,500)15,000(4,500)1
+ Recipe: Scented Meat Balls5,000(4,500)15,000(4,500)1
+Total cost for all items22,500(20,250) 
+Brackets indicate cost after reputation discount.
+
+Location[]
+Lambad's locationAdditional context
+Quests and Events[]
+Archon QuestsChapter IIIAct I: Through Mists of Smoke and Forests DarkThe Trail of the God of WisdomAct II: The Morn a Thousand Roses BringsThe Arrival of the Sabzeruz FestivalStory QuestsLupus Aureus Chapter (Cyno)Act II: OathkeeperThe Mysterious LetterHangout EventsKavehAct I: The Pendulum of Weal and WoeThe Sixth ProposalCommissionsEquivalent Exchange Once More
+Idle Quotes[]
+
+ Back in the day...
+Media:VO Lambad 01.ogg "Oh, I went on my fair share of crazy adventures back in the day! Hahaha..."
+
+Thoughts[]
+Lambad's thoughts can be accessed by using Nahida's Elemental Skill, All Schemes to Know.
+
+Media:VO Lambad All Schemes to Know 01.ogg Lambad: (Why don't outlanders like Charcoal-Baked Ajilenakh Cakes?)
+Dialogue[]
+
+Lambad: Hello, friend! What'll you be having today? If you can't decide, just order the Lambad Fish Roll!
+Lambad: The tableware in the tavern has just been replaced, too! They're all brand new! That will be sure to cheer you up!
+ Can I see the menu?
+Lambad: Sure, here you go. It's all delicious, so have whatever you'd like!
+(Opens the Lambad's Tavern Shop menu)
+ Tell me about yourself...
+Lambad: Yesterday I was a sailor, today I'm the owner of this tavern.
+Lambad: So, you'll be able to taste the chill of the ocean in my tavern's wine. And you won't find fresher seafood anywhere else!
+ You built this tavern overnight? Impressive!
+Lambad: Hahahaha! You're making me blush.
+Lambad: I was exaggerating when I said that, but I wasn't kidding about being a great sailor in the past.
+Lambad: I've passed through vast thunderstorms more wrathful than the Raiden Shogun, and I've pierced through glaciers steelier than the Tsaritsa's heart.
+Lambad: But that was nothing...
+Lambad: ...Nothing compared to being able to return safely to Sumeru and open this lively tavern! Hahaha!
+ About the Lambad Fish Roll...
+Lambad: It's a recipe I came up with on an adventure in my youth. The flavor of the finished product far exceeded my expectations, so I bestowed it with the great name of "Lambad"!
+Lambad: When I was traveling around then, I had delicious grilled fish in Mondstadt, Liyue, and Inazuma. So, it got me thinking that the aroma of grilled fish in the air was just what Sumeru needed, too!
+Lambad: And that's how my famous Lambad Fish Roll was born. And it's not just grilled fish — I combined it with Sumeru's specialty pitas to create a fish roll that can be eaten with ease, even on the choppiest of seas.
+Lambad: Such a genius invention is naturally worthy of the resounding name of "Lambad."
+ Is this for sampling?
+Lambad: Of course! The fish was fresh from the water and the pitas just popped out of the oven. Here. Be careful, it's hot!
+(Obtain  Delicious Lambad Fish Roll ×3)
+ New tableware?
+Lambad: Yep, there was some small accident in the tavern a few days ago, so the original tableware can't be used anymore.
+Lambad: It turned out to be a blessing in disguise. The tableware we have now is made by craftspeople commissioned by Kshahrewar researchers, with the patterns designed by Haravatat researchers.
+Lambad: There is no other establishment in Sumeru City with such a luxurious setup.
+Lambad: So you see, little accidents in life aren't necessarily all bad, hahaha!
+ See you.
+Lambad: Come back any time!
+
+Trivia[]
+Lambad is mentioned in the description of the following Furnishing: Adhigama Wood "Versatile" Shelves
+Other Languages[]
+
+LanguageOfficial NameEnglishLambadChinese(Simplified)兰巴德LánbādéChinese(Traditional)蘭巴德LánbādéJapaneseランバドRanbadoKorean람바드RambadeuSpanishLambadFrenchLambadRussianЛамбадLambadThaiLambadVietnameseLambadGermanLambadIndonesianLambadPortugueseLambadTurkishLambadItalianLambad
+Change History[]
+Released in Version 3.0[Edit History]Version 3.6
+New Recipe: Fatteh
+
+Version 3.4
+
+New Recipes: Sabz Meat Stew, Scented Meat Balls
+
+Version 3.1
+
+New Dish: Coconut Charcoal Cake
+New Recipe: Coconut Charcoal Cake
+
+Version 3.0
+
+Lambad and the Lambad's Tavern shop were released.
+
+
+

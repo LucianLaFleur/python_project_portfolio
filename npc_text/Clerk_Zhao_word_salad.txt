@@ -1,0 +1,222 @@
+
+
+
+
+
+Clerk Zhao
+Clerk, Ministry of Civil Affairs
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+								Voice Actors
+							
+
+
+
+
+
+Region
+Liyue
+
+
+Location
+Liyue
+
+
+Affil­i­a­tion
+Ministry of Civil Affairs
+
+
+
+
+English
+Shelby Young[1]
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Clerk Zhao (Chinese: 小昭 Xiǎo Zhāo) is an open-world NPC in Liyue Harbor. During daytime, she can be found at Feiyun Slope, talking to Big-Footed Dajiao. During nighttime, she can be found at the upper level of Xinyue Kiosk, across the Northland Bank.
+
+Contents
+
+1 Location
+2 Profile
+
+2.1 Appearance
+
+
+3 Quests and Events
+
+3.1 Story Quests
+
+3.1.1 Hangout Events
+
+
+3.2 World Quests
+
+
+4 Idle Quotes
+5 Dialogue
+
+5.1 Daytime
+5.2 Nighttime
+
+
+6 Event Dialogue
+
+6.1 Fleeting Colors in Flight
+6.2 The Exquisite Night Chimes
+6.3 Vibrant Harriers Aloft in Spring Breeze
+
+
+7 Notes
+8 Other Languages
+9 Change History
+10 References
+
+
+Location[]
+Clerk Zhao's location (Daytime)Additional context (Daytime)Clerk Zhao's location (Nighttime)Additional context (Nighttime)
+Profile[]
+(To be added.)
+
+Appearance[]
+Clerk Zhao wears a blue dress modeled from the Chinese qipao (Chinese: 旗袍) with a white underskirt. The dress is mainly blue, with a gradient going from a dark to a light shade. It has golden details as well as a floral pattern in light blue on her shoulder. On her hip, she has a jade pendant with a white tassel hanging from it. She has short black hair in a bob, with straight bangs, and wears black rectangular glasses.
+
+Quests and Events[]
+Story QuestsHangout EventsYun JinAct I: A Song That Knows GraceAfter the Curtain FallsWorld QuestsA Quiet Day in Liyue HarborNecessary ProceduresPressing Deadlines
+Idle Quotes[]
+
+(Daytime)
+ You have two seconds...
+Media:VO Clerk Zhao 01.ogg "You have two seconds to tell me what you need."
+(Nighttime)
+ There's no way we can settle so many...
+Media:VO Clerk Zhao 02.ogg "Oh...just a few more minutes rest."
+
+During Fleeting Colors in Flight
+
+(Nighttime)
+ Can I take time off?
+Media:VO Clerk Zhao Lantern Rite 01.ogg "Can I really justify taking time off when Lady Keqing is working so hard?"
+
+During The Exquisite Night Chimes
+
+ Not time to relax yet...
+Media:VO Clerk Zhao Lantern Rite 02.ogg "Ugh, there are new assignments, so it's not quite time to relax yet..."
+
+During Vibrant Harriers Aloft in Spring Breeze
+
+ Not time to relax yet...
+Media:VO Clerk Zhao Lantern Rite 03.ogg "새로운 임무가 생겼어. 아직은 쉴 때가 아니야..."[Note 1]
+("I have a new task. It's not time to rest yet...")
+
+Dialogue[]
+
+Daytime[]
+Clerk Zhao: Hello. Can I help you?
+Clerk Zhao: You have two seconds to tell me what you need.
+ What's your—
+Clerk Zhao: Role? Clerk at the Ministry of Civil Affairs.
+Clerk Zhao: Name? Ask me again after my shift.
+ I want to—
+Clerk Zhao: Take a proficiency test? Declare a tax liability? Apply for an exit permit? Rent a mooring space?
+Clerk Zhao: Which service do you require?
+Clerk Zhao: Hurry up! And then hurry up some more!
+Clerk Zhao: You're taking too long! Sorry, can't afford to waste precious time on people like...
+Clerk Zhao: ...Never mind, no time. Next customer, please!
+ Good—
+Clerk Zhao: Goodbye. Next time, prepare first!
+Nighttime[]
+Clerk Zhao: Whew... As soon as I stop working, the anxiety just hits me...
+Clerk Zhao: Hello? What is it?
+ Anxiety?
+Clerk Zhao: Yeah. Do you ever feel like there just aren't enough hours in the day?
+Clerk Zhao: That feeling of... I'm enjoying myself, but I can't fully relax because there is still that thing at the back of my mind... But then, you still can't force yourself to go and deal with the thing...
+Clerk Zhao: *sigh* People are strange creatures. We know full well that time is limited, but we still kid ourselves by saying things like, "Oh, surely just a bit longer can't hurt..."
+ What's bothering you?
+Clerk Zhao: You'll laugh at me if I tell you, but... Well, my dream is to work my way up and become one of the Qixing one day. Someone big and successful.
+Clerk Zhao: I know it sounds ridiculous, the idea of starting as a minor clerk and somehow ending up as one of the Qixing...
+Clerk Zhao: But if I don't at least try, none of my dreams will ever become reality.
+Clerk Zhao: Zhao, there's no time to waste...
+Clerk Zhao: ...Aah, what am I doing here then!? I must get back to work!
+ You really do work hard.
+Clerk Zhao: If I want to become a member of the Liyue Qixing, this work-rate is just what is expected of me, isn't it?
+Clerk Zhao: ...And honestly, I'm not working anywhere near hard enough.
+Clerk Zhao: I've had to travel to Yuehai Pavilion many times in order to settle some matters. Every time I go there, I can see Miss Ganyu doing overtime work.
+Clerk Zhao: Perhaps this is because she works directly for the Qixing at Yuehai Pavilion, while I'm just a small-time clerk...
+Clerk Zhao: Argh.. No, I have to work harder!
+ Goodbye.
+Clerk Zhao: Back to it? Goodness, you're so hardworking...
+Clerk Zhao: I should get back too, I can't keep wasting time here...
+
+Event Dialogue[]
+Fleeting Colors in Flight[]
+
+(At a table at night)
+Clerk Zhao: Phew... Lantern Rite is such a tiring time. I should take a moment to rest...
+Clerk Zhao: But the moment I stop, the anxiety just hits me all over again...
+Clerk Zhao: Can I really take slack off while watching Lady Keqing hurry this way and that, making the Lantern Rite preparations?
+(Continue non-event dialogue)
+
+The Exquisite Night Chimes[]
+
+(At a table at night)
+(After completing A Thousand Miles for an Enigmatic Tune)
+Clerk Zhao: Phew... Lantern Rite is such a tiring time. I should take a moment to rest...
+Clerk Zhao: But the moment I stop, the anxiety just hits me all over again...
+Clerk Zhao: After all, Lady Yuheng has assigned a new task for the music festival, so I still can't rest...
+(Continue non-event dialogue)
+
+Vibrant Harriers Aloft in Spring Breeze[]
+
+Clerk Zhao: Phew. Lantern Rite sure is a tiring time. Best get some rest...
+Clerk Zhao: But a strange anxiety seems to take me whenever I stop...
+Clerk Zhao: After all, Lady Yuheng has assigned us a new task for international cooperation, so I still can't rest...
+
+Notes[]
+
+↑ This audio erroneously plays in Korean when the Voice-Over Language is set to English.
+
+
+Other Languages[]
+
+LanguageOfficial NameEnglishClerk ZhaoChinese(Simplified)小昭Xiǎo ZhāoChinese(Traditional)小昭Xiǎo ZhāoJapanese昭Shou‍[!][!]Assumed readingKorean소소소소小昭SosoSpanishRecepcionista ZhaoFrenchClergesse ZhaoRussianКлерк ЧжаоKlerk ChzhaoThaiเสมียน ZhaoSamian ZhaoVietnameseZhaoGermanBeamte ZhaoIndonesianClerk ZhaoPortugueseEscriturária ZhaoTurkishKatip ZhaoItalianSegretaria Zhao
+Change History[]
+Released in Version 1.0[Create New History]
+References[]
+
+↑ Shelby Young: EN VA's Website
+
+
+
+
+

@@ -1,0 +1,157 @@
+
+
+
+
+
+Seymour
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Real Name
+Prototype 4ACV07
+
+
+Region
+Fontaine
+
+
+Location
+Fontaine
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Quest-Exclusive NPCsDog NPCs 
+
+
+
+
+Seymour, real name Prototype 4ACV07, is a quest-exclusive NPC that first appeared in the World Quest Series Ancient Colors.
+
+Contents
+
+1 Profile
+
+1.1 Appearance
+
+
+2 Quests and Events
+
+2.1 Story Quests
+2.2 World Quests
+
+
+3 Dialogue
+4 Trivia
+5 Other Languages
+6 Change History
+7 References
+
+
+Profile[]
+Seymour was originally created by Alain Guillotin to assist his sister Mary-Ann Guillotin with her work as a member of the Marechaussee Phantom.[1] When Mary-Ann was assigned to capture members of the Narzissenkreuz Ordo in Elynas, Seymour accompanied her. A fierce battle broke out between the members of the Phantom and the Ordo, during which Seymour was severely damaged and incapacitated.[2]
+For 
+
+
+
+(
+1
+
+/
+
+7
+)
+×
+
+10
+
+21
+
+
+
+
+{\displaystyle (1/7)\times 10^{21}}
+
+ clockwork cycles (around 493 years), Seymour's functions were in hibernation. During this time, he was discovered by Mamere. Mamere would talk about her art with Seymour, unaware that Seymour was inactive and using pre-recorded voice assets to speak to her.[3] However, after she and the Traveler rebooted Seymour using Mamere's "token" (that Melusines are born with), Seymour restarted his natural language processing unit.[4]
+During the events of other World Quest series, Seymour would meet the Oceanid Ann at The Narzissenkreuz Ordo, where they would try to find Mary-Ann. Eventually, the Traveler would discover a member of the Narzissenkreuz Ordo, Caterpillar, in the Fortress of Meropide, who had been imprisoned there after completing a deed for the "Master". When they escaped the prison and returned to the Ordo, Seymour and Ann had just returned from a trip when he sensed Narzissenkreuz Ordo remnants (Caterpillar) and activated his "Annihilation" mode. Caterpillar gave the phrase "This is my little invention.", which Seymour recognized and downgraded his threat mode, asking Caterpillar to surrender. Caterpillar told him that he had already surrendered to the Traveler, and the group began sharing what information they had found in their travels.
+Seymour is able to recognize 103,900 different styles of art, but not Mamere's. He is also able to dive underwater like the Melusines and blast through rocks with his mining module.[4]
+Eventually, with the assistance of Ann, Caterpillar and the Traveler, Seymour eventually reunites with his master, "Mary-Ann". Ann and Mary-Ann decides to go on a trip to see the outside world, which Seymour agrees to. He also suggests bringing Mamere along, as she had taken care of him, which they also agree to. Once Mamere was brought along, they embark on their trip.
+
+Appearance[]
+Seymour takes the form of a Recon Log Mek.
+
+Quests and Events[]
+Story QuestsDiluvies Chapter (Neuvillette)Act I: The Remains of the Past DayIn a New Light (cutscene)World QuestsAncient ColorsAct I: A Brush of Seafoam and CrimsonThe Illusion's FinishingsAct II: A Gradient of Dreams and OchreThere Will Come Soft RainsAct III: Blue Longing of Heart and MoonLimner, Dreamer, and Robotic DogIn the Wake of NarcissusAct I: Search in the Algae SeaCupid's LoverMeteoric LanceMuse's MotherSearch in the Algae SeaThalia and MelpomeneAct II: Savior's WakeSavior's WakeAct IV: Rowboat's WakeRowboat's WakeRiddles Awaiting AnswersThe Final QuestionUnfinished Story
+Dialogue[]
+
+(Upon completing Initial Facts)
+Seymour: ... Calculation process halted. What are your instructions, (‍Mr.Mr.Text for male Traveler/Ms.Ms.Text for female Traveler‍) (TravelerTravelerThe player's chosen name for the Traveler)?
+ About the current situation...
+Seymour: Through communication with Ann the Oceanid and the former Narzissenkreuz Ordo member Caterpillar, some promising information has been obtained.
+Seymour: I am Prototype 4ACV07, designed by Guillotin to accompany and protect my master, Ms. Mary-Ann.
+Seymour: Unfortunately, no additional information on Ms. Mary-Ann is currently available.
+Seymour: Moreover, Ann the Oceanid was able to provide very little information.
+Seymour: The remaining member of the Narzissenkreuz Ordo Caterpillar did not provide complete information.
+Seymour: More time is required for analysis...
+ I want to know more about you, Seymour...
+Seymour: I am Prototype 4ACV07, designed by Guillotin to accompany and protect my master, Ms. Mary-Ann.
+Seymour: I am well-equipped with the most advanced memory storage unit, logic unit, optics, and various functional modules from the Fontaine Institute of Natural Philosophy.
+Seymour: This allows me to keep a log of Ms. Mary-Ann's daily life and also act as an agent's assistant.
+Seymour:  My present top priority is: To locate Ms. Mary-Ann and ensure her safety.
+ I want to know more about Mary-Ann...
+Seymour: The purpose of my design and creation is to serve and protect my owner, Ms. Mary-Ann.
+Seymour: My present top priority is: To locate Ms. Mary-Ann and ensure her safety.
+Seymour: Ann the Oceanid exhibited certain behaviours identical to the past behaviours of Ms. Mary-Ann.
+Seymour: But the factors comprising them... (loud mechanical noises)... (loud mechanical noises)...
+Seymour: Note: Regular record space collection can decrease the frequency of such issues effectively.
+ Oh, nothing. Bye.
+Seymour: Affirmative. Have a nice day, (‍Mr.Mr.Text for male Traveler/Ms.Ms.Text for female Traveler‍) (TravelerTravelerThe player's chosen name for the Traveler).
+
+Trivia[]
+Seymour is a reference to a dog of the same name in "Jurassic Bark", an episode of the animated television series Futurama. The episode's production number is 4ACV07, which is referenced by Seymour's real name, Prototype 4ACV07. Both dogs are devoted to finding a human important to them who will never be found.
+Seymour is mentioned in the description of the following Furnishing: Mamere's Painting
+Other Languages[]
+
+LanguageOfficial NameEnglishSeymourChinese(Simplified)西摩尔Xīmó'ěrChinese(Traditional)西摩爾Xīmó'ěrJapaneseセイモアSeimoaKorean시모어Simo'eoSpanishSeymourFrenchSeymourRussianСеймурSeymurThaiSeymourVietnameseSeymourGermanSeymourIndonesianSeymourPortugueseSeymourTurkishSeymourItalianSeymour
+Change History[]
+Released in Version 4.0[Edit History]Version 4.0
+Seymour was released as a quest-exclusive NPC.
+References[]
+
+↑ Artifact, Marechaussee Hunter: Masterpiece's Overture
+
+↑ World Quest: The Final Question
+
+↑ World Quest, Ancient Colors: Act I - A Brush of Seafoam and Crimson, Part 1: The Illusion's Finishings
+
+↑ 4.0 4.1 World Quest, Ancient Colors: Act II - A Gradient of Dreams and Ochre, Part 1: There Will Come Soft Rains
+
+
+
+
+

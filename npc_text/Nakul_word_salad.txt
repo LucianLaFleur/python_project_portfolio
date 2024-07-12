@@ -1,0 +1,128 @@
+
+
+
+
+
+Nakul
+Researcher
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Fontaine
+
+
+Location
+Fontaine
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Nakul is an open-world NPC located in Dormitory Block, Fortress of Meropide, Fontaine.
+
+Contents
+
+1 Location
+2 Profile
+
+2.1 Appearance
+
+
+3 Quests and Events
+
+3.1 World Quests
+
+
+4 Idle Quotes
+5 Dialogue
+
+5.1 Dialogue Set #1
+5.2 Dialogue Set #2
+
+
+6 Other Languages
+7 Change History
+
+
+Location[]
+Nakul's locationAdditional context
+Profile[]
+Nakul is a researcher in Meropide that is reading a collection of papers from Caterpillar.
+
+Appearance[]
+Nakul wears the green robes of the Sumeru Akademiya.
+
+Quests and Events[]
+World QuestsScenes from Life in MeropideScenes from Life in Meropide: Chit-Chat
+Idle Quotes[]
+
+ The paper collection...
+Media:VO Nakul 01.ogg "These essays from the Fontaine Research Institute are pretty interesting..."
+
+Dialogue[]
+Dialogue Set #1[]
+Available prior to completing Scenes from Life in Meropide: Chit-Chat
+
+
+Nakul: Other fields also have some very interesting research findings...
+ What are you doing here?
+Nakul: In the short term, I'm reading the collection of papers gifted to me by the kid in green. He is quite intelligent and an interesting character, and I greatly admire him.
+ About the Fortress of Meropide...
+Nakul: There's a charm to the place which is hard to explain in only a few words. A mystique combined with a sense of danger, it makes it hard to leave.
+Nakul: I can't say what the best choice is, but I find the examples of those people determined to stay here a bit frightening.
+ Thanks for your time.
+Nakul: My pleasure. For me, being able to talk with the people here is always of benefit.
+
+Dialogue Set #2[]
+Available after completing Scenes from Life in Meropide: Chit-Chat
+
+
+Nakul: Forget about the difficult tasks, and focus on the ones there's still hope of completing...
+ What are you doing here?
+Nakul: For now, bargaining with Carranza. But he's too stubborn. I might already get all the materials I need to leave Fontaine before I manage to win him over.
+ About the Fortress of Meropide...
+Nakul: There's a charm to the place which is hard to explain in only a few words. A mystique combined with a sense of danger, it makes it hard to leave.
+Nakul: I can't say what the best choice is, but I find the examples of those people determined to stay here a bit frightening.
+ About a certain someone...
+Nakul: There are some tasks in this world that simply cannot be completed. Should you encounter one, the best thing to do is give up as soon as possible.
+ Thanks for your time.
+Nakul: My pleasure. For me, being able to talk with the people here is always of benefit.
+
+Other Languages[]
+
+LanguageOfficial NameEnglishNakulChinese(Simplified)纳库尔Nàkù'ěrChinese(Traditional)納庫爾Nàkù'ěrJapaneseナクルNakuruKorean나쿨NakulSpanishNakulFrenchNakulRussianНакулNakulThaiNakulVietnameseNakulGermanNakulIndonesianNakulPortugueseNakulTurkishNakulItalianNakul
+Change History[]
+Released in Version 4.1[Create New History]
+
+
+

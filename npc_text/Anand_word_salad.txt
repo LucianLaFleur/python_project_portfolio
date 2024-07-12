@@ -1,0 +1,108 @@
+
+
+
+
+
+Anand
+Ship Technician
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Sumeru
+
+
+Location
+Sumeru
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Anand is an open-world NPC located in Port Ormos, Sumeru.
+
+Contents
+
+1 Location
+2 Idle Quotes
+3 Thoughts
+4 Dialogue
+5 Other Languages
+6 Change History
+
+
+Location[]
+Anand's locationAdditional context
+Idle Quotes[]
+
+ Every ship...
+Media:VO Anand 01.ogg "Every ship deserves the best maintenance."
+
+Thoughts[]
+Anand's thoughts can be accessed by using Nahida's Elemental Skill, All Schemes to Know.
+
+
+Media:VO Anand All Schemes to Know 01.ogg Anand: (Instead of pinning my hopes on the Akademiya, I should rely on my own two hands.)
+
+Dialogue[]
+
+Anand: Taking care of every ship going through the port is a must.
+Condition missing
+ Is there anything of note nearby?
+(If there are Magical Crystal Ore Veins Anand knows)
+Anand: Speaking of which, one of my employers told me today that there are some good ores nearby, even including those rare Magical Crystal Ores! They asked if I wanted to mine some for repair materials.
+Anand: Too bad. I can repair ships, but I didn't learn about mining ores, It's somewhere in this location. Go give it a try if you're interested.
+(If there are no more Magical Crystal Ore Veins Anand knows)
+Anand: Doesn't seem like there's anything special...
+Anand: The ships are sailing like normal, and the ocean surface is calm. It's a good day.
+ Hello.
+Anand: Hello. Did you get here on a ship?
+Anand: If the vessel needs maintenance, please come see me.
+Anand: I take care of every ship going through the port.
+ Good job.
+Anand: It's part of what I do.
+Anand: The only concern I have is manpower shortage.
+Anand: The competition between caravans has caused many artisans like us to change line of work.
+Anand: But I won't leave, for my lover is a seafarer, so I understand how important ship safety is.
+Anand: I heard there's an agency called the Communications Office in Liyue that specializes in overseas shipping logistics.
+Anand: Don't you think that would solve the problem of cutthroat competition?
+ See you.
+Anand: Yeah, see you.
+
+Other Languages[]
+
+LanguageOfficial NameEnglishAnandChinese(Simplified)阿南德ĀnándéChinese(Traditional)阿南德ĀnándéJapaneseアーナンドAanandoKorean아난드AnandeuSpanishAnandFrenchAnandRussianАнандAnandThaiAnandVietnameseAnandGermanAnandIndonesianAnandPortugueseAnandTurkishAnandItalianAnand
+Change History[]
+Released in Version 3.0[Create New History]
+
+
+

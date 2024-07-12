@@ -1,0 +1,149 @@
+
+
+
+
+
+Eugenie
+Fresh Produce Vendor
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+								Voice Actors
+							
+
+
+
+
+
+Region
+Fontaine
+
+
+Location
+Fontaine
+
+
+Dialogue Reward
+ 4
+
+
+Genius Invokation TCG
+Stages
+
+
+
+
+English
+Lily Emil Lammers[1]
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Eugenie is an open-world NPC located in Court of Fontaine: Vasari Passage, Fontaine.
+Following a certain dialogue branch for the first time gives the player four Valberries.
+
+Contents
+
+1 Location
+2 Idle Quotes
+3 Dialogue
+4 Shop
+5 Other Languages
+6 Change History
+7 References
+
+
+Location[]
+Eugenie's locationAdditional context
+Idle Quotes[]
+
+ Sweeter than syrup!
+Media:VO Eugenie 01.ogg "Fresh fruits, sweeter than syrup!"
+
+Dialogue[]
+
+Eugenie: Would you like to see some fresh fruit?
+ Lemme have a look.
+Eugenie: Each one of my veggies and fruits is filled with the spirit of water, so feel free to take your pick!
+ Adventure Challenge
+(Opens Genius Invokation TCG match interface)
+(If the player loses the match)
+
+Eugenie: Fresh decks are rarer than Wolfhooks, so they're difficult, huh?
+(If the player wins the match)
+
+Eugenie: What the heck! You play like an Ajilenakh Nut... I have no idea how to deal with that!
+ And you are...
+Eugenie: Hello there! I'm the owner of this stall.
+Eugenie: My apologies for disturbing you with my hollering. Please understand — and don't mind me if a few extras make it into your bag, should you make a purchase. Hehe.
+ Really?
+Eugenie: Yes! This batch of fruits just arrived this morning from Mondstadt. They are really sweet! Feel free to try some! If it's delicious, please come again!
+(Obtain  Valberry ×4)
+ About the fruits and vegetables...
+Eugenie: We produce lots of Bulle Fruit locally, but with our advanced water routes, we can import many fruits from outside as well — they'll just cost a little extra.
+Eugenie: But don't you fret. I, Eugenie, will commit no fraudulent act. Every fruit you buy is one hundred percent delicious. Not a single bad apple amongst them!
+ See you.
+Eugenie: come back again if you've the time. I'll have our best waiting for you when you do.
+
+Shop[]
+ItemCostStockTotalCostRefreshes
+ Bulle Fruit240153,600Every 3 Days
+ Marcotte240153,600Every 3 Days
+ Sunsettia170101,700Every 3 Days
+ Zaytun Peach240102,400Every 3 Days
+ Ajilenakh Nut240102,400Every 3 Days
+ Valberry1,00055,000Every 3 Days
+ Rainbow Rose1,00055,000Every 3 Days
+ Tomato12010012,000Daily
+ Cabbage12010012,000Daily
+Total cost for all items40,300 
+Other Languages[]
+
+LanguageOfficial NameEnglishEugenieChinese(Simplified)欧仁妮ŌurénnīChinese(Traditional)歐仁妮ŌurénníJapaneseユージーンYuujiinKorean외젠OejenSpanishEugénieFrenchEugénieRussianЭжениEzheniThaiEugenieVietnameseEugenieGermanEugénieIndonesianEugeniePortugueseEugenieTurkishEugenieItalianEugénie
+Change History[]
+Released in Version 4.0[Edit History]Version 4.3
+Added a Genius Invokation TCG Adventure Challenge for Eugenie.
+
+Version 4.1
+
+Added Rainbow Rose and Ajilenakh Nut to stock.
+
+Version 4.0
+
+Eugenie was released.
+References[]
+
+↑ Twitter: EN VA Self Announcement (Archived)
+
+
+
+
+

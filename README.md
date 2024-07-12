@@ -34,6 +34,15 @@ NOTE: The dictionary is ordered from useless to powerful, but not broken. A Gian
 
 Devlog:
 
+11 July 
+# 11 July log:
+Spider ran across 2900+ npc files, text gathered successfully!
+Checking on files, deleting a few that have no meaningful content text... there's no consistent way to check for the "usefulness" systematically, since it's subjective. It's all just a reference source for powershell anyway. 
+    (not yet doing the powershell stuff since there's more to scrape with the "food" descriptions)
+Made food_name_grabber.py to get all 300+ food names, removing duplicates, and output to a textfile
+    targeting for food names irregular, multiple failures eats up time... but I persist and now for the correct output file.
+    UTF-8 is needed for the names in links, so saving to a text file in UTF-8 also helps with encoding characters like dashes and apostrophies in the url names with their % calls.
+
 10 July: 
 <!-- Remember: only single-requests are done to a given page at a given time. Limit all batch sizes to not overwhelm the wiki site! -->
     For English Genshin scraper:

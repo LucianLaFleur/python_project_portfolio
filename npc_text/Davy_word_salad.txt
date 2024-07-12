@@ -1,0 +1,139 @@
+
+
+
+
+
+Davy
+Bard
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+								Family
+							
+
+
+
+
+
+Region
+Mondstadt
+
+
+Location
+Mondstadt
+
+
+
+
+Spouse
+Myweiss (Ex-wife)
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Davy is an open-world NPC in Brightcrown Canyon, Mondstadt. He can be found outside the local ruins, overlooking the Cider Lake.
+Davy is Myweiss' ex-husband, and was formerly known as "Mr. Lovebard" to her "Mrs. Lovebard." Since their falling out, however, both have grown disillusioned with love.
+
+Contents
+
+1 Location
+2 Profile
+
+2.1 Appearance
+
+
+3 Idle Quotes
+4 Dialogue
+5 Other Languages
+6 Change History
+
+
+Location[]
+Davy's locationAdditional context
+Profile[]
+(To be added.)
+
+Appearance[]
+Davy wears the standard male bard outfit. This consists of a white-and-green striped shirt underneath a green jacket, with green pants, white boots, and a green cravat.
+
+Idle Quotes[]
+
+ Out in the wild...
+Media:VO Davy 01.ogg "Ah... Everything is so fresh and clear out in the wild!"
+
+Dialogue[]
+
+Davy: Ah, everything is so fresh and clear out in the wild. I'm so much more inspired here...
+Davy: My work will be far greater than the nonsense that woman comes out with!
+ Is there anything of note nearby?
+(If there are Magical Crystal Ore Veins Davy knows; Version 1)
+
+Davy: Anything of note? Hmm...
+Davy: While I was wandering around looking for inspiration, I noticed something shiny out of the corner of my eye. To me, it looked like Crystal Ore...
+Davy: But a rare type — at least, I haven't seen any of that quality before. The rough location was...
+Davy: ...There. I've marked it on your map. Perhaps you might have some use for it?
+(Rich Ore Reserves nearby marked on the map)
+(If there are Magical Crystal Ore Veins Davy knows; Version 2)
+
+Davy: Anything of note? Hmm...
+Davy: While I was wandering around looking for inspiration, I noticed something shiny out of the corner of my eye. Some sort of Crystal Ore, perhaps?
+Davy: The rough location was...
+Davy: ...There. I've marked it on your map. Perhaps you might have some use for it?
+(Rich Ore Reserves nearby marked on the map)
+(If there are no more Magical Crystal Ore Veins Davy knows)
+
+Davy: Hmm, nothing especially noteworthy for a traveler, I'd say. Not recently, anyway. ... Except for my singing, of course.
+ Which woman?
+Davy: You'll probably run into her if you go to Springvale... She's my ex-wife, Myweiss. A bard, just like me.
+Davy: I'm convinced the only reason I ever looked her way is because I bashed my head when Stormterror attacked!
+Davy: Can you believe they used to call us Mr. and Mrs. Lovebard? It's so nauseating now that I think back on it.
+Davy: But the worst thing of all is her original compositions...
+ Tell me about her work.
+Davy: Well. After the divorce, she started using her compositions as a way of stirring up controversy... Pfft. I, for one, do not consider anything she writes to be true poetry.
+Davy: She will do whatever it takes to smear my name... and that's when she was the irresponsible one who never contributed to the home!
+Davy: For example, we had a clear agreement that we would take it in turns to do the cooking and the housework. But every time I got back from a performance, she was never there. So I ended up cooking all the meals and doing all the housework myself!
+Davy: At least I understand now — love is a big old hoax!
+ Goodbye.
+Davy: Goodbye! Come and listen to my new ballad when it's ready — it's called the Manacles of Matrimony.
+
+Other Languages[]
+
+LanguageOfficial NameEnglishDavyChinese(Simplified)戴维DàiwéiChinese(Traditional)戴維DàiwéiJapaneseデービーDeebiiKorean데이비De'ibiSpanishDavisFrenchDavyRussianДэвиDeviThaiDavyVietnameseDavyGermanDavyIndonesianDavyPortugueseDavyTurkishDavyItalianDavy
+Change History[]
+Released in Version 1.0[Edit History]Version 1.1
+Davy can now inform the player about Mining Outcrops.
+
+Version 1.0
+
+Davy was released.
+
+
+

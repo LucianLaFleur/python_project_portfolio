@@ -1,0 +1,112 @@
+
+
+
+
+
+Trow
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Fontaine
+
+
+Location
+Fontaine
+
+
+Affil­i­a­tion
+Marechaussee Phantom
+
+
+Dialogue Reward
+ 4
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCsMelusine 
+
+
+
+
+Trow is an open-world NPC located in Fontaine. She can be found inside the Opera Epiclese. 
+Following a certain dialogue branch for the first time gives the player four Romaritime Flowers.
+
+Contents
+
+1 Location
+2 Idle Quotes
+3 Dialogue
+4 Trivia
+
+4.1 Etymology
+
+
+5 Other Languages
+6 Change History
+7 References
+
+
+Location[]
+Trow's locationAdditional Context
+Idle Quotes[]
+
+ ...
+
+Dialogue[]
+
+Trow: Hello there. There are no ongoing performances or trials at present, so there's no need to stay here for too long.
+ Won't you be lonely here all by yourself?
+Trow: Hmm? Not at all.
+Trow: Sometimes, many people come here, and the place is incredibly crowded. At other times, it is just like it is now, empty as can be.
+Trow: Reminds you of the tides lapping against the shore, doesn't it?
+Trow: And with these tides for company, I'm not lonesome at all.
+ That's really amazing of Melusine.
+Trow: Thank you for the compliment, but you didn't just say that for me to let my guard down, did you?
+Trow: Hmm... Judging from your attitude, you're not teasing me.
+Trow: Then I'll let you in on a little secret. I actually prefer when there is no tide.
+Trow: I used to live by the sea. Back then, I always dove into the sea to collect Romaritime Flowers when the tide was calm.
+(Obtain  Romaritime Flower ×4)
+ I see.
+Trow: Sure. The exit's over there, by the way.
+
+Trivia[]
+Etymology[]
+A trow is a mischievous fairy in the folklore of the Orkney and Shetlands islands in Scotland.
+Trow is believed to be derived from the word troll.
+Other Languages[]
+
+LanguageOfficial NameEnglishTrowChinese(Simplified)瑟萝SèluóChinese(Traditional)瑟蘿SèluóJapaneseトロウTurouKorean트로TeuroSpanishTrowFrenchTrowRussianТроуTrouThaiTrowVietnameseTrowGermanTrowIndonesianTrowPortugueseTrowTurkishTrowItalianTrow
+Change History[]
+Released in Version 4.0[Create New History]
+References[]
+
+
+
+

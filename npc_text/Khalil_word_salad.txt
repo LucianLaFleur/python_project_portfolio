@@ -1,0 +1,159 @@
+
+
+
+
+
+Khalil
+Village Keeper
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+								Family
+							
+
+
+
+
+
+Region
+Sumeru
+
+
+Location
+Sumeru
+
+
+Affil­i­a­tion
+Sumeru Akademiya
+
+
+
+
+Relative
+Isak (adopted grandson)
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Khalil is an open-world NPC located in Aaru Village, Sumeru. He can be found alongside Isak after the player has completed Chapter III Act IV: King Deshret and the Three Magi.
+
+Contents
+
+1 Location
+2 Profile
+
+2.1 Appearance
+
+
+3 Quests and Events
+
+3.1 Archon Quests
+
+
+4 Idle Quotes
+5 Thoughts
+6 Dialogue
+
+6.1 Dialogue Set #1
+6.2 Dialogue Set #2
+
+
+7 Other Languages
+8 Change History
+
+
+Location[]
+Khalil's locationAdditional context
+Profile[]
+Khalil was originally a scholar in the Sumeru Akademiya until he attempted to utilize a Divine Knowledge Capsule, as it contained tainted Irminsul from Greater Lord Rukkhadevata's consciousness. As the scholars of the Akademiya could not figure out what was wrong with those who went mad, they were all exiled to Aaru Village to be taken care of there by its people, as there appeared to be a mysterious effect that calmed them down somewhat. 
+Unaware of it at the time, Isak ended up seeing Khalil as his grandfather as he reminded the boy of him despite his ramblings. Upon being offered the chance to make a god, the sages of the Akademiya accepted Il Dottore's offer and began kidnapping the crazed scholars from the village to harvest the divine knowledge in their minds, which included Khalil. They hired Rahman and his group to do so, but the Traveler, Dehya, Cyno and Alhaitham were able to track them down. Dehya then offered a duel with Rahman to free him, but after his men tried to dishonor a new agreement, they were caught by surprise from an earthquake, during which Khalil protected the group as they sunk into the ground.
+Once the sages' plot was foiled and the corrupted knowledge removed by Lesser Lord Kusanali, Khalil returned his normal self. Setaria offered him a position back in the Akademiya, but he declined, as he could not abandon Isak and the village that had helped him.
+
+Appearance[]
+(To be added.)
+
+Quests and Events[]
+Archon QuestsChapter IIIAct IV: King Deshret and the Three MagiSecret of the Scorching DesertAct V: Akasha Pulses, the Kalpa Flame RisesWhere the Boat of Consciousness Lies
+Idle Quotes[]
+Before completing Where the Boat of Consciousness Lies
+
+ The plants will wither...
+Media:VO Khalil 01.ogg "The plants will soon wither."
+
+After completing Where the Boat of Consciousness Lies
+
+ Not going back...
+Media:VO Khalil 02.ogg "I'm not going back there at my age."
+
+Thoughts[]
+Khalil's thoughts can be accessed by using Nahida's Elemental Skill, All Schemes to Know.
+
+
+(Before completing Where the Boat of Consciousness Lies)
+Media:VO Khalil All Schemes to Know 01.ogg Khalil: (The plants will soon wither.)
+
+
+(After completing Where the Boat of Consciousness Lies)
+Media:VO Khalil All Schemes to Know 02.ogg Khalil: (So I look like Isak's grandfather, maybe this was meant to be.)
+
+Dialogue[]
+Dialogue Set #1[]
+Available before completing Where the Boat of Consciousness Lies.
+
+
+Khalil: The plants... will soon wither...
+Khalil: But they will not save... They will destroy!
+Khalil: Divine knowledge... knowledge of the gods... save...
+ (This conversation is not going well. It might be best to depart.)
+Khalil: ...
+
+Dialogue Set #2[]
+Available after completing Where the Boat of Consciousness Lies.
+
+
+Khalil: Hello there. Welcome back to Aaru Village!
+ You know me?
+Khalil: Hahaha, Isak has mentioned you more than once, so I recognised you right away.
+Khalil: Honestly, I'm ashamed that I was too much of a mess to thank you earlier. It's all thanks to you, really, that I'm able to continue living here with him.
+Khalil: There was this lady named Setaria who came over to ask me if I wanted to return to the Akademiya, but in the end, I decided to stay here.
+Khalil: For one thing, I can't just leave Isak to fend for himself here, and on the other hand, Aaru Village has helped me a lot. And for the other, leaving just like this doesn't sit right with me.
+Khalil: I may be old, but I was once a researcher too. I should be able to contribute to the village's development somehow.
+ Thank you.
+Khalil: Take care!
+
+Other Languages[]
+
+LanguageOfficial NameEnglishKhalilChinese(Simplified)卡里尔Kǎlǐ'ěrChinese(Traditional)卡里爾Kǎlǐ'ěrJapaneseカリルKariruKorean카릴KarilSpanishKalilFrenchKhalilRussianХалилKhalilThaiKhalilVietnameseKhalilGermanKhalilIndonesianKhalilPortugueseKhalilTurkishKhalilItalianKhalil
+Change History[]
+Released in Version 3.1[Create New History]
+
+
+

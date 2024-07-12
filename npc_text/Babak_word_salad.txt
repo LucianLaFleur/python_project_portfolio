@@ -1,0 +1,114 @@
+
+
+
+
+
+Babak
+Shop Owner
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Sumeru
+
+
+Location
+Sumeru
+
+
+Affil­i­a­tion
+Sumeru Akademiya
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Babak is a shop NPC found in Port Ormos, Sumeru that sells Local Specialties.
+The stock refreshes every 3 days.
+
+Contents
+
+1 Shop
+2 Location
+3 Idle Quotes
+4 Thoughts
+5 Dialogue
+6 Other Languages
+7 Change History
+
+
+Shop[]
+ItemCostStockTotalCostRefreshes
+ Philanemo Mushroom1,00055,000Every 3 Days
+ Dandelion Seed1,00055,000Every 3 Days
+ Violetgrass1,00055,000Every 3 Days
+ Qingxin1,00055,000Every 3 Days
+ Naku Weed1,00055,000Every 3 Days
+ Sango Pearl1,00055,000Every 3 Days
+Total cost for all items30,000 
+Inazuman local specialties will only be sold after completing Raiden Shogun's Story Quest Imperatrix Umbrosa Chapter: Act II - Transient Dreams.
+
+Location[]
+Babak's locationAdditional context
+Idle Quotes[]
+
+ Imported goods...
+Media:VO Babak 01.ogg "Looking to buy some imported goods? You've come to the right place."
+
+Thoughts[]
+Babak's thoughts can be accessed by using Nahida's Elemental Skill, All Schemes to Know.
+
+
+Media:VO Babak All Schemes to Know 01.ogg Babak: (Those who are greedy with small things will get into big trouble one day.)
+
+Dialogue[]
+
+Babak: Welcome to my shop.
+ Buy something.
+Babak: These are all genuine imports. Take your time to choose from our selection.
+(Opens the Shop menu)
+ This place is...
+Babak: This is the largest imported goods shop in Port Ormos. It is under the direct management of the Akademiya.
+Babak: I am a researcher, and the shop manager.
+Babak: There are a lot of tax exemptions due to official guarantees. So please be assured that these foreign goods are reasonably priced.
+Babak: It also discourages smuggling in some way.
+ See you.
+Babak: Take care.
+
+Other Languages[]
+
+LanguageOfficial NameEnglishBabakChinese(Simplified)巴巴克BābākèChinese(Traditional)巴巴克BābākèJapaneseバーバクBaabakuKorean바바크BabakeuSpanishBabakFrenchBabakRussianБабакBabakThaiBabakVietnameseBabakGermanBabakIndonesianBabakPortugueseBabakTurkishBabakItalianBabak
+Change History[]
+Released in Version 3.0[Create New History]
+
+
+

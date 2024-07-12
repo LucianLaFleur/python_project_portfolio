@@ -1,0 +1,109 @@
+
+
+
+
+
+Nasir
+Eremite Mercenary
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Sumeru
+
+
+Location
+Sumeru
+
+
+Affil­i­a­tion
+The Eremites
+
+
+Dialogue Reward
+ 3
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Nasir is an open-world NPC located in Caravan Ribat, Sumeru.
+Following a certain dialogue branch for the first time gives the player three Tandoori Roast Chicken.
+
+Contents
+
+1 Location
+2 Idle Quotes
+3 Thoughts
+4 Dialogue
+5 Other Languages
+6 Change History
+
+
+Location[]
+Nasir's LocationAdditional context
+Idle Quotes[]
+
+ Not here...
+Media:VO Nasir 01.ogg "Ugh, what? So he's not at the hotel today?"
+
+Thoughts[]
+Nasir's thoughts can be accessed by using Nahida's Elemental Skill, All Schemes to Know.
+
+
+Media:VO Nasir All Schemes to Know 01.ogg Nasir: (Ahh... I wish someone would play a game of Genius Invokation TCG with me!)
+
+Dialogue[]
+
+Nasir: You're here! Oh, you're not him...
+ Are you waiting for someone?
+Nasir: Oh, yes. I am waiting for... um...
+Nasir: I'm waiting for the boss lady's nephew. He can't really hold his alcohol, but he's pretty good at cards.
+Nasir: I brought some nice booze to share with him, but he isn't in. What a pity.
+Nasir: I was planning to have a look at... at that funky deck of his.
+Nasir: *sigh* Why do people have to work? There's no time to eat, drink, and play with friends when you're working.
+ Maybe he's tied up.
+Nasir: Probably. He does sometimes say "I'm not an idler, buddy." Then he would deal with the affairs of the hotel business.
+Nasir: *sigh* Drinking alone is really not fun. Not to mention it's also a waste of the delicious grilled meat. Why don't you take it while it's still fresh?
+Nasir: Find a friend to share this with. Don't be like me...
+(Obtain  Tandoori Roast Chicken ×3)
+ Sorry if I bothered.
+Nasir: Nah, it's fine. Guess I'll wait a little longer...
+
+Other Languages[]
+
+LanguageOfficial NameEnglishNasirChinese(Simplified)纳西尔Nàxī'ěrChinese(Traditional)納西爾Nàxī'ěrJapaneseナシルNashiruKorean나시르NasireuSpanishNasirFrenchNasirRussianНасирNasirThaiNasirVietnameseNasirGermanNasirIndonesianNasirPortugueseNasirTurkishNasirItalianNasir
+Change History[]
+Released in Version 3.0[Create New History]
+
+
+

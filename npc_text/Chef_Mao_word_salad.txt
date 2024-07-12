@@ -1,0 +1,309 @@
+
+
+
+
+
+Chef Mao
+Boss, Wanmin Restaurant
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+								Family
+							
+
+
+
+								Voice Actors
+							
+
+
+
+
+
+Region
+Liyue
+
+
+Location
+Liyue
+
+
+Affil­i­a­tion
+Wanmin Restaurant
+
+
+Dialogue Reward
+ 4
+
+
+Genius Invokation TCG
+Stages
+
+
+
+
+Child
+Xiangling
+
+
+
+
+English
+Thomas Bello Rivas[1]
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Chef Mao (Chinese: 卯师傅 Mǎo-shīfù) is a shop NPC in Liyue Harbor, Liyue. He is Xiangling's father and a renowned chef who runs the Wanmin Restaurant, indicated by the  icon on the map. The shop is open at all times of the day and sells food, recipes, and ingredients. The frequency of the stock refresh varies.
+Following a certain dialogue branch for the first time gives the player four Black-Back Perch Stews.
+
+Contents
+
+1 Shop
+
+1.1 Food and Ingredients
+1.2 Recipes
+
+
+2 Location
+3 Profile
+
+3.1 Appearance
+
+
+4 Quests and Events
+
+4.1 Story Quests
+
+4.1.1 Hangout Events
+
+
+4.2 World Quests
+4.3 Commissions
+4.4 Events
+4.5 Web Events
+
+
+5 Idle Quotes
+6 Dialogue
+7 Event Dialogue
+
+7.1 Moonlight Merriment
+
+
+8 Character Mentions
+
+8.1 Character Stories
+8.2 Character Voice-Overs
+8.3 Mails
+
+
+9 Trivia
+10 Gallery
+
+10.1 Cameos
+10.2 Genius Invokation TCG
+10.3 Event Artwork
+
+10.3.1 2020
+
+
+
+
+11 Other Languages
+12 Change History
+13 References
+
+
+Shop[]
+Food and Ingredients[]
+ItemCostStockTotalCostRefreshes
+ Teyvat Fried Egg200(180)51,000(900)Daily
+ Fisherman's Toast1,025(920)55,125(4,600)Daily
+ Chicken-Mushroom Skewer450(405)52,250(2,025)Daily
+ Flour150(135)101,500(1,350)Weekly
+ Sugar450(405)104,500(4,050)Weekly
+ Sausage840(755)108,400(7,550)Weekly
+ Ham630(565)106,300(5,650)Weekly
+ Fish240(215)102,400(2,150)Daily
+ Crab240(215)102,400(2,150)Daily
+ Bamboo Shoot240(215)102,400(2,150)Every 3 Days
+ Lotus Head300(270)103,000(2,700)Every 3 Days
+ Matsutake300(270)103,000(2,700)Every 3 Days
+ Mushroom180(160)101,800(1,600)Every 3 Days
+ Carrot260(230)102,600(2,300)Every 3 Days
+ Radish350(315)103,500(3,150)Every 3 Days
+ Jueyun Chili1,000(900)55,000(4,500)Every 3 Days
+Total cost for all items55,175(49,525) 
+Recipes[]
+ItemCostStockTotalCostRequiredAdventure Rank
+ Recipe: Grilled Tiger Fish1,250(1,125)11,250(1,125)10
+ Recipe: Honey Char Siu1,250(1,125)11,250(1,125)10
+ Recipe: Rice Buns1,250(1,125)11,250(1,125)10
+ Recipe: Jueyun Chili Chicken2,500(2,250)12,500(2,250)15
+ Recipe: Crystal Shrimp2,500(2,250)12,500(2,250)20
+ Recipe: Mint Salad2,500(2,250)12,500(2,250)1
+ Recipe: Crab Roe Tofu2,500(2,250)12,500(2,250)1
+ Recipe: Black-Back Perch Stew5,000(4,500)15,000(4,500)30
+ Recipe: Squirrel Fish5,000(4,500)15,000(4,500)35
+ Recipe: Come and Get It5,000(4,500)15,000(4,500)40
+ Recipe: Triple-Layered Consommé5,000(4,500)15,000(4,500)25
+ Recipe: Universal Peace5,000(4,500)15,000(4,500)30
+ Recipe: Minty Meat Rolls5,000(4,500)15,000(4,500)1
+ Recipe: Dragon Beard Noodles5,000(4,500)15,000(4,500)1
+Total cost for all items48,750(43,875) 
+Brackets indicate cost after reputation discount.
+
+Location[]
+Chef Mao's locationAdditional context
+Profile[]
+(To be added.)
+
+Appearance[]
+(To be added.)
+
+Quests and Events[]
+Story QuestsGrus Serena Chapter (Xianyun)Act I: A Thousand Moonlit MilesLeisurely ChatterA Search for SecretsMonoceros Caeli Chapter (Tartaglia)Act I: Mighty Cyclops' Adventure!Teucer's Terrific TourHangout EventsNoelleAct II: Knightly Exam PrepJourney to LiyueWorld QuestsHereafterHereafter: The Trail of PervasesCommissionsThe Gourmet Supremos: Breakthrough ThinkingThe Little Pirate Goes Out to SeaEventsWhile It's WarmLantern Rite TalesKeeping Wanmin's Patrons FedMoonlight MerrimentPart I: One for the Foodies, Two for the ShowEight Locales Over Mountains and SeasEight Locales Over Mountains and Seas: Two Cities' RecommendationsWeb EventsStone Harbor Treasure Journal
+Idle Quotes[]
+
+ Try something new...
+Media:VO Chef Mao 01.ogg "Try something new at the Wanmin Restaurant!"
+
+During Moonlight Merriment
+
+ Culinary skills are better...
+Media:VO Chef Mao Moonlight Merriment 01.ogg "As expected of my daughter, her culinary skills are getting better and better still."
+
+Dialogue[]
+
+Chef Mao: Here for the Wanmin Restaurant experience? Hi, I'm Chef Mao. Everyone in Chihu Rock will have heard of me.
+ Can I get food to-go?
+Chef Mao: Sure! What do you feel like having?
+(Opens the Wanmin Restaurant menu)
+ Adventure Challenge
+(Opens Genius Invokation TCG match interface)
+(If the player loses the match)
+
+Chef Mao: No problem. Next time. Few things work out the way we want on the first try.
+(If the player wins the match)
+
+Chef Mao: Eh, is it really that simple? On second thought...
+ Tell me more about the Wanmin Restaurant.
+Chef Mao: Well, I'm the chef. I may not be quite the culinary legend that my daughter is, but you can be sure the Wanmin Restaurant is a cut above all those time-honored brands you see around!
+ Your daughter?
+Chef Mao: That's right — Xiangling! My dear daughter, and my best apprentice ever.
+Chef Mao: I only taught Xiangling how to cook so that she could inherit the Wanmin Restaurant from me one day. I had no idea she'd turn out to be such a pro. Her abilities far exceed my own.
+Chef Mao: But she's more than just an excellent chef. She has a real gift for innovation — she's constantly creating all these wonderful new dishes. That really sets her apart from what the time-honored brands do. And it makes her dishes all the more special for people who are used to traditional cuisine.
+Chef Mao: I started to worry that the restaurant might be too constricting for her. So I sent her off for a while to do some exploring and perfect her art.
+Chef Mao: If anyone is going to revolutionize Liyue cuisine in the future, it'll be her. No doubt about it!
+ How's business going?
+Chef Mao: Oh, come on. How could business here at Wanmin Restaurant's be slow?
+Chef Mao: One taste of our handiwork will turn most people into regulars.
+Chef Mao: ...Speaking of regulars, we've had a young lady with a strange headdress come in pretty often lately. The vegetarian dishes on our menu seem quite to her taste.
+Chef Mao: But I've noticed that she only ever orders the vegetarian dishes, and in very small amounts, too.
+Chef Mao: I gave her a larger portion out of sympathy, but she seemed quite reluctant to accept it. Is she trying to maintain her physique? Young ladies nowadays really are serious about such things...
+ Which type of cuisine do you do?
+Chef Mao: Type of cuisine? Oh, we don't bother ourselves with that kind of thing here.
+Chef Mao: Li style and Yue style are all Zhongyuan Chop Suey to us.
+Chef Mao: We just concern ourselves with making the most delicious food imaginable using everyday ingredients, universally loved flavors, and truly excellent cooking.
+Chef Mao: Food exists to feed the hungry. It's that simple. These people who go putting systems and frameworks around everything are just amateurs that are overcompensating... They don't understand what cooking is really all about.
+ Any recommendations?
+Chef Mao: Black-Back Perch Stew is our signature dish. Sure, you might find it in other restaurants too, but I guarantee you it won't taste anywhere near as good as ours.
+Chef Mao: A generous helping of fish, cooked with a special blend of chili oil made from Jueyun Chili and Violetgrass. Beautifully tender, bursting with flavor. I've never had a single complaint from anyone who's eaten it!
+Chef Mao: ...It's a little spicy for some people, though, so not all would eat it in the first place.
+Chef Mao: Why not have a taste? If you like it, you can always buy some more.
+(Obtain  Black-Back Perch Stew ×4)
+ Goodbye.
+Chef Mao: Take care now. Do visit again when you're feeling hungry!
+
+Event Dialogue[]
+Moonlight Merriment[]
+
+(After completing Part II: Three to Get Ready, and Here We Go)
+Chef Mao: Here for the Wanmin Restaurant experience? Hi, I'm Chef Mao. Everyone in Chihu Rock will have heard of me.
+Chef Mao: My name might not be the most famous around, but my daughter Xiangling is the champion of this year's Masterful Chefs. Now hers is a name I'm sure everyone's heard of!
+Chef Mao: Haha! That's my dear girl alright, our very own culinary genius. Her future is very bright indeed!
+
+Character Mentions[]
+Character StoriesCharacterStoriesKuki ShinobuCharacter Story 2XianglingCharacter Story 1Character Story 2Character Story 3XianyunCharacter Story 1YaoyaoCharacter Story 5Character Voice-OversCharacterVoice-OversXianglingFeelings About Ascension: Conclusion Media:VO_Xiangling Feelings About Ascension - 04.ogg Media:VO ZH_Xiangling Feelings About Ascension - 04.ogg Media:VO JA_Xiangling Feelings About Ascension - 04.ogg Media:VO KO_Xiangling Feelings About Ascension - 04.ogg As my father always says: "To make a five-star dish, you need ten-star passion!" I know, I know! To be able to come this far is definitely thanks to your ten-star passion when it comes to practicing with me, so I'll be sure to pay you back with two— no, three times the passion!MailsSenderMailsXianglingHave a Bite! (Birthday Mail)What I Want to Do on My Birthday! (Birthday Mail)
+Trivia[]
+His Chinese idle line has him say "Try Wanmin Restaurant's signature dish..."
+He is mentioned in Xiangling's character stories, and replies to a response to his ad on the Chihu Rock Bulletin Board.
+Gallery[]
+Genshin Impact Preview Manga – Chap 4
+Cameos[]
+Collected Miscellany - "Hu Tao- Fragrance in Thaw" - Genshin ImpactGourmet Tour- "Liyue's Cuisine Collection" Issue No. 2 - Genshin Impact-2Gourmet Tour- "Liyue's Cuisine Collection" Issue No. 7 - Genshin Impact-2
+Genius Invokation TCG[]
+Chef Mao
+Event Artwork[]
+2020[]
+Stone Harbor Treasure Journal/Gallery
+Other Languages[]
+
+LanguageOfficial NameEnglishChef MaoChinese(Simplified)卯师傅Mǎo-shīfùChinese(Traditional)卯師傅Mǎo-shīfùJapanese卯師匠U-shishou[2]Korean묘묘卯 사부사부師傅Myo SabuSpanishChef MaoFrenchChef MaoRussianШеф-повар МаоShef-povar MaoThaiเชฟ MaoChef MaoVietnameseThầy MaoGermanKoch MaoIndonesianKoki MaoPortugueseChef MaoTurkishŞef MaoItalianChef Mao
+Change History[]
+Released in Version 1.0[Edit History]Version 4.4
+New Recipe: Honey Char Siu
+
+Version 3.3
+
+Added a Genius Invokation TCG Adventure Challenge for Chef Mao.
+
+Version 1.6
+
+New Recipe: Rice Buns
+
+Version 1.5
+
+New Recipe: Crab Roe Tofu
+
+Version 1.4
+
+New Recipes: Mint Salad, Minty Meat Rolls
+
+Version 1.2
+
+New Cooking Ingredients: Fish, Crab, Bamboo Shoot, Lotus Head, Matsutake, Mushroom, Carrot, Radish, Jueyun Chili
+New Recipe: Universal Peace
+
+Version 1.0
+
+Chef Mao and the Wanmin Restaurant shop were released.
+References[]
+
+↑ Twitter: EN VA Self Announcement (Profile Bio)
+
+↑ Story Quest, Tartaglia, Monoceros Caeli Chapter: Act I - Mighty Cyclops' Adventure!, Part 2: Teucer's Terrific Tour (Japanese Voice-Over)
+
+
+
+
+

@@ -1,0 +1,141 @@
+
+
+
+
+
+Aragita
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Sumeru
+
+
+Location
+Sumeru
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCsAranara 
+
+
+
+
+Aragita is an open-world NPC located in Sumeru. It is part of the Aranara.
+
+Contents
+
+1 Location
+2 Dialogue
+
+2.1 Ardravi Valley
+2.2 Ashavan Realm (South-East)
+2.3 Vissudha Field
+
+
+3 Other Languages
+4 Change History
+
+
+Location[]
+Aragita's location (Ardravi Valley)Additional context (Ardravi Valley)NPC Location Aragita Ashavan Realm (South-East).pngAragita's location (Ashavan Realm (South-East))NPC Location Aragita Context Ashavan Realm (South-East).pngAdditional context (Ashavan Realm (South-East))Aragita's location (Vissudha Field)Additional context (Vissudha Field)
+Dialogue[]
+Ardravi Valley[]
+
+(Talk to Aragita)
+Aragita: It's Aranara's friend! Good Nara, want to play with Aragita?
+ Sure. What are we playing?
+Aragita: Under the wooden chests there are not only lizards but also other things. Nara shall remember the position of the pile of leaves.
+ That's trivial. Let's get started.
+(Starts countdown)
+ The timing isn't right.
+Aragita: Aragita won't rush. Will wait for the "right timing."
+(If the player destroys a pile of leaves during the countdown)
+Aragita: Wait! No, no, no! Don't you know how to play this game, Nara? ... Did Aragita not explain properly? Ugh, you've ruined Aragita's preparations...
+Aragita: Bad Nara! Aragita will remember this!
+(After the countdown ends)
+Aragita: A huge pile of leaves. Does Nara know where it is?
+(If the player destroys the wrong crate)
+Aragita: Nara got it wrong, but it doesn't matter. There is a lot of "next time." Any time playing with Nara is "the right time" for Aragita.
+(If the player successfully completes the challenge)
+Aragita: Hehe, Aragita's happy. This is for Nara. Come back and hang out with Aragita in the future!
+(A Common Chest appears)
+(Talk to Aragita after completing the challenge)
+Aragita: Grass and trees remember, so does Nara. Nara is Aranara's friend, and the friend of grass and trees, too.
+
+Ashavan Realm (South-East)[]
+
+(Talk to Aragita)
+Aragita: It's been a long wait for Aragita and the Golden Nara is finally here. Don't let this chance slip away. Let's play?
+ Sure. What are we playing?
+Aragita: Aragita hid all kinds of paintings under the wooden chests to see if Nara has the ability of "never forget." Remember the painting with the most strokes?
+ Okay, let's do this.
+(Starts countdown)
+ Not the right timing.
+Aragita: Aragita won't rush. Will wait for the "right timing."
+(After the countdown ends)
+Aragita: The one with the most strokes! Does Nara know where it is?
+(If the player destroys the wrong crate)
+Aragita: Nara got it wrong, but it doesn't matter. There is a lot of "next time." Any time playing with Nara is "the right time" for Aragita.
+(If the player successfully completes the challenge)
+Aragita: Hehe, Aragita's happy. This is for Nara. Come back and hang out with Aragita in the future!
+(A Common Chest appears)
+(Talk to Aragita after completing the challenge)
+Aragita: Hmm... "Treasure Chest" seems nice? Should we borrow some "Treasure Chests" from its owner...
+
+Vissudha Field[]
+
+(Talk to Aragita)
+Aragita: Hehe, the wind in the forest told Aragita Nara's coming to play with Aragita.
+ Sure. What are we playing?
+Aragita: A wooden chest can store a lot of things, like... shiny of various elements! Aragita remembers where the Dendro shiny is. Can Nara also remember?
+ No problem. Let's do this.
+(Starts countdown)
+ Not the right timing.
+Aragita: Aragita won't rush. Will wait for the "right timing."
+(After the countdown ends)
+Aragita: Does Nara know where the Dendro Shiny is hidden?
+(If the player collect elemental particles before the wooden crate appear)
+Aragita: Ah! Greedy Nara! Don't think you can forget about the shinies just because you ate them! You may have eaten them, but Aragita remembers!
+(If the player destroys the wrong crate)
+Aragita: Nara got it wrong, but it doesn't matter. There is a lot of "next time." Any time playing with Nara is "the right time" for Aragita.
+(If the player successfully completes the challenge)
+Aragita: Hehe, Aragita's happy. This is for Nara. Come back and hang out with Aragita in the future!
+(A Common Chest appears)
+(Talk to Aragita after completing the challenge)
+Aragita: A crunchy wooden chest is all we need.
+
+Other Languages[]
+
+LanguageOfficial NameEnglishAragitaChinese(Simplified)兰耆都LánqídūChinese(Traditional)蘭耆都LánqídūJapaneseアランハドゥAranhaduKorean아란기타Aran'gitaSpanishAragitaFrenchAragitaRussianАрагитаAragitaThaiAragitaVietnameseAragitaGermanAragitaIndonesianAragitaPortugueseAragitaTurkishAragitaItalianAragita
+Change History[]
+Released in Version 3.0[Create New History]
+
+
+

@@ -1,0 +1,153 @@
+
+
+
+
+
+Licai
+Waitress, Liuli Pavilion
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Liyue
+
+
+Location
+Liyue
+
+
+Affil­i­a­tion
+Liuli Pavilion
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Licai is an open-world NPC in Liyue Harbor. A waitress serving at Liuli Pavilion, she can be found standing outside the establishment. She also sells Liuli Pavilion's specialties.
+
+Contents
+
+1 Shop
+
+1.1 Food
+1.2 Recipes
+
+
+2 Location
+3 Profile
+
+3.1 Appearance
+
+
+4 Quests and Events
+
+4.1 Events
+4.2 Web Events
+
+
+5 Idle Quotes
+6 Dialogue
+7 Gallery
+
+7.1 Cameos
+
+
+8 Other Languages
+9 Change History
+
+
+Shop[]
+Food[]
+ItemCostStockTotalCostRefreshes
+ Stone Harbor Delicacies1,92523,850Daily
+ Noodles with Mountain Delicacies2,15024,300Daily
+ Cured Pork Dry Hotpot7,275214,550Daily
+ Tianshu Meat12,000224,000Every 3 Days
+Total cost for all items46,700 
+Recipes[]
+ItemCostStockTotalCostRequiredAdventure Rank
+ Recipe: Stone Harbor Delicacies2,50012,5001
+ Recipe: Cured Pork Dry Hotpot5,00015,0001
+ Recipe: Deep-Fried Doublecrisp2,00012,0001
+ Recipe: Braised Meatball5,00015,0001
+Total cost for all items15,000 
+Location[]
+Licai's locationAdditional context
+Profile[]
+In the Archon Quest An Organization Known as Wangsheng, she and Hongru escort Childe, the Traveler, and Paimon inside Liuli Pavilion where Zhongli awaits their presence.
+
+Appearance[]
+Licai is an adult woman who wears a traditional knee-length waitress's outfit, bearing accents of peach, yellow, and a beige apron. She has dark brown hair with straight-cut bangs, and a small parting on her left side. She keeps her medium-length hair tucked back with a low crown braid. Her eyes are green-yellow, framed by thin lashes.
+
+Quests and Events[]
+EventsEight Locales Over Mountains and SeasEight Locales Over Mountains and Seas: Two Cities' RecommendationsWeb EventsStone Harbor Treasure Journal
+Idle Quotes[]
+
+ Liuli Pavilion...
+Media:VO Licai 01.ogg "Liuli Pavilion, best Li food in town."
+
+Dialogue[]
+
+Licai: Welcome to Liuli Pavilion! How many are there in your group? Do you have a reservation?
+ Can I get food to-go?
+Licai: Certainly! You may enjoy our classic Li cooking wherever you choose.
+(Opens the Liuli Pavilion Shop menu)
+ Is it always necessary to make a reservation?
+Licai: Yes, I'm terribly sorry for the inconvenience. If you wish to eat inside the restaurant we ask that you make a reservation three months in advance. I will be sure to make a record of it.
+Licai: Oh? You think it's a long time to wait? At the Liuli Pavilion, we can only seat a few guests at certain times each day, hence the three month wait.
+Licai: Besides, for a chance to eat in Li cuisine paradise, surely three months is not too long...?
+Licai: People that come to Liuli Pavilion do so because they love eating the treasures of the mountains cooked in classic Li style. Everyone has to wait their turn, even the rich and famous.
+Licai: You can get food to go if you want, but you'll be missing out on the atmosphere.
+ Goodbye.
+Licai: Take care. Let me know promptly if you ever want to make a reservation!
+
+Gallery[]
+Character Shorts featuring Ningguang
+Cameos[]
+Gourmet Tour- "Liyue's Cuisine Collection" Issue No. 2 - Genshin Impact-2
+Other Languages[]
+
+LanguageOfficial NameEnglishLicaiChinese(Simplified)璃彩LícǎiChinese(Traditional)璃彩LícǎiJapanese璃彩Risai‍[!][!]Assumed readingKorean리채RichaeSpanishLitsaiFrenchLicaiRussianЛи ЦайLi TsayThaiLicaiVietnameseLicaiGermanLicaiIndonesianLicaiPortugueseLicaiTurkishLicaiItalianLicai
+Change History[]
+Released in Version 1.0[Edit History]Version 4.4
+New Recipes: Deep-Fried Doublecrisp, Braised Meatball
+
+Version 1.3
+
+The Liuli Pavilion shop was added to the game, accessed by talking to Licai.
+
+Version 1.0
+
+Licai was released.
+
+
+

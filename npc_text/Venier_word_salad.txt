@@ -1,0 +1,189 @@
+
+
+
+This page is in need of information.Can you help out? Click here to add more.Confirm quest requirements for the dialogue option "Could you tell me about your family?"
+
+
+Venier
+
+
+
+
+
+							Pre-Quest
+							
+						
+
+
+
+							Post-Quest
+							
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+								Family
+							
+
+
+
+
+
+Region
+Fontaine
+
+
+Location
+Fontaine
+
+
+
+
+Child
+Unnamed daughter (Deceased, dissolved by Vacher during the serial disappearances case)
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Venier is an open-world NPC located in Petrichor, Nostoi Region, Fontaine.
+Venier's dialogue and appearance change after completing the World Quest Series Canticles of Harmony. During the quest, he is possessed by an unnamed citizen from Remuria.
+
+Contents
+
+1 Location
+2 Quests and Events
+
+2.1 Hidden Exploration Objectives
+
+
+3 Idle Quotes
+4 Dialogue
+
+4.1 Dialogue Set #1
+4.2 Dialogue Set #2
+
+
+5 Trivia
+
+5.1 Etymology
+
+
+6 Other Languages
+7 Change History
+
+
+Location[]
+Venier's locationAdditional context
+Quests and Events[]
+Hidden Exploration ObjectivesTrial of the Nameless Stone Statue
+Idle Quotes[]
+Available after completing Trial of the Nameless Stone Statue and before completing Canticles of Harmony.
+
+
+ Do not be complacent...
+Media:VO Venier 01.ogg "Do not be complacent, citizens! They could attack at any time!"
+
+Available after completing Trial of the Nameless Stone Statue and Canticles of Harmony.
+
+
+ So tired...
+Media:VO Venier 02.ogg "So tired... my arm hurts...
+
+Dialogue[]
+Dialogue Set #1[]
+Available after completing Trial of the Nameless Stone Statue and before completing Canticles of Harmony.
+
+
+Venier: A hundred and thirty-six... Alright, fourteen more times, and we'll take a break!
+ What are you doing?
+Venier: Hehe, training, of course! Only through constant exercise of the body and soul can I defend this city and destroy the detestable barbarian invaders.
+Venier: And at the same time, prove myself to the Sebastos as worthy of ascension!
+ Eligibility of ascension, you say?
+Venier: That's right. Those who wish to ascend must either possess extraordinary musical talent, or have proven themselves through equally outstanding achievements and loyalty.
+Venier: I've not demonstrated much musically in my life, so I can only secure ascension through ceaseless training!
+ I wish you success!
+Venier: Haha, thank you for the encouragement, friend! I, too, wish for the Sebastos to choose you to ascend to immortal form!
+ Goodbye.
+Venier: See you. Careful out there, now!
+
+Dialogue Set #2[]
+Available after completing Canticles of Harmony.
+
+
+Venier: So tired... My arm hurts... It's like someone hit it, or something.
+ Would anyone dare to fight you?
+Venier: Ah, my friend! Where did you learn to judge a book by its cover so?
+Venier: I am a musician, you see! These arms are most elegant when they pluck a lyre's strings, I assure you.
+Venier: Although I do not know why, though I was exhausted after waking up from a lengthy dream, my arms now feel like they have been granted manifold strength.
+Venier: I've never been this tired, not even when I would play the lyre without rest or sleep.
+Venier: It seems that I shall have to return to Capitolium to get some rest...
+ What's the Capitolium?
+Venier: Capitolium? Why, it's... it's... Wait. Where is it again?
+Venier: Strange. Why did that word suddenly leave my lips? It's as if it was my hometown, where my family is.
+Venier: *sigh* Alas, but I no longer have any family.
+Venier: If this Capitolium is some dream world or the afterlife, may I reunite with them there!
+ Sorry for your loss...
+Venier: Grief will not simply disappear. We can only let it slowly fade.
+Venier: I once thought the world unjust for this reason, but will any amount of that change the past?
+Venier: The more I can commit to the Iridescence Tour, the fewer opportunities there will be for sorrow.
+Venier: Perhaps Dvorak, bless his good heart, was just trying to help me get on my feet when he asked for my assistance with the festival!
+ Could you tell me about your family?
+(Unlocked after completing Transcription missing‍[Possibly As Light Rain Falls Without Reason])
+
+Venier: My daughter inherited my musical gifts, and we were to perform at the Opera Epiclese together.
+Venier: But I... lost her in the dissolved young women case...
+ Goodbye.
+Venier: Goodbye. Sorry, but I can't even... wave goodbye to you properly.
+Trivia[]
+Etymology[]
+The name Venier is a reference to the Venetian patrician family Venier.
+Other Languages[]
+
+LanguageOfficial NameEnglishVenierChinese(Simplified)韦尼尔Wéiní'ěrChinese(Traditional)韋尼爾Wéiní'ěrJapaneseヴニエVunieKorean베니어BenieoSpanishVenieroFrenchVenierRussianВеньеVen'yeThaiVenierVietnameseVenierGermanVenierIndonesianVenierPortugueseVenierTurkishVenierItalianVenier
+Change History[]
+Released in Version 4.6[Create New History]
+
+
+
+

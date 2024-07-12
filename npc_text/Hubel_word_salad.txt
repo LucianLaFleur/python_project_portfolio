@@ -1,0 +1,156 @@
+
+
+
+
+
+Hubel
+Newsstand Owner
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Fontaine
+
+
+Location
+Fontaine
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Hubel is an open-world NPC located in Court of Fontaine, Fontaine. Next to his shop is a Newsstand Board.
+
+Contents
+
+1 Shop
+2 Location
+3 Quests and Events
+
+3.1 World Quests
+
+3.1.1 Requests
+
+
+3.2 Web Events
+
+
+4 Idle Quotes
+5 Dialogue
+6 Other Languages
+7 Change History
+8 References
+
+
+Shop[]
+ItemCostStockTotalCost
+ The Fall of the Faded Castle (II)1,50011,500
+ The Fall of the Faded Castle (III)1,50011,500
+ Time Trekker (I)1,50011,500
+ Time Trekker (II)1,50011,500
+ Time Trekker (III)1,50011,500
+ Perinheri (I)1,50011,500
+ Perinheri (II)1,50011,500
+ The History of the Decline and Fall of Remuria (I)3,00013,000
+ The History of the Decline and Fall of Remuria (III)3,00013,000
+ Fables de Fontaine (I)3,00013,000
+ Robben versus Chesterton: Iridescent Brooch (II)3,00013,000
+ Robben versus Chesterton: Iridescent Brooch (III)3,00013,000
+ La Chanson d'Erinnyes (II)3,00013,000
+ Tales of a Snow-Winged Goose (I)3,00013,000
+ Tales of a Snow-Winged Goose (II)3,00013,000
+ Tales of a Snow-Winged Goose (III)3,00013,000
+ The Two Musketeers (II)3,00013,000
+ The Two Musketeers (III)3,00013,000
+Total cost for all items43,500
+Location[]
+Hubel's locationAdditional context
+Quests and Events[]
+World QuestsRequestsCrabby ChaosWeb EventsHeartfelt Doodlings
+Idle Quotes[]
+
+ Headlines these days...
+Media:VO Hubel 01.ogg "Ah... So these are the kind of headlines they're going for these days..."
+
+Dialogue[]
+
+Hubel: Welcome, welcome to this fair ocean of words!
+ I'll have a look, no problem.
+Hubel: Take your time. Personally, I'd recommend a thriller!
+ And you are...?
+Hubel: You can call me the... temporary owner of this little establishment.
+Hubel: I say "temporary," for it is my dream to join The Steambird!
+Hubel: I work hard every day, honing my scripts and accumulating rhetoric to constantly improve my understanding of the art of language!
+Hubel: One day, I'll report all I've seen, and my astounding literary skills will spill across the headlines!
+ See you.
+Hubel: We refresh our lineup often, so come back again soon!
+
+Other Languages[]
+
+LanguageOfficial NameEnglishHubelChinese(Simplified)于贝尔Yúbèi'ěrChinese(Traditional)于貝爾Yúbèi'ěrJapaneseヒューベルHyuuberuKorean휴벨HyubelSpanishHubelFrenchHubelRussianХюбельKhyubel'ThaiHubelVietnameseHubelGermanHubelIndonesianHubelPortugueseHubelTurkishHubelItalianHubel
+Change History[]
+Released in Version 4.0[Edit History]Version 4.5
+New Books added to the shop:
+Perinheri (I)
+Perinheri (II)
+
+Version 4.4
+
+New Books added to the shop:
+Time Trekker (I)
+Time Trekker (II)
+Time Trekker (III)
+
+Version 4.3
+
+New Books added to the shop:
+The Two Musketeers (II)
+The Two Musketeers (III)
+
+Version 4.2
+
+New Books added to the shop:
+The Fall of the Faded Castle (II)
+The Fall of the Faded Castle (III)
+La Chanson d'Erinnyes (II)
+Tales of a Snow-Winged Goose (I)
+Tales of a Snow-Winged Goose (II)
+Tales of a Snow-Winged Goose (III)
+
+Version 4.0
+
+Hubel was released.
+References[]
+
+
+
+

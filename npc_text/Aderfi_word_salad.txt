@@ -1,0 +1,175 @@
+
+
+
+
+
+Aderfi
+Conniving Smuggler
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Sumeru
+
+
+Location
+Sumeru
+
+
+Affil­i­a­tion
+Tanit
+
+
+Death
+Killed by Jeht during Dune-Entombed Fecundity: Part III
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Aderfi is an NPC in the Tanit Camps. He is a member of the Tanit tribe.
+
+Contents
+
+1 Location
+2 Profile
+
+2.1 Appearance
+
+
+3 Quests and Events
+
+3.1 World Quests
+
+
+4 Idle Quotes
+5 Dialogue
+
+5.1 Dialogue Set #1
+5.2 Dialogue Set #2
+
+
+6 Other Languages
+7 Change History
+8 References
+
+
+Location[]
+Aderfi's locationAdditional context
+Profile[]
+Aderfi was originally a member of the Tanit tribe and was an intermediary between them and the Fatui to facilitate trade. When Jeht arrived after following her father's notes, her companion Benben malfunctioned and she asked him to help fix it. When the Traveler arrived, Aderfi saw a chance to consolidate more power and struck a deal with Eremites from the Afiyah tribe to ambush them when Jeht was gone. The Traveler repelled the ambush and informed Babel of Aderfi's treachery, but he had already fled.
+Aderfi would later conspire with Azariq to overthrow Babel, sending reinforcements to help him take the Jinn Liloupar. However, this plot also failed and Azariq was killed by Jeht, upon which they saw Aderfi with the Fatui waiting for news from Azariq. Jeht, already enraged by Azariq's betrayal, attacked and killed Aderfi and his cronies with help from the Traveler.[1] Afterwards, they found a note to Aderfi from Azariq detailing his plot to depose Babel. 
+Aderfi was a conniving merchant who constantly deceived others for his own gain. When he colluded with the Fatui, he would frequently trick them into obtaining whatever he wanted while intentionally avoiding to acquire whatever they requested for. Like Azariq, Aderfi did not think highly of Jeht, having considered her a "traitor's daughter" due to Jebrael leaving the tribe and was disgusted by the blatant favoritism that Babel gave her.
+
+Appearance[]
+(To be added.)
+
+Quests and Events[]
+World QuestsThe Dirge of BilqisWisdom Has Built Her House, She Has Hewn Out Her Seven PillarsDune-Entombed Fecundity: Part III
+Idle Quotes[]
+
+ If I can just find...
+Media:VO Aderfi 01.ogg "If I could find someone like that."
+
+Dialogue[]
+Dialogue Set #1[]
+Available before meeting Aderfi in World Quest Wisdom Has Built Her House, She Has Hewn Out Her Seven Pillars in Series The Dirge of Bilqis.‍[breakpoint was guessed; please verify!]
+
+
+Aderfi: Hmph. Strange... And what are the scouts even doing? Did they just let you in?
+ What is this place?
+Aderfi: This is the campsite of the Tanit tribe... Heh, we are new here as well. The original camp was unsuitable for hunting, so the elders led us here.
+ Elders...
+Aderfi: ...
+Aderfi: That doesn't concern you, outsider. In Tanit, when a Matriarch dies, matters will be deliberated by the "Nine Elders."
+Aderfi: When that happens, well, imagine nine mouths quarreling endlessly... Quite a spectacle, I assure you.
+Aderfi: Hmph. At least the flowing winds are changing their paths... Far quieter now. A little more peace is always welcome.
+ What do you do here?
+Aderfi: Business. As you may have noticed, I am a merchant, and am in charge of striking deals on behalf of my tribe.
+Aderfi: Cosmetics, luxury items, costumes, toys, agricultural products, intricate tools... If you want it, I can get it.
+ Can I buy anything?
+Aderfi: Apologies. According to tribe rules, we cannot sell to outsiders.
+Aderfi: Understand, this is not due to xenophobia or some kind of base prejudice. It's more like... Our tribe and the merchants in the cities don't share economic spheres, if you can glean my meaning?
+ You have so many books...
+Aderfi: And you have so many words, young one.
+Aderfi: Stop staring at those books... Let me tell you a tale. A tale regarding a most meddlesome and naive wayfarer to wanted to report our tribe to the Matra. Can you guess what happened?
+Aderfi: ... What happened was someone discovered the foolishness he was about to commit, and that someone helped us fix his long and loose tongue.
+ See you around.
+Aderfi: Don't let me get in your way.
+
+Dialogue Set #2
+Available after completing Step 12 of World Quest Wisdom Has Built Her House, She Has Hewn Out Her Seven Pillars in Series The Dirge of Bilqis.
+
+
+Aderfi: Ah, it's you.
+Aderfi: Matriarch Babel mentioned you previously, honored guest. Please, have a look around.
+ Are you a merchant?
+Aderfi: Hmm...? I thought I had already introduced myself... I sell the various things that the tribe lacks. Cosmetics, luxury items, costumes, toys, agricultural products, intricate tools...
+Aderfi: What would you like? If you should need something, I'll have it. And if I don't, just tell me what you need, and I'll get it for you, whether it's from the city, or even from Fontaine!
+Aderfi: Ah... Right, you're an outsider. Well, in that case, you have my apologies, but my shop is not open to you.
+ What are you selling here, anyway?
+Aderfi: Straight to the point, hmm? I like buyers like you. Unfortunately, I don't sell to outsiders.
+Aderfi: Um, this is not due to xenophobia or some kind of base prejudice. It's more that... Our tribe and the merchants in the cities don't share economic spheres, if you can glean my meaning?
+Aderfi: I only serve the Tanit tribe, you know, as our exclusive distributer of goods. All trade and other transactions have to go through Matriarch Babel, and I take a small cut of that.
+ About Benben...
+Aderfi: Benben... Ah, you mean the little machine that follows Jeht Around.
+Aderfi: I've examined it before. There's nothing particularly wrong with it, but as for how it can be restored to its former, energetic state...
+Aderfi: I have my ways... but I don't think I could tell you.
+Aderfi: Whatever the case, I think it's best that it stays with me till the repairs are done.
+(If the first two dialogue options are chosen)
+
+Aderfi: Of course, you are our guest, so you can feel free to take whatever catches your eye here in my tent... Uh, as long as you don't take it all, anyway.
+(If the third dialogue option is chosen)
+
+Aderfi: Anything else you'd like to ask me?
+ You've got lots of books here. May I read them?
+Aderfi: Books? ...Oh, right, you mean the ones Matriarch Babel requested... See, it's been fashionable for city people to wear Akasha on their ears for some time. You must have seen them.
+Aderfi: Their libraries have been emptied of a great number of obsolete books, and the Matriarch had me purchase and safe-keep them for everyone to read free of charge. Hmph... I operated at a loss there.
+Aderfi: As for the Akasha, we did ship a set in from another tribe, but it was... very inconvenient to use, not to mention quite arcane indeed. We could not disassemble or repair it, for the wiring was too centralized...
+Aderfi: Whatever the case, I'd say that reading books on your own is far better than relying on some strange machine to stuff information into your brain.
+Aderfi: After all, who knows what back doors you might open if you just let people into the door of your mind?
+ See you.
+Aderfi: Don't let me get in your way.
+
+Other Languages[]
+
+LanguageOfficial NameEnglishAderfiChinese(Simplified)阿德菲ĀdéfēiChinese(Traditional)阿德菲ĀdéfēiJapaneseアデルフィAderufiKorean아드라피AdeurapiSpanishAderfiFrenchAderfiRussianАдерфиAderfiThaiAderfiVietnameseAderfiGermanAderfiIndonesianAderfiPortugueseAderfiTurkishAderfiItalianAderfi
+Change History[]
+Released in Version 3.4[Create New History]
+References[]
+
+↑ World Quest: Rejoice With Me, for What Was Lost Is Now Found
+
+
+
+
+

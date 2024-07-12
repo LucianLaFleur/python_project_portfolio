@@ -1,0 +1,222 @@
+
+
+
+
+
+Kavus
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+								Family
+							
+
+
+
+								Voice Actors
+							
+
+
+
+
+
+Region
+Sumeru
+
+
+Location
+Sumeru
+
+
+Affil­i­a­tion
+Vimara Village
+
+
+Dialogue Reward
+ 4
+
+
+
+
+Father
+Iosaphat
+
+
+Sibling
+Sudabeh (younger sister)
+
+
+Relative
+Amadhiah (paternal grandfather)
+
+
+
+
+English
+Sara Secora[1]
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Kavus is an open-world NPC located in Vimara Village, Sumeru who first appears in the Aranyaka World Quest The Children of Vimara Village. He is Sudabeh's older brother, Iosaphat's son, and Amadhiah's grandson.
+His dialogue changes with the player's progress through Aranyaka. After completing Aranyaka, following a certain dialogue branch for the first time gives the player four Fish.
+
+Contents
+
+1 Location
+2 Profile
+
+2.1 Appearance
+
+
+3 Quests and Events
+
+3.1 World Quests
+
+
+4 Idle Quotes
+5 Thoughts
+6 Dialogue
+
+6.1 Dialogue Set #1
+6.2 Dialogue Set #2
+6.3 Dialogue Set #3
+
+
+7 Trivia
+
+7.1 Etymology
+
+
+8 Gallery
+9 Other Languages
+10 Change History
+11 References
+
+
+Location[]
+Kavus's locationAdditional context
+Profile[]
+(To be added.)
+
+Appearance[]
+(To be added.)
+
+Quests and Events[]
+World QuestsAranyakaPart I: Woodland EncounterThe Children of Vimara Village
+Idle Quotes[]
+After completing The Children of Vimara Village
+
+ A flying castle..
+Media:VO Kavus 01.ogg "What's the flying castle in the stories like?"
+
+After completing The Lost Child
+
+ Rana...
+Media:VO Kavus 02.ogg "When will Rana come back?"
+
+After completing the Aranyaka World Quest series
+
+ Will never come back...
+Media:VO Kavus 03.ogg "It's not like she's never coming back, right?"
+
+Thoughts[]
+Kavus's thoughts can be accessed by using Nahida's Elemental Skill, All Schemes to Know.
+
+
+Media:VO Kavus All Schemes to Know 01.ogg Kavus: (I'm gonna become Captain Kavus in the future!)
+
+Dialogue[]
+Dialogue Set #1[]
+Available after completing The Children of Vimara Village.
+
+
+Kavus: When will you be free, (TravelerTravelerThe player's chosen name for the Traveler)? I want to hear more stories from you!
+ About Rana...
+Kavus: Rana would tell us stories every time she returns from the forest. But I still prefer stories of the sea...
+Kavus: I swear I'll become a great captain!
+ About Aranara...
+Kavus: No... I won't say anything... We agreed to keep it a secret, even from (TravelerTravelerThe player's chosen name for the Traveler).
+ About the tale of the giant sea serpent...
+Kavus: Yes, the giant sea serpent in (TravelerTravelerThe player's chosen name for the Traveler)'s story sounds amazing. But there's nothing more to it now that it's already been taken down.
+Kavus: I wonder if there are other giant sea serpents... If so, that'll be the moment when Captain Kavus makes his entrance!
+ I've got other things to do right now...
+Kavus: So you say...
+
+Dialogue Set #2[]
+Replaces Dialogue Set #1 after completing The Lost Child.
+
+
+Kavus: Why isn't Rana back yet? She's been gone for so long...
+ About Rana...
+Kavus: Rana would tell us stories every time she returns from the forest. But I still prefer stories of the sea...
+Kavus: I swear I'll become a great captain!
+ About the tale of the giant sea serpent...
+(Same as Dialogue Set #1)
+ See you.
+Kavus: Okay, let's play later!
+
+Dialogue Set #3[]
+Replaces Dialogue Set #2 after completing the Aranyaka World Quest series.
+
+
+Kavus: Will Rana come back this time?
+ About Rana...
+Kavus: Rana said she was leaving for a trip and would be away for a very long time, much longer than before...
+Kavus: But since I'm older than Sudabeh and Iotham, I'll take care of them for her!
+Kavus: Let's play with Rana once she gets back!
+ Take good care of Sudabeh and Iotham.
+Kavus: I will. I'm gonna be a good big brother, and I'll never leave them behind! Otherwise, Rana will criticize me.
+Kavus: There will come a day when I become Captain Kavus, free as a seagull. To make it come true, I've been fishing with Dad. These are the fish I caught, I want to give them to you, (TravelerTravelerThe player's chosen name for the Traveler)!
+Kavus: Um... By the way, Sudabeh said recently she's been learning to cook on her own so that she can be a big girl soon. So if you happen to eat something suspicious she made... well... please don't be hard on her, (TravelerTravelerThe player's chosen name for the Traveler)!
+(Obtain  Fish ×4)
+ About Aranara...
+Kavus: Rana has gone traveling, and I haven't seen my friends in the forest for a long time...
+ See you.
+Kavus: See you, (TravelerTravelerThe player's chosen name for the Traveler), please visit Vimara Village often!
+
+Trivia[]
+Etymology[]
+Kavus' name may be derived from Kay Kāvus, a mythological Persian king who is best known for building a flying throne, on which he managed to fly all the way over to China before the vultures carrying his throne became too tired to fly and dropped him and his throne.
+Gallery[]
+Collei Shorts 2022-08-23Official Genshin Impact Twitter
+Other Languages[]
+
+LanguageOfficial NameEnglishKavusChinese(Simplified)卡乌斯KǎwūsīChinese(Traditional)卡烏斯KǎwūsīJapaneseカブスKabusuKorean카부스KabuseuSpanishKavusFrenchKavusRussianКавусKavusThaiKavusVietnameseKavusGermanKavusIndonesianKavusPortugueseKavusTurkishKavusItalianKavus
+Change History[]
+Released in Version 3.0[Create New History]
+References[]
+
+↑ Sara Secora: EN VA's Resume (Archived)
+
+
+
+
+

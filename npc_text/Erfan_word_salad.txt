@@ -1,0 +1,141 @@
+
+
+
+
+
+Erfan
+Tavern Host
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Sumeru
+
+
+Location
+Sumeru
+
+
+Affil­i­a­tions
+Lambad's TavernSumeru Akademiya 
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Erfan is an open-world NPC located in Sumeru City, Sumeru. He is an Akademiya student who works as a bartender at Lambad's Tavern during nighttime. During daytime, Qishan takes his place as bartender.
+
+Contents
+
+1 Location
+2 Idle Quotes
+3 Thoughts
+4 Dialogue
+5 Event Dialogue
+
+5.1 A Parade of Providence
+
+
+6 Trivia
+7 Other Languages
+8 Change History
+
+
+Location[]
+Erfan's locationAdditional context
+Idle Quotes[]
+
+ Pfft...
+Media:VO Erfan 01.ogg "*Laughter* Makes me laugh every time!"
+
+During A Parade of Providence
+
+ Really screwed up...
+Media:VO Erfan A Parade of Providence 01.ogg "I really screwed up... I won't get to watch the competitions during the day if I'm working nights!"
+
+Thoughts[]
+Erfan's thoughts can be accessed by using Nahida's Elemental Skill, All Schemes to Know.
+
+Media:VO Erfan All Schemes to Know 01.ogg Erfan: (Drunk people are so fun!)
+During A Parade of Providence
+
+Erfan: (*sigh* All I can do is wait for my classmates to recount the events...)
+
+Dialogue[]
+
+Erfan: Pfft... Makes me laugh every time...
+ Who are you...
+Erfan: I am the one who walks under the veil of night, a listener of drunkards' most honest confessions...
+Erfan: Hahaha, just kiddin'! I'm just a bartender working night shifts here.
+Erfan: Many come here to drink at night. Some of them might get quite drunk. So Lambad had me take some of Qishan's shifts.
+Erfan: An Akademiya student during the day and a bartender at night. I'd say I've managed to keep a good work-study balance.
+ About Qishan...
+Erfan: Qishan is the bartender during the day. Have you met her already?
+Erfan: She's a student from Liyue who is now preparing for the entrance exam to the Akademiya. She also works to cover her tuition. That's hardly an easy life.
+Erfan: I want to help, but I'm from a different school than the one she's aiming for.
+Erfan: So I sometimes invite students from that school over for a drink. This way, she can discuss academic questions with them.
+Erfan: I hope she will pass the exam. That will make me her senior!
+ Is there anything fun about this place?
+Erfan: Of course, there's lots of fun stuff.
+Erfan: This is a tavern, after all. The last thing we lack is funny drunkards.
+Erfan: Like last time, a student who had just come of age drank too much at his birthday party and, as a result, tried to have a duel with a chair.
+Erfan: ...Well, the chair definitely turned out to be the stronger duelist.
+Erfan: A Liyue student who came with him captured the hilarious moment and sent the pictures to The Steambird overnight.
+Erfan: Guess what, one of the pictures earned the Second Prize for journalistic photography. I heard it was only second to the work of The Steambird's top reporter.
+Erfan: If I were the drunken student, I'd blackmail... send a letter to ask for royalties.
+ See you.
+Erfan: Goodbye... Hahaha...
+
+Event Dialogue[]
+A Parade of Providence[]
+
+Erfan: What a blunder... I won't get to watch the competitions during the day if I'm working nights!
+Erfan: That said... ah, I can't just dip work and go see the competition during the day, haha.
+Erfan: Keeping that in mind gives me some balance. Maybe my classmates might fill me in on what's happening in the competition over some drinks at night.
+Erfan: With the gala comes more tourists, and with more tourists comes an increase to my pay. I might even hear some new drunken jokes! Seems like I'm being well compensated for my time!
+
+Trivia[]
+Erfan's Darshan is unknown, but it is different than the one Qishan aims to enter.
+Given Qishan's pronounced interest in shipbuilding, it may be assumed that she is aiming to enter Kshahrewar, as it is the Darshan most focused on mechanics and technology; this rules out Kshahrewar as Erfan's school affiliation.
+Other Languages[]
+
+LanguageOfficial NameEnglishErfanChinese(Simplified)埃尔凡Āi'ěrfánChinese(Traditional)埃爾凡Āi'ěrfánJapaneseエルフアンErufuanKorean에르판EleupanSpanishErfanFrenchErfanRussianЭрфанErfanThaiErfanVietnameseErfanGermanErfanIndonesianErfanPortugueseErfanTurkishErfanItalianErfan
+Change History[]
+Released in Version 3.0[Edit History]Version 3.1
+Idle Quote was added.
+
+Version 3.0
+
+Erfan was released.
+
+
+

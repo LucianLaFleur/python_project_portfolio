@@ -1,0 +1,129 @@
+
+
+
+
+
+Augereau
+Member of the Gardes
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Fontaine
+
+
+Location
+Fontaine
+
+
+Affil­i­a­tion
+Garde
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Augereau is an open-world NPC located in Romaritime Harbor, Fontaine.
+
+Contents
+
+1 Location
+2 Profile
+
+2.1 Appearance
+
+
+3 Quests and Events
+
+3.1 Archon Quests
+3.2 World Quests
+
+3.2.1 Requests
+
+
+3.3 Events
+
+
+4 Idle Quotes
+5 Dialogue
+6 Trivia
+7 Other Languages
+8 Change History
+
+
+Location[]
+Augereau's locationAdditional context
+Profile[]
+(To be added.)
+
+Appearance[]
+(To be added.)
+
+Quests and Events[]
+Archon QuestsChapter IVAct I: Prelude of Blancheur and NoirceurSoloist's PrologueWorld QuestsRequestsMeka MessEventsRadiant HarvestRadiant Harvest: Cause and Effect
+Idle Quotes[]
+
+ This line of work...
+Media:VO Augereau 01.ogg "In this line of work, two things you need: sharp eyes and fast feet."
+
+Dialogue[]
+
+Augereau: Hello. Do you need any help?
+ Tell me a bit about yourself...
+Augereau: I'm a member of the Gardes in charge of keeping Romaritime Harbor safe. Feel free to call for me if you encounter any trouble.
+Augereau: I've got a good pair of eyes and a quick pair of legs, so any suspect who wishes to escape outside our borders will have to pass me first.
+Augereau: Haha, just kidding. I exaggerate, somewhat.
+Augereau: People come and go all around this place, but most of the work is done by machines — everything's pretty well organized.
+(Available after Step 9 of Soloist's Prologue)
+ Could you tell me about the "prophecy"?
+Augereau: Well, I've always been for believing in such mysterious things.
+Augereau: And as a result, I've found myself saddled with conflicting rumors. If I were to become too obsessed with them, I'll be stuck with a troubled life... for life, you know?
+Augereau: So yeah, I think you can believe in such things, but there's no point thinking too hard about them. I'm just an ordinary person without much ambition to change fate.
+Augereau: So whichever of the rumors turns out to be true, I'll be fine with it.
+(Available after completing The Opera of Noirceur and Blancheur)
+ About the prophecy...
+Augereau: I never thought the prophecy would actually come true! Although, it didn't turn out quite as expected...
+Augereau: Can't really say I'm disappointed though, more like happy! After all, even if the flood caused some trouble, we Fontainians didn't really dissolve.
+Augereau: Palais Mermonia had arranged an emergency plan before disaster struck, so we escaped the worst, thank goodness.
+ See you.
+Augereau: Take care of yourself, and stay safe.
+
+Trivia[]
+Charles-Pierre Augereau was a French military commander who served Napoleon Bonaparte.
+Other Languages[]
+
+LanguageOfficial NameEnglishAugereauChinese(Simplified)奥格劳ÀogéláoChinese(Traditional)奧格勞ÀogéláoJapaneseオージュローOojurooKorean오제로OjeroSpanishAugereauFrenchAugereauRussianОжероOzheroThaiAugereauVietnameseAugereauGermanAugereauIndonesianAugereauPortugueseAugereauTurkishAugereauItalianAugereau
+Change History[]
+Released in Version 4.0[Create New History]
+
+
+

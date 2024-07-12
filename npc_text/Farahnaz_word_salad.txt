@@ -1,0 +1,123 @@
+
+
+
+
+
+Farahnaz
+Researcher
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Sumeru
+
+
+Location
+Sumeru
+
+
+Affil­i­a­tion
+Vahumana
+
+
+Genius Invokation TCG
+Stages
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Farahnaz is an open-world NPC located in Port Ormos, Sumeru.
+
+Contents
+
+1 Location
+2 Idle Quotes
+3 Thoughts
+4 Dialogue
+5 Other Languages
+6 Change History
+
+
+Location[]
+Farahnaz's locationAdditional context
+Idle Quotes[]
+
+ The true history...
+Media:VO Farahnaz 01.ogg "True history is sometimes more exciting than legend!"
+
+Thoughts[]
+Farahnaz's thoughts can be accessed by using Nahida's Elemental Skill, All Schemes to Know.
+
+
+Media:VO Farahnaz All Schemes to Know 01.ogg Farahnaz: (Maybe the key to studying history is not to try and prove everything, but to convince others to believe you.)
+
+Dialogue[]
+
+Farahnaz: ...It's a shame that the Alliance was destroyed...
+ Adventure Challenge
+(Opens Genius Invokation TCG match interface)
+(If the player loses the match)
+
+Farahnaz: Haha, putting different cards into a single deck, it feels like an "alliance"...
+(If the player wins the match)
+
+Farahnaz: It's a mixed feeling to see the characters in the deck get knocked down...
+ The Alliance?
+Farahnaz: Hey, did you not hear the story I just told you?
+Farahnaz: That's okay, I'll tell you again!
+Farahnaz: Back then, when Port Ormos wasn't as peaceful, the Alliance of the Twenty-Nine Ocean Deys was established.
+Farahnaz: The major pirate leaders who joined took stock of the situation and established a fair division of power in the Alliance.
+Farahnaz: Each Alliance leader, or "Dey," vowed to live together in peace and prosperity.
+Farahnaz: But they did not expect that...
+ A traitor?
+Farahnaz: Yes, that was part of it. They are profit-oriented pirates after all, so a friendly co-existence is not their style.
+Farahnaz: But I think where there's conflict, there must be a winner. It's not like there isn't even one Dey left, right?
+Farahnaz: But everyone is equal in the face of a sea monster invasion.
+Farahnaz: According to folk legend, a huge sea beast never seen before stirred up a giant wave that wiped out the Alliance overnight...
+Farahnaz: Oh, what a great story. It's a pity that it's only written about in scientific papers.
+ See you.
+Farahnaz: After the roar of the sea subsided, everything was in ruins...
+
+Other Languages[]
+
+LanguageOfficial NameEnglishFarahnazChinese(Simplified)法拉纳兹FǎlānàzīChinese(Traditional)法拉納茲FǎlānàzīJapaneseファラナーゼFaranaazeKorean파라나즈ParanajeuSpanishFarahnazFrenchFarahnazRussianФараназFaranazThaiFarahnazVietnameseFarahnazGermanFarahnazIndonesianFarahnazPortugueseFarahnazTurkishFarahnazItalianFarahnaz
+Change History[]
+Released in Version 3.0[Edit History]Version 3.3
+Added a Genius Invokation TCG Adventure Challenge for Farahnaz.
+
+Version 3.0
+
+Farahnaz was released.
+
+
+

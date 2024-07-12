@@ -1,0 +1,124 @@
+
+
+
+
+
+Arachanda
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Sumeru
+
+
+Location
+Sumeru
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCsAranara 
+
+
+
+
+Arachanda is an open-world NPC located in Sumeru. It is part of the Aranara.
+
+Contents
+
+1 Location
+2 Dialogue
+
+2.1 Ashavan Realm
+2.2 Ardravi Valley
+2.3 Vanarana
+
+
+3 Other Languages
+4 Change History
+
+
+Location[]
+Arachanda's locationAshavan RealmAdditional contextAshavan RealmArachanda's locationArdravi ValleyAdditional contextArdravi ValleyNPC Arachanda Location 03.pngArachanda's locationVanarana (Subarea)NPC Arachanda Location Context 03.pngAdditional contextVanarana
+Dialogue[]
+Ashavan Realm[]
+
+(Talk to Arachanda)
+Arachanda: Impressive Nara, let's "have a competition?" But not with Arachanda, it's a competition with what Arachanda has prepared...
+ Okay, I got this!
+Arachanda: Arachanda is gonna see what Nara can do. Nara should remember to break the stone piles first, and then the chests!
+ I have something else to do.
+Arachanda: Okay. There are other important matters.
+(After failing the challenge)
+Arachanda: Aw... What a pity! Dear Nara friend, you got the order wrong, need to do the challenge again.
+(After completing the challenge)
+Arachanda: Arachanda is very impressed! Um, wait, Arachanda is grateful. This is for Nara!
+(A common chest appears)
+(Talk to Arachanda after completing the challenge)
+Arachanda: Nara friend is impressive indeed. Arachanda should try hard to catch up.
+
+Ardravi Valley[]
+
+(Talk to Arachanda)
+Arachanda: Arachanda wants to see what Nara friend can do. Is (‍heheText for male Traveler/shesheText for female Traveler‍) "worthy of the reputation"?
+ Okay, I'll show you.
+Arachanda: Yes! Nara should tread carefully on the dangerous melons. First the Dendro ones, then the ordinary ones! Let's start now!
+ I have something else to do.
+Arachanda: Okay. There are other important matters.
+(After failing the challenge)
+Arachanda: Aw... What a pity! Dear Nara friend, you got the order wrong, need to do the challenge again.
+(After completing the challenge)
+Arachanda: Arachanda is very impressed! Um, wait, Arachanda is grateful. This is for Nara!
+(A common chest appears)
+(Talk to Arachanda after completing the challenge)
+Arachanda: Is one Arachanda... or ten Arachandas on par with Nara?
+
+Vanarana[]
+
+(Talk to Arachanda)
+Arachanda: Golden Nara is good without Ararakalari? Arachanda wants to see it!
+ Of course! Watch this!
+Arachanda: Great! Golden Nara is gonna "strut his stuff!" Nara should remember to break the tall jar first, and then the short one!
+ I have something else to do.
+Arachanda: Okay. There are other important matters.
+(After failing the challenge)
+Arachanda: Aw... What a pity! Dear Nara friend, you got the order wrong, need to do the challenge again.
+(After completing the challenge)
+Arachanda: Arachanda is very impressed! Um, wait, Arachanda is grateful. This is for Nara!
+(A common chest appears)
+(Talk to Arachanda after completing the challenge)
+Arachanda: Would Nara become even better once Nara learns Ararakalari... Uhh...
+
+Other Languages[]
+
+LanguageOfficial NameEnglishArachandaChinese(Simplified)兰阐荼LánchǎntúChinese(Traditional)蘭闡荼LánchǎntúJapaneseアランチャントラAranchantoraKorean아란찬다AranchantaSpanishArachandaFrenchArachandaRussianАрачандаArachandaThaiArachandaVietnameseArachandaGermanArachandaIndonesianArachandaPortugueseArachandaTurkishArachandaItalianArachanda
+Change History[]
+Released in Version 3.0[Create New History]
+
+
+

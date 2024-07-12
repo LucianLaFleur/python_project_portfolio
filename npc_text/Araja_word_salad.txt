@@ -1,0 +1,192 @@
+
+
+
+
+
+Araja
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Sumeru
+
+
+Location
+Sumeru
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCsAranara 
+
+
+
+
+Araja is an open-world NPC located in Vanarana (Subarea), Sumeru. It is part of the Aranara and serves as its village chief.
+
+Contents
+
+1 Location
+2 Profile
+3 Quests and Events
+
+3.1 World Quests
+
+
+4 Idle Quotes
+5 Dialogue
+
+5.1 Dialogue Set #1
+5.2 Dialogue Set #2
+5.3 Dialogue Set #3
+5.4 Dialogue Set #4
+
+
+6 Trivia
+
+6.1 Etymology
+
+
+7 Other Languages
+8 Change History
+
+
+Location[]
+Araja's locationAdditional context
+Profile[]
+During the time of the calamity, in which the original Vanarana was destroyed by the Withering, Araja sacrificed his physical form and became the Tree of Dreams, creating the dream realm of Mahavanaranapna, where his people could live in peace, undisturbed by Sumeru's devastation and the bad Nara. While his physical body can't move anymore, Araja's mind remained intact and can manifest a body inside his dream.
+Over the last 500 years, Araja has lost much of his old memories, but it's known that he participated in the last Festival Utsava and was close friends with Araji, Arapacati and Aramuhukunda.
+
+Quests and Events[]
+World QuestsAranyakaPart II: Dream NurseryThe World of AranaraFestival Utsava
+Idle Quotes[]
+
+ Everything in the forest...
+
+Dialogue[]
+Dialogue Set #1[]
+
+(Before completing the Aranyaka quest series)
+Araja: Oh, it's Nara (TravelerTravelerThe player's chosen name for the Traveler). Do you have any questions for me?
+ Do you need a hand with anything?
+Araja: Oh, thank you, Nara (TravelerTravelerThe player's chosen name for the Traveler). As you can see, I'm doing rather well.
+ Are any Aranara in need of help?
+Araja: Oh, well... Go to the center of Vanarana, and you should see Arapacati there. Something has been troubling her lately.
+(Starts An Unwavering Culinary Dream quest series)
+ Is there anything else to be done for Festival Utsava?
+Araja: About that, Arakavi should be at the center of Vanarana. I think he's also in need of help for Festival Utsava.
+(Starts Encounter in the Woods quest series)
+ About "Marana"...
+Araja: That's a story from very long ago...
+Araja: A long time ago, Aranara walked the earth and made friends with Nara and all living creatures. There was no Marana then. Until a disaster that occurred many, many moons ago...
+Araja: Greater Lord Rukkhadevata returned to Sarva, and the Marana's rampage through the earth began. Once the forest recovered its vitality, the Aranara hid the real Vanarana in a dream to protect themselves.
+Araja: The forest didn't know death, until a day came when the trees realized that withered flowers and dead animals covered the earth.
+Araja: On the same day, the earth remembered the dark, poisonous blood it had once devoured, or was about to devour. The rivers thought of the descent of the sun, evaporating all water and leaving a red world behind.
+Araja: They realized that all things would meet their end, and so, Marana was born. It is the name of death, and those who know it shall die.
+Araja: Marana urges everything towards death. As for the tall, dark, and warped beings, they are the avatars chosen by Marana, the heralds of death.
+Araja: Of course. In my stories, Marana's Avatar takes many forms. Sometimes beasts, sometimes birds, sometimes Nara, sometimes blight...
+Araja: But stories are just stories, and they aren't my memories.
+ About the Vasoma Fruit...
+Araja: It's a fruit full of energy. It grows on the memories and dreams in the earth, and it needs the help of Aranara and Nara to bear fruit.
+Araja: A Bija can be formed by feeding a Vasoma Fruit to the Ashvattha Tree. It's a great tree planted by Greater Lord Rukkhadevata, and it's the origin of Aranara.
+ About the Aranyaka...
+Araja: It belonged to Nara Varuna. (‍SheSheText for male Traveler/HeHeText for female Traveler‍) was a Golden Nara who was kind, brave, and honest, just like you.
+Araja: I still remember how the Aranara of that time missed (‍herherText for male Traveler/himhimText for female Traveler‍) and loved (‍hishisText for male Traveler/herherText for female Traveler‍) stories. But I believe that since Nara (TravelerTravelerThe player's chosen name for the Traveler) is here now...
+ See you.
+Araja: Yes. I look forward to celebrating Festival Utsava with you.
+
+Dialogue Set #2[]
+
+(After completing the Aranyaka quest series)
+Araja: Everything in the forest will never be forgotten. Nara (TravelerTravelerThe player's chosen name for the Traveler), your story will pass on and on among Aranara, Araja knows that.
+ About Marana...
+Araja: It's a story from very long ago...
+Araja: A long time ago, Aranara walked the earth and made friends with Nara and all living creatures. There was no Marana then. Until a disaster that occurred many, many moons ago...
+Araja: Greater Lord Rukkhadevata returned to Sarva, and the Marana's rampage through the earth began. Once the forest recovered its vitality, the Aranara hid the real Vanarana in a dream to protect themselves.
+Araja: The forest didn't know death, until a day came when the trees realized that withered flowers and dead animals covered the earth.
+Araja: On the same day, the earth remembered the dark, poisonous blood it had once devoured, or was about to devour. The rivers thought of the descent of the sun, evaporating all water and leaving a red world behind.
+Araja: They realized that all things would meet their end, and so, Marana was born. It is the name of death, and those who know it shall die.
+Araja: Marana urges everything towards death. As for the tall, dark, and warped beings, they are the avatars chosen by Marana, the heralds of death.
+Araja: ...Now that you defeated Marana's Avatar with Arama, and the forest sees another Ashvattha, everything should take a turn for the better.
+ About the Aranyaka...
+Araja: Nara Varuna left this, and Arama is giving it to you. Arama thinks he did the right thing.
+Araja: It filled with stories between you and Aranara, right? Araja knows that Nara will forget about how to dream, and forget about us.
+Araja: However, as long as the Aranyaka keeps the records or our stories and names, you can always read it without the memories about Aranara.
+Araja: When that day comes, Araja hopes that you will find these stories interesting and touching.
+ About Arama...
+Araja: Araja missed him very much. With Arama turning into the new Ashvattha, Araja's dreams have become quieter.
+Araja: The time when Nara and Aranara spend time together, and walk the shades together. Araja can't recall anything like that, but stories remain.
+Araja: Araja was hoping, Arama could see a similar world as a seed. But everything ends up in Sarva, where Nara and Aranara will be joined.
+Araja: Also, Araja is delighted, for the friendship between Arama and Nara (TravelerTravelerThe player's chosen name for the Traveler).
+ About Arana...
+Araja: Arana is also an ancient Aranara, with so many blooms and rainfall captured in memories.
+Araja: Because of the overflowing love for Nara and the forest, Arana refuses to be Vasara Tree. Vasara Tree, can't play with Nara.
+Araja: Araja heard that, Arana and Narana went traveling together. All the stories and beautiful things on the trip, hopefully, will make up for Arana's loss.
+ Goodbye.
+Araja: Goodbye. If anything ever tires you, come for a rest.
+
+Dialogue Set #3[]
+
+(After completing Akasha Pulses, the Kalpa Flame Rises)
+Araja: Everything in the forest will never be forgotten. Nara (TravelerTravelerThe player's chosen name for the Traveler), your story will pass on and on among Aranara, Araja knows that.
+ About Marana...
+Araja: It's a story from very long ago...
+Araja: A long time ago, Aranara walked the earth and made friends with Nara and all living creatures. There was no Marana then. Until a disaster that occurred many, many moons ago...
+Araja: Many lives returned to Sarva, and the Marana's rampage through the earth began. Once the forest recovered its vitality, the Aranara hid the real Vanarana in a dream to protect themselves.
+Araja: The forest didn't know death, until a day came when the trees realized that withered flowers and dead animals covered the earth.
+Araja: On the same day, the earth remembered the dark, poisonous blood it had once devoured, or was about to devour. The rivers thought of the descent of the sun, evaporating all water and leaving a red world behind.
+Araja: They realized that all things would meet their end, and so, Marana was born. It is the name of death, and those who know it shall die.
+Araja: Marana urges everything towards death. As for the tall, dark, and warped beings, they are the avatars chosen by Marana, the heralds of death.
+Araja: ...Now that you defeated Marana's Avatar with Arama, Sarva no longer remembers it, and the forest sees another Ashvattha, everything should take a turn for the better.
+ About the Aranyaka...
+(Same as Dialogue Set #2)
+ About Arama...
+(Same as Dialogue Set #2)
+ About Arana...
+(Same as Dialogue Set #2)
+ Goodbye.
+(Same as Dialogue Set #2)
+
+Dialogue Set #4[]
+
+(After completing Festival Utsava and before completing the Aranyaka quest series)
+Araja: I can't thank you enough for preparing Festival Utsava.
+Araja: It's a pity I couldn't join your adventures like Arama and the others, nor was I able to provide any help.
+Araja: That being said, if you ever feel tired during your adventures, come visit Vanarana. You're always welcomed in this dream.
+
+Trivia[]
+Etymology[]
+"Araja" is derived from the Sanskrit word áraṇya (Sanskrit: अरण्य) meaning "forest", and rā́j (Sanskrit: राज्) meaning "king", fitting Araja's role as the current leader of all Aranaras.
+Other Languages[]
+
+LanguageOfficial NameEnglishArajaChinese(Simplified)兰拉迦LánlājiāChinese(Traditional)蘭拉迦LánlājiāJapaneseアランラジャAranrajaKorean아란자AranjaSpanishArajaFrenchArajaRussianАраджаAradzhaThaiArajaVietnameseArajaGermanArajaIndonesianArajaPortugueseArajaTurkishArajaItalianAraja
+Change History[]
+Released in Version 3.0[Create New History]
+
+
+

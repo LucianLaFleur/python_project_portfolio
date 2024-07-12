@@ -1,0 +1,84 @@
+
+
+
+
+
+Kanjou Commission Ashigaru
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Inazuma
+
+
+Location
+Inazuma
+
+
+Affil­i­a­tion
+Kanjou Commission
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Kanjou Commission Ashigaru are members of the Kanjou Commission stationed in Ritou, Inazuma.
+When attempting to leave Ritou by foot before completing the World Quest Chisato's Letter, a generic NPC entitled "Kanjou Commission Ashigaru" will stop the Traveler from leaving.
+In the Archon Quest Confessions of an Outlander, Werner mentions that Keijirou is a tax-collection ashigaru. Keijirou's in-game title, however, is simply "Kanjou."
+
+Contents
+
+1 Dialogue
+2 Trivia
+3 Other Languages
+4 Change History
+
+
+Dialogue[]
+
+(Approach the borders of Ritou without a Travel Permit)
+Kanjou Commission Ashigaru: Hey, stop! Who is there!
+Paimon: Oh no... It's someone from the Kanjou Commission, we've been caught!
+(Teleport back to Ritou)
+(If Ritou Escape Plan has not been completed)
+
+Kanjou Commission Ashigaru: Without a Travel Permit, you cannot enter or leave Ritou.
+Paimon: It seems if you do not have a Travel Permit, you cannot freely enter or leave the island.
+(If Ritou Escape Plan has been completed)
+
+Paimon: According to our agreement, we'll get that Travel Permit once we deliver Miss Chisato's letter, right?
+
+Trivia[]
+In feudal Japan, ashigaru were infantrymen employed by samurai.
+Other Languages[]
+
+LanguageOfficial NameEnglishKanjou Commission AshigaruChinese(Simplified)勘定奉行足轻Kāndìng-fèngxíng ZúqīngChinese(Traditional)勘定奉行足輕Kāndìng-fèngxíng ZúqīngJapanese勘定奉行足軽Kanjou-bugyou AshigaruKorean간조 봉행 아시가루Ganjo Bonghaeng AsigaruSpanishSoldado de la Comisión KanjouFrenchAshigaru de la Commission économiqueRussianПехотинец комиссии КандзёPekhotinets komissii KandzyoThaiเจ้าหน้าที่จากสำนัก KanjouChao Nathi Chak Samnak KanjouVietnameseQuân lính của Hiệp Hội KanjouGermanAshigaru der Kanjou-VerwaltungIndonesianAshigaru Kanjou CommissionPortugueseAshigaru da Comissão KanjouTurkishKanjou Heyeti AskeriItalianAshigaru della Kanjou
+Change History[]
+Released in Version 2.0[Create New History]
+
+
+

@@ -1,0 +1,163 @@
+
+
+
+
+
+Sania
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+								Family
+							
+
+
+
+
+
+Region
+Sumeru
+
+
+Location
+Sumeru
+
+
+Genius Invokation TCG
+Stages
+
+
+
+
+Spouse
+Jabari
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Sania is an open-world NPC located in Aaru Village, Sumeru. During daytime, she can be found near Azalai. During nighttime, she can be found with Jabari.
+
+Contents
+
+1 Location
+2 Quests and Events
+
+2.1 World Quests
+
+
+3 Idle Quotes
+4 Thoughts
+5 Dialogue
+
+5.1 Daytime
+5.2 Nighttime
+
+
+6 Other Languages
+7 Change History
+
+
+Location[]
+Sania's locationAdditional context
+Quests and Events[]
+World QuestsJoin the Eremites and Embrace a Wonderful New Life!
+Idle Quotes[]
+Daytime
+
+ How worrying...
+Media:VO Sania 01.ogg "It's as worrying as it can get."
+
+Nighttime
+
+ How am I supposed to...
+Media:VO Sania 02.ogg "How am I supposed to stay calm?!"
+
+Thoughts[]
+Sania's thoughts can be accessed by using Nahida's Elemental Skill, All Schemes to Know.
+
+Daytime
+
+Media:VO Sania All Schemes to Know 01.ogg Sania: (*sigh*... Am I being too hard on him...?)
+
+Nighttime
+
+Media:VO Sania All Schemes to Know 02.ogg Sania: (I knew it! I shouldn't have been too lenient with him!)
+
+Dialogue[]
+Daytime[]
+
+Sania: *sigh* This is so frustrating...
+ Adventure Challenge
+(Opens Genius Invokation TCG match interface)
+(If the player loses the match)
+
+Sania: That was a tough round... Do you think I've got what it takes to be a pro?
+(If the player wins the match)
+
+Sania: Ugh... I still need more training!
+ Are you alright?
+Sania: Today, perhaps. Tomorrow? I'm afraid we can't be sure.
+Sania: With a husband like mine, we're struggling to make ends meet every day.
+Sania: I mean, I'm not demanding that he earn huge sums or anything, but I'd at least like a steady income.
+Sania: But apart from cooking, he can't do anything at all.
+Sania: And everyone here in Aaru Village knows how to cook their own food. It's how we survive here... So who's going to buy food off the street?
+Sania: And even that would still be acceptable... But not only does he make no attempt to earn Mora, he gives out the food he makes to others! For free!
+ How about talking it out with him?
+Sania: I've tried talking, and I've tried scolding.
+Sania: You know, he even considered leaving the village to look for some work, but then he claimed he'd miss home... or that he was sensitive to the humidity...
+Sania: In the end, he just can't bear to leave me here alone in the village. And what am I supposed to do about that?
+Sania: He's a good man. He's so good, he would spend our Mora on helping others.
+Sania: I'm not saying that helping others is bad, but we need to look out for ourselves first, right?
+ See you.
+Sania: See you. Let me see if I can save some Mora on our expenditures anywhere else...
+
+Nighttime[]
+
+Sania: Hmmm. It seems that this is all the Mora I have at the moment...
+Sania: Ugh. How am I supposed to live like this?
+Jabari: Hey, hey. Relax. Relax...
+Jabari: Come on now. I've done some handiwork recently and got plenty of food in return, didn't I?
+Sania: And so what? You want us to go on living from hand to mouth like this? What are we going to do when those menial jobs stop making us Mora?
+Sania: I'm not going to just watch that happen, unlike you!
+Sania: *sigh* Sometimes I wonder if I'm the only one in this family who actually worries about our future here...
+
+Other Languages[]
+
+LanguageOfficial NameEnglishSaniaChinese(Simplified)萨尼娅SǎníyàChinese(Traditional)薩尼婭SǎníyàJapaneseサニアSaniaKorean사니아SaniaSpanishSaniaFrenchSaniaRussianСанияSaniyaThaiSaniaVietnameseSaniaGermanSaniaIndonesianSaniaPortugueseSaniaTurkishSaniaItalianSania
+Change History[]
+Released in Version 3.1[Edit History]Version 3.7
+Added a Genius Invokation TCG Adventure Challenge for Sania.
+
+Version 3.1
+
+Sania was released.
+
+
+

@@ -1,0 +1,163 @@
+
+
+
+
+
+Zhang Shun
+Peddler
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Liyue
+
+
+Location
+Liyue
+
+
+Affil­i­a­tion
+The Crux
+
+
+Dialogue Reward
+ 1
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Zhang Shun (Chinese: 张顺 Zhāng Shùn) is a shop NPC in Liyue Harbor, Liyue. He sells 2★ Lucky Dog artifact set pieces and his stock refreshes every 7 days.
+Following a certain dialogue branch for the first time gives you one 3★ Outset of the Brave artifact.
+
+Contents
+
+1 Shop
+2 Location
+3 Profile
+
+3.1 Appearance
+
+
+4 Idle Quotes
+5 Dialogue
+6 Event Dialogue
+
+6.1 Moonlight Merriment
+6.2 Fleeting Colors in Flight
+
+
+7 Other Languages
+8 Change History
+9 References
+
+
+Shop[]
+ItemCostStockTotalCostRefreshes
+ Lucky Dog's Goblet2,00012,000Weekly
+ Lucky Dog's Eagle Feather2,00012,000Weekly
+ Lucky Dog's Silver Circlet2,00012,000Weekly
+ Lucky Dog's Clover2,00012,000Weekly
+ Lucky Dog's Hourglass2,00012,000Weekly
+Total cost for all items10,000 
+Location[]
+Zhang Shun's locationAdditional context
+Profile[]
+Zhang Shun is former member of The Crux. He was debilitated during the battle against Haishan and chose to retire from the fleet.
+
+Appearance[]
+Zhang Shun is tall with dark eyes, and wears traditional Crux pirate attire. His hair is covered by a red scarf that other male Crux members wear as well.
+
+Idle Quotes[]
+
+ ...Interesting gadgets...
+Media:VO Zhang Shun 01.ogg "I've got a bunch of interesting gadgets, all from my time with The Crux."
+
+During Moonlight Merriment
+
+ As expected of Captain of Beidou!
+Media:VO Zhang Shun Moonlight Merriment 01.ogg "As expected of Captain Beidou! She has a knack for finding treasure."
+
+During Fleeting Colors in Flight
+
+ Salvaging work...
+Media:VO Zhangshun Lantern Rite 01.ogg "I heard Captain Beidou took some salvaging work from the Qixing."
+
+Dialogue[]
+
+Zhang Shun: What do you think of my wares, friend? Rare things to see on dry land.
+ Got anything good in?
+Zhang Shun: Every last item is a keepsake from a voyage across the oceans. Genuine goods at honest prices!
+ Just what are these things from exactly?
+Zhang Shun: What? You think they're stolen?
+Zhang Shun: Of course not, I'm a sailor with The Crux. They're the spoils of years of service.
+Zhang Shun: But I got injured during the battle against Haishan. If it weren't for Captain Beidou, I'd be a goner.
+Zhang Shun: So I decided it best I leave The Crux. Can't have a crewmate's old injury flaring up and dragging the crew under...
+Zhang Shun: At least the things I collected over the years is enough to keep me going though.
+ Tell me about your battle trophies.
+Zhang Shun: Of all of them, this cup here is probably the one I'll never forget. Brings back memories of my drinking days.
+Zhang Shun: ...But to be honest, now that I've decided to settle down and have a normal life, having it around only makes me sad that those days are over, which doesn't really help me move on.
+Zhang Shun: Thanks for listening to me for so long. Actually, why don't I give this to you? Maybe it'll come in handy on one of your adventures.
+(Obtain 3★ Outset of the Brave ×1)
+ About Rex Lapis' death...
+(Unlocked after completing Rite of Descension)
+Zhang Shun: Aye... In my many years spent sailing the open ocean, Captain Beidou took great delight in telling us many a tale of Rex Lapis' many feats.
+Zhang Shun: If Captain Beidou is the star that guides us in the night sky, then Rex Lapis is what keeps the whole sky up in place.
+Zhang Shun: I always said that I would see a Rite of Descension if I returned to land. I never thought...
+ No need.
+Zhang Shun: Nothing takes your interest? Travel well.
+
+Event Dialogue[]
+Moonlight Merriment[]
+
+Zhang Shun: Have you heard the news? Captain Beidou of the Crux brought something amazing back from overseas again!
+Zhang Shun: They say that it's the statue of an ancient adeptus... Or a god... Well, whatever it is, it's a really awesome statue!
+Zhang Shun: Well, it's the Crux Fleet, you know? Anything they're packing is bound to be good. Well then. Would you like something today, friend?
+(Continue non-event dialogue)
+
+Fleeting Colors in Flight[]
+
+Zhang Shun: I heard that Captain Beidou took up some salvaging work recently. I wonder what treasures she'll dredge up this time...
+Zhang Shun: But since it's work from the Qixing, I doubt any of those treasures will ever find their way to me anyway.
+Zhang Shun: Still, I've got quite a few rare items that you can hardly find on land. Care to have a look?
+(Continue non-event dialogue)
+
+Other Languages[]
+
+LanguageOfficial NameEnglishZhang ShunChinese(Simplified)张顺Zhāng ShùnChinese(Traditional)張順Zhāng ShùnJapanese張順Chou Jun‍[!][!]Assumed readingKorean장순장순張順Jang SunSpanishZhangshunFrenchZhangshunRussianЧжан ШуньChzhan Shun'ThaiZhangshunVietnameseZhangshunGermanZhangshunIndonesianZhangshunPortugueseZhangshunTurkishZhang ShunItalianZhang Shun
+Change History[]
+Released in Version 1.0[Create New History]
+References[]
+
+
+
+

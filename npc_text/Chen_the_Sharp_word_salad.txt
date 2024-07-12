@@ -1,0 +1,203 @@
+
+
+
+
+
+Chen the Sharp
+Street Food Vendor
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Liyue
+
+
+Location
+Liyue
+
+
+Affil­i­a­tion
+Guhua Clan
+
+
+Dialogue Reward
+ 1
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Chen the Sharp (Chinese: 快刀陈 Kuàidāo Chén) is a shop NPC in Liyue Harbor, Liyue that sells cooked food. He is located near the southern Teleport Waypoint in Liyue Harbor next to the Second Life shop. His food stock refreshes every day.
+His dialogue changes slightly based on whether the Archon Quest Rite of Descension is completed.
+Following a certain dialogue branch for the first time will give the player one Dark Iron Sword.
+
+Contents
+
+1 Shop
+2 Location
+3 Profile
+
+3.1 Appearance
+
+
+4 Quests and Events
+
+4.1 Story Quests
+
+4.1.1 Hangout Events
+
+
+
+
+5 Idle Quotes
+6 Dialogue
+7 Event Dialogue
+
+7.1 Lantern Rite
+7.2 Fleeting Colors in Flight
+7.3 The Exquisite Night Chimes
+
+
+8 Trivia
+9 Gallery
+
+9.1 Cameos
+9.2 Hangout Memories
+
+
+10 Other Languages
+11 Change History
+12 References
+
+
+Shop[]
+ItemCostStockTotalCostRefreshes
+ Delicious Grilled Tiger Fish380103,800Daily
+ Stir-Fried Filet900109,000Daily
+Total cost for all items12,800 
+Location[]
+Chen the Sharp's locationAdditional context
+Profile[]
+Chen the Sharp is a street-food vendor that was once a member of the Guhua Clan. He uses the blade work he learned from the clan to slices the fishes he sells.
+
+Appearance[]
+(To be added.)
+
+Quests and Events[]
+Story QuestsHangout EventsYun JinAct I: A Song That Knows GraceHalf a Day's Leisure
+Idle Quotes[]
+
+Media:VO Chen the Sharp 01.ogg "Grilled Tiger Fish! Get it while it's hot!"
+
+During Lantern Rite
+
+Media:VO Chen the Sharp Lantern Rite 01.ogg "Want some piping-hot Grilled Tiger Fish?"
+
+During Fleeting Colors in Flight
+
+ Adepti love it...
+Media:VO Chen the Sharp Lantern Rite 02.ogg "Tiger Fish, fresh off the grill! Adepti love it, everyone loves it!"
+
+During The Exquisite Night Chimes
+
+ Adepti love it...
+Media:VO Chen the Sharp Lantern Rite 03.ogg "Hot grilled Tiger Fish! Everyone's favorite! Even the adepti love it!"
+
+Dialogue[]
+
+Chen the Sharp: Tiger fish! Get it while it's fresh and hot!
+ I'd like to buy a snack.
+Chen the Sharp: Sure thing! Fresh and piping hot, coming right up. Mind you don't burn your tongue!
+(Opens the Shop menu)
+ How're the fish selling?
+Chen the Sharp: Only about 1,800 sold. I'm proud to say my tiger fish is the most authentic in all of Liyue.
+Chen the Sharp: I mean, at least half the city's barbeque fish is sourced from here, so if mine's no good, then nobody's is. Haha.
+Chen the Sharp: As for how I can sell this much? Well that comes down to my Guhua bladework — descaling, gutting — a few quick swipes and it's all over.
+Chen the Sharp: Yup, I'm from the Guhua Clan. Ten years training in seclusion. First thing I ate when I got out was this fish...
+Chen the Sharp: Some say it's a waste of my talents being here, but can't say I agree.
+Chen the Sharp: Our founder taught that the noblest martial virtue is to pursue that which benefits other people. I figure that as long as I do a good job, surely using my skills to fillet fish is something I can be proud of?
+ Tell me about the Guhua Clan.
+Chen the Sharp: Ah, the mere mention of it takes me back. I do wonder what everyone's doing these days, you know, my master and all the others I trained with...
+Chen the Sharp: As for me, I'm more than happy that I can combine keen bladework with the kitchen arts to bring my customers a delicious, piping-hot Grilled Tiger Fish every single time.
+Chen the Sharp: Thanks for stopping by. It's been a while since I had such an in-depth conversation with someone...
+Chen the Sharp: This is the sword I used to use back in the day. I doubt I'll be getting in any more sword fights again in the future, so why don't you take it off my hands?
+(Obtain  Dark Iron Sword ×1)
+ About Rex Lapis' death... (After completing Rite of Descension)
+Chen the Sharp: Oh, I still can't believe it.
+Chen the Sharp: Can't believe he went out like that. If my father and grandfather were still alive, I have no idea what it'd do to them.
+Chen the Sharp: Sadly, as far as my children and their children will be concerned, the legacy of Rex Lapis will live on only in stories...
+ See you later.
+Chen the Sharp: Be sure to come again! I'll always be here.
+
+Event Dialogue[]
+Lantern Rite[]
+
+Chen the Sharp: All this walking around working up your appetite? Why not curb your hunger with a freshly grilled Tiger Fish?
+Chen the Sharp: As it happens, this year's Mingxiao Lantern commemorates Skybracer; back in the day, grilled Tiger Fish was his favorite.
+Chen the Sharp: This year's Lantern Rite experience isn't complete until you've tried one!
+ I'd like to buy a snack.
+(Same as usual dialogue)
+ Do you say that every year?
+Chen the Sharp: Haha... Yes, I do! I say the same thing every year, but I'm never lying.
+Chen the Sharp: It says so in the Historia Naturalis Liyue: a thousand years ago, all the adepti loved eating grilled Tiger Fish...
+ Goodbye.
+Chen the Sharp: If you get peckish when you're browsing around Xiao Market, come and find me!
+
+Fleeting Colors in Flight[]
+
+Chen the Sharp: Hey there, are you here to sight-see and have some fun? If you're hungry, wanna grab a couple of freshly grilled Tiger Fish?
+Chen the Sharp: Even the adepti love it! Get it while it's hot!
+(Continue non-event dialogue)
+
+The Exquisite Night Chimes[]
+
+Chen the Sharp: Hey there, are you here to sight-see and have some fun? If you're hungry, wanna grab a couple of freshly grilled Tiger Fish?
+Chen the Sharp: Even the adepti love it! Get it while it's hot!
+(Continue non-event dialogue)
+
+Trivia[]
+He posted an ad for his shop at the Chihu Rock Bulletin Board.
+Gallery[]
+Cameos[]
+Collected Miscellany - "Yanfei- Blaze of Legal Brilliance" - Genshin Impact
+Hangout Memories[]
+A Song That Knows Grace ending: A Souvenir Without Sentiment is of Little Worth(Aether Version)A Song That Knows Grace ending: A Souvenir Without Sentiment is of Little Worth(Lumine Version)
+Other Languages[]
+
+LanguageOfficial NameEnglishChen the SharpChinese(Simplified)快刀陈Kuàidāo ChénChinese(Traditional)快刀陳Kuàidāo ChénJapanese快刀陳Kaitou Chin‍[!][!]Assumed readingKorean쾌도진쾌도진快刀陳Kwaedo-JinSpanishEl Filoso ChenFrenchChen le tranchantRussianОстрый ЧэньOstryy Chen'ThaiChen the SharpVietnameseTrần Khoái ĐaoGermanChen die schnelle KlingeIndonesianChen The SharpPortugueseChen, O AfiadoTurkishUstura ChenItalianChen l'Arguto
+Change History[]
+Released in Version 1.0[Create New History]
+References[]
+
+
+
+

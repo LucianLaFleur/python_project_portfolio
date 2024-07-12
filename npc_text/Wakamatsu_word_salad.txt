@@ -1,0 +1,109 @@
+
+
+
+This page is in need of information.Can you help out? Click here to add more.Add location and context before completing Shrouded Vale, Hidden Hero.
+
+
+Wakamatsu
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Inazuma
+
+
+Location
+Liyue
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Wakamatsu is an open-world NPC located in Chenyu Vale, Liyue.
+
+Contents
+
+1 Location
+2 Idle Quotes
+3 Dialogue
+
+3.1 Dialogue Set #1
+3.2 Dialogue Set #2
+
+
+4 Other Languages
+5 Change History
+
+
+Location[]
+Wakamatsu can be found sitting by the roadside east of the Mt. Lingmeng teleport waypoint. After completing the World Quest Shrouded Vale, Hidden Hero, he will move to outside Wangshan Hall, sitting beside Wen the Fourth.
+
+NPC Location Wakamatsu.pngWakamatsu's initial locationNPC Location Wakamatsu Context.pngAdditional contextWakamatsu's final locationAdditional context
+Idle Quotes[]
+
+ Martial arts temple...
+Media:VO Wakamatsu 01.ogg "The martial arts temple is utterly spellbinding."
+
+Dialogue[]
+Dialogue Set #1[]
+Available before completing Shrouded Vale, Hidden Hero.
+
+
+Wakamatsu: It seems this is as far as I go...
+ Are you alright?
+Wakamatsu: I... I... I crossed the seas, evading the intercepting Shogunate Dogs, crossed light-years and seas of stars... only to be defeated by this mountain...
+ You sure you're not exaggerating...
+Wakamatsu: Master Zhenyu, I did not realize that the road to the shrine of martial skill was to be so arduous...
+ Good luck. See ya.
+Wakamatsu: How... mortifying...
+
+Dialogue Set #2[]
+Available after completing Shrouded Vale, Hidden Hero.
+
+
+Wakamatsu: Please, Master! Take me in as your disciple!
+Wen the Fourth: As long as you ensure that you will practice more...
+Wakamatsu: Rest assured, I will!
+Wakamatsu: Holding buckets with my arms outstretched, holding a low stance under a waterfall... I'll do them all!
+Wen the Fourth: Young man, such martial arts training methods don't exist.
+Wakamatsu: Haha. Once I learn this stuff, it's time to show them what for, eh?
+Wen the Fourth: *sigh* Young man, are you listening to me?
+Wen the Fourth: You need to start from the fundamentals, like that non-initiated disciple at the practice all. Start with the wooden stakes as your foe...
+
+Other Languages[]
+
+LanguageOfficial NameEnglishWakamatsuChinese(Simplified)若松Chinese(Traditional)若松Japanese若松WakamatsuKorean와카마츠WakamacheuSpanishWakamatsuFrenchWakamatsuRussianВакамацуVakamatsuThaiWakamatsuVietnameseWakamatsuGermanWakamatsuIndonesianWakamatsuPortugueseWakamatsuTurkishWakamatsuItalianWakamatsu
+Change History[]
+Released in Version 4.4[Create New History]
+
+
+

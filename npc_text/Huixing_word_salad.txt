@@ -1,0 +1,187 @@
+
+
+
+This article is about the Crux Fleet member. For the secretary of the Liyue Qixing, see Huixin.
+
+
+Huixing
+Navigator
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+								Voice Actors
+							
+
+
+
+
+
+Region
+Liyue
+
+
+Location
+Liyue
+
+
+Affil­i­a­tion
+The Crux
+
+
+
+
+English
+Anairis Quiñones[1]
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Huixing  (Chinese: 绘星 Huìxīng) is a member of the Crux Fleet. She can be found aboard the Alcor, located off the shores of Guyun Stone Forest.
+
+Contents
+
+1 Location
+2 Profile
+
+2.1 Appearance
+
+
+3 Quests and Events
+
+3.1 Story Quests
+
+3.1.1 Hangout Events
+
+
+3.2 Events
+
+
+4 Idle Quotes
+5 Dialogue
+6 Event Dialogue
+
+6.1 The Exquisite Night Chimes
+
+
+7 Trivia
+8 Other Languages
+9 Change History
+10 References
+
+
+Location[]
+Huixing's locationAdditional context
+Profile[]
+(To be added.)
+
+Appearance[]
+(To be added.)
+
+Quests and Events[]
+Story QuestsHangout EventsBeidouAct I: When the Crux Shines BrightA Special GuestLife on the High SeasEventsThe Exquisite Night ChimesVigilance at Sea
+Idle Quotes[]
+
+ What in the world...
+Media:VO Huixing 01.ogg "Hmm. What in the world do those symbols really mean?"
+
+Dialogue[]
+
+Huixing: What a headache. What do those symbols that the previous navigator drew mean? Are those areas where they encountered leviathans?
+ What's with the long face?
+Huixing: I'm the crew's navigator. Determining our heading and course is my charge, as is drawing up nautical charts.
+Huixing: Our previous navigator was getting on in years, so I came to take his spot.
+Huixing: He loved employing some unique symbols to mark his nautical maps, but he never bothered to explain the meaning behind them...
+Huixing: ...But I suppose that might be a quirk endemic to navigators.
+Huixing: I mean, it's quick and easy, if troublesome for anyone else.
+ What about those leviathans?
+Huixing: I've been fascinated by marine biology since I was a child. Especially those behemoths hidden deep beneath the waves...
+Huixing: To be honest, I signed up for this job precisely because I'd heard that Captain Beidou slew Haishan.
+Huixing: More's the pity that I haven't had the chance to see a leviathan with my own eyes. I'd really love to see one up close some day.
+Huixing: I've also heard some sailors say that they saw something like giant antennae around the Sea of Clouds...
+Huixing: ...Is that true or not? Who knows. Perhaps they were just seeing things while dead drunk.
+ How's the symbol deciphering coming along?
+(After completing Setting Sail)
+Huixing: Ah, ahoy there, Traveler! Welcome aboard the Alcor!
+Huixing: It's been quite tough, I won't lie, but it's gone well enough. We've obtained quite a lot of nautical maps from various sources, so a full deciphering will take some time.
+Huixing: I've heard that you're quite the code-breaker and puzzle-solver yourself. If I had your help, this would probably be much easier...
+Huixing: ...Well, when you're free, of course! Also, feel free to tell me if you need anything!
+ Well, see you, then.
+Huixing: I swear I'll become a navigator who actually does documentation...
+
+Event Dialogue[]
+The Exquisite Night Chimes[]
+
+Huixing: Sea conditions are consistent and there are no other vessels in target waters... Hmmm... very suitable for kicking off "Vigilance at Sea"!
+ Start "Vigilance at Sea."
+Huixing: Okay! Be sure to give it your all!
+ About the difficulty of "Vigilance at Sea"...
+Huixing: I would like to ask you guys: how did you guys find the challenge?
+Paimon: Paimon thought it wasn't too hard. This kind of test is a piece of cake for Paimon and (TravelerTravelerThe player's chosen name for the Traveler)!
+Huixing: Well, considering how formidable you two are, this sounds about right.
+Huixing: Thanks for your feedback. Now I know a little more! I'm going to have to think a little bit more about how to adjust the difficulty curve for both challenge and pass rate...
+ About the nine certificates...
+Huixing: The four major certificates and the five minor certificates? Simple.
+Huixing: The four major certificates consist of the "Fit for Sailing Certificate," the "Ship Maintenance Aptitude Certificate," the "Power Maintenance Aptitude Certificate," and the "Survivability at Sea Certificate."
+Huixing: The five minor certificates consist of the "Basic Safety Certificate," the "Lifeboat Certificate," the "Fire Safety Certificate," the "First Aid Certificate," and the "Monster-Precaution Certificate."
+Huixing: With all these certificates, a sailor is equipped to solve most of the problems of navigation.
+Huixing: Although the crew may not understand the principle of each request, they just need to remember the main points of the task and follow the instructions.
+Paimon: This doesn't sound simple at all!
+ And we still haven't gotten into the details yet...
+Huixing: No worries! With your talent, you can sail smoothly without having to bother with all the technical details!
+ I should consult Beidou when I have the chance...
+Huixing: Okay! The Captain is a bit of a straight shooter. You'll probably become experts after asking her!
+ I need some time to prepare.
+Huixing: I understand! You guys are measured and careful, so you guys might need some more time. I trust you guys!
+
+Trivia[]
+Despite being a member of the Alcor, she has no unique dialogue during "A Lone Ship In Guyun."
+Other Languages[]
+
+LanguageOfficial NameEnglishHuixingChinese(Simplified)绘星HuìxīngChinese(Traditional)繪星HuìxīngJapanese絵星Kaisei‍[!][!]Assumed readingKorean해성성星HaeseongSpanishHuixingFrenchHuixingRussianХуэй СинKhuey SinThaiHuixingVietnameseHuixingGermanHuixingIndonesianHuixingPortugueseHuixingTurkishHuixingItalianHuixing
+Change History[]
+Released in Version 1.0[Edit History]Version 2.3
+A new dialogue option, "How's the symbol deciphering coming along?", was added.
+
+Version 2.2
+
+Huixing's English title was changed from "Helmsman" to "Navigator."
+
+Version 1.0
+
+Huixing was released.
+References[]
+
+↑ Twitter: EN VA Self Announcement (Archived)
+
+
+
+
+

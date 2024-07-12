@@ -1,0 +1,115 @@
+
+
+
+
+
+Izad
+Forest Ranger
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Sumeru
+
+
+Location
+Sumeru
+
+
+Affil­i­a­tion
+Forest Rangers
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Izad is an open-world NPC located in Pardis Dhyai, Sumeru. He is a Forest Ranger of Gandharva Ville's Forest Watchers.
+
+Contents
+
+1 Location
+2 Idle Quotes
+3 Thoughts
+4 Dialogue
+5 Other Languages
+6 Change History
+
+
+Location[]
+Izad's locationAdditional context
+Idle Quotes[]
+
+ So pretty...
+Media:VO Izad 01.ogg "The plants here are growing so well..."
+
+Thoughts[]
+Izad's thoughts can be accessed by using Nahida's Elemental Skill, All Schemes to Know.
+
+
+Media:VO Izad All Schemes to Know 01.ogg Izad: (If only the rainforest's environment was also doing so well... But then I guess the Forest Rangers would be out of their jobs.)
+
+Dialogue[]
+
+Izad: An unusual floral fragrance permeates the air... I really would love to stay a little longer.
+ Is there anything of note nearby?
+(If there are Magical Crystal Ore Veins Izad knows; Version 1)
+
+Izad: I heard from some students passing by that some ores appeared in a place nearby. They were so absorbed in discussing a problem that they didn't watch where they were going and tripped over some Magical Crystal Ores.
+Izad: I could help clean them up if I had my tools with me... I can tell you the location if you want to check it out.
+Izad: Ores are pretty useful. You need them too, right?
+(Rich Ore Reserves marked on the map)
+(If there are Magical Crystal Ore Veins Izad knows; Version 2)
+
+Izad: I heard from some students passing by that some ores appeared in a place nearby. They were so absorbed in discussing a problem that they didn't watch where they were going and tripped over some ores.
+Izad: I could help clean them up if I had my tools with me... I can tell you the location if you want to check it out.
+Izad: Ores are pretty useful. You need them too, right?
+(Rich Ore Reserves marked on the map)
+(If there are no more Magical Crystal Ore Veins Izad knows)
+
+Izad: If you like flora and fauna, there are plenty of things to see.
+Izad: But it's impossible for me to name every one of them... Hehe, best to ask a Forest Watcher for that.
+ And you are...
+Izad: I'm a Forest Ranger of Avidya Forest. I'm in charge of liaison between the Forest Rangers and Pardis Dhyai.
+Izad: We send regular reports on the ecological situation in Avidya Forest to Pardis Dhyai, and Pardis Dhyai provides us with all kinds of assistance.
+Izad: For example, we recently received quite a bit of seeds and nutrients that Pardis Dhyai supplied for free.
+Izad: The Forest Rangers are in charge of selecting suitable planting areas or distributing the seeds to the nearby villagers, so that we can all add a little more green to the rainforest.
+ See you.
+Izad: Slow down and appreciate the flowers and plants here.
+
+Other Languages[]
+
+LanguageOfficial NameEnglishIzadChinese(Simplified)伊扎德YīzhādéChinese(Traditional)伊扎德YīzhādéJapaneseイザドIzadoKorean이자드IjadeuSpanishIzadFrenchIzadRussianИззардIzzardThaiIzadVietnameseIzadGermanIzadIndonesianIzadPortugueseIzadTurkishIzadItalianIzad
+Change History[]
+Released in Version 3.0[Create New History]
+
+
+

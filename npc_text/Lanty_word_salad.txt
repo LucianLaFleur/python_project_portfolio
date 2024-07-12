@@ -1,0 +1,114 @@
+
+
+
+
+
+Lanty
+Fontaine Research Institute Finances Office No. 5 Director
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Fontaine
+
+
+Location
+Fontaine
+
+
+Affil­i­a­tion
+Fontaine Research Institute
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Lanty is an open-world NPC located in New Fontaine Research Institute, Fontaine.
+
+Contents
+
+1 Location
+2 Quests and Events
+
+2.1 World Quests
+
+
+3 Idle Quotes
+4 Dialogue
+5 Other Languages
+6 Change History
+
+
+Location[]
+Lanty's locationAdditional context
+Quests and Events[]
+World QuestsFontaine Research Institute ChroniclesFontaine Research Institute, Stagnating in the Rubble
+Idle Quotes[]
+
+ So much accounting...
+Media:VO Lanty 01.ogg "Where do I even start with all the accounting?"
+
+Dialogue[]
+
+Lanty: I can't work anymore. What am I going to do...
+ What's your job?
+(Before completing Fontaine Research Institute, Stagnating in the Rubble)
+
+Lanty: I am... Uh, I used to be a clerk in 5th Finances Office at the Fontaine Research Institute.
+(After completing Fontaine Research Institute, Stagnating in the Rubble)
+
+Lanty: Hello, Honorary Senior Researcher. I'm so happy to see you...
+Lanty: I used to be a clerk in 5th Finances Office at the Fontaine Research Institute.
+Lanty: I was at the Maison Gestion discussing the delivery of some reports when the institute blew up. So I was lucky enough to, you know... not get blown up...
+Lanty: But our office and all our financial reports were blown to smithereens.
+Lanty: I mean, it's not bad news. But it's not good news, either...
+ Why isn't it bad news?
+Lanty: Because... There used to be numerous projects running at the Fontaine Research Institute, and each one would always be applying to purchase this or that resource. The volume was simply enormous.
+Lanty: In accordance with regulations, all purchases and expenses had to be recorded in detail in financial reports so we could carry out an end-of-year audit.
+Lanty: But most of the researchers didn't care much about following proper procedures for applications or records. The info they submitted was always a mess, mistakes and missing items everywhere...
+Lanty: The end-of-year audits never managed to completely settle all the accounts. And that meant we had to empty the filing cabinets in search of receipts and order forms... It was chaos.
+Lanty: But the explosion destroyed all that paperwork. Which means this year I'll be able to relax for once...
+ But you also said it's not good news?
+Lanty: Because... Hahaha, I'm now the only accountant able to work!
+Lanty: Rebuilding the Fontaine Research Institute is going to mean buying lots of materials. How am I meant to cope with all that accounting work on my own...
+Lanty: Oh, I'll just have to pray the reconstruction work goes slowly. Or that I can find a competent assistant...
+ See you.
+Lanty: Goodbye. I need to keep working on the financial reports.
+
+Other Languages[]
+
+LanguageOfficial NameEnglishLantyChinese(Simplified)郎蒂LángdìChinese(Traditional)郎蒂LángdìJapaneseランティRantiKorean랭티RaengtiSpanishLantyFrenchLantyRussianЛантиLantiThaiLantyVietnameseLantyGermanLantyIndonesianLantyPortugueseLantyTurkishLantyItalianLanty
+Change History[]
+Released in Version 4.1[Create New History]
+
+
+

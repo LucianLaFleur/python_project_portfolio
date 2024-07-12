@@ -1,0 +1,126 @@
+
+
+
+
+
+Jiawei
+Liyue Angler
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Liyue
+
+
+Location
+Liyue
+
+
+Affil­i­a­tion
+Fishing Association
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Jiawei is an open-world NPC located in Liyue Harbor, Liyue. He can be found fishing on the southern dock of the South Wharf.
+
+Contents
+
+1 Shop
+2 Location
+3 Profile
+
+3.1 Appearance
+
+
+4 Quests and Events
+
+4.1 Events
+
+
+5 Idle Quotes
+6 Dialogue
+7 Other Languages
+8 Change History
+
+
+Shop[]
+ItemFish CostStock
+ Blueprint: Pool of Sapphire Grace Medaka ×101
+ Wishmaker Medaka ×20 Sweet-Flower Medaka ×20 Betta ×20 Brown Shirakodai ×201
+ Fishing Line Stabilizer Medaka ×31
+
+Location[]
+Jiawei's locationAdditional context
+Profile[]
+(To be added.)
+
+Appearance[]
+(To be added.)
+
+Quests and Events[]
+EventsLunar RealmThe Moon Has Risen
+Idle Quotes[]
+
+ A beautiful woman...
+Media:VO Jiawei 01.ogg "The sea is like a beautiful woman: nice to see from time to time."
+
+Dialogue[]
+
+Jiawei: Hmm. I made my wife some Squirrel Fish yesterday... How about some Black-Back Perch Stew today, then?
+(After completing Exploding Population)
+ I'd like to buy some fishing supplies.
+Jiawei: Ah, so you're a hobbyist too, are you? Well, have a look. I sell nothing but the best!
+(Opens the Liyue Fishing Association shop menu)
+ Who are you?
+Jiawei: Ah, how do you do? My name's Jiawei.
+Jiawei: As you can see, I'm a fisherman... An elite one at that.
+Jiawei: I know I just look like some guy staring out into space here at the harbor, but back in the day, I was a seafaring, legendary-fish-catching professional!
+Jiawei: As for now, well, you've got to stay grounded, you know? A lifetime of adventure on the waves, with your family worrying about you day in and day out... That's no way to keep living forever.
+Jiawei: Wouldn't you agree?
+ So, what are you doing?
+Jiawei: I'm preparing ingredients, of course, haha!
+Jiawei: My wife really loves eating fish and is always hankering after something made from a fresh catch of mine. That's just how it is, you know?
+Jiawei: The good news is that I'm a dab hand and then some at fishing. After all, I am an elite fisherman — I even once put out to sea to catch a fish of legendary size back in the day.
+Jiawei: That was before I met her, of course, and I'm not going to delve into ancient history. Did you need something from me?
+ Goodbye.
+Jiawei: See you! May your catches ever swell in size.
+
+Other Languages[]
+
+LanguageOfficial NameEnglishJiaweiChinese(Simplified)嘉玮JiāwěiChinese(Traditional)嘉瑋JiāwěiJapanese嘉瑋Kai‍[!][!]Assumed readingKorean가온Ga-onSpanishJiaweiFrenchJiaweiRussianЦзя ВэйTszya VeyThaiJiaweiVietnameseJiaweiGermanJiaweiIndonesianJiaweiPortugueseJiaweiTurkishJiaweiItalianJiawei
+Change History[]
+Released in Version 2.1[Create New History]
+
+
+

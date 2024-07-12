@@ -1,0 +1,167 @@
+
+
+
+
+
+Ms. Bai
+Miller
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Liyue
+
+
+Location
+Liyue
+
+
+Affil­i­a­tion
+Qingce Village
+
+
+Dialogue Reward
+ 8
+
+
+Genius Invokation TCG
+Stages
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Ms. Bai (Chinese: 小白 Xiǎo Bái) is an open-world NPC located in Qingce Village. She sells Cooking Ingredients, Food Recipes and Local Specialties in exchange for Mora. Her shop restocks every 3 days.
+Following a certain dialogue branch for the first time gives the player  Tofu ×8.
+
+Contents
+
+1 Shop
+
+1.1 Ascension Materials, Food and Ingredients
+1.2 Recipes
+
+
+2 Location
+3 Profile
+
+3.1 Appearance
+
+
+4 Quests and Events
+
+4.1 Events
+
+
+5 Idle Quotes
+6 Dialogue
+7 Gallery
+8 Other Languages
+9 Change History
+
+
+Shop[]
+Ascension Materials, Food and Ingredients[]
+ItemCostStockTotalCostRefreshes
+ Qingce Stir Fry6,150212,300Daily
+ Tofu120101,200Every 3 Days
+ Almond150101,500Every 3 Days
+ Silk Flower1,00055,000Every 3 Days
+ Glaze Lily50,0003150,000Monthly
+Total cost for all items170,000 
+Recipes[]
+ItemCostStockTotalCostRequiredAdventure Rank
+ Recipe: Noodles with Mountain Delicacies2,50012,5001
+ Recipe: Qingce Stir Fry5,00015,0001
+ Recipe: Jueyun Guoba5,00015,0001
+Total cost for all items12,500 
+Location[]
+Ms. Bai's locationAdditional context
+Profile[]
+(To be added.)
+
+Appearance[]
+(To be added.)
+
+Quests and Events[]
+EventsLantern Rite TalesGuardians of the CountrysideQingce's LanternsThe Gift of a Lantern
+Idle Quotes[]
+
+ ♪~
+Media:VO Ms. Bai 01.ogg "I love how fresh the air is here."
+
+Dialogue[]
+
+Ms. Bai: Hello, how do you do? We don't often see young people like you.
+ What do you sell here?
+Ms. Bai: Would you like some tofu? I can guarantee that ours will surely satisfy you!
+(Opens Shop menu)
+ Adventure Challenge
+(Opens Genius Invokation TCG match interface)
+(If the player loses the match)
+
+Ms. Bai: How's my deck? Not bad, huh? My experience managing the mill came in handy while putting it together.
+(If the player wins the match)
+
+Ms. Bai: I've never seen anyone play this way! Is everyone in the city as good as you are?
+ Hello.
+Ms. Bai: Just call me Ms. Bai. This is my mill... Or more accurately, this is the mill that I oversee.
+Ms. Bai: Not bad at all, wouldn't you say?
+ What's with the mill?
+Ms. Bai: What's with it? This was left to me by my father. When I returned, I renovated it wholesale, and now maintain it every day.
+Ms. Bai: Maybe my father also once lived this kind of peaceful life... Every time I hear the sound of the water wheel, it reminds me of many things in my childhood.
+ It's not bad.
+Ms. Bai: Thanks, it's always nice to get positive feedback. This is more than just a mill— the tofu we make here is the best in all of Liyue!
+Ms. Bai: I know that sounds like bragging, but it's the truth. Many restaurants in Liyue Harbor order from us, and so does the Wangshu Inn!
+Ms. Bai: Of course, I could talk all day but nothing beats trying it for yourself. Here, have some on the house. If you like it, maybe you can consider buying some more in the future.
+(Obtain  Tofu ×8)
+ Young people, you say?
+Ms. Bai: Yes. Most of the young folks have gone out to seek work, and they don't return. We don't get many young foreign visitors either.
+Ms. Bai: Such is the allure of city life, I suppose.
+ See you.
+Ms. Bai: Goodbye, and stay safe!
+
+Gallery[]
+Fleeting Colors in Flight Event Cutscene Animation- "Age of Flowing Hues" - Genshin Impact
+Other Languages[]
+
+LanguageOfficial NameEnglishMs. BaiChinese(Simplified)小白Xiǎo BáiChinese(Traditional)小白Xiǎo BáiJapanese小白Shou Haku‍[!][!]Assumed readingKorean소백So BaekSpanishSrta. BaiFrenchXiaobaiRussianМисс БайMiss BayThaiBaiVietnameseXiaobaiXiaobai小白GermanFräulein BaiIndonesianNona BaiPortugueseXiaobaiTurkishBayan BaiItalianSignorina Bai
+Change History[]
+Released in Version 1.0[Edit History]Version 3.7
+Added a Genius Invokation TCG Adventure Challenge for Ms. Bai.
+
+Version 1.0
+
+Ms. Bai was released.
+
+
+

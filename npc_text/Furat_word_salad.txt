@@ -1,0 +1,104 @@
+
+
+
+
+
+Furat
+Merchant
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Sumeru
+
+
+Location
+Sumeru
+
+
+Dialogue Reward
+ 1
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Furat is an open-world NPC located in Pardis Dhyai, Sumeru.
+Following a certain dialogue branch for the first time gives the player one Nagadus Emerald Fragment.
+
+Contents
+
+1 Location
+2 Idle Quotes
+3 Thoughts
+4 Dialogue
+5 Other Languages
+6 Change History
+
+
+Location[]
+Furat's locationAdditional context
+Idle Quotes[]
+
+ Pretty laid-back...
+Media:VO Furat 01.ogg "Scholars' lives seem to be pretty relaxed."
+
+Thoughts[]
+Furat's thoughts can be accessed by using Nahida's Elemental Skill, All Schemes to Know.
+
+
+Media:VO Furat All Schemes to Know 01.ogg Furat: (The most recent batch of raw materials is flying off the shelves. The boss's intel proved to be useful once again.)
+
+Dialogue[]
+
+Furat: The environment here is so nice that even I feel like staying and attending classes.
+ Studying is a good thing.
+Furat: Hmm... In my opinion, it's half-and-half.
+Furat: If you are good at studying, you don't have to worry about making a living; but if you are too good, I hear there's a risk of going mad?
+Furat: So, it's best for an ordinary person like me to just look for a job that suits me.
+Furat: Oh right, I forgot to introduce myself. I'm a supplier, and I mainly provide Pardis Dhyai with basic supplies.
+Furat: You can contact me too, if you need any daily necessities.
+ I'll keep that in mind.
+Furat: Good! Looking forward to hearing from you then.
+Furat: If not for the business, we can still shake hands for becoming friends. Please accept this as a gift from me. I'm sure it'll be useful someday.
+(Obtain  Nagadus Emerald Fragment)
+ See you.
+Furat: Bye!
+
+Other Languages[]
+
+LanguageOfficial NameEnglishFuratChinese(Simplified)富拉特FùlātèChinese(Traditional)富拉特FùlātèJapaneseフラトFuratoKorean푸라트PurateuSpanishFuratFrenchFuratRussianФуратFuratThaiFuratVietnameseFuratGermanFuratIndonesianFuratPortugueseFuratTurkishFuratItalianFurat
+Change History[]
+Released in Version 3.0[Create New History]
+
+
+

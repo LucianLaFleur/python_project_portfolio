@@ -1,0 +1,130 @@
+
+
+
+
+
+Zhenyuan
+Kite Stall Owner
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+								Family
+							
+
+
+
+
+
+Region
+Liyue
+
+
+Location
+Liyue
+
+
+
+
+Relative
+Granny Shan (Aunt)
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Event-Exclusive NPCs 
+
+
+
+
+Zhenyuan is a event-exclusive NPC that appears in the Event Vibrant Harriers Aloft in Spring Breeze. During the event, she sells various kites that the player may purchase.
+
+Contents
+
+1 Shop
+2 Profile
+
+2.1 Appearance
+
+
+3 Quests and Events
+
+3.1 Events
+
+
+4 Idle Quotes
+5 Dialogue
+6 Other Languages
+7 Change History
+
+
+Shop[]
+ItemCostStockTotalCost
+ Blueprint: Celebratory Kite: Successive Prosperity20,000120,000
+ Blueprint: Celebratory Kite: All's Well20,000120,000
+ Blueprint: Celebratory Kite: Butterfly Dance20,000120,000
+ Blueprint: Celebratory Kite: Prosperity and Wealth20,000120,000
+Total cost for all items80,000
+Profile[]
+(To be added.)
+
+Appearance[]
+(To be added.)
+
+Quests and Events[]
+EventsVibrant Harriers Aloft in Spring BreezePart I: The Orioles Bask in Spring, the Heavens Present AuspicesThe Orioles Bask in Spring, the Heavens Present AuspicesPart III: The Glede Returns to the PavilionThe Glede Returns to the Pavilion
+Idle Quotes[]
+
+ Come see the kites!
+Media:VO Zhenyuan Lantern Rite 01.ogg Zhenyuan: Come see the kites!
+
+Dialogue[]
+
+Zhenyuan: Welcome! We've got all sorts of new kites here! Feel free to take a look!
+ I'll have a look at those kites.
+Zhenyuan: Right over here, then. Take your time — I'll even give you a discount.
+ So, about the kites here...
+Zhenyuan: Oh? Are you wondering where I got them from? Well, they're all home-made by myself and my family!
+Zhenyuan: Don't you worry, I've been learning this craft from my aunt Granny Shan since I was a kid. I've been in this line for over a decade now, so rest assured, my handiwork's fine as fine can be.
+Zhenyuan: Ah, she was pleased as punch to hear that this year's theme was kites.
+Zhenyuan: But she also told me in her letters of how she couldn't wrangle with those new Fontainian devices, so I came over to help her out.
+Zhenyuan: You could say that kite-making's a family craft. If you like 'em, feel free to buy a few more!
+ About the art of making kites...
+Zhenyuan: Ah, guess I haven't told you all that much about my aunt, Granny Shan, have I?
+Zhenyuan: Everyone in my family can at least sorta make kites, but she's the best at it by far. You could even call her love for making 'em an "obsession" of sorts.
+Zhenyuan: How her eyes would sparkle when she taught me the traditional lantern patterns! I listened and studied hard... but I couldn't tell you if I'd ever catch up with her.
+Zhenyuan: Hehe... Now, she might look old, but you should see the smile on her face when she's working with those kites!
+Zhenyuan: If my kids are willing, I'd love to hand this craft down to them, too...
+ See you around.
+Zhenyuan: See you! Have fun now, and have a Happy Lantern Rite!
+
+Other Languages[]
+
+LanguageOfficial NameEnglishZhenyuanChinese(Simplified)枕鸢Chinese(Traditional)枕鳶Japanese枕鳶Chin'en‍[!][!]Assumed readingKorean진연JinyeonSpanishZhenyuanFrenchZhenyuanRussianЧжэнь ЮаньChzhen' Yuan'ThaiZhenyuanVietnameseZhenyuanGermanZhenyuanIndonesianZhenyuanPortugueseZhenyuanTurkishZhenyuanItalianZhenyuan
+Change History[]
+Released in Version 4.4[Create New History]
+
+
+

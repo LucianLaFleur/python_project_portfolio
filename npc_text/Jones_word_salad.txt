@@ -1,0 +1,121 @@
+
+
+
+
+
+Jones
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Mondstadt
+
+
+Locations
+InazumaMondstadt
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Jones is an open-world NPC located in Ritou, Inazuma. He originally hails from Mondstadt.
+After finishing the Raiden Shogun's Story Quest Act II, Jones returns to the port in Mondstadt.
+
+Contents
+
+1 Location
+2 Profile
+
+2.1 Appearance
+
+
+3 Idle Quotes
+4 Dialogue
+5 Other Languages
+6 Change History
+
+
+Location[]
+Jones' location before completing Transient DreamsAdditional contextJones' location after completing Transient DreamsAdditional context
+Profile[]
+(To be added.)
+
+Appearance[]
+(To be added.)
+
+Idle Quotes[]
+Default Location
+
+ Ah, I got fooled...
+Media:VO Jones 01.ogg "Ugh, I got lied to. Why is this job so hard?"
+
+After completing Transient Dreams
+
+ Never again...
+Media:VO Jones 02.ogg "Ugh, I'm never going back to Inazuma, not for a million Mora!"
+
+Dialogue[]
+
+(Before completing Transient Dreams)
+Jones: Darn it. If I knew that this was the case, I wouldn't have taken this job...
+ What's with the long face?
+Jones: I'm regretting getting duped into coming to Inazuma.
+Jones: I was making a living by doing some menial labor at Dornman Port before this. And then I ran into people from the Kanjou Commission who were recruiting sailors.
+Jones: Their supervisor told me that it wouldn't be a tiring gig and that it paid well. I could even travel to Inazuma!
+Jones: Because of the lockdown now, regular people can't come to Inazuma at all. Only cargo ships affiliated with the Kanjou Commission may pass through.
+Jones: I figured that it might be a good job since I could visit the outside world and make some money. That's why I boarded the ship with them.
+Jones: Who knew that I would not even have a chance to walk around freely once I got here...
+Jones: This job is hard and tiring, and I can't even return to Mondstadt if I don't finish the job here! What kind of crap is this?
+ Goodbye.
+Jones: Goodbye. *sigh* Maybe I could swim back to Mondstadt... Actually, never mind. I don't think that's a good idea.
+(After completing Transient Dreams)
+Jones: Thanks to be the Anemo Archon. I swear I'll never leave Mondstadt again...
+ Why's that?
+Jones: Well, it all goes back to Inazuma.
+Jones: I was making a living by doing some menial labor at Dornman Port before all this. And then I ran into people from the Kanjou Commission who were recruiting sailors.
+Jones: Their supervisor told me that it wouldn't be a tiring gig and that it paid well. I could even travel to Inazuma!
+Jones: Back when we were all locked down, regular people couldn't come to Inazuma at all. Only cargo ships affiliated with the Kanjou Commission could pass through.
+Jones: I figured that it might be a good job since I could visit the outside world and make some money. That's why I boarded the ship with them.
+Jones: But the moment I got there, I was stuck in Ritou, and had to do all kinds of hard, exhausting labor!
+Jones: So you bet you that last Mora the moment the Sakoku Decree was abolished, I was on the first ship back home.
+Jones: Thank you, Lord Barbatos, for blowing the winds of freedom toward Inazuma...
+ See you.
+Jones: Take it from me, friend: Don't go running off to other nations as and when you like!
+
+Other Languages[]
+
+LanguageOfficial NameEnglishJonesChinese(Simplified)琼斯QióngsīChinese(Traditional)琼斯QióngsīJapaneseジョーンズJoonsuKorean존스JonseuSpanishJonesFrenchJonesRussianДжонсDzhonsThaiJonesVietnameseJonesGermanJonesIndonesianJonesPortugueseJonesTurkishJonesItalianJones
+Change History[]
+Released in Version 2.0[Create New History]
+
+
+

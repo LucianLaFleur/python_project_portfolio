@@ -1,0 +1,143 @@
+
+
+
+
+
+Jut
+Spice Merchant
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+								Family
+							
+
+
+
+
+
+Region
+Sumeru
+
+
+Location
+Sumeru
+
+
+Dialogue Reward
+ 4
+
+
+
+
+Father
+Hamawi
+
+
+Siblings
+SalMawyo
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Jut is an open-world NPC that can be found in the Grand Bazaar in Sumeru City, Sumeru.
+Following a certain dialogue branch for the first time gives the player four Padisarah.
+
+Contents
+
+1 Shop
+2 Location
+3 Quests and Events
+
+3.1 Story Quests
+3.2 Commissions
+
+
+4 Idle Quotes
+5 Thoughts
+6 Dialogue
+7 Character Mentions
+
+7.1 Character Stories
+
+
+8 Other Languages
+9 Change History
+
+
+Shop[]
+ItemCostStockTotalCostRefreshes
+ Tahchin6,600213,200Daily
+ Biryani12,500225,0003 Days
+ Harra Fruit240102,4003 Days
+ Padisarah1,00055,0003 Days
+ Spice540105,400Weekly
+Total cost for all items51,000 
+Location[]
+Jut's locationAdditional context
+Quests and Events[]
+Story QuestsLotos Somno Chapter (Nilou)Act I: To the WiseThe Warm Rhythm of the StreetsShow CanceledThe Reason We Are Gathered Here (non-speaking)CommissionsEquivalent Exchange Once MorePrice Comparison
+Idle Quotes[]
+
+ All kinds of spices...
+Media:VO Jut 01.ogg "Welcome! Get your spices here; we got all kinds!"
+
+Thoughts[]
+Jut's thoughts can be accessed by using Nahida's Elemental Skill, All Schemes to Know.
+
+Media:VO Jut All Schemes to Know 01.ogg Jut: (Dad's worrying about Mawyo again, I'll bet...)
+Dialogue[]
+
+Jut: Hello, looking to buy some spices?
+ Yes.
+Jut: No problem, just let me know when you've made your decision.
+(Opens the Shop menu)
+ And you are...
+Jut: I'm a spice merchant. I mainly provide locals with spices for their daily needs, but I also sell some spiced-up side dishes.
+Jut: Some researchers even come personally to gather the spices.
+Jut: I even got a source for rare Padisarahs through a friend in the Eremites. Come to me if you need some.
+ I see someone's pretty well connected.
+Jut: Hehe, you flatter me... It's just that I often sent gifts to my guests when I first started out, so they were willing to tell others about my store to help my business.
+Jut: Business is all about treating people with sincerity, you know.
+Jut: Is this your first time here? Here, take these. I hope they can bring a different flavor to your table.
+(Obtain  Padisarah ×4)
+ Maybe next time.
+Jut: No problem, come back any time.
+
+Character Mentions[]
+Character StoriesCharacterStoriesNilouCharacter Story 2
+Other Languages[]
+
+LanguageOfficial NameEnglishJutChinese(Simplified)朱特ZhūtèChinese(Traditional)朱特ZhūtèJapaneseジュートJuutoKorean주트JuteuSpanishYutFrenchJutRussianДжутDzhutThaiJutVietnameseJutGermanJutIndonesianJutPortugueseJutTurkishJutItalianJut
+Change History[]
+Released in Version 3.0[Create New History]
+
+
+

@@ -1,0 +1,149 @@
+
+
+
+
+
+Jabari
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+								Family
+							
+
+
+
+
+
+Region
+Sumeru
+
+
+Location
+Sumeru
+
+
+Dialogue Reward
+ 3
+
+
+
+
+Spouse
+Sania
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Jabari is an open-world NPC located in Aaru Village, Sumeru.
+Following a certain dialogue branch for the first time gives the player three Delicious Aaru Mixed Rice.
+
+Contents
+
+1 Location
+2 Quests and Events
+
+2.1 Archon Quests
+
+
+3 Idle Quotes
+4 Thoughts
+5 Dialogue
+
+5.1 Daytime
+5.2 Nighttime
+
+
+6 Other Languages
+7 Change History
+
+
+Location[]
+Jabari's locationAdditional context
+Quests and Events[]
+Archon QuestsChapter IIIAct IV: King Deshret and the Three MagiThe Missing Village Keepers
+Idle Quotes[]
+
+(Daytime)
+ What should I make...
+Media:VO Jabari 01.ogg "What should I make for dinner..."
+(Nighttime)
+ Relax...
+Media:VO Jabari 02.ogg "You need to stay calm!"
+
+Thoughts[]
+Jabari's thoughts can be accessed by using Nahida's Elemental Skill, All Schemes to Know.
+
+
+(Daytime)
+Media:VO Jabari All Schemes to Know 01.ogg Jabari: (What should I have for dinner...)
+(Nighttime)
+Media:VO Jabari All Schemes to Know 02.ogg Jabari: (Uh... Not again...)
+
+Dialogue[]
+Daytime[]
+
+Jabari: Answer this question real quick, would you? Fish, or meat?
+ I'll take them all.
+Jabari: ...Well, that was quick.
+Jabari: But unfortunately, I'm afraid that only one meat dish is permitted at a time at my family's table.
+Jabari: Otherwise, my wife will talk my ear off about "earnings" and "saving Mora" all night, starting at the dinner table.
+ Wait. Fish don't count as meat?
+Jabari: ...Well, that's an unexpected reply!
+Jabari: Does fish count as meat? Hmm. I suppose each person might have a different answer in mind...
+Jabari: But that's not the problem here. I'm just wondering what I should have for dinner.
+Jabari: Speaking of which, are you hungry? Would you like to have a little something?
+Jabari: I don't mean to brag, but I do make some excellent food. Drop by if you've got the time and try some!
+ I'm alright, but my companion might be hungry.
+Jabari: Ah yes, I can see how that might become a problem.
+Jabari: The troubles of a teammate by your side can be even harder to handle than your own.
+Jabari: Whatever the case, why don't you try some?
+(Obtain  Delicious Aaru Mixed Rice ×3)
+ Either?
+Jabari: Hmm... Well, that's not a useful reply, but fair enough, I'll give it some more thought.
+
+Nighttime[]
+
+Sania: Hmmm. It seems that this is all the Mora I have at the moment...
+Sania: Ugh. How am I supposed to live like this?
+Jabari: Hey, hey. Relax. Relax...
+Jabari: Come on now. I've done some handiwork recently and got plenty of food in return, didn't I?
+Sania: And so what? You want us to go on living from hand to mouth like this? What are we going to do when those menial jobs stop making us Mora?
+Sania: I'm not going to just watch that happen, unlike you!
+Sania: *sigh* Sometimes I wonder if I'm the only one in this family who actually worries about our future here...
+
+Other Languages[]
+
+LanguageOfficial NameEnglishJabariChinese(Simplified)杰巴里JiébālǐChinese(Traditional)傑巴里JiébālǐJapaneseジェバーリJebaariKorean자바리JabariSpanishYabariFrenchJabariRussianДжабариDzhabariThaiJabariVietnameseJabariGermanJabariIndonesianJabariPortugueseJabariTurkishJabariItalianJabari
+Change History[]
+Released in Version 3.1[Create New History]
+
+
+

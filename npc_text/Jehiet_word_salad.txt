@@ -1,0 +1,174 @@
+
+
+
+
+
+Jehiet
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+								Family
+							
+
+
+
+								Voice Actors
+							
+
+
+
+
+
+Region
+Sumeru
+
+
+Location
+Sumeru
+
+
+Affil­i­a­tion
+Vimara Village
+
+
+Dialogue Reward
+ 3
+
+
+
+
+Child
+Iotham (adopted)
+
+
+
+
+English
+Chloe Eves[1]
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Jehiet is an open-world NPC located in Vimara Village, Sumeru. Originally a mercenary of The Eremites, she decided to leave that lifestyle and live in Vimara Village. She adopted Iotham after he was abandoned by his parents.
+Her dialogue is updated with a new dialogue branch after completing the Aranyaka quest Woodland Encounter. Following the new branch rewards three Delicious Curry Shrimp.
+
+Contents
+
+1 Location
+2 Profile
+3 Quests and Events
+
+3.1 World Quests
+
+
+4 Idle Quotes
+5 Thoughts
+6 Dialogue
+
+6.1 Dialogue Set #1
+6.2 Dialogue Set #2
+
+
+7 Other Languages
+8 Change History
+9 References
+
+
+Location[]
+Jehiet's locationAdditional context
+Profile[]
+Once a famous member of The Eremites known as "The Lioness,"[2] Jehiet later decided to settle down in Vimara Village. While she was living there, a foreign couple who visited the village abandoned their son, Iotham, there. Unwilling to let the boy starve, Jehiet decided to take him in.
+
+Quests and Events[]
+World QuestsAranyakaPart I: Woodland EncounterThe Children of Vimara Village
+Idle Quotes[]
+
+ Are you a guest...
+Media:VO Jehiet 01.ogg "Ah! A visitor. Have you come from somewhere far away?"
+ Vimara Village...
+Media:VO Jehiet 02.ogg "Vimara Village is much better than the desert."
+
+Thoughts[]
+Jehiet's thoughts can be accessed by using Nahida's Elemental Skill, All Schemes to Know.
+
+
+Media:VO Jehiet All Schemes to Know 01.ogg Jehiet: (I made the right decision to move here.)
+
+Dialogue[]
+Dialogue Set #1[]
+Available before completing Woodland Encounter.
+
+
+Jehiet: Oh, are you a guest from afar...?
+Jehiet: If so, you should rest for a good while in Vimara Village. It is much more comfortable here than in the desert...
+ About the desert environment...
+Jehiet: The temperature difference between day and night in the desert is frightening. The wind howls and the sun burns...
+Jehiet: I didn't care about that when I was young. But now, I prefer places that are warm and humid...
+ Goodbye...
+Jehiet: Goodbye. I hope you enjoy the peace and quiet here.
+
+Dialogue Set #2[]
+Unlocked after completing Woodland Encounter.
+
+
+Jehiet: The Vimara Village's environment is much better than that in the desert. Have some good rest, little guest...
+ About the desert environment...
+Jehiet: The temperature difference between day and night in the desert is frightening. The wind howls and the sun burns...
+Jehiet: I didn't care about that when I was young. But now, I prefer places that are warm and humid...
+ About Iotham...
+Jehiet: Iotham... There was a foreign couple in Vimara Village once, and they left Iotham behind when they left.
+Jehiet: We didn't know what to do...
+Jehiet: At that time, I felt terrible for the little child. If they didn't want to raise him, I would!
+Jehiet: It was just one more mouth to feed. How could I watch him starve?
+Jehiet: Iotham is a good boy who's sensible and holds respect for the elders. Now my biggest wish is that he can grow up happy and healthy.
+ I'm sure Iotham will grow up, healthy and strong.
+Jehiet: Thank you, little guest. Iotham has told me so much about you. He admires you a lot!
+Jehiet: You're still young with much room for growth. Keep a healthy diet, and you can be stronger. Now, these are for you.
+Jehiet: Come back to Vimara Village if you ever feel tired or need a break. Iotham will be happy to see you.
+(Obtain  Delicious Curry Shrimp ×3)
+ Goodbye...
+Jehiet: Goodbye. I hope you'll enjoy the peaceful lifestyle here, dear guest.
+
+Other Languages[]
+
+LanguageOfficial NameEnglishJehietChinese(Simplified)婕叶JiéyèChinese(Traditional)婕葉JiéyèJapaneseジェイットJeittoKorean제히엣JehietSpanishJehietFrenchJehietRussianДжехьетDzhekh'yetThaiJehietVietnameseJehietGermanJehietIndonesianJehietPortugueseJehietTurkishJehietItalianJehiet
+Change History[]
+Released in Version 3.0[Create New History]
+References[]
+
+↑ Twitter: EN VA Self Announcement (Archived)
+
+↑ NPC Dialogue: Kurash
+
+
+
+
+

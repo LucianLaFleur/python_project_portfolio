@@ -1,0 +1,128 @@
+
+
+
+
+
+Mr. Zhu
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Liyue
+
+
+Location
+Liyue
+
+
+Affil­i­a­tion
+Emerald Maple Inn
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Mr. Zhu is an open-world NPC in Guili Plains, Liyue. He is located at the Emerald Maple Inn, which he is the proprietor of, in the Sea of Clouds between the Statue of The Seven in the area and Luhua Pool. He sells various food items.
+
+Contents
+
+1 Shop
+2 Location
+3 Profile
+
+3.1 Appearance
+
+
+4 Quests and Events
+
+4.1 Story Quests
+4.2 World Quests
+4.3 Events
+
+
+5 Idle Quotes
+6 Dialogue
+7 Other Languages
+8 Change History
+
+
+Shop[]
+His stock refreshes every day.
+
+ItemCostStockTotalCostRefreshes
+ Pop's Teas1,0001010,000Daily
+ Mora Meat430104,300Daily
+ Stir-Fried Filet900109,000Daily
+Total cost for all items23,300 
+Location[]
+Mr. Zhu's locationAdditional context
+Profile[]
+(To be added.)
+
+Appearance[]
+(To be added.)
+
+Quests and Events[]
+Story QuestsAstrolabos Chapter (Mona)Act I: Beyond This World's StarsAstrology and the 50-Year PactWorld QuestsOld Tastes Die HardEventsLantern Rite TalesLantern Rite, Big Business?
+Idle Quotes[]
+
+ Opening an inn here...
+Media:VO Mr. Zhu 01.ogg "Opening an inn here was the worst idea ever."
+
+Dialogue[]
+
+Mr. Zhu: Greetings, esteemed guest! Are you here to put your feet up for a while, or are you checking in for a night or more?
+ I'd like to buy a snack.
+Mr. Zhu: Need a bite to eat? What can I get you?
+ Just passing by.
+Mr. Zhu: Uh... Great! That works too — care to stop in for a nice cup of hot tea or a bite to eat?
+ It's pretty deserted here.
+Mr. Zhu: *sigh* Yeah, tell me about it... I should have listened to my old man and stayed at home, what am I doing, trying to run this inn out here...
+Mr. Zhu: I sure picked a bad spot to open an inn — it's right between Wangshu Inn and Liyue Harbor...
+Mr. Zhu: Travelers coming down from the north always pass by Wangshu Inn and end up stopping off there, and as for the travelers coming up from the south...
+Mr. Zhu: They pretty much only ever come up this way after drinking themselves into a stupor in Liyue Harbor...
+Mr. Zhu: ...*sigh* So it looks like I'm never going to have any guests here.
+ What are you going to do about this place?
+Mr. Zhu: I'll keep it going as long as I can... If no one ends up staying here, I guess it'll be time for a not-so-grand closing; then I'll just sell off this god-forsaken place for whatever I can get.
+Mr. Zhu: It's just not possible to make a living in this line of work...
+Mr. Zhu: And I'm not exactly a top-tier talent. *sigh* There's nothing going for me... I guess I'll just have to go back home and take over the three jade mining facilities my old man left behind, and just try my best to get by in life.
+ Goodbye.
+Mr. Zhu: Take care!
+
+Other Languages[]
+
+LanguageOfficial NameEnglishMr. ZhuChinese(Simplified)朱老板Zhū LǎobǎnChinese(Traditional)朱老闆Zhū LǎobǎnJapanese朱店主Shu-tenshu‍[!][!]Assumed readingKorean주 사장Ju SajangSpanishSr. ZhuFrenchM. ZhuRussianМистер ЧжуMister ChzhuThaiเถ้าแก่ ZhuThaokai ZhuVietnameseÔng chủ ZhuGermanHerr ZhuIndonesianTuan ZhuPortugueseSr. ZhuTurkishBay ZhuItalianSignor Zhu
+Change History[]
+Released in Version 1.0[Create New History]
+
+
+

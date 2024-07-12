@@ -1,0 +1,127 @@
+
+
+
+
+
+Railah
+Researcher
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Sumeru
+
+
+Location
+Sumeru
+
+
+Affil­i­a­tion
+Sumeru Akademiya
+
+
+Dialogue Reward
+ 1
+
+
+Genius Invokation TCG
+Stages
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Railah is an open-world NPC located in Caravan Ribat, Sumeru.
+She can be found just by the entrance of Caravan Ribat.
+Following a certain dialogue branch for the first time gives the player one Guide to Ingenuity.
+
+Contents
+
+1 Location
+2 Idle Quotes
+3 Thoughts
+4 Dialogue
+5 Other Languages
+6 Change History
+
+
+Location[]
+Railah's locationAdditional context
+Idle Quotes[]
+
+ Because and so...
+Media:VO Railah 01.ogg "Because things are so, ergo they are such."
+
+Thoughts[]
+Railah's thoughts can be accessed by using Nahida's Elemental Skill, All Schemes to Know.
+
+
+Media:VO Railah All Schemes to Know 01.ogg Railah: (Being deployed to Caravan Ribat is not bad. At least I won't have to deal with those obscure jokes anymore.)
+
+Dialogue[]
+
+Railah: Every result has a reason, and every reason has a consequence.
+ Duel
+(Opens Genius Invokation TCG match interface)
+(If the player loses the match)
+
+Railah: As the cause, so the effect. Would you like to try again?
+(If the player wins the match)
+
+Railah: What? ...I lost? Hmm, but what is there to complain about anyway...
+ Uh...
+Railah: Was it too difficult to understand?
+Railah: Ah, it's fine. That's what everyone thinks. You're not the first, and definitely not the last.
+Railah: It's just like my research. It doesn't matter if I think forward or go backward, the possibilities are always infinite.
+ You're carrying out research here?
+Railah: Knowledge does not change with the locale, and locale does not change with knowledge.
+Railah: Rainforest and desert, permit and prohibition, wisdom and ignorance, life and death... Everything in the world is just like that.
+ Sounds reasonable but doesn't quite make sense in the meantime.
+Railah: Hahaha, that means you have reached the threshold of wisdom.
+Railah: Good, good. You are clever, even better than many scholars.
+(Obtain  Guide to Ingenuity)
+ See you.
+Railah: Goodbye. Farewells and reunions are mutually fulfilling as well.
+
+Other Languages[]
+
+LanguageOfficial NameEnglishRailahChinese(Simplified)莱拉LáilāChinese(Traditional)萊拉LáilāJapaneseライラーRairaaKorean라일라RaillaSpanishRailahFrenchRailahRussianРайлаRaylaThaiRailahVietnameseRailahGermanRailahIndonesianRailahPortugueseRailahTurkishRailahItalianRailah
+Change History[]
+Released in Version 3.0[Edit History]Version 3.7
+Added a Genius Invokation TCG Duel for Railah.
+
+Version 3.0
+
+Railah was released.
+
+
+

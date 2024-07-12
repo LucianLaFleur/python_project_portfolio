@@ -1,0 +1,125 @@
+
+
+
+
+
+Hushang
+Toy Seller
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Sumeru
+
+
+Location
+Sumeru
+
+
+Genius Invokation TCG
+Stages
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Hushang (Chinese: 胡尚 Húshàng) is an open-world NPC located in Grand Bazaar, Sumeru City, Sumeru.
+
+Contents
+
+1 Location
+2 Quests and Events
+
+2.1 Archon Quests
+2.2 Story Quests
+
+
+3 Idle Quotes
+4 Thoughts
+5 Dialogue
+6 Character Mentions
+
+6.1 Character Stories
+
+
+7 Other Languages
+8 Change History
+
+
+Location[]
+Hushang's locationAdditional context
+Quests and Events[]
+Archon QuestsChapter IIIAct V: Akasha Pulses, the Kalpa Flame RisesJnagarbha DayA Toast to VictoryStory QuestsLotos Somno Chapter (Nilou)Act I: To the WiseThe Warm Rhythm of the StreetsShow CanceledThe Reason We Are Gathered Here (non-speaking)
+Idle Quotes[]
+
+ Snezhnayan toys...
+Media:VO Hushang 01.ogg "Pftt, what's so great about Snezhnayan toys anyway?"
+
+Thoughts[]
+Hushang's thoughts can be accessed by using Nahida's Elemental Skill, All Schemes to Know.
+
+
+Media:VO Hushang All Schemes to Know 01.ogg Hushang: (If I had the money to hire a fleet, I would've opened up a Liyue market ages ago!)
+
+Dialogue[]
+
+Hushang: If only I could break into the Liyue market...
+ Duel
+(Opens Genius Invokation TCG match interface)
+(If the player loses the match)
+
+Hushang: I won! As a toy maker, I'm practically a colleague of these card makers and of course I understand how things work!
+(If the player wins the match)
+
+Hushang: Alas... What's so fun about cards? Come on, guest, look at the toys I've made...
+ What are you planning?
+Hushang: It's about the toy trade. I hear that toys from Snezhnaya sell very well in Liyue, and now I'm feeling some regret.
+Hushang: If I could have seized the opportunity to bring my handmade toys to Liyue, they'd definitely be more popular now than anything from Snezhnaya!
+Hushang: What could a frigid place like that know about a child's heart?
+ See you.
+Hushang: Why, why!?
+
+Character Mentions[]
+Character StoriesCharacterStoriesNilouCharacter Story 2
+Other Languages[]
+
+LanguageOfficial NameEnglishHushangChinese(Simplified)胡尚HúshàngChinese(Traditional)胡尚HúshàngJapaneseフーシャングFuushanguKorean호상호상胡尚HosangSpanishHushangFrenchHushangRussianХу ШанKhu ShanThaiHushangVietnameseHushangGermanHushangIndonesianHushangPortugueseHushangTurkishHushangItalianHushang
+Change History[]
+Released in Version 3.0[Edit History]Version 3.3
+Added a Genius Invokation TCG Duel for Hushang.
+
+Version 3.0
+
+Hushang was released.
+
+
+

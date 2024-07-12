@@ -1,0 +1,226 @@
+
+
+
+This article is about the Inazuma NPC. For the Mondstadt NPC, see Anna.
+
+
+Kiminami Anna
+Owner of Kiminami Restaurant
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+								Voice Actors
+							
+
+
+
+
+
+Region
+Inazuma
+
+
+Location
+Inazuma
+
+
+Affil­i­a­tion
+Kiminami Restaurant
+
+
+Dialogue Reward
+ 4
+
+
+
+
+English
+Brittany Lauda[1]
+
+
+Korean
+Jeong Yu-jeong (정유정)[2]
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Kiminami Anna (Japanese: 木南杏奈 Kiminami Anna) is an open-world NPC located in Inazuma City, Inazuma. She is the owner of Kiminami Restaurant, a well-known restaurant in the Hanamizaka area.
+Upon completing Food From Afar in Kamisato Ayaka's Story Quest, Grus Nivis Chapter: Act I - The Whispers of the Crane and the White Rabbit, a certain dialogue branch for the first time gives the player four Tuna Sushi.
+
+Contents
+
+1 Shop
+
+1.1 Food
+1.2 Recipes
+
+
+2 Location
+3 Profile
+
+3.1 Appearance
+
+
+4 Story
+5 Quests
+
+5.1 Story Quests
+
+5.1.1 Hangout Events
+
+
+5.2 World Quests
+
+
+6 Idle Quotes
+7 Dialogue
+
+7.1 Dialogue Set #1
+7.2 Dialogue Set #2
+
+
+8 Other Languages
+9 Change History
+10 References
+
+
+Shop[]
+Food[]
+ItemCostStockTotalCostRefreshes
+ Delicious Rice Cake Soup7,425214,850Daily
+ Mushroom Pizza6,075212,150Daily
+ Special Mushroom Pizza6,075212,150Daily
+Total cost for all items39,150 
+Depending on the ingredients chosen in Food From Afar, only one of either Mushroom Pizza or Special Mushroom Pizza will initially be available. The other will become available after completing Pizza From Another Land.
+
+Recipes[]
+ItemCostStockTotalCostRequiredAdventure Rank
+ Recipe: Soba Noodles1,25011,250?
+ Recipe: Tuna Sushi2,50012,500?
+ Recipe: Radish and Fish Stew2,50012,500?
+ Recipe: Wakatakeni2,50012,500?
+ Recipe: Berry Mizu Manjuu2,50012,500?
+ Recipe: Tricolor Dango5,00015,000?
+ Recipe: Tri-Flavored Skewer5,00015,000?
+ Recipe: Taiyaki5,00015,000?
+ Recipe: More-and-More5,00015,000?
+Total cost for all items31,250 
+Location[]
+Kiminami Anna's locationAdditional context
+Profile[]
+Anna's family owns Kiminami Restaurant, a well-known restaurant in the Hanamizaka area of Inazuma City. At some point prior to the Traveler's arrival, her father mysteriously disappeared, and with the restaurant low on staff, she took up the position as owner and cook. The restaurant is frequented by Kamisato Ayato and Kamisato Ayaka.[3]
+
+Appearance[]
+She has brown hair, brown eyes, and dons a red and gray dress.
+
+Story[]
+After delivering Hiiragi Chisato's letter to Kujou Kamaji, the Traveler and Paimon meet up with him at Kiminami Restaurant, where he orders a box of Tricolor Dango from Anna for the Traveler to bring back to Chisato along with his own letter. Kamaji deflects Anna's curiosity about his order by claiming that it is a reciprocal gift towards Chisato's father, Hiiragi Shinsuke, with Chisato as the recipient due to Shinsuke's doting on his daughter.[4]
+During Kamisato Ayaka's Story Quest Grus Nivis Chapter: Act I - The Whispers of the Crane and the White Rabbit, Ayaka brings the Traveler to Kiminami Restaurant. After Ayaka hastily departs from the table to deal with a certain matter, Anna explains Ayaka's history with the restaurant when they are interrupted when Ayaka's attempt to make an overseas dish ends in disaster. After learning that she wanted to bring an easily transportable dish as a gift to Tsubaki, Paimon proposes that they make pizza. Ayaka brings the pizza to Anna for packaging, which piques the restauranteur's interest. Paimon offers to teach Anna how to make it, and the Traveler writes down a recipe — either creating a standard Mondstadt Mushroom Pizza or a Special Mushroom Pizza using Inazuman ingredients — which Anna then adds to the restaurant's menu.[3] In the follow-up World Quest Pizza From Another Land, the version the Traveler did not initially make is developed and added to the menu after Anna received feedback from one of either Rie or Matsumoto.
+Among Neko's various tasks for reviving Seirai Island's Asase Shrine includes recreating a dish involving Fish, Raw Meat, Seagrass, and Rice, which was once made for the cats on the island by its last shrine maiden, Asase Hibiki. At Etsuko's suggestion, Paimon and the Traveler pay Anna a visit. After hearing about the background behind their request, Anna resolves to create a dish palatable to cats and develops Kiminami Anna's Invigorating Kitty Meal, and gives the Traveler her recipe for their own use.[5]
+During Bottleneck Breaking in Sayu's Hangout Event: Act I - Yoohoo Art: Seichou no Jutsu, Sayu and the Traveler skip out on ninjutsu training for a nutritious meal in hopes of instigating a height spurt in Sayu. After Sayu gorges herself, the player's response determines whether Sayu decides to keep going or consider other options. If she chooses to go to Shimura's next, Anna expresses her concern over Sayu; if they decide to head to the Adventurers' Guild to look for a commission, Anna interrupts them to tell them about Treasure Hoarders who have been targeting her restaurant staff when they go to collect ingredients in the wild.
+
+Quests[]
+Story QuestsGrus Nivis Chapter (Kamisato Ayaka)Act I: The Whispers of the Crane and the White RabbitFood From AfarHangout EventsSayuAct I: Yoohoo Art: Seichou no JutsuBottleneck BreakingWorld QuestsNeko Is a CatNeko Is a Cat: Shrine RecipeRitou Travel PermitChisato's LetterPizza From Another Land
+Idle Quotes[]
+
+ Supreme cooking skill...
+Media:VO Kiminami Anna 01.ogg "How can I improve my culinary skills..."
+
+Dialogue[]
+Dialogue Set #1[]
+Available before completing Food From Afar.
+
+
+Kiminami Anna: Hello! Welcome to Kiminami Restaurant, the first and last stop for gourmet culture in Inazuma.
+ Can I get some food to go?
+Kiminami Anna: Take your pick — I'm very proud of each and every one of these.
+ What is this place?
+Kiminami Anna: This is Kiminami Restaurant. I, the future owner Kiminami Anna, run the place right now. Our restaurant has inherited the cooking skills of the royal head chef of the Shogunate. You could even say that we are the face of fine Inazuman cuisine.
+Kiminami Anna: But let me just preface everything by saying that we've been short-staffed ever since my father disappeared, so you'll have to wait for a while if you wish to dine-in. We have lemon water with unlimited refills available in the meantime.
+ About your father...
+Kiminami Anna: I suppose I should start from the beginning here... A long time ago, my father came to Inazuma as a foreign gourmet foodie. He was very impressed by the local culinary scene, so he volunteered to be a kitchen assistant at this restaurant.
+Kiminami Anna: Later on, my father married into the Kiminami Clan. After my grandfather had been called by the Shogunate to become the head chef, he and my mom started to run Kiminami Restaurant together.
+Kiminami Anna: I've been learning how to cook since I was little. I was supposed to take over Kiminami Restaurant when they retired. But my father suddenly disappeared last year without leaving a trace.
+Kiminami Anna: That's how I started cooking in the restaurant to help my mom.
+Kiminami Anna: Hmm... Although I've learned a lot, I'm still far from being on grandpa's level. I have to become better still if I want to take over this restaurant.
+Kiminami Anna: If you have any feedback for me after trying out the food here, please don't hesitate to let me know.
+ Goodbye.
+Kiminami Anna: Come back next time! I'll be even better then.
+Dialogue Set #2[]
+Available after completing Food From Afar.
+
+
+Kiminami Anna: Hello, you must be Miss Kamisato's friend! Come in! Would you like to try the new dish that I just learned?
+ Can I get some food to go?
+Kiminami Anna: I have already learned the recipe you gave me previously, and I've added it to the menu. Otherwise, take your pick.
+ How have things been lately?
+Kiminami Anna: I have learned some new recipes since we last met. The new products I made have even been approved by my mom.
+Kiminami Anna: Once my cooking skills are as good as my grandpa's were back when he was working as the royal head chef of the Shogunate, I will probably be able to take over this restaurant.
+Kiminami Anna: My father will be stunned when he gets back, oh yes he will, indeed!
+Kiminami Anna: Oh right, you can also invite Miss Kamisato here too. If it's you asking, I think she will definitely agree to come, hehe.
+ May your culinary arts become more and more refined.
+Kiminami Anna: Hee-hee, thanks~
+Kiminami Anna: That reminds me, I got some fresh fish today. Please try the fresh tuna sushi! I made it myself.
+Kiminami Anna: If you have any suggestions, feel free to tell me. After all, suggestions go hand in hand with improvement.
+(Obtain  Tuna Sushi ×4)
+ Goodbye.
+Kiminami Anna: Goodbye! Come back soon.
+
+Other Languages[]
+
+LanguageOfficial NameEnglishKiminami AnnaChinese(Simplified)木南杏奈Mùnán XìngnàiChinese(Traditional)木南杏奈Mùnán XìngnàiJapanese木南杏奈Kiminami AnnaKorean키미나미 안나Kiminami AnnaSpanishKiminami AnnaFrenchKiminami AnnaRussianКиминами АннаKiminami AnnaThaiKiminami AnnaVietnameseKiminami AnnaGermanKiminami AnnaIndonesianKiminami AnnaPortugueseKiminami AnnaTurkishKiminami AnnaItalianKiminami Anna
+Change History[]
+Released in Version 2.0[Edit History]Version 2.2
+New Recipes: Berry Mizu Manjuu, Radish and Fish Stew, Soba Noodles, Wakatakeni
+
+Version 2.1
+
+New Recipes: More-and-More, Taiyaki
+
+Version 2.0
+
+Kiminami Anna and the Kiminami Restaurant shop were released.
+References[]
+
+↑ Twitter: EN VA Self Announcement (Archived)
+
+↑ YouTube: KR VA Self Announcement
+
+↑ 3.0 3.1 Story Quest, Kamisato Ayaka, Grus Nivis Chapter: Act I - The Whispers of the Crane and the White Rabbit, Part 3: Food From Afar
+
+↑ World Quest, Ritou Travel Permit: Chisato's Letter
+
+↑ World Quest, Neko Is a Cat, Part 4: Neko Is a Cat: Shrine Recipe
+
+
+
+
+

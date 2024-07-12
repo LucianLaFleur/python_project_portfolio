@@ -1,0 +1,161 @@
+
+
+
+
+
+Jazari
+Researcher
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Sumeru
+
+
+Location
+Sumeru
+
+
+Affil­i­a­tion
+Kshahrewar
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Jazari is an open-world NPC from Sumeru who appears in the World Quest Series Vimana Agama. He is a researcher from Kshahrewar who hopes to follow in Pir Kavikavus' footsteps.
+
+Contents
+
+1 Location
+2 Profile
+
+2.1 Appearance
+
+
+3 Quests and Events
+
+3.1 World Quests
+
+
+4 Idle Quotes
+5 Thoughts
+6 Dialogue
+
+6.1 Dialogue Set #1
+6.2 Dialogue Set #2
+
+
+7 Trivia
+
+7.1 Etymology
+
+
+8 Other Languages
+9 Change History
+
+
+Location[]
+After completing Vimana Agama, he can be found inside the Devantaka Mountain's Ruin Golem, to the east of its entrance door. After completing World Quest Until Vana is Healed, he permanently moves to the bridge connecting the two halves of Port Ormos.
+
+Jazari's locationAdditional context
+Profile[]
+(To be added.)
+
+Appearance[]
+Jazari has short, dark brown hair and wears the standard male Sumeru Akademiya uniform.
+
+Quests and Events[]
+World QuestsVimana AgamaVimana Agama: First ChapterVimana Agama: Royinjan's ChapterVimana Agama: Jazari's ChapterUntil Vana is Healed
+Idle Quotes[]
+
+(After completing Vimana Agama)
+ Can't afford to eat anymore...
+Media:VO Jazari 01.ogg "Oh no... at this rate I won't be able to afford to eat!"
+(After completing Until Vana is Healed‍[verification needed])
+ Pir Jazari...
+Media:VO Jazari 02.ogg "Pir Jazari has a nice ring to it."
+
+Thoughts[]
+Jazari's thoughts can be accessed by using Nahida's Elemental Skill, All Schemes to Know.
+
+
+(After completing Vimana Agama)
+Media:VO Jazari All Schemes to Know 01.ogg Jazari: (If only I could work on a big project with unlimited funding...)
+(After completing Until Vana is Healed‍[verification needed])
+Media:VO Jazari All Schemes to Know 02.ogg Jazari: (...Yeah, a big project with unlimited funding would be great.)
+
+Dialogue[]
+Dialogue Set #1[]
+Available after completing Vimana Agama.
+
+
+Jazari: Urgh, we're running out of money, but there haven't been any breakthroughs in my research...
+Jazari: I won't be able to afford meals if this goes on.
+ Amurta's project...
+Jazari: I've applied for it, but haven't heard anything since then... Could the academic trends have changed recently?
+Jazari: As the saying goes, "The road to happiness is fraught with setbacks." Sometimes one has to wait a bit longer for a positive outcome.
+Jazari: Don't worry, when that day comes, I won't forget your contribution.
+ What are you doing here?
+Jazari: Organizing the research results from before, of course.
+Jazari: I didn't expect such a giant volume of data. I don't know how much more time this will cost me.
+Jazari: But it would be irresponsible to publish the results before organizing them.
+ Sorry to bother you.
+Jazari: *sigh* Come look for me when the funding has been secured.
+Dialogue Set #2[]
+Available after completing Until Vana is Healed.‍[verification needed]
+
+
+Jazari: Haha, I will definitely become the greatest researcher of my era if I finish organizing the manuscript of Pir Kavikavus.
+Jazari: Not only will I be promoted to Herbad, I could even be addressed as Pir Jazari.
+ So "Pir" is a title?
+Jazari: Isn't it? I'm not too sure either. Only the Haravatat fellows care about these things.
+Jazari: We Kshahrewar are only concerned about genuine techniques.
+ About Sumeru cuisine...
+Jazari: Huh? I don't remember promising to treat you guys to any Sumeru cuisine.
+Jazari: But since you've helped me out loads, I don't mind treating you to a meal of Curry Shrimp or something similar.
+Jazari: But let's wait until my results have been published successfully. I'll make sure to fill your bellies, be it Curry Shrimp, or even Tandoori Roast Chicken!
+ I wish you success.
+Jazari: Haha, that's for sure. Just wait to read my thank-you note.
+
+Trivia[]
+Etymology[]
+Jazari is likely named after al-Jazari (Arabic: الجزري), a 10th-century Artuqids polymath, scholar, inventor, mechanical engineer, and artisan. He was best known as the author of The Book of Knowledge of Ingenious Mechanical Devices (Arabic: كتاب في معرفة الحيل الهندسية).
+Other Languages[]
+
+LanguageOfficial NameEnglishJazariChinese(Simplified)加扎里JiāzhālǐChinese(Traditional)加扎里JiāzhālǐJapaneseジャザリーJazariiKorean쟈자리JyajariSpanishJazariFrenchJazariRussianДжазариDzhazariThaiJazariVietnameseJazariGermanJazariIndonesianJazariPortugueseJazariTurkishJazariItalianJazari
+Change History[]
+Released in Version 3.0[Create New History]
+
+
+
+

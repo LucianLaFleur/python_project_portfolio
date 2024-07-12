@@ -1,0 +1,153 @@
+
+
+
+
+
+Tadhla
+Bent-Winged Falcon
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+								Family
+							
+
+
+
+
+
+Element
+ Anemo
+
+
+Region
+Sumeru
+
+
+Location
+Sumeru
+
+
+Affil­i­a­tion
+Tanit
+
+
+Death
+Killed by the Traveler in The Fallen Falcon
+
+
+
+
+Father
+Masseira
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Quest-Exclusive NPCs 
+
+
+
+
+Tadhla was a quest-exclusive NPC in the Tanit Camps and was a member of the Tanit tribe.
+
+Contents
+
+1 Profile
+
+1.1 Appearance
+
+
+2 Dialogue
+3 Thoughts
+4 Quests and Events
+
+4.1 World Quests
+
+
+5 Other Languages
+6 Change History
+
+
+Profile[]
+Tadhla was the daughter of Masseira, trained to become a Falcon of the tribe. After the Traveler was welcomed as a guest, Masseira asked them to help find Tadhla. The Traveler found Tadhla in a Fatui camp, having been ambushed by them and caught in the process. Driving the Fatui away, Masseira was disappointed in her inability to focus as a Falcon, but nonetheless continued with her coming-of-age ceremony.
+The next day, Masseira asked the Traveler to accompany Tadhla on her hunt, which consisted of the three Consecrated Beasts — a Red Vulture, Scorpion and Flying Serpent. While hunting the scorpion, Tadhla and the Traveler were caught off guard by a second scorpion which injured her, forcing the Traveler to tackle the Flying Serpent alone. After preparing the items, they returned to Masseira, who then gave her the next hunt — the Traveler themselves.
+Tadhla confronted the Traveler at the ruins of Gurabad, where she fought them as a Falcon as they were to see them as potential prey. The Traveler fought back in self-defense, defeating her, upon which she asked them not to forget her. Liloupar interpreted her final words as her choice of no longer living as a Falcon, but a friend instead. They picked up her feather, implying that she had died after the fight.
+
+Appearance[]
+Tadhla takes on the appearance of an Eremite Galehunter.
+
+Dialogue[]
+
+(After finishing the quest The Falcon's Hunt, near Masseira's hut)
+Tadhla: (Tadhla avoids eye contact and lowers her head nervously).
+ Are you alright?
+Tadhla: Sorry, the hunt is over. I am Father's "Falcon."
+Tadhla: But I'm feeling great. Don't worry about me.
+(Proceed to next dialogue set)
+ About your relationship with Masseira...
+Tadhla: As I said, he is my father, and I am his Falcon. I follow his orders. I hunt for him, risk my life for him, as he is the will of the Tanit.
+Tadhla: When the day comes that I cannot fully execute my Father's orders, then my life as a Falcon will end.
+(Proceed to next dialogue set)
+(Continue from previous dialogue set)
+ That's pretty extreme...
+Tadhla: Extreme, huh? I'm not sure about that. I've always lived like this ever since I was a child.
+ Haven't you ever thought about living for yourself?
+Tadhla: ...
+Tadhla: No. Never. I never had such thoughts, or expectations.
+Tadhla: The desert is a place of indifference and brutality, where I have no time to think for my own good. Without me, my tribe lives on just the same. However, without my tribe, there is no way I will survive.
+Tadhla: Well... But, the stories of you and Paimon, and the adventures that you two experienced...
+Tadhla: Should there be a chance, I would really want to hear more of them.
+Paimon: No problem! We have tons of stories to tell!
+ Yes, I'll tell you all of them.
+ We can talk about them any time you want.
+Tadhla: Pfft...
+Tadhla: Ahem, sorry. I'm just very happy. Thank you, the Master of the Jinni. Um, I mean, thank you, (TravelerTravelerThe player's chosen name for the Traveler).
+
+Thoughts[]
+Tadhla's thoughts can be accessed by using Nahida's Elemental Skill, All Schemes to Know.
+(After defeating the Fatui in Tadhla the Falcon)
+Tadhla: (...Blast, it doesn't work...)
+(At the start of The Falcon's Hunt)
+Tadhla: (...Why can't you let me finish my coming-of-age ceremony on my own...)
+(After finding the Red Vulture's lair)
+Tadhla: (...Don't think about it too much, Tadhla, you're just a Falcon...)
+(At the Serpent's Cave, when Tadhla sits this fight out)
+Tadhla: (...So thirsty... and hurting... and cold...)
+(After defeating the Serpent, while collecting Liloupar's fragment)
+Tadhla: (...I must not show weakness, or look afraid...)
+(After completing The Falcon's Hunt)
+Tadhla: (...The next hunt, huh...)
+
+Quests and Events[]
+World Quests"The Falcon's Hunt"Tadhla the FalconThe Fallen Falcon
+Other Languages[]
+
+LanguageOfficial NameEnglishTadhlaChinese(Simplified)塔德菈TǎdélāChinese(Traditional)塔德菈TǎdélāJapaneseタッドラーTaddoraaKorean타들라TadeullaSpanishTadlaFrenchTadhlaRussianТадлэTadleThaiTadhlaVietnameseTadhlaGermanTadhlaIndonesianTadhlaPortugueseTadhlaTurkishTadhlaItalianTadhla
+Change History[]
+Released in Version 3.4[Create New History]
+
+
+

@@ -1,0 +1,135 @@
+
+
+
+
+
+Hypermarket
+Merchant
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Liyue
+
+
+Location
+Liyue
+
+
+Dialogue Reward
+ 4
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Hypermarket is an open-world NPC in Dihua Marsh.
+Following a certain dialogue branch for the first time gives the player four Matsutake Meat Rolls.
+
+Contents
+
+1 Location
+2 Profile
+
+2.1 Appearance
+
+
+3 Idle Quotes
+4 Dialogue
+5 Trivia
+6 Other Languages
+7 Change History
+
+
+Location[]
+Hypermarket's locationAdditional context
+Profile[]
+(To be added.)
+
+Appearance[]
+(To be added.)
+
+Idle Quotes[]
+
+ ...Essentials, right here!
+Media:VO Hypermarket 01.ogg "All your travel essentials, right here!"
+
+Dialogue[]
+
+Hypermarket: Hello, you look like a traveler to me. Need to stock up on any essentials?
+Hypermarket: We've got everything you could possibly think of in here, and more.
+ Do you sell artifacts?
+Hypermarket: ...Ah, everything except those.
+Hypermarket: Those you'd find in a museum or Cathedral... Hardly what you'd call 'essentials,' [sic] no?
+ So much for 'everything I could possibly think of.' [sic]
+Hypermarket: B—But... I said 'essentials' [sic]! If you class those as essential then I'm not sure what to say...
+Hypermarket: Anyway, I sell things that by most people's definition would fall under 'travel essentials.' [sic]
+Hypermarket: You've piqued my curiosity though. What exactly does your journey entail?
+ As I thought, your branding is a sham...
+Hypermarket: T—This... I can't lose my branding just because of you...
+Hypermarket: Wait! Do you need food? It doesn't matter who you are, surely you have some needs!
+Hypermarket: Here, take these Matsutake Meat Rolls. See, I do have something you need here with me!
+Hypermarket: This... This was food that I brought with me. There's only one of it, and it's free, so please, just leave me alone...
+(Obtain  Matsutake Meat Rolls ×4)
+ Do you sell legendary weaponry?
+Hypermarket: ...Ah, everything except that.
+Hypermarket: Many travelers carry a run-of-the-mill sword or dagger on them, but not legendary weaponry... Are you sure you're just a regular traveler?
+ So much for 'everything I could possibly think of.' [sic]
+Hypermarket: B—But... I said 'essentials' [sic]! If you class those as essential then I'm not sure what to say...
+Hypermarket: Anyway, I sell things that by most people's definition would fall under 'travel essentials.' [sic]
+Hypermarket: You've piqued my curiosity though. What exactly does your journey entail?
+ Do you sell poison?
+Hypermarket: ...Ah, everything except that. I don't dare...
+Hypermarket: That would never fly with the Millelith — or what, did you have some contacts you were planning on hooking me up with? Not just anyone can sell that stuff, you know...
+ So much for 'everything I could possibly think of.' [sic]
+Hypermarket: B—But... I said 'essentials' [sic]! If you class those as essential then I'm not sure what to say...
+Hypermarket: Anyway, I sell things that by most people's definition would fall under 'travel essentials.' [sic]
+Hypermarket: You've piqued my curiosity though. What exactly does your journey entail?
+ Goodbye.
+Hypermarket: Come again soon! Remember, we stock everything you could possibly think of — and more!
+
+Trivia[]
+Based on his message on the Stone Gate Bulletin Board, "Hypermarket" may be his title rather than his proper name.
+Message: "All your travel essentials, right here!"Message: "They say rare merchandise are sound investments. Any traveling merchants in need of such are welcome to visit my hypermarket in Dihua Marsh!"
+Other Languages[]
+
+LanguageOfficial NameLiteral MeaningEnglishHypermarket—Chinese(Simplified)万货通WànhuòtōngExpert of Ten-Thousand Goods[• 1]Chinese(Traditional)萬貨通WànhuòtōngJapanese万貨通Bankatsuu‍[!][!]Assumed readingKorean만물통만물통萬物通ManmultongJack-of-all-tradesSpanishComercianteMerchantFrenchWanhuo—RussianТысяча мелочейTysyacha melocheyA Thousand ThingsThaiHypermarket—VietnameseSiêu ThịSiêu Thị超市 LớnLarge SupermarketGermanVielfaltsmarktVariety MarketIndonesianHypermarket—PortugueseComercianteTurkishSüpermarketçiItalianWanhuoWanhuo[• 2]
+↑ Chinese: A pun on the phrase 百事通/百事通 bǎishìtōng, "expert of ten thousand things," used to describe a person who is a jack-of-all-trades.
+
+↑ Italian: From the Chinese 万货/萬貨 "Ten-Thousand Goods."
+
+
+Change History[]
+Released in Version 1.0[Create New History]
+
+
+

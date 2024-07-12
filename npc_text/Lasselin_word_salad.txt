@@ -1,0 +1,127 @@
+
+
+
+
+
+Lasselin
+"The Rusty Rudder" Chief Mate
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Fontaine
+
+
+Location
+Fontaine
+
+
+Affil­i­a­tion
+"The Rusty Rudder"
+
+
+Genius Invokation TCG
+Stages
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Lasselin is an open-world NPC located in "The Rusty Rudder", Erinnyes Forest, Fontaine.
+
+Contents
+
+1 Location
+2 Idle Quotes
+3 Dialogue
+4 Other Languages
+5 Change History
+
+
+Location[]
+Lasselin's locationAdditional context
+Idle Quotes[]
+
+ Did you hear...?
+Media:VO Lasselin 01.ogg "Have you heard the story about that customer over there...?"
+
+Dialogue[]
+
+Lasselin: Now, listen here...
+Lasselin: Huh? You're... I'm sorry, I shouldn't have spoken to you like that. Now, what would you like?
+ Duel
+(Opens Genius Invokation TCG match interface)
+(If the player loses the match)
+
+Lasselin: What a pity, I seem to have won... But don't lose heart. Perhaps you'd like to take a look at some of our tavern's "good wine"?
+(If the player wins the match)
+
+Lasselin: Oh no, I lost! But it was just a game of cards — it doesn't mean I can sell you our special "good wine."
+ What have you heard?
+Lasselin: You caught that, eh? Fine. It's nothing important anyway, just stuff you'd hear every day in this tavern.
+Lasselin: Like, some people are willing to pay a lot of money to hire some help, while others want to sell certain goods quickly...
+Lasselin: Of course, a big shot like you is often mentioned by the guests... But don't you worry! I'm not one to go around telling others your business.
+Lasselin: After all, if you want the details from me, then you have to... Well, you know.
+ Wait, have you heard anything about me?
+Lasselin: Oh, there have been plenty of stories about you — your adventures, the enemies you've defeated, the treasures you've obtained, and the titles you've earned.
+Lasselin: Heck if I know how true they are. Perhaps they're nothing more than drunken ramblings.
+Lasselin: However, if you're interested in these rumors, or if you want to hear some... other stories from me...
+Lasselin: Well... you know.
+ How much Mora?
+Lasselin: Mora? Th—That's okay too.
+Lasselin: But if you're using Mora, you'll need to buy more good wine. After all... the information I possess is very valuable. I could sell it for a small fortune.
+Lasselin: However, if you really want to buy "good wine," then please speak with the helmsman. I'll be in trouble if I handle Mora.
+ If your information is so valuable, why not work for yourself?
+Lasselin: I... I'm afraid of trouble, and working in this tavern is great! Really great. It's safe, comfortable, and there are even free drinks!
+Lasselin: But most importantly, as long as I'm here then no one will dare come bother me, and I won't be forced to go bother anyone else...
+Lasselin: Anyway, if you really want to buy "good wine," then please speak with the helmsman.
+ Do you work here?
+Lasselin: That's right! I'm a waitre... Ahem, I mean the Chief Mate. Though it's kinda the same job as a waitress...
+Lasselin: The reason for using titles like this is because Mr. Pitot said it would help with navigating the waves of the business world.
+Lasselin: He said himself that a client from Liyue taught him how to pray for luck by giving auspicious names like this.
+Lasselin: But I reckon... that he didn't quite grasp what they were trying to teach him.
+ Bye.
+Lasselin: Bye! Hope... hope you have a nice day...
+
+Other Languages[]
+
+LanguageOfficial NameEnglishLasselinChinese(Simplified)拉瑟兰LāsèlánChinese(Traditional)拉瑟蘭LāsèlánJapaneseラセリンRaserinKorean라슬랭RaseullaengSpanishLasselinFrenchLasselinRussianЛасселинLasselinThaiLasselinVietnameseLasselinGermanLasselinIndonesianLasselinPortugueseLasselinTurkishLasselinItalianLasselin
+Change History[]
+Released in Version 4.2[Edit History]Version 4.7
+Added a Genius Invokation TCG Duel for Lasselin.
+
+Version 4.2
+
+Lasselin was released.
+
+
+

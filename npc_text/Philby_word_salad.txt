@@ -1,0 +1,118 @@
+
+
+
+
+
+Philby
+Adventurer
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Mondstadt
+
+
+Location
+Sumeru
+
+
+Affil­i­a­tion
+Adventurers' Guild
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Philby is an open-world NPC located in Gandharva Ville, Sumeru.
+
+Contents
+
+1 Location
+2 Idle Quotes
+3 Thoughts
+4 Dialogue
+5 Other Languages
+6 Change History
+
+
+Location[]
+Philby's locationAdditional context
+Idle Quotes[]
+
+ Dead on my feet...
+Media:VO Philby 01.ogg "*groans* I'm... Dead on my feet... I think I'll stay here a while... *sigh*"
+
+Thoughts[]
+Philby's thoughts can be accessed by using Nahida's Elemental Skill, All Schemes to Know.
+
+
+Media:VO Philby All Schemes to Know 01.ogg Philby: (Um... Why is it called the Sabzeruz Festival when it's Lesser Lord Kusanali's birthday?)
+
+Dialogue[]
+
+Philby: Ugh, taking the path through The Chasm to Sumeru was a bad idea.
+Philby: I thought it was a shortcut, but a nobody like me couldn't get through those blockades, so I had to go all the way around instead!
+Philby: That really exhausted me...
+ Yeah, it sounds like it was a bad idea.
+Philby: *sigh* Don't remind me. It's too late now.
+Philby: It's my fault for heading to Liyue after leaving Mondstadt, and then going straight to Sumeru. I wasn't able to plan my route properly. I should have gone to Fontaine first.
+Philby: Luckily, I've finally arrived at civilization, so let me rest here for a while.
+ Wise choice.
+Philby: Thanks for the approval. It gives me confidence in my own decision.
+Philby: It does look pretty safe with so many Forest Rangers here.
+Philby: A young girl with green hair tried to say something to me when she heard that I'm a Mondstadter, but she didn't say anything in the end.
+Philby: What was up with that? I was too tired to bother asking for details. I'll ask about it should I meet her again.
+ Do you plan to continue?
+(Before completing Where the Boat of Consciousness Lies)
+Philby: Uh... Of course. But give me a while to rest up.
+Philby: Since I'm already here, I have to pay a visit to Sumeru City. The locals told me that I should attend the festivals held there if I can.
+Philby: For example, there's something called the Sabzeruz Festival, which celebrates the birthday of Lesser Lord Kusanali.
+Philby: But when I asked if Lesser Lord Kusanali is also called the Goddess of Flowers, they shook their heads, and said that the Goddess of Flowers and the Dendro Archon aren't the same god. It seems that the Greater Lord and Lesser Lord Kusanali aren't the same god either.
+Philby: I don't understand. Then why is Lesser Lord Kusanali's birthday called "Sabzeruz Festival"? That's just being obtuse!
+ Do you plan to continue adventuring?
+(After completing Where the Boat of Consciousness Lies)
+Philby: Uh... Of course. But I'll need a while to rest up, I think.
+Philby: Since I'm already here, I've got to pay a visit to Sumeru City. The locals have told me that I should attend the festivals held there if I can.
+Philby: For example, there's something called the Sabzeruz Festival, which celebrates the birthday of Lesser Lord Kusanali.
+Philby: But when I said "ah, so Lesser Lord Kusanali is also known as the Goddess of Flowers," they shook their heads and said that they are two different gods.
+Philby: I don't understand. Then why is Lesser Lord Kusanali's birthday called "Sabzeruz Festival"? They're just being obtuse, aren't they?
+ Rest well.
+Philby: Thanks, I will.
+
+Other Languages[]
+
+LanguageOfficial NameEnglishPhilbyChinese(Simplified)费尔比Fèi'ěrbǐChinese(Traditional)費爾比Fèi'ěrbǐJapaneseフィルビーFirubiiKorean필비PilbiSpanishFilbyFrenchPhilbyRussianФилбиFilbiThaiPhilbyVietnamesePhilbyGermanPhilbyIndonesianPhilbyPortuguesePhilbyTurkishPhilbyItalianPhilby
+Change History[]
+Released in Version 3.0[Create New History]
+
+
+

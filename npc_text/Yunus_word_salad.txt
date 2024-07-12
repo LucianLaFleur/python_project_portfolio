@@ -1,0 +1,122 @@
+
+
+
+
+
+Yunus
+"Bigfish"
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Sumeru
+
+
+Location
+Sumeru
+
+
+Affil­i­a­tion
+Corps of Thirty
+
+
+Genius Invokation TCG
+Stages
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Yunus is an open-world NPC located in Citadel of Regzar, Sumeru City, Sumeru.
+
+Contents
+
+1 Location
+2 Quests and Events
+
+2.1 World Quests
+
+
+3 Idle Quotes
+4 Thoughts
+5 Dialogue
+6 Trivia
+7 Other Languages
+8 Change History
+
+
+Location[]
+Yunus's locationAdditional context
+Quests and Events[]
+World QuestsThe Gourmet SupremosGourmet Supremos: Within Our Duties
+Idle Quotes[]
+
+ Military supplies...
+Media:VO Yunus 01.ogg "Military supplies for the Eremites must be distributed appropriately."
+
+Thoughts[]
+Yunus's thoughts can be accessed by using Nahida's Elemental Skill, All Schemes to Know.
+
+Media:VO Yunus All Schemes to Know 01.ogg Yunus: (I hope the Akademiya doesn't stir up too much trouble.)
+Dialogue[]
+
+Yunus: Hello. What can I do for you?
+ Adventure Challenge
+(Opens Genius Invokation TCG match interface)
+(If the player loses the match)
+
+Yunus: I won! Hmm... Games like this really test your resource management abilities...
+(If the player wins the match)
+
+Yunus: What a great way to win. A real eye-opener...
+ And you are...
+Yunus: I'm the logistics officer for the Citadel of Regzar, responsible for the Corps of Thirty's supplies.
+Yunus: Except for some mandatory Akademiya assignments, I delegate tasks to Mr. Effendi.
+Yunus: If someone would help the Corps or residents nearby, I could pay for it with that portion of the fund.
+ See you.
+Yunus: See you.
+
+Trivia[]
+Yunus is most likely based from Yunus ibn Matta (Arabic: يُونُس ابن ماتا Yūnus ibn Matta), a prophet who has been swallowed by a big fish, often depicted as whale in some art and culture.
+Other Languages[]
+
+LanguageOfficial NameEnglishYunusChinese(Simplified)尤努斯YóunǔsīChinese(Traditional)尤努斯YóunǔsīJapaneseユヌスYunusuKorean유누스YunuseuSpanishYunusFrenchYunusRussianЮнусYunusThaiYunusVietnameseYunusGermanYunusIndonesianYunusPortugueseYunusTurkishYunusItalianYunus
+Change History[]
+Released in Version 3.0[Edit History]Version 3.3
+Added a Genius Invokation TCG Adventure Challenge for Yunus.
+
+Version 3.0
+
+Yunus was released.
+
+
+

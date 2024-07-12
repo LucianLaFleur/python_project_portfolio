@@ -1,0 +1,158 @@
+
+
+
+
+
+Hatim
+Millionaire (Self-Proclaimed)
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Sumeru
+
+
+Location
+Sumeru
+
+
+Dialogue Reward
+ 1
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Hatim is an open-world NPC located in Sumeru City, Sumeru. He is seen outside the Kalimi Exchange during the day, and inside Puspa Café at night.
+Following a certain dialogue branch for the first time gives the player a 4★ Dreaming Steelbloom.
+
+Contents
+
+1 Location
+2 Profile
+
+2.1 Appearance
+
+
+3 Quests and Events
+
+3.1 Commissions
+
+
+4 Idle Quotes
+5 Thoughts
+6 Dialogue
+
+6.1 Daytime
+6.2 Nighttime
+
+
+7 Other Languages
+8 Change History
+
+
+Location[]
+Hatim's location (day)Additional context (day)Hatim's location (night)Additional context (night)
+Profile[]
+Hatim claims to be the descendant of the oldest aristocratic family in the Great Red Sand and that his family is rich, despite people believing otherwise.
+
+Appearance[]
+(To be added.)
+
+Quests and Events[]
+CommissionsGold Devouring and Mora Gathering
+Idle Quotes[]
+
+(Daytime)
+ Amateurs...
+Media:VO Hatim 01.ogg "Heh, been here all day, and still, none of the forecasts have been on the money, what a bunch of amateurs."
+(Nighttime)
+ Family heritage and wealth...
+Media:VO Hatim 02.ogg "*scoffs* When it comes to family, heritage and wealth, no one knows more than a bona fide noble like me."
+
+Thoughts[]
+Hatim's thoughts can be accessed by using Nahida's Elemental Skill, All Schemes to Know.
+
+Media:VO Hatim All Schemes to Know 01.ogg Hatim: (How on earth do you earn a profit without losing your investment?)
+Dialogue[]
+Daytime[]
+
+Hatim: Rather than eat up these predictions on futures from the experts at the Exchange, I might as well get myself a lucrative dish.
+ About the Exchange...
+Hatim: Oh, the Kalimi Exchange. It's a place where you can see people's strengths, courage, and insights in action.
+Hatim: If you have the assets and the wealth, as well as sound judgment, you can really turn a profit here.
+Hatim: Sufficient wealth isn't a problem for a bona fide noble like myself. The Homayanis haven't got anything on my family!
+Hatim: No, all I'm missing right now is an opportunity... to make my family fortune even more abundant. That way, my children can rest easy knowing that they won't have to go be merchants!
+ See you.
+Hatim: Good grief, not a single one of these amateurs is reliable!
+
+Nighttime[]
+
+(Before completing Where the Boat of Consciousness Lies)
+Hatim: Everything is smoother with money!
+ And you are...
+Hatim: I'm the descendant of the oldest aristocratic family in the desert, which is basically synonymous with wealth itself.
+Hatim: It's too bad. Researchers who are not from Vahumana would never understand the value of this status. City folks these days...
+Hatim: It's not merely a problem about Mora, but also wisdom and courage.
+Hatim: Whether it's Greater Lord Rukkhadevata's legacy or King Deshret's relics, all can be found in my family's treasury.
+Hatim: The estate left to me by my ancestors will continue to flourish in my hands.
+ You might go broke.
+Hatim: Oh relax! With my considerable wealth, I'm sure I won't easily go broke.
+Hatim: Even if it's just half of my wealth, it's still three times the worth of the Kalimi Exchange!
+Hatim: See this antique? Ten a penny in my house. Take it if you want it!
+(Obtain 4★  Dreaming Steelbloom)
+ See you.
+Hatim: See you.
+(After completing Where the Boat of Consciousness Lies)
+Hatim: Everything is smoother with money!
+ You are...
+Hatim: I'm the descendant of the oldest clan of desert aristocrats. Our name is synonymous with wealth itself.
+Hatim: It's just a huge shame that researchers who are not from Vahumana will never understand the value of that status. City folk these days...
+Hatim: But it's not merely a problem about Mora, but also wisdom and courage.
+Hatim: Whether it's the Dendro Archon's legacy or King Deshret's relics, all can be found in my family's treasury.
+Hatim: The estate left to me by my ancestors will continue to flourish in my hands.
+ You might go broke.
+Hatim: Oh relax! With my considerable wealth, I'm sure I won't easily go broke.
+Hatim: Even if it's just half of my wealth, it's still three times the worth of the Kalimi Exchange!
+Hatim: See this antique? Ten a penny in my house. Take it if you want it!
+(Obtain 4★  Dreaming Steelbloom)
+ See you.
+Hatim: See you.
+
+Other Languages[]
+
+LanguageOfficial NameEnglishHatimChinese(Simplified)哈特姆HātèmǔChinese(Traditional)哈特姆HātèmǔJapaneseハティムHatimuKorean하팀HatimSpanishHatimFrenchHatimRussianХатимKhatimThaiHatimVietnameseHatimGermanHatimIndonesianHatimPortugueseHatimTurkishHatimItalianHatim
+Change History[]
+Released in Version 3.0[Create New History]
+
+
+

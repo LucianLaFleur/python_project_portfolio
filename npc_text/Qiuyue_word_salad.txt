@@ -1,0 +1,226 @@
+
+
+
+
+
+Qiuyue
+Chuyu Trading Company Branch Manager
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+								Voice Actors
+							
+
+
+
+
+
+Regions
+Liyue Inazuma 
+
+
+Location
+Inazuma
+
+
+Affil­i­a­tion
+Chuyu Trading Company
+
+
+Dialogue Reward
+ 1
+
+
+Genius Invokation TCG
+Stages
+
+
+
+
+English
+Lauren Mayfield[1]
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Qiuyue (Chinese: 秋月 Qiūyuè) is an open-world NPC located in Ritou, Inazuma. She originally hails from Liyue.
+Following a certain dialogue branch for the first time gives the player one Prithiva Topaz Fragment.
+
+Contents
+
+1 Shop
+2 Location
+3 Profile
+
+3.1 Appearance
+
+
+4 Quests and Events
+
+4.1 Story Quests
+
+4.1.1 Hangout Events
+
+
+4.2 Commissions
+4.3 Events
+
+
+5 Idle Quotes
+6 Dialogue
+7 Event Dialogue
+
+7.1 Hues of the Violet Garden
+
+
+8 Other Languages
+9 Change History
+10 References
+
+
+Shop[]
+ItemCostStockTotalCostRefreshes
+ Iron Chunk120101,200Every 3 Days
+ White Iron Chunk400104,000Every 3 Days
+ Electro Crystal1,00055,000Every 3 Days
+Total cost for all items10,200 
+Location[]
+Qiuyue's locationAdditional context
+Profile[]
+(To be added.)
+
+Appearance[]
+(To be added.)
+
+Quests and Events[]
+Story QuestsHangout EventsThomaAct I: A Housekeeper's Daily ChoresA Trip for Two in RitouCommissionsAbsolutely Unique DelicacyEventsDuel! The Summoners' Summit!Round 3: Cards Out! Grievances Begone
+Idle Quotes[]
+
+ Ores of Liyue...
+Media:VO Qiuyue 01.ogg "Ores and jewelry from Liyue! You can't find a better deal anywhere else!"
+
+(During Hues of the Violet Garden)
+
+ "Zhenyu"...
+Media:VO Qiuyue Irodori 01.ogg "Who is this "Zhenyu" everyone keeps talking about..."
+
+Dialogue[]
+This page is missing dialogue.Can you help out? Click here to add more.Check conditions for 
+
+Qiuyue: Dear guest, would you like to purchase some minerals from Liyue?
+ Let's see what you've got...
+(After completing Chisato's Letter)
+Qiuyue: Come on in then, and take a look. These are all the finest!
+(Opens Shop menu)
+ Adventure Challenge
+(Opens Genius Invokation TCG match interface)
+(If the player loses the match)
+
+Qiuyue: How about that? I'm unbeatable at Genius Invokation TCG!
+(If the player wins the match)
+
+Qiuyue: ...How could I let you get away with that... I need to think about it...
+ Do you have any information about Inazuman ores? (Unknown trigger condition)
+(If there are Magical Crystal Ore Veins Qiuyue knows; Version 1)
+
+Qiuyue: Hmm, come to think of it, I've heard that some people saw some ore resembling purplish crystals nearby.
+Qiuyue: That said, I'm just a businessperson, and I'm not in the mining business either. And it's not like I can leave my store so easily, anyway...
+Qiuyue: I'd say that they saw it around... here. There, it should be marked on your map now. If you think it'll be of any use to you, feel free to take a look.
+(Rich Ore Reserves marked on the map)
+(If there are Magical Crystal Ore Veins Qiuyue knows; Version 2)
+
+Qiuyue: Hmm, now that you mention it, I've heard that someone found some ores nearby that are of better quality than usual.
+Qiuyue: That said, I'm just a businessperson, and I'm not in the mining business either. And it's not like I can leave my store so easily, anyway...
+Qiuyue: I'd say that they saw it around... here. There, it should be marked on your map now. If you think it'll be of any use to you, feel free to take a look.
+(Rich Ore Reserves marked on the map)
+(If there are no more Magical Crystal Ore Veins Qiuyue knows)
+
+Qiuyue: Well... I'd say that things are the same as always. The flow of goods from Liyue is as bottle-necked as ever. No special change on that front.
+ Is there anything of note nearby? (Unknown trigger condition)
+(Same as before, Ore Vein condition)
+ Is there anything of note nearby? (Unknown trigger condition)
+Qiuyue: Hmm. It does seem like more and more people have decided to come to Ritou to set up shop.
+Qiuyue: There'll be more competition, but more customers as well, so I suppose it's a net gain.
+ About this shop...
+Qiuyue: This shop is the Inazuma franchise of the Chuyu Trading Company. We mainly sell minerals, jewelry, and jade artifacts.
+Qiuyue: We offer the finest materials from Liyue. Each piece is a gift from Rex Lapis.
+Qiuyue: Although we don't boast the same reputation as those classic brands like The Jade Mystery or Mingxing Jewelry, the quality of our products is definitely on par with theirs!
+ How's business been?
+(Before completing Transient Dreams)
+
+Qiuyue: We're doing okay. After all, there is always demand for minerals no matter where you go.
+Qiuyue: ...If there is demand, there is a market, and Liyue merchants will never miss a business opportunity!
+Qiuyue: The only problem here is the Sakoku Decree. Our import channels were still affected by it in the end... Ah, it's such a headache.
+(After completing Transient Dreams)
+
+Qiuyue: It's been great, recently. I mean, ore is always in demand, you know? And where there's demand, there's a market, and we Liyue merchants will never miss a business opportunity!
+Qiuyue: The other thing is the opening of the trade roads, which has resulted in increased channels and buyers alike.
+Qiuyue: Once I scrounge up some more capital, I'm opening up a branch in Inazuma City!
+Qiuyue: Gotta take advantage of the situation before someone sets themselves up as my competitor here, you know?
+ About Rex Lapis...
+Qiuyue: Do you mean the passing of Rex Lapis? I've already heard about that.
+Qiuyue: When that incident took place, the lockdown of Inazuma had already happened, so I also missed the Rite of Parting.
+Qiuyue: *sigh* I'm still broken up about it. I'm sure every Liyue citizen would've grieved too.
+ I've seen the Rite of Parting...
+Qiuyue: Wow! So you are the rumored foreign Traveler that assisted with the Rite of Parting!
+Qiuyue: I apologize for my rudeness. As one of Rex Lapis' subjects, I need to properly show you my gratitude.
+Qiuyue: Please accept my humble gift. Make sure you take it.
+(Obtain  Prithiva Topaz Fragment ×1)
+ Goodbye.
+Qiuyue: Take care! Come back anytime!
+
+Event Dialogue[]
+Hues of the Violet Garden[]
+
+(After completing Festive Elegance)
+Qiuyue: People have been asking me lately if I know where to find Mr. Zhenyu from Liyue, but I've never heard of this person in my life.
+Qiuyue: Is he some kind of superstar, even more well-known than the Qixing somehow?
+Qiuyue: Ah, sorry for the wait, dear customer. Would you like some ores from Liyue?
+(Continue non-event dialogue)
+
+Other Languages[]
+
+LanguageOfficial NameEnglishQiuyueChinese(Simplified)秋月QiūyuèChinese(Traditional)秋月QiūyuèJapanese秋月Shuugetsu‍[!][!]Assumed readingKorean추월추월秋月ChuwolSpanishQiuyueFrenchQiuyueRussianЦю ЮэTsyu YueThaiQiuyueVietnameseQiuyueGermanQiuyueIndonesianQiuyuePortugueseQiuyueTurkishQiuyueItalianQiuyue
+Change History[]
+Released in Version 2.0[Edit History]Version 3.3
+Added a Genius Invokation TCG Adventure Challenge for Qiuyue.
+
+Version 2.0
+
+Qiuyue was released.
+References[]
+
+↑ Twitter: EN VA Self Announcement (Archived)
+
+
+
+
+

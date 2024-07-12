@@ -1,0 +1,172 @@
+
+
+
+
+
+Hopkins the Marvelous
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Real Name
+Hopkins
+
+
+Region
+Mondstadt
+
+
+Location
+Mondstadt
+
+
+Dialogue Reward
+ 1
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Hopkins the Marvelous is an open-world NPC in Springvale, Mondstadt who sells Holy Water during daytime. He can be found walking around  the Springvale signboard in the daytime and near the Springvale spring at night.
+Following a certain dialogue branch for the first time gives the player one 1★ Lucky Dog's Goblet.
+
+Contents
+
+1 Shop
+2 Location
+3 Profile
+
+3.1 Appearance
+
+
+4 Quests and Events
+
+4.1 Story Quests
+
+
+5 Idle Quotes
+6 Dialogue
+
+6.1 Daytime
+6.2 Nighttime
+
+
+7 Trivia
+8 Other Languages
+9 Change History
+10 References
+
+
+Shop[]
+ItemCostStockTotalCostRefreshes
+ Holy Water3001300Daily
+Total cost for all items300 
+Location[]
+Hopkins the Marvelous' location (Daytime)Additional context (Daytime)Hopkins the Marvelous' location (Nighttime)Additional context (Nighttime)
+Profile[]
+Hopkins the Marvelous is a merchant in Springvale who collects the spring water at night and sells them as Holy Water in the day. He claims to be sent by the Spring Fairy as a mediator to perform miracles.[1]
+When Rifthounds attacked Springvale, he fortunately escaped without harm but bore grudge against wolves.[2] Amber, Paimon and the Traveler arrived and investigated the area and found out that the wolves came from Wolvendom. Ignoring Amber's assurance that the Knights of Favonius will handle the issue, he and his friends formed a hunting party to take care of the wolves. They arrive at Wolvendom to find the Traveler and his friends helping Razor and he immediately concludes that the attacks were ordered by Razor. The commotion that they brought to the area awakened Boreas and attacked the humans.[3]
+
+Appearance[]
+(To be added.)
+
+Quests and Events[]
+Story QuestsLupus Minor Chapter (Razor)Act I: The Meaning of LupicalRavaged by WolvesFate's Chosen Lupical
+Idle Quotes[]
+
+(Daytime)
+ Want some real power?
+Media:VO Hopkins the Marvelous 01.ogg "You! Do you want power?"
+ Psst! Over here...
+Media:VO Hopkins the Marvelous 02.ogg "You...yes, you! Come over here."
+(Nighttime)
+ 300 a bottle...
+Media:VO Hopkins the Marvelous 03.ogg "300 a bottle! Only 300!"
+
+Dialogue[]
+Daytime[]
+
+Hopkins the Marvelous: Traveler, do you ever find yourself frustrated because of your lack of strength? Have you wondered what it would be like to have power beyond your wildest dreams?
+ How do I become more powerful?
+Hopkins the Marvelous: See this holy water I have here? Drink just one bottle, and you'll feel rejuvenated and more powerful than you could've ever imagined, guaranteed! It might take a while for the effects to kick in though...
+ And you are...?
+Hopkins the Marvelous: Who am I? I am one who the God of the Spring has put here specially to make miracles happen for people just like you!
+Hopkins the Marvelous: You can call me Hopkins the Marvelous.
+ How do I get this power...?
+Hopkins the Marvelous: Just drink this bottle of holy water and the God of the Spring will reveal divine mysteries to you!
+Hopkins the Marvelous: Who knows, with any luck you might even get a Vision!
+Hopkins the Marvelous: And how could you not want a Vision? Just three hundred Mora for a bottle...
+ Sorry for bothering you.
+Hopkins the Marvelous: Three hundred Mora's a bargain! Wait, don't go! Waaait!
+ Three hundred Mora...
+Hopkins the Marvelous: Huh, you find that expensive?
+Hopkins the Marvelous: H—How about this, then. If you purchase this holy water I have here, it'll come with an extra mystical chalice!
+Hopkins the Marvelous: Drinking the holy water through this chalice increases its effects greatly!
+Hopkins the Marvelous: So buy it, buy it now!
+(Obtain 1★  Lucky Dog's Goblet)
+ Goodbye.
+Hopkins the Marvelous: This is the opportunity of a lifetime —a [sic] thousand lifetimes, even! You're just going to walk away from it? Seriously, listen...
+
+Nighttime[]
+
+Hopkins the Marvelous: AAAAAARGH!!! *heavy breathing*... That— that was terrifying!
+ What are you up to?
+Hopkins the Marvelous: Oh, um... I... I was having an epiphany from the God of the Spring!
+Hopkins the Marvelous: Now is Hopkins the Marvelous' special time where I bask in the presence of the God of the Spring. So move along!
+ You're just drinking normal spring water...
+Hopkins the Marvelous: What? Nonsense! Hogwash! Claptrap!
+Hopkins the Marvelous: You see only the physical form. After passing through the hands of Hopkins the Marvelous, it is normal no more!
+Hopkins the Marvelous: If you don't believe me, buy this bottle and see for yourself!
+ Goodbye.
+Hopkins the Marvelous: Okay... But you must never tell anyone about the things you saw here today... Or you'll incite the wrath of the God of the Spring!
+Hopkins the Marvelous: ...And um... also, how about if you don't tell anyone I'll give you a discount next time you're here?
+
+Trivia[]
+The God of the Spring Hopkins refers to is based on the legend of the Spring Fairy. While she really does exist, it is very unlikely that she blessed Hopkins, given that Diona received her blessing because of her genuine faith in her as a child.[4]
+Other Languages[]
+
+LanguageOfficial NameLiteral MeaningEnglishHopkins the Marvelous—Chinese(Simplified)神奇的霍普金斯Shénqí de HuòpǔjīnsīHopkins the MarvelousChinese(Traditional)神奇的霍普金斯Shénqí de HuòpǔjīnsīJapanese不思議なホプキンスFushigi-na HopukinsuHopkins the MysteriousKorean신통신통神通한 홉킨스Sintonghan HopkinseuHopkins the MiraculousSpanishEl Maravilloso HopkinsThe Marvelous HopkinsFrenchHopkins le MerveilleuxHopkins the MarvelousRussianВеликолепный ХопкинсVelikolepnyy KhopkinsHopkins the MagnificentThaiHopkins the Marvelous—VietnameseHopkins Thần KỳThần Kỳ神奇GermanHopkins der FabelhafteHopkins the FabulousIndonesianHopkins the Marvelous—PortugueseHopkins, O MaravilhosoTurkishMuhteşem HopkinsThe Wonderful HopkinsItalianHopkins il MeravigliosoHopkins the Marvelous
+Change History[]
+Released in Version 1.0[Create New History]
+References[]
+
+↑ NPC Dialogue: Hopkins the Marvelous' (Daytime)
+
+↑ Archive, Living Beings, Enemies and Monsters, The Abyss: Thundercraven Rifthound
+
+↑ Story Quest Act, Razor, Lupus Minor Chapter: Act I: The Meaning of Lupical
+
+↑ Diona's Character Story: Character Story 5
+
+
+
+
+

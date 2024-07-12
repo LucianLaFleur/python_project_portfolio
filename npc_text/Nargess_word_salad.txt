@@ -1,0 +1,111 @@
+
+
+
+
+
+Nargess
+Researcher
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Sumeru
+
+
+Location
+Sumeru
+
+
+Affil­i­a­tion
+Sumeru Akademiya
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Nargess is an open-world NPC located in the House of Daena, Sumeru City, Sumeru.
+
+Contents
+
+1 Location
+2 Idle Quotes
+3 Thoughts
+4 Dialogue
+5 Other Languages
+6 Change History
+
+
+Location[]
+Nargess's locationAdditional context
+Idle Quotes[]
+
+(Daytime)
+ No need to fight...
+Media:VO Nargess 01.ogg "Heh, there's really no need to fight over such paltry research funds."
+
+Thoughts[]
+Nargess's thoughts can be accessed by using Nahida's Elemental Skill, All Schemes to Know.
+
+Media:VO Nargess All Schemes to Know 01.ogg Nargess: (Let them fight it out! I don't want anything to do with it.)
+Dialogue[]
+
+Nargess: My colleagues must be working very hard to write project applications right now.
+ Project applications?
+(Before completing Where the Boat of Consciousness Lies)
+
+Nargess: Mm-hmm, everyone knows that to ensure good funding, you have to get your application approved by the Akademiya. With an approved project and Mora, you can hire more students.
+Nargess: With students working for you and stable funding from the Akademiya, your bright future will very much be secured.
+Nargess: But I don't think it's really worth it. Just think about the terrible competition you'll face. It's too much trouble to get your application approved.
+Nargess: And I heard that the Akademiya has given all its funding to some secret projects lately. So no one can really get a single Mora out of their applications. What a waste of time!
+(After completing Where the Boat of Consciousness Lies)
+
+Nargess: That's right. Everyone knows that to ensure good funding, you have to get your application approved by the Akademiya first. With an approved project and Mora, you'll be able to hire more students.
+Nargess: With students working for you and stable funding from the Akademiya, your bright future will very much be secured.
+Nargess: Still, I don't think it's really worth it. Just think about the terrible competition you'll face. All in all, it's too much trouble to get your application approved.
+Nargess: I mean, have you heard about how Azar put all his eggs in that one basket of his, and not only did it turn out empty, but he also lost his position in the process?
+Nargess: It's all a big joke, I tell you.
+ See you.
+Nargess: See you.
+
+Other Languages[]
+
+LanguageOfficial NameEnglishNargessChinese(Simplified)纳吉斯NàjísīChinese(Traditional)納吉斯NàjísīJapaneseナルジェスNarujesuKorean나르게스NareugeseuSpanishNargessFrenchNargessRussianНаргессNargessThaiNargessVietnameseNargessGermanNargessIndonesianNargessPortugueseNargessTurkishNargessItalianNargess
+Change History[]
+Released in Version 3.0[Edit History]Version 3.1
+Idle Quote was added.
+
+Version 3.0
+
+Nargess was released.
+
+
+

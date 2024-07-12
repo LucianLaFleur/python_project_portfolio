@@ -1,0 +1,110 @@
+
+
+
+
+
+Nevida
+Mahamata
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Sumeru
+
+
+Location
+Sumeru
+
+
+Affil­i­a­tion
+Sumeru Akademiya
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Nevida is an open-world NPC located in Sumeru City, Sumeru.
+
+Contents
+
+1 Location
+2 Quests and Events
+
+2.1 Story Quests
+
+
+3 Idle Quotes
+4 Thoughts
+5 Dialogue
+6 Other Languages
+7 Change History
+
+
+Location[]
+Nevida's locationAdditional context
+Quests and Events[]
+Story QuestsCarassius Auratus Chapter (Yoimiya)Act II: Star-Pickers' PassageAll Things Flawless and Pure
+Idle Quotes[]
+
+ Please report right away...
+Media:VO Nevida 01.ogg "If you notice anything out of the ordinary, please report it right away."
+
+Thoughts[]
+Nevida's thoughts can be accessed by using Nahida's Elemental Skill, All Schemes to Know.
+
+Media:VO Nevida All Schemes to Know 01.ogg Nevida: (Hmm... It seems like freebies can really cause conflicts.)
+Dialogue[]
+
+Nevida: Hello. What can I do for you?
+ Are you working?
+(Before completing Where the Boat of Consciousness Lies)
+Nevida: Correct, the Bimarstan and neighboring areas are under my jurisdiction.
+Nevida: Don't be nervous, I primarily monitor the doctors and patients, so there is no "inadvertent" breach of confidentiality.
+Nevida: The Akademiya distributes information on a need-to-know basis through the Akasha Terminal, so extra leaks could cause unwanted problems.
+Nevida: It would be great if you would work with our mandate and report anything unusual at once.
+ Are you working at the moment?
+(After completing Where the Boat of Consciousness Lies)
+Nevida: That's correct. The Bimarstan and areas near it are under my jurisdiction.
+Nevida: Do not fret, though. Now that Akasha has been shut down, I will no longer interfere in the exchange of knowledge between the doctors and their patients.
+Nevida: What I am focusing on at present is whether dialog between doctors and patients is going smoothly, and whether medical supplies are being effectively distributed or not.
+Nevida: Please cooperate with us Mahamata and make sure to report anything unusual to us at once.
+ Excuse me.
+Nevida: It's all right.
+
+Other Languages[]
+
+LanguageOfficial NameEnglishNevidaChinese(Simplified)妮维妲NīwéidáChinese(Traditional)妮維妲NíwéidáJapaneseネヴィダNevidaKorean네비다NebidaSpanishNevidaFrenchNevidaRussianНевидаNevidaThaiNevidaVietnameseNevidaGermanNevidaIndonesianNevidaPortugueseNevidaTurkishNevidaItalianNevida
+Change History[]
+Released in Version 3.0[Create New History]
+
+
+

@@ -1,0 +1,103 @@
+
+
+
+
+
+Rosolino
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Fontaine
+
+
+Location
+Fontaine
+
+
+Genius Invokation TCG
+Stages
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Rosolino is an open-world NPC located in Dormitory Block, Fortress of Meropide, Fontaine.
+
+Contents
+
+1 Location
+2 Idle Quotes
+3 Dialogue
+4 Other Languages
+5 Change History
+
+
+Location[]
+Rosolino's locationAdditional context
+Idle Quotes[]
+
+ Kids these days...
+Media:VO Rosolino 01.ogg "Kids these days... you just can't rely on 'em."
+
+Dialogue[]
+
+Rosolino: On the left is the Mail Room, and on the right is the Infirmary. Don't mix them up.
+ Duel
+(Opens Genius Invokation TCG match interface)
+(If the player loses the match)
+
+Rosolino: Don't worry, you've still got plenty of time to work on your card skills. Although... I'll no doubt have even more, being in the Fortress of Meropide and all.
+(If the player wins the match)
+
+Rosolino: Not bad! You might look young, but you're clearly an old hand when it comes to cards!
+ About the Mail Room...
+Rosolino: You pay with Coupons. Tell us the recipient and their address and we'll get the letter there, if it's in Fontaine. The letter can't be too long, and the content... well, work that out yourself.
+Rosolino: And I advise you not to inquire about anything else.
+ About the Infirmary...
+Rosolino: If Dr. Arderne isn't there, he's probably in the production zone. I don't know any more than that.
+ Okay, thanks.
+Rosolino: Don't mention it.
+
+Other Languages[]
+
+LanguageOfficial NameEnglishRosolinoChinese(Simplified)罗索里诺LuósuólǐnuòChinese(Traditional)羅索里諾LuósuólǐnuòJapaneseロソリーノRosoriinoKorean로솔리노RosollinoSpanishRosolinoFrenchRosolinoRussianРозолиноRozolinoThaiRosolinoVietnameseRosolinoGermanRosolinoIndonesianRosolinoPortugueseRosolinoTurkishRosolinoItalianRosolino
+Change History[]
+Released in Version 4.1[Edit History]Version 4.7
+Added a Genius Invokation TCG Duel for Rosolino.
+
+Version 4.1
+
+Rosolino was released.
+
+
+

@@ -1,0 +1,289 @@
+
+
+
+
+
+Verr Goldet
+Boss, Wangshu Inn
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+								Family
+							
+
+
+
+								Voice Actors
+							
+
+
+
+
+
+Regions
+Liyue Mondstadt 
+
+
+Location
+Liyue
+
+
+Affil­i­a­tions
+Wangshu InnLiyue Qixing Employees 
+
+
+Genius Invokation TCG
+Stages
+
+
+
+
+Spouse
+Huai'an
+
+
+
+
+English
+Lauren Amante[1]
+
+
+Japanese
+Mizuhana Amano (水花 天乃)[2]
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Verr Goldet is an open-world NPC at the Wangshu Inn at Dihua Marsh, Liyue. She is the owner of the inn, while her husband Huai'an is the innkeeper — a distinction she is very insistent about. She also sells the inn's dishes and recipes.
+Verr Goldet is involved in the Archon Quest Wangshu in Chapter I: Act I - Of the Land Amidst Monoliths. Her dialogue will change slightly after completing the quest.
+
+Contents
+
+1 Shop
+
+1.1 Ascension Materials, Food and Ingredients
+1.2 Recipes
+
+
+2 Location
+3 Profile
+
+3.1 Appearance
+
+
+4 Quests and Events
+
+4.1 Archon Quests
+4.2 Story Quests
+4.3 Commissions
+4.4 Events
+
+
+5 Idle Quotes
+6 Dialogue
+
+6.1 Dialogue Set #1
+6.2 Dialogue Set #2
+
+
+7 Event Dialogue
+
+7.1 Unreconciled Stars
+7.2 Moonlight Merriment
+
+
+8 Character Mentions
+
+8.1 Character Stories
+
+
+9 Trivia
+10 Gallery
+11 Other Languages
+12 Change History
+13 References
+
+
+Shop[]
+Ascension Materials, Food and Ingredients[]
+ItemCostStockTotalCostRefreshes
+ Almond Tofu1,55023,100Daily
+ Matsutake Meat Rolls1,77523,550Daily
+ Jueyun Chili Chicken1,92523,850Daily
+ Noodles with Mountain Delicacies2,15024,300Daily
+ Chicken-Mushroom Skewer450104,500Daily
+ Matsutake300103,000Every 3 Days
+ Butter270102,700Weekly
+ Sausage840108,400Weekly
+ Silk Flower1,00055,000Every 3 Days
+ Violetgrass1,00055,000Every 3 Days
+Total cost for all items43,400 
+Recipes[]
+ItemCostStockTotalCostRequiredAdventure Rank
+ Recipe: Vegetarian Abalone2,50012,5001
+ Recipe: Bamboo Shoot Soup5,00015,0001
+ Recipe: Stir-Fried Shrimp5,00015,0001
+Total cost for all items12,500 
+Location[]
+Verr Goldet's locationAdditional context
+Profile[]
+Verr Goldet is the boss of Wangshu Inn and the wife of Huai'an. She allegedly hails from Mondstadt and moved to Liyue once she got married. However, Jiangxue notes that nobody from Mondstadt knows her, indicating that she is either using an alias, or may come from another nation.
+Both Verr and Huai'an, along with the rest of the Wangshu Inn staff, are agents of the Liyue Qixing and pass their intel to Ningguang.[3] The two established Wangshu Inn to covertly support Xiao in his mission to suppress the emanations of evil gods.[4]
+
+Appearance[]
+Verr Goldet is a medium height woman with a fair complexion. She has grayish brown eyes and long, dirty blonde hair with blunt bangs and two side pieces of hair framing her face, styled with a braid that goes around the back of her head.
+She wears a red, short sleeved shirt along with a traditional, dark red, Liyue overcoat with gold accents that goes down to her knees. She also wears sheer stockings along with black heels. As for accessories, Verr Goldet wears one chunky orange bracelet on each of her arms.
+
+Quests and Events[]
+Archon QuestsChapter IAct I: Of the Land Amidst MonolithsWangshuStory QuestsAlatus Chapter (Xiao)Act I: Butterfly's DreamInsights of Drifting DreamsCommissionsGuest from AfarEventsLantern Rite TalesPromises Remembered as Lanterns RiseWangshu Once AgainLantern RitePart I: The Origin of the LanternsPart III: Light Upon the SeaFleeting Colors in FlightSky-Gazers, Land-Walkers
+Idle Quotes[]
+
+ Let me guess...
+Media:VO Verr Goldet 01.ogg "Let me guess where you're from..."
+
+During Moonlight Merriment
+
+ ...already booked out [sic]
+Media:VO Verr Goldet Moonlight Merriment 01.ogg "Wangshu Inn is the best place to watch the moon, that's why all our rooms are already booked out."
+
+Dialogue[]
+Dialogue Set #1[]
+Available before completing Wangshu.
+
+
+Verr Goldet: Hello! ...A distinctive but elusive dress sense, defined yet atypical facial features, and followed around everywhere by a floating elf companion. Hmmm... nope. Can't place you.
+ I'd like to buy something to eat.
+Verr Goldet: What'll you have? We have dishes from both Mondstadt and Liyue, and our Almond Tofu is particularly popular.
+(Opens Wangshu Inn Shop menu)
+ Who are you?
+Verr Goldet: My name is Goldet and I come from Mondstadt. I am the boss here at the Wangshu Inn.
+Verr Goldet: Lest you think I was the boss' wife.
+Verr Goldet: I'm the boss, with a capital "B-O-S-S."
+ I've heard the rumors...
+Verr Goldet: Hahaha, well I'd hardly be able to operate an inn in this location without connections with the Qixing.
+Verr Goldet: What I mean is I obviously need their approval.
+Verr Goldet: All that other nonsense is just rumors, though.
+Verr Goldet: Speaking of which, have you got any interesting news to share?
+ Whose is this kitty?
+Verr Goldet: *sigh* ...This cat invited itself here... But it's cute, so I let it stay.
+Verr Goldet: Its name is Wei. That was quite simply the first name we thought of.
+Verr Goldet: You might find Wei causes a bit of mischief — you know what cats are like. But please refrain from stooping to the same level yourself.
+ Tell me about your husband.
+Verr Goldet: Over there. He's the innkeeper.
+Verr Goldet: Don't be led astray by the cheeky grin on his face. He is a rather formidable martial artist.
+Verr Goldet: I also practice martial arts, as do the kitchen staff. It is a hiring requirement.
+Verr Goldet: You have to have nimble use of your hands and feet when you're serving guests, don't you think?
+ Goodbye.
+Verr Goldet: Safe travels.
+
+Dialogue Set #2[]
+Available after completing Wangshu.
+
+
+Verr Goldet: Hello! Oh! A return customer, welcome back.
+ I'd like to buy something to eat.
+(Same as before)
+ Adventure Challenge
+(Opens Genius Invokation TCG match interface)
+(If the player loses the match)
+
+Verr Goldet: Hehe, don't underestimate the Boss of an inn. I play cards with our guests all the time.
+(If the player wins the match)
+
+Verr Goldet: Well, at least you didn't ask to waive your room fee if you won, or I'd be out of face to save!
+ Hey boss lady.
+Verr Goldet: Ugh... how many times do I have to tell you, it's not "boss lady."
+Verr Goldet: I'm the boss here at Wangshu Inn.
+Verr Goldet: Not boss lady. Just boss.
+ I've heard the rumors...
+ Whose is this kitty?
+(Same as before)
+ Tell me about your husband.
+(Same as before)
+ Goodbye.
+(Same as before)
+
+Event Dialogue[]
+Unreconciled Stars[]
+
+Verr Goldet: Hello there! I presume that you've heard about these meteorites sending people to sleep?
+Verr Goldet: We've set aside quite a number of the guest rooms so that they can be available when victims are brought in. So, space is tight. If you want to make a booking, you should do it as early as you can.
+(Dialogue options and responses are the same as normal)
+
+Moonlight Merriment[]
+
+Verr Goldet: Hello! Oh! Well, you certainly are a returning customer. Welcome back.
+Verr Goldet: You've come at a good time: the Moonchase Festival is the best time for viewing the moon and enjoying gourmet food, and Wangshu Inn has plenty of both.
+
+Character Mentions[]
+Character StoriesCharacterStoriesXiaoCharacter Story 3
+Trivia[]
+Her name (as hailing from Mondstadt) is a pun on vergoldet which in German means gilded/golden or gold-plated.
+When Paimon and the Traveler call her "boss lady," the Chinese term is 老板娘 lǎobǎnniáng, which can also be translated as "boss' wife."
+On the Wangshu Inn Bulletin Board, an anonymous messenger asks Verr Goldet out on a date. Huai'an pens a response in Verr's stead.
+Gallery[]
+Xiao Birthday 2021 - ShortsOfficial Genshin Impact TwitterFleeting Colors in Flight Event Cutscene Animation- "Age of Flowing Hues" - Genshin Impact
+Other Languages[]
+
+LanguageOfficial NameEnglishVerr GoldetChinese(Simplified)菲尔戈黛特Fēi'ěr GēdàitèChinese(Traditional)菲爾戈黛特Fēi'ěr GēdàitèJapaneseヴェル・ゴレットVeru GorettoKorean베르 고데트Bereu GodeteuSpanishVerr GoldetFrenchVerr GoldetRussianВерр ГолдетVerr GoldetThaiVerr GoldetVietnameseVerr GoldetGermanVerr GoldetIndonesianVerr GoldetPortugueseVerr GoldetTurkishVerr GoldetItalianVerr Goldet
+Change History[]
+Released in Version 1.0[Edit History]Version 3.7
+Added a Genius Invokation TCG Adventure Challenge for Verr Goldet.
+
+Version 1.6
+
+New Recipe: Stir-Fried Shrimp
+
+Version 1.3
+
+New Recipe: Vegetarian Abalone
+
+Version 1.1
+
+New Recipe: Bamboo Shoot Soup
+
+Version 1.0
+
+Verr Goldet and the Wangshu Inn shop were released.
+References[]
+
+↑ Lauren Amante: EN VA's Website
+
+↑ Amuleto: JP VA's Profile
+
+↑ Archon Quest, Chapter I, Act III - A New Star Approaches, Part 2: Equilibrium
+
+↑ Xiao's Character Story: Character Story 3
+
+
+
+
+

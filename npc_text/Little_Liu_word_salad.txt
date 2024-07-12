@@ -1,0 +1,169 @@
+
+
+
+
+
+Little Liu
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+								Family
+							
+
+
+
+								Voice Actors
+							
+
+
+
+
+
+Region
+Liyue
+
+
+Location
+Liyue
+
+
+Dialogue Reward
+ Vol. 1
+
+
+Genius Invokation TCG
+Stages
+
+
+
+
+Father
+Jiayi
+
+
+
+
+English
+Sarina Neer[1]
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Little Liu (Chinese: 小六 Xiǎo Liù) is an open-world NPC in Qingce Village, Liyue. She can be found overlooking the flower fields, on the porch of a house at the entrance of the village.
+Following a certain dialogue branch for the first time gives the player Records of the Gallant: The Hermit.
+
+Contents
+
+1 Location
+2 Profile
+
+2.1 Appearance
+
+
+3 Quests and Events
+
+3.1 World Quests
+3.2 Events
+
+
+4 Idle Quotes
+5 Dialogue
+6 Other Languages
+7 Change History
+8 References
+
+
+Location[]
+Little Liu's locationAdditional context
+Profile[]
+Liu is the young daughter of Jiayi. She lives with her grandparents in Qingce Village. She believes that her parents are both working in Liyue Harbor. However, her mother died while giving birth to her and her father who is scared to tell her the truth is forced to work in Liyue Harbor as a Millelith soldier. One day, Liu runs way from Qingce Village after learning that her father's scheduled visit will be postponed once again. She was frustrated that the gifts she has collected with her friends for her father's arrival has become useless. So she planned to go to Liyue Harbor on her own. She makes it more than halfway to Stone Gate before being attacked by a group of monsters. The Traveler finds her and saves her from the monsters. She then realizes that she's weak and would probably run into more issues if she continues her journey which could end up worrying her parents. She resolves to get stronger and hopes to someday earn a vision.[2]
+
+Appearance[]
+She has red hair pulled back in two braids and dark eyes.
+
+Quests and Events[]
+World QuestsThe Chi of YoreWill of StoneEventsUnreconciled StarsTrouble With LettersLantern Rite TalesGuests in QingceQingce's LanternsVerses and Vistas of Lantern Rite (Part II)
+Idle Quotes[]
+
+Media:VO Little Liu 01.ogg "With a Vision, I'd be super strong, and make loads of money!"
+
+Dialogue[]
+
+Little Liu: Hey. You look like an adventurer. You got a Vision?
+ Duel
+(Opens Genius Invokation TCG match interface)
+(If the player loses the match)
+
+Little Liu: Hehe, I won! Even adults will lose when it comes to cards!
+(If the player wins the match)
+
+Little Liu: Ugh... This one doesn't count! I'll win next time for sure!
+ No.
+Little Liu: Aw, that sucks! Nobody remembers the adventurers who don't have Visions.
+Little Liu: Wanna know why? 'Cause when you get a Vision you get to use elemental power, and you can use that to fight evil and become a legend!
+Little Liu: That's just scratching the surface; Visions give you loads of advantages. Even the books themselves say, the famous adventurers you read about in books are all Vision bearers.
+Little Liu: In short, if you ain't got a Vision, you can forget your dreams of becoming a big hero.
+ I can control the elements though.
+Little Liu: Impossible! You're a liar; I've read lots of books about this and I have never come across anyone who doesn't need a Vision to use elemental power.
+Little Liu: Don't think I'm gonna fall for your lies just 'cause I'm a kid!
+ You can go on adventures without a Vision.
+Little Liu: You mean be one of those martial arts heroes? Hmph, no thank you!
+Little Liu: After the old folks in the village discovered I had an interest in adventuring, they kept bringing me all these martial arts novels...
+Little Liu: But when I read them, I was disappointed to find that the main characters are all ugly stinking men! Sorry, not my kind of story!
+Little Liu: You haven't read any before? Here, knock yourself out, they're certainly no use to me!
+(Obtain  Records of the Gallant: The Hermit)
+ Why are you obsessed with Visions?
+Little Liu: 'Cause I want one for myself!
+Little Liu: With a Vision you can get money and status. If I had enough money, mom and dad could come back to the village 'cause they wouldn't need to work in Liyue Harbor anymore.
+Little Liu: I told my friends about Visions, and now they all want one too.
+ Not telling you.
+Little Liu: Hmph. Fine. Not like I haven't seen one before anyway.
+
+Other Languages[]
+
+LanguageOfficial NameEnglishLittle LiuChinese(Simplified)小六Xiǎo LiùChinese(Traditional)小六Xiǎo LiùJapanese六Roku‍[!][!]Assumed readingKorean육이Yuk-iSpanishPequeña LiuFrenchPetite LiuRussianМалышка ЛюMalyshka LyuThaiเจ้าหนู LiuChao nu  LiuVietnameseBé LiuGermanKleine LiuIndonesianLittle LiuPortuguesePequena LiuTurkishMinik LiuItalianPiccola Liu
+Change History[]
+Released in Version 1.0[Edit History]Version 3.7
+Added a Genius Invokation TCG Duel for Little Liu.
+
+Version 1.0
+
+Little Liu was released.
+References[]
+
+↑ Sarina Neer: EN VA's Profile
+
+↑ World Quest: Will of Stone
+
+
+
+
+

@@ -1,0 +1,115 @@
+
+
+
+
+
+Sirafi
+Traveling Merchant
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Sumeru
+
+
+Location
+Sumeru
+
+
+Affil­i­a­tion
+The Palace of Alcazarzaray
+
+
+Dialogue Reward
+ 4
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Sirafi is an open-world NPC located in Sumeru City, Sumeru.
+Following a certain dialogue branch for the first time gives the player four Harra Fruit.
+
+Contents
+
+1 Location
+2 Profile
+
+2.1 Appearance
+
+
+3 Idle Quotes
+4 Thoughts
+5 Dialogue
+6 Other Languages
+7 Change History
+
+
+Location[]
+Sirafi's locationAdditional context
+Profile[]
+(To be added.)
+
+Appearance[]
+(To be added.)
+
+Idle Quotes[]
+
+ The Palace of Alcazarzaray...
+Media:VO Sirafi 01.ogg "All my goods come directly from the Palace of Alcazarzaray."
+
+Thoughts[]
+Sirafi's thoughts can be accessed by using Nahida's Elemental Skill, All Schemes to Know.
+
+Media:VO Sirafi All Schemes to Know 01.ogg Sirafi: (With me providing cover here, the boss' secret trade route should be safe.)
+Dialogue[]
+
+Sirafi: Don't take my goods for the simple stuff. They're all from the renowned "Palace of Alcazarzaray."
+ About the Palace of Alcazarzaray...
+Sirafi: Even if you've never heard of that name, you should know the enormous palace in northern Sumeru, right?
+Sirafi: That's right, that's the Palace of Alcazarzaray. I work for the owner.
+Sirafi: Any product she touched carries a higher price, even if it couldn't be more ordinary!
+ That good, huh?
+Sirafi: You don't believe me? Well, you should check the quality of my products before you make any judgment.
+Sirafi: You can have them. The Palace of Alcazarzaray won't have a problem with it.
+(Obtain  Harra Fruit ×4)
+ See you.
+Sirafi: Guaranteed genuine article!
+
+Other Languages[]
+
+LanguageOfficial NameEnglishSirafiChinese(Simplified)希拉非XīlāfēiChinese(Traditional)希拉非XīlāfēiJapaneseシラフィShirafiKorean시라피SirapiSpanishSirafiFrenchSirafiRussianСирафиSirafiThaiSirafiVietnameseSirafiGermanSirafiIndonesianSirafiPortugueseSirafiTurkishSirafiItalianSirafi
+Change History[]
+Released in Version 3.0[Create New History]
+
+
+

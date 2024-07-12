@@ -1,0 +1,98 @@
+
+
+
+
+
+Jaleh
+Student
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Sumeru
+
+
+Location
+Sumeru
+
+
+Affil­i­a­tions
+Sumeru AkademiyaAmurta 
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Jaleh is an open-world NPC located in Pardis Dhyai, Sumeru. She is a member of Amurta and can be found talking to Ashshab.
+
+Contents
+
+1 Location
+2 Idle Quotes
+3 Thoughts
+4 Dialogue
+5 Other Languages
+6 Change History
+
+
+Location[]
+Jaleh's locationAdditional context
+Idle Quotes[]
+
+ Have you considered...
+Media:VO Jaleh 01.ogg "Have you considered the possibility that there's something wrong with your projections?"
+
+Thoughts[]
+Jaleh's thoughts can be accessed by using Nahida's Elemental Skill, All Schemes to Know.
+
+
+Media:VO Jaleh All Schemes to Know 01.ogg Jaleh: (He's tunnel-visioning again...)
+
+Dialogue[]
+
+Ashshab: *sigh* I asked Mr. Hazm about my term paper and got just a glare from him again...
+Jaleh: Was it the same question you asked him about last time?
+Ashshab: Yeah, I have adjusted the lighting conditions, but I still can't get the desired outcome.
+Ashshab: When I asked him, he just said something like "You ran too far. You should go back and check!"...
+Ashshab: But as I've confirmed over and over again, the original idea couldn't meet the requirement on the fruits' sweetness.
+Jaleh: I think you might have misunderstood...
+Jaleh: Is it possible that there's something wrong with your projections?
+Ashshab: Huh? Are you saying it was all wrong from the start!?
+
+Other Languages[]
+
+LanguageOfficial NameEnglishJalehChinese(Simplified)扎莱ZhāláiChinese(Traditional)扎萊ZhāláiJapaneseザライZaraiKorean자레JareSpanishJalehFrenchJalehRussianДжалеDzhaleThaiJalehVietnameseJalehGermanJalehIndonesianJalehPortugueseZhalehTurkishJalehItalianJaleh
+Change History[]
+Released in Version 3.0[Create New History]
+
+
+

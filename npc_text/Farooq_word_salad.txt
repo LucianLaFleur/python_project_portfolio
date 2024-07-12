@@ -1,0 +1,122 @@
+
+
+
+
+
+Farooq
+Mercenary, Corps of Thirty
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+								Family
+							
+
+
+
+
+
+Region
+Sumeru
+
+
+Location
+Sumeru
+
+
+Affil­i­a­tion
+Corps of Thirty
+
+
+Dialogue Reward
+ 4
+
+
+
+
+Sibling
+Akram (older twin brother)
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Farooq is an open-world NPC located in Sumeru City, Sumeru.
+Following a certain dialogue branch for the first time gives the player four Adventurer's Experience.
+
+Contents
+
+1 Location
+2 Idle Quotes
+3 Thoughts
+4 Dialogue
+5 Trivia
+6 Other Languages
+7 Change History
+
+
+Location[]
+Farooq's locationAdditional context
+Idle Quotes[]
+
+ Watch out...
+Media:VO Farooq 01.ogg "Watch out for pickpockets."
+
+Thoughts[]
+Farooq's thoughts can be accessed by using Nahida's Elemental Skill, All Schemes to Know.
+
+
+Media:VO Farooq All Schemes to Know 01.ogg Farooq: (Akram is never going to stop stealing, is he...)
+
+Dialogue[]
+
+Farooq: Watch out for pickpockets.
+ Are there lots of thieves?
+Farooq: With the Corps of Thirty around, pickpockets wouldn't dare come around often.
+Farooq: But there could be "inside jobs."
+Farooq: If you see someone who looks exactly like me, watch your wallet.
+Farooq: He's my twin brother. A petty thief who talks nonsense all the time.
+Farooq: Don't let him rub off on you. Just keep an eye on his actions.
+ You all look pretty much the same...
+Farooq: That's even easier: Don't trust anyone.
+Farooq: You'll pay the price someday if you let your guard down around people in uniforms.
+(Obtain  Adventurer's Experience ×4)
+ Thanks for the reminder.
+Farooq: Good to hear that.
+
+Trivia[]
+According to both his and Akram dialogues, it seems that they are twin brothers and Farooq is the younger one.
+Other Languages[]
+
+LanguageOfficial NameEnglishFarooqChinese(Simplified)法卢克FǎlúkèChinese(Traditional)法盧克FǎlúkèJapaneseファルークFaruukuKorean파루크ParukeuSpanishFaruqFrenchFarooqRussianФарукFarukThaiFarooqVietnameseFarooqGermanFarooqIndonesianFarooqPortugueseFarooqTurkishFarooqItalianFarooq
+Change History[]
+Released in Version 3.0[Create New History]
+
+
+

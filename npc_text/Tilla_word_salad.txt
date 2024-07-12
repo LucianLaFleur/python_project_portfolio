@@ -1,0 +1,106 @@
+
+
+
+
+
+"Tilla"
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Location
+Fontaine
+
+
+Dialogue Reward
+ 20,000
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+"Tilla" is an open-world NPC located in "The Rusty Rudder", Fontaine.
+Following a certain dialogue branch for the first time gives the player  Mora ×20,000.
+
+Contents
+
+1 Location
+2 Profile
+3 Idle Quotes
+4 Dialogue
+5 Other Languages
+6 Change History
+
+
+Location[]
+"Tilla"'s locationAdditional context
+Profile[]
+"Tilla" is a self-described "messenger" doing his business below deck at "The Rusty Rudder." The contents of the Discarded Bill in front of him suggests that he is working as an intermediary for the Fatui Harbinger Pantalone. The three shipments from Liyue mentioned on the bill may relate to the three batches of invoices which Landa, one of Pantalone's agents in Liyue, lost during the World Quest Big Business.
+
+Idle Quotes[]
+
+ Not bad...
+Media:VO "Tilla" 01.ogg "These drinks... Not bad at all."
+
+Dialogue[]
+
+"Tilla": This wine is quite lovely. Would you like some? My treat.
+ You are...
+"Tilla": Oh, excuse me. Let me introduce myself.
+"Tilla": I'm Tilla, a humble messenger.
+"Tilla": It's a pleasure to meet you. You seem as trustworthy as you've been made out to be.
+ Do you know me?
+"Tilla": How could I not have heard of you? Your deeds are quite renowned in these parts.
+"Tilla": Several of my colleagues are preparing to extend an invitation to you for a friendly meeting and are looking forward to reaching some, shall we say, mutually beneficial arrangements with you.
+ What kind of arrangements?
+"Tilla": Ho! What else could our business be? Making Mora! Getting some perks! And lining our pockets! In any case, one shouldn't waste their life doing nothing.
+"Tilla": Hehe, if you're interested, I'd be honored. Once I've drafted up an agreement, I'll pick a suitable time to visit you.
+"Tilla": I think this may be the beginning of a beautiful friendship.
+ What does a "messenger" do?
+"Tilla": Never mind, don't worry about it! This is just a humdrum job that helps people take a load off their minds.
+"Tilla": If someone needs help, we help them find it. If someone needs to convey a message, we help them with that too.
+"Tilla": This job's no different from being a fisherman, a chef, a sailor, or a porter.
+"Tilla": I'd even venture to say that in some ways, being a "messenger" is far more... beneficial to the public good. Hehe.
+ I don't think there'll be any chances for us to collaborate.
+"Tilla": Don't say that. Who knows what will happen in the future? Please take this as a small token of my appreciation.
+"Tilla": Have a nice day today, and tomorrow as well! Hehe...
+(Obtain  Mora ×20,000)
+ Goodbye.
+"Tilla": Good day to you. I believe we'll meet again soon.
+
+Other Languages[]
+
+LanguageOfficial NameEnglish"Tilla"Chinese(Simplified)「缇拉」"Tílā"Chinese(Traditional)「緹拉」"Tílā"Japanese「ティラ」"Tira"Korean「틸라」"Tilla"SpanishTillaFrenchTillaRussian«Тилла»"Tilla"Thai"Tilla"Vietnamese"Tilla"German„Tilla“Indonesian"Tilla"Portuguese"Tilla"Turkish"Tilla"ItalianTilla
+Change History[]
+Released in Version 4.2[Create New History]
+
+
+

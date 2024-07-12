@@ -1,0 +1,162 @@
+
+
+
+
+
+Arouet
+Manager, Café Lutece
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Fontaine
+
+
+Location
+Fontaine
+
+
+Affil­i­a­tions
+Café LuteceMaison Gestion (formerly) 
+
+
+Dialogue Reward
+ 3
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Arouet is a shop NPC located in Court of Fontaine: Vasari Passage, Fontaine. He runs the Café Lutece, indicated by the  icon on the map. The shop is open at all times of the day and sells food, recipes, and ingredients. The stock refreshes daily.
+Following a certain dialogue branch for the first time gives the player three Conch Madeleines.
+
+Contents
+
+1 Shop
+
+1.1 Food and Ingredients
+1.2 Recipes
+
+
+2 Location
+3 Quests and Events
+
+3.1 Story Quests
+3.2 World Quests
+
+3.2.1 Requests
+
+
+3.3 Commissions
+3.4 Web Events
+
+
+4 Idle Quotes
+5 Dialogue
+6 Trivia
+7 Other Languages
+8 Change History
+
+
+Shop[]
+Food and Ingredients[]
+ItemCostStockTotalCostRefreshes
+ Fonta160101,600Daily
+ Ile flottante1,77523,550Daily
+ Conch Madeleine6,075212,150Daily
+ Coffee Beans10010010,000Daily
+Total cost for all items27,300(???) 
+Recipes[]
+ItemCostStockTotalCostRequiredAdventure Rank
+ Recipe: Ile flottante2,500(2,250)12,500(2,250)1
+ Recipe: Conch Madeleine5,000(4,500)15,000(4,500)1
+ Recipe: Crepes Suzette5,000(4,500)15,000(4,500)1
+ Recipe: La Lettre a Focalors5,000(4,500)15,000(4,500)1
+ Recipe: Blubber Profiterole5,000(4,500)15,000(4,500)1
+ Recipe: Bulle Souffle5,000(4,500)15,000(4,500)1
+Total cost for all items27,500(24,750) 
+Brackets indicate cost after reputation discount.
+
+Location[]
+Arouet's locationAdditional context
+Quests and Events[]
+Story QuestsDiluvies Chapter (Neuvillette)Act I: The Remains of the Past DayEver-Surging MemoriesIn a New LightWorld QuestsDanger Lurks Everywhere in FontaineRequestsMeka MessCommissionsAlright, Iaune, AlrightGet a Drink at Least!Tales From the CourtWeb EventsSavoring the Breeze
+Idle Quotes[]
+
+ Coffee is life!
+Media:VO Arouet 01.ogg "Coffee is life!"
+
+Dialogue[]
+
+Arouet: Welcome to Café Lutece. Here we have the most bitter coffees and the sweetest cakes, with guests astute and absurd.
+ Tell me about the sweet stuff...
+Arouet: Every bite is as sweet as a Melusine's smile.
+(Opens the Café Lutece Shop menu)
+ Tell me about the bitter...
+Arouet: Every customer has different tastes in coffee, and I shall satisfy them as I am able.
+Arouet: But if someone were to order a coffee without a trace of bitterness, well, then, my abilities would be quite limited.
+Arouet: In such circumstances, I would ask them to go to the Palais Mermonia or Salon Caritat, and speak to the first lady or gentleman they meet.
+ Thanks, but I'll pass.
+Arouet: You seem like a sensible person.
+Arouet: But for me, sensibility and sobriety are different concepts.
+Arouet: I always welcome customers who are sensible and wish them a happy and sweet day.
+(Obtain  Conch Madeleine ×3)
+ About the astute and the absurd...
+Arouet: As you see, ours is a cafe and not a tavern.
+Arouet: There are some gentlemen here who will speak of all manner of things while resting — and I find myself wishing that they said them with the excuse of being drunk.
+Arouet: I fear that what people say when sober might be even more absurd than the babblings of drunkards.
+ See you.
+Arouet: Take care. Please come again.
+
+Trivia[]
+His name might be a reference to 18th century French writer Voltaire, born François-Marie Arouet.
+Other Languages[]
+
+LanguageOfficial NameEnglishArouetChinese(Simplified)阿鲁埃Ālǔ'āiChinese(Traditional)阿魯埃Ālǔ'āiJapaneseアルエArueKorean아루에ArueSpanishArouetFrenchArouetRussianАруэArueThaiArouetVietnameseArouetGermanArouetIndonesianArouetPortugueseArouetTurkishArouetItalianArouet
+Change History[]
+Released in Version 4.0[Edit History]Version 4.6
+New Recipes: Bulle Souffle
+
+Version 4.2
+
+New Recipes: La Lettre a Focalors, Blubber Profiterole
+
+Version 4.1
+
+New Recipe: Crepes Suzette
+
+Version 4.0
+
+Arouet was released.
+
+
+

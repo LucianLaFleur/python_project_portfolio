@@ -1,0 +1,164 @@
+
+
+
+
+
+Ahangar
+Blacksmith
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+								Family
+							
+
+
+
+
+
+Region
+Sumeru
+
+
+Location
+Sumeru
+
+
+Dialogue Reward
+ 4
+
+
+Genius Invokation TCG
+Stages
+
+
+
+
+Children
+Iradj (adopted)Dwarkanath (adopted)
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Ahangar is an open-world NPC that can be found in Sumeru City, Sumeru. He is the main seller for Shamshir's Smithy.
+
+Contents
+
+1 Shop
+2 Location
+3 Quests and Events
+
+3.1 Story Quests
+3.2 World Quests
+3.3 Commissions
+
+
+4 Thoughts
+5 Dialogue
+6 Trivia
+
+6.1 Etymology
+
+
+7 Other Languages
+8 Change History
+
+
+Shop[]
+ItemCostStockTotalCostRefreshes
+ Silver Sword6001600Daily
+ Old Merc's Pal6001600Daily
+ Iron Point6001600Daily
+ Pocket Grimoire6001600Daily
+ Seasoned Hunter's Bow6001600Daily
+Total cost for all items3,000 
+Location[]
+Ahangar's locationAdditional context
+Quests and Events[]
+Story QuestsCarassius Auratus Chapter (Yoimiya)Act II: Star-Pickers' PassageAll Things Flawless and PureWorld QuestsGarcia's Paean: A Gift of CompatibilityCommissionsGarcia's Paean: By BearingsGarcia's Paean: Easy Peasy
+Thoughts[]
+Ahangar's thoughts can be accessed by using Nahida's Elemental Skill, All Schemes to Know.
+
+
+Media:VO Ahangar All Schemes to Know 01.ogg Ahangar: (I hope the children are doing well.)
+
+Dialogue[]
+
+Ahangar: What do you need?
+ I'd like to buy a weapon.
+Ahangar: Pattern-welded steel weapons need to be ordered in advance. These are all that I have readily available.
+ I'd like something made...
+(If nothing has been forged)
+
+Ahangar: Sure.
+(If something has been forged but not collected yet)
+
+Ahangar: Your order from last time is ready. Are you here to collect it, or to place a new order?
+ Adventure Challenge
+(Opens Genius Invokation TCG match interface)
+(If the player loses the match)
+
+Ahangar: You're good, but I'm better.
+(If the player wins the match)
+
+Ahangar: Victory is yours. I've got to say, you're pretty good.
+ And you are...
+Ahangar: I'm a blacksmith who's been crafting weapons for the Eremites. Sometimes I make tools, accessories, and furniture pieces for other people, too.
+(Before finishing Where the Boat of Consciousness Lies)
+
+Ahangar: Sumeru worships Dendro, and most of the researchers aren't in the habit of arming themselves and believe in Greater Lord Rukkhadevata. So, most seem to find the idea of metallic weapons off-putting.
+(After finishing Where the Boat of Consciousness Lies)
+
+Ahangar: Sumeru worships Dendro, and most of the researchers aren't in the habit of arming themselves, their belief in the Dendro Archon besides. In fact, most seem to find the idea of metallic weapons off-putting.
+Ahangar: I can make wooden weapons, too. But the majority of the orders I get in are for the pattern-welded steel weapons required by the mercenaries.
+ I'm alright.
+Ahangar: Seems like you are pretty confident in your abilities.
+Ahangar: But as they say, people with umbrellas are most easily damped on rainy days. You'd better be careful.
+Ahangar: Regular maintenance of handy weapons will help you better deal with crisis.
+(Obtain  Mystic Enhancement Ore ×4)
+ See you.
+Ahangar: Bye.
+
+Trivia[]
+Etymology[]
+The name Ahangar is a surname of Persian origin that means "blacksmith."
+Other Languages[]
+
+LanguageOfficial NameEnglishAhangarChinese(Simplified)阿汉格尔Āhàn'gé'ěrChinese(Traditional)阿漢格爾Āhàn'gé'ěrJapaneseアハンガルAhangaruKorean아한가르Ahan'gareuSpanishAhangarFrenchAhangarRussianАхангарAkhangarThaiAhangarVietnameseAhangarGermanAhangarIndonesianAhangarPortugueseAhangarTurkishAhangarItalianAhangar
+Change History[]
+Released in Version 3.0[Edit History]Version 3.3
+Added a Genius Invokation TCG Adventure Challenge for Ahangar.
+
+Version 3.0
+
+Ahangar was released.
+
+
+

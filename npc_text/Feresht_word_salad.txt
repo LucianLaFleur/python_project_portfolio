@@ -1,0 +1,161 @@
+
+
+
+
+
+Feresht
+Treasure Appraiser Extraordinaire!
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+								Family
+							
+
+
+
+								Voice Actors
+							
+
+
+
+
+
+Region
+Sumeru
+
+
+Location
+Sumeru
+
+
+Genius Invokation TCG
+Stages
+
+
+
+
+Father
+Khalid
+
+
+
+
+English
+Marissa Lenti[1]
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Feresht is an open-world NPC located in Sumeru City, Sumeru.
+
+Contents
+
+1 Location
+2 Idle Quotes
+3 Thoughts
+4 Dialogue
+5 Event Dialogue
+
+5.1 A Parade of Providence
+
+
+6 Other Languages
+7 Change History
+8 References
+
+
+Location[]
+Feresht's locationAdditional context
+Idle Quotes[]
+
+ Trust me...
+Media:VO Feresht 01.ogg "Trust me, just take my word for it."
+
+During A Parade of Providence
+
+ I've heard...
+Media:VO Feresht A Parade of Providence 01.ogg "I've heard that the prize for the Interdarshan Championship includes a real treasure! *Sigh*, I'd love to get a chance to appraise it..."
+
+Thoughts[]
+Feresht's thoughts can be accessed by using Nahida's Elemental Skill, All Schemes to Know.
+
+
+Media:VO Feresht All Schemes to Know 01.ogg Feresht: (I'm the best! ... No, my dad's the best, but I'm next-best after him!)
+
+Dialogue[]
+
+Feresht: Some day, I'm going to inherit the family business and run it even better than Father!
+ Adventure Challenge
+(Opens Genius Invokation TCG match interface)
+(If the player loses the match)
+
+Feresht: So, this looks like a game for the master of treasure appraisal. It's not so simple!
+(If the player wins the match)
+
+Feresht: Aww, you won... But that's okay! Just wait until I come up with an even harder challenge!
+ And you are...
+Feresht: You may call me "Master Treasure Appraiser, Prospective Antiques Collector, and Future Prominent Businessman Feresht."
+Feresht: When it comes to appraising treasure and collecting antiques, my sole objective is to surpass Father. Then there will be no one better than me.
+Feresht: As for the business side of things, I have two more formidable opponents to defeat...
+ Who are these formidable opponents?
+Feresht: One is that sly Sulaykha. With that silver tongue of hers, she's able to sell something as cheap as a rug at a high price. I'm not gonna lose to her!
+Feresht: The other is that Lord Sangemah Bay often mentioned by Father.
+Feresht: I don't know who that is yet, but Father makes it sound like they're someone even more impressive!
+Feresht: It doesn't matter. A powerful adversary is all the more worth the challenge. Just wait and see!
+ Good luck.
+Feresht: Thanks!
+
+Event Dialogue[]
+A Parade of Providence[]
+
+Feresht: Greetings. You may call me "Master Treasure Appraiser, Prospective Antiques Collector, and Future Prominent Businessman Feresht."
+Feresht: Have you heard? The Akademiya is hosting some kind of celebration along with a competition. Supposedly, the champion's prize is an extremely rare treasure.
+Feresht: I think it was called... the diadem of... something. Ah. It doesn't matter. The first trick to being an expert appraiser of treasures is to avoid getting intimidated by a treasure's name!
+Feresht: In terms of appraising antique collections, I'm only slightly less refined than my father. If you want to know how much a certain treasure is worth, just bring it to me and I'll let you know after a glance.
+
+Other Languages[]
+
+LanguageOfficial NameEnglishFereshtChinese(Simplified)费雷斯特FèiléisītèChinese(Traditional)費雷斯特FèiléisītèJapaneseフェレシュテFereshuteKorean페레슈트PeresyuteuSpanishFereshtFrenchFereshtRussianФерештFereshtThaiFereshtVietnameseFereshtGermanFereshtIndonesianFereshtPortugueseFereshtTurkishFereshtItalianFeresht
+Change History[]
+Released in Version 3.0[Edit History]Version 3.3
+Added a Genius Invokation TCG Adventure Challenge for Feresht.
+
+Version 3.0
+
+Feresht was released.
+References[]
+
+↑ Marissa Lenti: EN VA's Resume (Archived)
+
+
+
+
+

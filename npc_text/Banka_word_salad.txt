@@ -1,0 +1,157 @@
+
+
+
+
+
+Banka
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+								Family
+							
+
+
+
+
+
+Region
+Sumeru
+
+
+Location
+Sumeru
+
+
+Dialogue Reward
+ 4
+
+
+
+
+Sibling
+Kumar (younger brother)
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Banka is an open-world NPC located in Vimara Village, Sumeru.
+Following a certain dialogue branch for the first time gives the player four Kalpalata Lotus.
+
+Contents
+
+1 Location
+2 Profile
+
+2.1 Appearance
+
+
+3 Idle Quotes
+4 Thoughts
+5 Dialogue
+
+5.1 Dialogue Set #1
+5.2 Dialogue Set #2
+
+
+6 Other Languages
+7 Change History
+
+
+Location[]
+Banka's locationAdditional context
+Profile[]
+(To be added.)
+
+Appearance[]
+(To be added.)
+
+Idle Quotes[]
+Before completing Where the Boat of Consciousness Lies
+
+ The body must be strong...
+Media:VO Banka 01.ogg "You have to stay fit if you want to stay sickness free."
+
+After completing Where the Boat of Consciousness Lies
+
+ Talk with him...
+Media:VO Banka 02.ogg "Eh, there's no rush. I'll have another talk with him."
+
+Thoughts[]
+Banka's thoughts can be accessed by using Nahida's Elemental Skill, All Schemes to Know.
+
+
+Media:VO Banka All Schemes to Know 01.ogg Banka: (Good health is the foundation for everything.)
+
+Dialogue[]
+Dialogue Set #1[]
+Available before completing Where the Boat of Consciousness Lies.
+
+
+Banka: *sigh* A healthy body should come before everything...
+ Are you alright?
+Banka: Me? I'm fine, completely fine.
+Banka: It's Kumar, my younger brother... His body is frail, and he needs to rest and recuperate in a place with a lot of trees.
+Banka: Before he fell sick, I used to sell in the city the quarries I hunted. But I have to look after him now, so I rarely leave the village unless it's to get medicine in the city.
+Banka: Sometimes, getting ill or not is beyond our control... He's still so young, so I just hope he gets well soon.
+ Things will get better.
+Banka: Hehe, I know it's just a polite gesture, but it's still comforting.
+Banka: Hope Lesser Lord Kusanali will hear our wishes as my little brother always prays.
+(Obtain  Kalpalata Lotus ×4)
+ See you.
+Banka: Mm, see you.
+
+Dialogue Set #2[]
+Available after completing Where the Boat of Consciousness Lies.
+
+
+Banka: Do you think that city life would be best, or if staying in Vimara Village will be better?
+ Are you planning to move into the city?
+Banka: Me? Well, I'm fine right where I am.
+Banka: It's Kumar, my younger brother, that I'm talking about here. Now, it's pretty much a fact that the Dendro Archon has cured everyone suffering from Eleazar, Kumar being one of them.
+Banka: And now that he's well, I suppose it's about time that he made some plans for the future.
+Banka: He's got a long list of things that he wants to try, but I've got a feeling that going to the city to study might open a better path for him than staying here or going out on adventures.
+Banka: If he can become a researcher or something of the order, he won't have to want for anything again.
+ Ask him what he thinks.
+Banka: Yeah, you're right. It's his life, after all, so should it be his decision.
+Banka: here's plenty of time, so there's no need for us to rush.
+Banka: Look, here's something he brought back recently. Most of these flowers grow in high places. He would never have been able to pick them before — that would have been unthinkable.
+(Obtain  Kalpalata Lotus ×4)
+ See you.
+Banka: Mm, see you.
+
+Other Languages[]
+
+LanguageOfficial NameEnglishBankaChinese(Simplified)班卡BānkǎChinese(Traditional)班卡BānkǎJapaneseバンカBankaKorean뱅카BaengkaSpanishBankaFrenchBankaRussianБанкаBankaThaiBankaVietnameseBankaGermanBankaIndonesianBankaPortugueseBankaTurkishBankhaItalianBanka
+Change History[]
+Released in Version 3.0[Create New History]
+
+
+

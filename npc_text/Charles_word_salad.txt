@@ -1,0 +1,230 @@
+
+
+
+
+
+Charles
+Bartender
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+								Voice Actors
+							
+
+
+
+
+
+Region
+Mondstadt
+
+
+Location
+Mondstadt
+
+
+Affil­i­a­tions
+Dawn WineryAngel's Share 
+
+
+
+
+Japanese
+Masutani Yasunori (増谷 康紀)[1]
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Charles is a shop NPC located inside Angel's Share, Mondstadt and sells drink-based food items. His stock refreshes every day.
+
+Contents
+
+1 Shop
+
+1.1 Drinks
+1.2 Recipes
+
+
+2 Location
+3 Profile
+
+3.1 Appearance
+
+
+4 Quests and Events
+
+4.1 Archon Quests
+4.2 Story Quests
+
+4.2.1 Hangout Events
+
+
+4.3 World Quests
+4.4 Commissions
+4.5 Events
+
+
+5 Idle Quotes
+6 Dialogue
+7 Event Dialogue
+
+7.1 Iridescent Arataki Rockin' for Life Tour de Force of Awesomeness
+7.2 Of Drink A-Dreaming
+
+
+8 Gallery
+
+8.1 Cameos
+8.2 Hangout Events
+
+
+9 Other Languages
+10 Change History
+11 References
+
+
+Shop[]
+Drinks[]
+ItemCostStockTotalCostRefreshes
+ Wolfhook Juice1,50023,000Daily
+ Berry & Mint Burst1,50023,000Daily
+ Apple Cider1,50023,000Daily
+ Sparkling Berry Juice1,50023,000Daily
+Total cost for all items12,000 
+Recipes[]
+ItemCostStockTotalCostRequiredAdventure Rank
+ Recipe: Fruits of the Festival5,00015,0001
+Total cost for all items5,000 
+Location[]
+Charles' location (all day)Additional context
+Profile[]
+Charles is the bartender at Angel's Share who has been employed there by the Dawn Winery for more than a decade. While he works most nights, sometimes the owner, Diluc, will tend the bar and give him a night off.
+During the Equivalent Exchange quest, the player must retrieve the Strange Cocktail Ingredient for Charles and he makes the Special Beverage from Angel's Share.
+
+Appearance[]
+He has light brown hair, both a mustache and a beard, he has amber eyes, a necklace with a golden amulet, also a brown belt with pockets. Charles also wears brown gloves.
+
+Quests and Events[]
+Archon QuestsPrologueAct II: For a Tomorrow Without TearsWild EscapeStory QuestsLeo Minor Chapter (Jean)Act I: Master's Day OffWhen the West Wind ArisesCharles' TroublesNoctua Chapter (Diluc)Act I: Darknight Hero's AlibiLegend of the Darknight HeroTrifolium Chapter (Klee)Act I: True TreasureWho Is Mondstadt's Strongest Fighter?Hangout EventsNoelleAct II: Knightly Exam PrepNoelle the Intelligence OperativeWorld QuestsChapter IAct IV - Prelude: Bough Keeper: DainsleifEquivalent ExchangeCommissionsPresumption of InnocenceEventsOf Drink A-DreamingOf Drink A-DreamingIridescent Arataki Rockin' for Life Tour de Force of Awesomeness
+Idle Quotes[]
+
+Media:VO Charles 01.ogg "What would you like?"
+
+Dialogue[]
+
+Charles: What'll it be today?
+ I'd like to buy something to drink.
+Charles: Here's the menu. Let me know once you're ready to order.
+(Opens Angel's Share menu)
+ About Stormterror...
+(After completing The Outlander Who Caught the Wind)
+Charles: It's been quite the headache for sure. Stormterror's affected our tavern's supply routes, so the variety of wines here has also dropped...
+Charles: As for Stormterror itself, I'm not too worried. I think those people who numb themselves with alcohol are just scared out of their wits.
+Charles: But we do reach the point of no return, then we just need to wait for night to fall.
+Charles: The "Knight Who Emerges At Night" will not just stand idly by..
+(After completing A Long Shot)
+Charles: Well, what's passed has passed, I say.
+Charles: Life isn't all sweet fruit juice. It also needs some bitter alcohol. These incidents will also become part of our experience.
+Charles: Rather than ask how this could happen, we should look forward to the future. Accepting the bitter with the sweet is how adults do things.
+Charles: Once you're ready for the bitter, I'll pour you a special brew.
+ Any recommendations?
+Charles: The apple cider from the Dawn Winery is a special at Angel's Share.
+Charles: You can try my special cocktail if you want. The cocktail is on the house if it's your first time here.
+ What sort of liquor is the best?
+Charles: If you like strong wine, then I'd recommend that you try Death After Noon. It's Captain Kaeya's favorite.
+Charles: But the strongest wine I know has to be the one called Fire-Water.
+Charles: It hails from Snezhnaya, and was brought into Mondstadt by Snezhnayan merchants, but Master Diluc stopped importing it, saying that it didn't fit the tastes of the people here.
+Charles: The only remaining bottle is from the original batch. It's for display purposes only, though, so you'll have to go to Snezhnaya if you want to try some.
+ Tell me about yourself.
+Charles: You want to know about me?
+Charles: I've been working as a bartender here for more than a decade. I'm employed by the Dawn Winery, like everyone else.
+Charles: I'm not that interested in alcohol, but it's my job so...
+Charles: I mean, I'm not like Diona at Cat's Tail. I heard she hates alcohol.
+Charles: Occasionally, Master Diluc, the owner of the winery, will cover my shift.
+Charles: Days off are precious after all, so I'm very thankful to him for that.
+ Not right now, thanks.
+Charles: Really? Shouldn't drink too much anyway I guess.
+
+Event Dialogue[]
+Iridescent Arataki Rockin' for Life Tour de Force of Awesomeness[]
+
+ We'd like to invite you to attend this music festival.
+Charles: Haha, you, coming with an invitation? What's the occasion? Has Master Diluc decided to give me the day off?
+Paimon: No, this is about a musical exchange taking place in Inazuma! If there's a song you like, we can play it for you right now.
+Charles: A song I like, you say? Hmm... I do remember Head Housemaid Adelinde hosting several small family concerts at Dawn Winery.
+Charles: They played a song at those gatherings that I do quite like. I'll do my best to hum it for you. Mind playing the song after that?
+ Sure, I'll give it a go.
+Charles: In that case, do excuse my amateurishness...
+(After performing)
+Charles: Very impressive. In fact, I should recommend to Adelinde that you be commissioned to play at the next such family event.
+Charles: As for your invitation... To be honest, I was just about ready to agree the moment you finished your performance.
+Charles: But I'm not sure if I'd want to ask Master Diluc for a day off over something this trivial — after all, he'd agree without hesitation.
+Charles: How about this, then? I'll send you a token of support for your festival. Will that do?
+ So you'll be sending us several crates of wine?
+Charles: Haha, I doubt everyone who'll be attending the festival will be of drinking age.
+Charles: As such, I'll give you some decorative banners instead. We've got them stocked in the winery warehouse — and I believe they'll come in quite handy.
+Charles: Don't worry, you won't have to go fetch them yourselves. I'll have some of our traders deliver it directly.
+Charles: Just consider it the "Angel's Share."
+(Talk to Charles again, optional)
+ How was that?
+(Same as After performing)
+
+Of Drink A-Dreaming[]
+
+Charles: Do you need a hand with anything?
+ I'd like to take part in the bartender challenge.
+Charles: Looks like you're ready. In that case, let us begin.
+(Opens Bartender Challenge screen)
+ I'd like to come up with a new mix.
+Charles: Sure. We've already restocked on ingredients, so please, feel free — let your imagination run wild!
+(Opens drink mixing screen)
+ See you around.
+Charles: No problem. If you ever need any help, just come and look for me.
+
+Gallery[]
+Icon during Of Drink A-Dreaming event
+Cameos[]
+Collected Miscellany - "Rosaria- Purger of the Shadows" - Genshin Impact
+Hangout Events[]
+Knightly Exam Prep ending: Work Made for a Maid(Aether Version)Knightly Exam Prep ending: Work Made for a Maid(Lumine Version)
+Other Languages[]
+
+LanguageOfficial NameEnglishCharlesChinese(Simplified)查尔斯Chá'ěrsīChinese(Traditional)查爾斯Chá'ěrsīJapaneseチャールズChaaruzuKorean찰스ChalseuSpanishCharlesFrenchCharlesRussianЧарльзCharl'zThaiCharlesVietnameseCharlesGermanCharlesIndonesianCharlesPortugueseCharlesTurkishCharlesItalianCharles
+Change History[]
+Released in Version 1.0[Create New History]
+References[]
+
+↑ Aoni: JP VA's Profile
+
+
+
+
+

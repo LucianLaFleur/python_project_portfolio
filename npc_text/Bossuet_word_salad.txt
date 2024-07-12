@@ -1,0 +1,168 @@
+
+
+
+
+
+Bossuet
+Former Senior Researcher, Fontaine Research Institute
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Fontaine
+
+
+Location
+Fontaine
+
+
+Affil­i­a­tion
+Fontaine Research Institute
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Bossuet is an open-world NPC located in Petrichor, Nostoi Region, Fontaine. He was a former Senior Technician of the Fontaine Research Institute.
+His dialogue changes after completing the World Quest Series Canticles of Harmony. During the quest, he is possessed by an unnamed citizen from Remuria.
+
+Contents
+
+1 Location
+2 Profile
+3 Idle Quotes
+4 Dialogue
+
+4.1 Dialogue Set #1
+4.2 Dialogue Set #2
+4.3 Dialogue Set #3
+
+
+5 Trivia
+
+5.1 Etymology
+
+
+6 Other Languages
+7 Change History
+8 References
+
+
+Location[]
+Bossuet's locationAdditional context
+Profile[]
+Chisseray, alongside fellow Junior Researchers Genevieve, Maillardet, and Sevigne, worked with Bossuet at the Fontaine Research Institute. During Bossuet's reign, the institute was renamed to the "Bossuet Research Institute". Chisseray holds Bossuet in particularly low esteem, leaving behind sarcastic and resentful remarks.[1]
+Bossuet left behind a portrait of himself in their underwater laboratory at Mary-Ann Memorial Park. Sevigne was surprised that Bossuet did not take the portrait to Petrichor. Bossuet was also the one who proposed the idea of creating the Icewind Suite, which Maillardet later followed up on.[2] The two meka were originally designed for non-combat purposes, but when Maillardet suggested giving them combat capabilities, Bossuet opposed the idea. Eventually, following a "happy accident", Bossuet departed to Petrichor to retire, allowing Maillardet to continue with his modifications to the Icewind Suite without any objections.[3]
+
+Idle Quotes[]
+Available before completing Canticles of Harmony.
+
+
+ What sort of fish...
+Media:VO Bossuet 01.ogg "What sort of fish should I cook today?"
+
+Available after completing Daydreams Beyond Space and Time.
+
+
+ Bossuet: Very fascinating...
+Media:VO Bossuet 02.ogg "This cannon's design is very fascinating..."
+
+Dialogue[]
+Dialogue Set #1[]
+Available before completing Canticles of Harmony.
+
+
+Bossuet: What should tonight's menu be...
+ What are you doing?
+Bossuet: Oh, right. I'm working on tonight's menu. After much contemplation, I decided on fish for the main dish, to go with a few special drinks...
+Bossuet: I'm sure those gentlemen will be pleased.
+Bossuet: Thanks to the God King's grace, the spices I ordered finally arrived on time, and combined with some fish fresh from the ocean...
+Bossuet: Well, feel free to stay and have a taste! Trust me, fish are my specialty!
+ B—Bye!
+Bossuet: Oh, going already? Alright then, take care.
+
+Dialogue Set #2[]
+Available after completing Canticles of Harmony.
+
+
+Bossuet: Fish... Ah, yes, that's right. This is the fish I discovered most recently...
+
+Dialogue Set #3[]
+Available after completing Daydreams Beyond Space and Time.
+
+
+Bossuet: This cannon's design is fascinating... Most interesting indeed...
+ You want to make a cannon?
+Bossuet: Me? No, no, this cannon was designed by Mécantre and Babisse. I just had some... peripheral participation in the discussions.
+Bossuet: Even though the design philosophy and purpose of this cannon are intriguing to say the least, I must say that this line of thinking is quite... well, overboard.
+Bossuet: A "daydream" in all senses of the word.
+Bossuet: Putting aside the cannon material and the shape of the projectile it must fire, immense amounts of propellant must be expended to fire any shell up to the altitude they desire...
+Bossuet: Hehe, the fuel they'd need could stuff four or five cannons of this caliber to the brim.
+Bossuet: ...That said, I reckon it's not a bad thing that their research continues. My guidance may yet ensure that their work bears fruit that will be useful in other fields...
+ And you are...?
+(Condition missing)
+
+Bossuet: Hmm? You've not heard of me? Well, I suppose you don't look like researchers on the cutting edge either.
+Bossuet: Bossuet's the name. I once worked at the Fontaine Research Institute.
+Bossuet: If you have time to visit the Institute, I'm sure you'll find many an academic achievement credited to me, and researchers who have received my mentorship.
+Bossuet: Ah, but that said, I'm not providing professional guidance at the moment.
+Bossuet: I've retired from my research post, and am here in peaceful retirement. If you wanted professional aid, I fear I must disappoint you.
+(Condition missing)
+
+Bossuet: You don't know of me? Or rather, you don't recognize me? Oh, wonderful. Raimondo and Choiseul's plan to erase me from the Institute has gone swimmingly. How happy I am for them.
+Bossuet: Pleased to make your acquaintance, Honorary Senior Researcher. I am Bossuet, and I once worked at the Fontaine Research Institute.
+Bossuet: I believe you might have found many a fruit of my academic labor in the Institute, and met some of my mentees to boot. Your fame has reached me here, thanks to the trusty Steambird.
+Bossuet: Oh, by the way, I've resigned from my post as a researcher, and I'm here in quiet retirement. Not taking mentorships at the moment.
+Bossuet: So if that's what you were looking for, you're going to be disappointed, I fear.
+ ...Goodbye.
+Bossuet: See you. Take care now.
+
+Trivia[]
+Etymology[]
+Jacques-Bénigne Bossuet was a French bishop and theologian.
+Other Languages[]
+
+LanguageOfficial NameEnglishBossuetChinese(Simplified)博絮埃Bóxù'āiChinese(Traditional)博絮埃Bóxù'āiJapaneseボシュエBoshueKorean보쉬에BoswieSpanishBossuetFrenchBossuetRussianБоссюэBossyueThaiBossuetVietnameseBossuetGermanBossuetIndonesianBossuetPortugueseBossuetTurkishBossuetItalianBossuet
+Change History[]
+Introduced in Version 4.1 • Released in Version 4.6[Create New History]
+References[]
+
+↑ World Quest: Treacherous Light of the Depths (optional interactable Bossuet Research Institute Project Result Summary (I))Since Monsieur Bossuet became the supervisor of the Bossuet Research Institute (formerly known as Alain Guillotin Memorial Research Institute), his flawless decisions and wise leadership have led to remarkable results in multiple research areas.Out of respect and in gratitude to Monsieur Bossuet (Note: I am absolutely not being mandated to do this by Monsieur Bossuet himself), his highly original research results shall be collected here for future reference.
+
+↑ NPC Dialogue: Sevigne
+
+↑ NPC Dialogue: Maillardet
+
+
+
+
+

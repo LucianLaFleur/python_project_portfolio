@@ -1,0 +1,183 @@
+
+
+
+
+
+Etsuko
+Adventurer
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+								Voice Actors
+							
+
+
+
+
+
+Region
+Inazuma
+
+
+Location
+Inazuma
+
+
+Affil­i­a­tion
+Adventurers' Guild
+
+
+
+
+English
+Natalie Hitzel[1]
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Etsuko (Japanese: 悦子 Etsuko) is an open-world NPC located in Seirai Island, Inazuma. She is first seen in the World Quest Seirai Stormchasers: Part I in Series Seirai Stormchasers.
+
+Contents
+
+1 Location
+2 Profile
+
+2.1 Appearance
+
+
+3 Quests and Events
+
+3.1 World Quests
+
+
+4 Idle Quotes
+5 Dialogue
+6 Other Languages
+7 Change History
+8 References
+
+
+Location[]
+Etsuko's locationAdditional context
+Profile[]
+(To be added.)
+
+Appearance[]
+Etsuko has black hair and black eyes. She wears the Adventurers' Guild standard uniform. The uniform consists of three layers of clothing (a white short-sleeve dress with a front cut-off, a green cape collar with a ruffled trim and a triangular back flap, and a green panel skirt with slits and a red bow at the back), a green Dixie cap with a red cross on the left, a short red neckerchief, brown socks and laced high leather boots. The Adventurers' Guild logo, an eight-pointed star, is printed on the right and back flaps of the collar.
+
+Quests and Events[]
+World QuestsNeko Is a CatNeko Is a Cat: Wooden ShelfNeko Is a Cat: Shrine RecipeNeko Is a Cat: Cat and StoneNeko Is a Cat: A "Good Turn" Comes LateSeirai StormchasersSeirai Stormchasers: Part ISeirai Stormchasers: Part IISeirai Stormchasers: Part IIISeirai Stormchasers: Part IV
+Idle Quotes[]
+
+ The Guild assignment...
+Media:VO Etsuko 01.ogg "The Guild assignment must not get delayed."
+
+Dialogue[]
+
+Etsuko: There has to be something wrong with the way the Guild rated this commission's difficulty...
+ Not going back to the Guild yet?
+Etsuko: Oh, hey, it's you.
+Etsuko: Taisuke's been really taken with that talking cat named Neko. He insists that we continue investigating for a while.
+Etsuko: I'm just here to make sure that he doesn't do anything idiotic in the process.
+Etsuko: And I'm also taking this opportunity to slack off for a bit.
+ Do you not like Neko?
+Etsuko: I don't think I'd put it in those terms. I've just got no interest in her.
+Etsuko: I came to this island to get this commission done.
+Etsuko: I've never been very interested in much other than that.
+Etsuko: The way I see it, if you get too invested in things outside the remit of your commission while you're doing it, you'll veer off onto a branching path...
+Etsuko: And I wouldn't call that a good thing for a professional adventurer.
+ Well, isn't the commission complete?
+Etsuko: Yes. Which is why I'm over here slacking off in the Guild's name, see?
+Etsuko: I wouldn't dare hang around here doing nothing otherwise.
+Etsuko: To tell you the truth, though, this place is still very concerning.
+Etsuko: "Asase Shrine," "Hibiki"... and of course, "Domeki."
+Etsuko: I just feel that many heretofore undiscovered secrets still lie buried here on Seirai Island.
+Etsuko: That said... Heh, I'm too lazy to figure them all out myself.
+Etsuko: Once we get back to the Guild, I'll settle those reports, and we'll leave it to them to figure out a larger schema for exploring Seirai Island.
+Etsuko: But before that... let me just slack here for a while more.
+ See you around.
+Etsuko: Goodbye, and safe travels!
+
+(After completing Neko Is a Cat: A "Good Turn" Comes Late)
+Etsuko: Indeed, "Hibiki," "Asase Shrine," "Domeki"... these names are all quite concerning, actually.
+ And where did you two pop out from?
+Etsuko: Well, you were all making such a racket, so of course we'd come over.
+Etsuko: Still, there's something that I think you must know.
+Etsuko: Taisuke, if you'd do the honors.
+Taisuke: Ah right, of course, Miss Etsuko. So what we're going to say... concerns Seirai Island.
+ Do you know something?
+Taisuke: The history of this place is very obscure, and while the Guild has attempted to specifically search for information regarding it, we've found very little...
+Taisuke: According to what information we did manage to get, this was a gathering place for pirates several centuries ago. Then, it was the Shogunate who cleared all the pirates out and moved the inhabitants to other places...
+Taisuke: Unless I'm mistaken, this "Domeki" we speak of may well have been the pirate leader "Ako Domeki," who chose to fight the Shogunate head-on. The records do clearly record his name.
+Taisuke: According to that same information we have, this Ako Domeki led his pirate fleet in a naval battle against the Shogunate.
+Taisuke: They were quickly suppressed and forced to flee back to Seirai Island...
+Taisuke: But as the Shogunate fleet pursued him, a sudden storm erupted on Seirai Island.
+Taisuke: Ako Domeki's fleet and the Shogunate's were both caught in the ensuing storm... and they were all lost.
+ A storm...
+Etsuko: I'll pick things up from there. The biggest mystery here, of course, is the sudden emergence of that storm.
+Etsuko: Although Ako Domeki's fleet was also hit by the storm and was nearly wiped out as a result, the fleet that the Shogunate sent was also all but lost with all hands, with the remnants being forced to retreat to Narukami Island. It would be quite some time before the fleet was ready again.
+Etsuko: So the timing of that storm was just too good. Almost as if... someone was specifically controlling it.
+Etsuko: I'm sure you remember the Warding Stones on this island. Those had been intentionally unsealed.
+Etsuko: And once we sealed them again, the storm on the island became calm once more.
+Etsuko: I'm not going to jump to conclusions immediately, but my gut says that those incidents are definitely related.
+Taisuke: Well, we could ask Lady Neko...
+Etsuko: ...Eh, I say forget it. The record states that Domeki went missing — well, that's what it says anyway, but if he was hit by that storm, he probably...
+Etsuko: We'll continue exploring this island and collecting more information about this incident for a while, and then we'll report back to the Guild.
+Etsuko: Who knows? Maybe we'll have the pleasure of working together again some time.
+ I look forward to it.
+Etsuko: The feeling's mutual.
+Etsuko: Well, Taisuke, let's ready up. We've got some exploring to do.
+Taisuke: Uh, so Miss Etsuko, about Lady Neko...
+Etsuko: You can keep treating that cat just as you did before, of course.
+Etsuko: Just remember to refrain from saying anything you shouldn't.
+Etsuko: It's a real happy camper right now. No need for you to be a wet blanket.
+Taisuke: I got it. Haha, Miss Etsuko, you really are...
+Etsuko: ...Just trying to finish our commissions more efficiently. C'mon, let's get to work.
+Etsuko: Seirai Island... It seems that this place is still full of many mysteries...
+
+Other Languages[]
+
+LanguageOfficial NameEnglishEtsukoChinese(Simplified)悦子YuèziChinese(Traditional)悅子YuèziJapanese悦子EtsukoKorean에츠코EcheukoSpanishEikoFrenchEtsukoRussianЭйкоEykoThaiEtsukoVietnameseEtsukoGermanEtsukoIndonesianEikoPortugueseEtsukoTurkishEikoItalianEtsuko
+Change History[]
+Released in Version 2.1[Edit History]Version 3.7
+This NPC's name was adjusted to "Etsuko."
+
+Version 2.1
+
+Eiko was released.
+References[]
+
+↑ Twitter: EN VA Self Announcement (Archived)
+
+
+
+
+

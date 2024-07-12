@@ -1,0 +1,117 @@
+
+
+
+
+
+Atefeh
+Traveling Merchant
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Sumeru
+
+
+Location
+Mondstadt
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Event-Exclusive NPCs 
+
+
+
+
+Atefeh is an event-exclusive NPC who appeared in Alchemical Ascension.
+
+Contents
+
+1 Profile
+
+1.1 Appearance
+
+
+2 Quests and Events
+
+2.1 Events
+
+
+3 Dialogue
+
+3.1 Dialogue Set #1
+3.2 Dialogue Set #2
+
+
+4 Other Languages
+5 Change History
+
+
+Profile[]
+(To be added.)
+
+Appearance[]
+Atefeh has light brown hair and eyes, as well as a subtle red toned makeup. Her clothes are that of Sumeru fashion and are in tones of light brown, white and dark purple, which she pairs with gold jewelry, sandals, and a large backpack.
+
+Quests and Events[]
+EventsAlchemical AscensionAlchemy and Business OperationsIII: International MarketsInternational Markets
+Dialogue[]
+Dialogue Set #1[]
+
+Atefeh: So, Are you ready to make more Mora with me?
+(Opens the Distributors interface)
+ Check potion requirements...
+Atefeh: According to my keen market sense, these are the kinds of potions that are currently in demand.
+After taking invetory of the potions, Atefeh shoulders her bag and leaves...She will return to the store after one operation cycle and bring the sales results with her.
+ Maybe later...
+Atefeh: Hmm, okay. But don't wait too long. When it comes to making Mora, you've got to strike while the iron is hot!
+
+Dialogue Set #2[]
+Available after completion of a cycle.
+
+
+Atefeh: Hello there. The potions from earlier have sold out.
+Atefeh: I've organized the sales data for you. Feel free to have a look.
+
+
+Atefeh: Let's skip right to talking about this deal, shall we?
+(Opens the Distributors interface)
+ Check potion requirements...
+Atefeh: According to my keen market sense, these are the kinds of potions that are currently in demand.
+After taking invetory of the potions, Atefeh shoulders her bag and leaves...She will return to the store after one operation cycle and bring the sales results with her.
+ Maybe later...
+Atefeh: Hmm, okay. But don't wait too long. When it comes to making Mora, you've got to strike while the iron is hot!
+
+Other Languages[]
+
+LanguageOfficial NameEnglishAtefehChinese(Simplified)阿泰菲Chinese(Traditional)阿泰菲JapaneseアテフェAtefeKorean아텝AtepSpanishAtefehFrenchAtefehRussianАтефаAtefaThaiAtefehVietnameseAtefehGermanAtefehIndonesianAtefehPortugueseAtefehTurkishAtefehItalianAtefeh
+Change History[]
+Released in Version 4.5[Create New History]
+
+
+

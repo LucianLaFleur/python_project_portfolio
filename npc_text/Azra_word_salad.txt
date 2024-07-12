@@ -1,0 +1,117 @@
+
+
+
+
+
+Azra
+Mercenary, Corps of Thirty
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Sumeru
+
+
+Location
+Sumeru
+
+
+Affil­i­a­tion
+Corps of Thirty
+
+
+Dialogue Reward
+ 1
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Azra is an open-world NPC located in Grand Bazaar, Sumeru City, Sumeru.
+Following a certain dialogue branch for the first time gives the player one Varunada Lazurite Fragment.
+
+Contents
+
+1 Location
+2 Quests and Events
+
+2.1 Commissions
+
+
+3 Idle Quotes
+4 Thoughts
+5 Dialogue
+6 Other Languages
+7 Change History
+
+
+Location[]
+Azra's locationAdditional context
+Quests and Events[]
+CommissionsDoctor's Orders
+Idle Quotes[]
+
+ Nilou's performance...
+Media:VO Azra 01.ogg "When will I be able to see Nilou perform again?"
+
+Thoughts[]
+Azra's thoughts can be accessed by using Nahida's Elemental Skill, All Schemes to Know.
+
+
+Media:VO Azra All Schemes to Know 01.ogg Azra: (I want to watch Nilou dance!)
+
+Dialogue[]
+
+Azra: When will I be able to see Nilou perform again?
+ About Nilou...
+Azra: Let me tell you, Zubayr Theater's Nilou is the best dancer ever.
+Azra: Many may be able to dance beautifully, but Nilou is unique in the way she infuses emotions into her dance.
+Azra: It took me a long time to snap out of such a feeling after watching her performance. It's so...
+ That feeling?
+Azra: Just like water!
+Azra: I mean, pure water can be shaped into different forms, boiled, or frozen...
+Azra: *sigh* If I weren't assigned as a guard here, I would like to watch her perform every day.
+(Obtain  Varunada Lazurite Fragment ×1)
+ See you.
+(Before completing Where the Boat of Consciousness Lies)
+Azra: *sigh* Why doesn't the Akademiya like theaters?
+(After completing Where the Boat of Consciousness Lies)
+Azra: The ban on the arts has been lifted, so we should be able to watch more performances now...
+
+Other Languages[]
+
+LanguageOfficial NameEnglishAzraChinese(Simplified)阿兹拉ĀzīlāChinese(Traditional)阿茲拉ĀzīlāJapaneseアズラAzuraKorean아즈라AjeuraSpanishAzraFrenchAzraRussianАзраAzraThaiAzraVietnameseAzraGermanAzraIndonesianAzraPortugueseAzraTurkishAzraItalianAzra
+Change History[]
+Released in Version 3.0[Create New History]
+
+
+

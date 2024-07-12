@@ -1,0 +1,138 @@
+
+
+
+
+
+Mats
+General Goods Seller
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Mondstadt
+
+
+Location
+Mondstadt
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Event-Exclusive NPCs 
+
+
+
+
+Mats is an event-exclusive NPC that appeared in the Of Ballads and Brews event.
+
+Contents
+
+1 Profile
+
+1.1 Appearance
+
+
+2 Quests and Events
+
+2.1 Events
+
+
+3 Idle Quotes
+4 Dialogue
+
+4.1 Dialogue Set #1
+4.2 Dialogue Set #2
+4.3 Dialogue Set #3
+
+
+5 Other Languages
+6 Change History
+
+
+Profile[]
+(To be added.)
+
+Appearance[]
+(To be added.)
+
+Quests and Events[]
+EventsOf Ballads and BrewsFavonian Goodies and Buddies
+Idle Quotes[]
+
+ General goods...
+Media:VO Mats Of Ballads and Brews 01.ogg "General goods, at affordable prices!"
+
+Dialogue[]
+Dialogue Set #1[]
+Available before finishing Favonian Goodies and Buddies
+
+
+Mats: All your general goods sold here at affordable prices, come and take a look!
+ And you are...
+Mats: Well, if it isn't the Honorary Knight! It's a pleasure to meet you!
+Mats: I was doing business abroad previously, and I normally only come back during Weinlesefest. It's no surprise that we haven't met before.
+Mats: If it's meant to be, I'm sure we'll meet again elsewhere!
+ How's business these days?
+Mats: Not bad at all!
+Mats: As you can see, Weinlesefest is swarming with guests! I can make as much in one day here as I normally would in four or five!
+Mats: I wish there were more lively festivals like this one!
+ See you.
+Mats: See you, may we meet again!
+
+Dialogue Set #2[]
+Available before finishing Charity Event! A Great Success!
+
+
+Mats: Yo, Honorary Knight! Would you like to hear good news from the shop?
+ What about the shop?
+Mats: Haha, let me break it down for you, and you can tell me what you think!
+(Open shop management page)
+ Thank you for your hard work!
+Mats: Saying that will out you as an outsider! It's not hard work, it's a good time!
+
+Dialogue Set #3[]
+Available after finishing Charity Event! A Great Success!
+
+
+Mats: Yo, I heard the charity sale was a great success. Congratulations, Honorary Knight!
+ This is the result of our collaborative efforts.
+Mats: Hehe, good point!
+Mats: This event has invigorated me. We didn't make money, but we had more fun than ever.
+Mats: I guess it's the satisfaction of doing a good deed.
+ Let's work together next time!
+Mats: Sure! I'm about to leave, too!
+Mats: Next time I'll be sure to try harder!
+
+Other Languages[]
+
+LanguageOfficial NameEnglishMatsChinese(Simplified)马茨MǎcíChinese(Traditional)馬茨MǎcíJapaneseマーツMaatsuKorean마츠MacheuSpanishMatsFrenchMatsRussianМатсMatsThaiMatsVietnameseMatsGermanMatsIndonesianMatsPortugueseMatsTurkishMatsItalianMats
+Change History[]
+Released in Version 3.1[Create New History]
+
+
+

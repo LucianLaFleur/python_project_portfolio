@@ -1,0 +1,180 @@
+
+
+
+This article is about the regular NPC. For the quest-exclusive NPC, see Ryouko (Rumors Abound).
+
+
+Ryouko
+Street Food Vendor
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Inazuma
+
+
+Location
+Inazuma
+
+
+Dialogue Reward
+ 4
+
+
+Genius Invokation TCG
+Stages
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Ryouko (Japanese: 涼子 Ryouko) is an open-world NPC located in Ritou, Inazuma. Her store is unlocked after completing the World Quest Chisato's Letter in Series Ritou Travel Permit.
+Following a certain dialogue branch for the first time gives the player four Dry-Braised Salted Fish.
+
+Contents
+
+1 Shop
+
+1.1 Food
+1.2 Recipes
+
+
+2 Location
+3 Profile
+
+3.1 Appearance
+
+
+4 Quests and Events
+
+4.1 Archon Quests
+
+
+5 Idle Quotes
+6 Dialogue
+7 Event Dialogue
+
+7.1 Hues of the Violet Garden
+
+
+8 Other Languages
+9 Change History
+
+
+Shop[]
+Food[]
+ItemCostStockTotalCostRefreshes
+ Delicious Dry-Braised Salted Fish350103,500Daily
+ Egg Roll700107,000Daily
+Total cost for all items10,500 
+Recipes[]
+ItemCostStockTotalCostRequiredAdventure Rank
+ Recipe: Dry-Braised Salted Fish1,25011,250?
+ Recipe: Katsu Sandwich2,50012,500?
+Total cost for all items3,750 
+Location[]
+Ryouko's locationAdditional context
+Profile[]
+Ryouko is a street food vendor. Her food stall was founded by her husband, who asked her if she could join him. At first, she wasn't fond of the idea because her husband wasn't in a good state of health to handle running a food stall, but then he told her that he loved how the people smiled when they ate Ryouko's snacks. After that, they promised each other to buy a shop in Hanamizaka when they had earned enough money. Later, during autumn two years ago, Ryouko's husband insisted on going out while it was pouring rain. In the end, he died, most likely from an illness. Now, Ryouko runs the food stall and cherishes her and her husband's memories together to remember her deceased husband as well as she can.
+
+Appearance[]
+Ryouko uses the medium female model. She has shoulder-length brown hair and greenish eyes.
+
+Quests and Events[]
+Archon QuestsChapter IIAct I: The Immovable God and the Eternal EuthymiaConfessions of an Outlander
+Idle Quotes[]
+
+ Inazuma style...
+Media:VO Ryouko 01.ogg "Hey there! Do you want to try some snacks from Inazuma?"
+
+During Hues of the Violet Garden
+
+ If you're tired...
+Media:VO Ryouko Irodori 01.ogg "If you're tired from walking all around the festival, how about you sit right here and try my Inazuman snacks?"
+
+Dialogue[]
+
+Ryouko: Hehe, welcome. Care to have some specialty snacks?
+ Sure, I'll have some. (Only after completing Chisato's Letter)
+Ryouko: Wonderful. Here is the menu.
+ Adventure Challenge
+(Opens Genius Invokation TCG match interface)
+(If the player loses the match)
+
+Ryouko: Ha ha, it seems that you need to reconsider your deck composition...
+(If the player wins the match)
+
+Ryouko: I had no idea you were so good at cards. You must be exhausted from all that strategizing. Do you want to buy something to eat?
+ So, what's with this store?
+Ryouko: This food stall... was founded by my husband, who asked me to join him.
+Ryouko: I didn't really want to work in this line of business at first. You have to wake up early and go home late. My husband was never in good health either... How could he have handled this for long?
+Ryouko: But he told me that he loved seeing the smile on people's faces while they were eating the snacks I made... In the end, I could not dissuade him.
+ Your husband?
+Ryouko: We promised each other that we'd buy a shop in Hanamizaka when we made enough money so that more people would be able to try our snacks.
+Ryouko: ...But during the autumn two years ago, he didn't listen to me and insisted in purchasing goods in pouring rain. In the end...
+Ryouko: Now, the best way for me to remember him is to run this stall well and cherish our memories together.
+Ryouko: If you would visit more often, dear customer, that would certainly help him rest in peace...
+ You must be very good at cooking?
+Ryouko: Hehe, this client has a way with words. Even though I'm not famous, I'm confident in my abilities when it comes to the seasoning of Inazuma snacks.
+Ryouko: Here, I've cooked a fresh batch. Would you like to try some they are still hot? [sic]
+Ryouko: It seems like you're an outlander. If the food isn't to your tastes, I can specially adjust the seasoning just for you.
+(Obtain  Dry-Braised Salted Fish ×4)
+ Goodbye.
+Ryouko: Take care. I look forward to your next visit.
+
+Event Dialogue[]
+Hues of the Violet Garden[]
+
+(After completing Festive Elegance)
+Ryouko: Welcome. Are you here in Ritou to take part in the Magnificent Irodori Festival?
+Ryouko: We are still setting up, so there isn't a great deal of people right now. Once the event opens, Ritou should be absolutely buzzing with activity.
+(Continue non-event dialogue)
+(After completing The Strange Tale of Suikou's Tipsy Tincture)
+Ryouko: Welcome. Are you here in Ritou to take part in the Magnificent Irodori Festival?
+Ryouko: The festival is very lively indeed, so please enjoy yourself, and don't forget to fill your stomach!
+Ryouko: There are tons of queues and tons of things to queue up for, but if you don't eat, you might find yourself growing faint, especially under the hot sun.
+Ryouko: During those times, feel free to come here to replenish your energy, hehe.
+(Continue non-event dialogue)
+
+Other Languages[]
+
+LanguageOfficial NameEnglishRyoukoChinese(Simplified)凉子LiángzǐChinese(Traditional)涼子LiángzǐJapanese涼子RyoukoKorean료코RyokoSpanishRyoukoFrenchRyoukoRussianРёкоRyokoThaiRyoukoVietnameseRyoukoGermanRyoukoIndonesianRyoukoPortugueseRyoukoTurkishRyoukoItalianRyouko
+Change History[]
+Released in Version 2.0[Edit History]Version 3.3
+Added a Genius Invokation TCG Adventure Challenge for Ryouko.
+
+Version 2.0
+
+Ryouko was released.
+
+
+

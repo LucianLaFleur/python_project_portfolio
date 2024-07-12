@@ -1,0 +1,127 @@
+
+
+
+
+
+Bibo
+Ship Owner
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Liyue
+
+
+Location
+Liyue
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Bibo (Chinese: 碧波 Bìbō) is an open-world NPC that can be found in the Feiyun Slope area of Liyue Harbor, Liyue. He is hidden away in a discreet area by the dock near the vendors at the entrance to the city.
+
+Contents
+
+1 Location
+2 Profile
+
+2.1 Appearance
+
+
+3 Quests and Events
+
+3.1 Events
+
+
+4 Idle Quotes
+5 Dialogue
+6 Other Languages
+7 Change History
+
+
+Location[]
+Bibo's locationAdditional context
+Profile[]
+Bibo is, on the surface, a fishmonger — however, this is merely a cover for his real occupation as a smuggler. While the Millelith are suspicious of him, and have even posted a public announcement on the Chihu Rock Bulletin Board declaring the suspicious activity around his market, they have not found enough evidence to prove his guilt.
+Bibo was the one who found Atsuko after she escaped from Inazuma. He also appears to be on good terms with Linling.
+Bibo claims to be a fisherman when he actually upholds a smuggling front, claiming that he can get anything from anywhere at the right price. Initially, he made Inazuma a lone exception as saw the nation too dangerous regardless of how much he would have been paid to get items from there, due to the ferocious storms surrounding the nation and the tight security of the Kanjou Commission. After the Sakoku Decree was abolished and the storms dispelled, Bibo saw an opportunity to increase his business and bring in items from Inazuma.
+
+Appearance[]
+He has brown hair, a brown mustache, and a black red and white shirt.
+
+Quests and Events[]
+EventsLantern Rite TalesOutspoken Linling
+Idle Quotes[]
+
+ The next shipment...
+Media:VO Bibo 01.ogg "*sigh* The next shipment should be here by now."
+
+Dialogue[]
+
+Bibo: Hey there. If you're here to view the goods, I'm afraid I'm still waiting on the latest delivery...
+Bibo: But trust me, it'll be worth the wait. Everything I sell is freshly acquired, straight off the boat!
+(Before completing Transient Dreams)
+
+Bibo: ...But I should tell you up front, I don't deal with any goods from Inazuma.
+ Are you a fishmonger?
+Bibo: Fishmonger? Are you trying to suss me out or something? No need, let me tell you how it is, plain and simple.
+Bibo: Let's put it like this: I can get you whatever you need, from wherever it is — as long as the price is right.
+(Before completing Transient Dreams)
+
+Bibo: ...Except if it's from Inazuma: It's not about the money, I'm just not taking that kind of risk.
+(After completing Transient Dreams)
+
+Bibo: Even if it's from Inazuma, if you catch my drift.
+ Tell me more about Inazuma.
+(Before completing Transient Dreams)
+
+Bibo: For the average person, getting into Inazuma is nigh on impossible!
+Bibo: Even if you're lucky enough to make it across the ocean alive, that border is simply impenetrable.
+Bibo: I do not understand their national administration's mindset. Far too isolationist in my opinion...
+Bibo: Not long ago, I actually rescued a girl who escaped from Inazuma... She's the only person I've ever known to get out of there without official approval.
+Bibo: So, if you're one of these who is desperate for a new Inazuman toy to play with, telling you — let it go!
+(After completing Transient Dreams)
+
+Bibo: Before, it would be a monumental task to get to Inazuma. If you were lucky enough to make it across the ocean alive, that border would be impenetrable.
+Bibo: But that's all in the past now. The trade routes have been reopened, so I can get over there and get you anything you need, whenever you need it!
+ Goodbye.
+Bibo: Alright, if you're not buying then don't stick around... We don't want to attract the Millelith's attention...
+
+Other Languages[]
+
+LanguageOfficial NameEnglishBiboChinese(Simplified)碧波BìbōChinese(Traditional)碧波BìbōJapanese碧波BiboKorean벽파ByeokpaSpanishBiboFrenchBiboRussianБи БоBi BoThaiBiboVietnameseBiboGermanBiboIndonesianBiboPortugueseBiboTurkishBiboItalianBibo
+Change History[]
+Released in Version 1.0[Create New History]
+
+
+

@@ -1,0 +1,150 @@
+
+
+
+
+
+Kujirai Momiji
+Inazuman Angler
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+								Family
+							
+
+
+
+
+
+Region
+Inazuma
+
+
+Location
+Inazuma
+
+
+Affil­i­a­tions
+Kujirai ClanFishing Association 
+
+
+
+
+Ancestry
+Kujirai Clan
+
+
+Sibling
+Kid Kujirai
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Kujirai Momiji  (Japanese: 鯨井椛) is an open-world NPC located in Inazuma City, Inazuma.
+She is the elder sister of Kid Kujirai.
+
+Contents
+
+1 Shop
+2 Location
+3 Profile
+
+3.1 Appearance
+
+
+4 Quests and Events
+
+4.1 Events
+
+
+5 Idle Quotes
+6 Dialogue
+7 Other Languages
+8 Change History
+
+
+Shop[]
+ItemFish CostStock
+ Narukawa Ukai Medaka ×20 Glaze Medaka ×20 Lunged Stickleback ×20 Purple Shirakodai ×201
+ "The Catch" Raimei Angelfish ×6 Golden Koi ×20 Rusty Koi ×201
+ Ako's Sake Vessel Raimei Angelfish ×3 Pufferfish ×10 Bitter Pufferfish ×104
+ Fishing Line Stabilizer Medaka ×31
+
+Location[]
+Kujirai Momiji's locationAdditional context
+Profile[]
+(To be added.)
+
+Appearance[]
+(To be added.)
+
+Quests and Events[]
+EventsLunar RealmThe Moon Has RisenTo Thee My Tender Grief ConfideBy Thy Pale Beams I Solitary RoveOver the MoonBait Resupply Plan
+Idle Quotes[]
+
+ The Kujirai Art...
+Media:VO Kujirai Momiji 01.ogg "The Kujirai Art will definitely flourish under my nurturing."
+
+Dialogue[]
+
+Kujirai Momiji: Hello there! Are you here to join the Kujirai Guild?
+(After completing Exploding Population)
+ I'd like to buy some fishing supplies.
+Kujirai Momiji: Of course! We need excellent tools to do the work that we must, after all. You do indeed have the qualities of a child of the sea. Alright then, take your pick.
+(Opens the Inazuma Fishing Association shop menu)
+ Who are you, anyway?
+Kujirai Momiji: Oh, right. I thought you were here to join the Guild. So you don't recognize me, huh.
+Kujirai Momiji: Allow me to introduce myself, then. I am the successor to the Kujirai Fishing Method and the founder of the Kujirai Guild — Kujirai Momiji, daughter of the ocean!
+Kujirai Momiji: *sigh* Come on, don't look at me like that.
+Kujirai Momiji: As a fisherwoman, I was born near the ocean, grew up near the ocean... and someday, I will return to it as well.
+Kujirai Momiji: So there should be no problem in me calling myself the "daughter of the ocean" and stuff, right?
+ What's the Kujirai Guild, anyway?
+Kujirai Momiji: It's an association for the children of the sea...
+Kujirai Momiji: *cough* Sorry, was that too hard to understand? Let me try that again.
+Kujirai Momiji: The Kujirai Guild was created by yours truly, and it's a fishing association revolving around the Kujirai Fishing Method.
+Kujirai Momiji: It's not the biggest organization around, but each of our members is a certified ace angler!
+Kujirai Momiji: And it is my belief that with our hereditary art, the Kujirai Fishing Method, our guild will one day spread all over the land!
+Kujirai Momiji: How about it, then? If you join now, you'll get to be a founder, y'know?
+ See you around.
+Kujirai Momiji: Bye! You're welcome back anytime if you want to join the Kujirai Guild.
+
+Other Languages[]
+
+LanguageOfficial NameEnglishKujirai MomijiChinese(Simplified)鲸井椛Jīngjǐng HuāChinese(Traditional)鯨井椛Jīngjǐng HuāJapanese鯨井椛Kujirai MomijiKorean쿠지라이 모미지Kujirai MomojiSpanishKujirai MomijiFrenchKujirai MomijiRussianКудзирай МомидзиKudziray MomidziThaiKujirai MomijiVietnameseKujirai MomijiGermanKujirai MomijiIndonesianKujirai MomijiPortugueseKujirai MomijiTurkishKujirai MomijiItalianKujirai Momiji
+Change History[]
+Released in Version 2.1[Edit History]Version 2.2
+Kujirai Association was renamed to Kujirai Guild.
+
+Version 2.1
+
+Kujirai Momiji was released.
+
+
+

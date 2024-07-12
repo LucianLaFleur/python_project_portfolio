@@ -1,0 +1,193 @@
+
+
+
+
+
+Muning
+Specialist, Ministry of Civil Affairs
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Liyue
+
+
+Location
+Liyue
+
+
+Affil­i­a­tions
+Ministry of Civil AffairsShenglu Hall 
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Muning is an open-world NPC located in The Chasm, Liyue.
+
+Contents
+
+1 Location
+2 Profile
+
+2.1 Appearance
+
+
+3 Quests and Events
+
+3.1 World Quests
+3.2 Hidden Exploration Objectives
+
+
+4 Idle Quotes
+5 Dialogue
+
+5.1 Dialogue Set #1
+5.2 Dialogue Set #2
+5.3 Dialogue Set #3
+5.4 Dialogue Set #4
+
+
+6 Other Languages
+7 Change History
+8 References
+
+
+Location[]
+Muning's locationAdditional context
+Profile[]
+Muning is a specialist from the Ministry of Civil Affairs who was sent to The Chasm. He oversees the material needs of the Chasm Exploration Team.[1]
+In his spare time, he enjoys a life of leisure, going out for drinks and most likely gambling at Yanshang Teahouse. As a result, he frequently owes people Mora, and Lan suspects that the Ministry of Civil Affairs sent him to The Chasm in order to get him to shape up.[2]
+His family plays a significant role in Shenglu Hall and the porcelain industry.[2] Before he worked at the Ministry of Civil Affairs, he was in heavy debt. To his surprise, his father paid off all his debts, but announced that Muning was now in his debt and told him that he had to work to pay it off. Muning was grateful for the second chance and the fact that he and his father could have a heart-to-heart, and he now works hard at his job in The Chasm, even when he finds it pointless.[3]
+
+Appearance[]
+Muning's outfit is typically that of an adult man in Liyue, wearing a navy-colored attire decorated with leaf patterns.
+
+Quests and Events[]
+World QuestsThe Chasm DelversSurreptitious Seven-Star Seal SunderingWherefore Did the Spiritstone Descend?Valor's AfterglowValor's Afterglow: The Faint Light RememberedSays He Who Seeks StoneThe Chasm's BountyHidden Exploration ObjectivesMuning's Never-Ending Needs
+Idle Quotes[]
+
+ Documents...
+Media:VO Muning 01.ogg "*sigh* I still have documents to deliver to the Ministry of Civil Affairs today."
+
+Dialogue[]
+Dialogue Set #1[]
+Available before unlocking The Chasm Delvers.
+
+
+Muning: May I ask for your name?
+ Why, hello there...
+ I'm...
+Muning: My apologies, but The Chasm has been closed indefinitely. We do not take guests here.
+Muning: Unless...
+ Unless...?
+Muning: Unless you can get permission from Yujing Terrace... Or if you are on a special commission.
+Muning: However, things have been quite unusual lately, and our bosses have been most busy... I'd advise that you mind your own business, lest you disturb them.
+Muning: Please leave at once. This is for your own safety.
+
+Dialogue Set #2[]
+Available after completing Says He Who Seeks Stone.
+
+
+Muning: What? You seriously broke the Seven-Star Array? Ugh, looks like I'll have to write this into the weekly report...
+ Make sure you make it sound cool, alright?
+Muning: *cough* Please, this is a very serious situation. It's so serious, in fact, that the Qixing themselves will decide its exact seriousness.
+Muning: Which is to say that once report gets sent up, someone from the Qixing might personally come down here to stop you.
+Muning: Even I won't be able to save you then.
+ (This guy is way too obvious with his hints...)
+Muning: Scared, huh? Alright, move along, then! There's still someone waiting for you, you know?
+
+Dialogue Set #3[]
+Available after completing Muning's Never-Ending Needs.
+
+
+Muning: How is everything down there? Did you encounter any danger?
+ (You describe your experiences to Muning.)
+Muning: Ah, I see. That does sound rather dangerous. I'm afraid I'll have to ask you to help take care of Jinwu and Zhiqiong, then.
+ Aren't you supposed to stop me?
+Muning: Well, that is my duty, yes. But you always run off too quickly for me to stop you, so I can't.
+ I don't run that fast.
+Muning: No, you do. That's what the report says, and what the report says is the truth.
+ Alright, guess I'm really, really fast, then.
+Muning: Exactly. As such, please do be careful.
+ All goes well, don't you fret.
+Muning: That's good, that's good. As long as things go well, the Qixing will have no reason to come down too hard on me...
+
+Dialogue Set #4[]
+Available after completing Wherefore Did the Spiritstone Descend?.‍[verification needed]
+
+
+Muning: Resumption of work for the miners and provisions for their food, the changing of Millelith guards, contract signings, equipment overhauls, and weekly reports...
+Muning: Ah, it's you. Do you need me to help with anything else? I mean, I am a bit... busy, right now, but...
+ You're that busy, huh?
+Muning: You bet. There's so much work to be done that I reckon that I'll start losing hair over it soon.
+Muning: But there's nothing for it: the resumption of work at The Chasm is good for Liyue as a whole, of that there is no doubt. But the deluge of work will always have to be taken up by an unfortunate few.
+Muning: Still, you have my thanks. Things are busy here, sure, but it's much improved from how things were when it was just Zhiqiong and a couple others.
+ How's Zhiqiong? (Unlocked after completing Valor's Afterglow: The Faint Light Remembered)
+Muning: Ah yes. About Zhiqiong, the Millelith should have received news about her. If nothing goes awry, the search-and-rescue team from Ministry should also arrive soon.
+Muning: We should have news of her shortly.
+Muning: That said, she's so fond of adventure that she probably went gallivanting somewhere by herself. *cough* If you meet her out there, please be sure to tell me.
+Muning: I'm sure you must be much busier than me, but you know, it would be nice if you could look out for her on my behalf...
+ I will.
+Muning: Thank you. I look forward to hearing from you.
+ What's the situation with Zhiqiong? (After daily reset upon completion of Valor's Afterglow: The Faint Light Remembered)
+Muning: The search-and-rescue team hasn't had news of her yet. But please don't panic... This isn't the time to panic just yet.
+Muning: We should have news of her shortly.
+Muning: As for me, I believe that she's still alive. Adventurers are a tough lot, so she shouldn't... Um, sorry...
+Muning: *cough* But if you do meet her out there, please be sure to tell me.
+ I will.
+Muning: Thank you. I look forward to hearing from you.
+ I don't need help at the moment.
+Muning: Phew. Well, that's good.
+Muning: Not that I don't want to help you, obviously, but I'm just... a bit swamped at the moment.
+Muning: The Feiyun Commerce Guild's representative just left, and now we need to send people to put up recruitment notices for miners.
+Muning: Once we're done here, I'm gonna apply for some leave.
+ See you.
+Muning: See you. Again, the Ministry of Civil Affairs thanks you for your efforts.
+
+Other Languages[]
+
+LanguageOfficial NameEnglishMuningChinese(Simplified)沐宁MùníngChinese(Traditional)沐寧MùníngJapanese沐寧Mokunei‍[!][!]Assumed readingKorean목영Mok'yeongSpanishMuningFrenchMuningRussianМу НинMu NinThaiMuningVietnameseMuningGermanMuningIndonesianMuningPortugueseMuningTurkishMuningItalianMuning
+Change History[]
+Released in Version 2.6[Create New History]
+References[]
+
+↑ World Quest, The Chasm Delvers: Wherefore Did the Spiritstone Descend?
+
+↑ 2.0 2.1 World Quest, The Chasm Delvers: The Chasm Charters
+
+↑ Liyue Hidden Exploration Objective, Quest-Like: Muning's Never-Ending Needs
+
+
+
+
+

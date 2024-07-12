@@ -1,0 +1,151 @@
+
+
+
+
+
+Elham
+Tailor
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Sumeru
+
+
+Location
+Sumeru
+
+
+Genius Invokation TCG
+Stages
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Elham is an open-world NPC located in Port Ormos, Sumeru.
+
+Contents
+
+1 Location
+2 Profile
+
+2.1 Appearance
+
+
+3 Quests and Events
+
+3.1 Archon Quests
+
+
+4 Idle Quotes
+5 Thoughts
+6 Dialogue
+7 Trivia
+8 Other Languages
+9 Change History
+
+
+Location[]
+Elham's locationAdditional context
+Profile[]
+(To be added.)
+
+Appearance[]
+(To be added.)
+
+Quests and Events[]
+Archon QuestsChapter IIIAct I: Through Mists of Smoke and Forests DarkLost in Prosperity
+Idle Quotes[]
+
+ Tailoring skills...
+Media:VO Elham 01.ogg "How can I improve my tailoring skills?"
+
+Thoughts[]
+Elham's thoughts can be accessed by using Nahida's Elemental Skill, All Schemes to Know.
+
+
+Media:VO Elham All Schemes to Know 01.ogg Elham: (I hope one day my customers will value me for my craft, and not just the stories...)
+
+Dialogue[]
+
+Elham: If only cutting fabric were as easy as stabbing sea beasts with scissors...
+ Adventure Challenge
+(Opens Genius Invokation TCG match interface)
+(If the player loses the match)
+
+Elham: I won. It's nice to play Genius Invokation TCG once in a while...
+(If the player wins the match)
+
+Elham: Eh, it's very difficult to play cards...
+ Cutting fabric?
+(Before completing Where the Boat of Consciousness Lies)
+Elham: Yeah, I have a tailor shop that's well-liked by the locals.
+Elham: Business has been good, but... I'm not satisfied with my tailoring skills.
+Elham: My regular customers just praise the clothes I make all the time, and when I ask them if they have any suggestions, they all say they don't have any.
+Elham: The dressmaking skills I can learn from the Akasha are limited, and I can't get any constructive customer critiques. If things keep going this way, I'll never be able to improve my design skills!
+Elham: I've recently been considering going to Fontaine for further training. I heard that there are some very good couture stores.
+Elham: ...But I also heard that Fontaine produces mostly machine-made clothing and they hardly need craftsmen. What should I do...?
+ Cutting fabric?
+(After completing Where the Boat of Consciousness Lies)
+Elham: Yeah, I run a tailor shop that's well-liked by the locals.
+Elham: Business has been good, but... I'm not satisfied with my tailoring skills.
+Elham: My regular customers just praise the clothes I make all the time, and when I ask them if they have any suggestions for me, they all say that they don't have any.
+Elham: The number of dressmaking techniques that could be learned from the Akasha were very limited, and customer suggestions are nowhere to be sought...
+Elham: The way things are going, I'll never improve my fashion design skills!
+Elham: That's why I've recently been considering going to Fontaine for further training. I've heard that there are some very good couture stores.
+Elham: ...On the other hand, I've also heard that Fontaine produces mostly machine-made clothing, which means that they hardly need craftsmen. What should I do...?
+ Use scissors to... stab sea beasts?
+Elham: Ahaha, that's... purely by accident.
+Elham: One time, when I was a child, I was playing on the beach, when a sea beast attacked me.
+Elham: I was playing house and making clothes with small scissors, and all of a sudden a huge sea beast charged at me.
+Elham: I didn't think twice and stuck my scissors into its eyes...
+Elham: The sea beast ran away immediately after getting hurt. I didn't know what was going on, but the people on the beach held me up and gave me the title of Sea Beast Killer...
+Elham: To this day, people still thank me for what I did back then. Perhaps that's why they visit my tailor shop so often.
+ See you.
+Elham: See you.
+
+Trivia[]
+Elham is mentioned in the description of the following Furnishing: Silky Queller of Sea Monsters
+Other Languages[]
+
+LanguageOfficial NameEnglishElhamChinese(Simplified)艾拉姆ÀilāmǔChinese(Traditional)艾拉姆ÀilāmǔJapaneseエルハームEruhaamuKorean엘함ElhamSpanishElhamFrenchElhamRussianЭльхамEl'khamThaiElhamVietnameseElhamGermanElhamIndonesianElhamPortugueseElhamTurkishElhamItalianElham
+Change History[]
+Released in Version 3.0[Edit History]Version 3.3
+Added a Genius Invokation TCG Adventure Challenge for Elham.
+
+Version 3.0
+
+Elham was released.
+
+
+

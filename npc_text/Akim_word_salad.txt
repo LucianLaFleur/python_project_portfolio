@@ -1,0 +1,130 @@
+
+
+
+
+
+Akim
+Stall Vendor
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Sumeru
+
+
+Location
+Sumeru
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Akim is an open-world NPC located in Sumeru City, Sumeru.
+
+Contents
+
+1 Location
+2 Profile
+
+2.1 Appearance
+
+
+3 Quests and Events
+
+3.1 Archon Quests
+3.2 Commissions
+
+
+4 Idle Quotes
+5 Thoughts
+6 Dialogue
+
+6.1 Dialogue Set #1
+6.2 Dialogue Set #2
+
+
+7 Other Languages
+8 Change History
+
+
+Location[]
+Akim's locationAdditional context
+Profile[]
+Akim is a mason, potter, and bricklayer. He works on using building materials for constructing foundations for houses.
+
+Appearance[]
+(To be added.)
+
+Quests and Events[]
+Archon QuestsChapter IIIAct III: Dreams, Emptiness, DeceptionLike a Triumphant HeroCommissionsConcresoilThe Other Applications of Concresoil
+Idle Quotes[]
+
+ My craftsmanship...
+Media:VO Akim 01.ogg "Don't you think my craftsmanship deserves a higher price?"
+
+Thoughts[]
+Akim's thoughts can be accessed by using Nahida's Elemental Skill, All Schemes to Know.
+
+Media:VO Akim All Schemes to Know 01.ogg Akim: (Harim is a tough nut to crack...)
+Dialogue[]
+This page is missing dialogue.Can you help out? Click here to add more.Check which quest that trigger Akim and Harim change their dialogue
+Dialogue Set #1[]
+
+(Before completing ???)
+Akim: You get what you pay for. Do you think the work I do is the same as everyone else's?
+Harim: Doing things differently from others doesn't mean your work is worth more.
+Harim: Besides, everyone can learn masonry from the Akasha. What makes you so different?
+Harim: If it weren't for the fact that we're old pals, I wouldn't be going out of my way to make sure you're getting business.
+Akim: The knowledge foundation might be the same, sure, but what gets built on it is different!
+Akim: Unlike other people, I'm an innovator! I've also tried more kinds of clay...
+Harim: Aha! Caught ya! And you said you weren't asking me for more money because you wanted to buy new materials!
+
+Dialogue Set #2[]
+
+(After completing ???)
+Akim: You get what you pay for. Do you think the work I do is the same as everyone else's?
+Harim: Doing things differently from others doesn't mean your work is worth more.
+Harim: Besides, everyone can learn masonry from the Akasha. What makes you so different anyway?
+Akim: Hah! I wouldn't speak so soon. Akasha's been shut down... and anyway, everyone does things differently!
+Harim: Alright, alright! Let's just say that you win, and your unique craftsmanship is why I buy your goods! Sheesh. If it weren't for the fact that we're old pals, I wouldn't be going out of my way to make sure you're getting business.
+Akim: Hah. The foundational knowledge might be the same, sure, but what gets built upon it is different!
+Akim: Unlike the others, I'm an innovator! I've also tried more kinds of clay...
+Harim: Aha! Caught you, haven't I? Didn't you claim that you weren't asking me for more Mora because you wanted to buy new materials?
+
+Other Languages[]
+
+LanguageOfficial NameEnglishAkimChinese(Simplified)阿金ĀjīnChinese(Traditional)阿金ĀjīnJapaneseアキムAkimuKorean아킴AkimSpanishAkimFrenchAkimRussianАкимAkimThaiAkimVietnameseAkimGermanAkimIndonesianAkimPortugueseAkimTurkishAkimItalianAkim
+Change History[]
+Released in Version 3.0[Create New History]
+
+
+

@@ -1,0 +1,216 @@
+
+
+
+
+
+Allan
+Hunter
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Mondstadt
+
+
+Location
+Mondstadt
+
+
+Dialogue Reward
+ 1
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Allan is an open-world NPC found in Springvale, Mondstadt.
+Following a certain dialogue branch for the first time will give the player his old bow, Seasoned Hunter's Bow.
+
+Contents
+
+1 Location
+2 Profile
+
+2.1 Appearance
+
+
+3 Quests and Events
+
+3.1 Story Quests
+
+3.1.1 Hangout Events
+
+
+3.2 World Quests
+
+3.2.1 Random World Quests
+
+
+3.3 Commissions
+3.4 Events
+
+
+4 Idle Quotes
+5 Dialogue
+6 Event Dialogue
+
+6.1 Unreconciled Stars
+6.2 Invitation of Windblume
+6.3 Windblume's Breath
+6.4 Of Ballads and Brews
+
+
+7 Gallery
+8 Other Languages
+9 Change History
+
+
+Location[]
+Allan's location (Daytime)Additional context (Daytime)Allan's location (Nighttime)Additional context (Nighttime)
+Profile[]
+(To be added.)
+
+Appearance[]
+(To be added.)
+
+Quests and Events[]
+Story QuestsTrulla Chapter (Xiangling)Act I: Mondstadt Gastronomy TripLittle Chef on a HuntHangout EventsDionaAct I: The Cat and the CocktailA Special Base DrinkSamachurl Herbal SoupThe Shadow Over DadaupaWorld QuestsRandom World QuestsAllan's DilemmaCommissionsUrgent RepairsEventsUnreconciled StarsAct I: Unknown StarInvitation of WindblumeFlavor of the MonthOf Ballads and BrewsAct I: Sounds From Afar
+Idle Quotes[]
+
+ Oh, Draff...
+Media:VO Allan 01.ogg "Oh, Mr. Draff always gets so drunk after a hunt."
+ Hunting is such hard work...
+Media:VO Allan 02.ogg "Maybe I'm not cut out to be a huntsman..."
+
+During the Invitation of Windblume and Windblume's Breath events
+
+ These foxes are too cunning...
+Media:VO Allan Invitation of Windblume 01.ogg "These foxes are too cunning. There's no way I'll be able to catch one."
+
+During the Of Ballads and Brews event
+
+ Thanks to the new helper...
+Media:VO Allan Of Ballads and Brews 01.ogg "Oh, I'm so glad I have a new helper."
+
+Dialogue[]
+
+Allan: Hi. If you're looking for a hunting partner, you'd be better off picking someone else...
+ Who are you?
+Allan: Oh, I'm Allan. I'm a hunter... in the making.
+Allan: I'm trying my best to learn the tricks of the trade from Draff.
+ Could you tell us about hunting techniques?
+Allan: Draff is very experienced, and he's taught me a lot, like how to read the wind direction to prevent our prey from catching our scent.
+Allan: He could even tell at a glance that the bow I had been using was no longer suited to my current skills. He then crafted a new one for me with his own hands...
+Allan: Thanks for chatting with me. Allow me to give you my old bow, since I longer use it.
+(Obtain  Seasoned Hunter's Bow ×1)
+ You seem a bit worse for wear.
+Allan: Oh I'm fine.. It's just, I got a bit lost yesterday when I was out hunting...
+Allan: I almost wound up in a hilichurl camp. Fortunately I managed to escape...
+ Sounds dangerous.
+Allan: I'm lucky made it back safe and sound. But once again, I came back empty-handed...
+Allan: But... *sigh* Never mind. It is what it is.
+ Sounds rough.
+Allan: I'm alright, really. I just always end up getting rescued by Outrider Amber...
+Allan: It's so embarrassing.
+Allan: She's quite the capable one. Well, she is a Vision bearer after all.
+ Goodbye.
+Allan: See you.
+
+Event Dialogue[]
+Unreconciled Stars[]
+
+Allan: I can't thank you enough for all of your help dealing with the meteorites.
+Allan: But I still can't stop wondering... Where did they come from?
+(Dialogue options and responses are the same as normal)
+
+Invitation of Windblume[]
+
+Allan: Foxes really are too difficult to catch. Just how exactly did the elders manage it...
+ About the foxes...
+Allan: Oh! As Springvale hunters, this is one of our customs.
+Allan: Every Windblume festival, young hunters like me go to Wolvendom to catch foxes.
+Allan: When we catch one, we place a wreath of flowers on its head and release it. It's a prayer for finding love in the year ahead...
+Allan: Of course, only eligible young hunters like myself participate. Hunters that have already tied the knot, like Draff for example, they're not allowed to take part.
+ Did you catch a fox?
+Allan: *sigh* Not even close. Foxes are so hard to catch.
+Allan: I didn't catch one last Windblume Festival either. In fact, I nearly injured myself. I remember swearing that this time would be different...
+Allan: ...and yet, low [sic] and behold, I've been outfoxed again. All I caught were a couple of squirrels.
+Allan: That said... I wonder if Miss Sucrose could use her bio-alchemy to change squirrels into foxes?
+Allan: I bet she could, haha...
+ So everyone that catches a fox will find love?
+Allan: Uh... if you always participate, your chances will increase exponentially...
+Allan: ...in that sense, you're bound to bump into the right person eventually...
+Allan: ...ahem. Anyway, that's what Draff's always telling us.
+ Who are you?
+(Dialogue responses are the same as normal)
+ See you.
+Allan: Indeed, see you.
+
+Windblume's Breath[]
+
+Allan: Foxes really are too difficult to catch. Just how exactly did the elders manage it...
+ About the foxes...
+Allan: Oh! As Springvale hunters, this is one of our customs.
+Allan: Every Windblume festival, young hunters like me go to Wolvendom to catch foxes.
+Allan: When we catch one, we place a wreath of flowers on its head and release it. It's a prayer for finding love in the year ahead...
+Allan: Of course, only eligible young hunters like myself participate. Hunters that have already tied the knot, like Draff for example, they're not allowed to take part.
+ Did you catch a fox?
+Allan: *sigh* Not even close. Foxes are so hard to catch.
+Allan: I didn't catch one last Windblume Festival either. In fact, I nearly injured myself. I remember swearing that this time would be different...
+Allan: ...and yet, low [sic] and behold, I've been outfoxed again. All I caught were a couple of squirrels.
+Allan: That said... I wonder if Miss Sucrose could use her bio-alchemy to change squirrels into foxes?
+Allan: I bet she could, haha...
+ So everyone that catches a fox will find love?
+Allan: Uh... if you always participate, your chances will increase exponentially...
+Allan: ...in that sense, you're bound to bump into the right person eventually...
+Allan: ...ahem. Anyway, that's what Draff's always telling us.
+ Who are you?
+(Dialogue responses are the same as normal)
+ Goodbye.
+Allan: Alright, see you next time.
+
+Of Ballads and Brews[]
+
+Allan: I don't know if it's because his daughter is on break or what, but Draff has been extra jolly these days and is drinking even harder after work...
+Allan: It's a good thing that young one has been helping out lately, or I wouldn't be able to stand up if I had to hunt all by myself.
+(Dialogue options and responses are the same as normal)
+
+Gallery[]
+Hangout Diona Act 1 "I... Only Had... a Little..." AetherHangout Diona Act 1 "I... Only Had... a Little..." Lumine
+Other Languages[]
+
+LanguageOfficial NameEnglishAllanChinese(Simplified)艾伦ÀilúnChinese(Traditional)艾倫ÀilúnJapaneseエレンErenKorean앨런AelleonSpanishAllanFrenchAllanRussianАлланAllanThaiAllanVietnameseAllanGermanAllanIndonesianAllanPortugueseAllanTurkishAllanItalianAllan
+Change History[]
+Released in Version 1.0[Create New History]
+
+
+

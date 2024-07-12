@@ -1,0 +1,141 @@
+
+
+
+
+
+Nasrin
+Forest Ranger
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Sumeru
+
+
+Location
+Sumeru
+
+
+Affil­i­a­tion
+Forest Rangers
+
+
+Genius Invokation TCG
+Stages
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Nasrin is an open-world NPC that can be found in Gandharva Ville, Sumeru.
+
+Contents
+
+1 Location
+2 Profile
+
+2.1 Appearance
+
+
+3 Quests and Events
+
+3.1 Archon Quests
+
+
+4 Idle Quotes
+5 Thoughts
+6 Dialogue
+7 Other Languages
+8 Change History
+
+
+Location[]
+Nasrin's locationAdditional context
+Profile[]
+(To be added.)
+
+Appearance[]
+(To be added.)
+
+Quests and Events[]
+Archon QuestsChapter IIIAct I: Through Mists of Smoke and Forests DarkA Forest of ChangeFurther ObservationChronic Illness
+Idle Quotes[]
+
+ Rainforest Survival Guide...
+Media:VO Nasrin 01.ogg "If only everyone would properly study the Rainforest Survival Guide..."
+
+Thoughts[]
+Nasrin's thoughts can be accessed by using Nahida's Elemental Skill, All Schemes to Know.
+
+Media:VO Nasrin All Schemes to Know 01.ogg Nasrin: (I need to keep an eye on those meditating scholars in the forest...)
+Dialogue[]
+
+Nasrin: Do... Need... Something? ...Tell.
+ Adventure Challenge
+(Opens Genius Invokation TCG match interface)
+(If the player loses the match)
+
+Nasrin: Feels like you need to read the Genius Invokation TCG rulebook again...
+(If the player wins the match)
+
+Nasrin: Wasn't that complicated enough...
+ Uh... Hello?
+Nasrin: Ah, sorry... Was my voice too soft for you to hear clearly?
+Nasrin: *cough*
+Nasrin: I said, do you need something? Please, do tell.
+ Did I disturb you?
+Nasrin: It's not your fault. It's just an old habit of mine that's acting up.
+Nasrin: I'm used to speaking softly because I hunt frequently and sometimes meet researchers training in the forest. It's taking me some time to speak normally again.
+Nasrin: Many mistake me for an introvert because of that, and they are really careful when they talk to me.
+Nasrin: It isn't necessary at all. Please talk to me normally.
+ About the researchers...
+Nasrin: Oh, while there aren't many of them, and they are usually in hidden spots, you'll still meet them if you stay in Avidya Forest all the time.
+Nasrin: Honestly, I'm not really sure of the specifics of the principle.
+Nasrin: I only know that this situation is called something like... Savada Life? It's a special stage in the training of researchers, during which they can't be disturbed.
+Nasrin: So, I sometimes worry that that inexperienced Trainee Forest Ranger will disturb those Akademiya researchers.
+Nasrin: Hmm... Still, since she's with the Forest Watchers, I doubt she'll be as reckless as someone who's never read the Rainforest Survival Guide in their lives.
+ Good... bye?
+Nasrin: ...Bye.
+
+Other Languages[]
+
+LanguageOfficial NameEnglishNasrinChinese(Simplified)娜丝琳NàsīlínChinese(Traditional)娜絲琳NàsīlínJapaneseナスリンNasurinKorean나스린NaseurinSpanishNasrinFrenchNasrinRussianНасринNasrinThaiNasrinVietnameseNasrinGermanNasrinIndonesianNasrinPortugueseNasrinTurkishNasrinItalianNasrin
+Change History[]
+Released in Version 3.0[Edit History]Version 3.3
+Added a Genius Invokation TCG Adventure Challenge for Nasrin.
+
+Version 3.0
+
+Nasrin was released.
+
+
+

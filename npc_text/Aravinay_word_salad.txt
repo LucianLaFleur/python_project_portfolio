@@ -1,0 +1,137 @@
+
+
+
+
+
+Aravinay
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Sumeru
+
+
+Location
+Sumeru
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCsAranara 
+
+
+
+
+Aravinay is a shop NPC found in Mahavanaranapna, the dream version of Vanarana (Subarea), Sumeru. They sell weapon Forging Blueprints in exchange for Stories of You and the Aranara. Purchasing all five of Aravinay's blueprints earns the achievement The Tale of the Forest.
+
+Contents
+
+1 Shop
+2 Location
+3 Profile
+
+3.1 Appearance
+
+
+4 Quests and Events
+
+4.1 World Quests
+
+
+5 Idle Quotes
+6 Dialogue
+7 Other Languages
+8 Change History
+
+
+Shop[]
+ItemCostStock
+ Tale of the Forest King11
+ Tale of the Desert11
+ Tale of the King's Squire11
+ Tale of the Moonlight11
+ Tale of the Portent11
+
+Location[]
+Aravinay's locationAdditional context
+Profile[]
+(To be added.)
+
+Appearance[]
+(To be added.)
+
+Quests and Events[]
+World QuestsAranyakaPart II: Dream NurseryThe World of Aranara
+Idle Quotes[]
+
+ If there is a new story...
+ There are many new stories...
+
+Dialogue[]
+ Available before completing the World Quest series Aranyaka
+
+
+Aravinay: Nara friend, want another story of Aranara? Aravinay knows many. You have to exchange new stories for them.
+ Tell the story of the adventure with Aranara.
+Aravinay: What story is Nara friend bringing? Will Nara friend surprise the ancient tree, and make the dewdrops fall?
+ About stories of the past...
+Aravinay: Many stories of the past, started to be told, only after Nara Varuna arrived at Vanarana.
+Aravinay: New Nara friend, golden as Nara Varuna. Must have lots of new stories.
+ About the staff in your hand...
+Aravinay: Aravinay's staff is a precious staff that has heard many stories.
+Aravinay: The pattern on the staff grows continuously, like the annual rings of a tree. The more stories it hears, the stronger the staff becomes.
+Aravinay: One day, it will grow into a big tree full of stories.
+Aravinay: If Nara friend were Aranara, you would surely understand.
+ Goodbye.
+Aravinay: Yes. Aravinay understands. You are a Nara full of stories. If you have good stories, let's share.
+
+Available after completing the World Quest series Aranyaka
+
+
+Aravinay: Nara Traveler brought many new stories. Aravinay's stories are finished. New stories still continue.
+ Tell the story of the adventure with Aranara.
+Aravinay: So this is the story of Arama... The story of the new Ashvattha...
+ About the new story...
+Aravinay: Nara (TravelerTravelerThe player's chosen name for the Traveler) and Arama's new story is as plump as the Bijas.
+Aravinay: No matter how many times the sun rises again, your story will not be forgotten. Vana will always remember you.
+ About the staff in your hand...
+Aravinay: Aravinay's staff is a precious staff that has heard many stories.
+Aravinay: The pattern on the staff grows continuously, like the annual rings of a tree. The more stories it hears, the stronger the staff becomes.
+Aravinay: One day, it will grow into a big tree full of stories.
+Aravinay: If Nara friend were Aranara, you would surely understand.
+ Goodbye.
+Aravinay: Yes. Aravinay understands. You are a Nara full of stories. If you have good stories, let's share.
+
+Other Languages[]
+
+LanguageOfficial NameEnglishAravinayChinese(Simplified)兰随尼LánsuíníChinese(Traditional)蘭隨尼LánsuíníJapaneseアランビナイAranbinaiKorean아란비나이AranbinaiSpanishAravinayFrenchAravinayRussianАравинейAravineyThaiAravinayVietnameseAravinayGermanAravinayIndonesianAravinayPortugueseAravinayTurkishAravinayItalianAravinay
+Change History[]
+Released in Version 3.0[Create New History]
+
+
+

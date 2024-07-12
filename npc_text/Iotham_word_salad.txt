@@ -1,0 +1,207 @@
+
+
+
+
+
+Iotham
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+								Family
+							
+
+
+
+								Voice Actors
+							
+
+
+
+
+
+Region
+Sumeru
+
+
+Location
+Sumeru
+
+
+Affil­i­a­tion
+Vimara Village
+
+
+Dialogue Reward
+ 4
+
+
+
+
+Relative
+Jehiet (grandmother, adoptive)
+
+
+
+
+English
+Lily Lammers[1]
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Iotham is an open-world NPC located in Vimara Village, Sumeru who first appears during the Aranyaka World Quest The Children of Vimara Village.
+His dialogue changes based on the player's progress through Aranyaka. Following a certain dialogue branch for the first time after completing Aranyaka gives the player four Starshrooms.
+
+Contents
+
+1 Location
+2 Profile
+
+2.1 Appearance
+
+
+3 Quests and Events
+
+3.1 World Quests
+
+
+4 Idle Quotes
+5 Thoughts
+6 Dialogue
+
+6.1 Dialogue Set #1
+6.2 Dialogue Set #2
+6.3 Dialogue Set #3
+
+
+7 Other Languages
+8 Change History
+9 References
+
+
+Location[]
+Iotham's locationAdditional context
+Profile[]
+Iotham was adopted by Jehiet after his parents, a foreign couple, abandoned him in Vimara Village.[2]
+
+Appearance[]
+(To be added.)
+
+Quests and Events[]
+World QuestsAranyakaPart I: Woodland EncounterThe Children of Vimara VillageThe Lost Child
+Idle Quotes[]
+After completing The Children of Vimara Village
+
+ Starshrooms...
+Media:VO Iotham 01.ogg "Rana will feel better after eating some Starshrooms."
+
+After completing The Lost Child
+
+ Won't run around again...
+Media:VO Iotham 02.ogg "I won't go running off anymore."
+
+After completing the Aranyaka World Quest series
+
+ I want to travel as well!
+Media:VO Iotham 03.ogg "Ah, I want to go travelling too!"
+
+Thoughts[]
+Iotham's thoughts can be accessed by using Nahida's Elemental Skill, All Schemes to Know.
+
+
+Media:VO Iotham All Schemes to Know 01.ogg Iotham: (I wanna be a grown-up soon...)
+
+Dialogue[]
+Dialogue Set #1[]
+Available after completing The Children of Vimara Village.
+
+
+Iotham: Rana loves Starshrooms! If only I could get some from the forest...
+ About Rana...
+Iotham: Rana is amazing, and I want to be just like her when I grow up, a Forest Watcher who adventures in the forest!
+ About Aranara...
+Iotham: I don't know... Sorry, but I really can't tell you...
+ About the story of the dragon...
+Iotham: How do I become friends with a dragon? It would be amazing to befriend one!
+ See you.
+Iotham: Oh, see you, (TravelerTravelerThe player's chosen name for the Traveler).
+
+Dialogue Set #2[]
+Replaces Dialogue Set #1 after completing The Lost Child.
+
+
+Iotham: Sorry! I'll stay out of the forest from now on, Rana...
+ About Rana...
+Iotham: Rana is like this because of me...
+ She'll get better...
+Iotham: R—Really?
+Iotham: By the way, (TravelerTravelerThe player's chosen name for the Traveler), can you keep everything from Sudabeh and Kavus? I don't want them to get worried too.
+Iotham: They'll sneak out and go after Rana if they find out... But the forest is very dangerous right now...
+ I promise.
+Iotham: Thank you, (TravelerTravelerThe player's chosen name for the Traveler). Please, please save Rana... *sob*
+ I'll do my best to help her.
+Iotham: Please, (TravelerTravelerThe player's chosen name for the Traveler)...
+
+Dialogue Set #3[]
+Replaces Dialogue Set #2 after completing the Aranyaka World Quest series.
+
+
+Iotham: Thank goodness Rana is alright! But why did she suddenly go traveling? I want to go traveling too...
+ About Rana...
+Iotham: Thank you, (TravelerTravelerThe player's chosen name for the Traveler). It's all thanks to you that Rana wakes up again...
+Iotham: I'll be a good boy for grandma, the village chief, and Rana, from now on. I won't try to explore the dangerous places in the forest.
+Iotham: I'll grow up to be a great man, and go look for Rana and Arana!
+ Keep it up, Iotham.
+Iotham: Thank you, (TravelerTravelerThe player's chosen name for the Traveler)! I want to be a great person just like you, and help those in need just as Rana and you did for me!
+Iotham: Right, take these Starshrooms, (TravelerTravelerThe player's chosen name for the Traveler). Rana says eating the Starshrooms I picked always lifts her spirits. I hope they can lift your spirits, too!
+(Obtain  Starshroom ×4)
+ About Alphonso... (Only available after confronting Alphonso in The Bad Guy in Vimara Village)
+Iotham: It's been quite a while since I've seen Alphonso...
+Iotham: Rana and Alphonso must have left because they have something very important to do.
+Iotham: I'll eat well and sleep well. When I grow up, it'll be my turn to invite them to play!
+ See you.
+Iotham: Oh, see you, (TravelerTravelerThe player's chosen name for the Traveler).
+
+Other Languages[]
+
+LanguageOfficial NameEnglishIothamChinese(Simplified)优丹YōudānChinese(Traditional)優丹YōudānJapaneseイッサムIssamuKorean이오탐IotamSpanishIothamFrenchIothamRussianИотамIotamThaiIothamVietnameseIothamGermanIothamIndonesianIothamPortugueseIothamTurkishIothamItalianIotham
+Change History[]
+Released in Version 3.0[Create New History]
+References[]
+
+↑ Twitter: EN VA Self Announcement (Archived)
+
+↑ NPC Dialogue: Jehiet
+
+
+
+
+

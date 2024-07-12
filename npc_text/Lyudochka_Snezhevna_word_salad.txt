@@ -1,0 +1,314 @@
+
+
+
+See also: Gendou Ringo
+
+
+Lyudochka Snezhevna
+Fatui Spy
+
+
+
+
+
+							As a Fatuus
+							
+						
+
+
+
+							As Gendou Ringo
+							
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Element
+ Electro (Delusion)
+
+
+Regions
+Inazuma Snezhnaya 
+
+
+Location
+Inazuma
+
+
+Affil­i­a­tions
+House of the Hearth (formerly)Fatui (formerly)Grand Narukami ShrineYae Publishing House 
+
+
+
+
+
+
+
+
+								Additional Titles
+							
+
+
+
+								Categories
+							
+
+
+
+
+
+Shrine Maiden
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Lyudochka Snezhevna (Russian: Людочка Снежневна Lyudochka Snezhnevna) is an open-world NPC who left the Fatui and can be found working as Gendou Ringo in Grand Narukami Shrine, Narukami Island, Inazuma, after completing the Day 1 objective of Gendou Ringo's Strange Fortune Slips.
+
+Contents
+
+1 Profile
+
+1.1 Appearance
+
+1.1.1 As Gendou Ringo
+
+
+
+
+2 Quests and Events
+
+2.1 World Quests
+2.2 Hidden Exploration Objectives
+
+
+3 Dialogue
+
+3.1 Dialogue Set #1
+3.2 Dialogue Set #2
+3.3 Dialogue Set #3
+3.4 Dialogue Set #4
+3.5 Dialogue Set #5
+3.6 Dialogue Set #6
+
+
+4 Other Languages
+5 Change History
+6 References
+
+
+Profile[]
+Lyudochka was an orphan raised in the House of the Hearth, an orphanage run by "The Knave" Arlecchino. Due to her Inazuman heritage, Lyudochka studied Inazuman matters from a young age.[1] She was friends with Katarina Snezhevna, who describes her as being "closer than a real sister."[2] Efim Snezhevich also had some shared history with her, which was why he showed her favor compared to the other agents from the House of the Hearth who were assigned to Inazuma.[3]
+After the original "Gendou Ringo," Momoyo, faked her death after the Traveler and Paimon took on the strange fortune slips — which Momoyo had intended on using to lure out the Fatui — Lyudochka was assigned to replace Momoyo as "Gendou Ringo" and tasked with gaining the trust of two supposed Shuumatsuban members to infiltrate the organization: the Traveler and Paimon. Despite her efforts into the role, Yae Miko was already aware she was an imposter, although she did not confront her over it. Realizing that her task was impossible to complete and that she had begun to like life in Inazuma, Lyudochka unsuccessfully tried to stall and eventually received her "Final Instructions" from her Teacher, Efim Snezhevich. Efim had begun to get fed up with her stalling, further agitated after fellow spy Tae informed him she found a light novel in her purse.
+The Traveler, seeing that Lyudochka genuinely regretted her actions and did not want the plan to succeed, came up with a plan with Momoyo to fake her death so Efim would not pursue her for her failure. Afterwards, she initially wanted to leave Inazuma out of guilt, but was convinced by the Traveler and Paimon to stay in Inazuma and adopt the Gendou Ringo identity for good.
+
+Appearance[]
+Lyudochka has red eyes and black hair cut into a chin-length bob with her bangs cut straight across. In combat, she is a Fatui Electro Cicin Mage.
+
+As Gendou Ringo[]
+Gendou Ringo wears the standard shrine maiden uniform consisting of a white kosode and red hakama, white tabi socks, and regular okobo sandals with red straps. She has blue eyes and black hair cut into a chin-length bob, and although not so visible in-game, the front portions of her hair are separated with dark brown accessories.
+
+Quests and Events[]
+World QuestsThe Very Special Fortune SlipShuumatsuban OperationsThe Replacement's SecretWhere the Dandelions Find RestHidden Exploration ObjectivesGendou Ringo's Strange Fortune Slips
+Dialogue[]
+See also: Gendou Ringo § Dialogue
+Dialogue Set #1[]
+
+(After completing Day 1 of Gendou Ringo's Strange Fortune Slips)
+Gendou Ringo: When will that person come...
+ Ms. Gendou...
+Gendou Ringo: Oh, hello! You're finally... Uh, I mean, are you here to decipher your fortune slip today?
+ I want to decipher the fortune slip... (If holding a Bamboo Slip)
+Gendou Ringo: Okay, please give me your bamboo slip.
+(Give the item)
+(If the dialogue corresponding to the fortune has not been seen before)
+
+(Go to Fortune Reveal)
+(If the dialogue corresponding to the fortune has been seen before)
+
+(Obtain  Fortune Slip)
+ (Hands over the fortune slip) In the middle of a hazy night. (If holding a Bamboo Slip)
+(See Gendou Ringo's Strange Fortune Slips)
+ Ms. Gendou, you seem to be in a good mood today.
+Gendou Ringo: Hmm? What is it?
+ You don't seem like your usual self...
+Gendou Ringo: Oh? You think so? I'll take note of it.
+Gendou Ringo: Maybe I'm just in a great mood today... I mean, I just drew a "Great Fortune" slip and all! Just wanted to pay it forward, you know?
+Gendou Ringo: Still, what some call "Great Fortune" might be "Great Misfortune" for others.
+Gendou Ringo: For those who receive "great misfortune"... I wonder, what awaits them at the Fortune Slip Hanger?
+Gendou Ringo: Ah, fortunes are so very interesting! See you later.
+Paimon: Huh. Paimon doesn't get what Ms. Gendou meant back there, but she really does seem a lot friendlier now.
+
+Dialogue Set #2[]
+
+(After completing Day 2 of Gendou Ringo's Strange Fortune Slips)
+Gendou Ringo: Hello there.
+ I want to decipher the fortune slip... (If holding a Bamboo Slip)
+Gendou Ringo: Okay, please give me your bamboo slip.
+(Give the item)
+(If the dialogue corresponding to the fortune has not been seen before)
+
+(Go to Fortune Reveal)
+(If the dialogue corresponding to the fortune has been seen before)
+
+(Obtain  Fortune Slip)
+ (Hands over the fortune slip) In the middle of a hazy night. (If holding a Bamboo Slip)
+(See Gendou Ringo's Strange Fortune Slips)
+ Anything we can help you with today?
+Gendou Ringo: I...huh? Eh? Are you talking to me?
+Gendou Ringo: That... well... ah... I've been rather busy lately! But if you... If you'd like, I'll see about arranging...
+ You're mistaken...
+ It just feels like you're off in your own world today...
+Gendou Ringo: Oh, I see. And I thought that today would finally...
+
+Dialogue Set #3[]
+
+(After completing Day 3 of Gendou Ringo's Strange Fortune Slips)
+Gendou Ringo: Hello, (TravelerTravelerThe player's chosen name for the Traveler)! Are you here to decipher your fortune slip today?
+ I want to decipher the fortune slip... (If holding a Bamboo Slip)
+Gendou Ringo: Okay, please give me your bamboo slip.
+(Give the item)
+(If the dialogue corresponding to the fortune has not been seen before)
+
+(Go to Fortune Reveal)
+(If the dialogue corresponding to the fortune has been seen before)
+
+(Obtain  Fortune Slip)
+ (Hands over the fortune slip) In the middle of a hazy night. (If holding a Bamboo Slip)
+(See Gendou Ringo's Strange Fortune Slips)
+ How do you know my name?
+Gendou Ringo: Huh? You mentioned it before, didn't you?
+ Did I?
+Gendou Ringo: Eh? You did. I mean, o—of course you did. Anyway, (TravelerTravelerThe player's chosen name for the Traveler) is a great name, isn't it?
+
+Dialogue Set #4[]
+
+(First interaction after completing Gendou Ringo's Strange Fortune Slips)
+Paimon: (Hey, (TravelerTravelerThe player's chosen name for the Traveler)!)
+Paimon: (According to that Ms. Gendou, this Ms. Gendou is...)
+ (Yeah, a Fatui knockoff.)
+Gendou Ringo: Ah, we meet again. Want to check your fortune as well? Or...
+Gendou Ringo: If you need a listening ear or if you have something to discuss, I can help too.
+ We're just passing through.
+ No, thanks!
+Paimon: Ms. Gendou is so friendly!
+Gendou Ringo: Is that so? Hehe, that's what many people have told me lately. It feels good.
+Gendou Ringo: It's always been my dream to work at a beautiful shrine like this.
+ (Yeah, she's a Fatui knockoff.)
+Paimon: (Still, she seems like she actually enjoys this job.)
+ (Don't let your guard down.)
+ (Wait for Ms. Gendou to contact us.)
+Gendou Ringo: So (TravelerTravelerThe player's chosen name for the Traveler), how may I help you today?
+ I'm just here to see you.
+Gendou Ringo: Me... Huh? Ah? S—Sorry, I don't understand what you... what you mean...
+Gendou Ringo: P—Please allow me to cool down a little...
+ It's nothing.
+Gendou Ringo: I get it now. Come find me if you have any questions.
+
+Dialogue Set #5[]
+
+(After completing Gendou Ringo's Strange Fortune Slips)
+Gendou Ringo: Hello, (TravelerTravelerThe player's chosen name for the Traveler)! Are you here to decipher your fortune slip today?
+ I want to decipher the fortune slip... (If holding a Bamboo Slip)
+Gendou Ringo: Okay, please give me your bamboo slip.
+(Give the item)
+(If the dialogue corresponding to the fortune has not been seen before)
+
+(Go to Fortune Reveal)
+(If the dialogue corresponding to the fortune has been seen before)
+
+(Obtain  Fortune Slip)
+ In the middle of a hazy night.
+Gendou Ringo: Ah, I'm sorry. "No such thing" exists at the moment.
+Gendou Ringo: You are so reliable... If only the F...
+ Fatui?
+Gendou Ringo: Uh... I mean, "If only I, the foolish Gendou Ringo, could witness your prowess in combat!"
+ ...You will someday, don't worry.
+ About the strip of paper...
+Gendou Ringo: Oh, you mean the Fortune Slip? It works like this.
+Gendou Ringo: First, you have to shake the Fortune Slip box till a Bamboo Slip falls out. Then, give me the Bamboo Slip and I will give the corresponding Fortune Slip to you.
+Gendou Ringo: If it is an inauspicious fortune, you can knot it on the Fortune Slip Hanger to turn bad luck into good luck... That's about all there is to it.
+ You know so much.
+Gendou Ringo: Well, after all, these are... the basic skills of a shrine maiden!
+
+Dialogue Set #6[]
+
+(After completing The Very Special Fortune Slip)
+Gendou Ringo: Hello, (TravelerTravelerThe player's chosen name for the Traveler)! Are you here to decipher your fortune slip today?
+ I want to decipher the fortune slip... (If holding a Bamboo Slip)
+Gendou Ringo: Okay, please give me your bamboo slip.
+(Give the item)
+(If the dialogue corresponding to the fortune has not been seen before)
+
+(Go to Fortune Reveal)
+(If the dialogue corresponding to the fortune has been seen before)
+
+(Obtain  Fortune Slip)
+ About the strip of paper...
+Gendou Ringo: Oh, you mean the Fortune Slip? It works like this.
+Gendou Ringo: First, you have to shake the Fortune Slip box till a Bamboo Slip falls out. Then, give me the Bamboo Slip and I will give the corresponding Fortune Slip to you.
+Gendou Ringo: If it is an inauspicious fortune, you can knot it on the Fortune Slip Hanger to turn bad luck into good luck... That's about all there is to it.
+ You know so much.
+Gendou Ringo: Well, after all, these are... the basic skills of a shrine maiden!
+ How've things been going lately?
+Gendou Ringo: Thanks for your concern. I'm feeling great, really! That I was able to become a real shrine maiden is thanks to your help, and that of many others.
+Gendou Ringo: I will stay here, and I will pray for you all in earnest. If you ever have something on your mind, I'll be happy to hear you out.
+ Have you heard anything from Momoyo?
+Gendou Ringo: I fear that Ms. Momoyo had already left by the time I returned to this place, so I missed the opportunity to thank her in person.
+Gendou Ringo: Still, I believe that we will meet again in future.
+ See you around.
+Gendou Ringo: See you! May your day be blessed.
+
+Other Languages[]
+
+LanguageOfficial NameEnglishLyudochka SnezhevnaChinese(Simplified)柳达希卡・雪奈茨芙娜Liǔdáxīkǎ XuěnàicífúnàChinese(Traditional)柳達希卡・雪奈茨芙娜Liǔdáxīkǎ XuěnàicífúnàJapaneseリュドヒカ・シュナイツェフナRyudohika ShunaitsefunaKorean류다치카・슈나이제브나Ryudachika SyunaijebeunaSpanishLyudochka SnezhevnaFrenchLyudochka SnezhevnaRussianЛюдочка СнежневнаLyudochka SnezhnevnaThaiLyudochka SnezhevnaVietnameseLyudochka SnezhevnaGermanLyudochka SnezhevnaIndonesianLyudochka SnezhevnaPortugueseLyudochka SnezhevnaTurkishLyudochka SnezhevnaItalianLyudochka Snezhevna
+Change History[]
+Released in Version 2.4[Edit History]Version 2.6
+Lyudochka Schneitzevna was renamed to Lyudochka Snezhevna.
+
+Version 2.4
+
+Lyudochka Schneitzevna was released.
+References[]
+
+↑ World Quest, The Very Special Fortune Slip, Part 2: The Replacement's Secret
+
+↑ World Quest, Lost in a Foreign Land: Lost in a Foreign Land: Seeking
+
+↑ World Quest, The Very Special Fortune Slip, Part 1: Shuumatsuban Operations
+
+
+
+
+

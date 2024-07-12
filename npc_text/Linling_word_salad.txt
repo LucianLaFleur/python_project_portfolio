@@ -1,0 +1,200 @@
+
+
+
+
+
+Linling
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+								Voice Actors
+							
+
+
+
+
+
+Region
+Liyue
+
+
+Location
+Liyue
+
+
+
+
+English
+Sarina Neer[1]
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Linling is an open-world NPC in Liyue Harbor located by the warehouse.
+
+Contents
+
+1 Location
+2 Profile
+
+2.1 Appearance
+
+
+3 Quests and Events
+
+3.1 Commissions
+3.2 Events
+
+
+4 Idle Quotes
+5 Dialogue
+6 Event Dialogue
+
+6.1 Lantern Rite
+6.2 Fleeting Colors in Flight
+6.3 The Exquisite Night Chimes
+6.4 Vibrant Harriers Aloft in Spring Breeze
+
+
+7 Other Languages
+8 Change History
+9 References
+
+
+Location[]
+Linling's locationAdditional context
+Profile[]
+Linling is an aspiring poet disgruntled with her day job as a registrar for the Qixing Commerce Guild. She holds a low opinion of her job and, subsequently, fails to pay attention to her tasks at hand in favor of writing poetry.
+Nervous An privately reveals that Linling is so bad at her job, the numbers she submits are only correct once or twice a week, and the only reason why she is still around is because they're too shorthanded to let her go.[2]
+Linling self-produced an anthology of her poetry, which she gifts to the Traveler for helping her out during "So-Called Work" The anthology further reveals some details about Linling: she dislikes Su Er'niang's Zhongyuan Chop Suey, and she finds "Changchang"'s wailing insufferable (though she likely meant Yi Xian, who recently lost her mother, not Changchang).
+
+Appearance[]
+(To be added.)
+
+Quests and Events[]
+CommissionsOne Ship, Two Ships, Three Ships...So-Called WorkEventsLantern Rite TalesOutspoken Linling
+Idle Quotes[]
+
+ ...The sea...
+Media:VO Linling 01.ogg "As I gaze out upon the sea, prose wells up inside of me..."
+
+During Lantern Rite
+
+
+ Shall I not...
+Media:VO Linling Lantern Rite 01.ogg "Shall I not add more beauty to this Lantern Rite by offering up a verse?"
+
+During Fleeting Colors in Flight
+
+ The sea...
+Media:VO Linling Lantern Rite 02.ogg "The sea looks splendid at Lantern Rite, especially in the evenings."
+
+During The Exquisite Night Chimes
+
+ Reciting poetry...
+Media:VO Linling Lantern Rite 03.ogg "If I could recite some poetry, it would make this music festival even more wondrous."
+
+During Vibrant Harriers Aloft in Spring Breeze
+
+ Reciting poetry...
+Media:VO Linling Lantern Rite 04.ogg "Maybe reciting poetry is a way to set my dreams on the wind."
+
+Dialogue[]
+
+Linling: Hi. Here to check out the ocean view?
+ Who are you?
+Linling: I'm Linling. I'm the registrar for all the boats in these docks...
+Linling: ...Actually, I'm employed by the Commerce Guild to do menial tasks for all those stuffy old business people...
+Linling: But never mind all that. When you're young, you should fix your vision on something with broad horizons, right?
+Linling: Just look how beautiful the sea is today, it's so tranquil! As I like to say, "To be blind to the beauty that poets adore is to view the world from the ocean floor."
+Linling: Hehehe, I composed that poem myself. Isn't it philosophical?
+ It's okay, I guess.
+Linling: What did you say!? Let me tell you something, I have a poetic gift and I'm gonna be a household name one day! Just like the great poet Qingzhou!
+Linling: Hmph. Commoners don't like my poetry, those lords of the Qixing Commerce Guild don't appreciate my hard work, and this dull job is so far below my aspirations...
+Linling: Is it any wonder that I'm out here staring aimlessly at the sea...
+ Do you have Anemo power? Because girl, your poetry just blew me away.
+Linling: Why thank you! You have wonderful taste in poetry. Only a small number of rare geniuses see true reason, and it seems you are one of them — just like me!
+Linling: The way I see it, the Qixing aren't all that. Who knows, I might do a better job than them.
+Linling: I mean, let's be honest. They just follow the divine predictions we receive from Rex Lapis during the Rite of Descension to the letter. It's all his work, so what are they so uppity about?
+Linling: ...Uh, did I just say that a bit too loud?
+ Goodbye.
+Linling: Bye!
+Linling: 'Tis true transcendence to view the sea, how blue the skies and seas both be...
+
+Event Dialogue[]
+Lantern Rite[]
+
+Linling: The glow of Xiao Lanterns fills the night sky, shedding light on lands below as they fly. The glow upon the sea dances before one's eyes, casting scattered lights as the waves arise...
+Linling: Hmm, casting scattered lights? No, no... That's no good! Ah, now I've got it! "Flickering endlessly on the tides of night."
+Linling: Yes, yes, that's it! So, what do you think of my poem?
+ It's great.
+Linling: Hehe, I see you have good taste. My poems can set the mood even for an event as grand as the Lantern Rite.
+Linling: *sigh* It's a shame that those who truly grasp the subtleties of verse and rhyme are few and far between.
+Linling: I once posted my poems all around Liyue Harbor to help bring the spirit of Lantern Rite to the citizens of Liyue.
+Linling: ...But before long, I was reported by the Millelith and was told that I would be arrested if I dared to post my poetry again.
+Linling: Hmph, those uncultured curs, have they no taste at all!?
+ It's okay, I guess...
+Linling: Just okay? Then you must certainly be missing the deep creativity and philosophical meaning behind the words!
+Linling: ...Hmph, such a shame.
+
+Fleeting Colors in Flight[]
+
+Linling: Hi there, are you here to enjoy Lantern Rite?  In that case, do be sure to look out over the ocean from time to time!
+Linling: Under the light of the lanterns, the waves grow more beautiful. Ah, I can feel my poetic spirit arise within me already...
+(Continue non-event dialogue)
+
+The Exquisite Night Chimes[]
+
+(After completing A Thousand Miles for an Enigmatic Tune)
+Linling: The glow of Xiao Lanterns fills the night sky, shedding light on lands below as they fly. The lighting of the stage dances before one's eyes, as a sea of people are singing together...
+Linling: Yes, yes...
+(Continue non-event dialogue)
+
+Vibrant Harriers Aloft in Spring Breeze[]
+
+Linling: The kites follow the wind into the sky, across the heavens do they fly — save those that into lanterns crash, that burn to ashes in a flash.
+Linling: Yes, yes...
+
+Other Languages[]
+
+LanguageOfficial NameEnglishLinlingChinese(Simplified)霖铃LínlíngChinese(Traditional)霖鈴LínlíngJapanese霖鈴Rinrei‍[!][!]Assumed readingKorean임령ImryeongSpanishLinlingFrenchLinlingRussianЛинь ЛинLin' LinThaiLinlingVietnameseLinlingGermanLinlingIndonesianLinlingPortugueseLinlingTurkishLinlingItalianLinling
+Change History[]
+Released in Version 1.0[Create New History]
+References[]
+
+↑ Sarina Neer: EN VA's Profile
+
+↑ Commission: So-Called Work
+
+
+
+
+

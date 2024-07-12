@@ -1,0 +1,159 @@
+
+
+
+
+
+Aramani
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Sumeru
+
+
+Location
+Sumeru
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCsAranara 
+
+
+
+
+Aramani is an open-world NPC located in Vanarana, Sumeru, when in the Dream State. It is a part of the Aranara.
+
+Contents
+
+1 Shop
+2 Location
+3 Profile
+
+3.1 Appearance
+
+
+4 Quests and Events
+
+4.1 World Quests
+
+
+5 Idle Quotes
+6 Dialogue
+
+6.1 Dialogue Set #1
+6.2 Dialogue Set #2
+6.3 Dialogue Set #3
+
+
+7 Trivia
+
+7.1 Etymology
+
+
+8 Other Languages
+9 Change History
+
+
+Shop[]
+The shop will not be available between the World Quest Festival Utsava and the ending of the Aranyaka World Quest Series.
+
+ItemCostStockTotalCostRefreshes
+ Sunsettia170101,7003 Days
+ Harra Fruit240102,4003 Days
+ Zaytun Peach240102,4003 Days
+ Rukkhashava Mushrooms1,00055,0003 Days
+ Kalpalata Lotus1,00055,0003 Days
+Total cost for all items16,500 
+Location[]
+Aramani's LocationAdditional Context
+Profile[]
+(To be added.)
+
+Appearance[]
+(To be added.)
+
+Quests and Events[]
+World QuestsAranyakaPart II: Dream NurseryThe World of AranaraFestival Utsava
+Idle Quotes[]
+
+ Come take a look...
+ "Sale"! Big "sale"!
+ "Good profits"...
+
+Dialogue[]
+Dialogue Set #1[]
+Available before completing Festival Utsava.
+
+
+Aramani: "Fine goods" for sale! Come take a look! "Great stuff at reasonable prices," "Buy now before they're all sold out!"
+ I'll have some Aranara specialties.
+Aramani: "Specialties"? I don't understand... But there are "fine goods."
+(Opens the Shop menu)
+ Aranara... merchant?
+Aramani: Huh... Why does Nara friend's expression look so strange?
+Aramani: Don't Nara merchants speak like this...?
+Aramani: Or is "Buy now before they're all sold out!" not available here?
+Aramani: I don't understand. Nara merchants' talk, too strange.
+ Goodbye.
+Aramani: Goodbye, Nara friend. "We look forward to seeing you again"?
+
+Dialogue Set #2[]
+Available after starting Festival Utsava and until completing "Hello," "Thank You," and the Final "Goodbye." 
+
+
+Aramani: Festival! Fun! Many "customers," many "sales"! "Don't miss out on a good sale!"
+ What's for sale?
+Aramani: The big "sale" now is happiness from Festival Utsava! Nara friend, would you like some happiness?
+ What is happiness?
+Aramani: Happiness cannot be seen or touched, but fills the Vanarana during Festival Utsava... I understand. Happiness is brought by Nara friend!
+ Goodbye.
+Aramani: Goodbye, Nara friend. I hope you have lots of happiness and lots of "sales"!
+
+Dialogue Set #3[]
+Available after completing "Hello," "Thank You," and the Final "Goodbye." 
+
+
+Aramani: I made "a fortune" during Festival Utsava, and I want to have more happiness, so the next step is...
+ I'll have some fine goods.
+Aramani: It's not called "fine goods" anymore. Aramani is now selling "specialties."
+(Opens the Shop menu)
+ Goodbye.
+Aramani: Goodbye, Nara friend. I hope you'll make "a fortune" too.
+
+Trivia[]
+Etymology[]
+"Aramani" is derived from the Sanskrit word मणि mani, "jewel," reflecting his role as a self-proclaimed merchant.
+Other Languages[]
+
+LanguageOfficial NameEnglishAramaniChinese(Simplified)兰玛尼LánmǎníChinese(Traditional)蘭瑪尼LánmǎníJapaneseアランマニAranmaniKorean아란마니AranmaniSpanishAramaniFrenchAramaniRussianАраманиAramaniThaiAramaniVietnameseAramaniGermanAramaniIndonesianAramaniPortugueseAramaniTurkishAramaniItalianAramani
+Change History[]
+Released in Version 3.0[Create New History]
+
+
+

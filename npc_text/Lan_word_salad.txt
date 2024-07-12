@@ -1,0 +1,219 @@
+
+
+
+
+
+Lan
+Branch Master, Adventurers' Guild
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+								Voice Actors
+							
+
+
+
+
+
+Region
+Liyue
+
+
+Location
+Liyue
+
+
+Affil­i­a­tion
+Adventurers' Guild
+
+
+Dialogue Reward
+ 7
+
+
+Genius Invokation TCG
+Stages
+
+
+
+
+English
+Felecia Angelle[1]
+
+
+Japanese
+Anna Ishikawa (石川 明日菜)[2]
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Lan (Chinese: 岚姐 Lán-jiě) is an open-world NPC in Liyue Harbor. She is the Branch Master of the Adventurers' Guild in Liyue and can be found standing next to Katheryne's reception area.
+Lan is briefly spoken to during the Archon Quest Three Poignant Perfumes in Chapter I: Act II - Farewell, Archaic Lord. Her dialogue changes slightly after completing it.
+Following a certain dialogue branch for the first time gives the player seven Adventurer's Experience. This branch is only made available after starting the World Quest ...What Do Adventurers Do Again?.
+
+Contents
+
+1 Location
+2 Profile
+
+2.1 Appearance
+
+
+3 Quests and Events
+
+3.1 Archon Quests
+3.2 Story Quests
+3.3 World Quests
+3.4 Commissions
+3.5 Events
+
+
+4 Idle Quotes
+5 Dialogue
+
+5.1 Dialogue Set #1
+5.2 Dialogue Set #2
+
+
+6 Trivia
+7 Gallery
+
+7.1 Genius Invokation TCG
+
+
+8 Other Languages
+9 Change History
+10 References
+
+
+Location[]
+Lan's locationAdditional context
+Profile[]
+Lan is a former mercenary and the younger sister of a martial artist who wielded a sword known as the Unseen Razor. As a child, she had her brother promise her that should he replace the Unseen Razor that it would go to her, and she secretly etched a mark onto the hilt. After he died of unknown circumstances, his sword mysteriously disappeared. In her search of it as an adult, Lan joined the Adventurers' Guild and took on any Commission that involved swords, as she was not well-read but could recognize the word "sword." She completed increasingly dangerous missions and, while her search for the Unseen Razor remained fruitless, she  was informed by the guild headquarters in Snezhnaya that she had completed two S-class missions solo, and to her surprise, was thus promoted to Branch Master of the Liyue Adventurers' Guild for her (unintended) efforts. Due to her disinterest in the position, she leaves most of the Guild's affairs to Katheryne.[3]
+
+Appearance[]
+Lan has brown hair cut into a bob and wears the standard female Adventurers' Guild uniform. The uniform consists of three layers of clothing (a white short-sleeve dress with a front cut-off, a green cape collar with a ruffled trim and a triangular back flap, and a green panel skirt with slits and a red bow at the back), a short red neckerchief, brown socks and laced high leather boots. The Adventurers' Guild logo, an eight-pointed star, is printed on the right and back flaps of the collar.
+
+Quests and Events[]
+Archon QuestsChapter IAct II: Farewell, Archaic LordThree Poignant PerfumesAct IV: We Will Be ReunitedInvoluntary SacrificeStory QuestsPapilio Charontis Chapter (Hu Tao)Act I: Yet the Butterfly Flutters AwayThe Mysterious Wangsheng ParlorWorld QuestsThe Chasm DelversThe Chasm Charters...What Do Adventurers Do Again?The Adventurers' Guild's AffairsTianqiu Treasure TrailCommissionsWhere Is the Unseen Razor?EventsArataki Blazing Armor Beetle Battle Boot Camp
+Idle Quotes[]
+
+ ...
+
+Dialogue[]
+This page is missing dialogue.Can you help out? Click here to add more.Need to check condition of change from dialogue set #1 to #2. A user received new dialogue before completion of Omnipresence Over Mortals
+Dialogue Set #1[]
+
+Lan: ...? Excuse me, adventurer. Please see Katheryne about anything Guild-related — I am not intimately acquainted with the workings of the Guild.
+ Who are you?
+Lan: If you're looking for the Master of the Liyue Adventurers' Guild, I regret to inform you that, that would be me.
+Lan: By which I mean, don't expect any help from me on Guild-related matters. I avoid involving myself in such bothersome affairs.
+Lan: That is, unless you bring news about the sword.
+ What sword?
+Lan: My older brother's sword. If I find it, I can finally give him a proper burial...
+Lan: It's the only fitting way to go for a martial artist like him.
+Lan: It's a flat blade, sharp enough to slice an airborne hair in two. It's named "Unseen Razor."
+ How did you become Master of the Liyue branch?
+Lan: Ugh, why does everyone ask me the same question... I will make an exception for you, though, and give you the full story.
+Lan: I used to be a mercenary. I joined the Adventurers' Guild so I could take advantage of their superior intelligence network and track down the sword.
+Lan: I may not be very literate but I can read the word "sword." So I just took on every single commission that had something to do with a sword.
+Lan: Then, just when I'd finished my eighth— Or was it my ninth commission? Anyway, I'd just finished it, and then word came from the headquarters in Snezhnaya that I'd apparently completed two S-rank commissions.
+Lan: ...And suddenly I found myself promoted to branch Guild Master. It was all very strange indeed.
+ ...You're amazing.
+Lan: You think so? Well, I don't do it for any kind of praise or approval.
+Lan: But since I am branch master and all that, I guess I have to show I'm making an effort or something.
+Lan: I jotted down some thoughts on adventuring back when I was looking for the sword. Here, take them. Maybe you'll find them useful.
+(Obtain  Adventurer's Experience ×7)
+ I'll let you know if I find anything.
+Lan: Oh, thanks! I love meeting people like you who are up for everything.
+Lan: I am grateful to you, newcomer. It looks like it was worth me joining the Guild after all.
+ So, have you seen someone who looks like me?
+(This option disappears after ???)
+Lan: Like you? ...Oh, I see. You're looking for family.
+Lan: I haven't, no, but I will keep it in mind.
+Lan: I've been separated from family before. I know how you feel...
+ Goodbye.
+Lan: Aight, don't drag this out.
+
+Dialogue Set #2[]
+
+Lan: It's been a while since I saw you last. For any Guild-related matters, please talk to Katheryne.
+ Adventure Challenge
+(Opens Genius Invokation TCG match interface)
+(If the player loses the match)
+
+Lan: It's naive of you to try to beat me with this trick.
+(If the player wins the match)
+
+Lan: I see that you're really good at cards...
+ Have we met?
+Lan: Huh? Don't tell me you've forgotten who I am? Luckily, I still remember you.
+Lan: I'm the Master of the Liyue Adventurers' Guild, although I tend to avoid involving myself in Guild-related matters and other such bothersome affairs.
+Lan: All that interests me is news about the sword.
+ The sword? What sword?
+(Rest of the dialogue is the same as everything under "What sword?")
+ Goodbye.
+(Same as before)
+
+Trivia[]
+Lan shares her English voice actor with Mona.
+Gallery[]
+Genius Invokation TCG[]
+Where Is the Unseen Razor?
+Other Languages[]
+
+LanguageOfficial NameEnglishLanChinese(Simplified)岚姐Lán-jiěChinese(Traditional)嵐姐Lán-jiěJapanese嵐姉[• 1]Arashi-nee[4]Korean란 누님[• 2]Ran NunimSpanishLanFrenchLanRussianМисс ЛаньMiss Lan'ThaiLanVietnameseLanGermanLanIndonesianLanPortugueseLanTurkishLahnItalianLan
+↑ Japanese: Arashi is the native Japanese reading of 嵐 rather than the Sino-Japanese reading, "Ran."
+
+↑ Korean: Ran is based on the Mandarin pronunciation of Chinese name, instead of the Sino-Korean reading 남(嵐) Nam.
+
+
+Change History[]
+Released in Version 1.0[Edit History]Version 3.3
+Added a Genius Invokation TCG Adventure Challenge for Lan.
+
+Version 1.0
+
+Lan was released.
+References[]
+
+↑ Twitter: EN VA Self Announcement (Through Private Message)
+
+↑ Amuleto: JP VA's Profile
+
+↑ NPC Dialogue: Lan
+
+↑ Archon Quest, Chapter I, Act IV - We Will Be Reunited, Part 1: Involuntary Sacrifice (Japanese Voice-Over)
+
+
+
+
+

@@ -1,0 +1,118 @@
+
+
+
+
+
+Bruneau
+Member of the Gardes
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Fontaine
+
+
+Location
+Fontaine
+
+
+Affil­i­a­tions
+GardeMaison Gardiennage 
+
+
+Dialogue Reward
+ 1
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Bruneau is an open-world NPC located in Court of Fontaine: Palais Mermonia, Fontaine.
+Following a certain dialogue branch for the first time gives the player one Guide to Order.
+
+Contents
+
+1 Location
+2 Quests and Events
+
+2.1 World Quests
+
+2.1.1 Requests
+
+
+
+
+3 Idle Quotes
+4 Dialogue
+5 Other Languages
+6 Change History
+
+
+Location[]
+Bruneau's locationAdditional context
+Quests and Events[]
+World QuestsRequestsBruneau's Flower Request
+Idle Quotes[]
+
+ Welcome to Palais Mermonia.
+Media:VO Bruneau 01.ogg "Welcome to Palais Mermonia."
+
+Dialogue[]
+
+Bruneau: Hello. How may I help you?
+ Where are we?
+(Before completing Masquerade of the Guilty)
+Bruneau: This is the Palais Mermonia. This is where all official affairs are handled, and public services are rendered.
+Bruneau: Of course, this is also the abode of Lady Furina, the Hydro Archon.
+Bruneau: Meetings with her are by appointment only, so please follow the rules and refrain from intruding — there will be consequences otherwise.
+ Can I look around the public area?
+Bruneau: Hmm... technically, this is an office area, but it is frequented every day by a lot of people who do not work here.
+Bruneau: We don't chase away visitors who abide by the rules. As long as you speak softly and do not disturb our staff, you will be fine.
+(Obtain  Guide to Order)
+ What is this place?
+(After completing Masquerade of the Guilty)
+Bruneau: This is the Palais Mermonia, where all official affairs are handled and public services are rendered.
+Bruneau: And, of course, it is where Iudex Neuvillette has his office.
+Bruneau: If you have any questions about Fontaine's public affairs, this is where you come to ask. But do follow the rules, please. There will be consequences if you cause any trouble.
+ Can I look around the public area?
+(Same as before)
+ Sorry for disturbing you.
+Bruneau: It's no trouble. See you.
+
+Other Languages[]
+
+LanguageOfficial NameEnglishBruneauChinese(Simplified)布吕诺BùlǚnuòChinese(Traditional)布呂諾BùlǚnuòJapaneseブリュノーBuryunooKorean브뤼노BeurwinoSpanishBruneauFrenchBruneauRussianБруноBrunoThaiBruneauVietnameseBruneauGermanBruneauIndonesianBruneauPortugueseBruneauTurkishBruneauItalianBruneau
+Change History[]
+Released in Version 4.0[Create New History]
+
+
+

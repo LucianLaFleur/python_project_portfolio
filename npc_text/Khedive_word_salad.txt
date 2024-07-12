@@ -1,0 +1,219 @@
+
+
+
+
+
+Khedive
+Ecologist
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+								Family
+							
+
+
+
+
+
+Real Name
+Khedive Pursina[1]
+
+
+Region
+Sumeru
+
+
+Location
+Liyue
+
+
+Affil­i­a­tions
+AmurtaHouse of PursinaChasm Exploration Team 
+
+
+
+
+Ancestry
+House of Pursina
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Khedive Pursina is an open-world NPC located in The Chasm, Liyue. He is a member of the Amurta in Sumeru Akademiya.
+As part of a collaborative agreement with the Liyue Qixing, he agreed to fund the Chasm Exploration Team and research the ecological changes The Chasm is undergoing.
+
+Contents
+
+1 Location
+2 Profile
+
+2.1 Appearance
+
+
+3 Quests and Events
+
+3.1 World Quests
+
+
+4 Idle Quotes
+5 Dialogue
+
+5.1 Dialogue Set #1
+5.2 Dialogue Set #2
+5.3 Dialogue Set #3
+5.4 Dialogue Set #4
+
+
+6 Character Mentions
+
+6.1 Character Voice-Overs
+
+
+7 Trivia
+
+7.1 Etymology
+
+
+8 Other Languages
+9 Change History
+10 References
+
+
+Location[]
+Khedive is originally located on the surface near the easternmost waypoint of The Chasm. During the World Quest Chasm Spelunkers in Series The Chasm Delvers, he moves into to the Chasm Exploration Team Camp.
+
+Khedive's locationAdditional context
+Profile[]
+(To be added.)
+
+Appearance[]
+(To be added.)
+
+Quests and Events[]
+World QuestsThe Chasm DelversWherefore Did the Spiritstone Descend?Hydrological Investigation in The ChasmMycological Investigation in The ChasmPaleontological Investigation in The ChasmPurbiruni's CommandmentThe Missing Miner
+Idle Quotes[]
+
+ Don't disturb me...
+Media:VO Khedive 01.ogg "*sigh* Please do not disturb me..."
+
+Dialogue[]
+This page is missing dialogue.Can you help out? Click here to add more.Determine conditions for dialogue set #4.
+Dialogue Set #4: I got this dialogue after purifying the large crystal and before talking to Zhiqiong back at the second campsite. I completed all the investigation quests at this point. Judging by the content the dialogue seems fit before entering the Chasm underground mines. It's probably this is bugged. Bug the dialogue wasn't mentioned anywhere. So having it noted here before figuring out the intended condition.
+Dialogue Set #1[]
+Available before completing Chasm Spelunkers.
+
+
+Khedive: Why, hello! It's you!
+Khedive: Hah, they actually managed to get you to come here.
+ Yes, it's me.
+ Do I know you?
+Khedive: Ah, my apologies, please! My name is Khedive. Khedive Pursina.
+Khedive: If you know anything of the history of the Akademiya, you would know that our founder was once the rival of the Purbirunis in the field of astronomy...
+ Well, I'm (TravelerTravelerThe player's chosen name for the Traveler).
+Khedive: Ah, there's no need for you to introduce yourself so specifically. Your name and its fame have long reached my ears.
+ Is announcing your academic school of thought tradition in Sumeru?
+Khedive: Ah, no, no... It is just... Let's just call it a scholar's pride, shall we?
+Khedive: Actually, you know what? I blame Anisa for infecting me with the Purbirunis' bad habit in that regard.
+ What are you doing here?
+Khedive: I'm a researcher who was specifically called in by the Ministry of Civil Affairs. My task is to study the changes that have occurred in life forms within The Chasm before it reopens, and to examine any items of paleontological interest...
+Khedive: Of course, it has been agreed that I shall share the results of my research with the historical society here in Liyue.
+Khedive: *sigh* I know what you're thinking, and to be honest this does, in principle, violate the rules of the Akademiya. But the Liyue authorities were quite firm about this. I doubt anyone could have moved them an inch.
+Khedive: Additionally, the exploration team has been signed under my name, and I am to pay for the salaries of all the camp's miners out of pocket... So if we don't get results, it'll be quite the loss for me.
+ That's true...
+ That sounds really rough.
+Khedive: It's fine, though. I've got the Mora.
+ Alright, then. See you.
+Khedive: See you!
+
+Dialogue Set #2[]
+Available after completing Chasm Spelunkers but before completing the investigation quests.
+
+
+Khedive: What a curious geological environment we're in now! I'm sure I can outdo the research goals set by the Akademiya this year.
+Khedive: Oh, Traveler, what's up?
+(If the player has collected at least one Starshroom)
+ So, about these mushrooms...
+(Starts Mycological Investigation in The Chasm)
+(If the player has at least one Photo of a Strange Rock)
+ About the strange rock we found...
+(Starts the Paleontological Investigation in The Chasm World Quest)
+(If the player has obtained the Strange Object)
+ About the strange object...
+(Starts the Hydrological Investigation in The Chasm World Quest)
+ Nothing...
+(Dialogue ends)
+
+Dialogue Set #3[]
+Available after completing the investigation quests.
+
+
+Khedive: Oh? Why, hello there! I thought you'd left, (TravelerTravelerThe player's chosen name for the Traveler).
+Khedive: The energy readings around here have stabilized a great deal, thanks to you. When I go back and write my thesis, I will mention you for sure.
+Khedive: However, as the nominal employer of the exploration team, I will still need to stay for a long time to observe this place.
+ So, how's your research going?
+Khedive: Since you've helped me so much so far, I could tell you a few things, no problem.
+Khedive: We came here to monitor the anomalous energies that have been radiating from deep below and study the effects they are having on The Chasm.
+Khedive: It seems clear now, though, that the situation we face is far more complex than we first imagined.
+Khedive: If it wasn't for your valor, I doubt that we'd have gotten anywhere near as much data as we have.
+ Well, I've got to go.
+Khedive: Then I shan't keep you. Just know that you'll always be welcome with the exploration team!
+
+Dialogue Set #4[]
+
+Khedive: Hello, (TravelerTravelerThe player's chosen name for the Traveler)! It's great to see you here.
+ What are you doing here?
+Khedive: A field study, to record and research ancient life forms and their remains. Well, and I'm also here to observe the abnormalities in the geological layers.
+Paimon: And you're not going down there yourself?
+Khedive: Me? Go down there? No, of course not.
+Khedive: I mean, I did pay for this exploration team to be set up. I'll fork out the Mora, you do the work. My research gets done, you get paid. I'm happy, you're happy. See?
+Khedive: That's how that works.
+Paimon: ...This guy is really annoying.
+ Bye.
+Khedive: Well, don't let me keep you too long.
+
+Character Mentions[]
+Character Voice-OversCharacterVoice-OversTravelerAbout Pursina Media:VO_Aether About Purbiruni and Pursina.ogg Media:VO ZH_Aether About Purbiruni and Pursina.ogg Media:VO JA_Aether About Purbiruni and Pursina.ogg Media:VO KO_Aether About Purbiruni and Pursina.ogg Media:VO_Lumine About Purbiruni and Pursina.ogg Media:VO ZH_Lumine About Purbiruni and Pursina.ogg Media:VO JA_Lumine About Purbiruni and Pursina.ogg Media:VO KO_Lumine About Purbiruni and Pursina.ogg Paimon: Khedive and Anisa kept talking about "Purbiruni" this and "Pursina" that...Paimon: Why do all these words have "pur" at the front?(Traveler): (‍Well, "Pur"Well, "Pur"Text for Aether/"Pur""Pur"Text for Lumine‍) means "descendant," and also "student"... So in this case, they're referring to themselves as the children and students of the great sages of old.Paimon: Huh, so that's what it means... From the way they were throwing these words around, Paimon was sure it'd be something to be proud of.(Traveler): Wait... But isn't it?Paimon: Well, Paimon for one would much rather be known as the founding father than have a name that basically says "So-and-so's my daddy." Pretty embarrassing, don't you think?(Traveler): Um... I have to admit, I've never thought about it like that...
+Trivia[]
+Etymology[]
+Khedive (Persian: خدیو Xadêv) is an honorific title of Persian origin used for the sultans and grand viziers of the Ottoman Empire, but most famously for the viceroy of Egypt.
+Other Languages[]
+
+LanguageOfficial NameEnglishKhediveChinese(Simplified)海迪夫HǎidífūChinese(Traditional)海迪夫HǎidífūJapaneseヘディーヴHediivuKorean헤디브HedibeuSpanishKhediveFrenchKhediveRussianХедивKhedivThaiKhediveVietnameseKhediveGermanKhediveIndonesianKhedivePortugueseKhediveTurkishKhediveItalianKhedive
+Change History[]
+Released in Version 2.6[Create New History]
+References[]
+
+↑ Quest Item: Akademiya Recommendation Letter
+
+
+
+
+

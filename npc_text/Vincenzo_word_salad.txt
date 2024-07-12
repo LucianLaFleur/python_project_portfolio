@@ -1,0 +1,134 @@
+
+
+
+
+
+Vincenzo
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Fontaine
+
+
+Location
+Fontaine
+
+
+Affil­i­a­tion
+Spina di Rosula
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Vincenzo is an open-world NPC located in Poisson, Fontaine. He appears after starting the Archon Quest Deluge of Wrathful Waters in Chapter IV: Act V - Masquerade of the Guilty.
+
+Contents
+
+1 Location
+2 Idle Quotes
+3 Dialogue
+
+3.1 Dialogue Set #1
+3.2 Dialogue Set #2
+3.3 Dialogue Set #3
+
+
+4 Other Languages
+5 Change History
+
+
+Location[]
+Vincenzo's locationAdditional context
+Idle Quotes[]
+
+ Don't go any further.
+Media:VO Vincenzo 01.ogg "I wouldn't go any further if I were you."
+
+After completing Masquerade of the Guilty
+
+ Next up...
+Media:VO Vincenzo 02.ogg "There's still work to do..."
+
+After Condition missing
+
+ Seems like...
+Media:VO Vincenzo 03.ogg "I seem to have a knack for this kind of thing."
+
+Dialogue[]
+Dialogue Set #1[]
+Available after step 8 of Deluge of Wrathful Waters.
+
+
+Vincenzo: Please, friend, stay. It's not the time to go to Poisson, so please come back.
+ You are...
+Vincenzo: I'm with Spina di Rosula. As you can see, the town's suffered flooding recently, and it's a total mess.
+Vincenzo: While the waters have receded for now, no one knows what's going to happen. Perhaps you also know of the "prophecy"...
+Vincenzo: Anyway, the townspeople have already evacuated. No help is needed right now, so you should really get out of here too.
+ I see...
+Vincenzo: Yep. The water's been unstable these days, so it's best if you just leave. Quickly.
+
+Dialogue Set #2[]
+Available after completing Masquerade of the Guilty.
+
+
+Vincenzo: Hello, do you need any help?
+ You are...
+Vincenzo: I'm with Spina di Rosula. I mainly used to work in the Court of Fontaine, but the Boss sent me here a while ago.
+Vincenzo: I'm sure you know that the town was flooded. I've come to help the people here rebuild their homes.
+Vincenzo: Ah, though they've lost so much, most of them are staying strong. They even care about me being tired...
+Vincenzo: To be honest, after getting to know everyone, I don't really want to leave...
+ No need, thank you.
+Vincenzo: Hmm. The road's still not in great shape, so please be careful.
+
+Dialogue Set #3[]
+Available after Condition missing.
+
+
+Vincenzo: I would have never discovered my gift for fishing if I hadn't moved to Poisson.
+ You're...
+Vincenzo: Hello, I'm with the Spina di Rosula. I used to work in the Court of Fontaine until the Boss sent me here.
+Vincenzo: I'm sure you know that the town was flooded. I came over then to help the people here rebuild their homes.
+Vincenzo: Take a look for yourself! The rebuilt Poisson is quite beautiful, huh? And that's why I moved here with the intention of settling down.
+Vincenzo: Everyone here is so friendly, and they even taught me how to fish and dive... well, this is the birthplace of the Spina after all.
+ See you.
+Vincenzo: See you. It's pretty nice here in town, so you should stay for a while.
+
+Other Languages[]
+
+LanguageOfficial NameEnglishVincenzoChinese(Simplified)维钦佐WéiqīnzuǒChinese(Traditional)維欽佐WéiqīnzuǒJapaneseヴェルチェンツォVeruchentsoKorean빈첸초BinchenchoSpanishVincenzoFrenchVincenzoRussianВинченцоVinchentsoThaiVincenzoVietnameseVincenzoGermanVincenzoIndonesianVincenzoPortugueseVincenzoTurkishVincenzoItalianVincenzo
+Change History[]
+Released in Version 4.2[Create New History]
+
+
+

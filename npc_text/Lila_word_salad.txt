@@ -1,0 +1,110 @@
+
+
+
+
+
+Lila
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Sumeru
+
+
+Location
+Sumeru
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Lila is an open-world NPC located in Sumeru City, Sumeru.
+
+Contents
+
+1 Location
+2 Idle Quotes
+3 Thoughts
+4 Dialogue
+
+4.1 Dialogue Set #1
+4.2 Dialogue Set #2
+
+
+5 Other Languages
+6 Change History
+
+
+Location[]
+Lila's locationAdditional context
+Idle Quotes[]
+
+ I don't wanna...
+Media:VO Lila 01.ogg "*sob* But grandma! I don't want to get a shot."
+
+Thoughts[]
+Lila's thoughts can be accessed by using Nahida's Elemental Skill, All Schemes to Know.
+
+
+Media:VO Lila All Schemes to Know 01.ogg Lila: (Why can't the Dendro Archon just stop people from getting sick?)
+
+Dialogue[]
+Dialogue Set #1[]
+
+(Before completing Where the Boat of Consciousness Lies)
+Lila: *sob* ...The doctor is a meanie, grandma! The shot she gave me hurt!
+Tahmina: No, she's not a meanie but an agent for Greater Lord Rukkhadevata.
+Tahmina: Lila is an unwell little tree, and she is nourishing you, little tree.
+Lila: I know Rukkhadevata is good, so the doctor is good too?
+Tahmina: Yes. Listen to her and you'll grow tall and strong.
+Tahmina: Otherwise, the Eremites will take you away for defying Rukkhadevata!
+Lila: No, the Eremites are scary, I don't want that...
+
+Dialogue Set #2[]
+
+(After completing Where the Boat of Consciousness Lies)
+Lila: *sob* ...The doctor is a meanie, grandma! The shot she gave me hurt!
+Tahmina: Haha. No, sweetheart, this lady here isn't being a meanie. She's here as a representative of the Dendro Archon.
+Tahmina: You're like an unwell little tree, Lila. What the doctor is doing is nourishing you.
+Lila: I know the Dendro Archon is a good person... Does that mean that the doctor is a good person too?
+Tahmina: Yes. Listen to her and you'll grow tall and strong.
+Tahmina: Otherwise, the Eremites will take you away for defying the Dendro Archon!
+Lila: No, no! They're scary, I don't want that...
+
+Other Languages[]
+
+LanguageOfficial NameEnglishLilaChinese(Simplified)莉拉LìlāChinese(Traditional)莉拉LìlāJapaneseリラRiraKorean릴라RillaSpanishLilaFrenchLilaRussianЛилаLilaThaiLilaVietnameseLilaGermanLilaIndonesianLilaPortugueseLilaTurkishLilaItalianLila
+Change History[]
+Released in Version 3.0[Create New History]
+
+
+

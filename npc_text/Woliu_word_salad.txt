@@ -1,0 +1,134 @@
+
+
+
+
+
+Woliu
+Hydrologist
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+								Voice Actors
+							
+
+
+
+
+
+Region
+Liyue
+
+
+Location
+Liyue
+
+
+Affil­i­a­tion
+Ministry of Civil Affairs
+
+
+
+
+English
+Whitney Holland[1]
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Woliu is an open-world NPC located in Yilong Wharf, Chenyu Vale: Upper Vale, Liyue.
+
+Contents
+
+1 Location
+
+1.1 After completion of Temporary Acclimatization
+
+
+2 Quests and Events
+
+2.1 World Quests
+
+
+3 Idle Quotes
+4 Dialogue
+5 Other Languages
+6 Change History
+7 References
+
+
+Location[]
+After completion of Temporary Acclimatization[]
+Woliu's locationAdditional context
+Quests and Events[]
+World QuestsTemporary Acclimatization
+Idle Quotes[]
+
+ Water and soil quality...
+Media:VO Woliu 01.ogg "The water and soil quality here could do with further inspection..."
+
+Dialogue[]
+
+Woliu: The qualities of the soil and water, its specific composition... All of this is worth careful study...
+(If the player has not completed Temporary Acclimatization)
+
+ And you are?
+Woliu: Hello there! I'm Woliu, a hydrologist working for the Ministry of Civil Affairs, and currently conducting a routine survey of Chenyu Vale's hydrological and pedological conditions.
+Woliu: Hmm, looking at you... You wouldn't happen to be an adventurer, would you? Excellent, perfect... Perhaps we'll get a chance to work together!
+(If the player has completed Temporary Acclimatization)
+
+ Ms. Woliu, how have you been?
+Woliu: We meet again. I'm still surveying the hydrological and soil conditions.
+Woliu: I remember the slick moves you showed me last time. If it's possible, I'd like to work with you again next time. As for the reward... I guarantee you'll be satisfied!
+ You seem to be studying something very profound.
+Woliu: It may sound profound, but if we're talking about the basic principles, it's more like... analyzing the various ingredients and seasoning of a dish?
+Woliu: The most difficult part of this job is obtaining samples and determining effective components, both of which require highly specialized equipment to complete.
+Woliu: Sometimes, I even use consumable devices from Fontaine in addition to my equipment from Liyue.
+Woliu: If you carefully calculate the costs, this work is a pretty expensive undertaking! Without an appropriate organization allocating funds, most people couldn't handle all the required outlays.
+Woliu: Even researchers sent by the Akademiya probably can't cover all of the expenses, so just trying to transplant tea trees from Chenyu Vale to Sumeru is a fool's errand.
+Woliu: As far as the Ministry of Civil Affairs is concerned, if we can completely understand the composition of the soil, and determine the essential components critical for commercial crops...
+Woliu: Then it'll be easy to pump up production of our biggest cash crops!
+Woliu: Yeah, when I think about it that way, my work is pretty awesome!
+ See you.
+Woliu: ...Huh. Was someone speaking to me just now?
+
+Other Languages[]
+
+LanguageOfficial NameEnglishWoliuChinese(Simplified)斡流Chinese(Traditional)斡流Japanese斡流Kanryuu‍[!][!]Assumed readingKorean간유GanyuSpanishWoliuFrenchWoliuRussianВо ЛюVo LyuThaiWoliuVietnameseWoliuGermanWoliuIndonesianWoliuPortugueseWoliuTurkishWoliuItalianWoliu
+Change History[]
+Released in Version 4.4[Create New History]
+References[]
+
+↑ Twitter: EN VA Self Announcement
+
+
+
+
+

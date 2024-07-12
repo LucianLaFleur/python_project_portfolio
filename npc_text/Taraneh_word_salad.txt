@@ -1,0 +1,144 @@
+
+
+
+
+
+Taraneh
+Street Performer
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+								Voice Actors
+							
+
+
+
+
+
+Region
+Sumeru
+
+
+Location
+Sumeru
+
+
+Dialogue Reward
+ 3
+
+
+Genius Invokation TCG
+Stages
+
+
+
+
+English
+Loganne Digma[1]
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Taraneh is an open-world NPC located in Port Ormos, Sumeru.
+Following a certain dialogue branch for the first time gives the player three Teachings of Praxis.
+
+Contents
+
+1 Location
+2 Idle Quotes
+3 Thoughts
+4 Dialogue
+5 Trivia
+6 Other Languages
+7 Change History
+8 References
+
+
+Location[]
+Taraneh's locationAdditional context
+Idle Quotes[]
+
+ One day...
+Media:VO Taraneh 01.ogg "*menacing laugh* He will pay the price one day!"
+
+Thoughts[]
+Taraneh's thoughts can be accessed by using Nahida's Elemental Skill, All Schemes to Know.
+
+
+Media:VO Taraneh All Schemes to Know 01.ogg Taraneh: (I'm gonna get back at that jerk sooner or later!)
+
+Dialogue[]
+
+Taraneh: Hello! How are you today?
+ Adventure Challenge
+(Opens Genius Invokation TCG match interface)
+(If the player loses the match)
+
+Taraneh: Hehe, it seems that you need to be more careful.
+(If the player wins the match)
+
+Taraneh: H- How [sic] did... No. I have to rethink my deck composition.
+ Meh.
+Taraneh: There's something going on, isn't there?
+Taraneh: So it isn't just me... Everyone has their bad days...
+Taraneh: But it's okay! That's just life — sometimes we get hurt, and sometimes we get to sing happy songs.
+Taraneh: A heartless sailor from foreign lands once broke my heart. But look at me now, I can still dance!
+Taraneh: Ah, I forgot to mention that I am a street performer. Come see me dance if you're in a bad mood!
+ I can teach him a lesson for you.
+Taraneh: I appreciate your offer, but I'm afraid I'll have to pass.
+Taraneh: Not that I don't trust your abilities, I just want to do it myself!
+Taraneh: Once I save enough money from my performances, I'll hire the best Eremite mercenary to teach me the most powerful fighting skills.
+Taraneh: Then I can take a ship to Liyue and smack that cheater hard on the face!
+(Obtain  Teachings of Praxis ×3)
+ Pretty good!
+Taraneh: That's great! I'm happy for you!
+Taraneh: Bad luck is only temporary but good luck is forever! Waltz through whatever comes your way, will you?
+
+Trivia[]
+Taraneh's dialogue could possibly be about Chaoxi, who is a sailor from Liyue that notoriously cheats on Cui'er and Sisi.
+Other Languages[]
+
+LanguageOfficial NameEnglishTaranehChinese(Simplified)塔拉内TǎlānèiChinese(Traditional)塔拉內TǎlānèiJapaneseタラネTaraneKorean타라네TaraneSpanishTaranehFrenchTaranehRussianТаранеTaraneThaiTaranehVietnameseTaranehGermanTaranehIndonesianTaranehPortugueseTaranehTurkishTaranehItalianTaraneh
+Change History[]
+Released in Version 3.0[Edit History]Version 3.3
+Added a Genius Invokation TCG Adventure Challenge for Taraneh.
+
+Version 3.0
+
+Taraneh was released.
+References[]
+
+↑ Twitter: EN VA Self Announcement (Archived)
+
+
+
+
+

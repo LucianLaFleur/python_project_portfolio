@@ -1,0 +1,194 @@
+
+
+
+
+
+Master Zhang
+Blacksmith, Hanfeng's Ironmongers
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+								Family
+							
+
+
+
+
+
+Region
+Liyue
+
+
+Location
+Liyue
+
+
+Affil­i­a­tion
+Hanfeng's Ironmongers
+
+
+
+
+Father
+Hanfeng, "Cold Blade"
+
+
+Relative
+Suling (cousin)
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Master Zhang is an open-world NPC located in Liyue Harbor, Liyue and the current owner of Hanfeng's Ironmongers, indicated by the  icon on the map. He is a blacksmith who sells 2-Star Weapons and can forge certain 4-Star Weapons and weapon enhancement materials.
+
+Contents
+
+1 Shop
+2 Location
+3 Profile
+
+3.1 Appearance
+
+
+4 Quests and Events
+
+4.1 Archon Quests
+4.2 World Quests
+
+4.2.1 Requests
+
+
+4.3 Commissions
+
+
+5 Idle Quotes
+6 Dialogue
+7 Gallery
+
+7.1 Genius Invokation TCG
+
+
+8 Other Languages
+9 Change History
+10 References
+
+
+Shop[]
+He has identical stock as Wagner and Hajime.
+
+ItemCostStockTotalCostRefreshes
+ Silver Sword6001600Daily
+ Old Merc's Pal6001600Daily
+ Iron Point6001600Daily
+ Pocket Grimoire6001600Daily
+ Seasoned Hunter's Bow6001600Daily
+Total cost for all items3,000 
+Location[]
+Master Zhang's locationAdditional context
+Profile[]
+Master Zhang is the son of Hanfeng, "Cold Blade," the previous owner of Hanfeng's Ironmongers, and the cousin of Suling, the chief smith of the Crux Fleet.
+In the past, he had crafted some stage weapons for Yun Jin's father, of the Yun-Han Opera Troupe. He also made some Wonder Cores for Lady Ningguang's original Jade Chamber and its replacement.[1]
+
+Appearance[]
+Zhang has black hair and black eyes and wears a shirt with red, black, and gold colors.
+
+Quests and Events[]
+Archon QuestsInterlude ChapterAct I: The Crane Returns on the WindBygones Times Like Dust PassingWorld QuestsRequestsMaster Zhang's Metal MissionCommissionsThe Littlest Journey: Means of Self-Defense?
+Idle Quotes[]
+
+ Hanfeng's Ironmongers...
+Media:VO Master Zhang 01.ogg "Hanfeng's Ironmongers, here to serve."
+
+Dialogue[]
+
+Master Zhang: Need to buy a weapon? Or have on custom-built? Repairs are free, just let me know if you come across any prize ore.
+ I'd like something made.
+(If nothing has been forged)
+
+Master Zhang: Have you brought the right materials? Let's see the goods.
+(If something has been forged but not collected yet)
+
+Master Zhang: Oh, your order from last time is ready. Are you here to collect it, or to place a new order?
+ About Liyue's mining products...
+(If there are Magical Crystal Ore Veins Master Zhang knows; Version 1)
+
+Master Zhang: Liyue is the dominion of Rex Lapis himself. Our ores could never disappoint.
+Master Zhang: Fortunately, I've built up quite the network while helping people repair their equipment free of charge. They furnish me with information concerning ores from time to time.
+Master Zhang: They've found quite a fair bit of abnormal Crystal Ore lately. Some call them Magical Crystal Ores — ordinary Crystal Ores can't hold a candle to them in either form or quality.
+Master Zhang: It's a shame that they are so hard to work with. Even I cannot make heads or tails of them...
+Master Zhang: If you can find a way to work with these ores, do come and find me.
+Master Zhang: I've marked the location of those ore veins on your map. Poke your nose around those parts, and you'll turn up something for sure.
+(Rich Ore Reserves marked on the map)
+(If there are Magical Crystal Ore Veins Master Zhang knows; Version 2)
+
+Master Zhang: Liyue is the dominion of Rex Lapis himself. Our ores could never disappoint.
+Master Zhang: Fortunately, I've built up quite the network while helping people repair their equipment free of charge. They furnish me with information concerning ores from time to time.
+Master Zhang: Recently, they've come across a lot of Crystal Ore. It's just a shame that I've been busy. If you've got the time, go mine some, come back here and have them refined.
+Master Zhang: I've marked the location of those ore veins on your map. Poke your nose around those parts, and you'll turn up something for sure.
+(Rich Ore Reserves marked on the map)
+(If there are no more Magical Crystal Ore Veins Master Zhang knows)
+
+Master Zhang: Ores... You've been to the many ore veins nearby, haven't you?
+Master Zhang: I don't have anything new for you now. Perhaps you should try your luck later.
+ What are you selling?
+Master Zhang: Quality weapons made from the finest ore using time-honored techniques. Take your pick.
+ About Hanfeng's Ironmongers...
+Master Zhang: My dad left me this place when he retired. He lives in Qingce Village now.
+Master Zhang: When he left me the shop, he also left me with a word of advice — a solid business is founded on solid relationships.
+Master Zhang: Whenever I get laborers and miners coming in here for repairs, I never charge them for it. In return, I only ask that they keep me informed when they find any rare ore.
+Master Zhang: It's every ironmonger's dream to fashion a legendary weapon, the sharpest blade of them all... Liyue is the land of the Lord of Geo, so I figure this is where I'll have the best chance of finding the prize ore I'd need...
+Master Zhang: If I can get the edge over the competition right from the source, from the raw materials, I can push them out and really strengthen the Hanfeng name... Hehehe, so let me know if you find anything!
+ Goodbye.
+Master Zhang: Bye. Come back if ever need anything.
+
+Gallery[]
+Request icon
+Genius Invokation TCG[]
+Main article: Genius Invokation TCG
+Master Zhang
+Other Languages[]
+
+LanguageOfficial NameEnglishMaster ZhangChinese(Simplified)老章LǎozhāngChinese(Traditional)老章LǎozhāngJapanese章Shou‍[!][!]Assumed readingKorean장 씨Jang SsiSpanishMaestro ZhangFrenchMaître ZhangRussianМастер ЧжанMaster ChzhanThaiMaster ZhangVietnameseLão ZhangGermanHerr ZhangIndonesianTuan ZhangPortugueseMestre ZhangTurkishZhang UstaItalianMaestro Zhang
+Change History[]
+Released in Version 1.0[Edit History]Version 1.1
+Master Zhang can now inform the player about Mining Outcrops.
+
+Version 1.0
+
+Master Zhang was released.
+References[]
+
+↑ Archon Quest, Interlude Chapter, Act I - The Crane Returns on the Wind, Part 3: Bygones Times Like Dust Passing
+
+
+
+
+

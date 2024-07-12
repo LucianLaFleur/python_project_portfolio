@@ -1,0 +1,267 @@
+
+
+
+
+
+Flora
+Owner, Floral Whisper
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+								Family
+							
+
+
+
+								Voice Actors
+							
+
+
+
+
+
+Region
+Mondstadt
+
+
+Location
+Mondstadt
+
+
+Dialogue Reward
+ Vol. 1
+
+
+
+
+Sibling
+Chloris
+
+
+
+
+Japanese
+Aoto Hiroka (青戸浩香)[1]
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Flora is an open-world NPC in the City of Mondstadt. She is the owner of Floral Whisper, a flower shop.
+Following a certain dialogue branch for the first time gives the player  The Fox in the Dandelion Sea (I).
+
+Contents
+
+1 Shop
+2 Location
+3 Profile
+
+3.1 Appearance
+
+
+4 Quests and Events
+
+4.1 Story Quests
+4.2 World Quests
+4.3 Commissions
+4.4 Events
+
+
+5 Idle Quotes
+6 Dialogue
+
+6.1 Touch the Flowers
+
+
+7 Event Dialogue
+
+7.1 Invitation of Windblume and Windblume's Breath
+7.2 Iridescent Arataki Rockin' for Life Tour de Force of Awesomeness
+7.3 Of Ballads and Brews
+
+
+8 Character Mentions
+
+8.1 Character Stories
+
+
+9 Trivia
+10 Gallery
+
+10.1 Cameos
+
+
+11 Other Languages
+12 Change History
+13 References
+
+
+Shop[]
+ItemCostStockTotalCostRefreshes
+ Sweet Flower200102,000Every 3 Days
+ Windwheel Aster1,00055,000Every 3 Days
+ Cecilia1,00055,000Every 3 Days
+ Small Lamp Grass1,00055,000Every 3 Days
+ Calla Lily1,00055,000Every 3 Days
+Total cost for all items22,000 
+Location[]
+Flora's location (Daytime)Additional context
+Profile[]
+Flora is the younger sister of Chloris, a botanist who wanders around Windrise. Unlike her older sister, Flora is only interested in flowers. She has a Bloatty Floatty as an imaginary friend, which she calls "Mr. Floatty."
+
+Appearance[]
+Flora has short blonde hair with bright bluish-greenish eyes and wears a detailed pink and white dress.
+In the 3rd closed beta test, she has dark brown hair and dark brown eyes.
+
+Quests and Events[]
+Story QuestsCarmen Dei Chapter (Venti)Act I: Should You Be Trapped in a Windless LandA Child's SecretNoctua Chapter (Diluc)Act I: Darknight Hero's AlibiLegend of the Darknight HeroTempus Fugit Chapter (Lisa)Act I: Troublesome WorkTroublesome WorkWorld QuestsEquivalent ExchangeFlighty Flora... and FloraCommissionsFloral FreshFresh FloraEventsInvitation of Windblume (unique idle quotes and dialogue)Part I: Ode to Flower and CloudWindblume Research ReportWindblumes and SnowflakesIridescent Arataki Rockin' for Life Tour de Force of Awesomeness
+Idle Quotes[]
+
+ Dandelions?
+Media:VO Flora 01.ogg "Dandelions? Of course they're flowers!"
+ Well, if it's an injury...
+Media:VO Flora 02.ogg "Better see Barbara at the Cathedral if you're injured."
+
+During Invitation of Windblume and Windblume's Breath events
+
+ What are Windblumes?
+Media:VO Flora Invitation of Windblume 01.ogg "What are Windblumes? Ehe, they're dandelions, of course!"
+
+During Of Ballads and Brews event
+
+ A bountiful harvest...
+Media:VO Flora Of Ballads and Brews 01.ogg "Dandelions also symbolize a bountiful harvest."
+
+Dialogue[]
+
+Flora: Welcome to Floral Whisper. Do you need anything?
+ I'd like to buy some flowers.
+Flora: Certainly. We have a fine selection, whether you're looking to give a bouquet to someone or even do some gardening yourself.
+(Opens the Floral Whisper shop.)
+ About Stormterror...
+(After completing The Outlander Who Caught the Wind)
+Flora: I was honestly more frightened by the storm that surrounded Mondstadt than Stormterror.
+Flora: Everyone's been focused on the losses to people and property, but I'm still more concerned about the plants and flowers.
+Flora: I'll protect them, just like how Lord Barbatos protects us.
+(After completing A Long Shot)
+Flora: It's great that I don't have to worry about the flowers in my store being blown away by the wind.
+Flora: That said, the Dandelion Seeds have also been blown all across the region of Mondstadt by this storm. Who knows, perhaps they will bloom throughout the land.
+Flora: When I think about it like that, the storm doesn't seem so scary anymore, haha.
+ Tell me about your flowers.
+Flora: We carry a large variety of flowers. Are you looking for anything in particular?
+ Tell me about Dandelions.
+Flora: Dandelions are so very feathery. They are my personal favorite.
+Flora: The Acting Grand Master of the Knights is also known as the Dandelion Knight, as I recall.
+Flora: She probably learned the power of Anemo from the dandelions, hehe.
+ Why do you like Dandelions so much?
+Flora: Hehe, I wonder... Maybe it's because I've been reading The Fox in the Dandelion Sea.
+Flora: Here, take it. Maybe you'll like dandelions too once you finish reading it, hehe.
+(Obtain  The Fox in the Dandelion Sea (I))
+ Tell me about Sweet Flowers.
+Flora: Sweet Flowers, you say?
+Flora: They look nice, but most people just use them for cooking.
+Flora: If you see people having Sweet Flowers in their gardens...
+Flora: They are probably used to get sugar.
+ Tell me about Cecilias.
+Flora: Cecilias! You've got good taste.
+Flora: They grow in cold and windy places. Legend has it that they only bloom when it's quiet.
+Flora: If you wish to cultivate them...
+Flora: You'll probably have better luck with Mist Flowers!
+ Sorry for bothering you.
+Flora: You need to go?
+Flora: I'll tell you more about flowers next time if you like.
+
+Touch the Flowers[]
+After completing the World Quest Flighty Flora... and Flora, approaching the flowers at Floral Whisper prompts the option to Touch them. Doing so, however, results in a scolding from Flora during the daytime.
+
+
+Flora: Hey! Those flowers are for display only! If you want to buy flowers, come look over here.
+
+Event Dialogue[]
+Invitation of Windblume and Windblume's Breath[]
+
+Flora: Welcome to Floral Whisper. Are you looking to get someone a bouquet? It's the Windblume Festival, after all.
+ I'd like to buy some flowers.
+(Same as normal)
+ About the Windblume Festival...
+Flora: The Windblume Festival is an ancient tradition of Mondstadt's. A day of freedom and romance.
+Flora: When we speak of Windblume Festival tradition, I suppose it's about giving the "Windblume" in your heart to the person who's the most important to you, hehe.
+Flora: As to what flower the Windblume actually is, everyone's got their own opinions.
+Flora: Well, that's freedom for you, hehe.
+ Tell me about your flowers.
+(Same as normal)
+ I've got to go. / Sorry for bothering you.
+Flora: I hope you'll enjoy yourself during the Windblume festivities.
+
+Iridescent Arataki Rockin' for Life Tour de Force of Awesomeness[]
+
+ We'd like to invite you to attend this music festival.
+Flora: Is there a music event going on in the city? I'm only familiar with flowers, though, not music.
+Paimon: Nah, this one's taking place in Inazuma. And it's totally fine if you don't know much about music, you just need to enjoy it! If there's a tune you like, we could play it for you right now, y'know?
+Flora: Well... I do have something in mind. Its name escapes me, but I can hum the tune, at least. Will that do?
+ Sure, I'll give it a go.
+Flora: Nice, woohoo!
+(After performing)
+Flora: Ooh, you're great! This is even better than when Mr. Sayid plays it! He performed this one for us last Windblume Festival, saying that it was a traditional song from Sumeru.
+Flora: Donna said it sounded terrible compared to Master Diluc's playing, though.
+Flora: Well, I've made up my mind. The flowers need care every day, and Inazuma's pretty far away, so I'm afraid I can't go.
+Flora: Thanks for the music, though. It was lovely. On that note, I'll offer you a special price if you need flowers for your festival!
+(Talk to Flora again, optional)
+ How was that?
+(Same as After performing)
+
+Of Ballads and Brews[]
+
+Flora: Welcome to Floral Whisper? Do you need anything?
+Flora: Recently, everyone asked what flower best represents the happiness of harvest. Hehe, I think Dandelion is suitable.
+
+Character Mentions[]
+Character StoriesCharacterStoriesLisaCharacter Story 3
+Trivia[]
+Flora is the Roman goddess of spring and flowers, as well as the goddess of youth. Her Greek counterpart is Chloris, whom Flora's sister shares the same name with.
+Flora was originally modeled as an adult, and Ulfr's previous dialogue had him wishing to confess his love to Flora someday on a dandelion boat, a piece of dialogue that was retained for a period of time even after Flora's model was changed to that of a child's. This was eventually updated, and now his new dialogue has him seeing her as his little sister which he never had.
+Flora is mentioned in the description of the following Furnishing: "Crystalfly's Perch"
+Gallery[]
+Pre-release appearance during the 3rd Closed Beta TestFlora's original appearance, as seen in Teyvat Travel Highlights: First Visit to Mondstadt
+Cameos[]
+Collected Miscellany - "Mona- Stellaris Phantasm" - Genshin Impact
+Other Languages[]
+
+LanguageOfficial NameEnglishFloraChinese(Simplified)芙萝拉FúluólāChinese(Traditional)芙蘿拉FúluólāJapaneseフローラFurooraKorean플로라PeulloraSpanishFloraFrenchFloraRussianФлораFloraThaiFloraVietnameseFloraGermanFloraIndonesianFloraPortugueseFloraTurkishFloraItalianFlora
+Change History[]
+Released in Version 1.0[Create New History]
+References[]
+
+↑ Twitter: JP VA Self Announcement
+
+
+
+
+

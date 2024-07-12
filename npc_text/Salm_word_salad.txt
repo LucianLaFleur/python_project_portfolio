@@ -1,0 +1,100 @@
+
+
+
+
+
+Salm
+Sumpter Beast Keeper
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Sumeru
+
+
+Location
+Sumeru
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Salm is an open-world NPC that can be found in Port Ormos, Sumeru, training Kutta to bring back Sumpter Beasts which have escaped.
+
+Contents
+
+1 Location
+2 Idle Quotes
+3 Thoughts
+4 Dialogue
+5 Other Languages
+6 Change History
+
+
+Location[]
+Salm's locationAdditional context
+Idle Quotes[]
+
+ Do you understand?
+Media:VO Salm 01.ogg "If the Sumpter Beasts escape, you must bring them back. Do you understand?"
+
+Thoughts[]
+Salm's thoughts can be accessed by using Nahida's Elemental Skill, All Schemes to Know.
+
+
+Media:VO Salm All Schemes to Know 01.ogg Salm: (The life of a dog is simple. Just run circles around Sumpter Beasts and you'll get fed.)
+
+Dialogue[]
+
+Salm: Ah, let's try one more time... Kutta, listen to me! Sit!
+Kutta: (Sits.)
+Salm: Remember what a Sumpter Beast is? A large, rotund creature.
+Kutta: Woof!
+Salm: And do you remember how many Sumpter Beasts we have?
+Kutta: Woof, woof, woof, woof, woof... woof?
+Salm: Wrong again! I told you to include the cubs that were born last month.
+Kutta: (Wags tail.)
+Salm: It's no use wagging your tail at me! Wrong answers will get you no treats.
+Kutta: *whimper*
+Salm: ...Okay, okay, at least there's been an improvement since the last time. I'll give you a little.
+Salm: I envy you sometimes. Your only job every day is running around the Sumpter Beasts. Life is so easy for you...
+Salm: Unlike mine. I work day and night to keep these Sumpter Beasts, and whatever profit I manage to make barely covers the loss from those that run away.
+Kutta: ?
+
+Other Languages[]
+
+LanguageOfficial NameEnglishSalmChinese(Simplified)萨尔姆Sà'ěrmǔChinese(Traditional)薩爾姆Sà'ěrmǔJapaneseサルムSarumuKorean살람SallamSpanishSalmFrenchSalmRussianСальмSal'mThaiSalmVietnameseSalmGermanSalmIndonesianSalmPortugueseSalmTurkishSalmItalianSalm
+Change History[]
+Released in Version 3.0[Create New History]
+
+
+

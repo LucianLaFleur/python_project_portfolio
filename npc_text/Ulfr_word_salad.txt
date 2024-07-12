@@ -1,0 +1,153 @@
+
+
+
+
+
+Ulfr
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Mondstadt
+
+
+Location
+Mondstadt
+
+
+Dialogue Reward
+ 5
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Ulfr is an open-world NPC in Mondstadt. He can be found standing by the shores of Cider Lake.
+In his dialogue with the Traveler, he tells them that he wants to build a dandelion boat for Flora.
+Following a certain dialogue branch for the first time gives the player five Crabs.
+
+Contents
+
+1 Location
+2 Profile
+
+2.1 Appearance
+
+
+3 Idle Quotes
+4 Dialogue
+5 Trivia
+6 Other Languages
+7 Change History
+
+
+Location[]
+Ulfr's location (Daytime)Additional context
+Profile[]
+(To be added.)
+
+Appearance[]
+(To be added.)
+
+Idle Quotes[]
+
+ Sunk again...
+Media:VO Ulfr 01.ogg "What? Agh... How has it sunk even further?"
+
+Dialogue[]
+
+Ulfr: *grunt* What do you want? Are you here to jeer and ridicule me too?
+ ...Whoa, I haven't said anything yet...
+Ulfr: Well, what is it then? I highly doubt you're here to help me build my boat.
+Ulfr: Anyway, whatever it is I'm not in the mood for it now. *sigh*
+ ...You're building a boat?
+Ulfr: Yes. Just a little one, so me and Flora can go boating on the lake.
+Ulfr: I thought that with Flora being so light and dainty, no boat would be fit for her unless I got rid of the keel, which is heavy and unwieldy.
+Ulfr: I also figured I'd build the hull from her favorite thing in the world — dandelions!
+Ulfr: ...What? You want to see the boat?
+Ulfr: My first attempt is on the lake bed over there, and the second one is on the lake bed right here.
+Ulfr: I just don't understand why they won't float.
+ So, about Flora...
+Ulfr: You must want to know why I'm so nice to Flora?
+Ulfr: Well... it's like this. My parents separated when I was very young, and I spent much of my childhood on my own.
+Ulfr: I sometimes imagined what it would be like to have a sibling, and the way I imagined them is exactly how Flora is: light-hearted, bubbly, and carefree...
+Ulfr: So, I just want to treat her like I would my own sibling, you know, do nice things for her.
+Ulfr: It sounds stupid, I know, but I always wanted to go boating together as a family. My old man practically laughs till he cries whenever I mention it to him, though... Tsk, that old cynic...
+Ulfr: But, I'm sure that Flora wouldn't laugh at me like that.
+ Hehe, uh-huh! You're probably right.
+Ulfr: Hey, don't do impressions of Flora! That's disrespectful!
+ Seems mildly self-indulgent of you.
+Ulfr: Right, exactly...
+Ulfr: Wait, what? Self-indulgent? No, no, it's not like that!
+Ulfr: You have to have some degree of admiration for your own goals, don't you? Otherwise, why would you pursue them?
+ ...Good luck to you.
+Ulfr: Someday, I'll invite Flora to board a dandelion boat that I made myself... It's just a shame that they keep sinking.
+Ulfr: ...But every cloud has a silver lining. My swimming ability has improved greatly as a result!
+Ulfr: Last time, I even had several crabs grab onto my eyelids. But I still managed to swim back to shore, even though I couldn't see.
+Ulfr: Oh, and several more ended up in my pockets too... Here, you can have them. Now, I have a boat to build!
+(Obtain  Crab ×5)
+ I'll leave you to it...
+Ulfr: Hmph. Bye.
+
+Trivia[]
+In his old dialogue, Ulfr wished to confess his love to Flora on board a dandelion boat one day. This was most likely due to Flora initially using an adult NPC model in the Closed Beta Test version of the game.
+Other Languages[]
+
+LanguageOfficial NameEnglishUlfrChinese(Simplified)乌尔法Wū'ěrfǎChinese(Traditional)烏爾法Wū'ěrfǎJapaneseウルファUrufaKorean울프르UlpeureuSpanishUlfrFrenchUlfrRussianУльфрUl'frThaiUlfrVietnameseUlfrGermanUlfrIndonesianUlfrPortugueseUlfatTurkishUlfrItalianUlfr
+Change History[]
+Released in Version 1.0[Edit History]Version 1.6
+One line of Traveler's dialogue was revised.
+Old: Hehe, it's as you say.New: Hehe, uh-huh! You're probably right.
+Ulfr's dialogue was revised.
+All instances of "Miss Flora" were changed to "Flora."
+A few lines of dialogue were revised.
+Old: Ah, I guess you'd like to know why I'm so concerned about her?New: You must want to know why I'm so nice to Flora?
+Old: Well, to tell you the truth, my parents separated when I was very young, so I always played by myself growing up.New: Well... it's like this. My parents separated when I was very young, and I spent much of my childhood on my own.
+Old: So I thought to myself: if I had a little sister, she would definitely be light-hearted and bubbly, just like Flora...New: I sometimes imagined what it would be like to have a sibling, and the way I imagined them is exactly how Flora is: light-hearted, bubbly, and carefree...
+Old: I hope that I can be kind to her like I would my very own sister.New: So, I just want to treat her like I would my own sibling, you know, do nice things for her.
+Old: It sounds stupid, I know, but going boating together with family has always been my dream. My father practically laughs till he cries whenever I mention it to him, though. Why, that old man...New: It sounds stupid, I know, but I always wanted to go boating together as a family. My old man practically laughs till he cries whenever I mention it to him, though... Tsk, that old cynic...
+Old: Still, I'm sure that Miss Flora wouldn't laugh at me.New: But, I'm sure that Flora wouldn't laugh at me like that.
+Old: Hey, why are you suddenly copying the way she talks? That's rude!New: Hey, don't do impressions of Flora! That's disrespectful!
+Old: I mean, if your goal doesn't move you, why would you even pursue it, right?New: You have to have some degree of admiration for your own goals, don't you? Otherwise, why would you pursue them?
+
+Version 1.5.1
+
+Ulfr's dialogue was revised.
+The "So, about Flora..." dialogue branch was added.
+One line of dialogue was revised:Old: One day, I will confess my love to Flora on board a dandelion boat... It's such a shame that my last few attempts have all sunk on their maiden voyages...New: Someday, I'll invite Flora to board a dandelion boat that I made myself... It's just a shame that they keep sinking.
+
+Version 1.0
+
+Ulfr was released.
+
+
+

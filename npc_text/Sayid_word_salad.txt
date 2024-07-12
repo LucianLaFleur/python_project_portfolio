@@ -1,0 +1,184 @@
+
+
+
+
+
+Sayid
+Traveling Scholar
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Sumeru
+
+
+Location
+Mondstadt
+
+
+Dialogue Reward
+ Vol. 2
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Sayid is an open-world NPC in Mondstadt. During daytime, he can be found observing the devotees praying at the God Statue in front of the Favonius Cathedral. During nighttime, he can be found consulting books in Mondstadt's Library.
+Following a certain daytime dialogue branch for the first time gives the player The Legend of Vennessa Vol. II.
+
+Contents
+
+1 Location
+2 Profile
+
+2.1 Appearance
+
+
+3 Quests and Events
+
+3.1 Events
+
+
+4 Idle Quotes
+5 Dialogue
+
+5.1 Daytime
+5.2 Nighttime
+
+
+6 Event Dialogue
+
+6.1 Of Ballad and Brews
+6.2 Windblume's Breath
+
+
+7 Trivia
+8 Other Languages
+9 Change History
+
+
+Location[]
+Sayid's location (Daytime)Additional context (Daytime)Sayid's location (Nighttime)Additional context (Nighttime)
+Profile[]
+Sayid is a scholar from Sumeru. Having been living for a while in Mondstadt, he's now reluctant to leave "The City of Freedom."
+
+Appearance[]
+(To be added.)
+
+Quests and Events[]
+EventsInvitation of WindblumeWindblume Research ReportMidsummer Island AdventureThe Other Side of Isle and Sea
+Idle Quotes[]
+
+(Daytime)
+ Songs of wisdom...
+Media:VO Sayid 01.ogg "The folk songs here are all so wise!"
+(Nighttime)
+ ...
+Media:VO Sayid 02.ogg "Seeds brought on the wind will sprout in due time..."
+
+During Of Ballads and Brews event
+
+(Daytime)
+ Weinlesefest songs...
+Media:VO Sayid Of Ballads and Brews 01.ogg "Hmm, the songs at Weinlesefest seem to have a deeper meaning..."
+
+During Windblume's Breath event
+
+(Daytime)
+ Seeing things...
+Media:VO Sayid Windblume's Breath 01.ogg "Am I seeing things? Was that the General Mahamatra?"
+
+Dialogue[]
+Daytime[]
+
+Sayid: Hello, my friend. You want to talk?
+ About Stormterror...
+(After completing A Long Shot)
+Sayid: Stormterror's story... Or should I say, Dvalin's, is a topic with great research value.
+Sayid: I never expected to encounter such a cataclysmic event on my trip to Mondstadt. For me, it's quite fortunate.
+Sayid: Anyway, I will record everything I have seen and heard. I should like for my compatriots in Sumeru to learn of these historical events...
+ Who are you?
+Sayid: Allow me to introduce myself. My name is Sayid, a visiting scholar from Sumeru.
+Sayid: Mondstadt is a pleasant place. I have been here for some time now, and I am reluctant to leave... It has definitely brought out my more, ahem, leisurely side...
+Sayid: In all seriousness though, a leisurely lifestyle just means doing whatever makes you happy, doesn't it? A fitting ethos for the City of Freedom...
+Sayid: And it seems that I've become a total convert without anyone having to preach it from the rooftops... Hah. The remarkable wisdom of the gods.
+Sayid: Anemo Archon Barbatos, my respect to you.
+ Tell me about Sumeru.
+Sayid: It's my homeland, though I haven't been back in a long while.
+Sayid: Sumeru is known all over the world as a center of learning. As a traveler, I'm sure you must have heard of the Sumeru Akademiya?
+Sayid: Ms. Lisa of the Knights of Favonius studied there. My teacher mentioned her once — allegedly, Lisa was the best student they'd seen in two hundred years...
+Sayid: I am exceptionally curious as to the real reason that she wound up working here as a librarian...
+ Made any discoveries?
+Sayid: I was reading up on some of Mondstadt's historical myths previously. Fortunately, the library has a wealth of resources for reference.
+Sayid: Of all the myths and legends in Mondstadt, the one I'm most fascinated by has to be The Legend of Vennessa.
+Sayid: The spirit of freedom prized by Mondstadt must have been modeled after her courage in standing up to injustice and oppressive rulers. Even as an outsider, I am deeply moved.
+Sayid: My focus has shifted to the songs of Mondstadt of late, so I'm done with this book now. Just remember to return it to the library once you've finished reading it...
+(Obtain  The Legend of Vennessa (II))
+ Goodbye.
+Sayid: Farewell, may you forever grow in wisdom.
+
+Nighttime[]
+
+Sayid: ...Oh, my apologies. Did my musings disturb you?
+ What are you looking at?
+Sayid: I'm currently reading the works of some bards.
+Sayid: They weave their ideas, thoughts, and truths into romantic poetry, not at all like the unwieldy tomes of Sumeru...
+Sayid: Perhaps this romanticism is an expression of great wisdom.
+Sayid: Yes, this is excellent. Excellent material, indeed.
+ Farewell.
+Sayid: Farewell. May you grow in wisdom.
+
+Event Dialogue[]
+Of Ballad and Brews[]
+
+Sayid: Hello friend. Have you heard of the ballad of the Windcoming Day?
+Sayid: The song of this festival is not only beautiful, but also seems to have a deeper meaning.
+Sayid: Like the secret to a good wine, it also contains the meaning of life...Mmm, that's good material.
+
+Windblume's Breath[]
+
+Sayid: Huh. Am I seeing things, or was that the General Mahamatra I just saw walking around Mondstadt...
+Sayid:...I must be seeing things. The General Mahamatra is always busy. How's he supposed to find the time to wander around Mondstadt!
+Sayid: Must be because I've been reading too much lately, triggering flashbacks to all the nerve-wracking research I had to do at the Akademiya...
+
+Trivia[]
+His nighttime idle quote is a reference to the phrase written on the sundials examined during the World Quest Time and Wind: Seeds of stories, brought by the wind and cultivated by time. Stories brought on the wind will bloom into legends in due time. However, his version omits the references to the God of Time.
+Sayid (Arabic: سيد Syid) is a name of Arabian origin that refers to descendants of the Islamic prophet, Muhammad. It also means "Lord" or "Master".
+Sayid is seen wearing traditional Arabian-styled clothing.
+Other Languages[]
+
+LanguageOfficial NameEnglishSayidChinese(Simplified)萨义德SàyìdéChinese(Traditional)薩伊德SàyīdéJapaneseサイードSaiidoKorean사이드Sa'ideuSpanishSayidFrenchSayidRussianСаидSaidThaiSayidVietnameseSayidGermanSayidIndonesianSayidPortugueseSayidTurkishSayidItalianSayid
+Change History[]
+Released in Version 1.0[Create New History]
+
+
+

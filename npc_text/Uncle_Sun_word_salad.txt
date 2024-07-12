@@ -1,0 +1,174 @@
+
+
+
+
+
+Uncle Sun
+Fishmonger
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Liyue
+
+
+Location
+Liyue
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Uncle Sun  (Chinese: 老孙 Lǎosūn) is an open-world NPC in Liyue Harbor He can be found at the dockside fish market near the southeastern part of Liyue Harbor during the day (06:00 – 19:00). While his shop is open, he sells fish and other seafood, most notably Crabs. His stock refreshes daily.
+At night (19:00 – 06:00), he closes his shop and moves from the harbor to Third-Round Knockout, where he can be found sitting next to Uncle Gao.
+
+Contents
+
+1 Shop
+2 Location
+3 Profile
+
+3.1 Appearance
+
+
+4 Quests and Events
+
+4.1 Archon Quests
+4.2 Story Quests
+4.3 Events
+
+
+5 Idle Quotes
+6 Dialogue
+
+6.1 Daytime
+6.2 Nighttime
+
+
+7 Event Dialogue
+
+7.1 Fleeting Colors in Flight
+
+
+8 Trivia
+9 Other Languages
+10 Change History
+
+
+Shop[]
+ItemCostStockTotalCostRefreshes
+ Fish240102,400Daily
+ Crab240102,400Daily
+ Shrimp Meat150507,500Daily
+Total cost for all items12,300 
+Location[]
+Uncle Sun's location (Daytime)Additional context (Daytime)Uncle Sun's location (Nighttime)Additional context (Nighttime)
+Profile[]
+Uncle Sun's fish are a better deal than the neighboring Uncle Gao's — or, at least, that's what the two want you to think. In reality, while found drinking together at Third-Round Knockout at night, they reveal they are in cahoots. By deliberately setting a higher price for his fish, Gao convinces people to buy from Sun, thinking his fish is a better deal. The two then split the profits.
+He also converses with Uncle Gao during the Archon Quest "The Fond Farewell". They discuss Osial's resurrection and attack on Liyue Harbor, and speculate that the one behind it was also involved in Rex Lapis' assassination. They then listen as the Millelith give the Liyue Qixing's official story behind the matter.
+
+Appearance[]
+(To be added.)
+
+Quests and Events[]
+Archon QuestsChapter IAct III: A New Star ApproachesThe Fond FarewellStory QuestsUmbrabilis Orchis Chapter (Yelan)Act I: Calculated GambitCandidature AnalysisEventsDuel! The Summoners' Summit!Round 2: Roll! A Sea of New Acquaintances
+Idle Quotes[]
+
+(Daytime)
+ ...Super-fresh fish!
+Media:VO Uncle Sun 01.ogg "Feast your eyes on these super-fresh fish!"
+(Nighttime)
+ A toast...
+Media:VO Uncle Sun 02.ogg "A toast... to our success!"
+
+During Fleeting Colors in Flight
+
+(Daytime)
+ Lantern Rite limited-edition...
+Media:VO Uncle Sun Lantern Rite 01.ogg "Hello there! How about some limited edition, Lantern Rite, extra-fresh fish?"
+
+Dialogue[]
+Daytime[]
+
+Uncle Sun: Ah, another patron! Would you like to purchase some fish?
+Uncle Sun: I promise that all my fish are fre—... No, super fresh!
+ Buy some super fresh fish.
+Uncle Sun: Choose whichever you like, they're all super fresh.
+(Opens Shop menu)
+ What do you mean by "super fresh?"
+Uncle Sun: The only fish that I sell here are "super fresh" fish.
+Uncle Sun: It might not sound like there's much difference between fresh and super fresh, but they couldn't be more different. In terms of size, or quality, you name it. They're worlds apart!
+Uncle Sun: And I can guarantee one thing for sure: my prices are better than the opposite stand over there.
+ The opposite stand...
+Uncle Sun: *sigh* You see, not long ago we were both charging higher prices, but my fish were selling better because they were more fresh.
+Uncle Sun: Then, Uncle Gao started lowering his prices, probably just jealous of all the business I was getting. Before I knew it, I was stuck in a price war with him.
+Uncle Sun: So in order to provide fresh fish to everyone at a reasonable price, I decided to lower my prices to just breaking even...
+Uncle Sun: *sigh* I don't know how long I can keep my prices so low. I can only count on the support of all my local customers at this point.
+ Thank you, goodbye.
+Uncle Sun: Take care, now. And thanks for your loyal support, haha.
+
+Nighttime[]
+
+Uncle Gao: How was business today, brother?
+Uncle Sun: Here, let's just say this is a token of my appreciation, all thanks to your plan!
+Uncle Gao: Haw-haw, they won't suspect a thing. This is all going just as I planned it would.
+Uncle Sun: That's my Uncle Gao! There's no way anyone would ever remotely suspect that we're in cahoots. As soon as they compare our prices, they'll surely think that I'm the only one getting any business.
+Uncle Gao: Hahaha! Come now, Uncle Sun! Bottoms up!
+Uncle Sun: Here, let me fill that up for ya!
+Uncle Gao: Aye! Tonight will be a night that we never remember, hahaha!
+Uncle Sun: Enough talking, now drink up!
+
+Event Dialogue[]
+Fleeting Colors in Flight[]
+
+Uncle Sun: Ah, another patron! Would you like to purchase some fish?
+Uncle Sun: Things are different during Lantern Rite, let me tell you. Everything's super fresh! Lantern Rite-special-super-fresh, in fact!
+Uncle Sun: It is the festive season, after all! People buy more, we import more, and the fish are all the fresher for it. Wouldn't you agree?
+(Continue non-event dialogue)
+
+Trivia[]
+Gao and Sun's trick is known in real-life as price anchoring.
+On the Chihu Rock Bulletin Board, he and Uncle Gao post advertisements as "Fresh Fish Stall Ad" and "Fresher Fish Stall Ad."
+Other Languages[]
+
+LanguageOfficial NameEnglishUncle SunChinese(Simplified)老孙Lǎo SūnChinese(Traditional)老孫Lǎo SūnJapanese孫Son‍[!][!]Assumed readingKorean손손孫 씨Son-ssiSpanishLao SunFrenchLao SunRussianСтарина СуньStarina Sun'Thaiลุง SunLung SunVietnameseLão SunGermanLao SunIndonesianPaman SunPortugueseSunTurkishSun AmcaItalianLao Sun
+Change History[]
+Released in Version 1.0[Edit History]Version 1.2
+Fish and Crab stock increased to 10 (from 5).
+Shrimp Meat stock increased to 50 (from 5).
+
+Version 1.0
+
+Uncle Sun and his shop were released.
+
+
+

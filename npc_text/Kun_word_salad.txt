@@ -1,0 +1,178 @@
+
+
+
+
+
+Kun
+Millelith
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Liyue
+
+
+Location
+Liyue
+
+
+Affil­i­a­tion
+Millelith
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Kun  (Chinese: 大坤 Dà Kūn) is a Millelith guard patrolling the area below Feiyun Slope in Liyue Harbor (the area close to the northern Teleport Waypoint).
+
+Contents
+
+1 Location
+2 Profile
+
+2.1 Appearance
+
+
+3 Quests and Events
+
+3.1 World Quests
+
+
+4 Idle Quotes
+5 Dialogue
+6 Event Dialogue
+
+6.1 Lantern Rite
+6.2 Fleeting Colors in Flight
+6.3 The Exquisite Night Chimes
+6.4 Vibrant Harriers Aloft in Spring Breeze
+
+
+7 Other Languages
+8 Change History
+
+
+Location[]
+He can be found during the daytime patrolling along the red line (pictured below). Kun's locationAdditional context
+Profile[]
+He is one of Xinyan's fans — a "friend of rock" — and secretly helps her find places to perform.
+
+Appearance[]
+(To be added.)
+
+Quests and Events[]
+World QuestsFishing For JadeReturn of the Jade Chamber?
+Idle Quotes[]
+
+ Why'd they...
+Media:VO Kun 01.ogg "*sigh* Why'd they have to give me that transfer?"
+
+During Lantern Rite
+
+ Isn't this lively?
+Media:VO Kun Lantern Rite 01.ogg "*chuckles* Now isn't this lively!"
+
+During Fleeting Colors in Flight (After Completion of The Stars Inscribe the Year's Wishes)
+
+ Bravo, Lady Keqing...
+Media:VO Kun Lantern Rite 02.ogg "Lady Keqing really outdid herself with that excellent fireworks display."
+
+During The Exquisite Night Chimes
+
+ So lively!
+Media:VO Kun Lantern Rite 03.ogg "Wow, so lively! This is how a festival should be!"
+
+During Vibrant Harriers Aloft in Spring Breeze
+
+ How lively!
+Media:VO Kun Lantern Rite 04.ogg "Wow, so lively! This is how a festival should be!"
+
+Dialogue[]
+
+Kun: Greetings. Can I help you?
+ Who are you?
+Kun: Don't recognize me? I just transferred here from the south wharf.
+Kun: I'm going to miss my time there. I always found watching the boats going in and out the harbor quite awe-inspiring somehow.
+Kun: Not so much the cargo ships and fishing boats. I mean more the ones that belong to the Crux Fleet. I know they are involved in some shady stuff, but...
+Kun: ...None of that's any of my business really. If everyone above me's happy enough to let it slide, it's hardly my place to be critical.
+ So, any sights worth seeing in Liyue Harbor?
+Kun: Oh, are you a traveler from another nation? Then I suggest that you must go and see one of Xinyan's performances.
+Kun: Every time she performs, the ad-hoc stage she uses will burst into flames when the atmosphere reaches its peak!
+Kun: Well, this did attract the attention of the higher-ups, and they put a stop to her performances in order to avoid any harm coming to members of the public.
+Kun: But as much as I'm a Millelith, I'm also a loyal fan of hers. So I always try to sneak her some intel, so she can stage performances in the blind spots of our patrols.
+Kun: Ahem. Don't tell on me to the sergeant! Her music is a great source of joy in my life. To let it be snuffed out would be such a shame!
+ See you.
+Kun: While the Millelith stands guard, evil shall never prevail! The Millelith is proud to be at your service.
+
+Event Dialogue[]
+Lantern Rite[]
+
+Kun: Hey, this is the big day! The annual Lantern Rite is finally here!
+Kun: All of Liyue Harbor is already bustling with excitement around us. It's not often that you'll see the city in such a festive state.
+Kun: ...But when it comes to Lantern Rite, the Mingxiao Lantern is the moment everyone's waiting for.
+Kun: On the final day of the Lantern Rite, they'll release the Mingxiao Lantern, built by the efforts of all the people of Liyue, and the lantern will slowly ascend into the night sky. It'll be a moment you won't want to miss.
+Kun: But I needn't say more. Take a walk around and take in all the festivities for yourself.
+
+Fleeting Colors in Flight[]
+
+(After completing The Stars Inscribe the Year's Wishes)
+Kun: Hello there, Traveler. I guess you're here to celebrate the Lantern Rite?
+Kun: Well, what do you think? Quite the lively festival, wasn't it? I mean, especially the fireworks show that Lady Keging organized. Ah, that was one for the history books for sure.
+Kun: I hope you can enjoy yourself to the fullest. If you need anything, just come to me!
+(Continue non-event dialogue)
+
+The Exquisite Night Chimes[]
+
+(After completing A Thousand Miles for an Enigmatic Tune)
+Kun: Hey, this is the big day! The annual Lantern Rite is finally here!
+Kun: You see, seeing all of Liyue Harbor this lively is quite a rare sight.
+Kun: And for the finale of this year's Lantern Rite, they'll be holding a musical performance!
+Kun: It's also said to have something to do with Fontaine's renowned Iridescence Tour!
+Kun: I heard that they haven't done a show in a while, so this one can't be missed!
+(Continue non-event dialogue)
+
+Vibrant Harriers Aloft in Spring Breeze[]
+
+Kun: Hey, this is the big day! The annual Lantern Rite is finally here!
+Kun: You see, seeing all of Liyue Harbor this lively is quite a rare sight.
+Kun: If it wasn't for the fact that I need to stick to my post, I'd have bought a kite to fly already.
+Kun: I mean, hearing them talk, you'd know that with that new mechanical propulsion thingamabob, any kite can fly with ease!
+Kun: ...Hmm. Does that mean that I could fly a kite while working?
+
+Other Languages[]
+
+LanguageOfficial NameEnglishKunChinese(Simplified)大坤Dà KūnChinese(Traditional)大坤Dà KūnJapanese大坤Taikon‍[!][!]Assumed readingKorean대대大건DaegeonSpanishKunFrenchKunRussianБольшой КуньBol'shoy Kun'ThaiKunVietnameseDakunGermanKunIndonesianKunPortugueseKunTurkishKunItalianKun
+Change History[]
+Released in Version 1.0[Create New History]
+
+
+

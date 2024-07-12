@@ -1,0 +1,148 @@
+
+
+
+
+
+Qishan
+Tavern Hostess
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+								Voice Actors
+							
+
+
+
+
+
+Regions
+Liyue Sumeru 
+
+
+Location
+Sumeru
+
+
+
+
+English
+Kristen McGuire[1]
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Qishan (Chinese: 绮珊 Qǐshān) is an open-world NPC located in Sumeru City, Sumeru. Originally hailing from Liyue Harbor, she is working part-time as the daytime hostess of Lambad's Tavern while studying to pass the Sumeru Akademiya entrance exam. During the day, she can be found standing outside the tavern and at night, she is conversing with Rafiq about shipbuilding at the docks.
+
+Contents
+
+1 Location
+2 Quests and Events
+
+2.1 Archon Quests
+2.2 Commissions
+
+
+3 Idle Quotes
+4 Thoughts
+5 Dialogue
+
+5.1 Daytime
+5.2 Nighttime
+
+
+6 Trivia
+7 Other Languages
+8 Change History
+9 References
+
+
+Location[]
+Qishan's location (Daytime)Additional contextQishan's location (Nighttime)Additional context
+Quests and Events[]
+Archon QuestsChapter IIIAct III: Dreams, Emptiness, DeceptionLike a Triumphant HeroCommissionsProblem Conversion: Loading CapacityProblem Conversion: The Underpinning FactorProblem Conversion: Theory Reliability
+Idle Quotes[]
+
+(Daytime)
+ A wonderful day...
+Media:VO Qishan 01.ogg "Welcome! I hope you'll have a wonderful day."
+(Nighttime)
+ Structure of the hull...
+Media:VO Qishan 02.ogg "But wouldn't that affect the structure of the hull?"
+
+Thoughts[]
+Qishan's thoughts can be accessed by using Nahida's Elemental Skill, All Schemes to Know.
+
+
+(Daytime)
+Media:VO Qishan All Schemes to Know 01.ogg Qishan: (About that topic brought up the other night... Ahh, I can't space out. I can't let anything affect my work.)
+(Nighttime)
+Media:VO Qishan All Schemes to Know 02.ogg Qishan: (I hope my theory will turn out to be true in practice.)
+
+Dialogue[]
+Daytime[]
+
+Qishan: Welcome, I hope you'll have a wonderful day!
+ You're not from around here, are you?
+Qishan: You have a sharp eye. I'm from Liyue, and currently working here part-time while I prepare for an exam.
+Qishan: Ever since I was a kid, I've loved watching the ships come in and out of Liyue Harbor and seeing how they dock and load and unload their cargo...
+Qishan: Over time, I grew fascinated with all sorts of ships. I'm hoping I can go to the Akademiya for further technical training.
+Qishan: When I'm not working, I'll discuss questions I have about ships with the researches and students I've met at work.
+Qishan: At first, I felt bad about bothering them during their free time. I didn't realize how much the Akademiya students enjoyed talking with me!
+Qishan: There's an old expression in Liyue that says it best: Where there's a will, there's a way. I'll definitely pass the Akademiya exam!
+ See you.
+Qishan: See ya later!
+
+Nighttime[]
+
+Rafiq: If only we could find a way to increase the cabin capacity...
+Qishan: Wouldn't that affect the ship's hull though?
+Qishan: At least, simply changing the material wouldn't cut it.
+Rafiq: But based on my calculations, if this cabin here could be opened up to the one next door...
+Rafiq: But you said that wouldn't work, so maybe it really isn't possible...
+Rafiq: Speaking of which, does everyone in Liyue know as much about ships as you do, Qishan?
+Qishan: Ahem... Not necessarily.
+Qishan: After all, we have people working in all sorts of industries in Liyue.
+
+Trivia[]
+Given Qishan's pronounced interest in shipbuilding, it may be assumed that she is aiming to enter Kshahrewar, as it is the Darshan most focused on mechanics and technology.
+Other Languages[]
+
+LanguageOfficial NameEnglishQishanChinese(Simplified)绮珊QǐshānChinese(Traditional)綺珊QǐshānJapanese綺珊KisanKorean기란GiranSpanishChishanFrenchQishanRussianЦи ШаньTsi Shan'ThaiQishanVietnameseQishanGermanQishanIndonesianQishanPortugueseQishanTurkishQishanItalianQishan
+Change History[]
+Released in Version 3.0[Create New History]
+References[]
+
+↑ Twitter: EN VA Self Announcement (Archived)
+
+
+
+
+

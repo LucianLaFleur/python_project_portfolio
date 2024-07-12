@@ -1,0 +1,77 @@
+
+
+
+This article is about the Sumeru NPCs. For other uses, see Guard (Disambiguation).
+
+
+Guard
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Sumeru
+
+
+Location
+Sumeru
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Quest-Exclusive NPCs 
+
+
+
+
+Guards are quest-exclusive NPCs located in Sumeru City, Sumeru that appear in the Archon Quest The Coming of the Sabzeruz Festival in Chapter III: Act II - The Morn a Thousand Roses Brings. They will stop the player from leaving Sumeru City during the act.
+
+Contents
+
+1 Quests and Events
+
+1.1 Archon Quests
+
+
+2 Dialogue
+3 Trivia
+4 Other Languages
+5 Change History
+
+
+Quests and Events[]
+Archon QuestsChapter IIIAct II: The Morn a Thousand Roses BringsThe Coming of the Sabzeruz Festival
+Dialogue[]
+
+Guard: Hey! Stop right there! No one is allowed to enter or leave Sumeru City right now. Go away!
+Paimon: Whoa... Ugh, okay.
+
+Trivia[]
+Attempting to teleport away or bypass the guards will give the warning "Note that leaving this area will affect your current story experience. This may affect your current quest progress." After confirming, the story progress is rolled back and the player has to restart the relevant quest.
+Other Languages[]
+
+LanguageOfficial NameEnglishGuardChinese(Simplified)卫兵WèibīngChinese(Traditional)衛兵WèibīngJapanese衛兵EiheiKorean경비병GyeongbibyeongSpanishGuardiaFrenchGardeRussianСтражникStrazhnikThaiทหารยามThahan YamVietnameseVệ BinhGermanWacheIndonesianPenjagaPortugueseGuardTurkishMuhafızItalianGuardia
+Change History[]
+Released in Version 3.0[Create New History]
+
+
+

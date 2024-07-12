@@ -1,0 +1,150 @@
+
+
+
+
+
+Sisi
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Liyue
+
+
+Location
+Liyue
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Sisi is an open-world NPC in Liyue Harbor. When approached, she will assume the Traveler is attempting to romance her, and declines on the note that she is waiting for her lover, sailor Chaoxi, to return to the harbor. A copy of her message on her longing can be found in the Chihu Rock Bulletin Board.
+
+Contents
+
+1 Location
+2 Profile
+
+2.1 Relationship with Chaoxi
+2.2 Appearance
+
+
+3 Quests and Events
+
+3.1 World Quests
+3.2 Commissions
+
+
+4 Idle Quotes
+5 Dialogue
+
+5.1 Daytime
+5.2 Nighttime
+
+
+6 Event Dialogue
+
+6.1 The Exquisite Night Chimes
+
+
+7 Trivia
+8 Other Languages
+9 Change History
+
+
+Location[]
+Sisi's locationAdditional context
+Profile[]
+Relationship with Chaoxi[]
+Chaoxi appears to have lied to Sisi that he is devoted to her and will have to keep away from her due to the nature of his work. Sisi is frustrated, claiming that she does not get to see Chaoxi very often because he never stays on land for very long. She plans on asking Chaoxi to marry her when he next returns to the harbor.
+Chaoxi appears next to Sisi in Liyue Harbor at nights, where they can be listened to. Sisi asks for Chaoxi to continue planning their engagement, but Chaoxi replies that he has just come back to port and is too physically and mentally drained for such a task. Sisi will then claim that he said that last time he was in port as well, and then ran off with another girl (presumably Cui'er). He will claim that this girl is just a friend, which is contradicted by Cui'er, aboard the Pearl Galley, whom also calls Chaoxi her lover. Chaoxi will continue to press that he is a sailor and can always hear the call of the sea, and that Sisi deserves better, which she declines to take as an answer, and continues to wait for Chaoxi in the harbor daily.
+
+Appearance[]
+(To be added.)
+
+Quests and Events[]
+World QuestsThe Ocean Pearl (optional step)CommissionsA Novel Idea
+Idle Quotes[]
+
+ ...Xi...
+Media:VO Sisi 01.ogg "*sigh* Could that be Xi's boat?"
+
+During The Exquisite Night Chimes
+
+ Oh, Xi...
+Media:VO Sisi Lantern Rite 01.ogg "Oh... Will I see Xi at the Lantern Rite?"
+
+Dialogue[]
+Daytime[]
+
+Sisi: Oh hi. Look, sorry, if you're hitting on me I'll have to refuse. I'm waiting on someone.
+ Who are you waiting for?
+Sisi: My lover, Chaoxi. He's a sailor.
+Sisi: We don't get to see each other very often, he's never back on land for very long...
+Sisi: He's already been gone for so long, who knows when he'll be back...
+Sisi: Next time he gets back I'm just going to ask him outright when we are going to get married. All this waiting is just too much...
+ About Rex Lapis' death...
+(After completing A New Star Approaches)
+Sisi: Rex Lapis and Liyue, like two lovers for thousands of years...
+Sisi: But all relationships must come to an end. If death is the thing that finally separates you, well then surely that's a sign that you had a good run...
+Sisi: ...or is it a sign that we have all been dumped by Rex Lapis?
+ Goodbye.
+Sisi: Farewell.
+
+Nighttime[]
+
+Sisi: Chaoxi, you've finally returned! Let's settle our engagement plans while you're back this time, what do you say?
+Chaoxi: Sisi, I literally just got back from sea and I'm completely drained, mentally and physically. Let's talk about it later...
+Sisi: But that's what you said last time, and before I knew it you were running off with some other girl...
+Chaoxi: Come now, don't be that way. We're just friends, nothing more.
+Sisi: If you two are just friends, then what are you so worried about? Why can't we get engaged?
+Chaoxi: There you go again! I don't have any intention of getting married yet. It's not that I can't shoulder the responsibility, Sisi, it's just that I don't want to disappoint you, that's all.
+Chaoxi: I'm a sailor and the sea is always calling me, there's no escaping it. You might as well just consider me swallowed by the waves already. You deserve someone better.
+Sisi: Don't talk like that Chaoxi. I know that you'll be just fine...
+
+Event Dialogue[]
+The Exquisite Night Chimes[]
+
+(After completing A Thousand Miles for an Enigmatic Tune)
+Sisi: Oh hello, if it's an invitation to go to a musical performance, I'm afraid I must decline. There's someone I'm waiting for.
+(Dialogue options and responses are the same as normal)
+
+Trivia[]
+It appears Sisi's pet name for Chaoxi is 'Xi' whereas Cui'er calls him 'Mr. Chao'.
+Other Languages[]
+
+LanguageOfficial NameEnglishSisiChinese(Simplified)思思SīsiChinese(Traditional)思思SīsiJapanese思思Shishi‍[!][!]Assumed readingKorean상아Sang'aSpanishSisiFrenchSisiRussianСы СыSy SyThaiSisiVietnameseSisiGermanSisiIndonesianSisiPortugueseSisiTurkishSisiItalianSisi
+Change History[]
+Released in Version 1.0[Create New History]
+
+
+

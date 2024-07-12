@@ -1,0 +1,133 @@
+
+
+
+
+
+Louis
+Snack Shop Manager
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Fontaine
+
+
+Location
+Fontaine
+
+
+Dialogue Reward
+ 3
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Louis is an open-world NPC located in Fontaine. He can be found in the Vasari Passage of Court of Fontaine.
+Following a certain dialogue branch for the first time gives the player three Delicious Fish and Chips.
+
+Contents
+
+1 Shop
+
+1.1 Food and Ingredients
+1.2 Recipes
+
+
+2 Location
+3 Quests and Events
+
+3.1 Commissions
+
+
+4 Idle Quotes
+5 Dialogue
+6 Other Languages
+7 Change History
+
+
+Shop[]
+Food and Ingredients[]
+ItemCostStockTotalCostRefreshes
+ Fonta160101,600Daily
+ Delicious Fish and Chips5,475210,950Daily
+ Pate de Fruit7,050214,100Daily
+Total cost for all items26,650 
+Recipes[]
+ItemCostStockTotalCostRequiredAdventure Rank
+ Recipe: Garlic Baguette2,50012,5001
+ Recipe: Fontainian Onion Soup2,50012,5001
+ Recipe: Fish and Chips5,00015,0001
+ Recipe: Pate de Fruit5,00015,0001
+ Recipe: Feast-O's5,00015,0001
+Total cost for all items15,000 
+Location[]
+Louis's locationAdditional context
+Quests and Events[]
+CommissionsTheir Childhood: City Caper
+Idle Quotes[]
+
+ Flavor and nutrition...
+Media:VO Louis 01.ogg "You gotta find that balance between flavor and nutrition."
+
+Dialogue[]
+
+Louis: The tastiest food in the world, get it here! Come, dear friend, would you like some?
+ Do you have a menu?
+Louis: Over here, dear. Take your time reading it — tell me what you'd like, whenever you like.
+ Could I have your name?
+Louis: Friend, they call me the face of street food.
+Louis: If I were to be given some high-flown title like some great figure, they would call me "Fish-and-Chips Louis." Simple and elegant, no?
+ Do you have recommendations?
+Louis: Ah, you've come to the right man, friend. We make the best fish and chips in the world here!
+Louis: Fish and chips for breakfast, to energize you in the morning. Fish and chips for tea, beloved by all the children...
+Louis: And do I need to mention fish and chips for a walk through town? Their crispness and fragrance are praised by the Special Security and Surveillance Patrol Captain and seagulls alike!
+Louis: Why, I cannot imagine what would become of Fontaine if fish and chips did not exist!
+ Is it really that delicious?
+Louis: Heh. Dear, let me pack this up for you. You'll know it once you take a bite.
+(Obtain  Delicious Fish and Chips ×3
+ See you.
+Louis: If you should ever want some fish and chips, I shall see you then.
+
+Other Languages[]
+
+LanguageOfficial NameEnglishLouisChinese(Simplified)路易LùyìChinese(Traditional)路易LùyìJapaneseルイRuiKorean루이Ru'iSpanishLouisFrenchLouisRussianЛуиLuiThaiLouisVietnameseLouisGermanLouisIndonesianLouisPortugueseLouisTurkishLouisItalianLouis
+Change History[]
+Released in Version 4.0[Edit History]Version 4.3
+New Recipe: Feast-O's
+
+Version 4.0
+
+Louis was released.
+
+
+

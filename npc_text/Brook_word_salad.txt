@@ -1,0 +1,170 @@
+
+
+
+
+
+Brook
+Chef
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Mondstadt
+
+
+Location
+Mondstadt
+
+
+Dialogue Reward
+ 4
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Brook is an open-world NPC in Springvale, Mondstadt, who sells cooked food. She can be found near a campfire from 06:00 – 19:00. Her stock refreshes every day.
+Following a certain dialogue branch for the first time gives the player four Delicious Steaks.
+
+Contents
+
+1 Shop
+2 Location
+3 Profile
+
+3.1 Appearance
+
+
+4 Quests and Events
+
+4.1 Story Quests
+4.2 World Quests
+
+4.2.1 Requests
+
+
+4.3 Events
+4.4 Web Events
+4.5 Events
+
+
+5 Idle Quotes
+6 Dialogue
+7 Event Dialogue
+
+7.1 Unreconciled Stars
+7.2 Windblume's Breath
+
+
+8 Gallery
+9 Other Languages
+10 Change History
+
+
+Shop[]
+ItemCostStockTotalCostRefreshes
+ Steak530105,300Daily
+ Chicken-Mushroom Skewer450104,500Daily
+ Northern Smoked Chicken1,85023,700Daily
+Total cost for all items13,500 
+Location[]
+Brook's locationAdditional context
+Profile[]
+Brook is a chef residing in Springvale. According to Brook, her meat-based dishes are very well known in Mondstadt. She moved to Springvale so she could obtain the freshest meat for cooking.
+
+Appearance[]
+(To be added.)
+
+Quests and Events[]
+Story QuestsTrulla Chapter (Xiangling)Act I: Mondstadt Gastronomy TripCooking AppointmentCooking ShowdownWorld QuestsRequestsBrook the CarnivoreEventsInvitation of WindblumeFlavor of the MonthWeb EventsAn Unforgettable Journey
+Events[]
+Unreconciled Stars (unique introductory dialogue)
+Idle Quotes[]
+
+Media:VO Brook 01.ogg "Meat is the meaning of life."
+
+During Windblume's Breath
+
+ Philanemo Mushrooms?
+Media:VO Brook Windblume's Breath 01.ogg "Cooking with Philanemo Mushrooms? Hmph! At most, they can accent the meat."
+
+Dialogue[]
+
+Brook: Hi, did the beautiful fragrance of my cooking entice you over here? Hehehe.
+ I would like to buy something to eat.
+Brook: Sure thing. How about a fresh steak? There's nothing better in all of Mondstadt.
+(Opens shop menu)
+ Who are you? (Only available before completing Mondstadt Gastronomy Trip)
+Brook: You don't know who I am? I'm Brook. My meat-based recipes are very well known in Mondstadt.
+ We meet again! (After completing Mondstadt Gastronomy Trip)
+Brook: Hey, aren't you the assistant for Xiangling, the chef from Liyue?
+Brook: You couldn't possibly be here by coincidence. I've got it! She must want to challenge me again. I am "Mondstadt's Rotisseur Queen," after all.
+Brook: Oh... That's not it, huh? Well seeing as she already beat me last time, I guess challenging me again wouldn't prove much.
+ What are you doing?
+Brook: If you want the absolutely freshest meat possible, it has to go straight from the hunt to the kitchen with not a moment wasted.
+Brook: That's the reason I moved to Springvale.
+Brook: Of course, I do sell the vast majority of my cooking...
+Brook: But the single freshest piece of meat in the day? I normally keep it as a treat for myself.
+ That smells great...
+Brook: Haha, of course. This steak was made by me, Brook, after all!
+Brook: I can say with confidence that I make the best steaks in Mondstadt.
+Brook: Have you tried some before? If you haven't, you can get a sample now.
+Brook: Don't be shy. This is flavor that will revolutionize your taste buds!
+(Obtain  Delicious Steak ×4)
+ Goodbye.
+Brook: Bon appétit... I mean, goodbye!
+
+Event Dialogue[]
+Unreconciled Stars[]
+
+Brook: Have you made any progress in your investigation into the meteorite strike yet? You'll get to the bottom of it. I'm sure of it.
+Brook: The victims will probably be ravenous when they do eventually wake up, won't they? So, I'd better start preparing some meals for them.
+(Dialogue options and responses are the same as normal)
+
+Windblume's Breath[]
+
+Brook: Oh, did the wondrous fragrance of my cooked meat draw another? Hehehe.
+Brook: You can really tell it's the holidays when the streets are full in this little town. Even outlanders have come to visit.
+Brook: I thought he was here to ask for directions, but instead he surprised me when he inquired if I knew how to make any dishes using Philanemo Mushrooms.
+Brook: Cooking with Philanemo Mushrooms... isn't impossible. But at most, they just accent the meat.
+(Dialogue options and responses are the same as normal)
+
+Gallery[]
+Request icon
+Other Languages[]
+
+LanguageOfficial NameEnglishBrookChinese(Simplified)布洛克BùluòkèChinese(Traditional)布洛克BùluòkèJapaneseブロックBurokkuKorean브룩BeurukSpanishBrookFrenchBrookeRussianБрукBrukThaiBrookVietnameseBrookGermanBrookIndonesianBrookPortugueseBrookTurkishBrookItalianBrook
+Change History[]
+Released in Version 1.0[Create New History]
+
+
+

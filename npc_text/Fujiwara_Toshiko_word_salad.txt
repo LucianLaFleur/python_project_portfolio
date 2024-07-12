@@ -1,0 +1,143 @@
+
+
+
+
+
+Fujiwara Toshiko
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Inazuma
+
+
+Location
+Inazuma
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Fujiwara Toshiko (Japanese: 藤原俊子 Fujiwara Toshiko) is an open-world NPC located in Inazuma City, Inazuma.
+She can also be found on Seirai Island as part of the quest Relics of Seirai. Her dialogue changes after completing the quest.
+
+Contents
+
+1 Location
+2 Profile
+
+2.1 Appearance
+
+
+3 Quests and Events
+
+3.1 World Quests
+
+
+4 Idle Quotes
+5 Dialogue
+
+5.1 Dialogue Set #1
+5.2 Dialogue Set #2
+
+
+6 Other Languages
+7 Change History
+8 References
+
+
+Location[]
+Fujiwara Toshiko's locationAdditional context
+Profile[]
+Toshiko's ancestors lived on Seirai Island up until 500 years ago, during which a certain incident caused by Asase Hibiki[1] led the Inazuma Shogunate to force an evacuation. Most of the island's inhabitants were relocated to Narukami Island, unaware of what exactly had happened on their home island. As a result, Toshiko believes that the Shogunate had forced them to move out of greed for the treasures supposedly hidden on the island, and wishes to return to Seirai someday.
+During the World Quest Reminiscence of Seirai, Oda Tarou mentions Toshiko after the Traveler brings him the photos.
+
+Appearance[]
+(To be added.)
+
+Quests and Events[]
+World QuestsRelics of Seirai
+Idle Quotes[]
+
+ Found the treasure...
+Media:VO Fujiwara Toshiko 01.ogg "I'll find the treasure for sure."
+
+Dialogue[]
+Dialogue Set #1[]
+
+(Before completing Relics of Seirai)
+Fujiwara Toshiko: Hello, adventurer from afar. What business do you have with me?
+ You could tell that I'm an adventurer?
+Fujiwara Toshiko: Don't get me wrong, I don't really know who you are. But I can tell from your gear. You look like someone who often goes out on adventures.
+Fujiwara Toshiko: Although I am not in the same line of work as you, I am still a descendant of pirates after all. I have pretty keen eyes.
+ Are you looking for treasure?
+Fujiwara Toshiko: Oh, so you heard about that? I do have a treasure map from my ancestors. The treasure it leads to will belong to me and no one else.
+Fujiwara Toshiko: However, my ancestors were the pirates who once occupied Seirai Island. The clues on the treasure map... are probably still on that island.
+Fujiwara Toshiko: Hmph, it's all the Kanjou Commission's fault. They came up with some stupid reasons to force the island's residents out. Now I have no use for this treasure map.
+Fujiwara Toshiko: Come to think of it, there's been a legend of a pirate treasure circulating for generations on Seirai Island... After my ancestors left, could the Kanjou Commission have already taken the treasure for themselves?
+ Goodbye.
+Fujiwara Toshiko: Okay, goodbye.
+
+Dialogue Set #2[]
+
+(After completing Relics of Seirai)
+Fujiwara Toshiko: Hello there. Can I help you with something?
+ When did you get back?
+Fujiwara Toshiko: I came straight back once the previous incident concluded.
+Fujiwara Toshiko: We didn't find anything valuable, no... But I couldn't have stayed on that island a second longer.
+ Regarding the treasure...
+Fujiwara Toshiko: Ugh, let's not even go there. I took that picture and asked around a bit, but there's nothing special about it. It's really just an ordinary picture.
+Fujiwara Toshiko: But that's what I don't get. Why would people go to such lengths to conceal a simple picture?
+Fujiwara Toshiko: After unlocking all those mechanisms, that was all we found. In fact, I doubt that this was the treasure I was looking for at all!
+Fujiwara Toshiko: Did I read the treasure map wrong or something? Or is something wrong with the treasure map? Where is the real treasure located?
+Fujiwara Toshiko: ...Did the Kanjou Commission take it for themselves, by any chance?
+ Goodbye.
+Fujiwara Toshiko: Okay, goodbye.
+
+Other Languages[]
+
+LanguageOfficial NameEnglishFujiwara ToshikoChinese(Simplified)藤原俊子Téngyuán JùnziChinese(Traditional)藤原俊子Téngyuán JùnzǐJapanese藤原俊子Fujiwara ToshikoKorean후지와라 토시코Hujiwara TosikoSpanishFujiwara ToshikoFrenchFujiwara ToshikoRussianФудзивара ТосикоFudzivara TosikoThaiFujiwara ToshikoVietnameseFujiwara ToshikoGermanFujiwara ToshikoIndonesianFujiwara ToshikoPortugueseFujiwara ToshikoTurkishFujiwara ToshikoItalianFujiwara Toshiko
+Change History[]
+Released in Version 2.0[Edit History]Version 2.1
+Added dialogue for after completing Relics of Seirai
+
+Version 2.0
+
+Fujiwara Toshiko was released.
+References[]
+
+↑ Weapon: Hamayumi
+
+
+
+
+

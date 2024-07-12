@@ -1,0 +1,205 @@
+
+
+
+
+
+Mikoshi Genichirou
+Owner of Netsuke no Gen Crafts
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+								Family
+							
+
+
+
+
+
+Region
+Inazuma
+
+
+Location
+Inazuma
+
+
+Affil­i­a­tion
+Netsuke no Gen Crafts
+
+
+Genius Invokation TCG
+Stages
+
+
+
+
+Ancestry
+Mikoshi Clan
+
+
+Sibling
+Mikoshi Genjirou
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Mikoshi Genichirou  (Japanese: 御輿源一郎 Mikoshi Gen'ichirou)  is a shop NPC located in Inazuma City, Inazuma. He is the owner of the Souvenir Shop Netsuke no Gen Crafts (Japanese: 根付の源 Netsuke no Gen), indicated by the  icon on the map.
+The shop sells various Inazuman Furnishing Blueprints and Mora. It is open at all times of the day.
+
+Contents
+
+1 Shop
+
+1.1 Blueprints
+1.2 Special Goods
+
+
+2 Location
+3 Profile
+
+3.1 Appearance
+
+
+4 Quests and Events
+
+4.1 Story Quests
+4.2 Hidden Exploration Objectives
+
+
+5 Idle Quotes
+6 Dialogue
+7 Trivia
+8 Other Languages
+9 Change History
+10 References
+
+
+Shop[]
+Unlocks when Sacred Sakura's Favor reaches level 50.
+
+ItemCostStockTotalCost
+ Coral Branch of a Distant Sea ×3248
+ Narukami's Wisdom ×3248
+ Mask of the Wicked Lieutenant ×3248
+ Mora ×10,00022040
+ Mora ×3,0001∞—
+Total cost for all items64+
+Blueprints[]
+ItemCostStockTotalCost
+ Blueprint: Otogi Wood Granary Cart515
+ Blueprint: Simple Otogi Workshop515
+ Blueprint: Camp Bonfire: Glorious Clarity515
+ Blueprint: Camp Barricade: Taking Sides515
+ Blueprint: Scarlet Torii Gate: Way of Restoration10110
+ Blueprint: Maple Wood Tanuki10110
+ Blueprint: Maple Wood White Kitsune10110
+ Blueprint: Shrine Statue: "Seirai Ward"10110
+ Blueprint: The Bamboo's Call10110
+ Blueprint: Ancestral Sword Rack: Iron Sharpens Iron20120
+Total cost for all items90
+Special Goods[]
+ItemCostStockTotalCost
+ Festive Drum150,0001150,000
+Total cost for all items150,000
+Location[]
+Mikoshi Genichirou's locationAdditional context
+Profile[]
+Genichirou is a member of the Mikoshi Clan, a clan with oni heritage, and the older brother of Mikoshi Genjirou. Considered to be dull, simple and sluggish by those familiar with him, he chose to open up Netsuke no Gen Crafts to help his neighbors out with his handiwork. By the time the Traveler arrived, his store had just run out of stock for the time being. Part of the reason for this is likely because Netsuke no Gen Crafts does not have much storage space, which results in frequent supply shortages.[1]
+
+Appearance[]
+(To be added.)
+
+Quests and Events[]
+Story QuestsImperatrix Umbrosa Chapter (Raiden Shogun)Act I: Reflections of MortalityTo Traverse the Mortal PlaneHidden Exploration ObjectivesSelling the Dragonbone Orb
+Idle Quotes[]
+
+ Netsuke no Gen Crafts...
+Media:VO Mikoshi Genichirou 01.ogg "Welcome to Netsuke no Gen Crafts. We can make things other than sculptures as well."
+
+Dialogue[]
+
+Mikoshi Genichirou: Hello, see anything you like? If you can't find the right one, I can have one custom-made for you.
+ I'd like to buy a few things... (Before reaching Sakura Level 50)
+Mikoshi Genichirou: Let me see what you need, dear customer...
+Mikoshi Genichirou: Ah, my sincere apologies, but we are still in the midst of arranging for the goods that you require.
+Mikoshi Genichirou: Our capacities are limited, and it will take some time for the goods to be restocked, so please do come again then.
+ I'd like to get some souvenirs. (After reaching Sakura Level 50)
+Mikoshi Genichirou: Be my guest. Just let me know when you see something you like.
+(Opens Souvenir Shop)
+ Do you have any special goods here?
+Mikoshi Genichirou: I do have some consignments that I was given. Will they be to your liking, I wonder?
+(Opens the shop menu)
+ Adventure Challenge
+(Opens Genius Invokation TCG match interface)
+(If the player loses the match)
+
+Mikoshi Genichirou: It looks like you missed a few details...
+(If the player wins the match)
+
+Mikoshi Genichirou: Haha, impressive. I didn't expect you to be so adaptable..
+ Tell me about your store...
+Mikoshi Genichirou: You mean where the name of this store came from?
+Mikoshi Genichirou: Haha, I see you're not from Inazuma.
+Mikoshi Genichirou: Netsuke is a kind of small craftwork that the Inazumans carry with them as pendants. Generally, they are carved into different shapes based on the owner's preference.
+Mikoshi Genichirou: Take this one for instance. If you cross the rope from the inner side of the belt and then hang a coin pouch, seal or stamp on it, the netsuke will be stuck onto the belt. Convenient, eh?
+Mikoshi Genichirou: As for the "Gen" part of the name... Well, it's my name, actually.
+ What can you make to order?
+Mikoshi Genichirou: What would you like? Just tell me, and I will do my best to make it happen.
+Mikoshi Genichirou: This store may not be as famous as those old family stores on this street, but we are still proud of our fine craftmanship.
+Mikoshi Genichirou: To be honest, I'm actually the eldest son of my family, but people always say that I am simple and dull, and that I probably won't be able to carry on with the family business.
+Mikoshi Genichirou: Haha, that's why I would rather start a small store here and help the neighbors out with my handiwork.
+ Thank you! Goodbye.
+Mikoshi Genichirou: Goodbye! Come back next time if you need anything.
+
+Trivia[]
+Mikoshi Genichirou is mentioned in the description of the following Furnishing: Inazuman Store: Numberless Gems
+Other Languages[]
+
+LanguageOfficial NameEnglishMikoshi GenichirouChinese(Simplified)御舆源一郎Yùyú YuányīlángChinese(Traditional)御輿源一郎Yùyú YuányīlángJapanese御輿源一郎Mikoshi Gen'ichirouKorean미코시 겐이치로Mikosi Gen'ichiroSpanishMikoshi GenichirouFrenchMikoshi GenichirouRussianМикоси ГэнитироMikosi GenitiroThaiMikoshi GenichirouVietnameseMikoshi GenichirouGermanMikoshi GenichirouIndonesianMikoshi GenichirouPortugueseMikoshi GenichirouTurkishMikoshi GenichirouItalianMikoshi Genichirou
+Change History[]
+Released in Version 2.0[Edit History]Version 3.5
+Added Special Goods shop with Festive Drum.
+
+Version 3.3
+
+Added a Genius Invokation TCG Adventure Challenge for Mikoshi Genichirou.
+
+Version 2.0
+
+Mikoshi Genichirou was released.
+References[]
+
+↑ Furnishing: Inazuman Store: Numberless Gems
+
+
+
+
+

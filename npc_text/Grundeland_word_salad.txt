@@ -1,0 +1,143 @@
+
+
+
+
+
+Grundeland
+"Good Merchant"
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Fontaine
+
+
+Location
+Fontaine
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Grundeland is an open-world NPC located in Petrichor, Nostoi Region, Fontaine.
+His dialogue changes after completing the World Quest Series Canticles of Harmony and World Quest Daydreams Beyond Space and Time. During the quest Canticles of Harmony, he is possessed by the director of Remurian Academy of Sciences from Remuria.
+
+Contents
+
+1 Location
+2 Quests and Events
+
+2.1 World Quests
+
+
+3 Idle Quotes
+4 Dialogue
+
+4.1 Dialogue Set #1
+4.2 Dialogue Set #2
+4.3 Dialogue Set #3
+
+
+5 Other Languages
+6 Change History
+
+
+Location[]
+Grundeland's locationAdditional context
+Quests and Events[]
+World QuestsDaydreams Beyond Space and Time
+Idle Quotes[]
+Available before completing Canticles of Harmony.
+
+
+ Going as planned...
+Media:VO Grundeland 01.ogg "Good, good... Everything is going as planned, hehe..."
+
+Available after completing Daydreams Beyond Space and Time.
+
+
+ A win-win deal...
+Media:VO Grundeland 02.ogg "I can only see this as a win-win deal!"
+
+Dialogue[]
+Dialogue Set #1[]
+Available before completing Canticles of Harmony.
+
+
+Grundeland: Thanks be to the God King. All goes as planned.
+ Who are you?
+Grundeland: Hmm? An outlander? Here? Are you a pilgrim, by any chance?
+Grundeland: Still, no wonder. The great works of Remuria are worth the admiration of all peoples!
+Grundeland: Also, since the God King has granted you leave to bask in his glory, I have no right to object.
+ What's the plan you speak of?
+Grundeland: Ah, that. I am presently working on the research plans for our institution. There is much to do, but thanks to the God King's radiant blessing, we have many clever minds and hands to take up the work.
+Grundeland: To be entrusted with such duties in his blessed name — ah, such happiness is mine that shall never be surpassed.
+ See you...
+Grundeland: Indeed. Take care!
+
+Dialogue Set #2[]
+Available after completing Canticles of Harmony.
+
+
+Grundeland: Ah, there is truly no hope for me... why did I... Oh Archons, why did I do those things...
+Grundeland: I'm just like that person. I wanted to pull the strings. Let others do my bidding. No... No, no, no...
+
+Dialogue Set #3[]
+Available after completing Daydreams Beyond Space and Time.
+
+
+Grundeland: Believe me, this is undoubtedly a win-win collaboration.
+ Still planning collabs, are we?
+Grundeland: I... *sigh* I just want to invest in those gentlemen and their Daydream Club, but they keep refusing!
+Grundeland: Garcia, especially. He refuses no matter what I say or what promises I make. If anything, he just wants me to leave!
+Grundeland: They misunderstand! I... I mean, I used to be that way, but I've changed! I've completely repented and started anew! I want to support their research careers!
+ I must admit that I'm doubtful myself...
+Grundeland: You... Alright, it is true. An evil-doer turning about suddenly and claiming to wish to do good? You'd sooner trust a venomous snake that greets a person warmly with fangs dripping...
+Grundeland: Fortunately, Mécantre and Babisse have agreed to let me stay here for a time... I've also agreed to provide financial support to their mega cannon.
+Grundeland: Perhaps I must do something tangible and visible to prove my intent...
+Grundeland: Their giant cannon project really does have a lot of appeal, you know!
+Grundeland: Even if it can't be built, the project name itself will attract many investors.
+Grundeland: And then, we just need to work a little magic and...
+ Ahem, ahem!
+Grundeland: Uh, I mean... work our magic to attract lots of investors and researchers with similar interests...
+Grundeland: M—Many hands make light work, after all! With this many supporters, we shall have no fear of failure, no?
+ See you!
+Grundeland: *sigh* Take care...
+
+Other Languages[]
+
+LanguageOfficial NameEnglishGrundelandChinese(Simplified)戈伦德兰Chinese(Traditional)戈倫德蘭JapaneseグルンデラントGurunderandoKorean그룬데란드GeurunderandeuSpanishGrundelandFrenchGrundelandRussianГрюндландGryundlandThaiGrundelandVietnameseGrundelandGermanGrundelandIndonesianGrundelandPortugueseGrundelandTurkishGrundelandItalianGrundeland
+Change History[]
+Released in Version 4.6[Create New History]
+
+
+

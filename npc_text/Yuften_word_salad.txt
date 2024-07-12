@@ -1,0 +1,206 @@
+
+
+
+
+
+Yuften
+Tanit Farmer
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Sumeru
+
+
+Location
+Sumeru
+
+
+Affil­i­a­tion
+Tanit
+
+
+Death
+Killed by Jeht in For Her Judgment Reaches to the Skies...
+
+
+Genius Invokation TCG
+Stages
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Yuften is an NPC in the Tanit Camps. He is a member of the Tanit tribe.
+
+Contents
+
+1 Location
+2 Profile
+
+2.1 Appearance
+
+
+3 Quests and Events
+
+3.1 World Quests
+
+
+4 Idle Quotes
+5 Thoughts
+6 Dialogue
+
+6.1 Dialogue Set #1
+6.2 Dialogue Set #2
+6.3 Dialogue Set #3
+6.4 Dialogue Set #4
+
+
+7 Other Languages
+8 Change History
+
+
+Location[]
+Yuften's locationAdditional context
+Profile[]
+Yuften is a member of the Tanit tribe who is tasked with raising the Spinocrocodiles that dwell on the spring that the tribe resides around. 
+During the Tanit World Quest event series, after Jeht discovers the depth of Babel's machinations on her, she decides to enact revenge by destroying the entire tribe. Yuften is one of the tribesmen called by Babel to kill her, but he ends up dying to Jeht instead.
+
+Appearance[]
+Yuften wears the standard Eremite Sword-Dancer attire, though he does not have an eyepatch, which is instead replaced with a farmer's hat.
+
+Quests and Events[]
+World QuestsHer Foes Rage Like Great Waters...Behold, the Sign Comes Like A Thief...For Her Judgment Reaches to the Skies...The Dirge of BilqisWisdom Has Built Her House, She Has Hewn Out Her Seven Pillars
+Idle Quotes[]
+
+ Crocodile jerky...
+Media:VO Yuften 01.ogg "Maybe if I change the smoking method."
+
+Thoughts[]
+Yuften's thoughts can be accessed by using Nahida's Elemental Skill, All Schemes to Know.
+
+
+(Before completing Step 8 of Wisdom Has Built Her House, She Has Hewn Out Her Seven Pillars)
+Yuften: (...Agh! W—What went wrong with my homemade Fungi f—fertilizer...)
+
+
+(After completing Step 8 of Wisdom Has Built Her House, She Has Hewn Out Her Seven Pillars)
+Yuften: (...C-Can [sic] that Jinni r—really improve our s—soil condition...?)
+
+Dialogue[]
+Dialogue Set #1[]
+Available before meeting Yuften in Wisdom Has Built Her House, She Has Hewn Out Her Seven Pillars.
+
+
+Yuften: He—Hello, stranger. D—Do you need something?
+ These crocodiles...
+Yuften: T—These crocodiles a—are raised by the tribe. T—They're bulky, b—but also gentle.
+Yuften: Crocodiles are easy to care for, and they can be harvested for their skin and meat. Th—Thankfully, we have an undrying spring here, so...
+ I shan't disturb you any longer.
+Yuften: Yeah. S—Safe travels, stranger.
+
+Dialogue Set #2[]
+Available after completing Step 11 of Wisdom Has Built Her House, She Has Hewn Out Her Seven Pillars.
+
+
+Yuften: Hello... Guest of Tanit...
+Yuften: J—J—Jeht mentions you often. She's a good kid.
+ What are you up to?
+Yuften: Planting crops and f—feeding the fish. Sometimes, I also do some b—b—butchery. Crocodile skin and meat is v—very useful.
+ Crocodiles, you say?!
+Yuften: Hehe, yes. I—I take care of them. These are quite large and obedient...
+Yuften: This one's c—c—called Sedim. Very fierce and strong, and skin's very vibrant. It'll make for a good satchel. And there's that one, Karam. It's small but plump. Rather gentle, too.
+Yuften: We get clean spring water all year around h—here, so it's just right for raising crocodiles. Th—that's why we fenced this place up.
+Yuften: Crocodiles are easy to care for, and they can be harvested for lots of skins and meat. Unfortunately, f—fields are a d—different story...
+ You have fields around here?
+Yuften: We do... but only for testing. Matriarch Babel invited some outsiders to c—c—come and provide us with Anahitian Blessing, and she got all these old books from the city...
+Yuften: S—s—so we've tried our hand at farming according to the contents of these books.
+Yuften: But the oases in the canyon are too narrow and lack nutrients. We needs to find a way to f—fertilize the soil.
+ Tell me about the Anahitian Blessing...
+Yuften: The outsiders didn't want to reveal the fertilizer's composition. As such, we've had to rely on the people who provide it to f—fertilize the soil... which isn't good.
+Yuften: Th—that's why the Matriarch wants me to d—do some research here to r—reverse engineer our own Anahitian Blessing.
+ I shan't disturb you any longer.
+Yuften: Th—that's alright. Please take some crocodile jerky, dear guest. It's just over there...
+
+Dialogue Set #3[]
+Available after completing Dune-Entombed Fecundity: Part I.
+
+
+Yuften: H—H—Hello. Ah...
+ Is something upsetting you?
+Yuften: Ah... Aderfi... H—He... Sorry. He used to be my f—friend.
+ I'm sorry about your friend...
+Yuften: I hope that th—the Matriarch c—can be merciful...
+Yuften: Otherwise, the c—crocodiles m—might suffer some i—indigestion...
+ ...
+
+Dialogue Set #4[]
+Available after completing The Eternal Dream, Ever Lush.
+
+
+Yuften: Greetings, esteemed g—guest.
+Yuften: *sigh* I h—heard about what happened with Azariq and Aderfi. I d—didn't think th—that Azariq would turn t—traitor too.
+Yuften: W—we'd known each other f—for such a long t—time, too. What a shame...
+ I'm sorry...
+Yuften: I—it's okay. I—I just th—think it's a bit of a shame that they weren't brought b—back here to be executed.
+Yuften: But I s—suppose I'll be able to find m—meat elsewhere.
+Yuften: I—is there anything else y—you need?
+ By the way, do you play cards?
+Yuften: O—of course! I—I'm the best in the t—tribe.
+(Opens Genius Invokation TCG match interface)
+ What are you up to?
+Yuften: Planting crops and f—feeding the fish. Sometimes, I also do some b—b—butchery. Crocodile skin and meat is v—very useful.
+ Crocodiles, you say!?
+Yuften: Hehe, yes. I—I take care of them. These are quite large and obedient...
+Yuften: This one's c—c—called Sedim. Very fierce and strong, and skin's very vibrant. It'll make for a good satchel. And there's that one, Karam. It's small but plump. Rather gentle, too.
+Yuften: We get clean spring water all year around h—here, so it's just right for raising crocodiles. Th—that's why we fenced this place up.
+Yuften: Crocodiles are easy to care for, and they can be harvested for lots of skins and meat. Unfortunately, f—fields are a d—different story...
+ You have fields around here?
+Yuften: We do... but only for testing. Matriarch Babel invited some outsiders to c—c—come and provide us with Anahitian Blessing, and she got all these old books from the city...
+Yuften: S—s—so we've tried our hand at farming according to the contents of these books.
+Yuften: But the oases in the canyon are too narrow and lack nutrients. We needs to find a way to f—fertilize the soil.
+ Tell me about the Anahitian Blessing...
+Yuften: The outsiders didn't want to reveal the fertilizer's composition. As such, we've had to rely on the people who provide it to f—fertilize the soil... which isn't good.
+Yuften: Th—that's why the Matriarch wants me to d—do some research here to r—reverse engineer our own Anahitian Blessing.
+ I shan't disturb you any longer.
+Yuften: Th—that's alright. Please take some crocodile jerky, dear guest. It's just over there...
+ No, nothing right now.
+Yuften: Oh, o—okay, then...
+
+Other Languages[]
+
+LanguageOfficial NameEnglishYuftenChinese(Simplified)尤夫腾YóufūténgChinese(Traditional)尤夫騰YóufūténgJapaneseユフトゥンYufutunKorean유프텐YupeutenSpanishYuftenFrenchYuftenRussianЮфтенYuftenThaiYuftenVietnameseYuftenGermanYuftenIndonesianYuftenPortugueseYuftenTurkishYuftenItalianYuften
+Change History[]
+Released in Version 3.4[Create New History]
+
+
+

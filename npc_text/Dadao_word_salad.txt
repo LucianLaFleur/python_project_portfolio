@@ -1,0 +1,102 @@
+
+
+
+
+
+Dadao
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Liyue
+
+
+Location
+Liyue
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCsRedbill Pelican NPCs 
+
+
+
+
+Dadao is a Redbill Pelican that can be found in Chenyu Vale: Upper Vale, Chenyu Vale, Liyue.
+Interacting with Dadao for the first time gives the player Fish Seized From a Pelican's Mouth. It can be used on the food dish next to Daju, which rewards an Exquisite Chest.
+
+Contents
+
+1 Location
+2 Dialogue
+
+2.1 Dialogue Set #1
+2.2 Dialogue Set #2
+
+
+3 Other Languages
+4 Change History
+
+
+Location[]
+Dadao's locationAdditional context
+Dialogue[]
+Dialogue Set #1[]
+Available during the first interaction.
+
+
+Dadao: *guttural grunts*
+ What's that fish in your mouth?
+Hearing you question the origin of the fish, the thief becomes completely enraged.
+It spreads its wings and charges at you and Paimon, tussling and tangling with you both.
+After a difficult and grueling battle, you finally gain the upper hand.
+Dadao: !?
+ Now you know who's boss!
+(Obtain  Fish Seized From a Pelican's Mouth ×1)
+
+Dialogue Set #2[]
+Available during subsequent interactions.
+
+
+Dadao: *guttural grunts*
+ Hmph! You nasty beastie!
+Dadao: *guttural grunts*
+
+Other Languages[]
+
+LanguageOfficial NameLiteral MeaningEnglishDadao—Chinese(Simplified)大盗DàdàoBig ThiefChinese(Traditional)大盜DàdàoJapanese大どろぼうDai-dorobouBig ThiefKorean대도Daedo—SpanishLadronzueloLittle ThiefFrenchBandit—RussianДа ДаоDa Dao—Thaiจอมโจร—VietnameseĐạo Chích—GermanRäuber—IndonesianBandit—PortugueseBandido—TurkishDadao—ItalianDadao—
+Change History[]
+Released in Version 4.4[Edit History]Version 4.5
+Bandit was renamed to Dadao.
+
+Version 4.4
+
+Bandit was released.
+
+
+

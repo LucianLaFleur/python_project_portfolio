@@ -1,0 +1,200 @@
+
+
+
+
+
+Granny Shan
+Toy Seller
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+								Family
+							
+
+
+
+								Voice Actors
+							
+
+
+
+
+
+Region
+Liyue
+
+
+Location
+Liyue
+
+
+
+
+Relative
+Zhenyuan (niece)
+
+
+
+
+Japanese
+Iizumi Momone (飯泉 桃音)[1]
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+
+The toy shop run by Granny Shan. No matter the time or situation, people always want to enjoy themselves. Perhaps it is this sentiment that has led her to continue manning this nameless little store year after year. Apart from spinning tops, wooden swords, kites, and other knick-knacks, you can also sometimes find some rarer toys here...World Map description
+Granny Shan (Chinese: 阿山婆 Ā Shān-pó) is a shop NPC located in Liyue Harbor, Liyue. A toymaker for over 40 years, she particularly likes making kites. She is the owner of the Toy Shop indicated by the  icon on the map.
+
+Contents
+
+1 Shop
+2 Location
+3 Profile
+
+3.1 Appearance
+
+
+4 Quests and Events
+
+4.1 Archon Quests
+4.2 Story Quests
+4.3 World Quests
+4.4 Commissions
+
+
+5 Character Mentions
+
+5.1 Character Stories
+
+
+6 Idle Quotes
+7 Dialogue
+8 Event Dialogue
+
+8.1 Vibrant Harriers Aloft in Spring Breeze
+
+
+9 Other Languages
+10 Change History
+11 References
+
+
+Shop[]
+ItemCostStockTotalCost
+ Floral Zither150,0001150,000
+ Launch Tube30,000130,000
+ The Mountain Clouds Let Down Golden Rain10,000110,000
+ The Silver Night is Full of Stars10,000110,000
+ The Gloom Paints the Cold Blooms10,000110,000
+ Fireworks Dance Amidst a Snowy Sky10,000110,000
+ Golden Calendula Swirl10,000110,000
+ Kindled Trees by the Moonlit Window10,000110,000
+ Mischievous Villosas10,000110,000
+ Sparkly Shiny Dodoco!10,000110,000
+ Fame and Fortune For a Season10,000110,000
+ Unyielding Spirit10,000110,000
+ Festival Spotlight10,000110,000
+ Wanmin Feast10,000110,000
+Total cost for all items300,000
+Location[]
+Granny Shan's locationAdditional context
+Profile[]
+(To be added.)
+
+Appearance[]
+(To be added.)
+
+Quests and Events[]
+Archon QuestsChapter IAct II: Farewell, Archaic LordDowntownStory QuestsMonoceros Caeli Chapter (Tartaglia)Act I: Mighty Cyclops' Adventure!Teucer's Terrific TourWorld QuestsSnapshotsCommissionsGood Sign (no dialogue)
+Character Mentions[]
+Character StoriesCharacterStoriesYaoyaoCharacter Story 5
+Idle Quotes[]
+
+ To make people smile.
+Media:VO Granny Shan 01.ogg "I just like to make people smile."
+
+During Vibrant Harriers Aloft in Spring Breeze
+
+ The kite of your dreams...
+Media:VO Granny Shan Lantern Rite 01.ogg "I hope you'll be able to find the kite of your dreams."
+
+Dialogue[]
+
+Granny Shan: Smiling makes the world a more beautiful place! See any toys you like?
+ What do you have to sell here?
+Granny Shan: What you see is what I've got. Have a look, perhaps there might be something that catches your eye.
+(Opens the shop menu)
+ About the toys...
+Granny Shan: Oh, children love them. Intricate things, they are.
+Granny Shan: I've got toys for adults too, if you'd like.
+ Adult toys...?
+Granny Shan: Sorry, I should have been more specific. Some toys need adult supervision — kites for example.
+Granny Shan: Come war and famine or the peace and prosperity we know today, happiness is always something worth striving for, don't you think?
+ So, about Rex Lapis...
+Granny Shan: Rex Lapis? I understand. Does your little one back home also want a Rex Lapis-themed toy?
+Granny Shan: Have a look: dragon horn tops, stone dice, a dragon-shaped wooden sword, a kite with Rex Lapis' portrait on it... which would you like?
+Granny Shan: Ah... So you're just asking around. I see. Rex Lapis-themed toys are so very popular among the children, so I naturally thought that...
+ See you.
+Granny Shan: Goodbye! Take care now.
+
+Event Dialogue[]
+Vibrant Harriers Aloft in Spring Breeze[]
+
+Granny Shan: Happy Lantern Rite, youngster! See any toys you like?
+ Tell me about kites...
+Granny Shan: Ah, so you're here to buy one, are you?
+Granny Shan: There's lots of new designs for this year's Lantern Rite, and some of them have come equipped with devices that will let them fly more easily...
+Granny Shan: As for me, I just have some traditional patterns, and all these newfangled items do rather confuse me. If you want to buy them, you might want to drop by Zhenyuan's stall.
+Granny Shan: She's my niece, and she came to Liyue Harbor from Chenyu Vale this year to do business. Young people are full of energy, but they can be prone to mistakes, so please do take care of her.
+
+Other Languages[]
+
+LanguageOfficial NameEnglishGranny ShanChinese(Simplified)阿山婆Ā Shān-póChinese(Traditional)阿山婆Ā Shān-póJapanese山ばあやSan-baaya‍[!][!]Assumed readingKorean아산파아산파阿山婆Asan-paSpanishAbuela ShanFrenchShanRussianБабуля ШаньBabulya Shan'Thaiยาย ShanYai ShanVietnameseA Sơn Bà BàGermanOma ShanIndonesianNenek ShanPortugueseVovó ShanTurkishShan NineItalianNonna Shan
+Change History[]
+Released in Version 1.0[Edit History]Version 3.4
+Added Launch Tube and other fireworks to Special Souvenir Shop.
+
+Version 2.7
+
+Added Special Souvenir Shop that sells Floral Zither.
+
+Version 1.0
+
+Granny Shan was released.
+References[]
+
+↑ Amuleto: JP VA's Profile
+
+
+
+
+

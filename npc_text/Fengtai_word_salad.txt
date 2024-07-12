@@ -1,0 +1,117 @@
+
+
+
+
+
+Fengtai
+General Goods Store Owner
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Liyue
+
+
+Location
+Liyue
+
+
+Affil­i­a­tion
+Fengtai General Goods
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Fengtai (Chinese: 丰泰 Fēngtài) is a shop NPC found in Yilong Wharf, Chenyu Vale, Liyue.
+
+Contents
+
+1 Shop
+
+1.1 Food and Ingredients
+
+
+2 Location
+3 Idle Quotes
+4 Dialogue
+5 Other Languages
+6 Change History
+
+
+Shop[]
+Food and Ingredients[]
+ItemCostStockTotalCostRefreshes
+ Crab Roe1,1251011,250Weekly
+ Chenyu Adeptea240102,400Every 3 Days
+ Clearwater Jade1,00055,000Every 3 Days
+ Cor Lapis1,00055,000Every 3 Days
+ Noctilucous Jade1,00055,000Every 3 Days
+ Violetgrass1,00055,000Every 3 Days
+ Silk Flower1,00055,000Every 3 Days
+ Jueyun Chili1,00055,000Every 3 Days
+ Rice10010010,000Daily
+ Tofu10010010,000Daily
+Total cost for all items63,650 
+Location[]
+Fengtai's locationAdditional context
+Idle Quotes[]
+
+ Great discounts!
+Media:VO Fengtai 01.ogg "Great discounts on loads of goods!"
+
+Dialogue[]
+
+Fengtai: Welcome to Fengtai General Goods! Everyday items, commemorative jade jewelry... You name it, we stock it!
+ I'm looking at the merchandise...
+Fengtai: Oh sure, of course! Take your pick!
+ Jadeware?
+Fengtai: That is right. We do have a build-to-order jadeware service, but it requires a reservation, and the time required is based on how complicated the design is.
+Fengtai: You don't choose a piece of jade, it chooses you. Chance encounters often make the best purchases.
+Fengtai: So it's not a bad thing if you don't find anything you like today...
+ Why aren't there many jade artisans?
+Fengtai: Many guests have asked the same question, as did I when I was young.
+Fengtai: Deyin, my master, told me that one must suffer no distraction when carving a piece of beautiful jade.
+Fengtai: If an artisan must also sell and promote, then their minds are invaded by such thoughts, and true excellence will elude their work.
+Fengtai: In Chenyu Vale, the sale and production of jade are completely separate. This allows our artisans to focus on carving.
+Fengtai: Who knows, there might be an artisan sequestered within any given house you might pass by, meticulously shaping the jade in their hands.
+ Goodbye.
+Fengtai: Goodbye, please come again!
+
+Other Languages[]
+
+LanguageOfficial NameEnglishFengtaiChinese(Simplified)丰泰FēngtàiChinese(Traditional)豐泰FēngtàiJapanese豊泰Houtai‍[!][!]Assumed readingKorean봉태BongtaeSpanishFengtaiFrenchFengtaiRussianФэн ТайFen TayThaiFengtaiVietnameseFengtaiGermanFengtaiIndonesianFengtaiPortugueseFengtaiTurkishFengtaiItalianFengtai
+Change History[]
+Released in Version 4.4[Create New History]
+
+
+

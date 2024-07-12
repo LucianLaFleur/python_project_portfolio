@@ -1,0 +1,89 @@
+
+
+
+
+
+Imena
+Gestionnaire
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Fontaine
+
+
+Location
+Fontaine
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Imena is an open-world NPC located in Court of Fontaine: Palais Mermonia, Fontaine.
+
+Contents
+
+1 Location
+2 Idle Quotes
+3 Dialogue
+4 Other Languages
+5 Change History
+6 References
+
+
+Location[]
+Imena's locationAdditional context
+Idle Quotes[]
+
+ If you're lucky...
+Media:VO Imena 01.ogg "The food in the cafeteria is excellent, if you're lucky enough to make it in."
+
+Dialogue[]
+
+Imena: The documents have been very clearly organized. I won't need to do anymore I think.
+ What sorts of documents?
+Imena: Ah, it's some communications between the Fortress of Meropide and the Palais Mermonia. I'm in charge of sorting them out before handing them over to the Chief Justice.
+Imena: To be honest, the documents from the Fortress have always been perfect. I just need to go down, come back up, and hand them in.
+Imena Sometimes I can even get a nice meal at the Coupon Cafeteria over there — no wonder a retired senior of mine said that you couldn't go wrong with this job.
+ See you.
+Imena: See you. I hope everything goes well with you too.
+
+Other Languages[]
+
+LanguageOfficial NameEnglishImenaChinese(Simplified)伊梅娜YīméinàChinese(Traditional)伊梅娜YīméinàJapaneseイメナImenaKorean이메나ImenaSpanishImenaFrenchImenaRussianИмэнаImenaThaiImenaVietnameseImenaGermanImenaIndonesianImenaPortugueseImenaTurkishImenaItalianImèna
+Change History[]
+Released in Version 4.0[Create New History]
+References[]
+
+
+
+

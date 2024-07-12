@@ -1,0 +1,140 @@
+
+
+
+
+
+Maziar
+Employee, Gilded Journey
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+								Family
+							
+
+
+
+
+
+Region
+Sumeru
+
+
+Location
+Sumeru
+
+
+Affil­i­a­tion
+Gilded Journey
+
+
+Genius Invokation TCG
+Stages
+
+
+
+
+Relative
+Maryam (aunt)
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Maziar is an open-world NPC located in Caravan Ribat, Sumeru.
+
+Contents
+
+1 Location
+2 Idle Quotes
+3 Thoughts
+4 Dialogue
+5 Other Languages
+6 Change History
+
+
+Location[]
+Maziar's locationAdditional context
+Idle Quotes[]
+
+ Cheaper spices...
+Media:VO Maziar 01.ogg "Mhh... I should be able to get some cheaper spices this time."
+
+Thoughts[]
+Maziar's thoughts can be accessed by using Nahida's Elemental Skill, All Schemes to Know.
+
+
+Media:VO Maziar All Schemes to Know 01.ogg Maziar: (I'll go back later... Honestly, I'm not that into drinking.)
+
+Dialogue[]
+
+Maziar: Nice. I'll call it a day and report back to my aunt.
+ Adventure Challenge
+(Opens Genius Invokation TCG match interface)
+(If the player loses the match)
+
+Maziar: Unbelievable. I actually beat a veteran? Lady luck is shining on me!
+(If the player wins the match)
+
+Maziar: As I thought, beating a veteran is not easy...
+(Before Condition missing)
+
+ Huh?
+Maziar: My aunt runs a hotel. There's only one hotel in Caravan Ribat, so it should be easy to find.
+Maziar: I used to live in the city with my parents, but I really didn't have a thing for school, and it was annoying to be pushed by them every day. So I came here to work with my aunt.
+Maziar: I learned a lot with her, and am getting more skilled at bargaining with vendors than ever.
+Maziar: This is something you'll never learn from the Akasha Terminal.
+(After Condition missing)
+
+ Your aunt, you say?
+Maziar: Yes, she runs a hotel. There's only one in Caravan Ribat, so it should be pretty easy to find.
+Maziar: I used to live in the city with my parents, but I really didn't have a thing for school, and it was annoying to be pushed by them every day. So I came here to work with my aunt.
+Maziar: I learned a lot with her and I'm getting more skilled at bargaining with vendors than ever.
+Maziar: Even if the Akasha Terminals were still around, that wasn't something they could've taught you.
+ Are you heading back?
+Maziar: Hmm, not now. I just passed a camp of the Eremites, and he was not there. Maybe he went to the hotel looking for me for a drink.
+Maziar: To be honest, most Sumeru people like to drink, but I'm not used to alcohol. I would feel dizzy after just half a glass.
+Maziar: But it'd be a lack of decorum to refuse an Eremite. He often comes to invite me for a drink, and I should care about his feelings.
+Maziar: I'll just stay out of his sight for now.
+ See you.
+Maziar: Goodbye.
+
+Other Languages[]
+
+LanguageOfficial NameEnglishMaziarChinese(Simplified)马齐尔Mǎqí'ěrChinese(Traditional)馬齊爾Mǎqí'ěrJapaneseマズィヤールMaziyaaruKorean마지아르MajiareuSpanishMaziarFrenchMaziarRussianМазиарMaziarThaiMaziarVietnameseMaziarGermanMaziarIndonesianMaziarPortugueseMaziarTurkishMaziarItalianMaziar
+Change History[]
+Released in Version 3.0[Edit History]Version 3.7
+Added a Genius Invokation TCG Adventure Challenge for Maziar.
+
+Version 3.0
+
+Maziar was released.
+
+
+

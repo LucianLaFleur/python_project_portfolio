@@ -1,0 +1,115 @@
+
+
+
+
+
+Wakamurasaki
+Designer
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Inazuma
+
+
+Location
+Inazuma
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+
+The designer of the Ubiquity Net and the Omni-Ubiquity Net. If you need to, you can purchase Omni-Ubiquity Nets from her using Mora.
+Wakamurasaki (Japanese: 若紫 Wakamurasaki) is an open-world NPC in Inazuma City, Inazuma.
+After completing the World Quest Omni-Ubiquity Net, her location will be marked with a  icon on the map.
+
+Contents
+
+1 Shop
+2 Location
+3 Profile
+
+3.1 Appearance
+
+
+4 Quests and Events
+
+4.1 World Quests
+
+
+5 Idle Quotes
+6 Dialogue
+7 Other Languages
+8 Change History
+
+
+Shop[]
+ItemCostStockTotalCostRefreshes
+ Omni-Ubiquity Net10,000550,000Weekly
+Total cost for all items50,000 
+Location[]
+Wakamurasaki's locationAdditional context
+Profile[]
+(To be added.)
+
+Appearance[]
+(To be added.)
+
+Quests and Events[]
+World QuestsOmni-Ubiquity Net
+Idle Quotes[]
+
+ Onmyoudou...
+Media:VO Wakamurasaki 01.ogg "Onmyoudou is so mysterious..."
+
+Dialogue[]
+
+Wakamurasaki: Hello there! Need a few more Omni-Ubiquity Nets, do you?
+ I'd like to buy some.
+ So, about the Omni-Ubiquity Net...
+Wakamurasaki: My research into these nets is still ongoing, but I've got to say that I'm not making any progress at all.
+Wakamurasaki: I've not been able to achieve the levels of sturdiness, utility, or any other parameter for that matter, that Sango told me were possible...
+Wakamurasaki: Where did we go wrong, I wonder...
+Wakamurasaki: I—I mean, Sango couldn't have remembered that onmyoudou technique wrongly... Right?
+Wakamurasaki: I'll go ask her when the opportunity arises, just to be sure...
+ See you.
+Wakamurasaki: See you. Take care!
+
+Other Languages[]
+
+LanguageOfficial NameEnglishWakamurasakiChinese(Simplified)若紫RuòzǐChinese(Traditional)若紫RuòzǐJapanese若紫WakamurasakiKorean와카무라사키WakamurasakiSpanishWakamurasakiFrenchWakamurasakiRussianВакамурасакиVakamurasakiThaiWakamurasakiVietnameseWakamurasakiGermanWakamurasakiIndonesianWakamurasakiPortugueseWakamurasakiTurkishWakamurasakiItalianWakamurasaki
+Change History[]
+Released in Version 2.3[Create New History]
+
+
+

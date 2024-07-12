@@ -1,0 +1,111 @@
+
+
+
+
+
+Remande
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Fontaine
+
+
+Location
+Fontaine
+
+
+Dialogue Reward
+ 3
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Remande is an open-world NPC located in Court of Fontaine: Court Region Waterway Hub, Fontaine.
+Following a certain dialogue branch for the first time gives the player three Teachings of Order.
+
+Contents
+
+1 Location
+2 Idle Quotes
+3 Dialogue
+4 Other Languages
+5 Change History
+6 References
+
+
+Location[]
+Remande's locationAdditional context
+Idle Quotes[]
+
+ Fascinating...
+Media:VO Remande 01.ogg "How fascinating. The design is quite ingenious."
+
+Dialogue[]
+
+Remande: Once we're done preparing the film, we can continue taking boat-tos!
+ Is there anything of note nearby?
+(If there are Magical Crystal Ore Veins Remande knows)
+
+Remande: Er... Does "the aquabus repairman might've been put in a bad mood by my many questions" count?
+Remande: I'm kidding! The repairman was great. He told me that there's a place nearby that produces Condessence Crystals and Magical Crystal Ore, which I can use to make models.
+Remande: That said, I don't think I'd be any good at excavation by hand — might be better to just buy the ore pre-processed. But if you have need of them, you can check the place out.
+(Rich Ore Reserves marked on the map)
+(If there are no more Magical Crystal Ore Veins Remande knows)
+
+Remande: Not that I remember... Certainly not anything worth taking pictures of.
+ Boat-tos?
+Remande: Boat-tos! Photos of boats. Boats, photos — by which I mean pictures of the aquabuses.
+Remande: I absolutely adore the aquabus network — really, I'd take a picture of every last detail if I could.
+Remande: My dream is to someday recreate a scale clockwork model of an aquabus without needing to refer to the real object, or even pictures of it.
+Remande: At this moment, I've reached the phase where I'm taking photos daily, and familiarizing myself with them. Wish me well, friend!
+ Sounds impressive.
+Remande: Of course it does! If you are interested as well, you are welcome to join us aquabus enthusiasts.
+Remande: However, I have a few reminders for newcomers.
+Remande: While admiring the aquabuses, do not behave in any way that might interfere with the normal functioning of aquabus facilities or disturb the tour guides on the aquabuses.
+(Obtain  Teachings of Order ×3)
+ See you.
+Remande: See you — be sure to take a trip onboard yourself!
+
+
+
+Other Languages[]
+
+LanguageOfficial NameEnglishRemandeChinese(Simplified)勒芒德LèmángdéChinese(Traditional)勒芒德LèmángdéJapaneseリメンダRimendaKorean르망드ReumangdeuSpanishRemandeFrenchRemandeRussianРемандRemandThaiRemandeVietnameseRemandeGermanRemandeIndonesianRemandePortugueseRemandeTurkishRemandeItalianRemande
+Change History[]
+Released in Version 4.0[Create New History]
+References[]
+
+
+
+

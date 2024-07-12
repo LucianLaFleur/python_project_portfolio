@@ -1,0 +1,152 @@
+
+
+
+
+
+Maillardet
+Clockwork Meka Engineer
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Fontaine
+
+
+Location
+Fontaine
+
+
+Affil­i­a­tion
+Fontaine Research Institute
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Maillardet is an open-world NPC located in Court of Fontaine Region, Fontaine. Speaking to him will determine which Arkhe version of the Icewind Suite boss the player will battle.
+
+Contents
+
+1 Location
+2 Idle Quotes
+3 Dialogue
+
+3.1 Dialogue Set #1
+3.2 Dialogue Set #2
+3.3 Dialogue Set #3
+
+
+4 Trivia
+
+4.1 Etymology
+
+
+5 Other Languages
+6 Change History
+
+
+Location[]
+Maillardet's locationAdditional context
+Idle Quotes[]
+
+ More data!
+Media:VO Maillardet 01.ogg "The more data samples, the better!"
+
+Dialogue[]
+Dialogue Set #1[]
+Available only before beginning the player's first fight against the Icewind Suite.
+
+
+Maillardet: (‍Sir, ma'amSir, ma'amText for male Traveler/Good ladiesGood ladiesText for female Traveler‍), I wish you a good morning, afternoon, and evening!
+Maillardet: My name is Maillardet, a researcher with the Fontaine Research Institute. I believe the two of you are here to witness the Icewind Suite?
+Maillardet: According to Mr. Bossuet's original plan, Coppelius and Coppelia are clockwork meka dedicated to the art of dance.
+Maillardet: But after I took over the project, I also added in some of my understanding of Pneumosia...
+Maillardet: So as you can see, not only are they good at dancing, but they are also highly capable fighters!
+Maillardet: However, I believe that there's still much room for improvement. We require large amounts of experimental data to further increase their combat prowess.
+Maillardet: I might have gotten too passionate during the development phase — and from that came two different combat modes for Coppelius and Coppelia based on the differences between Pneuma and Ousia...
+Maillardet: They are Dirge of Coppelia and Nemesis of Coppelius. That is to say, we'll need two times the research data!
+Maillardet: As long as we can iterate on them smoothly, the joy of our success will be doubled.
+Maillardet: And the coming of that joy now rests upon your shoulders, brave warrior!
+Icewind Suite DropsNext up are fantastical performances to be delivered by clockwork meka Coppelia and Coppelius, brought to you by Maillardet. Before you begin the challenge, you must speak with Maillardet and select the play you are challenging:Dirge of Coppelia: A play with the ousia charged clockwork meka Coppelia as the protagonist. Alternatively, in Nemesis of Coppelius, the charge emitted by the protagonist, Coppelius, is pneuma.The eventual resources claimed from the Ley Line Blossom after completing the challenge will also differ based on which challenge you select.Next up are fantastical performances to be delivered by clockwork meka Coppelia and Coppelius, brought to you by Maillardet. Before you begin the challenge, you must speak with Maillardet and select the play you are challenging:Dirge of Coppelia: A play with the ousia charged clockwork meka Coppelia as the protagonist. Alternatively, in Nemesis of Coppelius, the charge emitted by the protagonist, Coppelius, is pneuma.The eventual resources claimed from the Ley Line Blossom after completing the challenge will also differ based on which challenge you select.
+Maillardet: What do you say, bold (‍sirsirText for male Traveler/ma'amma'amText for female Traveler‍)? Would you be willing to join our machines in their dance?
+ Try "Dirge of Coppelia."
+(Enter combat)
+ Try "Nemesis of Coppelius."
+(Enter combat)
+ Let's do this later.
+Maillardet: The dance floor is always open for you.
+
+Dialogue Set #2[]
+Available during subsequent interactions.
+
+
+Maillardet: (‍Sir, ma'amSir, ma'amText for male Traveler/Good ladiesGood ladiesText for female Traveler‍), are you ready to take part in the Icewind Suite?
+ Try "Dirge of Coppelia."
+(Enter combat)
+ Try "Nemesis of Coppelius."
+(Enter combat)
+ Tell me about the Icewind Suite...
+Maillardet: What would you like to know?
+ What's the story of the Icewind Suite?
+Maillardet: A fine question!
+Maillardet: Like how Coppelius was defeated in a war against temptation, and was thus punished. Or how Coppelia so loved him that she nearly died from grief as a result.
+Maillardet: Or how, to save the imprisoned Coppelius, Coppelia would set out on a journey.
+Maillardet: Or how, no matter how things go, the drama shall end in a lovers' dance.
+Maillardet: Haha! Well, actually, that was just me making some story bits up. I mean, I'm no literary scholar, just a researcher who works with clockwork meka.
+Maillardet: As far as I'm concerned, their function is more important than their story.
+Maillardet: However, if you're that interested in the story... Well, I'll consider.
+ Why do they need combat skills?
+Maillardet: Um... Well, actually, Mr. Bossuet was against that at first, too.
+Maillardet: I guess you could consider this... my personal interest?
+Maillardet: See? Now that Coppelius and Coppelia have combat abilities, their dance now exudes elegance as well as power!
+Maillardet: Regardless of what anyone else thinks, I believe that this was a successful attempt.
+Maillardet: Of course, there was a happy accident involved... With Mr. Bossuet's departure from the Institute, there's no one left to reject my research plans!
+ Let's do this later.
+Maillardet: The dance floor is always open for you.
+
+Dialogue Set #3[]
+Available once the Icewind Suite is defeated but has not respawned.
+
+
+Maillardet: Bold (‍sirsirText for male Traveler/ma'amma'amText for female Traveler‍), the data sample collection and repair of our clockwork machines will take some time, so please wait patiently in the meantime.
+
+Trivia[]
+Etymology[]
+Maillardet is likely named after Henri Maillardet, a Swiss mechanician best known for creating the Draughtsman-Writer and other automata.
+Other Languages[]
+
+LanguageOfficial NameEnglishMaillardetChinese(Simplified)梅雅德MéiyǎdéChinese(Traditional)梅雅德MéiyǎdéJapaneseマイヤルデMaiyarudeKorean마이아르데MaiareudeSpanishMaillardetFrenchMaillardetRussianМайардеMayardeThaiMaillardetVietnameseMaillardetGermanMaillardetIndonesianMaillardetPortugueseMaillardetTurkishMaillardetItalianMaillardet
+Change History[]
+Released in Version 4.0[Create New History]
+
+
+

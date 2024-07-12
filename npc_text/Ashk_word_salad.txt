@@ -1,0 +1,143 @@
+
+
+
+
+
+Ashk
+Researcher
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Sumeru
+
+
+Location
+Sumeru
+
+
+Affil­i­a­tion
+Rtawahist
+
+
+Dialogue Reward
+ 1
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Ashk is an open-world NPC located in Sanctuary of Surasthana, Sumeru City, Sumeru.
+Following a certain dialogue branch for the first time gives the player one 4★ Labyrinth Wayfarer.
+
+Contents
+
+1 Location
+2 Idle Quotes
+3 Thoughts
+4 Dialogue
+5 Event Dialogue
+
+5.1 A Parade of Providence
+
+
+6 Other Languages
+7 Change History
+
+
+Location[]
+Ashk's locationAdditional context
+Idle Quotes[]
+
+ The sky...
+Media:VO Ashk 01.ogg "The sky will reveal everything to us."
+
+During A Parade of Providence
+
+ Can't see anything...
+Media:VO Ashk A Parade of Providence 01.ogg "Turns out I can't actually see anything from this high up... Oh well, it's not a big deal anyways."
+
+Thoughts[]
+Ashk's thoughts can be accessed by using Nahida's Elemental Skill, All Schemes to Know.
+
+
+Media:VO Ashk All Schemes to Know 01.ogg Ashk: (I haven't seen Mahamatra Cyno for ages... Has he been playing cards this whole time?)
+
+During A Parade of Providence
+
+Ashk: (Good luck, Cyno!)
+
+Dialogue[]
+
+Ashk: No matter how far up you may climb, you still can't touch the sky...
+ Hello.
+Ashk: Hello. Hardly anyone comes around here. Are you here to stargaze?
+Ashk: The untouchable sky conceals the truth about the world... At least, that's what we Rtawahists believe.
+Ashk: But the mortal sight is limited. Who can guarantee that they can see all the celestial signs clearly?
+Ashk: How about you, what do you think?
+ The stars determine your destiny...
+(Before completing Where the Boat of Consciousness Lies)
+Ashk: Ah, are you talking about the research on constellations?
+Ashk: Unfortunately, I don't have a Vision, so I couldn't participate in those research projects.
+Ashk: But I feel the stars don't "decide" your destiny so much as they "show" it.
+Ashk: Because if it was decided, then it could be changed, right?
+Ashk: If destiny could be changed, maybe Greater Lord Rukkhadevata wouldn't have met her end.
+(After completing Where the Boat of Consciousness Lies)
+Ashk: Ah, are you talking about the research into constellations?
+Ashk: Unfortunately, I don't have a Vision, so I couldn't participate in those research projects.
+Ashk: But I feel that the stars don't "decide" your destiny so much as they "show" it.
+Ashk: Because if such things can be "decided," then they can also be "changed," right?
+Ashk: If destiny could be rewritten just like that, I doubt that the Dendro Archon would have had to expend so much energy quelling the ancient calamity back then.
+ Things might not be as they seem...
+Ashk: You're right. People can be easily distracted or deceived.
+Ashk: If I were a matra, I might tell you that ignorance is also a blessing.
+Ashk: But people's ignorance will not affect the existence of truth. Sometimes blindness...
+Ashk: Oh, I may have said too much. Just ignore my words and let it go with the wind.
+(Obtain 4★  Labyrinth Wayfarer)
+ Let me give it more thought...
+Ashk: Yeah.
+
+Event Dialogue[]
+A Parade of Providence[]
+
+Ashk: It's said that you can see pretty far if you stand high, but the higher you go, the harder it is to see what's right beneath you...
+Ashk: Ah, sorry. I was talking to myself.
+Ashk: If you're looking to join the Akademiya Extravaganza, then you probably got lost to wander this far. You're way past the boundaries of the festivities.
+
+Other Languages[]
+
+LanguageOfficial NameEnglishAshkChinese(Simplified)阿什克ĀshíkèChinese(Traditional)阿什克ĀshíkèJapaneseアシュクAshukuKorean아쉬크AswikeuSpanishAshkFrenchAshkRussianАшкAshkThaiAshkVietnameseAshkGermanAshkIndonesianAshkPortugueseAshkTurkishAshkItalianAshk
+Change History[]
+Released in Version 3.0[Create New History]
+
+
+

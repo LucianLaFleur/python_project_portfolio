@@ -1,0 +1,140 @@
+
+
+
+
+
+Manager Xiao
+Dockyard Supervisor
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Liyue
+
+
+Location
+Liyue
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Manager Xiao (Chinese: 枭总管 Xiāo Zǒngguǎn) is an open-world NPC in Liyue Harbor. He can be found walking between Chihu Rock and the dockyard. He will be overlooking the harbor, standing in front of the lion statues a bit past Master Zhang.
+
+Contents
+
+1 Location
+2 Profile
+
+2.1 Appearance
+
+
+3 Quests and Events
+
+3.1 Events
+
+
+4 Idle Quotes
+5 Dialogue
+6 Event Dialogue
+
+6.1 Fleeting Colors in Flight
+
+
+7 Trivia
+8 Other Languages
+9 Change History
+
+
+Location[]
+Manager Xiao's locationAdditional context
+Profile[]
+Manager Xiao is the dockyard manager in Liyue Harbor.
+
+Appearance[]
+Manager Xiao is an elderly man with a slim build and midnight blue eyes. He wears almond capri pants and knee-length black boots with green gems at the front and gold linings. He wears a long-sleeved maroon shirt with two white knots at the collar, once again lined by golden material. Atop the shirt, he wears a black-bordered burgundy vest with lighter prints of swirls.
+
+Quests and Events[]
+EventsLantern Rite TalesOutspoken Linling
+Idle Quotes[]
+
+ Embarrassment to Liyue...
+Media:VO Manager Xiao 01.ogg "If you can't get it done, then pack your stuff and go! *sigh* Embarrassment to Liyue..."
+ Slow down...
+Media:VO Manager Xiao 02.ogg "Slow down or you'll choke."
+
+During Fleeting Colors in Flight
+
+ No slacking off!
+Media:VO Manager Xiao Lantern Rite 01.ogg "No slacking off! We do not let Liyue down at the Lantern Rite."
+
+Dialogue[]
+
+Manager Xiao: Hmph. The younger generation are nothing but slackers these days.
+ About Rex Lapis' death...
+(After completing Rite of Descension)
+Manager Xiao: Not now. I can't let myself be distracted while I'm at work.
+Manager Xiao: I'm getting old myself, and the thought did once cross my mind: Will the dockyard collapse into dysfunction after I die?
+Manager Xiao: But the answer is no! The orderly functioning of the dockyard, and of Liyue, is based on centuries of tradition. Things like that do not simply disappear overnight... I, for one, will not allow it!
+Manager Xiao: In the same way, if the Lord of Geo is truly deceased... Well, I will simply continue to do my job. Just as I have always done. To do otherwise would be to dishonor his legacy.
+(After completing The Fond Farewell)
+Manager Xiao: Hmph. There's nothing to be said. Someone did once ask me if Liyue would descend into chaos should Rex Lapis pass away...
+Manager Xiao: My answer then was "no" — and now that the Rite of Parting has ended, Liyue Harbor's present state proves that I was right!
+Manager Xiao: Liyue Harbor has become a well-oiled machine over many years of development, one that will continue to run even in the absence of its creator!
+Manager Xiao: That's all from me. There's still much to do! Manning our posts and doing our duty — that's how we will honor his memory!
+ You are...?
+Manager Xiao: I'm the Dockyard Manager here in Liyue Harbor. Name's Xiao. Is there something I can help you with? If not, I need to get back to work.
+ Actually, about your work...
+Manager Xiao: Work? Bah! Don't get me started! Young people these days... No expertise, zero sense of responsibility, they don't bother to tell you when they aren't going to show up, and when they do show up... Half the time they do more harm than good, and the other half they expect you to applaud every word that comes out of their mouths... Honestly, if we old folks weren't hand-holding them every step of the way...
+Manager Xiao: I've said it before, and I'll say it again: Liyue's ships are the face of the nation. We should be aiming for perfection every time! Each spot you miss with the paintbrush harms not just my reputation, but that of Liyue itself!
+Manager Xiao: Bah, I'm wasting my breath... You outlanders wouldn't understand anyway...
+ See you.
+Manager Xiao: Bah, hopefully not! Don't distract me anymore!
+
+Event Dialogue[]
+Fleeting Colors in Flight[]
+
+Manager Xiao: Hmph. Young people nowadays have no work ethic worth mentioning!
+Manager Xiao: They slack off at key times and care so much about the holidays, yet know nothing of enterprise or responsibility.
+Manager Xiao: If everyone was this lax in their duties, we wouldn't have managed to construct a single small fishing boat, let alone the Jade Chamber!
+(Continue non-event dialogue)
+
+Trivia[]
+His name, Xiao (枭/梟 Xiāo), has several meanings, including "owl" and "leader."
+Other Languages[]
+
+LanguageOfficial NameEnglishManager XiaoChinese(Simplified)枭总管Xiāo ZǒngguǎnChinese(Traditional)梟總管Xiāo ZǒngguǎnJapanese梟総管Fukurou Sou KanKorean효 총관Hyo ChonggwanSpanishGerente XiaoFrenchContremaître ShaoRussianЗаведующий СяоZaveduyushchiy SyaoThaiคนคุมงาน XiaoKhon Khum Ngan XiaoVietnameseXiao Tổng QuảnGermanWerkmeister XiaoIndonesianManajer XiaoPortugueseGerente do Estaleiro XiaoTurkishMüdür XiaoItalianCapocantiere Xiao
+Change History[]
+Released in Version 1.0[Create New History]
+
+
+

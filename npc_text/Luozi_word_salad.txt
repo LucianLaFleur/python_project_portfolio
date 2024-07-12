@@ -1,0 +1,117 @@
+
+
+
+
+
+Luozi
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Liyue
+
+
+Affil­i­a­tion
+Adventurers' Guild
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Event-Exclusive NPCs 
+
+
+
+
+Luozi is an event-exclusive NPC who appeared in Duel! The Summoners' Summit!.
+
+Contents
+
+1 Location
+2 Profile
+
+2.1 Appearance
+
+
+3 Quests and Events
+
+3.1 Events
+
+
+4 Dialogue
+5 Other Languages
+6 Change History
+
+
+Location[]
+During Duel! The Summoners' Summit!
+Luozi's locationAdditional context
+Profile[]
+(To be added.)
+
+Appearance[]
+(To be added.)
+
+Quests and Events[]
+EventsDuel! The Summoners' Summit!
+Dialogue[]
+
+Luozi: The King of Invokations Grand Prix sure has attracted a lot of people...
+Luozi: Hey there, Traveler. Are you here to take part in the Grand Prix as well?
+ About Zero Hour Invokation...
+Luozi: Oh, you're interested in trying this out? Sure, you can build your deck over here.
+Luozi: You'll be playing against Hong'yu. Good luck!
+Luozi: I never expected Zero Hour Invokation to be so popular... Hmm, I think I'm sensing some business opportunities...
+Luozi: Ahem! Please build your deck here and let me know if you need any help.
+Hong'yu accepted your challenge, and has come to the table...
+Media:vo card xingqiu event invite start 01.ogg Xingqiu: Seems like you'll be playing against me this time... Great! I was just looking for a worthy opponent.
+ Let's play Genius Invokation TCG.
+(Open Zero Hour Invokation interface)
+(Win the match)
+
+Media:vo card xingqiu event invite fail 01.ogg Xingqiu: *sigh* Turns out I couldn't just place all of my trust in the guide...
+(Lose the match)
+
+Media:vo card xingqiu event invite win 01.ogg Xingqiu: You truly were a worthy opponent.
+ I've got other things to do right now...
+Media:vo card xingqiu event invite leave 01.ogg Xingqiu: A decisive victory is rather difficult to achieve in this tournament.
+ About the mechanical paintings...
+Luozi: Mechanical paintings? Oh, you mean those paintings you can freely take apart and reassemble?
+Luozi: They're right over here. The Guild brought them over not long ago.
+Luozi: If you're interested, you can give them a try right away.
+ I've got other things to do right now...
+Luozi: Alright. I'll be at this booth throughout the Grand Prix event period.
+Luozi: If you have any questions, just come ask me directly.
+
+Other Languages[]
+
+LanguageOfficial NameEnglishLuoziChinese(Simplified)络紫LuòzǐChinese(Traditional)絡紫LuòzǐJapanese絡紫Rakushi‍[!][!]Assumed readingKorean낙자NakjaSpanishLuoziFrenchLuoziRussianЛуо ЦзыLuo TszyThaiLuoziVietnameseLuoziGermanLuoziIndonesianLuoziPortugueseLuoziTurkishLuoziItalianLuozi
+Change History[]
+Released in Version 3.7[Create New History]
+
+
+

@@ -1,0 +1,167 @@
+
+
+
+
+
+Swan
+Knight of Favonius
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Mondstadt
+
+
+Location
+Mondstadt
+
+
+Affil­i­a­tion
+Knights of Favonius
+
+
+Genius Invokation TCG
+Stages
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Swan is an open-world NPC located in the City of Mondstadt, Mondstadt. He can be found guarding Mondstadt's front gate with Lawrence. He also works together with Huffman on restocking and dispensing medication.
+
+Contents
+
+1 Location
+2 Profile
+
+2.1 Appearance
+
+
+3 Quests and Events
+
+3.1 Archon Quests
+3.2 Story Quests
+
+3.2.1 Hangout Events
+
+
+3.3 World Quests
+3.4 Commissions
+3.5 Events
+
+
+4 Idle Quotes
+5 Dialogue
+6 Character Mentions
+
+6.1 Character Stories
+
+
+7 Gallery
+
+7.1 Cameos
+
+
+8 Other Languages
+9 Change History
+
+
+Location[]
+Swan's locationAdditional context
+Profile[]
+(To be added.)
+
+Appearance[]
+Swan wears one of the standard uniforms of the Knights of Favonius. The uniform consists of a black long-sleeve shirt and horse riding pants with white plate armor worn on top. However, the poleyns, greaves, and sabatons are black. The Knights of Favonius crest decorates the breastplate and a sheathed sword hangs from his belt on his left side.
+
+Quests and Events[]
+Archon QuestsPrologueAct I: The Outlander Who Caught the WindDragon StormStory QuestsLeo Minor Chapter (Jean)Act I: Master's Day OffMaster's Day OffNoctua Chapter (Diluc)Act I: Darknight Hero's AlibiLegend of the Darknight HeroHangout EventsNoelleAct I: Chivalric TrainingThe Art of HospitalityWorld QuestsBattlefield of Dice, Cats, and CardsCome Try Genius Invokation TCG!Question and AnswerCommissionsQuestion and AnswerEventsEvermotion Mechanical PaintingEvermotion Mechanical Painting
+Idle Quotes[]
+
+Media:VO Swan 01.ogg "Mondstadt welcomes you."
+Media:VO Swan 02.ogg "Wind go with you."
+
+Dialogue[]
+
+Swan: Hi. Anything the Knights can do for you?
+ Adventure Challenge
+(Opens Genius Invokation TCG match interface)
+(If the player loses the match)
+
+Swan: Good game, but I think you let me win.
+(If the player wins the match)
+
+Swan: What a way to win. I've been schooled.
+ About Stormterror...
+(Unlocked after completing The Outlander Who Caught the Wind)
+Swan: Stormterror? One moment, let me try to recall the Knights of Favonius Handbook...
+Swan: I'm sorry, I don't remember anything in there that tells us what to do when facing giant dragons.
+Swan: Oh, but I do remember that it does mention how to deal with sudden threats:
+Swan: "When danger is imminent, please do not panic. Cover your head with both hands, and crouch down to protect your vital parts."
+Swan: I think l'll do as this says...
+(Unlocked after A Long Shot)
+Swan: It's over at last. We can finally breathe easy.
+Swan: We should suggest to the higher-ups that we need to add "what to do in the even of a giant dragon's appearance" to the Knights of Favonius Handbook.
+Swan: Still, such a thing is unlikely to happen a second time...
+ Who are you?
+Swan: I'm Swan. I mostly perform sentry duty.
+Swan: I also provide any necessary assistance to our business visitors in accordance with the Knights of Favonius Handbook.
+ Knights of Favonius Handbook?
+Swan: Yes. The Knights of Favonius Handbook is our instructional guide, and also the cornerstone of peace and prosperity in Mondstadt...
+ Is there anywhere good to go in Mondstadt?
+Swan: ...
+ ...
+Swan: ...
+Swan: ...
+Swan: ...Sorry, I can't find anything at all about that in the Knights of Favonius Handbook...
+ Goodbye.
+Swan: Bye-bye!
+Swan: May Barbatos and his gentle wind protect you!
+
+Character Mentions[]
+Character StoriesCharacterStoriesLisaCharacter Story 3
+Gallery[]
+Cameos[]
+Collected Miscellany - "Klee Jumpy Dumpty" Genshin Impact
+Other Languages[]
+
+LanguageOfficial NameEnglishSwanChinese(Simplified)斯万SīwànChinese(Traditional)斯萬SīwànJapaneseスワンSuwanKorean스완SeuwanSpanishSwanFrenchSwannRussianСвенSvenThaiSwanVietnameseSwanGermanSwanIndonesianSwanPortugueseSwanTurkishSwanItalianSwan
+Change History[]
+Released in Version 1.0[Edit History]Version 3.3
+Added a Genius Invokation TCG Adventure Challenge for Swan.
+
+Version 1.0
+
+Swan was released.
+
+
+

@@ -1,0 +1,160 @@
+
+
+
+
+
+Loredan
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Real Name
+Loredan Vicentino
+
+
+Region
+Fontaine
+
+
+Location
+Fontaine
+
+
+
+
+
+
+
+
+								Additional Titles
+							
+
+
+
+								Categories
+							
+
+
+
+
+
+Lauretus Vicetinus
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Loredan is an open-world NPC located in Petrichor, Nostoi Region, Fontaine.
+His dialogue changes after completing the World Quest Series Canticles of Harmony. During the quest, he is possessed by Lauretus Vicetinus, a legionnaire from Remuria.
+
+Contents
+
+1 Location
+2 Quests and Events
+
+2.1 World Quests
+
+
+3 Idle Quotes
+4 Dialogue
+
+4.1 Dialogue Set #1
+4.2 Dialogue Set #2
+
+
+5 Trivia
+
+5.1 Etymology
+
+
+6 Other Languages
+7 Change History
+
+
+Location[]
+Loredan's locationAdditional context
+Quests and Events[]
+World QuestsLatecoming Homecoming
+Idle Quotes[]
+Available before completing Canticles of Harmony.
+
+
+ Barbarians...
+Media:VO Loredan 01.ogg "The barbarians have been getting uppity of late. We must step up our patrols!"
+
+Available after completing Canticles of Harmony.
+
+
+ A beautiful melody...
+Media:VO Loredan 02.ogg "Ah, when will I be able to play such a beautiful melody..."
+
+Dialogue[]
+Dialogue Set #1[]
+Available before completing Canticles of Harmony.
+
+
+Loredan: Ho there, citizen! If you require shelter, simply head to the belltower in the city center.
+Loredan: The savages have been getting all bold and uppity lately, so be on your guard!
+ And you are?
+Loredan: Lauretus Vicetinus am I, under the auxilia of Machimos's Legio III!
+Loredan: So long as we are here, we shall suffer no despicable invaders to step within the city walls!
+ City walls? Where'd they come from?
+Loredan: Hmm? Are we not within our defensive walls as we speak?
+Loredan: Ah, wait, I see... You're testing me! Why, just as Dominus Boethius once said, "the mighty legions are the true walls of the empire"!
+ You mean the belltower?
+Loredan: Indeed! These are days of fire and sword, after all, and as soldiers of the Imperator, our God-King, we cannot allow our imperial citizens to be exposed to danger.
+Loredan: Someone in the belltower will guide you to Machimos. You shall be safe there.
+ About the barbarians...
+Loredan: Those savages? There's nothing to be said for those detestable invaders! They destroy our cities, slaughter our people...
+Loredan: Enemies of the empire I name them... Nay, enemies of all civilization!
+Loredan: Still, you need not fear, citizen! Dominus Boethius shall soon come to Machimos in person.
+Loredan: When that happens, all disturbances shall be utterly quelled, and those putrid primitives shall get what they deserve!
+ Have you met any barbarians?
+Loredan: Hmm... No, not yet, I fear. They're a cunning lot, I must say. They rarely show up when they cannot be sure of victory...
+ Goodbye.
+Loredan: Fare ye well, citizen!
+
+Dialogue Set #2[]
+Available after completing Canticles of Harmony.
+
+
+Loredan: Ah, if only I could play such a wonderful melody...
+ And you are...
+Loredan: Ah, hello there, dear guests! I'm Loredan Vicentino, a student of Master Giovanni's!
+Loredan: If you wish to order instruments, please seek my master instead.
+ A beautiful melody?
+Loredan: Indeed! Just as my brothers and sisters have, organizing performances at the Opera Epiclese to endless plaudits and applause...
+Loredan: That said, I'm not at their level. I must work harder, practice harder, to maintain the prestige of our family!
+Loredan: That's why I've stayed in town, working for Master Giovanni on one hand, while honing my musical craft on the other.
+Loredan: One day, people will surely say of me, "Ah, indeed, you are a descendent of the Vicentino family!"
+ Goodbye.
+Loredan: See you, dear guest from afar!
+
+Trivia[]
+Etymology[]
+The Loredan were a patrician Venetian family whose numerous members became doges or admirals of the Republic of Venice.
+Other Languages[]
+
+LanguageOfficial NameEnglishLoredanChinese(Simplified)洛尔丹Luò'ěrdānChinese(Traditional)洛爾丹Luò'ěrdānJapaneseロレダンRoredanKorean로레단RoredanSpanishLoredanFrenchLoredanRussianЛореданLoredanThaiLoredanVietnameseLoredanGermanLoredanIndonesianLoredanPortugueseLoredanTurkishLoredanItalianLoredan
+Change History[]
+Released in Version 4.6[Create New History]
+
+
+

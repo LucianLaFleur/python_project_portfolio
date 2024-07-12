@@ -1,0 +1,145 @@
+
+
+
+
+
+Kimiya
+Student
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Sumeru
+
+
+Location
+Sumeru
+
+
+Affil­i­a­tion
+Spantamad
+
+
+Genius Invokation TCG
+Stages
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Kimiya is an open-world NPC located in Sumeru City, Sumeru. He can be seen standing next to the Crafting Bench on Treasures Street, indicated by the  icon on the map.
+
+Contents
+
+1 Location
+2 Profile
+
+2.1 Appearance
+
+
+3 Quests and Events
+
+3.1 Archon Quests
+
+
+4 Idle Quotes
+5 Thoughts
+6 Dialogue
+7 Other Languages
+8 Change History
+
+
+Location[]
+Kimiya's locationAdditional context
+Profile[]
+(To be added.)
+
+Appearance[]
+(To be added.)
+
+Quests and Events[]
+Archon QuestsChapter IIIAct II: The Morn a Thousand Roses BringsThe Coming of the Sabzeruz FestivalThe Arrival of the Sabzeruz FestivalThe Continuation of the Sabzeruz Festival
+Idle Quotes[]
+
+ I don't get it...
+Media:VO Kimiya 01.ogg "Why isn't it working? *sigh* I don't get it."
+
+Thoughts[]
+Kimiya's thoughts can be accessed by using Nahida's Elemental Skill, All Schemes to Know.
+
+Media:VO Kimiya All Schemes to Know 01.ogg Kimiya: (Is there really no future for Alchemical Divination?)
+Dialogue[]
+
+Kimiya: Is this interpretation based on...
+ May I use the Crafting Bench here?
+Kimiya: Ah, sure, go ahead. I was thinking about something else anyways...
+ Adventure Challenge
+(Opens Genius Invokation TCG match interface)
+(If the player loses the match)
+
+Kimiya: I won, haha! If only I could perform divination using Genius Invokation TCG cards...
+(If the player wins the match)
+
+Kimiya: Well... Is this what the bad omen that I read today meant?
+ What are you doing?
+Kimiya: Lately, I've been studying something called "Alchemical Divination."
+Kimiya: You rely on intuition to randomly choose some things to conduct alchemy on. If it fails — and, of course, most of the time it does fail — the ashes are used in divination.
+Kimiya: It's pretty much the same principle as divination of coffee grounds or leftover tea leaves.
+Kimiya: I've noticed that the girls in my class are really interested in that sort of thing, so there's no reason that Alchemical Divination shouldn't be just as popular, right?
+(Before Where the Boat of Consciousness Lies)
+
+ Is this a personal interest or is it purely academic?
+Kimiya: Ahem... Can't it both?
+Kimiya: My mentor kept shaking their head after I said that according to legend, Alchemical Divination was invented by Lesser Lord Kusanali. But I don't think it's time to give up yet.
+Kimiya: I just need to workout the rationale for this interpretation, even the tiniest one. Then I can go back and discuss it with my mentor!
+(After Where the Boat of Consciousness Lies)
+
+ Is this interest personal or academic?
+Kimiya: Ahem... Can't it both?
+Kimiya: When I said that "legends hold that this was invented by Lesser Lord Kusanali," my mentor did have a doubtful look, but I didn't get rejected outright, so I reckon that it's too early to give up yet!
+Kimiya: I just need to work out some rationale for this interpretation, even if it's a flimsy one. Then I can go back and discuss it with my mentor!
+ See you.
+Kimiya: Ugh, but why?
+
+Other Languages[]
+
+LanguageOfficial NameEnglishKimiyaChinese(Simplified)齐米亚QímǐyàChinese(Traditional)齊米亞QímǐyàJapaneseキミヤKimiyaKorean키미야KimiyaSpanishKimiyaFrenchKimiyaRussianКимияKimiyaThaiKimiyaVietnameseKimiyaGermanKimiyaIndonesianKimiyaPortugueseKimiyaTurkishKimiyaItalianKimiya
+Change History[]
+Released in Version 3.0[Edit History]Version 3.3
+Added a Genius Invokation TCG Adventure Challenge for Kimiya.
+
+Version 3.0
+
+Kimiya was released.
+
+
+

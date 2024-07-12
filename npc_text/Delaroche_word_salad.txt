@@ -1,0 +1,151 @@
+
+
+
+
+
+Delaroche
+Fontaine Angler
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+								Voice Actors
+							
+
+
+
+
+
+Region
+Fontaine
+
+
+Location
+Fontaine
+
+
+Affil­i­a­tion
+Fishing Association
+
+
+
+
+English
+Debi Derryberry[1]
+
+
+Japanese
+Tanaka Shiori (田中しおり)[2]
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Delaroche is an open-world NPC located in Court of Fontaine Region, Fontaine.
+
+Contents
+
+1 Shop
+2 Location
+3 Quests and Events
+
+3.1 Events
+3.2 Hidden Exploration Objectives
+
+
+4 Idle Quotes
+5 Dialogue
+6 Other Languages
+7 Change History
+8 References
+
+
+Shop[]
+ItemFish CostStock
+ Formula: Sour Bait Medaka ×31
+ Formula: Flashing Maintenance Mek Bait Medaka ×31
+ Blueprint: Maintenance Mek: Technical Demo Type Maintenance Mek: Water Body Cleaner ×5 Maintenance Mek: Situation Controller ×51
+ Wavepiercer Maintenance Mek: Initial Configuration ×20 Maintenance Mek: Water Body Cleaner ×20 Maintenance Mek: Situation Controller ×20 Streaming Axe Marlin ×201
+ Fleuve Cendre Ferryman Maintenance Mek: Platinum Collection ×4 Rippling Heartfeather Bass ×10 Blazing Heartfeather Bass ×10 Streaming Axe Marlin ×121
+ Martens' Omni-Fix Maintenance Mek: Platinum Collection ×2 Rippling Heartfeather Bass ×5 Blazing Heartfeather Bass ×5 Streaming Axe Marlin ×64
+ Fishing Line Stabilizer Medaka ×31
+
+Location[]
+Delaroche's locationAdditional context
+Quests and Events[]
+EventsThelxie's Fantastic AdventuresPart I: Water Imp's ConjectureWater Imp's ConjecturePart III: Miraculous CrownMiraculous CrownHidden Exploration ObjectivesDelaroche's Bait
+Idle Quotes[]
+
+ Patience...
+Media:VO Delaroche 01.ogg "I just need to have patience! Come on, stay strong..."
+
+Dialogue[]
+
+Delaroche: Patience, patience... This is just a test of my patience...
+Delaroche: As the director of the Fishing Association, I must remain by my post here at the fishing point — I shall defeat these Linebreakers with my unbending will!
+ Never mind that for now. I'd like to purchase some fishing supplies.
+Delaroche: Oh sure, of course! Take your pick!
+(Opens the Shop menu)
+ How's the haul?
+(Before completing Delaroche's Bait)
+Delaroche: Why, hello there! Thanks for your concern!
+Delaroche: As you can see, I'm having a hard time with these Linebreakers, these fighters who dwell underwater. I haven't really had much success yet.
+Delaroche: But so long as I keep my head down and keep at it, believe me, I shall eventually earn my victory!
+ How's your recent catches been?
+(After completing Delaroche's Bait, if the player chose to rationally explain to her)
+Delaroche: Ah! The God of Victorious Linebreaking! We meet again!
+Delaroche: I've been steadily improving my bait recently, and think I've come a long way. I've even caught several... somewhat larger fish!
+Delaroche: I still don't think I've managed to create the ideal bait, however, so I don't have anything to give you...
+Delaroche: But please, don't worry! At this rate, I know I'll be able to recreate that wonderful bait sooner or later!
+ You really did bring a weapon!
+(After completing Delaroche's Bait, if the player chose to scare her)
+Delaroche: Hehe, that's right! I asked a friend at the Adventurer's Guild to procure it. Apparently, it's a foreign model...
+Delaroche: While it's not as elegant to use as pistolets, it's simple, cheap, and easy to maintain.
+Delaroche: O strange aquatic creature, you'd better pray I don't catch you. Otherwise, special treatment shall be in order!
+ Who are you?
+Delaroche: I'm the current director of the Fontaine Fishing Association, Delaroche! If you have any questions about fishing, you can come to me!
+Delaroche: Ah, but I refer to fishing equipment and material. As for techniques, tips, and tricks, I shall not haphazardly instruct others.
+ Well, I shan't bother you, then.
+Delaroche: Huh? Wait. Did you ask me something? Sorry, I didn't notice you there — I won't do that again, trust me!
+
+Other Languages[]
+
+LanguageOfficial NameEnglishDelarocheChinese(Simplified)德拉萝诗DélāluóshīChinese(Traditional)德拉蘿詩DélāluóshīJapaneseデラロッシュDerarosshuKorean들라로슈DeullarosyuSpanishDelarocheFrenchDelarocheRussianДеларошDelaroshThaiDelarocheVietnameseDelarocheGermanDelarocheIndonesianDelarochePortugueseDelarocheTurkishDelarocheItalianDelaroche
+Change History[]
+Released in Version 4.0[Create New History]
+References[]
+
+↑ TikTok: EN VA Self Announcement
+
+↑ Twitter: JP VA Self Announcement (Archived)
+
+
+
+
+

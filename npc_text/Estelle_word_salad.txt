@@ -1,0 +1,185 @@
+
+
+
+
+
+Estelle
+Boss of Beaumont Workshop
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+								Voice Actors
+							
+
+
+
+
+
+Region
+Fontaine
+
+
+Location
+Fontaine
+
+
+Affil­i­a­tion
+Fontaine Research Institute (formerly)
+
+
+
+
+English
+Emma Breezy[1]
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Estelle is an open-world NPC located in Court of Fontaine: Vasari Passage, Fontaine. She is the owner of Beaumont Workshop, which is marked with the  icon on the map. She is a blacksmith who sells weapon Diagrams and 2-star Weapons, and can forge certain 4-star Weapons and Weapon enhancement materials.
+
+Contents
+
+1 Shop
+
+1.1 Forging Diagram
+1.2 Self-Defense Weapons
+
+
+2 Location
+3 Profile
+
+3.1 Appearance
+
+
+4 Quests and Events
+
+4.1 Archon Quests
+4.2 World Quests
+4.3 Commissions
+4.4 Events
+
+
+5 Idle Quotes
+6 Dialogue
+7 Other Languages
+8 Change History
+9 References
+
+
+Shop[]
+Forging Diagram[]
+ItemMaterial CostStock
+ Diagram: Finale of the Deep Bulle Fruit ×10 Tidalga ×10 Condessence Crystal ×101
+ Diagram: Song of Stillness Pluie Lotus ×10 Marcotte ×10 Condessence Crystal ×101
+ Diagram: Tidal Shadow Bulle Fruit ×10 Marcotte ×10 Condessence Crystal ×101
+ Diagram: Flowing Purity Tidalga ×10 Marcotte ×10 Condessence Crystal ×101
+ Diagram: Rightful Reward Bulle Fruit ×10 Pluie Lotus ×10 Condessence Crystal ×101
+
+Self-Defense Weapons[]
+ItemCostStockTotalCostRefreshes
+ Silver Sword6001600Daily
+ Old Merc's Pal6001600Daily
+ Iron Point6001600Daily
+ Pocket Grimoire6001600Daily
+ Seasoned Hunter's Bow6001600Daily
+Total cost for all items3,000 
+Location[]
+Estelle's locationAdditional context
+Profile[]
+Estelle is the blacksmith of Beaumont Workshop in Court of Fontaine and a former member of the Fontaine Research Institute. Unlike other blacksmiths who rely on hammer and muscle, she forges using advanced Fontainian machinery that makes up for her size and can "make the impossible, possible."[2] Despite having the "Boss" title, it doesn't stop her from being harassed by Truand, one of her customers.
+
+Appearance[]
+(To be added.)
+
+Quests and Events[]
+Archon QuestsChapter IVAct I: Prelude of Blancheur and NoirceurThe City of Rains and RemembranceWorld QuestsA Certain TrifleSemi-Automatic ForgingThe Fountain Flows AgainCommissionsTales From the CourtEventsRoses and MusketsAct II: Fiction and Reality Inside and Outside the FrameFiction and Reality Inside and Outside the Frame
+Idle Quotes[]
+
+ More improvements...
+Media:VO Estelle 01.ogg "...There's still a lot of room for improvement with this machine."
+
+Dialogue[]
+
+Estelle: Hello there, what can I help you with?
+ I'd like to buy a weapon.
+Estelle: Take your pick — each one of our products is masterfully crafted.
+(Opens Shop)
+ I'd like something made.
+(If nothing has been forged)
+
+Estelle: Please give me the details, and I'll start operating the machine right away.
+(If something has been forged but not collected yet)
+
+Estelle: Your previous order is complete. Do you have any other requests?
+ Tell me about Fontaine's mineral products.
+(If there are Magical Crystal Ore Veins Estelle knows)
+
+Estelle: You want to know about ore-producing areas nearby? Well, there are indeed some Condessence Crystals around, and some hard Magical Crystal Ore.
+Estelle: I can't get my machine there to help you extract them, however. You're on your own, I'm afraid...
+Estelle: There's no problem, you say? Okay, then. Allow me to mark the spot on your map. And remember, safety first while excavating!
+(Rich Ore Reserves marked on the map)
+(If there are no more Magical Crystal Ore Veins Estelle knows)
+
+Estelle: The ore supplier was just here, and I heard from them that the nearby mines barely have anything left. I'm sorry. I'll let you know if I hear anything else.
+ Is this machine used to forge weapons?
+Estelle: That's right. I'm very proud of this one, in fact.
+Estelle: After all, are machines not eminently suited to this energy-intensive work we call forging, being able to control strength and temperature precisely as they are?
+Estelle: Even someone with the most ordinary of physical qualities like me can make exquisite, honed weaponry, just like those muscled smiths.
+(Available after Step 4 of The City of Rains and Remembrance)
+ Could you tell me about the "prophecy"?
+Estelle: Ah, you've finished delivering Magic Pockets with that magician, I see. Good work.
+Estelle: To be honest, I think he's influenced me a bit — I couldn't help but send some of my friends a couple of those pockets.
+Estelle: I was originally a renowned scientist working at the Fontaine Research Institute. By right, I shouldn't believe in such things.
+Estelle: But as they say, it never hurts to be prepared. A rigorous researcher should take all manner of possibilities into consideration.
+(Available after completing The Opera of Noirceur and Blancheur)
+ Could you tell me about the "prophecy"?
+Estelle: Ah, the flood. That magic pocket your magician friend provided proved very useful.
+Estelle: I wasn't a believer in the prophecy myself. But I put a lot of spare parts and tools inside, just in case.
+Estelle: And boy, am I glad I did. I'd never have found them all if the water had swept them away.
+Estelle: So it looks like you and your friends weren't affected too badly? Great, it's such a relief the prophecy crisis has finally passed.
+ I don't need anything at the moment.
+Estelle: In that case, take care.
+
+Other Languages[]
+
+LanguageOfficial NameEnglishEstelleChinese(Simplified)伊丝黛莱YīsīdàiláiChinese(Traditional)伊絲黛萊YīsīdàiláiJapaneseエスタブレEsutabureKorean에스타블레EseutabeulleSpanishEstelleFrenchEstelleRussianЭстельEstel'ThaiEstelleVietnameseEstelleGermanEstelleIndonesianEstellePortugueseEstelleTurkishEstelleItalianEstelle
+Change History[]
+Released in Version 4.0[Create New History]
+References[]
+
+↑ Twitter: EN VA Self Announcement (Archived)
+
+↑ World Quest: Semi-Automatic Forging
+
+
+
+
+

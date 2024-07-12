@@ -1,0 +1,144 @@
+
+
+
+
+
+Yukio
+Street Food Vendor
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Inazuma
+
+
+Location
+Inazuma
+
+
+Dialogue Reward
+ 4
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Yukio is an open-world NPC located in Inazuma City, Inazuma.
+Following a certain dialogue branch for the first time gives the player the player four Onigiri.
+
+Contents
+
+1 Location
+2 Quests and Events
+
+2.1 Events
+2.2 Web Events
+
+
+3 Idle Quotes
+4 Dialogue
+5 Event Dialogue
+
+5.1 Iridescent Arataki Rockin' for Life Tour de Force of Awesomeness
+
+
+6 Trivia
+7 Other Languages
+8 Change History
+9 References
+
+
+Location[]
+Yukio's locationAdditional context
+Quests and Events[]
+EventsIridescent Arataki Rockin' for Life Tour de Force of AwesomenessWeb EventsKitsune's Leisurely Stroll Around Hanamizaka
+Idle Quotes[]
+
+ Special Yakitori...
+Media:VO Yukio 01.ogg "Special Yakitori for sale! Come and try some!"
+
+Dialogue[]
+
+Yukio: Poultry skewer with BBQ sauce, salty grilled fish, kitsune ramen... Dear customer, how would you like to try some native Inazuma snacks?
+Yukio: We also serve tea. We have genmaicha, barley, and oolong. Which one would you like? We do not serve alcohol, though.
+ No alcohol?
+Yukio: Hmm, odd, is it? Well, think about it. If you drink too much, your taste buds will get numb, and you won't be able to taste how good the dishes are anymore.
+Yukio: So even if most Inazuman snacks go well with alcohol, we don't serve alcohol here.
+Yukio: To me, the bitterness and the aftertaste of tea can bring out the taste of the skewers and the sauce better. Alcohol would just cover everything up.
+Yukio: Aside from the skewers, you might want to order some kitsune ramen if you want something more filling... Ah, by the way, you aren't allergic to beans, are you?
+ Allergic to beans?
+Yukio: There was a case like this before, so it's better safe than sorry for me to ask first.
+Yukio: There was an Oni gentleman and a lady with kitsune ears who made a bet here on who could eat the most kitsune ramen.
+Yukio: But there was fried tofu in the ramen, and the Oni people are allergic to beans...
+Yukio: Therefore, even though that gentleman with long horns won the bet, he also almost lost his life... Was it worthwhile?
+ I can't drink alcohol yet.
+Yukio: I see. You aren't old enough to drink, right? That's also fine. You can order some tea while savoring some of Inazuma's snacks.
+Yukio: Here, these Onigiri are freshly made today. They are delicious and filling. Please have some.
+(Obtain  Onigiri ×4)
+ Goodbye.
+Yukio: Take care. Come back again next time.
+
+Event Dialogue[]
+Iridescent Arataki Rockin' for Life Tour de Force of Awesomeness[]
+
+ We'd like to invite you to attend this music festival.
+Yukio: Hmm? Did I hear you wrong? Is this a music festival or a food festival?
+Paimon: Music, and a serious, formal musical exchange to boot! By the way, do you have any music you enjoy? We can play it for you right now!
+Yukio: Oh, you're serious, then? Well, I do have something in mind. I can try humming it for you. Could you try playing it, then?
+ Sure, I'll give it a go.
+Yukio: Well then, this is quite the lovely surprise.
+(After performing)
+Yukio: Wow. What a brilliant recreation! That said, even I have no clue what this song's called, haha.
+Yukio: A fox-eared customer of ours likes humming this one when she comes over for some ramen. She's one of our VIPs. Came round a few days ago, in fact, or I wouldn't have remembered that song at all.
+Yukio: ...I guess that tells you all you need to know about me and music, eh?
+Yukio: If you're looking for a food stall, I'd recommend you look for Tomoki.
+Yukio: That fellow's got a right adventurous spirit. Even if he isn't a fan of music, he should be interested nonetheless.
+(Talk to Yukio again, optional)
+ How was that?
+(Same as After performing)
+
+Trivia[]
+The "Oni gentleman" and "lady with kitsune ears" that Yukio refers to in his dialogue are likely Arataki Itto and Yae Miko.[1]
+He sells 獣骨ラーメン jukotsu raamen which is a variation of the real food 豚骨らーめん tonkotsu raamen meaning "pork bone ramen" however the in-game variant has replaced pork (ton) with beast (ju), implying Yukio's ramen is essentially a mystery meat ramen from some undisclosed beast.
+Other Languages[]
+
+LanguageOfficial NameEnglishYukioChinese(Simplified)幸雄XìngxióngChinese(Traditional)幸雄XìngxióngJapanese幸雄YukioKorean유키오YukioSpanishYukioFrenchYukioRussianЮкиоYukioThaiYukioVietnameseYukioGermanYukioIndonesianYukioPortugueseYukioTurkishYukioItalianYukio
+Change History[]
+Released in Version 2.0[Create New History]
+References[]
+
+↑ Arataki Itto's Voice-Over: About the Lady with Fox Ears
+
+
+
+
+

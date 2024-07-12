@@ -1,0 +1,146 @@
+
+
+
+
+
+"Tricky Bulle Fruit"
+Former "Fruity Order" Operative
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+								Family
+							
+
+
+
+
+
+Region
+Fontaine
+
+
+Location
+Fontaine
+
+
+Affil­i­a­tion
+Fruity Order (formerly)
+
+
+Dialogue Reward
+ 1
+
+
+
+
+Sibling
+Blanche (Fontaine) (adopted sister)
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+"Tricky Bulle Fruit" is an open-world NPC that can be found in the Fortress of Meropide's Administrative Area after completing the World Quest Villains.
+Following a certain dialogue branch for the first time gives the player one "Pure Water".
+
+Contents
+
+1 Location
+2 Profile
+
+2.1 Appearance
+
+
+3 Quests and Events
+
+3.1 World Quests
+
+
+4 Idle Quotes
+5 Dialogue
+6 Other Languages
+7 Change History
+8 References
+
+
+Location[]
+"Tricky Bulle Fruit"'s locationAdditional context
+Profile[]
+"Tricky Bulle Fruit" is a member of the Fruity Order, a group of Treasure Hoarders operating in Fontaine. At some point while out on a scavenging trip, he discovered an infant Blanche in the wilderness, who had been abandoned. He took her in and they viewed each other as family.
+He betrays the Fruity Order to try to give his sister Blanche a good education and a better life using the rediscovered "Pure Water" formula that he found by chance while wandering the remains of the Fontaine Research Institute. He initially tries to trap the Traveler and Paimon, believing them to be an outlying third-party for use in his experiments, but after some clarity from Blanche, apologizes. When the order sends "Ruthless Calla Lily" to silence him, Blanche gives her a copy to settle the matter, and she leaves the two alone. She falsely told her boss that she killed him, thus making everyone else apart from her, the Traveler, Blanche, "Trendy Zaytun Peach" and ""Guileless Wolfhook" think that he was killed.
+Once he creates the formula, he sends it to the Fontaine Research Institute as an anonymous donator. Before going to the Fortress of Meropide, he manages to find and hire a photography tutor for Blanche. Upon arrival, he plans to set up a shop at the prison, though it is in the works. Eventually, he discovers "Intrepid Valberry" at the prison (who had arrived after being detained), though he plays it off as his eyes deceiving him.
+
+Appearance[]
+(To be added.)
+
+Quests and Events[]
+World QuestsVillains
+Idle Quotes[]
+
+ The rag and bone shop...
+Media:VO "Tricky Bulle Fruit" 01.ogg "Need to find a way of sorting out the rag and bone shop..."
+
+After completing Questioning Melusine and Answering Machine
+
+ Someone with red hair...
+Media:VO "Tricky Bulle Fruit" 02.ogg "I think I saw someone with red hair."
+
+Dialogue[]
+
+"Tricky Bulle Fruit": Huh? Benefactor! How did you get in? Oh, forget it. I forgot how masterful you are. You definitely have your ways.
+ And how did you get in this time?
+"Tricky Bulle Fruit": Haha, good question! Don't forget, I don't have this name for nothing! I've got my ways too.
+ So how's business?
+"Tricky Bulle Fruit": Shh... Keep quiet. I'm still figuring this place out.
+"Tricky Bulle Fruit": Seems like most people here only go to the Rag and Bone Shop to buy their bric a brac. I can't go prancing about with my wares setting up shop willy-nilly... Wouldn't be good to attract the wrong kind of attention from certain parties...
+"Tricky Bulle Fruit": Especially that Alvard...
+ How's Blanche?
+"Tricky Bulle Fruit": She's good. I found her a tutor before coming in. Heehee, can you guess what kind of tutor? Photography!
+"Tricky Bulle Fruit": I've told the tutor to fill her world with pictures every day, all of beautiful scenery from exotic locales abroad. This way, she's bound to want to visit them someday.
+"Tricky Bulle Fruit": And in the future, she won't be so against the idea of going overseas to study.
+ You haven't changed a bit.
+"Tricky Bulle Fruit": You can't forget where you came from and, of course, what others did for you. Please take this, as a token of my appreciation.
+(Obtain  "Pure Water" ×1)
+(Available after completing World Quest Series Questioning Melusine and Answering Machine)
+ What red-haired guy?
+"Tricky Bulle Fruit": Oh, I used to have a buddy with red hair. Maybe I haven't been getting enough sleep recently, because I keep seeing him around down here in the prison. My eyes must be playing tricks on me.
+ See you.
+"Tricky Bulle Fruit": Goodbye, Benefactor!
+
+Other Languages[]
+
+LanguageOfficial NameLiteral MeaningEnglish"Tricky Bulle Fruit"—Chinese(Simplified)「狡诈泡泡桔」Jiǎozhà Pàopào Jú"Wily Bulle Fruit"Chinese(Traditional)「狡詐泡泡桔」Jiǎozhà Pàopào JúJapanese「狡猾バブルオレンジ」"Koukatsu Baburu Orenji"Korean「교활한 풍선귤」"Gyohwalhan Pungseon'gyul""Cunning balloon Tangerine"SpanishBurburanja PicaronaMischievous Bubble OrangeFrenchFruit bullé ruséCunning Bulle FruitBulle FruitBulle FruitBulle Fruit Tooltip for Bulle FruitBulle Fruitⓘlit. "bubbly fruit"RussianКоварный ПузыринKovarnyy PuzyrinThai"Bulle Fruit เจ้าเล่ห์"Vietnamese"Trái Bulle Xảo Quyệt"German„Arglistige Blasenmandarine“Indonesian"Tricky Bulle Fruit"—Portuguese"Fruta Bulle Sagaz"Turkish"Cingöz Bulle Meyvesi"ItalianBulle ScaltroShrewd Bulle
+Change History[]
+Released in Version 4.1[Create New History]
+References[]
+
+
+
+

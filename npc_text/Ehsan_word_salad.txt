@@ -1,0 +1,91 @@
+
+
+
+
+
+Ehsan
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Sumeru
+
+
+Location
+Sumeru
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Ehsan is an open-world NPC located in The Palace of Alcazarzaray, Sumeru.
+
+Contents
+
+1 Location
+2 Idle Quotes
+3 Thoughts
+4 Dialogue
+5 Other Languages
+6 Change History
+
+
+Location[]
+Ehsan's locationAdditional context
+Idle Quotes[]
+
+ If you are in need...
+Media:VO Ehsan 01.ogg "Please, speak with the butler if there's something you need."
+
+Thoughts[]
+Ehsan's thoughts can be accessed by using Nahida's Elemental Skill, All Schemes to Know.
+
+
+Media:VO Ehsan All Schemes to Know 01.ogg Ehsan: (Why do people keep coming to me to ask questions? I don't know anything.)
+
+Dialogue[]
+
+Ehsan: Hello, are you a guest invited by the Lord? Do you need help with your luggage?
+ About the Lord...
+Ehsan: Oh, you're here to pay the Lord a visit? Then please inquire about it with the butler.
+Ehsan: I'm just hired by the butler to carry goods. To be honest, I haven't even met the Lord myself, so I really can't help. Sorry.
+ Not at the moment.
+Ehsan: Alright, let me know if you need me.
+
+Other Languages[]
+
+LanguageOfficial NameEnglishEhsanChinese(Simplified)厄桑ÈsāngChinese(Traditional)厄桑ÈsāngJapaneseエフサンEfusanKorean에산EsanSpanishEhsanFrenchEhsanRussianЭхсанEkhsanThaiEhsanVietnameseEhsanGermanEhsanIndonesianEhsanPortugueseEhsanTurkishEhsanItalianEhsan
+Change History[]
+Released in Version 3.0[Create New History]
+
+
+

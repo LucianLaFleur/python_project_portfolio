@@ -1,0 +1,144 @@
+
+
+
+
+
+Iaune
+Gestionnaire
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Fontaine
+
+
+Location
+Fontaine
+
+
+Affil­i­a­tion
+Maison Gestion
+
+
+Dialogue Reward
+ 4
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Iaune is an open-world NPC located in the Court of Fontaine: Palais Mermonia, Fontaine. After completing A Certain Stamp, he can be found within the Palais Mermonia during the day and walking around the western street in Court of Fontaine: Vasari Passage during the night.
+Following a certain dialogue branch for the first time gives the player four Fish.
+
+Contents
+
+1 Location
+2 Profile
+3 Quests and Events
+
+3.1 World Quests
+3.2 Commissions
+3.3 Web Events
+
+
+4 Idle Quotes
+
+4.1 Daytime
+4.2 Nighttime
+
+
+5 Dialogue
+
+5.1 Daytime
+5.2 Nighttime
+
+
+6 Other Languages
+7 Change History
+
+
+Location[]
+Iaune's location (Daytime)Additional contextIaune's location (Nighttime)Additional context
+Profile[]
+(To be added.)
+
+Quests and Events[]
+World QuestsA Certain NoticeA Certain StampA Certain TrifleA LetterCommissionsAlright, Iaune, AlrightWhat is the Meaning of Life?What is the Meaning of Work?Web EventsHeartfelt Doodlings
+Idle Quotes[]
+Daytime[]
+
+ The standard procedure...
+Media:VO Iaune 01.ogg "But, that's just... Standard procedure."
+
+Nighttime[]
+
+ Camping...
+Media:VO Iaune 02.ogg "I haven't gone camping in ages."
+
+Dialogue[]
+Daytime[]
+
+Iaune: What *is* the meaning of work, really...
+ Hello there.
+Iaune: Hello! I'll get the materials needed today right away— Oh, it's you!
+Iaune: We meet again, Traveler. It's my pleasure.
+Iaune: And no, that's not mere formality. Seeing you is like seeing a gear turning on an intricate axis within a clock — it's as if my life is still on the right track.
+ Still feeling the pressure?
+Iaune: Well... yeah.
+Iaune: I'm not ashamed to admit that. It just means that I'm "taking every problem too seriously"!
+Iaune: That's what Roialte and Semaine always tell me, anyway.
+Iaune: But I still don't believe that being serious is a bad thing. That's why I've expanded the document workload here by three times, I suppose.
+Iaune: But don't worry too much about me. I'll do my best to finish my work. You go about your day too, alright?
+ Don't think too hard about stuff, alright?
+Iaune: ...You're right. I have to put my past frustrations behind me and just take the useful experience on.
+
+Nighttime[]
+
+Iaune: Time to plan a camping trip... Fishing, or mountain climbing? Should I ask Estelle to come along?
+ Planning a vacation, are we?
+Iaune: That might be a bit of an overstatement. I'm just considering what to do on an off day.
+Iaune: I'm currently trying to avoid thinking about work when not at work... Emphasis on "trying."
+ That's a pretty good idea, actually.
+Iaune: Yes. But walking the walk isn't as easy as talking the talk...
+Iaune: Thank you so much for your help. Please accept these humble gifts that I caught myself.
+(Obtain  Fish ×4)
+ Have fun.
+Iaune: Thank you!
+
+Other Languages[]
+
+LanguageOfficial NameEnglishIauneChinese(Simplified)艾尤恩Àiyóu'ēnChinese(Traditional)艾尤恩Àiyóu'ēnJapaneseアイオーヌAioonuKorean윤YunSpanishIauneFrenchIauneRussianАйюнAyyunThaiIauneVietnameseIauneGermanIauneIndonesianIaunePortugueseIauneTurkishIauneItalianIaune
+Change History[]
+Released in Version 4.0[Create New History]
+
+
+

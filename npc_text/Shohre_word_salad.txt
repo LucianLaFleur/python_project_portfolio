@@ -1,0 +1,137 @@
+
+
+
+
+
+Shohre
+Matra
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Sumeru
+
+
+Location
+Sumeru
+
+
+Affil­i­a­tion
+Sumeru Akademiya
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Shohre is an open-world NPC located in the House of Daena, Sumeru City, Sumeru. She is a Matra in Sumeru Akademiya and stands before the elevated platform in the middle of the library.
+
+Contents
+
+1 Location
+2 Idle Quotes
+3 Thoughts
+4 Dialogue
+
+4.1 Dialogue Set #1
+4.2 Dialogue Set #2
+
+
+5 Event Dialogue
+
+5.1 A Parade of Providence
+
+
+6 Other Languages
+7 Change History
+
+
+Location[]
+Shohre's locationAdditional context
+Idle Quotes[]
+
+ Something to read...
+Media:VO Shohre 01.ogg "Maybe I'll borrow something to read."
+
+During A Parade of Providence
+
+ Should I...
+Media:VO Shohre A Parade of Providence 01.ogg "I hear Mahamatra Cyno's on vacation. Should I take the chance to pay a visit to the office?"
+
+Thoughts[]
+Shohre's thoughts can be accessed by using Nahida's Elemental Skill, All Schemes to Know.
+
+Media:VO Shohre All Schemes to Know 01.ogg Shohre: (If I hide here, then I don't have to deal with Mahamatra Cyno's jokes.)
+Dialogue[]
+This page is missing dialogue.Can you help out? Click here to add more.Check which quest is the trigger for Shohre to change her dialogue
+Dialogue Set #1[]
+
+(Before completing ???)
+Shohre: Hello, what do you need?
+ Are you a matra?
+Shohre: Oh? So you don't exactly know what I do?
+Shohre: No worries. As a matter of fact, the fewer people who want my help the better, for it means that we have a good academic atmosphere here.
+Shohre: To be surrounded by books... That sounds rather nice to me. I'd say there's no simpler life than one whereby your only goal is to study.
+Shohre: Even I sometimes want to borrow a book or two while looking at the tidy shelves in the House of Daena.
+Shohre: But that's just a thought. I'm too impatient to read. I can apply for access to the general summary in the Akasha if I really want to know about something.
+ Sorry to bother you... I think I should go.
+Shohre: Oh, see you.
+
+Dialogue Set #2[]
+
+(After completing ???)
+Shohre: Hello, what do you need?
+ Are you a matra?
+Shohre: Oh? So you don't exactly know what I do, huh?
+Shohre: No worries. As a matter of fact, that's a good thing. The fewer people who come to talk to me about work, the better — that means our academic environment is a healthy one.
+Shohre: A life surrounded by books... That does sound rather nice. I'd say that there's no simpler form of life than one where your only goal is to study.
+Shohre: Even I sometimes want to borrow a book or two when I look at the tidy shelves in the House of Daena.
+Shohre: But that's just a thought. I know myself — I'm far too impatient to read.
+ Sorry to bother you... I think I should go.
+Shohre: Oh, see you.
+
+Event Dialogue[]
+A Parade of Providence[]
+
+Shohre: Hello, what do you need?
+Shohre: Oh? So you don't exactly know what I do, huh?
+Shohre: No worries. As a matter of fact, that's a good thing. The fewer people who come to talk to me about work, the better — that means our academic environment is a healthy one.
+Shohre: Honestly, I expected a great deal of problems to follow the Akademiya's celebration. I was even ready to head back to the office and prepare for overtime.
+Shohre: But there really haven't been that many people seeking me out. Even the General Mahamatra is on break... Hm. I'm just going to keep resting here.
+
+Other Languages[]
+
+LanguageOfficial NameEnglishShohreChinese(Simplified)索瑞SuǒruìChinese(Traditional)索瑞SuǒruìJapaneseショーレShooreKorean쇼레ShoreSpanishShohreFrenchShohreRussianШохрэShokhreThaiShohreVietnameseShohreGermanShohreIndonesianShohrePortugueseShohreTurkishShohreItalianShohre
+Change History[]
+Released in Version 3.0[Create New History]
+
+
+

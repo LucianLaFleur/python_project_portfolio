@@ -1,0 +1,114 @@
+
+
+
+
+
+Lechlade
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Fontaine
+
+
+Location
+Fontaine
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Lechlade is an open-world NPC located in Production Zone Lower Level, Fortress of Meropide, Fontaine.
+
+Contents
+
+1 Location
+2 Quests and Events
+
+2.1 World Quests
+
+
+3 Idle Quotes
+4 Dialogue
+
+4.1 Dialogue Set #1
+4.2 Dialogue Set #2
+
+
+5 Other Languages
+6 Change History
+
+
+Location[]
+Lechlade's locationAdditional context
+Quests and Events[]
+World QuestsScenes from Life in MeropideScenes from Life in Meropide: Treat the Symptoms
+Idle Quotes[]
+
+ Something's wrong!
+Media:VO Lechlade 01.ogg "I'm telling you, something's wrong with Arkhium!"
+
+Dialogue[]
+Dialogue Set #1[]
+Available prior to completing Scenes from Life in Meropide: Treat the Symptoms
+
+
+Lechlade: Take my advice, kid. Stay away from those yellow-green stones! The further away, the better!
+ And you are?
+Lechlade: I'm just an old nobody...
+ About the yellow-green stones...
+Lechlade: Those stones are evil! They bring disaster to the greedy and misfortune to the ignorant...
+ See you.
+Lechlade: So trust me and stay as far away from them as you can!
+
+Dialogue Set #2[]
+Available after completing Scenes from Life in Meropide: Treat the Symptoms
+
+
+Lechlade: Health is something we only truly value after we've lost it...
+ How have you been?
+Lechlade: Dr. Arderne's medicine really worked. My headache is gone and I feel wide awake. It makes me think of the days I was able to help people like that...
+Lechlade: *Sigh* It's all my fault. You need to look after yourself, and take any symptom seriously, even the smallest ones...
+ About the yellow-green stones...
+Lechlade: Those stones are bad news!
+Lechlade: Cutting off the road to them isn't enough! We need to destroy them all... They can't be allowed to exist.
+ See you.
+Lechlade: Goodbye. And remember to stay away from those yellow-green stones! The further away the better!
+
+Other Languages[]
+
+LanguageOfficial NameEnglishLechladeChinese(Simplified)勒克莱德LèkèláidéChinese(Traditional)勒克萊德LèkèláidéJapaneseレクラードRekuraadoKorean레치레이드RechireideuSpanishLechladeFrenchLechladeRussianЛечлейдLechleydThaiLechladeVietnameseLechladeGermanLechladeIndonesianLechladePortugueseLechladeTurkishLechladeItalianLechlade
+Change History[]
+Released in Version 4.1[Create New History]
+
+
+

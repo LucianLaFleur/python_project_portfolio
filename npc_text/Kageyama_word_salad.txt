@@ -1,0 +1,169 @@
+
+
+
+
+
+Kageyama
+Inspector
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+								Voice Actors
+							
+
+
+
+
+
+Region
+Inazuma
+
+
+Location
+Inazuma
+
+
+Affil­i­a­tion
+Outlander Affairs Agency
+
+
+
+
+English
+Brittany Lauda[1]
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Kageyama (Japanese: 蔭山) is an open-world NPC located in Ritou, Inazuma. She works as an Inspector for the Outlander Affairs Agency and can be found off the gangplank in Ritou, where she greets new arrivals and checks entry permits.
+
+Contents
+
+1 Location
+2 Profile
+
+2.1 Appearance
+
+
+3 Quests and Events
+
+3.1 Archon Quests
+
+
+4 Idle Quotes
+5 Dialogue
+6 Event Dialogue
+
+6.1 Hues of the Violet Garden
+
+
+7 Other Languages
+8 Change History
+9 References
+
+
+Location[]
+Kageyama's locationAdditional context
+Profile[]
+(To be added.)
+
+Appearance[]
+(To be added.)
+
+Quests and Events[]
+Archon QuestsChapter IIAct I: The Immovable God and the Eternal EuthymiaConfessions of an Outlander
+Idle Quotes[]
+
+ Please show...
+Media:VO Kageyama 01.ogg "Please show some proof of identification."
+
+During Hues of the Violet Garden
+
+ Welcome...
+Media:VO Kageyama Irodori 01.ogg "Welcome to the Magnificent Irodori Festival."
+
+Dialogue[]
+
+Kageyama: Do you need anything?
+(Before completing Transient Dreams)
+ What is this place?
+Kageyama: This is the identification checkpoint under the jurisdiction of the Outlander Affairs Agency.
+Kageyama: Any outlander who wishes to stay temporarily at Ritou must have an Entry Permit ready. If you are looking to stay for longer, you also need a Resident Permit.
+Kageyama: If you don't have these permits, we can't really make an exception for you...
+ About the procedure for going to Narukami Island...
+Kageyama: If you wish to travel to Narukami Island, you need a Travel Permit. According to procedure, you must apply for it at the headquarters of the Outlander Affairs Agency...
+(Before completing Omnipresence Over Mortals)
+
+Kageyama: ... However, if you don't have any special connections, it might be very difficult to apply for it.
+Kageyama: Yup, that's about it... I can't really say anything more than this. Please understand.
+(After completing Omnipresence Over Mortals)
+
+Kageyama: In the past, if you didn't have any special connections, it might be very difficult to apply for it.
+Kageyama: Nowadays, all the affairs of Kanjou Commission are strictly supervised, so visitors should be able to apply for the Travel Pass easily as long as they prepare the required materials.
+ So if I want to meet the Kanjou Commissioner...
+Kageyama: If you wish to seek audience with the Kanjou Commissioner, you may send your name card to the headquarters of the Outlander Affairs Agency.
+Kageyama: The inspector at headquarters will pick out a guest worthy of meeting the Commissioner based on the status and causes of the applicants.
+Kageyama: That being said, you'd better give up on that idea if you're a commoner. Generally, outlanders won't have the opportunity to meet the Commissioner.
+ Goodbye.
+Kageyama: Goodbye! Please stay safe.
+(After completing Transient Dreams)
+ What's this place?
+Kageyama: This is the identification checkpoint under the jurisdiction of the Outlander Affairs Agency.
+Kageyama: With the abolition of the Sakoku Decree, the number of people entering and exiting Ritou has gradually increased, while the number of people coming to apply for short-term residential permits and goods exchange permits has increased as well.
+Kageyama: But since our restrictions are no longer so stringent, processing these applications has become a far smoother process. Oftentimes, only the most basic of documentation is required, thus resulting in the process being completed the very same day.
+ About the procedure for going to Inazuma City...
+Kageyama: According to the Almighty Shogun's edict, both Inazumans and outsiders may freely enter Inazuma City.
+Kageyama: However, we are still to conduct necessary examinations at checkpoints, just to be safe.
+ Goodbye.
+Kageyama: Goodbye! Please stay safe.
+
+Event Dialogue[]
+Hues of the Violet Garden[]
+
+(After completing The Strange Tale of Suikou's Tipsy Tincture)
+Kageyama: Welcome to the Magnificent Irodori Festival.
+Kageyama: If you are here as an invited guest, please display your Invitation Letter, and one of our staff will help you arrange your event itinerary during this time.
+Kageyama: If you are just here as a visitor, please enjoy the festival. If you have any questions, please direct them here.
+(Continue non-event dialogue)
+
+Other Languages[]
+
+LanguageOfficial NameEnglishKageyamaChinese(Simplified)荫山YīnshānChinese(Traditional)蔭山YīnshānJapanese蔭山KageyamaKorean카게야마KageyamaSpanishKageyamaFrenchKageyamaRussianКагэямаKageyamaThaiKageyamaVietnameseKageyamaGermanKageyamaIndonesianKageyamaPortugueseKageyamaTurkishKageyamaItalianKageyama
+Change History[]
+Released in Version 2.0[Create New History]
+References[]
+
+↑ Twitter: EN VA Self Announcement (Archived)
+
+
+
+
+

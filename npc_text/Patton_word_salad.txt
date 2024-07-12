@@ -1,0 +1,213 @@
+
+
+
+
+
+Patton
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+								Family
+							
+
+
+
+
+
+Region
+Mondstadt
+
+
+Location
+Mondstadt
+
+
+Affil­i­a­tions
+Dawn WineryAngel's Share 
+
+
+Dialogue Reward
+ 4
+
+
+Genius Invokation TCG
+Stages
+
+
+
+
+Child
+Nora
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Patton is an open-world NPC in the City of Mondstadt. He can be found outside of the Angel's Share tavern.
+Following a certain dialogue branch for the first time gives the player four Chicken-Mushroom Skewers.
+
+Contents
+
+1 Location
+2 Profile
+
+2.1 Appearance
+
+
+3 Quests and Events
+
+3.1 Story Quests
+
+3.1.1 Hangout Events
+
+
+
+
+4 Idle Quotes
+5 Dialogue
+6 Event Dialogue
+
+6.1 Of Ballads and Brews
+6.2 Windblume's Breath
+
+
+7 Gallery
+
+7.1 Cameos
+
+
+8 Other Languages
+9 Change History
+
+
+Location[]
+Patton's locationAdditional context
+Profile[]
+Patton is Nora's father. He works as a barker for Angel's Share after breaking a bottle of the "last owner's collector's red wine". The cost of reimbursement is so high, Patton calculates that without eating or sleeping, he will have to work 48 more years to win back his freedom.
+
+Appearance[]
+(To be added.)
+
+Quests and Events[]
+Story QuestsTrifolium Chapter (Klee)Act I: True TreasureWho Is Mondstadt's Strongest Fighter?Hangout EventsKaeyaAct I: Shenanigans and Sweet WinePoems Dedicated to the Wind
+Idle Quotes[]
+
+ Great deals at the tavern!
+Media:VO Patton 01.ogg "Come in, take a seat! We have a few specials today at Angel's Share."
+ Dandelion Wine...
+Media:VO Patton 02.ogg "You've gotta try Dawn Winery's Dandelion Wine!"
+
+During the Of Ballad and Brews event
+
+ Weinlesefest booth!
+Media:VO Patton Of Ballads and Brews 01.ogg "The Angel's Share booth will be open in Springvale exclusively during Weinlesefest!"
+
+During the Windblume's Breath event
+
+ Bring a date...
+Media:VO Patton Windblume's Breath 01.ogg "Angel's Share is a great place to bring a date! Come on in and take a seat!"
+
+Dialogue[]
+
+Patton: Come in, come in! We are having a discount at Angel's Share!
+ Adventure Challenge
+(Opens Genius Invokation TCG match interface)
+(If the player loses the match)
+
+Patton: I won! I didn't make a mistake this time!
+(If the player wins the match)
+
+Patton: Th—This mistake! How did this... Blast!
+ About Stormterror... (Only available between "Dragon Storm" and "A Long Shot")
+Patton: *sigh* Honestly, that scared me to death. We don't know when Stormterror might attack again, either... but even so, I have to stand here and advertise the tavern.
+Patton: I do owe Master Diluc money, so much money that I'll have to stand out here without food, drink or sleep for another forty-eight years. If I slack off now, that time will get extended.
+Patton: ...I wonder if Master Diluc will clear my debt on account of the dragon's attacks?
+Patton: Probably not, haha... *sobs*
+ Tell me about Angel's Share.
+Patton: It was way back when the Dawn Winery was just established when the owner of the winery opened this tavern.
+Patton: The winery's owner, Master Diluc, still holds the deed to Angel's Share. He really has taken the business to the next level.
+Patton: "The best in Mondstadt" is the truth.
+Patton: Master Diluc serves the customers here personally when he's in a good mood, and lets Charles off for a day or two.
+Patton: If you see him here, be respectful. He is Mondstadt's tycoon, you know...
+ Tell me about the wine industry in Mondstadt.
+Patton: Mondstadt's climate, water, and crops are all perfect for making wine... I have to agree, we are blessed by the Anemo Archon!
+Patton: Apple cider and cherry ciders all taste mighty nice — I forgot to mention dandelion wine! That's one of a kind!
+Patton: By exporting to Liyue's trade unions, Mondstadt's wines will be sold all over the continent.
+Patton: They make incredible sales over there. Some even call it "bottled Mora."
+Patton: This must be why Dawn Winery's owner is so filthy rich...
+ Tell me about yourself.
+Patton: Let me give you a piece of advice... Don't touch any of the bottles here, no matter how plain it looks...
+Patton: The bottle I broke happened to be the last owner's collector's red wine... Do you see the villa to the north over there?
+Patton: What I mean is, that wine cost as much as that villa.
+Patton: By my calculations, I need to work 48 more years to pay it back... without sleeping and eating.
+Patton: Well, it doesn't seem THAT hopeless if I think about it like that.
+Patton: I need to get back to buying back my freedom... Hahaha... *coughs* *sobs*
+ I'm fine, thanks.
+Patton: You leaving already? If you want to try Mondstadt's best wine, this is the place!
+ Do you have any specials these days?
+Patton: Currently, we're giving every customer a free Chicken-Mushroom Skewer. It goes great with any drink!
+Patton: Here, take one and have a seat. I promise it'll suit your liking!
+(Obtain  Chicken-Mushroom Skewer ×4)
+
+Event Dialogue[]
+Of Ballads and Brews[]
+
+Patton: Come in, come in! We are having a special Weinlesefest discount at Angel's Share!
+Patton: If you pass by Springvale, don't forget to stop by our stand and have a look!
+(Continues to normal dialogue options)
+
+Windblume's Breath[]
+
+Patton: Angel's Share is a great place to bring a date!
+Patton: There's no need to trek all the way up to Starsnatch Cliff. nor is there a point in climbing the heights of Cape Oath. All you need to do is walk into a tavern, order two drinks, and chat the day way with your companions!
+Patton: Apple cider, cherry cider... and delicious Dandelion Wine. If you want it, the Angel's Share's got it.
+Patton: This is, after all, an industry thriving beneath the gaze of our esteemed Master Diluc. All beverages are supplied straight from the Dawn Winery.
+Patton: So, how about it? Want to come in?
+ Tell me about Angel's Share.
+(Dialogue responses are the same as normal)
+ I'm fine, thanks.
+Patton: You leaving already? If you want to try Mondstadt's best wine, this is the place!
+
+Gallery[]
+Cameos[]
+Collected Miscellany - "Rosaria- Purger of the Shadows" - Genshin Impact
+Other Languages[]
+
+LanguageOfficial NameEnglishPattonChinese(Simplified)巴顿BādùnChinese(Traditional)巴頓BādùnJapaneseパットンPattonKorean페이튼PeiteunSpanishPattonFrenchPattonRussianПаттонPattonThaiPattonVietnamesePattonGermanPattonIndonesianPattonPortuguesePattonTurkishPattonItalianPatton
+Change History[]
+Released in Version 1.0[Edit History]Version 3.3
+Added a Genius Invokation TCG Adventure Challenge for Patton.
+
+Version 1.0
+
+Patton was released.
+
+
+

@@ -1,0 +1,203 @@
+
+
+
+
+
+Giovanni
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+								Family
+							
+
+
+
+								Voice Actors
+							
+
+
+
+
+
+Real Name
+Giovanni Pasquale
+
+
+Region
+Fontaine
+
+
+Location
+Fontaine
+
+
+Affil­i­a­tion
+Pasquale's Instruments
+
+
+
+
+Ancestry
+Pasquale Family
+
+
+Spouse
+Martha (Wife)
+
+
+Sibling
+Giustino (Older brother)
+
+
+Child
+Moce (Son)
+
+
+
+
+English
+Branden Loera[1]
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Giovanni is an open-world NPC located in Petrichor, Nostoi Region, Fontaine.
+His dialogue changes after completing the World Quest Series Canticles of Harmony. During the quest, he is possessed by an unnamed legionnaire of Remuria under Tribunus Mettius, who was ironically possessing his son Moce.
+
+Contents
+
+1 Location
+2 Quests and Events
+
+2.1 World Quests
+2.2 Hidden Exploration Objectives
+
+
+3 Idle Quotes
+4 Dialogue
+
+4.1 Dialogue Set #1
+4.2 Dialogue Set #2
+4.3 Dialogue Set #3
+
+
+5 Other Languages
+6 Change History
+7 References
+
+
+Location[]
+Giovanni's locationAdditional context
+Quests and Events[]
+World QuestsLatecoming HomecomingHidden Exploration ObjectivesGiovanni's Watch
+Idle Quotes[]
+Available before completing Canticles of Harmony.
+
+
+ I miss home...
+Media:VO Giovanni 01.ogg "Once this battle's over, I'll be able to go home."
+
+Available after completing Canticles of Harmony.
+
+
+ Order...
+Media:VO Giovanni 02.ogg "Is this order bound for Sumeru?"
+
+Available after completing Latecoming Homecoming.
+
+
+ Yeah...
+Media:VO Giovanni 03.ogg "Yeah, no matter how many years pass..."
+
+Dialogue[]
+Dialogue Set #1[]
+Available before completing Canticles of Harmony.
+
+
+Giovanni: *sigh* I wonder when this war will finally be over...
+ What are you doing here?
+Giovanni: Eh? Ah, it's you, citizen! Well, now that we know where those barbarians have gone, I was going to take a short rest here...
+Giovanni: After all, even we legionnaires need to rest. We are not those stone folk, who know neither hunger, nor thirst, nor fatigue...
+ That kid over there...
+Giovanni: Kid? What kid? Wait... You're not talking about Tribunus Mettius, are you?
+Giovanni: Shh, keep your voice down, or he'll hear you! Of course, Dominus Cassiodor has said that we should not whip our soldiers, but if the Tribunus hears you, things will get ugly all the same...
+ End this war?
+Giovanni: Indeed... Alas! We've been posted here ever since those savages started large-scale border incursions. We've not seen our families for five, almost six years now.
+Giovanni: I wonder how Martha is doing, or if our children have grown up healthy... Moce was only two at the time. He has never even looked upon his own father...
+Giovanni: Still, now that Dominus Boethius is soon to arrive, this war must be soon to end... right?
+ Goodbye.
+Giovanni: Be wary, citizen. Battle has been a frequent and unwelcome guest here of late.
+
+Dialogue Set #2[]
+Available after completing Canticles of Harmony.
+
+
+Giovanni: It's been some time since I've gotten a bulk order like this. Looks like I'll be busy...
+Giovanni: Oh? Hello there. Would you like to order any instruments?
+ And you are?
+Giovanni: I am Giovanni, a maker of fine instruments, and the current patrono of the Pasquale family.
+Giovanni: My family has been making instruments for many generations. I am part of the 25th generation.
+Giovanni: Long before the Opera Epiclese was built on Erinnyes, my ancestors were the luthiers who tuned the strings for Master Coppelius and his troupe.
+Giovanni: I am proud to say that over the last 500 years, at least a third of Fontaine's instruments have come from my family's workshops.
+ A third? That many?
+Giovanni: Haha, well, that might be a slight exaggeration... But no matter how you string it, we've certainly made a seventh at least!
+Giovanni: Though many workshops over in the Court of Fontaine have adopted mechanized production as of late, I can guarantee you that every instrument from our workshops is 100% meticulously handcrafted. You could say this is how we uphold tradition.
+Giovanni: In any case, should you wish to order any instruments, simply let me know.
+ About the order...
+Giovanni: Ah... About that. Well, I rarely receive orders from outside Fontaine, so I'm just a bit surprised, that's all.
+Giovanni: Perhaps it's because of the Iridescence Tour's influence. Regardless, it's nothing of note.
+ I'll leave you to it. Bye.
+Giovanni: Goodbye. Remember to come and find me should you wish to place an order for any instruments.
+
+Dialogue Set #3[]
+Available after completing Latecoming Homecoming.
+
+
+Giustino: Giovanni, I've already finished lacquering these instruments.
+Giovanni: Good. I didn't think you'd still remember the craft of making instruments after all these years.
+Giustino: Haha... I've utterly forgotten the complex process of crafting the peg, but the painting process? Oh, I still remember that.
+Giustino: It was the most basic of basics, after all. Father scolded me countless times while I was still an apprentice. Couldn't forget it if I tried.
+Giovanni: Hmph. So you do remember how instruments are made. Do you remember what makes a man, though?
+Giovanni: ...Forget it. Take a break first. I'll handle the rest of the work — but watch closely, and learn well.
+
+Other Languages[]
+
+LanguageOfficial NameEnglishGiovanniChinese(Simplified)乔瓦尼QiáowǎníChinese(Traditional)喬瓦尼QiáowǎníJapaneseジョヴァンニJovanniKorean지오바니JiobaniSpanishGiovanniFrenchGiovanniRussianДжованниDzhovanniThaiGiovanniVietnameseGiovanniGermanGiovanniIndonesianGiovanniPortugueseGiovanniTurkishGiovanniItalianGiovanni
+Change History[]
+Released in Version 4.6[Create New History]
+References[]
+
+↑ Twitter: EN VA Self Announcement
+
+
+
+
+

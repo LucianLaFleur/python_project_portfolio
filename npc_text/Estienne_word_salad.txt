@@ -1,0 +1,159 @@
+
+
+
+
+
+Estienne
+Fortress of Meropide Guard
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Fontaine
+
+
+Location
+Fontaine
+
+
+Affil­i­a­tion
+Fortress of Meropide
+
+
+Dialogue Reward
+ 1
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Estienne is an open-world NPC located in Fortress of Meropide, Fontaine.
+After completing the World Quest An Eye for an Eye in Series Unfinished Comedy, following a certain dialogue branch for the first time gives the player one Guide to Justice.
+
+Contents
+
+1 Location
+2 Profile
+
+2.1 Appearance
+
+
+3 Quests and Events
+
+3.1 World Quests
+
+
+4 Idle Quotes
+5 Dialogue
+
+5.1 Dialogue Set #1
+5.2 Dialogue Set #2
+
+
+6 Other Languages
+7 Change History
+8 References
+
+
+Location[]
+Estienne's locationAdditional context
+Profile[]
+During Unfinished Comedy, Estienne helps Cater and Lanoire escape Meropide so that Lanoire can return to her grandfather Earnshaw.[1]
+
+Appearance[]
+Estienne dons the black, red, and gold uniform of the Meropide guards and wears a black hat.
+
+Quests and Events[]
+World QuestsUnfinished ComedyAn Eye for an EyeGame of the Rich
+Idle Quotes[]
+
+ Something fun...
+Media:VO Estienne 01.ogg "Let's come up with some fun activities!"
+
+Dialogue[]
+Dialogue Set #1[]
+Available before completing An Eye for an Eye.‍[verification needed]
+
+
+Estienne: How are you? Do you need any help?
+ About fun activities...
+Estienne: Since the result is all the same, choosing one or more people from a group, then isn't it more fun to make a game out of it?
+Estienne: Some people think games are childish and I respect their opinion. After all, everyone playing games should participate voluntarily!
+Estienne: Unwilling participants will end up spoiling the game and ruining everything. That would leave everyone disappointed, and that's the opposite of why we have the games in the first place...
+ About Coupons...
+Estienne: A very handy little thing, with a multitude of uses here in the Fortress of Meropide... Sorry, I don't mean to suggest anything...
+ See you.
+Estienne: Be careful not to let Noailles bother you too much. Bye.
+
+Dialogue Set #2[]
+Available after completing An Eye for an Eye.
+
+
+Estienne: Do you need some help? I don't think you do, but I think it's rude not to ask.
+ About Lanoire...
+Estienne: Actually, it's possible for me to just take her straight of [sic] the Fortress, and bring her right to her family... But that would make me the primary culprit in breaking the rules, and I'm not willing to pay the price.
+Estienne: You might say, "Oh, that's so selfish of you!" and I'd say: you're right. There are countless people in the world who need rescuing, but I refuse to drop everything to save even one of them.
+Estienne: I'm just a small fry, and I can only do the things that smally [sic] fry can do, like lending a hand from the sidelines.
+Estienne: Because I'm a small fry, I can forgive myself even if I don't condone my own decisions.
+(Obtain  Guide to Justice)
+ About Caterpillar...
+Estienne: Did you know he has two faces?
+Estienne: Haha. What I mean is, his personality completely changes depending on whether he's talking to Lanoire or to someone else.
+Estienne: You've probably noticed how kind he is to Lanoire. He even tells her the kinds of stories that little girls love.
+Estienne: Personally, I like those stories that aren't that suitable for kids. Stories with magic in them, where you never know how real or fake they are.
+Estienne: Now that I think about it, maybe Caterpillar doesn't see much difference between Lanoire and I [sic]. We're both kids, just with different interests.
+ About Noailles...
+Estienne: He's sick. In the head. You get people like that, sometimes.
+Estienne: If it was just about sticking to his principles, it wouldn't be an issue. But he tries to use the powers he's been given to force everyone else to adhere to his principles.
+Estienne: *sigh* Perhaps I should say the timing was just awful? Anyway, he's paying the price for what he did now and he won't be back anytime soon. Maybe he'll never get the chance to return.
+ About fun activities...
+Estienne: Since the result is all the same, choosing one or more people from a group, then isn't it more fun to make a game out of it?
+Estienne: Some people think games are childish and I respect their opinion. After all, everyone playing games should participate voluntarily!
+Estienne: Unwilling participants will end up spoiling the game and ruining everything. That would leave everyone disappointed, and that's the opposite of why we have the games in the first place.
+Estienne: But I don't think Rave and Caterpillar were breaking the rules. They were playing strategically, but that's within the rules.
+Estienne: The only thing I regret is that there were too few players. I just don't have the organizational skills... I'd love to host an even more exciting matchup!
+ See you.
+Estienne: Sure, see you.
+
+Other Languages[]
+
+LanguageOfficial NameEnglishEstienneChinese(Simplified)艾蒂安Àidì'ānChinese(Traditional)艾蒂安Àidì'ānJapaneseエティヌEtinuKorean에티앙EtiangSpanishEstienneFrenchEstienneRussianЭтьенEt'yenThaiEstienneVietnameseEstienneGermanEstienneIndonesianEstiennePortugueseEstienneTurkishEstienneItalianÉstienne
+Change History[]
+Released in Version 4.1[Create New History]
+References[]
+
+↑ World Quest, Unfinished Comedy: An Eye for an Eye
+
+
+
+
+

@@ -1,0 +1,195 @@
+
+
+
+
+
+Dandy
+Adventurer
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+								Voice Actors
+							
+
+
+
+
+
+Region
+Liyue
+
+
+Location
+Liyue
+
+
+Affil­i­a­tion
+Adventurers' Guild
+
+
+
+
+English
+Katherine Grant-Suttie[1]
+
+
+Japanese
+Anna Ishikawa (石川 明日菜)[2]
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Dandy is an open-world NPC who appears simultaneously in four different places, allowing the player to do three timed trials at each location for increasing rewards.
+
+Contents
+
+1 Race
+2 Location
+3 Profile
+
+3.1 Appearance
+
+
+4 Idle Quotes
+5 Dialogue
+6 Other Languages
+7 Change History
+8 References
+
+
+Race[]
+If the player talks to Dandy, there will be an option to Start time trial challenge, requiring use of your glider for three out of four of the challenge locations.
+The player will need to complete 3 races per track to earn a common, exquisite, and precious chest. The challenge timer will decrease as the rewards increase after a successful run.
+After earning the precious chest, the player cannot earn any more rewards at that location but will be able to redo the challenge to beat their best time.
+
+
+
+Location
+
+1st Challenge
+
+2nd Challenge
+
+3rd Challenge
+
+
+Mingyun Village
+
+31s
+
+26s
+
+23s
+
+
+Bishui Plain
+
+40s
+
+55s
+
+45s
+
+
+Qingce Village
+
+100s
+
+90s
+
+60s
+
+
+Wangshu Inn
+
+130s
+
+110s
+
+100s
+
+Location[]
+Dandy will be marked on maps below with a white circle.
+
+Near Qiongji Estuary's Statue of The Seven, north of the Yaoguang Shoal
+Location #1Location #1 - Additional context
+Near the Teleport Waypoint - Bishui Plain, west of Qingce Village
+Location #2Location #2 - Additional context
+Slightly north of Qingce Village
+Location #3Location #3 - Additional context
+Outside of Wangshu Inn
+This trial is the only non-glider challenge. The player will need to climb from the bottom of Wangshu Inn to the top floor of the inn.
+Location #4Location #4 - Additional context
+Profile[]
+(To be added.)
+
+Appearance[]
+(To be added.)
+
+Idle Quotes[]
+
+Media:VO Dandy 01.ogg "Hmm, yeah! I think I could climb it!"
+
+Dialogue[]
+
+Dandy: Hello traveler!
+ Start time trial challenge
+Dandy: You want to put your top speed to the test? I totally understand, after all our goal is the stars and the abyss, right? Ad astra abyssosque!
+ Let the challenge begin!
+Dandy: Your prior achievements are impressive... But a great adventurer constantly seeks to improve.
+Dandy: Let's see... This time, try to reach the destination within <NUMBER>s.
+Dandy: Keep going! You don't want to lose to your former self!
+ Remind me what my personal best is?
+Dandy: I remember your personal best is:
+Dandy: MM:SS:ss
+ Never mind...
+Dandy: What's wrong, not feeling it today? Well there's always next time.
+ Who are you?
+Dandy: I am Dandy. I'm an adventurer specializing in mountaineering and other highly dangerous activities.
+Dandy: The underground world is not for me, because combat is not my forte. It's also not easy to climb there.
+ Goodbye.
+Dandy: Goodbye! May you always be blessed with the courage to face your challenges head on!
+
+Other Languages[]
+
+LanguageOfficial NameEnglishDandyChinese(Simplified)丹迪DāndíChinese(Traditional)丹迪DāndíJapaneseダンディDandiKorean댄디DaendiSpanishDandyFrenchDandyRussianДэндиDendiThaiDandyVietnameseDandyGermanDandyIndonesianDandyPortugueseDandyTurkishDandyItalianDandy
+Change History[]
+Released in Version 1.0[Create New History]
+References[]
+
+↑ Archived Twitter: EN VA Self Announcement
+
+↑ Twitter: JP VA Self Announcement (Archived)
+
+
+
+
+

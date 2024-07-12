@@ -1,0 +1,105 @@
+
+
+
+
+
+Ariana
+Merchant
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Sumeru
+
+
+Location
+Sumeru
+
+
+Dialogue Reward
+ 3
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Ariana is an open-world NPC located in Port Ormos, Sumeru.
+Following a certain dialogue branch for the first time gives the player three Curry Shrimp.
+
+Contents
+
+1 Location
+2 Idle Quotes
+3 Thoughts
+4 Dialogue
+5 Other Languages
+6 Change History
+
+
+Location[]
+Ariana's locationAdditional context
+Idle Quotes[]
+
+ Work like a mule...
+Media:VO Ariana 01.ogg "If you want to eat like a king, you gotta work like a mule."
+
+Thoughts[]
+Ariana's thoughts can be accessed by using Nahida's Elemental Skill, All Schemes to Know.
+
+
+Media:VO Ariana All Schemes to Know 01.ogg Ariana: (Can't these idle people find something useful to do?)
+
+Dialogue[]
+
+Ariana: Compared to my hometown, the bustling life here suits me better.
+ About your hometown...
+Ariana: My hometown is Sumeru City. My family is still there. I moved to Port Ormos to look after the ship.
+Ariana: The people back in Sumeru, especially the Akademiya researchers, all walked at a pace way too leisurely for me!
+Ariana: Life here is busy, fulfilling, and more profitable — much better than back home.
+Ariana: Even the hot curry I get after work tastes better.
+ Curry...
+Ariana: Yeah. Curry is one thing that everyone in Sumeru knows how to cook.
+Ariana: Its flavor varies from family to family because every family has their own curry recipe.
+Ariana: But most of their curry tastes great.
+Ariana: So, would you like to have a taste of my recipe?
+(Obtain  Curry Shrimp ×3)
+ See you.
+Ariana: See you. May you lead a fulfilling life.
+
+Other Languages[]
+
+LanguageOfficial NameEnglishArianaChinese(Simplified)艾莲娜ÀiliánnàChinese(Traditional)艾蓮娜ÀiliánnàJapaneseアリアナArianaKorean아리아나ArianaSpanishArianaFrenchArianaRussianАрианаArianaThaiArianaVietnameseArianaGermanArianaIndonesianArianaPortugueseArianaTurkishArianaItalianAriana
+Change History[]
+Released in Version 3.0[Create New History]
+
+
+

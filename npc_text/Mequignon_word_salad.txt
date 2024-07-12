@@ -1,0 +1,165 @@
+
+
+
+
+
+Mequignon
+Manager, Bertin's House of Curiosities
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+								Voice Actors
+							
+
+
+
+
+
+Region
+Fontaine
+
+
+Location
+Fontaine
+
+
+Affil­i­a­tion
+Bertin's House of Curiosities
+
+
+Dialogue Reward
+ 1
+
+
+
+
+Japanese
+Abo Maria (阿保まりあ)[1]
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Mequignon is a Souvenir Shop NPC found in Court of Fontaine: Quartier Lyonnais, Fontaine working in Bertin's House of Curiosities.
+Following a certain dialogue branch for the first time gives the player one 4★ Golden Bird's Shedding.
+
+Contents
+
+1 Shop
+
+1.1 Blueprints
+
+
+2 Location
+3 Idle Quotes
+4 Dialogue
+5 Trivia
+
+5.1 Etymology
+
+
+6 Other Languages
+7 Change History
+8 References
+
+
+Shop[]
+Unlocks when Fountain of Lucine's Accolades reaches level 50.
+
+ItemCostStockTotalCost
+ Fragment of an Ancient Chord ×3248
+ Dross of Pure Sacred Dewdrop ×3248
+ Broken Goblet of the Pristine Sea ×3248
+ Mora ×10,00022040
+ Fragment of an Ancient Chord ×23∞—
+ Dross of Pure Sacred Dewdrop ×23∞—
+ Broken Goblet of the Pristine Sea ×23∞—
+ Mora ×3,0001∞—
+Total cost for all items64+
+Blueprints[]
+ItemCostStockTotalCost
+ Blueprint: Simple Lighting: "Locally Sourced Materials"515
+ Blueprint: Mallow Wood Round Table: "A Shared Drink"515
+ Blueprint: Mallow Wood Chair: "E-Z Fold"515
+ Blueprint: Hotel Railing: "Fresh Mint Leaves"10110
+ Blueprint: Hotel Railing: "Perfect Viewing Arc"10110
+ Blueprint: Fontainian Carpet: "Fair and Square"10110
+ Blueprint: Meka Luminaire: "Silent Night's Contemplation"10110
+ Blueprint: "Resourceful Residence in the Musicmaking Town"10110
+ Blueprint: Music Town's Hut: "Mardouce Harmony"10110
+ Blueprint: "Inspiration's Pure White Blossoms"10110
+Total cost for all items85
+Location[]
+Mequignon's locationAdditional context
+Idle Quotes[]
+
+ An antique's value...
+Media:VO Mequignon 01.ogg "An antique's value is in the eye of the beholder."
+
+Dialogue[]
+
+Mequignon: Welcome to Bertin's House of Curiosities.
+ What do you sell here? (Before reaching Fountain of Lucine Level 50)
+Mequignon: I apologize, but I haven't encountered anything that catches my fancy lately. Come again later, if you please.
+ What do you sell here? (After reaching Fountain of Lucine Level 50)
+Mequignon: Please, take your pick. I do hope something catches your eye.
+(Opens Souvenir Shop)
+ You're a collector?
+Mequignon: Not exactly. I'm actually a clothes designer.
+Mequignon: If you ask someone in Fontaine about tailoring recommendations, there's a good chance that you'd either hear my name...
+Mequignon: ...Or that of "Chiori"...
+ Is collecting a hobby of yours?
+Mequignon: Yes, it's also a way of seeking design inspiration.
+Mequignon: I believe that "only those that are completely forgotten can become something that is brand-new."
+Mequignon: Fashion is a loop of becoming outdated and then coming back in trend. If you're interested, take this. It's no longer useful to me anyway.
+(Obtain 4★  Golden Bird's Shedding)
+ Chiori?
+Mequignon: I refer to Chioriya Boutique's Chiori, a designer from Inazuma.
+Mequignon: Her tastes... aren't bad, but we've got differences in ideas. She's also a rather picky character — even her works do not satisfy her.
+Mequignon: The last time I spoke to her of a design flaw in her work, not only did she not get angry, but she even picked at her own work more vehemently than I. I didn't dare put a word in lengthwise...
+ I'll pass for now.
+Mequignon: Sure. Come again next time.
+
+Trivia[]
+Etymology[]
+Mequignon's name may be a reference to Marie-Marguerite Méquignon, the mother of French fashion designer Rose Bertin; who was best-known as Queen Marie Antoinette's dressmaker and milliner.
+Other Languages[]
+
+LanguageOfficial NameEnglishMequignonChinese(Simplified)梅琪妮MéiqínīChinese(Traditional)梅琪妮MéiqíníJapaneseメキニョンMekinyonKorean메퀴뇽MekwinyongSpanishMécquignonFrenchMéquignonRussianМекиньонMekin'onThaiMequignonVietnameseMequignonGermanMéquignonIndonesianMequignonPortugueseMequignonTurkishMequignonItalianMequignon
+Change History[]
+Released in Version 4.0[Create New History]
+References[]
+
+↑ Twitter: JP VA Self Announcement (Archived)
+
+
+
+
+

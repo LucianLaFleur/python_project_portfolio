@@ -1,0 +1,209 @@
+
+
+
+
+
+Changshun
+Merchant
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+								Voice Actors
+							
+
+
+
+
+
+Region
+Liyue
+
+
+Location
+Liyue
+
+
+
+
+Japanese
+Iizumi Momone (飯泉 桃音)[1]
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Changshun  (Chinese: 长顺 Chángshùn) is an open-world NPC in Liyue Harbor. She is a businesswoman and a researcher of Liyue mercantilism.
+
+Contents
+
+1 Shop
+2 Location
+3 Profile
+
+3.1 Appearance
+
+
+4 Quests and Events
+
+4.1 Archon Quests
+4.2 Story Quests
+4.3 Events
+
+
+5 Idle Quotes
+6 Dialogue
+7 Event Dialogue
+
+7.1 Lantern Rite
+7.2 Fleeting Colors in Flight
+
+
+8 Trivia
+9 Gallery
+
+9.1 Cameos
+
+
+10 Other Languages
+11 Change History
+12 References
+
+
+Shop[]
+ItemCostStockTotalCostRefreshes
+ Potato15010015,000Daily
+ Sugar450104,500Weekly
+ Cheese420104,200Weekly
+ Cor Lapis1,50057,500Every 3 Days
+ Electro Crystal1,50057,500Every 3 Days
+Total cost for all items38,700 
+Location[]
+Changshun's locationAdditional context
+Profile[]
+Changshun runs a stall in Liyue Harbor while studying Liyue mercantilism, the philosophy of making as much Mora as possible based on the accumulated wisdom of all the businesspeople in Liyue. She bewails that the Archon Rex Lapis never graced her shop with a personal visit, since all shops that had their patronage have fared well in the city.
+Changshun sympathizes with Yi Xian and Yi Zhu's situation, and gives Yi Zhu some of her goods for free during nighttime. During the Lantern Rite, she initially planned on price gouging the materials for Xiao Lanterns, but after Ningguang passed a decree outlawing such behavior, realized the error of her ways and decided to give her extra materials to the two children.
+
+Appearance[]
+Changshun has dark hair and wears a blue dress.
+
+Quests and Events[]
+Archon QuestsChapter IAct I: Of the Land Amidst MonolithsRite of DescensionStory QuestsFabulae Textile Chapter (Xingqiu)Act I: Bookworm SwordsmanCalm Before the Storm (Story Quest)
+Events[]
+Lantern Rite (unique idle quotes and dialogue)
+Idle Quotes[]
+
+ The key here is...
+Media:VO Changshun 01.ogg "The key here is consumer psychology."
+
+During Lantern Rite
+
+
+ I missed a good business opportunity...
+Media:VO Changshun Lantern Rite 01.ogg "Seems like I missed a good business opportunity. What a shame."
+
+During Fleeting Colors in Flight
+
+
+ I missed a good business opportunity...
+
+Dialogue[]
+
+Changshun: Hi, Anything I can do for you?
+ What are you selling?
+Changshun: Best way to find out is to take a look around! I'm sure you'll find something you like.
+(Opens Shop menu)
+ About Rex Lapis' death...
+(After completing Rite of Descension)
+Changshun: Yes, I heard about that down the grapevine...
+Changshun: Liyue's economic boom could never have happened without the contributions of Rex Lapis. Even our coins, Mora, are named after him.
+Changshun: There isn't a single businessperson in Liyue that doesn't worship him, and not a single transaction goes ahead that is not to his glory.
+Changshun: So now that this has happened... It's going to be cataclysmic for the business world. Things might already be changing as we speak.
+(After completing A New Star Approaches)
+Changshun: Liyue's economic boom could never have happened without the contributions of Rex Lapis. Even our coins, Mora, are named after him.
+Changshun: There isn't a single businessperson in Liyue that doesn't worship him, and not a single transaction goes ahead that is not to his glory.
+Changshun: So now that he has departed... It's going to be cataclysmic for the business world. Things might already be changing as we speak.
+ You are...?
+Changshun: I'm Changshun, a businesswoman and also a researcher in the field of Liyue Mercantilism.
+Changshun: Is there anything I can do for you?
+ Liyue Mercantilism?
+Changshun: That's right. Simply put, it's the philosophy of how to make as much Mora as possible, based on the accumulated wisdom of all the businesspeople in Liyue.
+Changshun: It's not enough in today's business environment to just throw yourself into the pursuit of profit. You have to educate yourself and consolidate the best practices from across the board to develop a successful business strategy.
+ How's business?
+Changshun: It's been quite good. Feiyun Slope is prime commercial real estate, after all.
+Changshun: If there was one snag, it would be that my store has never been graced with Rex Lapis' presence before...
+Changshun: Uh, I mean, this new shop of mine has never had the honor of Rex Lapis' personal patronage.
+Changshun: Those stores that have met with both his presence and his approval have all become incredibly popular household names.
+Changshun: *sigh* Well, this is not something that would happen just because I wish for it. Man proposes, and the Archon disposes...
+ See you.
+Changshun: Goodbye! Best of luck in all your business.
+
+Event Dialogue[]
+Lantern Rite[]
+
+Changshun: For some reason, I feel that this year's Lantern Rite will be particularly magnificent.
+Changshun: I was originally planning to stock up on extra materials for making Xiao Lanterns and resell them for a profit during Lantern Rite.
+Changshun: But just as I was about to purchase the materials, I found out that Ningguang had instated laws against price gouging on Xiao Lantern materials.
+Changshun: If it weren't for Ningguang, I might have never realized what a shameful business scheme that was.
+Changshun: So given that I couldn't make any money on the materials anyway, I decided to just give my remaining Xiao Lantern materials to Yi Zhu and Yi Xian.
+Changshun: I hope that they will enjoy a lovely Lantern Rite this year.
+
+Fleeting Colors in Flight[]
+
+Changshun: The Lantern Rite is really quite different this year...
+Changshun: I'd heard that the Ministry of Civil Affairs was organizing a fireworks show, so I started pooling resources to make those fireworks through various channels.
+Changshun: Then halfway through, the news that Lady Ningguang was rebuilding the Jade Chamber broke, and the remuneration was so tempting that I changed tacks...
+Changshun: In the end, I failed to accomplish either project... I suppose there really is no room for indecisive dawdling in business.
+Changshun: But although I didn't manage to seize this opportunity, I did still manage to prepare some material for Xiao Lanterns. Not for selling — just for sending them to my neighbors and friends.
+Changshun: I hope that everyone will enjoy this year's Lantern Rite.
+(Continue non-event dialogue options)
+
+Trivia[]
+During the second Closed Beta Test, Changshun was the General Goods shop in Liyue and was located next to Liuli Pavilion. For the final game, that role was transferred to Dongsheng and Changshun was relocated near the Wangsheng Funeral Parlor building. Changsheng's dialogue largely remained identical despite no longer selling anything, although a shop for her was re-implemented in Version 1.4.
+Gallery[]
+Cameos[]
+Collected Miscellany - "Keqing- Starward Sword" - Genshin ImpactCollected Miscellany - "Ganyu- Ambling Amidst Karst Peaks" - Genshin Impact
+Other Languages[]
+
+LanguageOfficial NameEnglishChangshunChinese(Simplified)长顺ChángshùnChinese(Traditional)長順ChángshùnJapanese長順Choujun‍[!][!]Assumed readingKorean창순창순長順ChangsunSpanishChangshunFrenchChangshunRussianЧан ШуньChan Shun'ThaiChangshunVietnameseChangshunGermanChangshunIndonesianChangshunPortugueseChangshunTurkishChangshunItalianChangshun
+Change History[]
+Released in Version 1.0[Edit History]Version 1.4
+Added a shop to her dialogue options, with the following items: Potatoes, Sugar, Cheese, Cor Lapis, and Electro Crystals.
+
+Version 1.0
+
+Changshun was released.
+References[]
+
+↑ Amuleto: JP VA's Profile
+
+
+
+
+

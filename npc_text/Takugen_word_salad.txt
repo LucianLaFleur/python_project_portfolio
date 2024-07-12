@@ -1,0 +1,122 @@
+
+
+
+
+
+Takugen
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Inazuma
+
+
+Affil­i­a­tion
+Adventurers' Guild
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Event-Exclusive NPCs 
+
+
+
+
+Takugen is an event-exclusive NPC who appeared in Duel! The Summoners' Summit!.
+
+Contents
+
+1 Location
+2 Profile
+
+2.1 Appearance
+
+
+3 Quests and Events
+
+3.1 Events
+
+
+4 Dialogue
+5 Other Languages
+6 Change History
+
+
+Location[]
+During Duel! The Summoners' Summit!
+Takugen's locationAdditional context
+Profile[]
+(To be added.)
+
+Appearance[]
+(To be added.)
+
+Quests and Events[]
+EventsDuel! The Summoners' Summit!
+Dialogue[]
+
+Takugen: The theme isn't bad, but as for the plot... I wonder if it's good enough...
+Takugen: Ah, Traveler! My apologies. I got distracted for a moment thinking about light novels...
+Takugen: Is there anything I can help you with?
+ About Zero Hour Invokation...
+Takugen: Oh, that's right, I'm the one in charge of Zero Hour Invokation. Are you here to play?
+Takugen: You're welcome to build your deck here. If you have any questions, don't hesitate to ask me.
+Takugen: Your opponent Secchu Tou is ready to begin. You may start the match anytime once you're prepared.
+Secchu Tou accepted your challenge, and has come to the table...
+Media:vo card ayaka event invite start 01.ogg Kamisato Ayaka: We're in a real competition, so please don't feel obliged to go easy on me.
+ Let's play Genius Invokation TCG.
+(Open Zero Hour Invokation interface)
+(Win the match)
+
+Media:vo card ayaka event invite fail 01.ogg Kamisato Ayaka: Phew... I really was beaten by the best.
+(Lose the match)
+
+Media:vo card ayaka event invite win 01.ogg Kamisato Ayaka: Were you distracted during our match? Hehe, I could tell.
+ I've got other things to do right now...
+Media:vo card ayaka event invite leave 01.ogg Kamisato Ayaka: I'll be looking into building a more optimal deck. It's a formal competition after all, and I shouldn't make a fool of myself.
+ About Zero Hour Invokation...
+Takugen: Oh, that's right, I'm the one in charge of Zero Hour Invokation. Are you here to play?
+Takugen: You're welcome to build your deck here. If you have any questions, don't hesitate to ask me.
+Takugen: Your opponent Secchu Tou is ready to begin. You may start the match anytime once you're prepared.
+ About the mechanical paintings...
+Takugen: Mr. Félix's mechanical paintings are right over here! Oh, what intricate works of art... Even I have tried them many times myself.
+Takugen: It's such a pleasure to enjoy works like these...
+Takugen: Ah, I'm sorry... Let's get back to the topic.
+Takugen: If you're interested in trying the mechanical paintings, you should head over and take a look.
+ I've got other things to do right now...
+Takugen: That's alright, I won't be going anywhere for a while. I have a job to do after all...
+Takugen: If you're interested in trying Zero Hour Invokation, you're welcome to find me anytime.
+
+Other Languages[]
+
+LanguageOfficial NameEnglishTakugenChinese(Simplified)泽彦ZéyànChinese(Traditional)澤彥ZéyànJapanese沢彦TakugenKorean타쿠겐TakugenSpanishTakugenFrenchTakugenRussianТакугэнTakugenThaiTakugenVietnameseTakugenGermanTakugenIndonesianTakugenPortugueseTakugenTurkishTakugenItalianTakugen
+Change History[]
+Released in Version 3.7[Create New History]
+
+
+

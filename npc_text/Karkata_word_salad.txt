@@ -1,0 +1,130 @@
+
+
+
+
+
+Karkata
+"Mechanical Crab"
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Sumeru
+
+
+Location
+Sumeru
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Karkata is an open-world NPC located at Pardis Dhyai which only appears after completing Tighnari's Story Quest Vulpes Zerda Chapter: Act I - The Unanswerable Problems.
+It is a mechanical being which was created by a Sumeru researcher by the name of Abattouy.
+
+Contents
+
+1 Location
+2 Profile
+
+2.1 Appearance
+
+
+3 Quests and Events
+
+3.1 Story Quests
+
+3.1.1 Hangout Events
+
+
+
+
+4 Dialogue
+5 Gallery
+
+5.1 Hangout Memories
+
+
+6 Trivia
+
+6.1 Etymology
+
+
+7 Other Languages
+8 Change History
+
+
+Location[]
+During the day, Karkata can be found in Pardis Dhyai's greenhouse in the form of a cube. During the night, Karkata emerges from its cube form and can be interacted with outside of the greenhouse.
+
+Karkata's location (Daytime)Additional contextKarkata's location (Nighttime)Additional context
+Profile[]
+Karkata was created by the researcher Abattouy in order to prove that mechanical beings could be made into true lifeforms. However, due to other overzealous researchers going beyond acceptable norms, the Akademiya banned the study of mechanical beings, which caused Abattouy to leave the Akademiya.
+Abattouy was intending to gradually improve Karkata over time, first by attempting to make it learn how to make coffee which it appeared to have mastered. Later, he implemented a program that allowed Karkata to look for parts on its own to repair itself. As Abattouy was isolated and in need of Mora to continue his research, he eventually developed three Ley Line extractors to serve as his power source. However, he had harvested the lines too much and subsequently died with Karkata looking on, unable to turn the device off as he had never implemented a program for it.
+Karkata, seeing its creator dead, tried to "repair" him to no avail by using mechanical parts that it pilfered from passing convoys. At the same time, the Ley Line devices attracted a large number of Ruin Sentinels who began using its energy, causing a special contaminated zone of sorts different to that of the Withering and prompting the Traveler to accept a commission by the Adventurers' Guild to investigate. Being in the rainforest itself, Tighnari was also prompted to investigate the cause and they discovered Karkata.
+Karkata led them to Abattouy's lab, they learned why Karkata had been stealing parts and watched as it tried to repair Abattouy before shutting down due to neglecting itself in favor of its creator. After Tighnari took a few papers and burned the lab down to prevent the Akademiya from getting their hands on Abattouy's research, he repaired Karkata and took him to Pardis Dhyai. The Matra eventually discovered Karkata there, but Tighnari stated that he had taken it on as a research assistant and they left it alone.
+
+Appearance[]
+Karkata is a Ruin Defender with a special gold and white color scheme.
+
+Quests and Events[]
+Story QuestsVulpes Zerda Chapter (Tighnari)Act I: The Unanswerable ProblemsThe Start of ContaminationInto the HinterlandHeart of the MachineGarden MemoriesHangout EventsFaruzanAct I: A Confounding ConundrumWanderings of a Lonesome Shadow
+Dialogue[]
+
+(At night after completing The Unanswerable Problems, Excited)
+Media:vo tnllq001 karkata excite 01.ogg Karkata: Kalu! Kalu!
+(Confused)
+Media:vo tnllq001 karkata doubt 01.ogg Karkata: Kulilu?
+(Happy)
+Media:vo tnllq001 karkata happy 01.ogg Karkata: Kalu!
+(Sad)
+Media:vo tnllq001 karkata upset 01.ogg Karkata: Kuli...
+(Neutral)
+Media:vo tnllq001 karkata refuse 01.ogg Karkata: Kelukulo.
+
+Gallery[]
+Version 3.0 "The Morn a Thousand Roses Brings" Trailer - Genshin ImpactKarkata with damaged parts during The Unanswerable Problems
+Hangout Memories[]
+Hangout Faruzan Act 1 Start Over AetherHangout Faruzan Act 1 Start Over Lumine
+Trivia[]
+During the Archon Quest As by a God's Side in Chapter III: Act V - Akasha Pulses, the Kalpa Flame Rises, if The Unanswerable Problems has been completed, then Tighnari will be sitting on Karkata after being injured.
+Because of this, Karkata will not spawn outside at night time.
+Etymology[]
+Karkaṭa (Sanskrit: कर्कट) is Sanskrit for "crab."
+Other Languages[]
+
+LanguageOfficial NameEnglishKarkataChinese(Simplified)卡卡塔KǎkǎtǎChinese(Traditional)卡卡塔KǎkǎtǎJapaneseカカタKakataKorean카르카타KareukataSpanishKarkataFrenchKarkataRussianКаркатаKarkataThaiKarkataVietnameseKarkataGermanKarkataIndonesianKarkataPortugueseKarkataTurkishKarkataItalianKarkata
+Change History[]
+Released in Version 3.0[Create New History]
+
+
+

@@ -1,0 +1,99 @@
+
+
+
+
+
+Gary
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Mondstadt
+
+
+Location
+Mondstadt
+
+
+Affil­i­a­tion
+The Cat's Tail
+
+
+Genius Invokation TCG
+Stages
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Gary is an open-world NPC located in The Cat's Tail, Mondstadt.
+
+Contents
+
+1 Location
+2 Idle Quotes
+3 Dialogue
+
+3.1 Guest Challenge
+
+
+4 Other Languages
+5 Change History
+
+
+Location[]
+Gary's location
+Idle Quotes[]
+
+ Just like hunting down prey...
+
+Dialogue[]
+Guest Challenge[]
+
+Gary: I will surely defeat all my opponents just like how I chase down prey, and I'll become the best Genius Invokation TCG player in no time... Hmm? Can I help you?
+ Let's play a round of Genius Invokation TCG!
+(Open Genius Invokation TCG challenge interface)
+ No, it's nothing...
+Gary: Well, if you're ever looking for someone to play Genius Invokation TCG with, you can come to me.
+(If the player loses the match)
+Gary: Hmm... With this, you have also become my caught "prey."
+(If the player wins the match)
+Gary: I can't believe you got away with it! You won't be so lucky next time...
+
+Other Languages[]
+
+LanguageOfficial NameEnglishGaryChinese(Simplified)伽禄Jiālù‍[!][!]Assumed readingChinese(Traditional)伽祿Jiālù‍[!][!]Assumed readingJapanese伽禄Karoku‍[!][!]Assumed readingKorean개리GaeriSpanishGaryFrenchGaryRussianГэриGeriThaiGaryVietnameseGaryGermanGaryIndonesianGaryPortugueseGaryTurkishGaryItalianGary
+Change History[]
+Released in Version 3.3[Create New History]
+
+
+

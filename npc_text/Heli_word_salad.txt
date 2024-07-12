@@ -1,0 +1,113 @@
+
+
+
+
+
+Heli
+Waiter, Xinyue Kiosk
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Liyue
+
+
+Location
+Liyue
+
+
+Affil­i­a­tion
+Xinyue Kiosk
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Heli is an open-world NPC located inside Xinyue Kiosk in Liyue Harbor, Liyue. His dialogue changes between daytime (6:00 – 19:00) and nighttime (19:00 – 6:00).
+
+Contents
+
+1 Location
+2 Profile
+
+2.1 Appearance
+
+
+3 Quests and Events
+
+3.1 Story Quests
+
+
+4 Idle Quotes
+5 Dialogue
+
+5.1 Daytime
+5.2 Nighttime
+
+
+6 Other Languages
+7 Change History
+
+
+Location[]
+Heli's locationAdditional context
+Profile[]
+(To be added.)
+
+Appearance[]
+(To be added.)
+
+Quests and Events[]
+Story QuestsUmbrabilis Orchis Chapter (Yelan)Act I: Calculated GambitForegone Conclusion
+Idle Quotes[]
+
+ Welcome...
+Media:VO Heli 01.ogg "Ah, welcome!"
+Media:VO Heli 02.ogg "*sigh* Welcome."
+
+Dialogue[]
+Daytime[]
+
+Heli: If you have made a reservation, I will lead you to your seat.
+
+Nighttime[]
+
+Heli: An esteemed guest has currently made a block reservation. What may I do for you?
+
+Other Languages[]
+
+LanguageOfficial NameEnglishHeliChinese(Simplified)鹤立HèlìChinese(Traditional)鶴立HèlìJapanese鶴立Kakuritsu‍[!][!]Assumed readingKorean학학鶴이Hak-iSpanishHeliFrenchHeliRussianХэ ЛиKhe LiThaiHeliVietnameseHeliGermanHeliIndonesianHeliPortugueseHeliTurkishHeliItalianHeli
+Change History[]
+Released in Version 1.0[Create New History]
+
+
+

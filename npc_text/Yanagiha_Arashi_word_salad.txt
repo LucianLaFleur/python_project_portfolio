@@ -1,0 +1,150 @@
+
+
+
+
+
+Yanagiha Arashi
+Expelled Violet Oni
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Inazuma
+
+
+Location
+Inazuma
+
+
+Affil­i­a­tion
+Iwakura Clan
+
+
+Death
+Killed by Traveler in Iwakura Art's Downfall
+
+
+
+
+
+
+
+
+								Additional Titles
+							
+
+
+
+								Categories
+							
+
+
+
+
+
+Menkyo Kaiden
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Yanagiha Arashi (Japanese: 柳葉嵐士 Yanagiha Arashi) is a special NPC that will only appear once the player has defeated all of the Iwakura Art unique enemies. He appears with Okazaki Toraemon, and their dialogue has them in conversation with each other.
+After both have been defeated, the player with be awarded with The Violet Oni's Blade, The Crimson Oni's Blade, and the Wonders of the World achievement Iwakura Out.
+
+Contents
+
+1 Location
+2 Profile
+
+2.1 Appearance
+
+
+3 Quests and Events
+
+3.1 Hidden Exploration Objectives
+
+
+4 Dialogue
+5 Notes
+6 Other Languages
+7 Change History
+
+
+Location[]
+Yanagiha Arashi and Okazaki Toraemon can be found in Byakko Plain.
+
+Yanagiha Arashi and Okazaki's locationAdditional context
+Profile[]
+Yanagiha Arashi began practicing the Iwakura Art during the era of the previous Soushu Eiin, alongside Iwakura Mitsunari, Okazaki Kunihiko, Okazaki Toraemon, and Shimada Shichirouji. Both Arashi and Toraemon reached the second-highest known rank in the clan, Menkyo Kaiden, although Kunihiko and Shichirouji never moved beyond Shoden, the lowest known rank.
+Sometime after Mitsunari succeeded Eiin as Soushu of the Iwakura Clan, the Vision Hunt Decree was proclaimed. Mitsunari's Vision was one of those confiscated, and Mitsunari decided to join the Shogunate forces. Toraemon and Arashi apparently vocally disapproved of the decision, leading Mitsunari to expel them. Arashi continued to display loyalty to the clan despite his excommunication.
+The two ex-Iwakura Art disciples eventually caught wind of an outlander Traveler going around killing Iwakura Art disciples. They tracked the corpses of their fallen brethren and retrieved their swords for a memorial at Byakko Plain, where Kunihiko was killed. The Traveler stumbles upon them there and when the two acknowledge their presence, attempt to avenge the others, only to be slain in self-defense themselves. Afterwards, the Traveler plants their swords alongside the others, spawning a Luxurious Chest.
+
+Appearance[]
+(To be added.)
+
+Quests and Events[]
+Hidden Exploration ObjectivesIwakura Art's Downfall
+Dialogue[]
+
+Okazaki Toraemon: ...now, the blade of Iwakura Kouin is the only thing we're missing.
+Yanagiha Arashi: The ancestral Hakuen Michimitsu Amenoma of the Iwakura Clan, huh... Say, do you remember, when you and Kunihiko were first adopted, while Master Eiin wasn't looking...
+Okazaki Toraemon: We have already been expelled. There's no need to call him "Master."
+Yanagiha Arashi: But Okazaki...
+Yanagiha Arashi: "When you weigh affection against righteousness on a scale, a real swordsman must walk the path of righteousness."
+Yanagiha Arashi: Since Master said so, it means he was not willing to expel us, but had no other choice.[Note 1]
+Okazaki Toraemon: Of course he was unwilling. But since he has already decided to become the sword of the Shogun and carry out the Vision Hunt Decree, then we can only...
+Yanagiha Arashi: We can only choose our own righteous path. After all, "a real swordsman must walk the path of righteousness."
+Yanagiha Arashi: And yet, Master's own righteousness was defeated in the end.
+Okazaki Toraemon: That's right. We must avenge them all. Kunihiko, the others — even Iwakura Kouin.
+Okazaki Toraemon: Such is the righteousness of expelled disciples like ourselves.
+Yanagiha Arashi: This must also be Master's blessing. Our first object of vengeance came to us, just like that.
+Okazaki Toraemon: You are right. You must be (TravelerTravelerThe player's chosen name for the Traveler). I've heard about your story.
+Okazaki Toraemon: In the world of swordsmen, only blood can cleanse blood. I assume you are prepared to face the Ex-Iwakura Art Menkyo Kaiden?
+
+(The Traveler fights against "Expelled Crimson Oni - Okazaki Toraemon" and "Expelled Violet Oni - Yanagiha Arashi")
+Yanagiha and Okazaki: Ex-Iwakura Art Menkyo Kaiden, we accept your challenge!
+(If Okazaki Toraemon is defeated first)
+
+Menkyo Kaiden Okazaki Toraemon: Kunihiko, I am sorry...
+Menkyo Kaiden Yanagiha Arashi: I will have revenge, Okazaki, for you and your brother both!
+(Upon defeating Yanagiha Arashi)
+Menkyo Kaiden Yanagiha Arashi: Like the kiss of snow... So this is the taste of a blade?
+(If Yanagiha Arashi is defeated first)
+
+Menkyo Kaiden Yanagiha Arashi: Live on, Okazaki!
+Menkyo Kaiden Okazaki Toraemon: Go in peace, Yanagiha. I will not be defeated.
+(Upon defeating Okazaki Toraemon)
+Menkyo Kaiden Okazaki Toraemon: So my justice... was such a deplorable thing?
+(Obtain  The Violet Oni's Blade and  The Crimson Oni's Blade)
+
+Notes[]
+
+↑ The English phrasing can be a bit confusing here, as the title "Master" is used for Eiin earlier. This Master refers to Iwakura Mitsunari, the Soushu at the time the Vision Hunt Decree was enacted.
+
+
+Other Languages[]
+
+LanguageOfficial NameEnglishYanagiha ArashiChinese(Simplified)柳叶岚士Liǔyè LánshìChinese(Traditional)柳葉嵐士Liǔyè LánshìJapanese柳葉嵐士Yanagiha ArashiKorean야나기하 아라시Yanagiha ArasiSpanishYanagiha ArashiFrenchYanagiha ArashiRussianЯнагиха АрасиYanagikha ArasiThaiYanagiha ArashiVietnameseYanagiha ArashiGermanYanagiha ArashiIndonesianYanagiha ArashiPortugueseYanagiha ArashiTurkishYanagiha ArashiItalianYanagiha Arashi
+Change History[]
+Released in Version 2.0[Create New History]
+
+
+

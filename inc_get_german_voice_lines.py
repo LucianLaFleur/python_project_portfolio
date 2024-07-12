@@ -84,15 +84,6 @@ print(f"Execution complete: {target_output_name}{file_suffix} created")
 
 
 
-
-
-
-
-
-
-
-        
-
 #  ================
 #   dd_tags = phrases_dl.find_all('dd') -> get all instances of a tag
         #       print(dd.get_text()) --> git the html text content within a tag

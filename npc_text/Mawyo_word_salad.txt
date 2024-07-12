@@ -1,0 +1,139 @@
+
+
+
+
+
+Mawyo
+"Freelancer"
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+								Family
+							
+
+
+
+
+
+Region
+Sumeru
+
+
+Location
+Sumeru
+
+
+
+
+Father
+Hamawi
+
+
+Siblings
+SalJut
+
+
+
+
+
+
+
+
+								Categories
+							
+
+
+
+
+
+  Open-World NPCs 
+
+
+
+
+Mawyo is an open-world NPC located in Sumeru City, Sumeru. During the daytime he can be found on Treasures Street. At night, Mawyo is found inside Puspa Café seeking information.
+
+Contents
+
+1 Location
+2 Idle Quotes
+3 Thoughts
+4 Dialogue
+
+4.1 Daytime
+4.2 Nighttime
+
+
+5 Other Languages
+6 Change History
+
+
+Location[]
+Mawyo's location (Day)Additional context (Day)Mawyo's location (Night)Additional context (Night)
+Idle Quotes[]
+
+(Daytime)
+ Freelancing...
+Media:VO Mawyo 01.ogg "It's called being a freelancer! Old folks just don't get it."
+(Nighttime)
+ Today's news...
+Media:VO Mawyo 02.ogg "Hah... I wonder what today's news will be."
+
+Thoughts[]
+Mawyo's thoughts can be accessed by using Nahida's Elemental Skill, All Schemes to Know.
+
+Media:VO Mawyo All Schemes to Know 01.ogg Mawyo: (I'm almost out of cash again... Better go get some off Pa or big bro.)
+Dialogue[]
+Daytime[]
+
+Mawyo: To be an adventurer or travel with a caravan? Friend, please help me out!
+ And you are...
+Mawyo: I'm a "freelancer." Just call me Mawyo.
+Mawyo: Dad's been rattling a lot about what I'm doing, but I don't care. The benefits of being a freelancer are something those old fogeys like my dad and brother wouldn't understand.
+Mawyo: What to do, when to start, how much to earn... I call the shots. Isn't it amazing?
+ Is the income stable?
+Mawyo: If you're a freelancer, you don't care about stability anymore.
+Mawyo: See, I can rest for a long time as soon as I make a pile with an expedition team or a caravan.
+Mawyo: It's easy to make a quick buck. With a little capital and a bit of luck, you can earn three months' money to pay for meals at the Kalimi Exchange.
+Mawyo: Isn't this more proper than being an Akademiya researcher? I don't know what that old man is so worried about.
+Mawyo: Those Invokation TCG cards command a ready market in Inazuma. I can trade those someday as well.
+Mawyo: And my dad and Brother Sal won't let me starve to death even if there isn't a gig for me at the moment. So, please rest assured.
+ Sorry, I'm a little busy right now.
+Mawyo: You wouldn't happen to be planning for something big? Count me in!
+
+Nighttime[]
+
+Mawyo: Hello there! Buying coffee at night, aren't you? I guess you're a night owl just like me!
+ You are a night owl, too?
+Mawyo: Of course I am! Nighttime is precious, and it'd be a waste if we didn't use it properly.
+Mawyo: Look at this coffee shop. It's a very popular one, and has provided me with a great deal of precious intel.
+Mawyo: Adventurers' commissions, clues to treasure maps, and business opportunities for new toys... Every piece of information contributes to my career as a freelancer.
+Mawyo: Well, although the tavern might be a better source of information, I just can't hold my liquor. So I have to give up on it.
+ It's getting late. I should probably head back now.
+Mawyo: Okay then... Maybe we'll have the chance to talk more next time.
+
+Other Languages[]
+
+LanguageOfficial NameEnglishMawyoChinese(Simplified)莫约MòyuēChinese(Traditional)莫約MòyuēJapaneseモヨMoyoKorean마우요MauyoSpanishMawyoFrenchMawyoRussianМавиоMavioThaiMawyoVietnameseMawyoGermanMawyoIndonesianMawyoPortugueseMawyoTurkishMawyoItalianMawyo
+Change History[]
+Released in Version 3.0[Edit History]Version 3.1
+Nighttime Idle Quote was added.
+
+Version 3.0
+
+Mawyo was released.
+
+
+
