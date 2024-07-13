@@ -7,7 +7,6 @@ Crystal_Shrimp
 Invigorating_Pizza
 Sakura_Mochi
 The_Endeavor
-Other
 Fontainian_Foie_Gras
 Flash-Fried_Filet
 Dizziness-Be-Gone_no_Jutsu_Version_2.0
@@ -224,7 +223,6 @@ Windbarrier_Potion
 Sakura_Tempura
 Survival_Grilled_Fish
 La_Lettre_a_Focalors
-Food
 Sashimi_Platter
 Jadevein_Tea_Eggs
 Black-Back_Perch_Stew

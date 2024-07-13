@@ -1,8 +1,7 @@
-last snapshot : 7/10/2024
-
 unfinished documentation
 [NYI] - purpose document for TV trope single-shot scraper
 [NYI] - purpose document for Genshin text project
+[NYI] - copy all source text files into a shared collection folder to make it easier to scan in powershell
 
 ==== unfinished programs (general)
 
@@ -36,6 +35,27 @@ NOTE: The dictionary is ordered from useless to powerful, but not broken. A Gian
 
 Devlog:
 
+12 July:
+Finish food description spider (successful .txt file creation in ./food_descriptions)
+    - needed to make exceptions for targets that did not lead to a valid link, and thus returned no text
+    - program correctly ignored bad link-nams with try-except block (could diagnose mistakenly-listed items this way if managing a database of my own)
+
+genshin_scrape_common_functions.py made 
+    - contains reusable functions for 1) randomizing a float for sleep-time 2) getting all text content from a common id found in most articles
+[Refactoring] Technically, with the common-functions file, I could go back and clean up other files, but given they've already served their purpose and grabbed data from running, this is irrelevant. Deemed a poor use of time to refactor when the programs will not be used again. However, since "get_weapon_info.py" is in development, I will use it there.
+
+Discovered significant amounts of text surrounding a new category: weapons
+
+11 July 
+# 11 July log:
+Spider ran across 2900+ npc files, text gathered successfully!
+Checking on files, deleting a few that have no meaningful content text... there's no consistent way to check for the "usefulness" systematically, since it's subjective. It's all just a reference source for powershell anyway. 
+    (not yet doing the powershell stuff since there's more to scrape with the "food" descriptions)
+Made food_name_grabber.py to get all 300+ food names, removing duplicates, and output to a textfile
+    targeting for food names irregular, multiple failures eats up time... but I persist and now for the correct output file.
+    UTF-8 is needed for the names in links, so saving to a text file in UTF-8 also helps with encoding characters like dashes and apostrophies in the url names with their % calls.
+[+] Formatted output of all food descriptions as "name: description" so it's one file with a lot of data. This will help comparing performance with powershell scripts.
+
 10 July: 
 <!-- Remember: only single-requests are done to a given page at a given time. Limit all batch sizes to not overwhelm the wiki site! -->
     For English Genshin scraper:
@@ -44,6 +64,8 @@ Devlog:
         1) Details from a particular portion of the character's main page (the rest of text outside of this particular <p> tag is irrelevant)
         2) make a master list comprised of sub-arrays containing the character-specific URLs for main, lore, outfits, companion, and voice-overs.
         3) Write functions to handle extracting the interesting info from each page.
+    Small program for removing duplicate names created remove_dupe_names.py
+        - Correctly gets rid of duplicates, demonstrating using the builtin function set() to find unique items out of a list quickly. 
     In-progress:
     Making an ad-hoc grabber for the content of each interesting url, as the content structure is a little irregular with the id's used to identify the main text-containing areas.
         - The ad-hoc grabber is a function that tries just one of the URLs from the sub-array. Since the structures of HTML on the target pages are different, I need to test them individually. Then I can write functions for each to see if they return the content I'm looking for. 

@@ -14,15 +14,17 @@ def fetch_food_description(food_name):
     html_page = requests.get(url, headers=headers)
     soup = bs(html_page.text, "html.parser")
     #  the food description text is found in the following content item
-    food_description_content = soup.find('div', class_='pi-data-value').get_text()
-    print(food_description_content)
-    return food_description_content
+    try:
+        food_description_content = soup.find('div', class_='pi-data-value').get_text()
+        print(food_description_content)
+        return food_description_content
+    except:
+        print(f"No description found for {food_name}...")
+        return f"{food_name} lacks data..."
 
 def get_float_for_sleep():
-    # float will be between 5.1 and 8.9 seconds, reasonable enough throttling
-    # ...
 # first, build up the ranges
-    seconds = range(5,9)
+    seconds = range(1,4)
     tenths_of_seconds = range(1,10)
 # Randomly select an item from the range
     unconverted_int = random.choice(tenths_of_seconds)
@@ -41,7 +43,9 @@ with open("food_name_collection.txt", "r", encoding="UTF-8") as food_name_file:
 
 counter_var = 0
 all_descriptions = []
-for name in name_arr[63:67]:
+# randomize name arr order again...
+random.shuffle(name_arr)
+for name in name_arr:
     counter_var += 1
     description_text = fetch_food_description(name)
     all_descriptions.append(name + " : ")
@@ -51,10 +55,22 @@ for name in name_arr[63:67]:
     print(f"item [{counter_var}] of [{len(name_arr)}] complete, randomizing sleep time: {sleepy_time}")
     time.sleep(sleepy_time)
 
-
 with open("./food_descriptions/" + "all_food_descriptions.txt", "w", encoding="UTF-8") as food_name_file:
     for x in all_descriptions:
         food_name_file.write(x)
 
 print("writing complete!")
 # def get_and_write_food_descriptions(food_name):
+
+# <h2>
+#     <span id="Description">
+#         this is the description title area
+#     </span>
+# </h2>
+# <p>
+#     my content 1
+# </p>
+# <p>
+#     my content 2
+# </p>
+# ... (pattern continues until)

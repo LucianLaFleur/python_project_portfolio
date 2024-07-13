@@ -2,9 +2,6 @@ from bs4 import BeautifulSoup as bs
 import requests
 import time
 
-
-
-
 # structure:
 # https://genshin-impact.fandom.com/wiki/name
 
@@ -103,6 +100,8 @@ def genshin_article_info_scraper(url):
         juicy_text = target_div.get_text()
         print(juicy_text)
         return juicy_text
+    else:
+        input(f"problem occurred... check link{url}")
 
 #  [!] confirmed ad-hoc outfit scraper can get the correct text info from the main list
 # outfit_info_scraper_scraper(twilight_url_string)
