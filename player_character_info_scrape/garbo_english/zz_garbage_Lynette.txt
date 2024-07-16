@@ -1,0 +1,559 @@
+Quiet and reserved, Lynette functions as a magician's assistant to her brother Lyney. After their parents' death and having been saved from an abusive noble by their "Father," Lynette has also served as "eyes" and "ears" for the House of the Hearth.
+
+
+
+
+
+Phantomeow
+
+
+
+
+
+							Wish
+							
+						
+
+
+
+							In-Game
+							
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Type
+Default
+
+
+Char­ac­ter
+Lynette
+
+
+De­scrip­tion
+Lynette's outfit. A cat resides in the shadows until it wishes to show itself — inscrutable, just like a magician's assistant.
+
+
+How to Obtain
+Unlocked upon obtaining character
+
+
+Phantomeow is Lynette's Default Character Outfit.
+
+Contents
+
+1 Appearance
+2 Gallery
+
+2.1 In-Game Assets
+2.2 Animations
+
+
+3 Other Languages
+4 Change History
+5 Navigation
+
+
+Appearance[]
+Lynette wears a short dark and black cape over her right shoulder attached to her clothes with a teal bow in front. She wears white cuff sleeves over a black lace leotard attached to a short black ruffled skirt with dark teal at the ends. Lynette also wears black gloves, black translucent tights, and black boots with a singular black-garter at the left side of her left ankle. Her hair tied with a large dark teal-checkered design bow with her Anemo Vision being in the middle of the bow. 
+
+Gallery[]
+In-Game Assets[]
+Character IconItem IconParty IconOutfit Preview
+Animations[]
+Hover over previews to view in higher quality.(Preview Preferences)Media:Idle Lynette 1.mp4      Media:Idle Lynette 2.mp4      Media:Talent Menu Lynette.mp4      Media:Weapon Menu Lynette.mp4      Media:Party Setup Lynette.mp4      
+Other Languages[]
+
+LanguageOfficial NameLiteral MeaningEnglishPhantomeow—Chinese(Simplified)魅影猫Chinese(Traditional)魅影貓Japanese魅惑の影猫Miwaku no Kageneko‍[!][!]Assumed readingFascinating Shadow CatKorean환영 고양이Hwanyeong Goyang'iSpanishFastasmagoría sibilinaSibylline Phantasmagoria[• 1]FrenchFantômiaouPhantomeowRussianФантомяуFantomyauPhantomeowThaiวิฬาร์ลวงเร้นเงาVietnameseMèo Bóng TốiGermanPhantomiauPhantomeowIndonesianPhantomeow—PortugueseFantasmiauTurkishFantomiyavPhantomeowItalianFantasmiaoPhantomeow
+↑ Spanish: Sibilina "sibylline" means "of or relating to a mysterious, prophetic woman."
+
+
+Change History[]
+Released in Version 4.0[Create New History]
+Navigation[]
+ Dressing Room
+ Character OutfitsDefault
+
+Alternate
+
+Themed
+
+
+
+ Wind GlidersProgress
+
+Other
+
+
+
+ Echoes
+
+
+
+
+
+
+
+
+
+OverviewLoreVoice-OversOutfitsCompanionGallery
+A magician's assistant hidden in the shadows who refers to herself as a "Multi-Function Magic Assistant." Poker-faced, reticent to speak, and as unpredictable in her movements as a cat.—Description from the Official Website[1]
+Contents
+
+1 Personality
+2 Appearance
+3 Official Introduction
+
+3.1 Version 1
+3.2 Version 2
+
+
+4 Character Stories
+
+4.1 Character Details
+4.2 Character Story 1
+4.3 Character Story 2
+4.4 Character Story 3
+4.5 Character Story 4
+4.6 Character Story 5
+4.7 Non-Automated Feeding Machine
+4.8 Vision
+
+
+5 Namecard
+6 Constellation
+7 Quests and Events
+
+7.1 Archon Quests
+7.2 Story Quests
+
+7.2.1 Hangout Events
+
+
+7.3 Events
+7.4 Web Events
+
+
+8 Character Trials
+
+8.1 Quests
+8.2 Events
+8.3 Test Run Events
+
+
+9 Character Mentions
+
+9.1 Character Stories
+9.2 Character Voice-Overs
+9.3 Mails
+
+
+10 Trivia
+
+10.1 Etymology
+
+
+11 Other Languages
+
+11.1 Character Title: Elegance in the Shadows
+
+
+12 Navigation
+13 References
+
+
+Personality
+A magic assistant of few words, her emotions are as inscrutable as any cat's.—In-game character attributes and profile page text
+Compared to her siblings Lyney and Freminet, Lynette is the most reserved of the three. She rarely talks to others out of her own accord, letting Lyney do the talking for her, and dissuades essentially any attempt to speak with her by saying bizarre responses. Whenever she needs to talk, she speaks briefly and frankly.
+Due to a rare case of atavism, Lynette has feline features and traits, such as enjoying fish. She also has a habit of breaking and/or damaging machines, resulting her not using them frequently. Lynette enjoys making and drinking tea, though her sensitive tongue results in her having to cool it down first before drinking.
+As a result of her traumatic past with Lyney, Lynette does not trust most people lest they take advantage of them, seeing her brother as a truth in a world full of lies and falsehoods. Like Lyney, she keeps her ties with the Fatui discreet.
+
+Appearance
+See also: Phantomeow
+Lynette uses the medium female model. She is a young woman with purple eyes, pale skin, and light grayish-brown hair tied into a low, thin ponytail which extends down her back. She has blunt bangs swept to her left, a short braid along the right side of her head, and two sections of hair which frame her face, curling inwards towards her chin. Additionally, she has cat-like ears, and a cat’s tail. She also has a small, dark brown star-shaped mark on her left cheek, mirroring her brother’s teardrop mark on his opposite cheek.
+
+Official Introduction
+Version 1
+The firmament glimpsed in a reflected moon
+That's already the fifth time this month... Haven't you learned not to mess with Lynette?—Words muttered by Freminet to a vacuum cleaner, overheard by Lyney as he left his room in the dead of night.
+In direct contrast to her older brother, who refers to himself as "the greatest magician in all Teyvat", Lynette might possibly be the lowest-profile Magician's Assistant in the land.
+She seeks neither flowers nor applause, avoids interviews, and generally tries to avoid notice.
+Whether people are trying to attract her attention or simply curious, she shuts them out with bizarre responses like "Entering Standby Mode" and "I need to space out."
+Even when bigwigs from the audience pay them a private visit, Lynette always takes a back seat and lets Lyney do the talking. She prefers to brew a pot of tea and sit in the corner, looking down as she quietly sips away, apparently uninterested by the conversation.
+Only the very few among them, in the briefest of interludes, sense for a millisecond that they are being secretly watched. But by the time they try to locate the source of the gaze, it has already vanished without a trace.
+Yet the only other people in the room are Lyney – warm and hospitable as ever – and Lynette, whose undivided attention is being bestowed upon a teacup.
+...Perhaps it was just their imagination.
+...But even if not, what harm could a quick glance have done? It's not like they could have seen anything of any significance... could they?
+
+Version 2
+The firmament glimpsed in a reflected moon
+You needn't fret, nor should you feel like you have to change your own habits. But you should know that genuine understanding can only be found, not sought. A true companion is someone who can read your 'signals.—Arlecchino
+In their little team of three at the Hotel Bouffes d'ete, Lynette plays an essential role in making sure that their work runs smoothly. When Lyney's bold nature clashes with Freminet's cautiousness, instead of taking sides, Lynette stands back and analyzes the situation in a calm and collected manner. She resolves their disputes by helping them find a middle ground.
+She's generally very quiet and is in the habit of constantly observing other members of her "family." If Lyney accidentally cut his finger in the middle of a performance, or Freminet suddenly looked downcast, Lynette would make a mental note of it. When she had a suitable opportunity, she'd be there with a bandage or a cup of tea.
+She loves her "family" and her "family" love her. Waking up by the fireplace, she's become accustomed to the familiar sight of Lyney at the table practicing card tricks and Freminet cleaning the living room. It was in such a moment that she suddenly realized how long it had been since the memory of those sleepless nights of fearful anticipation had vanished — just like a lump of coal that had burned itself into oblivion.
+
+Character Stories
+Character Details
+When asked who the most famous magician in the Court of Fontaine is, audiences will almost certainly think of the stylish, vibrant Lyney and his stage presence.But if you were to ask after its most renowned magic assistant, people would scratch their hands and be at quite a loss to answer.The adulation is not for her, after all, nor is the resounding applause directed at her skill and presence. As an assistant, she needs only misdirect the audience at opportune moments, ensuring the spotlight stays on the protagonist.Whether on or offstage, Lynette habitually hides behind Lyney, in shadows that neither lights nor compliments can penetrate.For an assistant, keeping a low profile is a professional matter.And as for a child of the "House"... being cloaked in shadow is how one survives.Character Story 1 Friendship Lv. 2
+Lynette often uses phrases like "standby" and "power-saving" to avoid unwanted trouble.Now, if one were to use a term like "idling" to avoid work, one has an 80-90% chance of getting "doesn't that mean you're free, then!?" as a reply, followed by renewed haranguing.But, say, if you were to very seriously proclaim yourself to be in "standby mode" to "save energy," and combine that with a statue-like expression like Lynette's, you can stupefy the other party for a while.It is through such momentary gaps that Lynette will calmly slip away, all the while wearing a most serious expression.This method, of course, does not work on friends, but those who know Lynette well are more than aware of her dislike of work, and still more clear with regards to the... consequences of making her do errands.Though she might spout machine-related lingo often, that is about as far as Lynette understands machines.There is a saying in her home: No matter what you do, do not leave her unattended in a room with the dishwasher, the vacuum cleaner... or any machine, really.Failing this, by the time a third party (usually Freminet) arrives on the scene, the machine will have suffered one of two fates:One, it will have broken down, somehow — the dishwasher will foam at the mouth, the vacuum cleaner will suffer convulsions, all while Lynette stands amidst the disaster zone with an innocent expression.Two, the machines are mercifully spared, but there has been no progress with the task, with Lynette cat-napping in a corner somewhere.Considering that the result of any one incident is unpredictable, and neither result is desirable, Lynette has, to her relief, been relieved of all housework.It is strange, however, that she is able to wreck even the simplest machines due to mishandling...Yet, when onstage operating magical props, Lynette is even more focused than her brother, never having made a single mistake over the years.Character Story 2 Friendship Lv. 3
+From a certain point of view, a "magician's assistant" is a contradictory sort of work.The cheers and applause are for the magician, the protagonist, and similarly, the flowers and fame are not directed at the protagonist's sidekick.Yet a brilliant performance cannot exist without an assistant's cooperation.As the one closest to the magician onstage, the assistant knows all the magician's secrets, and in dangerous performances, the assistant's every move means life or death for the magician.Onstage, the magician and assistant are like a double-sided mirror. One tends toward the light, absorbing the audience's attention. The other faces the darkness, pulling levers and strings in the rear to complete the trick — each side turns the other in endless permutations.If they are to operate in harmony, the assistant's skills cannot be far behind those of the magician themselves.But with such skill, how could one long be content to live in another's shadow? Thus do many assistants, once their skills are fully developed, strike out on their own — they will not forever remain the pupil.When Lyney became famous, many notables took notice of Lynette's potential, believing that she could achieve greater stardom still should she become an independent act. Some even asked her to take up the role of a leading actress in their films.Cat ears on young lady, who was also a magician... Even with those gimmicks alone, there was a fortune to be made!Alas, these passionate entreaties fell on deaf ears, and not only would Lynette reject them... She could not even be bothered to come up with reasons for doing so, instead leaving the task of coming up with them to Lyney instead.This was quite the conundrum indeed, for many of those making requests were distinguished members of society. "Father" had left clear instructions — they were not to be treated with contempt.And if his authorship were to be discovered, any further meetings with them might turn awkward.So Lyney had no choice but to write letter after letter of refusal in Lynette's manner of speech, filling each to the margins with polite and earnest words.Even one as silver-tongued as Lyney found it exceeding difficult to mimic her laconic manner of speech.Exhausted in hand and spirit, glancing at his sister lounging on the sofa, Lyney could not help but think — why not try it for real? He could play the assistant, no problem."...Don't even think about it." Even that flicker of thought could not escape Lynette. She stretched, before flipping over to face him. "I like being your assistant."Character Story 3 Friendship Lv. 4
+Brewing tea is one of Lynette's few hobbies.Watching the steam swirl above the tea cup, getting a whiff of its elegant flavor, and the day's troubles all but melt away.Whenever a guest comes to visit, Lyney is usually the one who receives them, while Lynette waits with tea in the back. When words are had over tea at home, she is also usually the one who makes it while others do the talking.As others discuss all manner of things or engage in light and idle talk, Lynette can be found sitting at the side, holding her cup in two hands, blowing on it to cool it before drinking in small sips.Her tongue is naturally sensitive, and she cannot drink tea that is too hot.But to use merely warm water to make tea would be an abominable waste, and to add ice to tea, or pour the tea between two cups to cool it down... Lynette would consider such actions blasphemy.Ice dilutes the thickness of the drink, and the pouring will affect its layered flavor... Only by blowing on it, puff by small puff of air at a time, may one achieve the ideal temperature, so as to neither scald nor be shorn of flavor.And once this ideal temperature has been achieved, one should not also drink it all immediately.Some teas have greater flavor as you near the bottom of the cup, and a wait of several minutes should be imposed after one mouthful before one may continue on and savor the next sip. That is why she always takes her time when drinking tea.By the time the teapot is empty, the conversation is usually also just about over.And as for the teaware on the table... That might be best left to someone else, lest she wreck the dishwasher again.Character Story 4 Friendship Lv. 5  •  As Light Rain Falls Without Reason
+There was once an official in Fontaine who wanted to investigate the cash flow of the Hotel Bouffes d'ete in the previous few months.However, no sooner had he finished drawing up a draft than his superior hastily called the whole business to a halt.This poor official could never have imagined how this was due to a letter his superior had received, complete with an attached set of photos featuring a tryst the latter had enjoyed with a famous socialite.This superior, too, could never have imagined that this secret had been exposed thanks to his whipping out a handkerchief that did not belong to his wife during a magic show.At that time, he had been all too absorbed in the exciting goings-on onstage, thus failing to notice the gaze directed his way from the shadows.This momentary distraction allowed Lynette to "steal" intel from him, all but picking him clean.People will unconsciously reveal themselves through their outfits, eyes, movements, and even the slight pauses and shifts in their tone...While most will be unable to get much out of such signs, buried as they are under many confusing details, Lynette is able to use her uncanny powers of observation to catch all such critical details.And after she connects all these seemingly trivial details, she can tease out intel useful to the Hotel.These "eyes" of the Hotel, one in the light and the other in darkness, have stolen all manner of secrets from the famous in Fontaine. Nor have any of these people noticed the theft — to them, it may as well have been magic.And because she must maintain this razor focus while working, Lynette speaks little to conserve her energy and not divide her attention.Even in her daily life, or when she is at rest, she habitually filters out all kinds of useless information...That said, what information counts as useful and what counts as useless is completely up to her.For example, what about machine operating and housework-related skills? Why, if one never does them, one can safely and confidently tuck them away in the back of one's mind.And when caught up in teatime gossip, one merely needs to occasionally append the conversation with "I see," "Is that so," and "And then..." to ensure a smooth-running chat.Economy of energy — just the way she prefers it.Character Story 5 Friendship Lv. 6  •  As Light Rain Falls Without Reason
+People often believe that Lynette's cat ears are a part of her performance attire, as the same blood flows in her and Lyney's veins, yet he appears no different from ordinary people.However, Lynette's ears and tail do, in fact, grow on her body — they are real as real can be.It is said that these cat-like features are inherited, but that even as such a bloodline grows thin across generations, instances of "atavism" can still occur from time to time.When she was young, Lynette did not love this particular gift from her ancestors.There would always be some curious kid who would, whether intentionally or inadvertently, point at them and ask her: Why are you different from everyone else? Are you and Lyney not real siblings?The introverted Lynette did not know how to reply, nor could Lyney always be with her. Whenever such things would happen, she could only push her ears down, curl her tail up, and squat in a corner, by herself and beside herself with misery.Only alley cats would come to comfort her, coiling around and rubbing against her ankles.She could not let her brother see her like this, she knew. He already had a great many things to worry about — he did not need this kind of trivial matter on his mind as well.But she could not simply pretend that nothing was wrong — to deceive the genius magician, she had to fool herself first.So she hugged the cat tightly to herself, softly brushing the fur on its back. As she felt its light breath, calm slowly returned to her heart.By the time the cat leapt from her arms, her face had regained its usual placid appearance.Among Fontaine's nobility, there are also some novelty-seeking degenerates. During one party, a certain "important person" found themselves taken with Lynette's unusual appearance.Over her protests, despite her struggling, the siblings' foster father stuffed her into that person's carriage without a second thought, almost as if giving away a sofa-scratching cat.Why her? Why was she born with these ears?In her suffocating solitude, Lynette once again covered her ears in pain, unable to hold back the bitterness repressed over long years."Stop hiding. Cowering will get you nowhere." That voice shone through the darkness with the moonlight. "Come out. The one who wished to harm you is dead."That voice was cruel ice, and yet it had a spellbinding, comforting power also. Lynette lifted her eyes, and there she saw the person she would in later days call "Father.""You have good ears. Learn to use them.""Father" kneaded Lynette's ears. That touch was not gentle. Indeed, they were as cold as the moon's light.And like that light, it illuminated a corner of the darkness...."When a cat's ears are folded backward, that often indicates fear or vigilance, and if they stand up and point forward, that usually indicates a good mood..."Whenever Lyney tells new members of Hotel Bouffes d'ete about the habits of ordinary cats, he will often steal a glance at his younger sister nearby.Lynette's ears are straight, they face the front, and they occasionally flutter outward.It has been a long time since she last folded them back.Non-Automated Feeding Machine Friendship Lv. 4
+This is a made-to-order automated feeding machine that Freminet helped construct, intended to deal with the ever-increasing number of small animals at home.After a certain performance ended, Lynette discovered an abandoned box at the theater's back door.As she opened it, a few kittens, barely a month old, raised their heads in alarm. Yet they had not the strength to flee, and thus could only stare into her eyes anxiously.Lynette said nothing, nor did she reach out to further startle them. Instead, she simply looked back at them in silence.Slowly they seemed to come to the understanding that she meant them no harm, and eventually dipped their straining necks.Only then did Lynette pick the box of cats up, and they laid down in silence, allowing this young lady to take them back to their new "home."There was some small debate amongst family members as to whether the animals should be taken in, but the usually reticent Lynette put her foot down, insisting that they stay.The argument somehow managed to reach the ears of none other than "Father," and she had the final word — which was that her children should cease the silly squabbling."Those who wish to raise them, do so yourselves — but do it well. Don't make trouble for others."After a short silence, she then added, "And if you have not taught them how to follow the rules by the end of winter, get rid of them yourselves."That statement put paid to the rest of the argument. As for the task of teaching the cats, it fell to Lynette.Considering that Lynette was usually averse to busywork, Freminet had the automated feeding machine custom made.The machine came with an internal clock and a weighing machine that could allow it to feed the kittens various foods at precise times and in fixed amounts.This machine, in turn, became one of the few machines to survive Lynette's tender mercies, never breaking down across many years of service. Indeed, its inner components have remained spanking new, with only the plate beneath the food outlet showing much sign of use.And this... is because Lynette has never used it properly.The sort of food to add into each box, how to input feeding times and amounts... Rather than memorize that, she found it more convenient to personally prepare the cat food in a plate.Moreover, if she had to leave even feeding to a machine...Lynette squatted next to the Non-Automated Feeding Machine, stroking the satisfied cats' fur in silent thought....How would she be able to teach these children?Vision Friendship Lv. 6  •  As Light Rain Falls Without Reason
+When Lynette was young, she often heard stories about Visions from Lyney.The protagonists of these tales seemed omnipotent, capable of summoning storms with a flick of a finger, dispelling dark haze with a puff of air.Those were not meticulously prepared magic tricks, no — this was the realm of true miracles.If only we had Visions too, Lynette often though.Then they could turn magic tricks into real magic. They could pull food to fill their stomachs from hats, and fire to keep themselves warm. Lyney wouldn't have to constantly busy himself keeping them both alive.But the gods never answered her prayers. In later days, she and Lyney would wander on, and after several twists and turns on the city streets and in noble mansions, they found a place to plant their feet under the aegis of their "Father."Both of them knew how hard this chance was to come by, and so they endured the harsh training and supported each other through countless missions.Reality had eroded their childish innocence all too early, and the dream of possessing a Vision, too, had fallen by the wayside of the past.During a certain mission, they were dispatched to perform at a noble's mountain villa in order to steal incriminating evidence that their target had hidden in a study.The mission itself was ordinary, and it went quite well. During their performance, the two would tamper with a window in the villa. Once it was over, they would be able to re-enter stealthily and make off with the evidence without a trace.But just as they had succeeded, three flares went up in the forest outside the window — a message from their "family members" keeping watch.Three flares meant the worst-case scenario: that the Maison Gardiennage was also targeting this person, and indeed had already dispatched forces to the scene.If they retreated the way they came, they had a high chance of encountering Maison personnel, and if they were exposed as having conducted their mission in their guise as magicians, not only would they be doomed, but their "family members" would be implicated as well.The voices outside the study were growing louder — if they wished to escape as quickly and stealthily as possible, they would have to take a risk.The villa retreat was built against the mountain, and out the window was a cliff, beneath which was a swift river.Lynette exchanged a glance with her brother, and without a word, they grasped each others' hands tightly, and leapt out the window.The rippling waves below slammed into Lyney with a terrible crash.He had attempted to absorb the impact with his shoulder just as they impacted, protecting his sister once again, but the impact with the water swallowed his consciousness.Desperate, Lynette grabbed onto a floating piece of wood, and by sheer dint of will managed to drag her unconscious brother to shore, coughing up water as she struggled on.Fighting the searing pain in her lungs, she checked his condition in a panic. He was deathly pale, his eyes squeezed shut — there was none of his usual vitality to be seen.She hugged him tightly to prevent his temperature from dropping further, even as she surveyed her surroundings. The forest was dark, and in that lightless night the twisted trees seemed ever more malevolent.She called his name softly, hoping that he might stand up again with a grin, just as he had in their prior performances. But this time, the only reply she received was his fragile and weak breathing.The loneliness and fear of that fateful night so many years ago seized her heart once again.It had been so long, and they'd been through so much — she'd grown from that, or so she thought.Why, then, were things just like before? Could she do nothing but wait for someone to defend her? As she trembled in the darkness?No. No. It should have been different. They had made so many miracles by their own hand, conquered so many obstacles....She had wished to stand behind him, supporting him, back to back, shoulder to shoulder.The Maison personnel could be patrolling nearby. She dared not call out to their "family members," nor could they stay here.The only thing she could do now was grasp Lyney's hand tightly, and haul him onto her shoulders.If she could not see the way forward, then she would hear it.Extending her ears as high as she could, she listened out for even the slightest wisp of wind.And the wind sang through the branches and through the bushes, and brushed against her face... and they gradually painted for her a blurry scene.Lynette groped forward in the dark, the thorns along the path piercing her skin and staining her clothes red.Slowly, the sight before her eyes became clearer. Perhaps her ears had grown used to the wind, or her eyes, accustomed to the darkness, but her steps grew more agile, more resolute.In this stage without spotlights, in this performance without plaudits, Lynette had at last become the star.As the rays of dawn darted into the woods, Lynette carried her brother back to the rendezvous point of their "family," only to encounter someone unexpected — their "Father" had personally made the trip down last night.Using the last of her strength, Lynette retrieved the sodden evidence from her bosom, but before she could hand it over, her legs gave out, taking Lyney down with her in the fall."Father" grabbed them both, allowing the incriminating information to fall to the earth and be soiled."Sleep now. You've retrieved... a far more valuable prize."A Vision, reflecting both the dawn sun and the twins' sleeping faces, hung at Lynette's waist, glowing silently.
+Namecard
+
+
+Lynette: Earnestness
+
+
+
+
+Obtain:Reward for reaching Friendship Level 10 with LynetteDescription:One major type of magic revolves around "appearing suddenly." Lynette is usually conserving her energy, but her serious side can "appear" as abruptly as pigeons from a hat.
+
+Constellation
+Felis AlbaMeaning:White Cat 
+Quests and Events
+Archon QuestsChapter IVAct I: Prelude of Blancheur and NoirceurSoloist's PrologueThe City of Rains and RemembranceLies Cast Shadows Under Gathered LightsAct III: To the Stars Shining in the DepthsFortress of MeropideThe Proscribed, Hidden in Plain SightAct IV: Cataclysm's QuickeningThe Truth Shrouded in ShadowCalamitous TreadA Moment's RespiteAct V: Masquerade of the GuiltyHunters, ProphetsApocalypseThe Opera of Noirceur and BlancheurFinaleStory QuestsCisoria Chapter (Chiori)Act I: When They Talk About TonightStained SpotsThe Woven and the CutDiluvies Chapter (Neuvillette)Act I: The Remains of the Past DayIn a New Light (cutscene)Felis Fuscus Chapter (Lyney)Act I: The Forgotten ThiefThe Phantom Thief's ReappearanceThe Magician's SecretThe Truest ThingThe InterviewIgnis Purgatorius Chapter (Arlecchino)Act I: When the Hearth-Flame Goes OutThe Child Who Doesn't ExistSea Breeze RendezvousBirds in a CageInto the SunlightHangout EventsLynetteAct I: Checks & CatsA DecisionBreakClosureDetectivesMaskEventsReceiver of Friends From AfarReceiver of Friends From Afar: Part IWeb EventsDiscover TeyvatStarlit LetterDancing Beasts and Soaring Kites
+Character Trials
+QuestsDetectives in Lynette's Hangout Event: Act I - Checks & CatsMask in Lynette's Hangout Event: Act I - Checks & CatsEventsVibro-Crystal ApplicationsTest Run EventsLyney, Yelan, Lynette, Bennett — 2023-08-16Xianyun, Nahida, Gaming, Faruzan — 2024-01-31Sigewinne, Furina, Gaming, Rosaria — 2024-06-25
+Character Mentions
+Character StoriesCharacterStoriesArlecchinoCharacter Story 1LyneyCharacter Story 2RosselandVisionCharacter Voice-OversCharacterVoice-OversArlecchinoAbout Lynette Media:VO_Arlecchino About Lynette.ogg Media:VO ZH_Arlecchino About Lynette.ogg Media:VO JA_Arlecchino About Lynette.ogg Media:VO KO_Arlecchino About Lynette.ogg Lynette's uniquely calm personality is also her strength, and I believe she is more than clever enough to recognize that. She is an irreplaceable part of that little team of three, and I would imagine that role brings her much joy. As her "Father," my duty is merely to give her the space to put those talents to good use.CharlotteAbout Lynette Media:VO_Charlotte About Lynette.ogg Media:VO ZH_Charlotte About Lynette.ogg Media:VO JA_Charlotte About Lynette.ogg Media:VO KO_Charlotte About Lynette.ogg No matter what question you pose to her, Lynette just calmly lowers her eyes with an expressionless look on her face. It's like she's some sort of... clockwork doll. I'm really tempted to write an article titled something like: "The Genius Magician's Puppet Assistant: Magic's Best-Kept Secret"... but I have a sneaking suspicion that even that wouldn't get a reaction out of her.ChioriAbout Lynette Media:VO_Chiori About Lynette.ogg Media:VO ZH_Chiori About Lynette.ogg Media:VO JA_Chiori About Lynette.ogg Media:VO KO_Chiori About Lynette.ogg The magician's assistant sure doesn't say much, but I know she trusts me. You know, I sure get a lot of love from cats...FreminetAbout Lynette Media:VO_Freminet About Lynette.ogg Media:VO ZH_Freminet About Lynette.ogg Media:VO JA_Freminet About Lynette.ogg Media:VO KO_Freminet About Lynette.ogg If you assigned Lyney and Lynette with the same mission, they'd both do an outstanding job. But not me. Lynette is always comforting me, saying that everyone has their strengths, and how everyone relies on me to fix things around the house when they break down... If only I was half as good at anything else.More About Freminet: IV Media:VO_Freminet More About Freminet - 04.ogg Media:VO ZH_Freminet More About Freminet - 04.ogg Media:VO JA_Freminet More About Freminet - 04.ogg Media:VO KO_Freminet More About Freminet - 04.ogg I don't like thinking about my time in the House of the Hearth under the previous director. All I'll say is... My habit of retreating into the sea started back then. "Father" changed not only me, but my view of our family, too. Then Lyney and Lynette joined the family... and for the first time ever, I gained some genuine companions.FurinaAbout Lyney and Lynette Media:VO_Furina About Lyney and Lynette.ogg Media:VO ZH_Furina About Lyney and Lynette.ogg Media:VO JA_Furina About Lyney and Lynette.ogg Media:VO KO_Furina About Lyney and Lynette.ogg Of course I know Lyney and Lynette. I used to frequently attend their magic shows. Though they're very popular, they're still much less popular than me. Only my performances would draw a completely sold-out crowd... even standing tickets would be out. But now... Uh... I've already decided to hang up my acting career, so it's perfectly normal for my popularity to decline!LyneyChat: Sister Media:VO_Lyney Chat - Sister.ogg Media:VO ZH_Lyney Chat - Sister.ogg Media:VO JA_Lyney Chat - Sister.ogg Media:VO KO_Lyney Chat - Sister.ogg I wonder what my dear sister Lynette is doing right now? Missing me to death, I'm sure!When It Snows Media:VO_Lyney When It Snows.ogg Media:VO ZH_Lyney When It Snows.ogg Media:VO JA_Lyney When It Snows.ogg Media:VO KO_Lyney When It Snows.ogg Achoo! Phew... I've heard some say that when you sneeze, it means that someone's thinking about you. Is it Lynette, I wonder? Or... is it you?About Lyney: Partnership Media:VO_Lyney About Lyney - Partnership.ogg Media:VO ZH_Lyney About Lyney - Partnership.ogg Media:VO JA_Lyney About Lyney - Partnership.ogg Media:VO KO_Lyney About Lyney - Partnership.ogg *sigh* I'm afraid I'd find myself going into standby mode without Lynette by my side. I mean, I can handle my own business just fine, but it takes some getting used to. I'm sure you can understand. You also have... I mean... always have Paimon with you, after all.About "Father": King Media:VO_Lyney About Father - King.ogg Media:VO ZH_Lyney About Father - King.ogg Media:VO JA_Lyney About Father - King.ogg Media:VO KO_Lyney About Father - King.ogg Ours is a kingdom consisting only of children, and "Father" is our king. No king rules forever, of course, and I know that one day I will be chosen as "Father's" successor... But that also terrifies me... Please don't mention this to anyone, especially my sister and Freminet.About Lynette: Modes Media:VO_Lyney About Lynette - Modes.ogg Media:VO ZH_Lyney About Lynette - Modes.ogg Media:VO JA_Lyney About Lynette - Modes.ogg Media:VO KO_Lyney About Lynette - Modes.ogg You think my sister doesn't talk much? Oh, she's probably just not in the right mode. Next time, start by saying "Activate Chat Mode" to her. If you're lucky, she might have a great deal of things to say to you. Hmm, and if you're not lucky...? Well, she'll just stare for a while, but hey, at least you'll get to see a different side of her!About Lynette: Twins Media:VO_Lyney About Lynette - Twins.ogg Media:VO ZH_Lyney About Lynette - Twins.ogg Media:VO JA_Lyney About Lynette - Twins.ogg Media:VO KO_Lyney About Lynette - Twins.ogg My sister and I have always been inseparable. There's no hardship we can't overcome as long as we're together, and similarly, we share all our joys with each other. There's nothing in the world I treasure more than my family, so I know what it must be like for you... And if I find out anything at all that might help you, I'll be sure to let you know.About Neuvillette Media:VO_Lyney About Neuvillette.ogg Media:VO ZH_Lyney About Neuvillette.ogg Media:VO JA_Lyney About Neuvillette.ogg Media:VO KO_Lyney About Neuvillette.ogg Monsieur Neuvillette rarely appears in public, almost as if he's intentionally trying to put some distance between himself and the people. At first, I thought it might be just me, but my ever-observant sister noticed it too, so I suppose that must really be the case.About Navia Media:VO_Lyney About Navia.ogg Media:VO ZH_Lyney About Navia.ogg Media:VO JA_Lyney About Navia.ogg Media:VO KO_Lyney About Navia.ogg I didn't think that she'd be willing to help strangers like us. If it hadn't been for all of you, Lynette and I wouldn't have been acquitted... Thank you so much. I'll have to wait for a lovely, sunny day to invite everyone to Café Lutece for the most wonderful afternoon tea!About Emilie Media:VO_Lyney About Emilie.ogg Media:VO ZH_Lyney About Emilie.ogg Media:VO JA_Lyney About Emilie.ogg Media:VO KO_Lyney About Emilie.ogg Have you ever gotten a whiff of the perfumes she makes? I quite liked them and was thinking to buy myself a bottle... But Lynette's tail indicated that she didn't share my opinion, so that was the end of that!More About Lyney: III Media:VO_Lyney More About Lyney - 03.ogg Media:VO ZH_Lyney More About Lyney - 03.ogg Media:VO JA_Lyney More About Lyney - 03.ogg Media:VO KO_Lyney More About Lyney - 03.ogg As orphans without parents to shelter us, Lynette and I were forced to roam the streets since childhood, so we've been through a lot. But those experiences have also made us who we are today. We're doing alright these days. I have a hat full of hopes and dreams... Heh, and a family, and audience, hoping that I don't let them down!Least Favorite Food Media:VO_Lyney Least Favorite Food.ogg Media:VO ZH_Lyney Least Favorite Food.ogg Media:VO JA_Lyney Least Favorite Food.ogg Media:VO KO_Lyney Least Favorite Food.ogg Our performances require that Lynette and I have matching physiques, so we have to avoid eating any oily food. Now, that's not a huge problem for me, but it can be tough for my sister — the fried fish they sell on the streets smells amazing, after all...NaviaAbout Lyney and Lynette Media:VO_Navia About Lyney and Lynette.ogg Media:VO ZH_Navia About Lyney and Lynette.ogg Media:VO JA_Navia About Lyney and Lynette.ogg Media:VO KO_Navia About Lyney and Lynette.ogg I know magicians can often be all bravado and razzmatazz, but I can tell that Lyney is a sincere guy who cares deeply about his friends and family. He's so mature for his age, it catches me off guard sometimes... Oh, and how could I forget — it was so kind of him to try and cheer up the children in Poisson with an impromptu free magic show during the flood! I'll have to invite him and Lynette over for some macarons at my place when I get the chance. I know Lynette's always conjuring teacups out of thin air, so surely at least she's a fan of a proper tea break?NeuvilletteAbout Lyney and Lynette Media:VO_Neuvillette About Lyney and Lynette.ogg Media:VO ZH_Neuvillette About Lyney and Lynette.ogg Media:VO JA_Neuvillette About Lyney and Lynette.ogg Media:VO KO_Neuvillette About Lyney and Lynette.ogg Their performances are just fascinating, don't you think? They draw you into a magical world where, on one hand, everything that takes place is part of an elaborate deception — but on the other, all manner of miracles are possible if you are only willing to believe.SigewinneAbout Lynette Media:VO_Sigewinne About Lynette.ogg Media:VO ZH_Sigewinne About Lynette.ogg Media:VO JA_Sigewinne About Lynette.ogg Media:VO KO_Sigewinne About Lynette.ogg Lynette is cute two times over: human-being-cute, and kitty-cute! After observing her a little bit, I noticed that her ears lean forward when she's having tea and cake. Hee-hee, I just wanna stroke her on the head... You too? Why don't we ask her for permission next time?MailsSenderMailsFreminetSharing... (Birthday Mail)LyneyA Birthday Surprise! (Birthday Mail)
+Trivia
+She is the middle sibling in the trio, being Lyney's younger twin and Freminet's adoptive older sister.
+The light source and shading of Lynette's Wish Art differs from that of her Card.
+Additionally, her Wish Art on her HoYoWiki entry has blue-gray eyes similar to Lyney's, whereas all her other depictions — including her in-game Wish Art — give her purple eyes.
+The star-shaped mark on her face may be a mouche, an artificial beauty mark that was fashionable in sixteenth-century France (and later, across Europe).
+Etymology
+The English name Lynette (among various spellings) is derived from the French Lunete, which itself comes from the Welsh Eluned, meaning "image" or "idol."
+Other Languages
+Character Title: Elegance in the Shadows
+
+LanguageOfficial NameLiteral MeaningEnglishElegance in the Shadows—Chinese(Simplified)丽影绮行Lìyǐng QǐxíngChinese(Traditional)麗影綺行Lìyǐng QǐxíngJapanese綺影で魅せるエレガンスKiei de Miseru Eregansu‍[!][!]Assumed readingEnchanting Elegance in the Beauteous ShadowsKorean그림자 속 우아한 걸음Geurimja Sok Uahan GeoreumElegant Steps in the ShadowsSpanishLa Elegancia de las SombrasThe Elegance of the ShadowsFrenchÉlégance parmi les ombresElegance Among the ShadowsRussianИзящество среди тенейIzyashchestvo sredi teneyElegance Among the ShadowsThaiเงาฉายงามสง่าVietnameseBóng Hình Trang NhãGermanEleganz im SchattenElegance in the ShadowsIndonesianElegance in the Shadows—PortugueseElegância nas SombrasTurkishGölgedeki ZarafetItalianEleganza nell'ombraElegance In The Shadow
+Navigation
+  Characters  (Lore)AnotherWorld
+
+Mondstadt
+
+Liyue
+
+Inazuma
+
+Sumeru
+
+Fontaine
+
+Snezhnaya
+
+
+Upcoming Characters announced by HoYoverse.
+
+References
+
+↑ Official Genshin Impact Website: Lynette
+
+
+
+
+
+
+
+
+OverviewLoreVoice-OversOutfitsCompanionGallery
+EnglishChineseJapaneseKorean
+Contents
+
+1 Story
+2 Combat
+3 Navigation
+
+
+Story[]
+
+Title and RequirementsDetails
+HelloHelloMedia:VO_Lynette Hello.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Lynette_Hello.ogg Pleased to make your acquaintance. I am Lyney's magic assistant, and if you have work-related inquiries, please ask Lyney. If you have questions related to seeing a magic show, please ask the ticket office. You want to talk to me? ...Then get to the point.
+Chat: Drinking TeaChat: Drinking TeaMedia:VO_Lynette Chat - Drinking Tea.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Lynette_Chat_-_Drinking_Tea.ogg Tea is ready, now it's time for a short rest.
+Chat: Older BrotherChat: Older BrotherMedia:VO_Lynette Chat - Older Brother.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Lynette_Chat_-_Older_Brother.ogg Seems Lyney is saying some strange things again... it's really worrying.
+Chat: Spacing OutChat: Spacing OutMedia:VO_Lynette Chat - Spacing Out.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Lynette_Chat_-_Spacing_Out.ogg Entering Standby Mode... I hope nobody disturbs me.
+When It RainsWhen It RainsMedia:VO_Lynette When It Rains.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Lynette_When_It_Rains.ogg Rainy days are perfect for spacing out...
+After the RainAfter the RainMedia:VO_Lynette After the Rain.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Lynette_After_the_Rain.ogg The skies have cleared? What a pity.
+When Thunder StrikesWhen Thunder StrikesMedia:VO_Lynette When Thunder Strikes.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Lynette_When_Thunder_Strikes.ogg Ow... that hurts my ears.
+When It SnowsWhen It SnowsMedia:VO_Lynette When It Snows.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Lynette_When_It_Snows.ogg So cold... let's hide you in a hat!
+When the Sun Is OutWhen the Sun Is OutMedia:VO_Lynette When the Sun Is Out.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Lynette_When_the_Sun_Is_Out.ogg There is nothing new under the sun... Is that really true?
+When the Wind Is BlowingWhen the Wind Is BlowingMedia:VO_Lynette When the Wind Is Blowing.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Lynette_When_the_Wind_Is_Blowing.ogg *sniff* What's that on the breeze? ...Nope, it's nothing.
+Good MorningGood MorningMedia:VO_Lynette Good Morning.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Lynette_Good_Morning.ogg Good morning... Not fully recharged. Now snoozing again.
+Good AfternoonGood AfternoonMedia:VO_Lynette Good Afternoon.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Lynette_Good_Afternoon.ogg I usually drink a cup of tea before work. Not only does it change my mood, but also helps me stay alert.
+Good EveningGood EveningMedia:VO_Lynette Good Evening.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Lynette_Good_Evening.ogg After the sun goes down, the desires hidden in people's hearts will rise to the surface... I mean, evening shows are spectacular. Should I reserve a ticket for you?
+Good NightGood NightMedia:VO_Lynette Good Night.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Lynette_Good_Night.ogg Go to sleep, I still have some loose ends to tie up from work today... (I still have to fix the vacuum cleaner I broke.)
+About Lynette: MagicAbout Lynette: MagicMedia:VO_Lynette About Lynette - Magic.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Lynette_About_Lynette_-_Magic.ogg During our shows, I'm usually Lyney's assistant. Because I never speak or change expressions, people often mistake me for a puppet... this kind of misunderstanding can prevent unnecessary social interactions, so it's actually quite nice.
+About Lynette: Intelligence Reports Friendship Lv. 4About Lynette: Intelligence Reports Friendship Lv. 4Media:VO_Lynette About Lynette - Intelligence Reports.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Lynette_About_Lynette_-_Intelligence_Reports.ogg Staying silent is beneficial for maintaining focus and gathering intelligence. Once, a VIP audience member at our show took out a handkerchief that didn't belong to his wife... as for how such information is used, now... that depends on what Father wants.
+About Us: Listening Friendship Lv. 4About Us: Listening Friendship Lv. 4Media:VO_Lynette About Us - Listening.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Lynette_About_Us_-_Listening.ogg I'm not accustomed to expressing myself, but I consider myself a good listener. If you have any troubles, come find me. I'll guard your secrets.
+About Us: Interests Friendship Lv. 6About Us: Interests Friendship Lv. 6Media:VO_Lynette About Us - Interests.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Lynette_About_Us_-_Interests.ogg I used to think that the golden sun and dark shadows of the night could never understand one another. But in you, I see a kind of strange complexity that has needlessly piqued my curiosity... I'll have to keep a close eye on you.
+About the Vision Friendship Lv. 4About the Vision Friendship Lv. 4Media:VO_Lynette About the Vision.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Lynette_About_the_Vision.ogg I prefer to use my eyes to understand the situation and find an appropriate solution, as opposed to using martial prowess. But having brute force as an option greatly increases the potential cards at your disposal, and enables you to protect those most important to you in a crisis.
+Something to ShareSomething to ShareMedia:VO_Lynette Something to Share.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Lynette_Something_to_Share.ogg Making tea looks simple on the surface, but it is actually quite complex. The quality of the tea leaves, the temperature of the water, the number of times to add water... Only when every variable is properly controlled can tea of the purest taste be brewed. Would you like a cup?
+Interesting ThingsInteresting ThingsMedia:VO_Lynette Interesting Things.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Lynette_Interesting_Things.ogg Animals can also express their feelings. If you listen carefully, you can tell what state they are in. For a kitty, "Meow~" means they are much happier than "Meow meow meow!", and in that situation, you can pet them as much as you want and they won't run away.
+About Lyney: Unspoken Understanding Friendship Lv. 4About Lyney: Unspoken Understanding Friendship Lv. 4Media:VO_Lynette About Lyney - Unspoken Understanding.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Lynette_About_Lyney_-_Unspoken_Understanding.ogg I have always been together with Lyney, and we can tell what the other is thinking without speaking. Thus, he tends to be more quiet than normal when we are alone. Hmm? Can I tell when he's lying or telling the truth? Of course I can, but this matter is top secret.
+About Lyney: Worries Friendship Lv. 6About Lyney: Worries Friendship Lv. 6Media:VO_Lynette About Lyney - Worries.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Lynette_About_Lyney_-_Worries.ogg Lyney is normally quite confident, and does everything with incredible ease... or at least, that's how he wants everyone else to see him. So when he runs into difficulties, he always wants to solve everything perfectly on his own... if this happens, please be sure to take good care of him.
+About Freminet Friendship Lv. 4About Freminet Friendship Lv. 4Media:VO_Lynette About Freminet.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Lynette_About_Freminet.ogg He is a delicate and gentle child, but also tends to belittle himself... perhaps due to his previous experiences. Sometimes he feels like the antithesis of Lyney... but since they're both family, when their opinions clash, I will bridge their differences.
+About "Father" Friendship Lv. 4 As Light Rain Falls Without ReasonAbout "Father" Friendship Lv. 4 As Light Rain Falls Without ReasonMedia:VO_Lynette About Father.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Lynette_About_Father.ogg Oh, how "Father" expresses love... well, not everyone can accept it. But it is only because of "Father" that home... can be called home.
+About Neuvillette Friendship Lv. 4About Neuvillette Friendship Lv. 4Media:VO_Lynette About Neuvillette.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Lynette_About_Neuvillette.ogg The Chief Justice always feels strangely aloof, though his words are always humble... or perhaps he just doesn't like dealing with humans? After all, when he speaks with Melusines, he's actually quite friendly.
+About Furina Friendship Lv. 4About Furina Friendship Lv. 4Media:VO_Lynette About Furina.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Lynette_About_Furina.ogg Lady Furina's behavior is incredibly hard to explain, and I can't discern any useful intelligence from observing her. I always feel like her every move and action is an act, and she is playing different people... She truly is an Archon, one cannot apply the logic of ordinary humans to her.
+About Navia Friendship Lv. 4 As Light Rain Falls Without ReasonAbout Navia Friendship Lv. 4 As Light Rain Falls Without ReasonMedia:VO_Lynette About Navia.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Lynette_About_Navia.ogg Though she's the new president of Spina di Rosula, her style is more like the nosy big sister next door. If we really had a sister like her in the "House of the Hearth," that would be really great... I know I probably shouldn't be wishing for anyone to be an orphan, but...
+About Clorinde Friendship Lv. 4 As Light Rain Falls Without ReasonAbout Clorinde Friendship Lv. 4 As Light Rain Falls Without ReasonMedia:VO_Lynette About Clorinde.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Lynette_About_Clorinde.ogg I was once ordered to observe a duel of hers. Even just as a bystander, the coldness radiating from her was absolutely chilling... I don't know what it would be like to face her directly in a duel, and I hope I will never find out.
+About Chiori Friendship Lv. 4About Chiori Friendship Lv. 4Media:VO_Lynette About Chiori.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Lynette_About_Chiori.ogg The costumes Lyney and I wear for performances were specially tailored by Chiori. Once, Lyney was using a small knife for a magic trick, and accidentally cut the cuff of his sleeve a bit. She scolded us nonstop... it was scary. Luckily, I can hide behind Lyney whenever we go to her shop.
+About Charlotte Friendship Lv. 4 As Light Rain Falls Without ReasonAbout Charlotte Friendship Lv. 4 As Light Rain Falls Without ReasonMedia:VO_Lynette About Charlotte.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Lynette_About_Charlotte.ogg Uh... I was eventually cornered by her for interviews a few times. The way she persistently asked even after Lyney rejected her all those times, I really have to commend her perseverance. Too bad for her, though... despite preparing all those questions, I never answered a single one.
+About Emilie Friendship Lv. 4About Emilie Friendship Lv. 4Media:VO_Lynette About Emilie.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Lynette_About_Emilie.ogg Her perfume products are so popular that you have to get in line before the break of dawn to have a chance at snapping any up. However, I'm far too sensitive to the smell of perfume, and it's really rude to sneeze... so I have to take the long way around.
+More About Lynette: IMore About Lynette: IMedia:VO_Lynette More About Lynette - 01.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Lynette_More_About_Lynette_-_01.ogg If you explain a magic trick, then the allure of the performance is lost. Personal relationships are the same. If you want to understand me, why not learn a bit at a time, and gradually piece together a complete picture?
+More About Lynette: II Friendship Lv. 3More About Lynette: II Friendship Lv. 3Media:VO_Lynette More About Lynette - 02.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Lynette_More_About_Lynette_-_02.ogg Humans are complicated creatures. Even when they are not doing so intentionally, they will still unconsciously hide their true selves. Though I can always notice a few "redundant" details, I won't expose their facades when it isn't necessary.
+More About Lynette: III Friendship Lv. 4 As Light Rain Falls Without ReasonMore About Lynette: III Friendship Lv. 4 As Light Rain Falls Without ReasonMedia:VO_Lynette More About Lynette - 03.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Lynette_More_About_Lynette_-_03.ogg Magic shows were once our livelihood, but now they are more of a convenient identity to present to society. In the name of magic performances, we can easily gain more access throughout the city, and be the "eyes" of our House.
+More About Lynette: IV Friendship Lv. 5 As Light Rain Falls Without ReasonMore About Lynette: IV Friendship Lv. 5 As Light Rain Falls Without ReasonMedia:VO_Lynette More About Lynette - 04.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Lynette_More_About_Lynette_-_04.ogg Before Lyney and I came to our new home, we were constantly adrift on the streets. We experienced many hardships and dangerous situations... It was then that I developed the habit of paying attention to any sign of danger, and also gradually learned to understand what others were thinking. Fortunately, we now have a safe place to live.
+More About Lynette: V Friendship Lv. 6More About Lynette: V Friendship Lv. 6Media:VO_Lynette More About Lynette - 05.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Lynette_More_About_Lynette_-_05.ogg Building a relationship with someone is like gambling. No matter how much information you have, it's hard to predict how other people might change. I've always had the habit of keeping a safe distance from others, but in your case... I'm willing to shoulder the risk of losing a bet.
+Lynette's HobbiesLynette's HobbiesMedia:VO_Lynette Hobbies.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Lynette_Hobbies.ogg A person's mental state is like a bowstring. If it's constantly under high tension, it will be at risk of suddenly snapping. So outside of work, I prefer to do things that relax my brain, like making tea, feeding cats, and just zoning out. The calmer one normally is, the easier it is to deal with crises when they do pop up.
+Lynette's TroublesLynette's TroublesMedia:VO_Lynette Troubles.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Lynette_Troubles.ogg I tend to have difficulties operating any kind of machinery. As soon as I stop paying attention, all kinds of things start to go wrong. Once, I even broke the dryer on a rainy day... At least Freminet is good at fixing things.
+Favorite FoodFavorite FoodMedia:VO_Lynette Favorite Food.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Lynette_Favorite_Food.ogg Pry open the shells, squeeze a bit of lemon juice onto the fresh shellfish... no plate necessary. Perfection.
+Least Favorite FoodLeast Favorite FoodMedia:VO_Lynette Least Favorite Food.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Lynette_Least_Favorite_Food.ogg Dishes should not be over-seasoned. Good food preserves the original taste of the ingredients.
+Receiving a Gift: IReceiving a Gift: IMedia:VO_Lynette Receiving a Gift - 01.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Lynette_Receiving_a_Gift_-_01.ogg Delicious. I've already memorized the recipe.
+Receiving a Gift: IIReceiving a Gift: IIMedia:VO_Lynette Receiving a Gift - 02.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Lynette_Receiving_a_Gift_-_02.ogg Thank you for your generosity.
+Receiving a Gift: IIIReceiving a Gift: IIIMedia:VO_Lynette Receiving a Gift - 03.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Lynette_Receiving_a_Gift_-_03.ogg Perhaps you could reconsider the spice ratio a bit?
+BirthdayBirthdayMedia:VO_Lynette Birthday.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Lynette_Birthday.ogg Happy Birthday [sic]! Let me give you this card... it's not a greeting card, so of course nothing's written on it. Write down what kind of present you want, place it in my hat, and no matter what it might be, you'll get it.
+Feelings About Ascension: Intro Ascension Phase 1Feelings About Ascension: Intro Ascension Phase 1Media:VO_Lynette Feelings About Ascension - 01.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Lynette_Feelings_About_Ascension_-_01.ogg My perception has been heightened.
+Feelings About Ascension: Building Up Ascension Phase 2Feelings About Ascension: Building Up Ascension Phase 2Media:VO_Lynette Feelings About Ascension - 02.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Lynette_Feelings_About_Ascension_-_02.ogg My processing speed... has become even faster.
+Feelings About Ascension: Climax Ascension Phase 4Feelings About Ascension: Climax Ascension Phase 4Media:VO_Lynette Feelings About Ascension - 03.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Lynette_Feelings_About_Ascension_-_03.ogg I can see the conditions for victory now.
+Feelings About Ascension: Conclusion Ascension Phase 6Feelings About Ascension: Conclusion Ascension Phase 6Media:VO_Lynette Feelings About Ascension - 04.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Lynette_Feelings_About_Ascension_-_04.ogg I never imagined I could become this powerful... looks [sic] like I won't need to hide behind you anymore.
+Combat[]
+TitleDetailsElemental SkillElemental SkillMedia:VO Lynette Elemental Skill 1 01.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Lynette_Elemental_Skill_1_01.ogg Step on up!Media:VO Lynette Elemental Skill 1 02.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Lynette_Elemental_Skill_1_02.ogg Over here.Media:VO Lynette Elemental Skill 1 03.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Lynette_Elemental_Skill_1_03.ogg Surprise!Elemental BurstElemental BurstMedia:VO Lynette Elemental Burst 01.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Lynette_Elemental_Burst_01.ogg Let the magic begin!Media:VO Lynette Elemental Burst 02.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Lynette_Elemental_Burst_02.ogg Cue the spotlight!Media:VO Lynette Elemental Burst 03.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Lynette_Elemental_Burst_03.ogg Be amazed!Sprint StartSprint StartMedia:VO Lynette Sprint Start 01.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Lynette_Sprint_Start_01.ogg Media:VO Lynette Sprint Start 02.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Lynette_Sprint_Start_02.ogg Media:VO Lynette Sprint Start 03.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Lynette_Sprint_Start_03.ogg Sprint EndSprint EndLynette does not feature any Sprint End Voice-Overs.Deploying Wind GliderDeploying Wind GliderMedia:VO Lynette Deploying Wind Glider 01.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Lynette_Deploying_Wind_Glider_01.ogg Media:VO Lynette Deploying Wind Glider 02.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Lynette_Deploying_Wind_Glider_02.ogg Media:VO Lynette Deploying Wind Glider 03.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Lynette_Deploying_Wind_Glider_03.ogg Opening Treasure ChestOpening Treasure ChestMedia:VO Lynette Opening Treasure Chest 01.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Lynette_Opening_Treasure_Chest_01.ogg The scent of treasure.Media:VO Lynette Opening Treasure Chest 02.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Lynette_Opening_Treasure_Chest_02.ogg Just as I expected.Media:VO Lynette Opening Treasure Chest 03.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Lynette_Opening_Treasure_Chest_03.ogg Piece of cake!Low HPLow HPMedia:VO Lynette Low HP 01.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Lynette_Low_HP_01.ogg Stay calm.Media:VO Lynette Low HP 02.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Lynette_Low_HP_02.ogg I need to focus.Media:VO Lynette Low HP 03.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Lynette_Low_HP_03.ogg Entering Combat Mode...Ally at Low HPAlly at Low HPMedia:VO Lynette Ally at Low HP 01.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Lynette_Ally_at_Low_HP_01.ogg Take a bow!Media:VO Lynette Ally at Low HP 02.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Lynette_Ally_at_Low_HP_02.ogg Let me take the heat!FallenFallenMedia:VO Lynette Fallen 01.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Lynette_Fallen_01.ogg What detail... did I miss...Media:VO Lynette Fallen 02.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Lynette_Fallen_02.ogg Saw through... my trick...Media:VO Lynette Fallen 03.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Lynette_Fallen_03.ogg Lyney...Light Hit TakenLight Hit TakenMedia:VO Lynette Light Hit Taken 01.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Lynette_Light_Hit_Taken_01.ogg I'll live!Media:VO Lynette Light Hit Taken 02.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Lynette_Light_Hit_Taken_02.ogg Media:VO Lynette Light Hit Taken 03.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Lynette_Light_Hit_Taken_03.ogg Media:VO Lynette Light Hit Taken 04.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Lynette_Light_Hit_Taken_04.ogg Media:VO Lynette Light Hit Taken 05.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Lynette_Light_Hit_Taken_05.ogg Media:VO Lynette Light Hit Taken 06.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Lynette_Light_Hit_Taken_06.ogg Heavy Hit TakenHeavy Hit TakenMedia:VO Lynette Heavy Hit Taken 01.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Lynette_Heavy_Hit_Taken_01.ogg Ah, didn't quite dodge it.Media:VO Lynette Heavy Hit Taken 02.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Lynette_Heavy_Hit_Taken_02.ogg Media:VO Lynette Heavy Hit Taken 03.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Lynette_Heavy_Hit_Taken_03.ogg Media:VO Lynette Heavy Hit Taken 04.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Lynette_Heavy_Hit_Taken_04.ogg Media:VO Lynette Heavy Hit Taken 05.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Lynette_Heavy_Hit_Taken_05.ogg Media:VO Lynette Heavy Hit Taken 06.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Lynette_Heavy_Hit_Taken_06.ogg Joining PartyJoining PartyMedia:VO Lynette Joining Party 01.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Lynette_Joining_Party_01.ogg Is it time for a magic show?Media:VO Lynette Joining Party 02.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Lynette_Joining_Party_02.ogg Time for afternoon tea.Media:VO Lynette Joining Party 03.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Lynette_Joining_Party_03.ogg You lead the way.Character Idles(Note: Chat & Weather voice-over can also be heard as idles.)Character Idles(Note: Chat & Weather voice-over can also be heard as idles.)Lynette does not feature any Character Idles Voice-Overs.Light AttackLight AttackMedia:VO Lynette Light Attack 01.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Lynette_Light_Attack_01.ogg Media:VO Lynette Light Attack 02.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Lynette_Light_Attack_02.ogg Media:VO Lynette Light Attack 03.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Lynette_Light_Attack_03.ogg Media:VO Lynette Light Attack 04.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Lynette_Light_Attack_04.ogg Media:VO Lynette Light Attack 05.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Lynette_Light_Attack_05.ogg Media:VO Lynette Light Attack 06.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Lynette_Light_Attack_06.ogg Media:VO Lynette Light Attack 07.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Lynette_Light_Attack_07.ogg Mid AttackMid AttackMedia:VO Lynette Mid Attack 01.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Lynette_Mid_Attack_01.ogg Media:VO Lynette Mid Attack 02.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Lynette_Mid_Attack_02.ogg Media:VO Lynette Mid Attack 03.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Lynette_Mid_Attack_03.ogg Heavy AttackHeavy AttackMedia:VO Lynette Heavy Attack 01.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Lynette_Heavy_Attack_01.ogg Media:VO Lynette Heavy Attack 02.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Lynette_Heavy_Attack_02.ogg Media:VO Lynette Heavy Attack 03.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Lynette_Heavy_Attack_03.ogg ClimbingClimbingMedia:VO Lynette Climbing 01.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Lynette_Climbing_01.ogg Media:VO Lynette Climbing 02.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Lynette_Climbing_02.ogg Media:VO Lynette Climbing 03.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Lynette_Climbing_03.ogg Climbing BreathClimbing BreathMedia:VO Lynette Climbing Breath 01.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Lynette_Climbing_Breath_01.ogg Media:VO Lynette Climbing Breath 02.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Lynette_Climbing_Breath_02.ogg Media:VO Lynette Climbing Breath 03.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Lynette_Climbing_Breath_03.ogg JumpingJumpingMedia:VO Lynette Jumping 01.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Lynette_Jumping_01.ogg Media:VO Lynette Jumping 02.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Lynette_Jumping_02.ogg Media:VO Lynette Jumping 03.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Lynette_Jumping_03.ogg Media:VO Lynette Jumping 04.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Lynette_Jumping_04.ogg Media:VO Lynette Jumping 05.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Lynette_Jumping_05.ogg 
+Navigation[]
+  Characters  (Voice-Overs)AnotherWorld
+
+Mondstadt
+
+Liyue
+
+Inazuma
+
+Sumeru
+
+Fontaine
+
+Snezhnaya
+
+
+Upcoming Characters announced by HoYoverse.
+
+
+
+
+
+
+
+OverviewLoreVoice-OversOutfitsCompanionGallery
+
+
+Lynette
+
+
+
+
+
+
+
+
+
+
+Category
+Companion Companion
+
+
+Quality
+
+
+
+
+
+Adeptal Energy
+Load 
+
+
+300
+1200 
+
+
+
+
+Adeptal Energy per Load 
+
+
+0.25
+
+
+
+
+
+
+
+
+
+								Description
+							
+
+
+
+
+
+Character In-Residence
+
+
+
+
+
+Lynette can be invited as a Companion into the player's Serenitea Pot after obtaining her and completing the World Quest Idle Teapot Talk.
+
+Contents
+
+1 Favorite Furnishing Sets
+2 Idle Quotes
+3 Dialogue
+4 Special Dialogue
+
+4.1 Court of Justice's Booming Commerce
+4.2 Perfectly-Drawn Focus
+
+
+5 Change History
+6 Navigation
+
+
+Favorite Furnishing Sets[]
+If a character's favorite furnishing set is placed in the same realm as the character for the first time, the character will automatically teleport to the furnishing set. Interacting with the character will initiate a special dialogue, after which the character will teleport back to their original position.
+
+Lynette has 2 Favorite Furnishing Sets:Furnishing SetRewardsPerfectly-Drawn Focus 20 2 20,000Court of Justice's Booming Commerce 20 1 20,000
+Idle Quotes[]
+
+ So sleepy...
+ This place is very safe...
+ Time to space out...
+ I need a cup of tea...
+ Brother...
+(When the player is nearby)
+ Standby mode...
+ ...
+
+Dialogue[]
+
+Media:vo lynette mimitomo hello 01.ogg Lynette: ...
+Media:vo lynette mimitomo hello 02.ogg Lynette: ...Exiting standby mode. Sorry, I am not trying to ignore you. It just takes some time to get my systems back up and running.
+ How do you like it here?
+Media:vo lynette mimitomo friendship1 01.ogg Lynette: As long as you let your consciousness freely drift, it doesn't matter where you are.
+Media:vo lynette mimitomo friendship1 02.ogg Lynette: ...Though, according to normal standards, the environment here is quite pleasant indeed.
+ According to normal standards?
+Media:vo lynette mimitomo friendship1 03a 1.ogg Lynette: Pure, clear air, a soft, warm bed, a lot of open space...
+Media:vo lynette mimitomo friendship1 03a 2.ogg Lynette: Had we grown up in an environment like this, Lyney probably wouldn't have been nearly so anxious.
+Media:vo lynette mimitomo friendship1 03a 3.ogg Lynette: ...I seem to have allowed some subjective thoughts to color my review. Please pay it no heed. Objectively speaking, this is a delightful place.
+ And according to your standards?
+Media:vo lynette mimitomo friendship1 03b 1.ogg Lynette: It is well-suited to spacing out. My charging speed is currently 5% faster than usual.
+ What an... interesting metric...
+Media:vo lynette mimitomo friendship1 03b 2.ogg Lynette: ...By my standards, that is the highest praise that can be given.
+(Unlocks at Friendship Level 4)
+ Would you like to chat?
+Media:vo lynette mimitomo friendship2 01.ogg Lynette: ...
+ ...
+Media:vo lynette mimitomo friendship2 02.ogg Lynette: ...Now that's rare. People wanting me to start a conversation is a rather infrequent occurrence.
+Media:vo lynette mimitomo friendship2 03.ogg Lynette: After all, in most cases, this would just mean falling into an uncomfortable silence like this.
+ Do you not like to chat?
+Media:vo lynette mimitomo friendship2 04a 1.ogg Lynette: No, that's not it. You can often find me talking with other girls.
+Media:vo lynette mimitomo friendship2 04a 2.ogg Lynette: They often gossip about the latest issues of serialized novels, or the gossip on who has a crush on whom...
+Media:vo lynette mimitomo friendship2 04a 3.ogg Lynette: Just say "Oh, I see", "Wow, really?", or "Go on!" at the right moment... and the conversation will flow freely.
+Media:vo lynette mimitomo friendship2 04a 4.ogg Lynette: ...It's a great way to conserve your energy. I highly recommend it.
+ Well, if you don't talk, then silence is inevitable...
+Media:vo lynette mimitomo friendship2 04b 1.ogg Lynette: Saying something requires first listening, then analyzing, constructing your idea, and finally speaking out loud.
+Media:vo lynette mimitomo friendship2 04b 2.ogg Lynette: A back-and-forth conversation would require me to go through all the steps very efficiently. Mm... I've always found it quite taxing.
+Media:vo lynette mimitomo friendship2 04b 3.ogg Lynette: ...Also, is it not true some people prefer to chat with someone who listens more than they talk?
+Media:vo lynette mimitomo friendship2 04b 4.ogg Lynette: If you ever have something to vent about, feel free to come and confide in me. I have a lot of experience in comforting others and calming things down.
+Media:vo lynette mimitomo friendship2 04b 5.ogg Lynette: Also, you can rest assured that your secrets will always be safe with me.
+(Unlocks at Friendship Level 7)
+ Anything you'd like to do?
+Media:vo lynette mimitomo friendship3 01.ogg Lynette: ...
+ ...Other than zoning out, I mean?
+Media:vo lynette mimitomo friendship3 02.ogg Lynette: ...If that isn't an option, then I can't really think of anything else to do.
+Media:vo lynette mimitomo friendship3 03.ogg Lynette: Would you like a cup of tea? I can go make one for you.
+ You're the guest. Shouldn't I be the one making tea for you?
+Media:vo lynette mimitomo friendship3 04.ogg Lynette: It's no trouble. For me, making tea is a truly enjoyable activity.
+Media:vo lynette mimitomo friendship3 05.ogg Lynette: I make tea for everyone whenever Lyney receives a guest.
+Media:vo lynette mimitomo friendship3 06.ogg Lynette: Selecting the best tea leaves, testing the water temperature, and observing the steam as it rises from the water's surface... I very much enjoy the whole process. Only with absolute concentration can you brew the perfect cup of tea.
+ Who would've thought the process is so complicated...
+Media:vo lynette mimitomo friendship3 07.ogg Lynette: ...Also, no one will drag me into a conversation when I'm busy making tea.
+Media:vo lynette mimitomo friendship3 08.ogg Lynette: And once the tea is ready, as long as you sit there holding the cup and maintain the appearance of sipping your tea in peace, nobody will try to talk to you.
+ So the point is still to zone out, then.
+Media:vo lynette mimitomo friendship3 09.ogg Lynette: Hehe, I was kidding. Was that surprising? I can crack jokes every now and then, too. I just rarely see the need.
+Media:vo lynette mimitomo friendship3 10.ogg Lynette: But I really do enjoy brewing and drinking tea. I'm able to taste even the most subtle differences in flavor.
+Media:vo lynette mimitomo friendship3 11.ogg Lynette: Considering all the places you've visited, you must have tried many different flavors during your journey.
+Media:vo lynette mimitomo friendship3 12.ogg Lynette: You want to try one of my brews next time you're free? I'd love to hear your thoughts on it.
+(Between 6:00 and 19:00)
+ Good morning, Lynette.
+Media:vo lynette mimitomo morning 01.ogg Lynette: Good morning, (TravelerTravelerThe player's chosen name for the Traveler).
+Media:vo lynette mimitomo morning 02.ogg Lynette: Mornings are good, aren't they? They are the start of a new day, which means there is plenty of time left to rest some more.
+Media:vo lynette mimitomo morning 03.ogg Lynette: ...Would you like to rest with me?
+(Between 19:00 and 6:00)
+ Good night, Lynette.
+Media:vo lynette mimitomo night 01.ogg Lynette: Good night, (TravelerTravelerThe player's chosen name for the Traveler).
+Media:vo lynette mimitomo night 02.ogg Lynette: ...Entering standby mode. Zzz... Zzz...
+
+Special Dialogue[]
+When a character is invited to or invites themselves to their favorite set for the first time, the character will provide a reward. They will provide a reward for each of their favorite sets.
+Inviting them to the furnishing set again will replay the dialogue, but no further reward will be given.
+
+Court of Justice's Booming Commerce[]
+
+Media:vo mimitomo fd lynette businessdistrict 01.ogg Lynette: This reminds me of the kind of places Lyney takes me to do street magic.
+Media:vo mimitomo fd lynette businessdistrict 02.ogg Lynette: With a parasol for comfort — and without Lyney's constant chatter — I estimate my energy recharge rate will double.
+Media:vo mimitomo fd lynette businessdistrict 03.ogg Lynette: I'm gonna sit here and drink some tea for a while. Wanna join me? I remember how much sugar you take in yours.
+
+Perfectly-Drawn Focus[]
+
+Media:vo mimitomo fd lynette stagestyle 01.ogg Lynette: You're looking in my direction, but the stage is clearly in your peripheral vision. You're hoping to see a show, aren't you...
+Media:vo mimitomo fd lynette stagestyle 02.ogg Lynette: Boop-boop.
+Media:vo mimitomo fd lynette stagestyle 03.ogg Lynette: Standby mode activated while Lyney completes the upstream performance process. Enjoy the show.
+
+Change History[]
+Released in Version 4.0[Edit History]Version 4.3
+The following Furnishing Sets were assigned as favorite for this character:
+Court of Justice's Booming Commerce
+Perfectly-Drawn Focus
+
+Version 4.0
+
+Lynette/Companion was released.
+Navigation[]
+  Living Beings
+ Companions5★
+
+4★
+
+Paimon
+
+
+
+ AnimalsCreatures
+
+
+
+
+
+

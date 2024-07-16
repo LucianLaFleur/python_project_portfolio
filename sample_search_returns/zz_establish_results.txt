@@ -1,0 +1,809 @@
+all_furnishings.txt:
+ e typical Ash Wood bench. Often found near bars or around rectangular tables in establishments like hotels and cafés within the Court of Fontaine, this lightweight and p
+---
+all_furnishings.txt:
+ ound in the restaurants, taverns, and cafes of Sumeru City. If the owner of the establishment were to use these shelves to display their most cherished objects, the dark
+---
+all_furnishings.txt:
+ functional kitchen added, allowing them to tirelessly serve their customers and establish themselves as a premier dining establishment in the area.
+Remarkable Chest
+Inaz
+---
+all_furnishings.txt:
+ o tirelessly serve their customers and establish themselves as a premier dining establishment in the area.
+Remarkable Chest
+Inazuman_Workshop:_Sweetness_Sought : Exterio
+---
+all_furnishings.txt:
+ ards continues to persist in the Court of Fontaine. Following the principle of "establishing a semblance of order no matter what," the Palais Mermonia made revisions to 
+---
+all_furnishings.txt:
+  facility found throughout Fontaine.Legend has it that in the early days of the establishment of The Steambird, promoters were tasked with distributing newspapers for fr
+---
+all_furnishings.txt:
+ urt of Fontaine, these tables are the most diligent "employees" in various food establishments. Café Lutece is perhaps the most well-known establishment featuring these 
+---
+all_furnishings.txt:
+ ees" in various food establishments. Café Lutece is perhaps the most well-known establishment featuring these round tables. Made from the finest Linden Wood and covered 
+---
+all_furnishings.txt:
+ mains fraught with numerous variables in practice. The slightest deviation from established records can lead to unexpected results. Therefore, the furniture that alchemi
+---
+all_furnishings.txt:
+  can be commonly seen around the Jiulue Teahouse in Yilong Wharf and other such establishments. It is specially designed for guests to enjoy tea and listen to stories.Li
+---
+all_furnishings.txt:
+  availability of these couches, and they are now becoming rare and few. In some establishments, these couches might also be used as a small stage for their instruments.
+
+---
+all_furnishings.txt:
+ an and helped to usher in a new age in local art. As of today, Inazuma has long established its own unique culture of porcelain work.
+Realm Depot
+Disk-Patterned_Terracot
+---
+all_furnishings.txt:
+ ing out the greatest in whatever drink you are having. These utensils appear in establishments selling food and beverages throughout Sumeru, such as Puspa Café.If one we
+---
+all_furnishings.txt:
+ ng
+This upholstered chair with a luxurious gold frame is a common sight in food establishments like the Café Lutece in the Vasari Passage. It is said to be one of Fontai
+---
+all_hangout.txt:
+ in Heizou: The crucial elements are Shiroyama's motive and means, which we have established.
+(Dialogue returns to option selection if there are any left)
+ The Toxicology
+---
+all_hangout.txt:
+ lkami: If it's near-impossible to make money as an architect, then why not just establish a training center, and train other people to become architects in our stead?
+Me
+---
+all_hangout.txt:
+  also your safe haven.
+Trivia[]
+In this route, a minor contradiction to Kaveh's established information occurs, as Kaveh states that he has previously hosted free lectur
+---
+all_hangout.txt:
+  So I thought I would ask the Tenryou Commission if they would be interested in establishing a long-term supply relationship. Injuries are a regular occurrence in the ar
+---
+all_hangout.txt:
+ al measures to boost the economy, including the development of trade routes and establishing our own caravans.
+Media:vo lyycop001 1903907 shibata 04.ogg Shibata: Troops 
+---
+all_hangout.txt:
+ cop001 1908002 xingxi 01.ogg Xingxi: Welcome to Mingxing Jewelry. We are a long-established trader of precious stones. Is there anything in particular you're looking for
+---
+all_hangout.txt:
+ The pleasure is all mine. The Secure Transport Agency has worked with your fine establishment in the past, though we have only corresponded through letters. I always fou
+---
+all_hangout.txt:
+ . But it wouldn't let me.
+Media:vo tmcop001 1911602 thoma 09.ogg Thoma: I tried establishing some trust by petting it on the head, but it gave me a nasty bite.
+Media:vo 
+---
+all_hangout.txt:
+  Shinobu: It's true, having a clear set of regulations and penalties could help establish behavioral norms for our members.
+Media:vo jqrcop001 1914102 shinobu 20.ogg Kuk
+---
+all_hangout.txt:
+ ?
+Media:vo kycop001 1909405 grace 02.ogg Grace: While I don't expect a recently established amateur choir to perform on par with our own church choir, this would be a ma
+---
+all_npc_text.txt:
+ nstitute of Natural Philosophy, and a Marechaussee Hunter, and later went on to establish the Fontaine Research Institute (full name "Fontaine Research Institute of Kine
+---
+all_npc_text.txt:
+ s to the present day.[5]
+Sometime after leaving the Marechaussee Phantom, Alain established the Fontaine Research Institute of Kinetic Energy Engineering.[13] He named t
+---
+all_npc_text.txt:
+  building the new Mondstadt City on an island in the middle of the lake. People established themselves in their new home, developing festivals and celebrations like Ludi
+---
+all_npc_text.txt:
+  the Knights of Favonius and became its first Grand Master. Barbatos officially established the Four Winds, consisting of the Wolf of the North, the Lion of the South, t
+---
+all_npc_text.txt:
+  Tower. However, despite his initial wariness of the Fatui,[61] an organization established by the Tsaritsa after the cataclysm, he lets his guard down and is ambushed b
+---
+all_npc_text.txt:
+ position that currently holds an unknown relationship to him — joined the newly established Knights of Favonius. In the past, the Temple of the Wolf located near the Tho
+---
+all_npc_text.txt:
+ (now Dragonspine). Sal Vindagnyr fell around the time that Khaenri'ah was being established. Meanwhile, Guizhong, who died over 3700 years ago, collected Khaenri'ah mach
+---
+all_npc_text.txt:
+ ge at approximately 4000 years old and, if the assumption about Sal Vindagnyr's establishment is correct, means the Age of Kings began long before that.
+↑ The Chinese de
+---
+all_npc_text.txt:
+ urse.
+Dummy: I mean, aren't you concerned that we might be some sort of illegal establishment?
+Dummy: Haha, I kid, I kid. Please don't tell the boss that I'm scaring cus
+---
+all_npc_text.txt:
+ rald green eyes that possesses the grace of an "aristocat."  Players seeking to establish a relationship with it may find success by imitating the mannerisms of an arist
+---
+all_npc_text.txt:
+ ing Vennessa's rebellion against the Mondstadt Aristocracy, the Four Winds were established. Dvalin was Dragon of the East, Boreas the Wolf of the North, and Vennessa si
+---
+all_npc_text.txt:
+ eath, uniting the various tribes that remained after Remuria's destruction. She established Fontaine's laws and was known by various titles, including "Noble Navigator,"
+---
+all_npc_text.txt:
+ nd gathered the survivors, mediated between their feuds, and instructed them to establish new cities around flowing springs, thus commencing an era guided by law which h
+---
+all_npc_text.txt:
+ stone
+Makoto and Ei were twin gods who won the Archon War together. When Makoto established the Shogunate, Ei became her kagemusha (Japanese: 影武者 "shadow warrior"), or b
+---
+all_npc_text.txt:
+ e about "Tales of Humanity"...
+Euphrasie: One of the primary reasons we had for establishing our newspaper was to ensure that information flows and that everyone can und
+---
+all_npc_text.txt:
+ was a traveling merchant in the desert before making enough money to start this establishment.
+Eymen: Life was rough in the desert. The Eremites actually looked after me
+---
+all_npc_text.txt:
+ n Port Ormos wasn't as peaceful, the Alliance of the Twenty-Nine Ocean Deys was established.
+Farahnaz: The major pirate leaders who joined took stock of the situation an
+---
+all_npc_text.txt:
+ .
+Farahnaz: The major pirate leaders who joined took stock of the situation and established a fair division of power in the Alliance.
+Farahnaz: Each Alliance leader, or 
+---
+all_npc_text.txt:
+ Petrichor is not some ancient hamlet to be forgotten by all.
+Foscari: I wish to establish links with the Spina di Rosula, cooperate with them — I want our town to become
+---
+all_npc_text.txt:
+ urn against Celestia, Rukkhadevata chose not to stay by their sides and instead established her own territory by nurturing a rainforest with the Varuna Contraption. The 
+---
+all_npc_text.txt:
+  the Varuna Contraption.[35]
+With the help of her followers, who would go on to establish the Amurta Darshan of Sumeru Akademiya, Rukkhadevata revived a flourishing rain
+---
+all_npc_text.txt:
+ o what supposedly happened during the cataclysm.[60] She believes she should re-establish contact with The Seven, which indicates she has never met with any of them and 
+---
+all_npc_text.txt:
+ s best known as one of the gods who presided over the Guili Assembly, which she established alongside Morax and Marchosius, and for her mechanisms such as the Guizhong B
+---
+all_npc_text.txt:
+ on, specifically joy, in contrast to her unmoving partner Rex Lapis.
+During the establishment of the Guili Assembly, Guizhong established her four commandments:[5]
+"To u
+---
+all_npc_text.txt:
+ ing partner Rex Lapis.
+During the establishment of the Guili Assembly, Guizhong established her four commandments:[5]
+"To unite in ambition is to be steadfast and immova
+---
+all_npc_text.txt:
+ els.
+It can be assumed that Gunnhildr followed Barbatos to Cider Lake, where he established the current City of Mondstadt. Little is known about the rest of her life.
+So
+---
+all_npc_text.txt:
+ 's destruction during the Archon War, he was among the survivors who went on to establish Liyue Harbor. However, following a series of calamities, he used up his power t
+---
+all_npc_text.txt:
+ iesGratifying Gathering
+Marchosius was one of the many gods of Liyue; he helped establish the Guili Assembly alongside Morax and Guizhong, making him over 3700 years old
+---
+all_npc_text.txt:
+ econd riddle:"You speak of the universal law created in heaven, the divine laws established in the beginning.""No one has seen the eternal law, yet it governs all.""One 
+---
+all_npc_text.txt:
+ ile the Tsaritsa joined forces with former Khaenri'ahn royal mage[35] Pierro to establish the Fatui.[36]
+The Traveler's sibling, who appeared in Khaenri'ah after "the he
+---
+all_npc_text.txt:
+ f. The sibling eventually became the leader of the Abyss Order, an organization established by Chlothar Alberich which worships a certain self-proclaimed "Sinner"[38] an
+---
+all_npc_text.txt:
+ ine nails were cast down. King Deshret narrates that "the seven sage monks were established again, and they ruled the trajectories drawn by the earth, water, and stars,"
+---
+all_npc_text.txt:
+ ommend a thriller!
+Hubel: You can call me the... temporary owner of this little establishment.
+Hubel: I say "temporary," for it is my dream to join The Steambird!
+Hubel:
+---
+all_npc_text.txt:
+  the traditional Eremite eye covering she wears), official character art of her establishes that they are gold.[2]
+(After completing Rejoice With Me, for What Was Lost I
+---
+all_npc_text.txt:
+ hogun's Army.
+Kaida Ryouma: But the next time we fight them, we must be sure to establish a position of absolute superiority.
+ Tell me more about yourself, if you would.
+---
+all_npc_text.txt:
+ tou Shingou is the older brother of Katou Youhei. He and his brother dreamed of establishing their own dojo for a living. He became a student of Meikyou Shisui Art after
+---
+all_npc_text.txt:
+ s...)
+Khensa: I'm not sure if you're aware, but the Temple of Silence was first established by Lord Hermanubis.
+Khensa: He was a priest of King Deshret, our Lord Al-Ahma
+---
+all_npc_text.txt:
+ y," based on what Nabu Malikata had taught him,[25][38][Note 1] making plans to establish a vast kingdom in the desert with those virtues as the foundation.
+At some poin
+---
+all_npc_text.txt:
+ derneath the Desert of Hadramaveth.[40]
+With Apep satisfied, Deshret went on to establish his rule over the desert. At that time, the three gods' former kingdom had supp
+---
+all_npc_text.txt:
+ e "mortals' ideal kingdom" in the shepherd Ormazd. With her help, he went on to establish the vassal state of Gurabad, conquering and reuniting the various tribes of the
+---
+all_npc_text.txt:
+ treatises were still put to good use. Those freeloading Kshahrewar used them to establish the fundamentals of the study of mechanisms. Haha, I'm not called "Madam Faruza
+---
+all_npc_text.txt:
+  only led him to conclude that they were all meaningless.
+The ruins of the city established by King Deshret are known as the "Akhtamun" Ruins,[42][57] and obelisks found
+---
+all_npc_text.txt:
+ e being disowned. The deaths of his companions did not deter him, however, from establishing an underground organization dedicated to undermining the aristocracy and lat
+---
+all_npc_text.txt:
+  with the patterns designed by Haravatat researchers.
+Lambad: There is no other establishment in Sumeru City with such a luxurious setup.
+Lambad: So you see, little acci
+---
+all_npc_text.txt:
+ les
+Lyris was a gentle-natured Oceanid whose position of orphanage director was established in honor of the previous Hydro Archon, Egeria. In the Court of Fontaine's off
+---
+all_npc_text.txt:
+ rds, Rene and Jakob, two children who were formerly cared for by the Institute, established a secret society known as the Narzissenkreuz Ordo, with the goal of creating 
+---
+all_npc_text.txt:
+ ago, Madame Ping was an adeptus who dwelt in the Guili Assembly, a civilization established by the gods Guizhong, Marchosius, and Morax. Ping's skill as a horticulturist
+---
+all_npc_text.txt:
+ ioner Kamisato Ayato. His work includes organizing the public commission system established by the Yashiro Commission.
+Madarame Hyakubei wears a traditional gray kimono 
+---
+all_npc_text.txt:
+ otal cost for all items450,000
+Marjorie is Cyrus' daughter and Iris' niece. She established her shop because she wants to share the stories behind the treasures her fath
+---
+all_npc_text.txt:
+ n and whalesong master from the Yuna Clan of the Watatsumi Island, Inazuma, who established the first navy of the island with the mighty whale Daikengyou. Along with her
+---
+all_npc_text.txt:
+ Additional contextNadia's location (Nighttime)Additional context
+When the Fatui established the Northland Bank in Liyue Harbor, Nadia was assigned to serve as a guard fo
+---
+all_npc_text.txt:
+ tada (Japanese: 光忠), the greatest swordsmith of the Bizen School who went on to establish the Osafune School. The three were known as the Sansaku, or Three Great Masters
+---
+all_npc_text.txt:
+ he end of the worship of the Dainichi Mikoshi and many of the corrupt practices established by the Sunchildren regime.
+Orobashi brought with its newfound rule drastic ch
+---
+all_npc_text.txt:
+ Gambit, Pantalone intervenes after Yusupov's plan to assassinate Uncle Tian and establish Zhiyi as the new Tianshu fails. Having kept an eye on the proceedings, Pantalon
+---
+all_npc_text.txt:
+ l me about Angel's Share.
+Patton: It was way back when the Dawn Winery was just established when the owner of the winery opened this tavern.
+Patton: The winery's owner, 
+---
+all_npc_text.txt:
+ th the "foundational principles of this world" and joined the Tsaritsa's cause, establishing the Fatui[8] and becoming the first Harbinger.
+At some point in the past, Pi
+---
+all_npc_text.txt:
+ wever, of the persuasion that it requires more energy to maintain relationships established on excessive enthusiasm.As a result, Albedo's equivalent of friendship involv
+---
+all_npc_text.txt:
+ About_Albedo_-_Socializing.ogg Relationships are... quite troublesome. Once you establish a relation with someone, you must continue to maintain it; if you lose contact,
+---
+all_npc_text.txt:
+ e is also Latinized as Alhazen. He is best known for his work in optics and for establishing a number of core concepts of the modern scientific method, in particular arg
+---
+all_npc_text.txt:
+  the Conqueror of Demons, Xiao[2] — and for leading the Crux, an armed crew she established.
+Beidou is well known across Liyue for her strength, her easy-going personali
+---
+all_npc_text.txt:
+  Prize is yours to win."Character Story 4 Friendship Lv. 5
+The La Verite Prize, established and funded by The Steambird, is the most prestigious prize a Fontainian repor
+---
+all_npc_text.txt:
+  identity of the one sent to deal with the matter.If it is only a member of the establishment's staff, then perhaps a simple debate will be sufficient to resolve the iss
+---
+all_npc_text.txt:
+ em — and how despite the fact Donatello had broken the law was indisputable and established fact, and legally speaking his sentence could not be commuted or shortened, t
+---
+all_npc_text.txt:
+  seem to go on forever, the first corner of the Chiori fashion kingdom has been established.
+Media:vo mimitomo fd chiori businessdistrict 03.ogg Chiori: I will work hard
+---
+all_npc_text.txt:
+ ed destination."Character Story 5 Friendship Lv. 6
+When the Akademiya was first established, its researchers wielded their boundless imagination and innovation to the fu
+---
+all_npc_text.txt:
+ , General Mahamatra, is derived from the Mahamatra (Sanskrit: महामात्र) a group established by the Indian emperor Ashoka who were in charge of justice and religious affa
+---
+all_npc_text.txt:
+ re is one thing these employers should be aware of. That is, the agreement they establish with Dehya is only temporary and purely transactional. The reins to tame this l
+---
+all_npc_text.txt:
+ : She accepted all the orders while starting cooperation with the Kshahrewar to establish new trade routes in areas that were known to be dangerous.She opened the new ro
+---
+all_npc_text.txt:
+ treatises were still put to good use. Those freeloading Kshahrewar used them to establish the fundamentals of the study of mechanisms. Haha, I'm not called "Madam Faruza
+---
+all_npc_text.txt:
+ eceiving_a_Gift_-_01.ogg *munch* This is tastier than the food at most historic establishments. Could it be that the culinary arts haven't stopped improving?
+Receiving a
+---
+all_npc_text.txt:
+ side with the people of Inazuma. In fact, the Shirasagi Himegimi has managed to establish an excellent reputation for herself, despite facing pressure from both sides. I
+---
+all_npc_text.txt:
+  lead the Knights to smash the many plots of the Abyss Order with the other, re-establishing the authority of the Knights of Favonius.Jean will never forget the moment s
+---
+all_npc_text.txt:
+ side with the people of Inazuma. In fact, the Shirasagi Himegimi has managed to establish an excellent reputation for herself, despite facing pressure from both sides. I
+---
+all_npc_text.txt:
+ beauty is, on the whole, a pretty concrete concept. I do think it's possible to establish some basic objective aesthetic standards. It's possible to improve your aesthet
+---
+all_npc_text.txt:
+ ast, the old strictures left behind can't simply be continued wholesale. But to establish new laws for Liyue, whose history spans several thousand years, is no mean feat
+---
+all_npc_text.txt:
+ o dq kujousara trainingground 03.ogg Kujou Sara: Either way, in accordance with established military convention, those who demonstrate outstanding capabilities ought to 
+---
+all_npc_text.txt:
+ distance to target area... Alright, I've recorded the terrain conditions.
+Chat: Establishing a RouteChat: Establishing a RouteMedia:VO_Mika Chat - Establishing a Route.o
+---
+all_npc_text.txt:
+  Alright, I've recorded the terrain conditions.
+Chat: Establishing a RouteChat: Establishing a RouteMedia:VO_Mika Chat - Establishing a Route.ogghttps://genshin-impact.f
+---
+all_npc_text.txt:
+ tions.
+Chat: Establishing a RouteChat: Establishing a RouteMedia:VO_Mika Chat - Establishing a Route.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Mika_Chat_-_Establ
+---
+all_npc_text.txt:
+ t you may find yourself in, with thorough reconnaissance, you should be able to establish a safe route.
+When It RainsWhen It RainsMedia:VO_Mika When It Rains.ogghttps://
+---
+all_npc_text.txt:
+ id forming personal relationships, or even collaborating with others outside of established procedures. But you have shown yourself to be trustworthy, and you have no pr
+---
+all_npc_text.txt:
+ tomaton's voice flowed into her ears like a sigh: "the eternity you resolved to establish in your heart has been shaken by the countless wishes of the people. Thus, you 
+---
+all_npc_text.txt:
+ "It has been over a thousand years since Hermanubis, the greatest of all sages, established the Temple of Silence. Their sole aim is one that is also truly sublime, and 
+---
+all_npc_text.txt:
+  Hermanubis. As a result of this, he was indwelt by a great power with which he established a sacred connection.The other whose childhood experiences were similar to his
+---
+all_npc_text.txt:
+ r of the Temple of Silence, and under his leadership, the Temple has once again established a collaborative relationship with the Akademiya.On the one hand, a perfectly 
+---
+all_npc_text.txt:
+ ng a criminal, they have in some sense already failed. Whatever you might do to establish the truth and identify the culprit, you'll never be able to undo the damage cau
+---
+all_npc_text.txt:
+ ip3 06b 1.ogg Shikanoin Heizou: Yes. Of course, it's Detective Heizou's duty to establish the truth.
+Media:vo heizou mimitomo friendship3 06b 2.ogg Shikanoin Heizou: But
+---
+all_npc_text.txt:
+ s an affable person by nature and can easily get involved in various topics and establish relationships with various people. When it is time to defend the rights and int
+---
+all_npc_text.txt:
+ been in Mondstadt for a few months, his income was far less than the other more established bards in town. But once he had a few Mora in the pot from his performance, yo
+---
+all_npc_text.txt:
+ ke a meteor, challenging both wind and thunder.
+The house of Yun has long since established itself in Liyue as a family of craftsmen. At the time of this bow's inception
+---
+all_npc_text.txt:
+ nable to fly high, unable to explore the future.
+Then the seven sage monks were established again, and they ruled the trajectories drawn by the earth, water, and stars. 
+---
+all_npc_text.txt:
+ deception, but set a shining example.
+For she overthrew the barbaric nobles and established a chivalric order and the Church.
+Blessed was she to eventually walk with the
+---
+all_npc_text.txt:
+ e Scroll
+This was in the distant past, before the prosperous port city was ever established.
+Then, even the abodes of the adepti were not spared from the flaming beacons
+---
+all_npc_text.txt:
+ e Millelith of yore.
+Carved from the divine bedrock upon which Liyue Harbor was established, it is incomparably heavy.
+No ordinary human could lift this blade, let alone
+---
+all_npc_text.txt:
+ ruled Mondstadt was overthrown.
+In the name of benevolent governance, the newly established Knights of Favonius deemed that protracted investigations would be unnecessar
+---
+all_npc_text.txt:
+  from office, his desire to continue the legacy of his fellow rebels led him to establish a secret society aimed at bringing down the Aristocracy.
+It is also said that h
+---
+all_npc_text.txt:
+ erstand.She also loves to explore the harbor area: Granny Shan's toy stall, the establishment — that is to say, Wanmin Restaurant — run by her senior disciple's family, 
+---
+all_npc_text.txt:
+ 3700 years ago, Zhongli was forced to move his people south of Mt. Tianheng and established Liyue Harbor,[8] where it stands to this day.
+In present time, Zhongli has ha
+---
+all_npc_text.txt:
+ he Traveler and the two Fatui Harbingers, Zhongli related the truth that he had established a contract with the Cryo Archon.In his own words, this was his final "Contrac
+---
+all_npc_text.txt:
+ a contract is "equivalent exchange."And for the God of Contracts, who must have established countless such agreements in his long years of existence, such an important c
+---
+all_npc_text.txt:
+ t Library.[3] It is unknown whether he joined the Knights of Favonius after its establishment.
+Ragnvindr tended to the Dawn Winery during his lifetime, although it is un
+---
+all_npc_text.txt:
+ s destiny caused the Irminsul to turn into a golden ship,[6] which they used to establish the empire of Remuria over the waters.[11]
+Remus' reign was a prosperous one, k
+---
+all_npc_text.txt:
+ [26] Boethius survived Remuria's initial fall, mustering remnants of Remuria to establish the Golden Troupe in an attempt to revive Remuria and Phobos.[27] Cassiodor, wh
+---
+all_npc_text.txt:
+ eard the news, you know — about all the people coming here to Ritou, looking to establish their businesses. That really gets my fingers itching, you know? So... What do 
+---
+all_npc_text.txt:
+ nknowingly met him already.[2]
+Rouran is the proprietor of the Pearl Galley and established the rules for the luxury boat. The currently known rules are: Attendees may o
+---
+all_npc_text.txt:
+  Goudarz allied with again near the end of his life.[3]
+Goudarz proceeded to re-establish Gurabad as the capital city of the desert,[Note 1] inviting the people of the C
+---
+all_npc_text.txt:
+ r dynasty in Iran.
+Khagan is a title used by Mongol and Turkic rulers when they established empires in the Eurasian steppe and around the Middle East region.
+↑ Gurabad h
+---
+all_npc_text.txt:
+ er the ownership of Taroumaru, Komore Teahouse is a successful and well-revered establishment, as evident by Snezhnayan merchant Ramsay finding the tea and atmosphere ag
+---
+all_npc_text.txt:
+ aff including her have signed a contract with Taroumaru agreeing to work at the establishment for eternity.
+Taroumaru is also considerate and intelligent as a former Shu
+---
+all_npc_text.txt:
+ requires all Komore Teahouse's staff to sign a contract agreeing to work at the establishment forever. However, given that the lifespan of a shiba inu is considerably sh
+---
+all_npc_text.txt:
+  some abandoned fishing village... At least until after our first Doge Ruggiero established the Consilium Sapientium and restored our fortunes.
+Tiepolo: The townspeople 
+---
+all_npc_text.txt:
+ he Chasm Delvers)
+Tu: If this place does indeed become a market, then we should establish connections with the Feiyun Commerce Guild as soon as possible.
+Tu: That's righ
+---
+all_npc_text.txt:
+ u on this fine day, dear guest. My name is Vaneigem, and I am the owner of this establishment.
+Vaneigem: If you have any comments or suggestions regarding the menu or pe
+---
+all_npc_text.txt:
+ ethink that...
+He may be named after the Portuguese explorer Vasco da Gama, who established the first ocean route linking Europe to India.
+EventsA Parade of ProvidenceSa
+---
+all_npc_text.txt:
+  place in Fontainian society. After being sent to Fortress of Meropide, Vautrin established the Mutual Aid Society, which used a design similar to Vautrin's Medal of Pea
+---
+all_npc_text.txt:
+  power flowing through his mind and body". Given that Chlothar later went on to establish the Abyss Order,[4] it is likely that the Order worships the Vedrfolnir as a ke
+---
+all_npc_text.txt:
+ sfully overthrowing the aristocracy, Vennessa led the city's reconstruction and established the Knights of Favonius to fight against any of those who would try to become
+---
+all_npc_text.txt:
+ f, are agents of the Liyue Qixing and pass their intel to Ningguang.[3] The two established Wangshu Inn to covertly support Xiao in his mission to suppress the emanation
+---
+all_npc_text.txt:
+ e tiger" and the first lord of the forest, born after Greater Lord Rukkhadevata established her domain in Dharma Forest and created the Varuna Contraption.[3]
+Little is 
+---
+all_npc_text.txt:
+ follow the rules of nature, who themselves went on to teach more successors and established what would be known as the guardians of the forest. Viridescent, who lived du
+---
+all_npc_text.txt:
+ d Mr. Vsevolod. He works there as an agent of the Northland Bank prior to their establishment of a Sumeru branch.
+Viktor has short swept-back blond hair, the front of hi
+---
+all_npc_text.txt:
+ )Additional contextVlad's location (Nighttime)Additional context
+When the Fatui established the Northland Bank in Liyue Harbor, Vlad was assigned to serve as a guard for
+---
+all_npc_text.txt:
+ ually managed to finish the film. After winning the Furina Award, he decided to establish his own film company, Musketeer Pictures.
+Xavier has blonde hair and wears a bl
+---
+all_npc_text.txt:
+  out of stock, but we have some new items in."
+Xingxi: Mingxing Jewelry is well established within the industry, even if we are only taking advance orders on gems right 
+---
+all_npc_text.txt:
+  Wangshu Inn. From time to time, the two will switch places at their respective establishments.
+Story QuestsAlatus Chapter (Xiao)Act I: Butterfly's DreamInsights of Drif
+---
+all_npc_text.txt:
+ ous about me whatsoever.
+ What's your role here?
+Yuhua: I am a waitress at this establishment, or a server if you will. I'm afraid there's not much more to say than that
+---
+a_purified_misc_content.txt:
+ ings. Simply let time bring you an answer.
+"At last, when aristocratic rule was established,The wondrous era brought about by their trailblazing would end.The people rem
+---
+a_purified_misc_content.txt:
+ as the nation of wisdom. True to its reputation, it also boasts an old and well-established history. But the Archon of Sumeru, "Lesser Lord Kusanali," is not as long-liv
+---
+a_purified_misc_content.txt:
+ Interim Period[]
+Main article: Timeline § The Interim Period
+While not formally established as its own period in time, Liyue lore indicates there was a stretch of peacet
+---
+a_purified_misc_content.txt:
+ mbling a tiger in shape.[16]
+With the help of her followers, who would go on to establish the Amurta Darshan of Sumeru Akademiya, Rukkhadevata developed a flourishing ra
+---
+a_purified_misc_content.txt:
+ e 1] find a bountiful and green mountain. They erect a monument on its peak and establish a civilization there, naming it Sal Vindagnyr, and the mountain Vindagnyr. Over
+---
+a_purified_misc_content.txt:
+ Interim Period[]
+Main article: Timeline § The Interim Period
+While not formally established as its own period in time, Liyue lore indicates there was a stretch of peacet
+---
+a_purified_misc_content.txt:
+ inaccurate.
+? years ago ― An ancient civilization in the Windwail Highland area establishes Cecilia Garden, where they grew Cecilia flowers in greenhouses.[11]
+Based on 
+---
+a_purified_misc_content.txt:
+ carabian's Mondstadt.
+? years ago ― An ancient civilization at Starsnatch Cliff establishes the Sommernachtgarten. When the civilization fell, the Sommernachtgarten was 
+---
+a_purified_misc_content.txt:
+ from an ancient god[13] and becomes a god himself.[14]
+? years ago ― Decarabian establishes his capital city, Mondstadt,[15] in the area now known as Stormterror's Lair.
+---
+a_purified_misc_content.txt:
+ as most records of them disappear and are forgotten.[29]
+? years ago, after the establishment of Mondstadt ― Seeing that his people had enough wisdom and strength to liv
+---
+a_purified_misc_content.txt:
+ parts so he would not be able to become a tyrant.[48]
+The Windblume Festival is established in memory of those who fought for freedom during Decarabian's reign. The code
+---
+a_purified_misc_content.txt:
+ [66][70][Assumption 6]
+>1000 years ago[Assumption 7] ― The Wanderer's Troupe is established, comprised of people from all over Teyvat.[71] It was both a musical troupe a
+---
+a_purified_misc_content.txt:
+ e Troupe's disbandment, Kreuzleid did not give up resisting the aristocracy; he established an underground organization, which would remain active even 500 years later, 
+---
+a_purified_misc_content.txt:
+ s uncorrupted, such as the Gunnhildr Clan, were allowed to remain.[28]
+Vennessa establishes the Knights of Favonius, with herself as its first Dandelion Knight and Grand
+---
+a_purified_misc_content.txt:
+ from taking over Mondstadt again.[64][87][88]
+After the Knights of Favonius was established, a certain Knight of Boreas arrives at Mondstadt and joins them.[89] However,
+---
+a_purified_misc_content.txt:
+  original inscription on it has been lost.[45]
+? years ago ― The Four Winds are established, with Boreas as Wolf of the North and Dvalin as Dragon of the East. Vennessa 
+---
+a_purified_misc_content.txt:
+ ain a model knight.[98] It is said that he continued running the secret society established around 500 years earlier by Kreuzlied.[77]
+Rostam taught the Knights of Favon
+---
+a_purified_misc_content.txt:
+ around a spring created by melted ice and snow from Dragonspine,[120] so it was established after Sal Vindagnyr froze over.
+<200 years ago ― A Lochfolk named Callirhoe, 
+---
+a_purified_misc_content.txt:
+ avonius, he decides to move to Mondstadt and become a member himself. There, he established the Outriders, a division of archer scouts whose members he personally traine
+---
+a_purified_misc_content.txt:
+ ter her ascension, but Venti's Character Tale depicts her as a mortal after the establishment of the Four Winds, which indicates that she was both while she was alive.
+↑
+---
+a_purified_misc_content.txt:
+ .
+After her rebellion, the clan was thrown out and the Knights of Favonius were established to replace them. While they are not an explicit ruling entity per Barbatos' r
+---
+a_purified_misc_content.txt:
+ from The History of the Decline and Fall of Remuria.
+An ancient civilization is established in the area that is now The Chasm.[Assumption 1]
+The Great War[]
+Main article
+---
+a_purified_misc_content.txt:
+ Interim Period[]
+Main article: Timeline § The Interim Period
+While not formally established as its own period in time, Liyue lore indicates there was a stretch of peacet
+---
+a_purified_misc_content.txt:
+ d her people move north of Mt. Tianheng for reasons unknown. Morax and Guizhong establish the Guili Assembly, which derives its name from the first character of Guizhong
+---
+a_purified_misc_content.txt:
+  the trades of agriculture and mining,[4] and became a trading hub.[6]
+Guizhong establishes four commandments to guide her people:"To unite in ambition is to be steadfas
+---
+a_purified_misc_content.txt:
+ me relation.
+? years ago — Early civilizations in the Lisha region of Liyue are established at Dunyu Ruins, Lingju Pass, Qingxu Pool. At some point either before or duri
+---
+a_purified_misc_content.txt:
+ to Chenyu Vale.
+Other Regions of Liyue[]
+? years ago — Havria, the God of Salt, establishes her domain in Liyue; the original expanse of her territory is unknown, but it
+---
+a_purified_misc_content.txt:
+ es of flowers to her followers.[12]
+? years ago — The village at Wuwang Hill is established. It would exist in relative peace until some time after Liyue Harbor was esta
+---
+a_purified_misc_content.txt:
+ lished. It would exist in relative peace until some time after Liyue Harbor was established, after which the bewitching song of a whale-like sea monster (potentially the
+---
+a_purified_misc_content.txt:
+  Marchosius, and the adepti lead their people south of Mt. Tianheng, where they establish Liyue Harbor. Morax creates a contract with the adepti to defend it.[8][21]
+The
+---
+a_purified_misc_content.txt:
+ reates a contract with the adepti to defend it.[8][21]
+The Millelith Brigade is established to protect the people and defend against monsters.[4][22]
+Morax teaches his p
+---
+a_purified_misc_content.txt:
+ hes his people how to create houses, using Mora to create a model home. He also establishes minted Mora as Liyue's currency, for convenience.[23][Note 2]
+After creating 
+---
+a_purified_misc_content.txt:
+ ars ago — The following events presumably occur sometime between Liyue Harbor's establishment and the end of the Archon War. The events are listed in a tentative chronol
+---
+a_purified_misc_content.txt:
+ rganization comprised of the seven foremost businesspeople in Liyue Harbor, are established.[53] Ganyu becomes secretary to the Liyue Qixing.[1]
+? years ago — A martial 
+---
+a_purified_misc_content.txt:
+ a at the end of his journey. After his ascension, a person who was close to him established the Guhua Brotherhood in his honor.'[54] After several hundred years, however
+---
+a_purified_misc_content.txt:
+ avonius, he decides to move to Mondstadt and become a member himself. There, he established the Outriders, a division of archer scouts whose members he personally traine
+---
+a_purified_misc_content.txt:
+ ure.
+↑ It is unclear whether Chi was defeated at this time or if the seals were established years after its defeat, but the seal at the highest point of Mt. Qingce has a
+---
+a_purified_misc_content.txt:
+ uin," which is Decarabian's capital city. As a result, the seals must have been established after Barbatos' rise as Anemo Archon 2600 years ago.
+↑ Zhongli's fifth Charac
+---
+a_purified_misc_content.txt:
+  as drinks or made into tea cakes. Serving tea is also very complex, with every establishment having their own take, and the idea of serving tea via tea bags is complete
+---
+a_purified_misc_content.txt:
+ te crafts at the hands of skilled craftsmen. The founding of the harbor and the establishment of the sea routes were instrumental in popularizing Liyue's commercial trad
+---
+a_purified_misc_content.txt:
+ ent.
+After all these years, the sea routes leading into Liyue are now very well established. Trade vessel is the ideal travel method for anyone wanting to conduct busine
+---
+a_purified_misc_content.txt:
+ gaming experience, and at the same time, they can ponder more about this. After establishing the general premise of the Electro Archon's pursuit of eternity, we started 
+---
+a_purified_misc_content.txt:
+  the fence in her backyard. This would make it more interesting, right? Once we established this idea, with the encouragement and recognition from our colleagues from th
+---
+a_purified_misc_content.txt:
+ Interim Period[]
+Main article: Timeline § The Interim Period
+While not formally established as its own period in time, Liyue lore indicates there was a stretch of peacet
+---
+a_purified_misc_content.txt:
+ ecline and Fall of Remuria.
+Towards the end of the "first era" — likely the era established after the Heavenly Principles's rise to power — humanity begins to covet thin
+---
+a_purified_misc_content.txt:
+ Interim Period[]
+Main article: Timeline § The Interim Period
+While not formally established as its own period in time, Liyue lore indicates there was a stretch of peacet
+---
+a_purified_misc_content.txt:
+ is destiny causes the Irminsul to turn into a golden ship,[8] which they use to establish the empire of Remuria over the waters.[15]
+Remus' reign is prosperous, becoming
+---
+a_purified_misc_content.txt:
+ and gathers the survivors, mediating between their feuds, and instructs them to establish new cities around flowing springs, thus commencing an era guided by law which e
+---
+a_purified_misc_content.txt:
+ r being exiled to the Fortress of Meropide, Vautrin became a model prisoner and established the Mutual Aid Society, which used a design similar to Vautrin's Medal of Pea
+---
+a_purified_misc_content.txt:
+ tes with medical needs.
+? years ago — Alain leaves the Marechaussee Phantom and establishes the Fontaine Research Institute of Kinetic Energy Engineering.
+Recent Past (<
+---
+a_purified_misc_content.txt:
+ he energy system, clockwork mechanisms (and the subsequent Clockwork Meka), and establishing the still-operational Fontaine Research Institute.[11] Like Snezhnaya, some 
+---
+a_purified_misc_content.txt:
+ zhnaya. The Adventurers' Guild, a mutual help organization for adventurers, was established in Snezhnaya,[2] while the Archive descriptions for Fatui Skirmishers remark 
+---
+a_purified_misc_content.txt:
+ ]
+The Northland Bank and Adventurers' Guild were founded in Snezhnaya, and have established themselves across Teyvat, primarily in large cities.
+Fashion[]
+Men's Clothing
+---
+a_purified_misc_content.txt:
+ mainstream academic circles, and I have no intention of casting doubt upon well-established views, but I feel obliged to say that the question of whether philosophical d
+---
+a_purified_misc_content.txt:
+ . The golden color of her eyes grew a bit darker.
+"Before the ancient immortals established the universe, there were gods that wandered across the lands. It was at this 
+---
+a_purified_misc_content.txt:
+ ly encompasses one month in the lunar calendar.
+↑ "Before the ancient immortals established the universe" may be a mistranslation, and the original sentence meant to ref
+---
+a_purified_misc_content.txt:
+  their gods clash in bitter battles before their very eyes. Rex Lapis would not establish the currency of the seven nations and cast the first Mora coins for quite some 
+---
+a_purified_misc_content.txt:
+ by the wisdom they contain, so that all things may transpire in accordance with established rules instead of tending towards chaos.
+In the earliest and humblest days of 
+---
+a_purified_misc_content.txt:
+ adt.
+After the Lionfang Knight liberated Mondstadt, the Knights of Favonius was established, and the Knight of Boreas joined them.
+The tradition of worshipping the Four 
+---
+a_purified_misc_content.txt:
+ his forties. Yet, despite his age, he took to it with great aplomb, and quickly established himself as a ringleader.
+The most terrible of all bandits are those who have 
+---
+a_purified_misc_content.txt:
+ ered thusly:
+"You speak of the universal law created in heaven, the divine laws established in the beginning."
+"No one has seen the eternal law, yet it governs all."
+"On
+---
+a_purified_misc_content.txt:
+  with neither beginning nor end.
+Untold years passed. The throne of Gurabad was established and overturned in the far south, and the noble kindred of the east once reach
+---
+a_purified_misc_content.txt:
+  the privilege of serving the God King. Here, all the theaters and palaces were established in shapes most harmonious, their beams and domes adorned with the most sumptu
+---
+a_purified_misc_content.txt:
+ een who settled the conflicts between the tribes. Around the flowing springs we established cities new, and started a world guided by laws that has endured to this day.
+
+---
+a_purified_misc_content.txt:
+ n't make you my familiar yet, " said the little witch."I know of another way to establish a contract with a witch. It seems we must resort to using it," said the young l
+---
+a_purified_misc_content.txt:
+ conditions were extremely unique, and my medical abilities aren't sufficient to establish a diagnosis... All I can do is come up with this theory based on my instincts. 
+---

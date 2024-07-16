@@ -1,31 +1,27 @@
 Task Kanban
-[DEV] - Character scraper
-[Research] - Find  
-[DEV] - Nation spider -> lore. history, etc, needs to crawl
+[DEV] mass-removal of garbage lines
+    - make a backup of all text textfile before running
+        - Check that purify_single_doc.py works
 [DEV] - german wiki scraper, Stimme
+[LOG] - document how the translation process works for translation tools
+    - [ need a purpose statement for the translation utility tools directory]
 [LOG] - purpose document for TV trope single-shot scraper
 [LOG] - purpose document for Genshin text project
 [ORG] - copy all source text files into a shared collection folder to make it easier to scan in powershell
 [CK] - CHECK sub-folders for their own purpose documents, tracking documentation
 [CK] - check completed code for PRESERVED keyword, so as to add notes to the associated documentation
-[LOG] - document the npc info scraper
-[LOG] - document the food scraper
+[LOG] - document the npc info scraper, as it's one of the more complex spiders
+[LOG] - document how regex consolidates the bunch of textfiles to improve search efficiency, purificaiton documentation
+[LOG] - document purpose of directories (raw text and sample search returns mentioned in July 14th journal entry)
 --- very low priority
-[dev] - english to X script, based off images of characters... (https://genshin-impact.fandom.com/wiki/Language#English)
+[Research] - Read through locations / POIs with the German AI assistant
+[Research] - Find pattern for locations (all names for urls, then content)
+    - do the same for the Main, Archon, and Commission Quests (hangouts and events are already done)
+[dev] - english to X fantasy script, based off images of letters... (https://genshin-impact.fandom.com/wiki/Language#English)
 
-==== unfinished programs (general)
-
-[!] - The german Genshin scraper is very messy currently and needs to have files cleaned and consolidated
-    - Need to make the german scraper for German voice line text
-
+==== unfinished programs (backlog, not listed above)
 [!] - the TV_Tropes text-grabber and power-shell searcher is messy and needs files consolidated in a new directory
-
 ==== unfinished in dndAutomations DIR
-
-"magic chaos" is a wild magic generator. The logic changes a ton based off effects. (journal NYI, but I will make a changelog as I develop it further)
-
-"Wild magic dictionary" is a bunch of reference dictionaries and arrays to make "magic chaos" work.
-Statistics and balance will be found here.
 
 ====================================================================================================
 ==== functional programs
@@ -50,19 +46,69 @@ The names are a means to an end of collecting this list of urls.
 in dndAutomations
 =========================================
 
-file "chaos bolt" is Rules-as-written, automating the 1d8 table.
+"chaos bolt" is Rules-as-written, automating the 1d8 table.
 This makes multiple chains very unlikely.
 
-file "custom chaos bolt" makes a flat 1/3 chance (instead of 1/8) for chained damage or effects, adding variation to tactics because you can declare a debuff or straight damage
+"custom chaos bolt" makes a flat 1/3 chance (instead of 1/8) for chained damage or effects, adding variation to tactics because you can declare a debuff or straight damage
 (descriptions explain how backfires work and give a better feel of "more power = more danger" as an embodiment of chaos)
 
-file "rand polymorph" is for testing the randomized polymorph dictionary. This is a set of CR1 appropriate monsters as an attempt at stat balance. 
+"rand polymorph" is for testing the randomized polymorph dictionary. This is a set of CR1 appropriate monsters as an attempt at stat balance. 
 NOTE: The dictionary is ordered from useless to powerful, but not broken. A Giant Spider is overly strong for a lvl1 spell, but it balances out, given that you, or an enemy, could turn either into that or a slug.
 [probably should be play-tested as it's own variation lvl-1 spell slot, bonus-action cast, like a sorcerer not having control to contrast from a druid's discipline]
+
+[UNFINISHED]
+"magic chaos" is a wild magic generator. The logic changes a ton based off effects. (journal NYI, but I will make a changelog as I develop it further, as this will allow for lots of custom coding)
+
+"Wild magic dictionary" is a bunch of reference dictionaries and arrays to make "magic chaos" work.
+Statistics and balance will be found here.
 
 ====================================================================================================
 
 Devlog:
+
+14 July:
+    create DANGEROUS_consolidate_many_textfiles_to_one.py
+        [ Danger ] - Why is this dangerous?
+        recursively writing random text to a textfile can eat up memory and resources... ate up 1.27 gb in less than 30 seconds of running before manual cancellation. From raw text. Yeah...
+    Consolidate all NPC text to one file -> improves searching
+    [+] Raw text directory added, containing scraped source text from the spiders,
+        - serves as the reference database for keyword searches
+    [+] Sample search directory added
+        - shows outputs from searching, based on words in title.
+        - correctly works for fragments of words
+
+    create sample vocab translation batch in DIR translation_utility_tools:
+    Made process_translation_pairs... python file:
+        - Input expects german/english translation pairs from .txt
+            (like what I get from my notes doing AI German lessons)
+        - Outputs a TSV that anki can read
+    english_txt_to_german_google_translate.py
+        - correctly translates target items
+        - connection often drops out over 20 items, so keep batches short
+    Output files also preserved in directory...
+
+13 July:
+    - Character scraper works, recursively gets outfit info correctly, as well as all targets like lore and VO lines.
+
+    making 'search1.py' to go through a directory full of files and look for keywords across all .txt files.
+        - Learned how to pass a variable into a regex pattern using  `re.escape(target_var)`, assuming that `target_var` is a string variable acquired through user input.
+    [-] Stupid python solution doesn't work, though pathing is correct... something is going on with these unfamiliar libraries and there's an inconsistency in the applied usage... 
+    - above targeting issue resolved, needed to mass-add ".txt" to the end of all files to allow them to be read properly
+
+    Removed multiple test output .txt files from developing the misc scraper. Saved one, marked with DEPRECIATED
+        - That DEPRECIATED_misc_collection...txt  shows the bad formatting of data with extra spaces.
+        - Could be expanded on to get rid of repeated words, but the regex search performance will determine if that's needed or not (really out of scope for now...)
+    Review and update README documentation again, standardizing format a little better
+
+Create text_colle1 --> contain all english source text
+    [+] made a copy of major source textfiles:
+        -all npc info
+        -all weapon info
+    (all below have space-purified copies)
+        -all playable character info collections
+        -all hangout quests info
+        -all food descriptions
+        -all furnishings
 
 12 July:
 Finish food description spider (successful .txt file creation in ./food_descriptions)

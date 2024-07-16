@@ -1,0 +1,560 @@
+Having killed his abusive foster parents to save his adoptive siblings, Wriothesley was sentenced and exiled to the Fortress of Meropide in his teenage years. He eventually became its Administrator and has enforced a series of reforms under his rule, serving as a role model for the prisoners.
+
+
+
+
+
+Night's Chilling Howl
+
+
+
+
+
+							Wish
+							
+						
+
+
+
+							In-Game
+							
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Type
+Default
+
+
+Char­ac­ter
+Wriothesley
+
+
+De­scrip­tion
+Wriothesley's outfit. It radiates both dignity and strength, with the rugged gray wolf chain serving as the mark of his rulership over the Fortress of Meropide.
+
+
+How to Obtain
+Unlocked upon obtaining character
+
+
+Night's Chilling Howl is Wriothesley's Default Character Outfit.
+
+Contents
+
+1 Appearance
+2 Gallery
+
+2.1 In-Game Assets
+2.2 Animations
+2.3 Turnarounds
+
+
+3 Other Languages
+4 Change History
+5 Navigation
+
+
+Appearance[]
+Wriothesley wears a dark grey coat with a crimson lining, rhomboid silver buttons, and dark fur trim around the collar; a grey vest with a darker grey button-up shirt beneath and a loose red necktie; grey pants with handcuffs hanging from his belt; and tall black boots. His arms and neck are haphazardly bound in black bandages. He has multiple silver stud and cuff earrings in his ears asymmetrically; silver rings on each finger; a spiked silver necktie ornament; and a large silver brooch shaped like a side profile of a wolf with draping chains, with a matching silver ornament on his left hand. His Ousia-aligned Cryo Vision hangs upon the back of his coat.
+
+Gallery[]
+In-Game Assets[]
+Character IconItem IconNight's Chilling Howl Side Icon.pngParty IconNight's Chilling Howl Preview.pngOutfit Preview
+Animations[]
+Hover over previews to view in higher quality.(Preview Preferences)Media:Idle Wriothesley 1.mp4      Media:Idle Wriothesley 2.mp4      Media:Talent Menu Wriothesley.mp4      Media:Weapon Menu Wriothesley.mp4      Media:Party Setup Wriothesley.mp4      
+Turnarounds[]
+In-game model turnaround
+Other Languages[]
+
+LanguageOfficial NameLiteral MeaningEnglishNight's Chilling Howl—Chinese(Simplified)凛冬夜啸Lǐndōng YèxiàoWinter Night's HowlChinese(Traditional)凜冬夜嘯Lǐndōng YèxiàoJapanese凛冬の咆哮Rintou no HoukouKorean시린 겨울밤의 포효Sirin Gyeoulbamui PohyoSpanishAullido noctinvernalWinternight HowlFrenchMurmure nocturne de l'hiverNight Whisper of WinterRussianЛедяной зов ночиLedyanoy zov nochiThaiเสียงหอนในคืนอันหนาวเหน็บVietnameseTiếng Hú Đêm ĐôngGermanDer Nacht eiskaltes HeulenIndonesianNight's Chilling Howl—PortugueseUivo Arrepiante NoturnoTurkishGece Ayazındaki UlumaItalianUlulato della notte d'invernoHowl in the Night of Winter
+Change History[]
+Released in Version 4.1[Create New History]
+Navigation[]
+ Dressing Room
+ Character OutfitsDefault
+
+Alternate
+
+Themed
+
+
+
+ Wind GlidersProgress
+
+Other
+
+
+
+ Echoes
+
+
+
+
+
+
+
+
+
+OverviewLoreVoice-OversOutfitsCompanionGallery
+Administrator of the Fortress of Meropide, he was given Fontaine's highest honorary title of "Duke." Both low-profile and dependable.—Description from the Official Website[1]
+Contents
+
+1 Personality
+2 Appearance
+3 Official Introduction
+4 Character Stories
+
+4.1 Character Details
+4.2 Character Story 1
+4.3 Character Story 2
+4.4 Character Story 3
+4.5 Character Story 4
+4.6 Character Story 5
+4.7 The Wingalet
+4.8 Vision
+
+
+5 Namecard
+6 Constellation
+7 Quests and Events
+
+7.1 Archon Quests
+7.2 Story Quests
+7.3 Events
+7.4 Web Events
+
+
+8 Character Trials
+
+8.1 Quests
+8.2 Quest Domains
+8.3 Events
+8.4 Test Run Events
+
+
+9 Character Mentions
+
+9.1 Character Stories
+9.2 Character Voice-Overs
+
+
+10 Trivia
+
+10.1 Etymology
+
+
+11 Notes
+12 Other Languages
+
+12.1 Character Title: Emissary of Solitary Iniquity
+
+
+13 References
+14 Navigation
+
+
+Personality
+Duke of the Fortress of Meropide, Lord Incognito of the murky depths.—In-game character attributes and profile page text
+Wriothesley is the "Duke" of the Fortress of Meropide, serving as the prison's administrator and overseeing the facility's overall status. Despite his appearance, Wriothesley is fairly calm and collected, not worrying too much about the prison's infamous reputation as he only sees himself as a "leader" of sorts to oversee the population and ensure they have the "tranquility" they desire. He sees the prison as a place of rebirth and is willing to protect that way of life, not wanting others to suffer like he once did, and becomes extremely angered should such a circumstance occur on his watch. His relaxed policies has made him very popular among many inmates, who tend to address him as if he was nobility, due to being bestowed the title of "Duke" by the Palais Mermonia.
+While he owns a pair of mechanical gauntlets for use in fighting, he is not an advocate for violence, not wanting to get more blood on his hands. However, he is willing to kill others should he have no choice, to maintain law and order.
+Outside of his duties, he enjoys drinking tea.
+
+Appearance
+See also: Night's Chilling Howl
+Wriothesley uses the tall male model. He has tufted black hair with grey streaks, pale grey eyes, and pale skin. He bears a scar beneath his right eye; three scars extending from high on his neck down to his mid-chest, with one on the right, one on the left, and one along the midline; and scars on his left and right forearms.
+
+Official Introduction
+Guilty waters run deep
+Navia, do you remember when I refused the title of 'Baron' bestowed upon me by the Palais Mermonia a few years back? Well, that's beside the point. Today, I finally met the Administrator of the Fortress of Meropide. I had always assumed that 'Duke' was simply a hollow title too... But it turns out that Wriothesley is far more worldly than he looks.—Callas, former President of the Spina di Rosula
+"Administrator of the Fortress of Meropide"
+— If Wriothesley needed a namecard, this would suffice.
+No foreword, and no epilogue. Just like that place of exiled convicts he's in charge of, standing there silently at the bottom of the sea.
+Despite its discretion, as a resting place for criminals, the Fortress of Meropide harbors a network of conflicting interests that would have a corrupting influence on many.
+But even if someone was bent on infiltrating this place, they'd soon be swallowed up like breadcrumbs in a bowl of soup.
+Some have lauded His Grace's aptitude for taking care of thorny problems. Hearing such praise, Wriothesley would simply lower his teacup... and pick up his newspaper.
+"You've got the wrong end of the stick. They just wanted somewhere to lead well-ordered lives, and I gave them the 'tranquility' they required."
+
+Character Stories
+Character Details
+To the great relief of the Maison Ordalie, most Fontainians are law-abiding citizens. As such, the Fortress of Meropide is not a place that they will ever visit in their lives.At the same time, there is an easily understood yet rather tragic truth, which is that those who have served time often find it difficult to reintegrate back into the "overworld," and few will actively speak of their experiences in the "underworld."Rather than a specific place, the Fortress is more like an idea, a warning, a symbol of misfortune and castigation — a byword amongst Fontainians. As for who controls this idea, that is unimportant.Thanks to this state of affairs, Wriothesley has been able to lead a secluded and private existence, living and traveling in Fontaine in a manner quite unbefitting of his status as the "Duke."Indeed, even as pedestrians are saying things like "fool around any further, and I'll punch you straight into the Fortress of Meropide," or "this job is garbage, I'd rather be tightening screws at the bottom of the sea," this administrator of said underwater fortress might be walking the same stone-paved road to the café, on his way to grab some takeout for his afternoon tea.Character Story 1 Friendship Lv. 2
+Wriothesley does not, in fact, leave the Fortress often. Using the network of information and connections that he has personally built up over the years, he can gain any intelligence or resources he needs from the comfort of his office.However, he is also aware of one principle, which is that he cannot be imprisoned in that office by the host of duties that assails him, or he will either never get a good night’s sleep, or soon find himself sleeping forever beneath the waves.Only two things are necessary for him to run this place comfortably: Mora and manpower.Fortunately, the Fortress itself is a giant factory, and he has quite the knack for making money — why, even the Palais Mermonia is one of his valued customers. Very importantly, giving the Palais some extra care is not considered to be hankering after power, and the Court of Fontaine for its part has little power of oversight over the Fortress, and thus simply represents valued customers and Mora — the more of both, the better. As such, Wriothesley is happy to comply with the Maison Gestion’s exhaustively strict demands for proper documentation.(The Fontaine Research Institute of Kinetic Energy Engineering's incredible demand for Arkhium might have once made it a match for the Palais, but ever since the Institute became a mid-air tourist attraction, it has been forced to withdraw from the partnership. Till we meet again for another big contract, valued customer.)One of the most common pitfalls for the immensely wealthy is over-valuing money and undervaluing people. This is, again, where Wriothesley is a fortunate man, for he was not born rich, and thus knows how important it is to get along with others.He treats all who live at the Fortress equally. Be they criminals, guards, or ordinary staff, so long as they do what they should as they should, he will not nitpick.But as for those who overstep their station — well then, words must be had. The underwater space they dwell in is quite enclosed, and for most, there is nowhere else to go. If possible, of course, Wriothesley would prefer everyone to be reasonable, but where reasoned words fail, he will use even more persuasive means.Occasionally overlooking the trivial, meaningless, but inevitable clashes between people is fair enough. Most people know better than to raise a real stink, while as for those who don’t... there are places where they can go. Just as flowing water can cleanse itself, so can a functioning society get rid of its rot.As such, not only has Wriothesley not been worked into oblivion, he has even found himself significant amounts of free time.Once, the famous Champion Duelist Clorinde paid him a visit, and said this in passing: "Why does it feel like you have even more free time than me? Your title wasn’t bought, was it?""One moment, please."So saying, Wriothesley rifled through three drawers before producing several thick documents with a flourish. "Now, let me see... 'excellent management'... 'leading tax contributor'... 'specially granted this title...' Well, what do you know? Good guess, that's pretty much what happened after all."Character Story 2 Friendship Lv. 3  •  Reborn in the Land of Grievances
+No titles may be bought in Fontaine, which prides itself upon impartial justice — certainly not with Mora. That idle exchange between Wriothesley and Clorinde was pure nonsense, just a bit of verbal horsing around to liven up an otherwise bone-dry business interaction.However, while the title of "Duke" itself was not bought, Wriothesley's accession to administrator of the Fortress of Meropide cannot be separated from "money."Credit Coupons serve the role of currency within the Fortress. Here, Coupons are the medium of exchange, and this has been the case for a very long time, with only the details differing. When Wriothesley was incarcerated here as an inmate, trade in Coupons was much freer, and the range of items that could be bought more comprehensive. So long as you had enough of them in your pocket, you could obtain harmful drugs, know the winner of fixed matches, buy the hearts of people sitting on the fence, and even take away the right of others to continue breathing.Many of these were extralegal trades, but even the official channels had their various special tricks, too. If you lacked private connections, you could only buy food and water at exorbitant prices, and your fortune slip would not be some adage of unknown providence, but real, practical, extra work you had to finish by the end of the workday. Coupons in those days resembled nothing so much as the previous administrator's tool for controlling inmates.Hurling lawbreakers into a lawless chaos to fend for themselves was indeed one way of doing things, but Wriothesley could not approve of it. He was perfectly willing to adapt to his environment, but if the environment was not suited for survival in the first place, then he certainly wasn't going to take this lying down.He spent a great deal of time accumulating capital in the underground arena and used that money to make still more. He was always the observant type, and was quite persuasive, too, not to mention humble and reasonable — so before anyone knew it, he had already accumulated more Coupons than everyone else in the Fortress combined.This accumulated wealth made him a man of high repute amongst his fellow inmates. And just as Wriothesley expected, the hammer of punishment soon came swinging down. In a single night, his Coupon account was emptied in one cruel stroke by the Fortress's administrator.But as noted before, Wriothesley had a knack for convincing others. Words have the power to incite, and so long as all residents of the Fortress, rich and poor, understood that they could suffer a similar fate under such management, they would speak up for him. And if he acted in a sufficiently upright manner in a sufficiently impressive setting, others would join with him to fill the void in their hearts.As such, he challenged the Fortress' previous administrator to a duel, in the name of fairness, justice, and order. Of course, their respective standings made poor grounds for this fight even at the best of times, but on that day, not a soul, inmate or guard, said a word in protest.Very fortunately, said administrator's last-minute flight saved Wriothesley from having to get another person’s blood on his hands. But unfortunately, that day was also the day he would have finished serving his sentence, but with the administrator missing, there was no one to sign his exit papers.And so, he walked into the office in the middle of the Fortress, and took over all relevant duties.Character Story 3 Friendship Lv. 4  •  Reborn in the Land of Grievances
+After he obtained access to old court documents, Wriothesley pulled out his own case file. There wasn't much in it, but even that was already all that the Fontaine authorities had been able to uncover at the time. According to the accounting ledger of his host family, he had been taken in as an abandoned infant — beyond that, there was no more relevant information.While browsing through his file, Wriothesley encountered some names that he had vague impressions of, and some other foggy faces briefly floated into view before fading to the sound of turning pages. Had he been willing, he could have used his connections to discover how these old companions were faring, but he dismissed those thoughts even as they entered his mind.To them, he must represent a past they no longer wished to recall, and to him, these names no longer constituted any part of his life. He had a new identity, a new home, and new friends.This was a strange experience for him. He'd met and known many people, and of all of them, very few could be considered friends — and he even knew quite a few who weren't human at all, something he puts down to Melusines really enjoying hanging out with humans. Their appearance belies their age, but the goodwill they show humans truly does have an innocence that only one's elders may have, a belief that these young human souls are good-hearted to begin with, and thus worthy of all care and faith in the infinite possibilities their futures hold.Wriothesley himself has benefitted from this many times. When he was out on the streets with only the clothes on his back, it was a passing Melusine who gave him some hot soup. When he did not return completely unharmed from his bouts in the ring, Sigewinne would be waiting to greet him cheerily in the infirmary — not to mention how the officers of the Marechaussee Phantom have always been, within legal limits, his greatest help in investigating certain secret affairs.As such, he tacitly permits their visits to the Fortress, even if this can sometimes mean unneeded trouble. As for anything they might need to know, the Head Nurse warns them, and there's no need to go into details. In any case, anyone so capable of pasting stickers everywhere while he's not looking is hardly someone whose well-being he needs to worry too much about.Character Story 4 Friendship Lv. 5  •  Reborn in the Land of Grievances
+Watching the crimson stain spread across the floorboards, a wildly inappropriate thought entered Wriothesley's mind. How many Melusine officers would it take to investigate all the traces of blood in this place?His thoughts then immediately leapt elsewhere. To think that his blood was so like that of those who had deceived him that they could run together, melding effortlessly. How revolting.But he had lost all capacity to vomit. Indeed, he could not move a muscle if he tried. Thought and warmth had both faded, and his mind had begun to fill with a seeping, murky fog — there was nothing in his life till now worth remembering.But he did not die. Fate, it seemed, wanted him to live with the burden of sin, and so when he woke up in his hospital bed, both of his hands had been cuffed to the metal rails. A well-dressed woman was looking at him nervously from her distant chair. No doubt, she considered him to be some manner of young psychopath.Producing pen and paper, she asked for his name, and he paused for a good long time. His thoughts drifted to an obituary he once saw in the papers, in which there was a person who had lived to a ripe old age bearing a long and complicated name. He didn't particularly like it, but he no longer wished to use the one his foster parents had given him.Thus did the woman write "Wriothesley" down, and inform him of his trial date (which was, would you know it, the day the doctors expected him to be able to get out of bed), before hurriedly taking her leave.The trial itself went very smoothly, which he was grateful for. The blood he had spilled had stained his hands and taken root in his heart, driving him to yearn for a just conviction. He told all present of the full circumstances around the killing, and even added some details, such that there was no real room for argument in this case. Argue they still did, though, first on the matter of past cases related to orphans in an inconclusive search for any precedent patterns, and then somehow for clemency, believing that the people he'd taken vengeance on were villains themselves in the first place, and that he should thus not have to bear the burden of guilt.This background noise did not change the ultimate result of the trial, and no sooner was it over than he was sent beneath the sea to serve time. Before he was to depart, the Gestionnaire in charge of recording his sentence asked him once again for his personal particulars."You're... Wriothesley, then? Your birthday, please.""...Today."Character Story 5 Friendship Lv. 6  •  Reborn in the Land of Grievances
+Wriothesley’s mechanical gauntlets have gone through a great many iterations.Their origin can be traced back to his escape from his foster home. Given his age and constitution then, it was impossible for him to deal with a single adult, let alone more. As such, he was forced to try his luck on the streets, picking up odd jobs and doing apprenticeships, learning the art of lockpicking and the creation of small gadgets. He wanted to make sure that he would be well-equipped when he finally returned to destroy that accursed place.He fashioned a wrist-mounted device that could launch iron nails at high speed, penetrating any sufficiently soft surface. Unfortunately, it had limited uses, and lost all ability to function after a battle, just like him — and unlike him, it could not be saved.In the past, the underground pankration fights of the Fortress of Meropide had neither a fixed venue nor set rules. To win and keep earning, he had to constantly modify his gauntlets, because a trick you used once could be used against you the next time. Furthermore, even if he didn’t render them scrap on the field, they could still be stolen or wrecked in some other way by others. He certainly had to start over countless times.Once he had the ability to garner better materials, his progress began to accelerate. He no longer needed to rely on chemicals to power the mechanism, and he would gain the support of professionals hailing from the Fontaine Research Institute. Those researchers enjoyed explaining the principles of mechanics to him even as they bellyached about all sorts of outrageous matters that occurred at the Institute. This, Wriothesley found fascinating — technological development increased the number of crimes that were committed, but they could also aid in solving them. Was that development then good or bad? That was hard to say.At that point, he no longer participated in matches all that often, with the gauntlets being saved for dealing with the trickiest of problems. They no longer took life, and instead brought him great praise and respect.But the people of the Fortress also know little of the crime he once committed. The only one who still remembers it like yesterday is Wriothesley himself. And no matter how much glory or repute he has earned, he still considers himself to be the same old Wriothesley he's always known.Neither a good person, nor a complete villain. He's just another soul, still living on in this world.The Wingalet Friendship Lv. 4  •  Cataclysm's Quickening
+"But thusly do the ancient writers concur — 'Oceans will rise, empires will fall, and the only constant is change.'"After dealing with the spies that the Fatui planted, Wriothesley took a bit of a swim in the seas around the Fortress. He spent very little time in there, finding afterward that his skin had flushed a slight red tint, though it returned to normal shortly afterward. He did not go to the infirmary for a checkup, nor did he intend to reveal this to anyone. All manner of recent signs had indicated that the prophecy was gradually coming to pass, and all people, regardless of whether they believed in it or not, had their own views on the matter, and did not really need this extra information.He had encountered some inmates with academic research backgrounds, though their numbers were relatively few, and they were prone to mad babbling even when clear-headed. They called this a malady common to all historians, and begged his forbearance in the matter. Wriothesley, of course, did not mind, and indeed, he was very interested in their arguments. And according to some schools of thought, if rising and falling were common in this world, then that great sea that once swallowed Remuria may perhaps return someday. In that sense, the prophecy was not really a prophecy, then, but was instead the expression of a rational pattern.As with many other things, he was somewhat on the fence about this reasoning. The Fortress was no stranger to issues that needed "mediation," with eyewitnesses often giving different testimonies. As such, he would reserve judgment on all records, and especially historical chronicles, for was poetic exaggeration not common practice in such writing? "Even the great dragon beneath the abyssal depths submitted to his power..." And how was anyone to know if this so-called great dragon was not just some very large vishap?Once all embellishments were removed, what still remained were the actual things he needed to take note of.Throughout his as-yet unfinished life, Wriothesley has always seemed to be preparing for something. No matter what, he does not wish for people to be ruled by terror. And once the personal element of fear has been removed, what remains is something more akin to a sense of danger. He would like to make some preparations in response to the crisis, even if it might prove futile in the end.History is, after all, vast and terrible, and humanity is no more than seashells to be smashed upon the seashore by its great waves. Thus, he began to prepare for the creation of the Wingalet, expending vast resources and employing much manpower, though he did not put more stock into its success. It was a ship designed for fleeing disaster — an insurmountable chasm lay between it and golden Fortuna, bringer of civilization and glory.Nonetheless, if it could indeed serve its purpose, Jurieu and Lourvine's many quarrels would not have been for naught."Thusly do the ancient writers concur — 'Oceans will rise, empires will fall, and the only constant is change.'"Vision Friendship Lv. 6  •  Reborn in the Land of Grievances
+Standing before the registration counter at the Fortress, Wriothesley reached into his pocket to produce the sheet of paper that had his name and the length of his sentence on it.But out with that sheet also came a glass ball about the size of his palm.No, wait, this wasn’t just some random glass ball. Wriothesley blinked. When had he come into possession of this?The person at the desk — a stern-looking lady with a wrinkled face — gasped, before steadying her shocked expression, gripping her pen tighter. Her lips moved, and moved again, but at last closed."She must have a lot of experience about living here," he immediately thought, and so he did his best to hold the Vision in his palm, before asking in a small voice, "Miss, may I ask..."The senior registrar did not reply. She took the slip of paper from him and looked coldly behind him, as if sizing up the next criminal who'd come to register. However, when she had finished filling the necessary information in, she had written something unnecessary in the margins of the documents she passed back to him. "Hide it well."Wriothesley realized immediately that life at the Fortress would be even harder than roaming the streets.He felt fortunate that he had blocked everyone behind him from seeing what had happened, and more fortunate still that this kind-hearted registrar had been willing to give him a reminder. Sadly, he would not see her again, though this was no surprise, since staff turnover at the Fortress was quite high in those days.The first thing he did upon officially entering the Fortress was to quietly unravel a few threads of his clothing before using fine wire to sew his Vision into the space between the layers of fabric.He knew a thing or two about being homeless — certainly, that the biggest problem was never getting a hold of resources, but keeping them. People could not avoid sleeping, and occasionally being defenseless. The things you owned could be taken away with ease once you were asleep, and no one would call it a robbery.And a Vision was no ordinary treasure. There were sure to be those who would be interested in it for various reasons, and Vision wielders were often magnets for ill-intentioned gazes.In the days that followed, his suspicions would be verified, for in gossip alone he heard of two to three Vision thefts. As for what happened afterward and the fate of the victims, various inconsistent rumors existed that Wriothesley pretended to pay little mind to.He still felt quite fortunate, of course, but it was hard to feel genuine happiness at staying safe off the backs of other peoples' tragic fates.For a long time afterward, he would pretend that he had not been favored by the gods, and in truth, it was not hard — merely a return to his scrappy past. He could handle that much.This persisted until a time when his age had nearly doubled, and he received an official invitation from the Palais Mermonia.Common practice dictated that citizens who were to receive an honorary title must attend an investiture ceremony, and said ceremony was said to be far more involved for the granting of a title such as "Duke."Wriothesley tactfully declined attending the ceremony on the grounds of his unique duties, expressing the desire to simply sign and take the relevant certificates. Quite un-Fontainian of him, really, to dislike the spotlight and prefer to just muddle along.Many workdays and much correspondence later, the Palais finally agreed.Before leaving the underwater stronghold, Wriothesley took his Vision up once more, for the first time in many years. Weighing it in his palm, he found it lighter than before, and smaller to boot. Finding a good spot on his clothes, he hung it there.The first to comment on it was the Iudex, who was to bestow the title upon him. Neuvillette’s smile was suitably polite, but he somehow seemed more pleased than Wriothesley himself. "Congratulations," said the Iudex. "You have found something you wish to do at last, I see."Wriothesley smiled back by way of reply, but made no further comment.
+Namecard
+
+
+Wriothesley: Detention
+
+
+
+
+Obtain:Reward for reaching Friendship Level 10 with WriothesleyDescription:Maintaining order at the Fortress of Meropide is no simple affair. As such, a deft and sometimes firm hand is needed — along with a small pinch of truly regrettable cruelty.
+
+Constellation
+CerberusStory Chapter:Cerberus 
+Quests and Events
+Archon QuestsChapter IVAct III: To the Stars Shining in the DepthsFortress of MeropideAct IV: Cataclysm's QuickeningThe Truth Shrouded in ShadowSecret Keepers and Forbidden ZonesCalamitous TreadA Moment's RespiteAct V: Masquerade of the GuiltyDeluge of Wrathful WatersThe Opera of Noirceur and Blancheur (cutscene)FinaleStory QuestsCerberus Chapter (Wriothesley)Act I: Reborn in the Land of GrievancesAn Opportunity for RebirthThe Proud "Beret Society"It's What He DeservesDiluvies Chapter (Neuvillette)Act I: The Remains of the Past DayIn a New LightNereides Chapter (Sigewinne)Act I: The Warmth of LiesBeauty ExpertSwitcherooThe Truth of What WasEventsRoses and MusketsAfterword: The Two Musketeers' TriumphThe Two Musketeers' TriumphVibrant Harriers Aloft in Spring BreezeHustle and BustleWeb EventsCogs in the MachineDiscover TeyvatLean, Mean, Cleaning Machine!Starlit Letter
+Character Trials
+QuestsIt's What He Deserves in Wriothesley's Story Quest, Cerberus Chapter: Act I - Reborn in the Land of GrievancesQuest DomainsDougier's "Kingdom" — It's What He Deserves in Wriothesley's Story Quest, Cerberus Chapter: Act I - Reborn in the Land of GrievancesEventsThe Peaks and Troughs of LifeMisty Dungeon: Realm of WaterPurgation CounterstrikeTriumphant FrenzyThe Great Fayz Reaction DebateVibro-Crystal ApplicationsTest Run EventsWriothesley, Venti, Chongyun, Thoma, Dori — 2023-10-17
+Character Mentions
+Character StoriesCharacterStoriesSigewinneCharacter Story 3Character Voice-OversCharacterVoice-OversCharlotteAbout Wriothesley Media:VO_Charlotte About Wriothesley.ogg Media:VO ZH_Charlotte About Wriothesley.ogg Media:VO JA_Charlotte About Wriothesley.ogg Media:VO KO_Charlotte About Wriothesley.ogg So... Did you get to meet the Duke in person? Yeah? Any nuggets of information that I should know about? Never mind the Credit Coupons, the Coupon Cafeteria, "If a man will not work, he shall not eat"... That's all just generic filler. I'm talking about personal anecdotes about the man of Meropide himself... What do you mean, "confidentiality"? Aw, not you, too! We had a deal! That does it — remember that gigantic feast I treated you to? I want my money back! Get your butts back to prison and do your time, you swindlers, you!ChevreuseAbout Wriothesley Media:VO_Chevreuse About Wriothesley.ogg Media:VO ZH_Chevreuse About Wriothesley.ogg Media:VO JA_Chevreuse About Wriothesley.ogg Media:VO KO_Chevreuse About Wriothesley.ogg The work Wriothesley does is highly effective. As least all criminals know that the Fortress of Meropide isn't the type of place you want to stay at long enough to grow old. That fact comes in handy during our interrogation work.ChioriAbout Wriothesley Media:VO_Chiori About Wriothesley.ogg Media:VO ZH_Chiori About Wriothesley.ogg Media:VO JA_Chiori About Wriothesley.ogg Media:VO KO_Chiori About Wriothesley.ogg Yes. Some of my friends and partners have mentioned him to me before. I admire his skills at management and diplomacy, but I certainly have no intention of changing my way of doing things.ClorindeAbout Wriothesley Media:VO_Clorinde About Wriothesley.ogg Media:VO ZH_Clorinde About Wriothesley.ogg Media:VO JA_Clorinde About Wriothesley.ogg Media:VO KO_Clorinde About Wriothesley.ogg Managing the Fortress of Meropide is no mean feat. Wriothesley is undoubtedly a highly capable person if he can maintain relative stability in a place like that.I highly suspect that he keeps quiet about some of the methods he uses, but there's no way we can know.FurinaAbout Wriothesley Media:VO_Furina About Wriothesley.ogg Media:VO ZH_Furina About Wriothesley.ogg Media:VO JA_Furina About Wriothesley.ogg Media:VO KO_Furina About Wriothesley.ogg I haven't communicated with him much, but Neuvillette claims he's trustworthy, so I suppose he must be a good person. Oh, come to think of it, I've received some tea from Wriothesley before and it was exquisite!NaviaAbout Wriothesley Media:VO_Navia About Wriothesley.ogg Media:VO ZH_Navia About Wriothesley.ogg Media:VO JA_Navia About Wriothesley.ogg Media:VO KO_Navia About Wriothesley.ogg Trying to discuss anything with that guy is an exhausting process. Clorinde says I needn't have any reservations about collaborating with him in the scope of our preexisting agreement, but I still shouldn't trust everything that comes out of his mouth. No wonder my father never tried to get involved with the affairs of the Fortress... I think I'll play it safe and keep things that way.NeuvilletteAbout Wriothesley Media:VO_Neuvillette About Wriothesley.ogg Media:VO ZH_Neuvillette About Wriothesley.ogg Media:VO JA_Neuvillette About Wriothesley.ogg Media:VO KO_Neuvillette About Wriothesley.ogg Wriothesley is a trustworthy man. I fought hard for the title and reputation he now has. I expect you to think that I've simply been duped by his flattery and appearance of loyalty... But to that, I would quote the Inazuman proverb: "The words unspoken are the flower." Which means, some things are best left unsaid.About Sigewinne Media:VO_Neuvillette About Sigewinne.ogg Media:VO ZH_Neuvillette About Sigewinne.ogg Media:VO JA_Neuvillette About Sigewinne.ogg Media:VO KO_Neuvillette About Sigewinne.ogg I don't know how Sigewinne is faring these days. But if I hear so much as the whiff of a rumor that she's being bullied, I shall summon Wriothesley here and demand an explanation. She's so kind and vulnerable... She brought me some Kamera film the last time she visited, and asked to listen to more of my commentary on the water of Natlan... How long is it until her next vacation?SigewinneAbout Wriothesley Media:VO_Sigewinne About Wriothesley.ogg Media:VO ZH_Sigewinne About Wriothesley.ogg Media:VO JA_Sigewinne About Wriothesley.ogg Media:VO KO_Sigewinne About Wriothesley.ogg The Duke has the highest pain tolerance of anyone I've ever met. He wasn't always big and strong like he is now, but even in the beginning, he'd always refuse an anesthetic injection when he came to the infirmary to get stitches. He'd say something about wanting to keep a sharp mind, or something. I thought to myself, wow, what an impressive little grown-up he is. He's gone on to become an equally impressive big grown-up, too.Sigewinne's Troubles Media:VO_Sigewinne Troubles.ogg Media:VO ZH_Sigewinne Troubles.ogg Media:VO JA_Sigewinne Troubles.ogg Media:VO KO_Sigewinne Troubles.ogg How strange. My storage room is running out of space — soon, I won't be able to fit any more mechanical parts in there. I thought I was pretty good at storing things... Hmm, yeah, looks like I need to talk to the Duke some time about expanding the capacity.
+Trivia
+Wriothesley is the first Catalyst character to use a Cryo Vision and the second to use melee attacks with hitlag akin to that of sword, claymore, and polearm attacks, after Shikanoin Heizou. He is also the first 5☆ Cryo male character.
+Wriothesley shares his Chinese voice actor with Azhdaha.
+Wriothesley shares the same Japanese voice actor — Ono Daisuke (小野大輔) — with Jing Yuan from Honkai: Star Rail.
+Wriothesley was a teenager at the time of his trial.[2] By the time he attained the title of Duke, "his age had nearly doubled,"[3] and he has held the position for over three years.[Note 1]
+One of his character stories, "The Wingalet", has quotes from the book The History of the Decline and Fall of Remuria.
+Wriothesley is known by these aliases or titles:
+"Duke" of the Fortress of Meropide
+Administrator of the Fortress of Meropide
+Etymology
+The name Wriothesley may come from the Wriothesley family, an English noble family. Henry Wriothesley, 3rd Earl of Southampton, was one of the patrons of William Shakespeare.
+Notes
+
+↑ Callas, who died three years prior to the events of the Archon Quest The Truth, Lost With the Rain, met Wriothesley as the Duke according to Wriothesley's official character introduction.
+
+
+Other Languages
+Character Title: Emissary of Solitary Iniquity
+
+LanguageOfficial NameLiteral MeaningEnglishEmissary of Solitary Iniquity—Chinese(Simplified)寂罪的密使Jìzuì de MìshǐEmissary of Solitary SinChinese(Traditional)寂罪的密使Jìzuì de MìshǐJapanese寂罪の密使Jakuzai no Misshi‍[!][!]Assumed readingEmissary of Solitary SinKorean고요한 죄의 밀사Goyohan Joe-ui MilsaSecret Emissary of Silent SinSpanishEl Emisario de los CulpablesThe Emissary of the GuiltyFrenchÉmissaire de l'iniquité solitaireEmissary of Solitary IniquityRussianЭмиссар заточённых злодеянийEmissar zatochyonnykh zlodeyaniyEmissary of Imprisoned EvildoingsThaiทูตแห่งบาปเร้นคณาVietnameseSứ Giả Tội Danh Ẩn MậtGermanGesandter der einsamen SündeIndonesianEmissary of Solitary Iniquity—PortugueseEmissário da Culpa IncógnitaEmissary of Hidden GuiltTurkishSessiz Günahların TemsilcisiItalianEmissario di colpe silentiEmissary of Silent Faults
+References
+
+↑ Official Genshin Impact Website: Wriothesley
+
+↑ Story Quest, Wriothesley, Cerberus Chapter: Act I - Reborn in the Land of Grievances, Part 3: It's What He Deserves
+
+↑ Wriothesley's Character Story: VisionThis persisted until a time when his age had nearly doubled, and he received an official invitation from the Palais Mermonia.
+
+
+Navigation
+  Characters  (Lore)AnotherWorld
+
+Mondstadt
+
+Liyue
+
+Inazuma
+
+Sumeru
+
+Fontaine
+
+Snezhnaya
+
+
+Upcoming Characters announced by HoYoverse.
+
+
+
+
+
+
+
+OverviewLoreVoice-OversOutfitsCompanionGallery
+EnglishChineseJapaneseKorean
+Contents
+
+1 Story
+2 Combat
+3 Navigation
+
+
+Story[]
+
+Title and RequirementsDetails
+HelloHelloMedia:VO_Wriothesley Hello.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Wriothesley_Hello.ogg Hello, please try to quickly summarize your intents and goals for this meeting. Oh? You're not here for business? Well, that just makes me even more nervous.Alright, then perhaps we should sit down and discuss things in a little more detail... Oh, and you can call me "Your Grace." That's what they all call me down in the Fortress, and... well, I kinda got used to it.
+Chat: StickersChat: StickersMedia:VO_Wriothesley Chat - Stickers.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Wriothesley_Chat_-_Stickers.ogg If you ever see any stickers on my back, do me a favor and take them off... Melusines like to play pranks sometimes.
+Chat: PetsChat: PetsMedia:VO_Wriothesley Chat - Pets.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Wriothesley_Chat_-_Pets.ogg I once considered keeping some pets in my office, but soon gave up on the idea. It's just not right to keep small animals where they won't be able to see the sun.
+Chat: Words of AdviceChat: Words of AdviceMedia:VO_Wriothesley Chat - Words of Advice.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Wriothesley_Chat_-_Words_of_Advice.ogg Word of advice: Don't break the law. Hmm, is there anything else? Oh, yeah... Seriously, don't break the law.
+When It RainsWhen It RainsMedia:VO_Wriothesley When It Rains.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Wriothesley_When_It_Rains.ogg Oh, it's raining? That's alright. A real problem would be if we could feel water dripping on our heads in the Fortress of Meropide.
+When Thunder StrikesWhen Thunder StrikesMedia:VO_Wriothesley When Thunder Strikes.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Wriothesley_When_Thunder_Strikes.ogg You know, they say if you're scared of the thunder, it's really because you've got something else to hide.
+When It SnowsWhen It SnowsMedia:VO_Wriothesley When It Snows.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Wriothesley_When_It_Snows.ogg Hmm... This is a different kind of cold than what I'm used to.
+When the Sun Is OutWhen the Sun Is OutMedia:VO_Wriothesley When the Sun Is Out.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Wriothesley_When_the_Sun_Is_Out.ogg They say there's nothing new under the sun, but somehow a picnic in the warm sunshine never gets old.
+Good MorningGood MorningMedia:VO_Wriothesley Good Morning.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Wriothesley_Good_Morning.ogg Morning. What do the papers have to say about today's weather forecast?
+Good AfternoonGood AfternoonMedia:VO_Wriothesley Good Afternoon.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Wriothesley_Good_Afternoon.ogg The Coupon Cafeteria is probably crowded right now. I'll have someone deliver the food straight to my office.
+Good EveningGood EveningMedia:VO_Wriothesley Good Evening.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Wriothesley_Good_Evening.ogg Huh, is it evening already? Could have sworn I'd just had my afternoon tea.
+Good NightGood NightMedia:VO_Wriothesley Good Night.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Wriothesley_Good_Night.ogg Good night. I'll be staying up for a little while yet — want to run some numbers while everything's nice and quiet.
+About Wriothesley: MisunderstandingAbout Wriothesley: MisunderstandingMedia:VO_Wriothesley About Wriothesley - Misunderstanding.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Wriothesley_About_Wriothesley_-_Misunderstanding.ogg People have this tendency to see me as an all-knowing figure with mystical powers. In reality, I'm just one man with two eyes and two ears. How can I possibly know everything that's happening in the Fortress of Meropide?
+About Wriothesley: Small Breaks Friendship Lv. 4 Reborn in the Land of GrievancesAbout Wriothesley: Small Breaks Friendship Lv. 4 Reborn in the Land of GrievancesMedia:VO_Wriothesley About Wriothesley - Small Breaks.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Wriothesley_About_Wriothesley_-_Small_Breaks.ogg I finished serving my sentence long ago, so there's nothing stopping me from taking an occasional breather in the overworld as a free citizen.Ah, there's no need to worry... The Fortress of Meropide doesn't currently have any problem so big as to require my round-the-clock presence to operate effectively.
+About Us: Committing to Jail Cataclysm's QuickeningAbout Us: Committing to Jail Cataclysm's QuickeningMedia:VO_Wriothesley About Us - Committing to Jail.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Wriothesley_About_Us_-_Committing_to_Jail.ogg I form my first impressions of many people based on the contents of their inmate registration papers. Seems like you're no exception to the rule.
+About Us: Finishing the Jail Term Friendship Lv. 6 Cataclysm's QuickeningAbout Us: Finishing the Jail Term Friendship Lv. 6 Cataclysm's QuickeningMedia:VO_Wriothesley About Us - Finishing the Jail Term.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Wriothesley_About_Us_-_Finishing_the_Jail_Term.ogg They say it's best to begin a friendship when there's no conflict of interest. Seems like the appropriate time has come.
+About the Vision Friendship Lv. 4About the Vision Friendship Lv. 4Media:VO_Wriothesley About the Vision.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Wriothesley_About_the_Vision.ogg Some inmates once taught me a way to wield the elements by throwing around chemical potions. I guess whoever's in charge of handing out Visions doesn't care too much about a little rule-bending.
+Something to ShareSomething to ShareMedia:VO_Wriothesley Something to Share.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Wriothesley_Something_to_Share.ogg Want a tip on how to escape from the Gardes? Just give yourself a name that's really long and difficult to pronounce. They'll be stumbling over your name as soon as they try to announce that you are under arrest.
+Interesting ThingsInteresting ThingsMedia:VO_Wriothesley Interesting Things.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Wriothesley_Interesting_Things.ogg "If a man will not work, he shall not eat." This phrase has been on the walls of the Fortress of Meropide for as long as anyone can remember. I don't know who first came up with it, but it's been pretty useful in the underworld.
+About Neuvillette Friendship Lv. 4About Neuvillette Friendship Lv. 4Media:VO_Wriothesley About Neuvillette.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Wriothesley_About_Neuvillette.ogg I was once summoned by Neuvillette to discuss some matters with him in his office. When I approached the Palais Mermonia, I saw him standing by the road, completely drenched in the rain. I held out an umbrella for him, and while he thanked me politely, his expression was a little... distressed, I guess. I can only assume that I had disturbed him in the middle of something.
+About Furina Friendship Lv. 4 Reborn in the Land of GrievancesAbout Furina Friendship Lv. 4 Reborn in the Land of GrievancesMedia:VO_Wriothesley About Furina.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Wriothesley_About_Furina.ogg Miss Furina displayed a severe lack of interest in my trial and excused herself early, probably because I pleaded guilty to all charges as soon as they were announced. Disappointing the Hydro Archon is a big deal, so... suppose I've got no choice but to keep gifting her copious amounts of the highest quality tea.
+About Sigewinne Friendship Lv. 4About Sigewinne Friendship Lv. 4Media:VO_Wriothesley About Sigewinne.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Wriothesley_About_Sigewinne.ogg Sigewinne the head nurse possesses all the virtues associated with the medical profession and genuinely cares for the well-being of everyone around her.She seems to have picked up some bad habits from me, though, like frequently betting with her Melusine friends over who'd be able to put more stickers on my belongings. Hm? No, I'm not actually bothered by it.
+About Clorinde Friendship Lv. 4About Clorinde Friendship Lv. 4Media:VO_Wriothesley About Clorinde.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Wriothesley_About_Clorinde.ogg Clorinde is the best Champion Duelist you can find. Her combat prowess is already the stuff of legend. I've never fought her myself, but that's because there's never been a need for it.
+About Lyney Friendship Lv. 4 Cataclysm's QuickeningAbout Lyney Friendship Lv. 4 Cataclysm's QuickeningMedia:VO_Wriothesley About Lyney.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Wriothesley_About_Lyney.ogg I'll admit that when I removed the House of the Hearth's spies in the underworld, that was kind of an intentional provocation to the Fatui. But their only response was to send down a bunch of children... Was it because they truly saw those kids as disposable? Or because they knew I wouldn't have it in me to let them come to serious harm? *sigh*
+About Navia Friendship Lv. 4About Navia Friendship Lv. 4Media:VO_Wriothesley About Navia.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Wriothesley_About_Navia.ogg The Fortress of Meropide works with Spina di Rosula on some matters regarding supplies and logistics, but we don't have any other dealings. This isn't because I don't trust Navia or her abilities, in fact, I hold her in quite high regard. The only reason we continue to stay out of each other's way is because I wanna honor the agreement I made with the late Mr. Callas.
+About Emilie Friendship Lv. 4About Emilie Friendship Lv. 4Media:VO_Wriothesley About Emilie.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Wriothesley_About_Emilie.ogg The Fortress of Meropide doesn't need her services. Yet some things are best preserved the way they are, warts and all, so people don't make the same mistakes twice... I say warts, but yeah. I mean the smell.
+About Chevreuse Friendship Lv. 4About Chevreuse Friendship Lv. 4Media:VO_Wriothesley About Chevreuse.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Wriothesley_About_Chevreuse.ogg Most inmates seem to gain a new level of respect for the rules after receiving attention from the Special Security and Surveillance Patrol. As the captain, Chevreuse is an instrumental part of that team.
+More About Wriothesley: IMore About Wriothesley: IMedia:VO_Wriothesley More About Wriothesley - 01.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Wriothesley_More_About_Wriothesley_-_01.ogg As a general rule, the less a person sees of me, the happier their life is.
+More About Wriothesley: II Friendship Lv. 3More About Wriothesley: II Friendship Lv. 3Media:VO_Wriothesley More About Wriothesley - 02.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Wriothesley_More_About_Wriothesley_-_02.ogg Hmm? Oh the scar on my body? It's from a gash I got while battling a gigantic undersea monster that tried to take over the Fortress of Meropide. ...Hah, just kidding.
+More About Wriothesley: III Friendship Lv. 4More About Wriothesley: III Friendship Lv. 4Media:VO_Wriothesley More About Wriothesley - 03.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Wriothesley_More_About_Wriothesley_-_03.ogg Did you know, many similar models of handcuffs can all be unlocked using the same master key? Except mine, of course. They're different.
+More About Wriothesley: IV Friendship Lv. 5 Cataclysm's QuickeningMore About Wriothesley: IV Friendship Lv. 5 Cataclysm's QuickeningMedia:VO_Wriothesley More About Wriothesley - 04.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Wriothesley_More_About_Wriothesley_-_04.ogg Honestly, my personal abilities are pretty limited. I got no talent in medicine, inventions, or ship-making. But what I do know how to do is find those people with those talents, and get 'em to come work for me.
+More About Wriothesley: V Friendship Lv. 6 Reborn in the Land of GrievancesMore About Wriothesley: V Friendship Lv. 6 Reborn in the Land of GrievancesMedia:VO_Wriothesley More About Wriothesley - 05.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Wriothesley_More_About_Wriothesley_-_05.ogg I've managed to get myself to a pretty comfortable place in life, but there's still some things I want that are outside my reach, like a peaceful and happy childhood, or the ability to trust other people. Maybe some people would see those feelings as shameful or contradictory, but I don't see a problem with sharing them. After all, why should anybody be afraid to admit what they want?
+Wriothesley's HobbiesWriothesley's HobbiesMedia:VO_Wriothesley Hobbies.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Wriothesley_Hobbies.ogg Boxing? To me, that's more of a necessity than a hobby. You got some suggestions for actual hobbies?
+Wriothesley's Troubles Reborn in the Land of GrievancesWriothesley's Troubles Reborn in the Land of GrievancesMedia:VO_Wriothesley Troubles.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Wriothesley_Troubles.ogg While I do possess some stereotypical Fontainian looks, when you're an orphan, you can never really be sure where you're from. Who knows, maybe I'll take a dip in the Primordial Sea one of these days just to check...
+Favorite FoodFavorite FoodMedia:VO_Wriothesley Favorite Food.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Wriothesley_Favorite_Food.ogg I usually take some milk with my coffee and two cubes of sugar with my tea.
+Least Favorite FoodLeast Favorite FoodMedia:VO_Wriothesley Least Favorite Food.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Wriothesley_Least_Favorite_Food.ogg Have you ever had one of Sigewinne's milkshakes? The taste that comes to mind is... what's that flavor... desolation.
+Receiving a Gift: IReceiving a Gift: IMedia:VO_Wriothesley Receiving a Gift - 01.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Wriothesley_Receiving_a_Gift_-_01.ogg What a perfect blend of flavors. I could have never made this myself.
+Receiving a Gift: IIReceiving a Gift: IIMedia:VO_Wriothesley Receiving a Gift - 02.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Wriothesley_Receiving_a_Gift_-_02.ogg Lovely. I'll be sure to treat you to something next time.
+Receiving a Gift: IIIReceiving a Gift: IIIMedia:VO_Wriothesley Receiving a Gift - 03.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Wriothesley_Receiving_a_Gift_-_03.ogg Please excuse me, I'm... I'm gonna brew a cup of tea.
+BirthdayBirthdayMedia:VO_Wriothesley Birthday.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Wriothesley_Birthday.ogg Our tradition says that all children of Fontaine are born amid their parents' wishes and blessings, but I'd like to think that all children are born from such wonderful feelings. Anything that I can say to celebrate your birth would feel a little trivial next to that, right?Unfortunately, I won't be able to reduce your prison sentence if you were to commit a crime — the only thing I would be able to pull off would be a special Welfare Meal for your birthday dinner. With all that in mind, why don't you try to respect the law a bit more around your birthday, so we'll be able to celebrate somewhere nice on the surface?
+Feelings About Ascension: Intro Ascension Phase 1Feelings About Ascension: Intro Ascension Phase 1Media:VO_Wriothesley Feelings About Ascension - 01.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Wriothesley_Feelings_About_Ascension_-_01.ogg It is my honor to win your trust.
+Feelings About Ascension: Building Up Ascension Phase 2Feelings About Ascension: Building Up Ascension Phase 2Media:VO_Wriothesley Feelings About Ascension - 02.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Wriothesley_Feelings_About_Ascension_-_02.ogg Uh oh, looks like I'll owe you a favor now.
+Feelings About Ascension: Climax Ascension Phase 4Feelings About Ascension: Climax Ascension Phase 4Media:VO_Wriothesley Feelings About Ascension - 03.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Wriothesley_Feelings_About_Ascension_-_03.ogg Ha, why do you look even more pleased about this than me?
+Feelings About Ascension: Conclusion Ascension Phase 6Feelings About Ascension: Conclusion Ascension Phase 6Media:VO_Wriothesley Feelings About Ascension - 04.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Wriothesley_Feelings_About_Ascension_-_04.ogg I like signs of strength and hope. They give me reassurance that tomorrow will be better than today. This isn't to be pessimistic, but it's impossible for the present to be without its doubts and troubles — that's just the truth. But come hell or high water, if nothing else then at least we'll be able to figure it out together, right?
+Combat[]
+TitleDetailsElemental SkillElemental SkillMedia:VO Wriothesley Elemental Skill 1 01.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Wriothesley_Elemental_Skill_1_01.ogg Let's begin.Media:VO Wriothesley Elemental Skill 1 02.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Wriothesley_Elemental_Skill_1_02.ogg Don't run away now.Media:VO Wriothesley Elemental Skill 1 03.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Wriothesley_Elemental_Skill_1_03.ogg A moment, please.Elemental BurstElemental BurstMedia:VO Wriothesley Elemental Burst 01.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Wriothesley_Elemental_Burst_01.ogg Have a safe trip.Media:VO Wriothesley Elemental Burst 02.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Wriothesley_Elemental_Burst_02.ogg This could get a little chilly.Media:VO Wriothesley Elemental Burst 03.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Wriothesley_Elemental_Burst_03.ogg Stay cool and face your guilt!Sprint StartSprint StartMedia:VO Wriothesley Sprint Start 01.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Wriothesley_Sprint_Start_01.ogg Media:VO Wriothesley Sprint Start 02.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Wriothesley_Sprint_Start_02.ogg Media:VO Wriothesley Sprint Start 03.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Wriothesley_Sprint_Start_03.ogg Sprint EndSprint EndWriothesley does not feature any Sprint End Voice-Overs.Deploying Wind GliderDeploying Wind GliderMedia:VO Wriothesley Deploying Wind Glider 01.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Wriothesley_Deploying_Wind_Glider_01.ogg Media:VO Wriothesley Deploying Wind Glider 02.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Wriothesley_Deploying_Wind_Glider_02.ogg Media:VO Wriothesley Deploying Wind Glider 03.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Wriothesley_Deploying_Wind_Glider_03.ogg Opening Treasure ChestOpening Treasure ChestMedia:VO Wriothesley Opening Treasure Chest 01.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Wriothesley_Opening_Treasure_Chest_01.ogg Oh, this wasn't locked? How convenient.Media:VO Wriothesley Opening Treasure Chest 02.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Wriothesley_Opening_Treasure_Chest_02.ogg I'd take it if I were you. I'm sure it'll come in handy.Media:VO Wriothesley Opening Treasure Chest 03.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Wriothesley_Opening_Treasure_Chest_03.ogg All unclaimed articles should be turned in, so... neither of us saw anything here, right?Low HPLow HPMedia:VO Wriothesley Low HP 01.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Wriothesley_Low_HP_01.ogg No need to fear.Media:VO Wriothesley Low HP 02.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Wriothesley_Low_HP_02.ogg No backup, huh? Fine by me.Media:VO Wriothesley Low HP 03.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Wriothesley_Low_HP_03.ogg Time to improvise.Ally at Low HPAlly at Low HPMedia:VO Wriothesley Ally at Low HP 01.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Wriothesley_Ally_at_Low_HP_01.ogg Step back.Media:VO Wriothesley Ally at Low HP 02.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Wriothesley_Ally_at_Low_HP_02.ogg Get to the infirmary.FallenFallenMedia:VO Wriothesley Fallen 01.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Wriothesley_Fallen_01.ogg Sorry... I couldn't protect...Media:VO Wriothesley Fallen 02.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Wriothesley_Fallen_02.ogg Instead of going big, guess I'm going home...Media:VO Wriothesley Fallen 03.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Wriothesley_Fallen_03.ogg I have... no objections.Light Hit TakenLight Hit TakenMedia:VO Wriothesley Light Hit Taken 01.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Wriothesley_Light_Hit_Taken_01.ogg Going easy on me?Media:VO Wriothesley Light Hit Taken 02.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Wriothesley_Light_Hit_Taken_02.ogg Media:VO Wriothesley Light Hit Taken 03.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Wriothesley_Light_Hit_Taken_03.ogg Media:VO Wriothesley Light Hit Taken 04.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Wriothesley_Light_Hit_Taken_04.ogg Media:VO Wriothesley Light Hit Taken 05.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Wriothesley_Light_Hit_Taken_05.ogg Media:VO Wriothesley Light Hit Taken 06.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Wriothesley_Light_Hit_Taken_06.ogg Heavy Hit TakenHeavy Hit TakenMedia:VO Wriothesley Heavy Hit Taken 02.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Wriothesley_Heavy_Hit_Taken_02.ogg ...Not bad.Media:VO Wriothesley Heavy Hit Taken 01.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Wriothesley_Heavy_Hit_Taken_01.ogg Media:VO Wriothesley Heavy Hit Taken 03.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Wriothesley_Heavy_Hit_Taken_03.ogg Media:VO Wriothesley Heavy Hit Taken 04.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Wriothesley_Heavy_Hit_Taken_04.ogg Media:VO Wriothesley Heavy Hit Taken 05.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Wriothesley_Heavy_Hit_Taken_05.ogg Media:VO Wriothesley Heavy Hit Taken 06.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Wriothesley_Heavy_Hit_Taken_06.ogg Joining PartyJoining PartyMedia:VO Wriothesley Joining Party 01.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Wriothesley_Joining_Party_01.ogg Let's get to work.Media:VO Wriothesley Joining Party 02.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Wriothesley_Joining_Party_02.ogg Got a side job for me? Sure thing.Media:VO Wriothesley Joining Party 03.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Wriothesley_Joining_Party_03.ogg I'll do my best, but I can't guarantee you victory.Character Idles(Note: Chat & Weather voice-over can also be heard as idles.)Character Idles(Note: Chat & Weather voice-over can also be heard as idles.)Wriothesley does not feature any Character Idles Voice-Overs.Light AttackLight AttackMedia:VO Wriothesley Light Attack 06.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Wriothesley_Light_Attack_06.ogg Media:VO Wriothesley Light Attack 01.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Wriothesley_Light_Attack_01.ogg Media:VO Wriothesley Light Attack 02.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Wriothesley_Light_Attack_02.ogg Media:VO Wriothesley Light Attack 03.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Wriothesley_Light_Attack_03.ogg Media:VO Wriothesley Light Attack 04.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Wriothesley_Light_Attack_04.ogg Media:VO Wriothesley Light Attack 05.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Wriothesley_Light_Attack_05.ogg Media:VO Wriothesley Light Attack 07.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Wriothesley_Light_Attack_07.ogg Mid AttackMid AttackMedia:VO Wriothesley Mid Attack 01.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Wriothesley_Mid_Attack_01.ogg Media:VO Wriothesley Mid Attack 02.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Wriothesley_Mid_Attack_02.ogg Media:VO Wriothesley Mid Attack 03.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Wriothesley_Mid_Attack_03.ogg Heavy AttackHeavy AttackMedia:VO Wriothesley Heavy Attack 01.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Wriothesley_Heavy_Attack_01.ogg Media:VO Wriothesley Heavy Attack 02.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Wriothesley_Heavy_Attack_02.ogg Media:VO Wriothesley Heavy Attack 03.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Wriothesley_Heavy_Attack_03.ogg ClimbingClimbingMedia:VO Wriothesley Climbing 01.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Wriothesley_Climbing_01.ogg Media:VO Wriothesley Climbing 02.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Wriothesley_Climbing_02.ogg Media:VO Wriothesley Climbing 03.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Wriothesley_Climbing_03.ogg Climbing BreathClimbing BreathMedia:VO Wriothesley Climbing Breath 01.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Wriothesley_Climbing_Breath_01.ogg Media:VO Wriothesley Climbing Breath 02.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Wriothesley_Climbing_Breath_02.ogg Media:VO Wriothesley Climbing Breath 03.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Wriothesley_Climbing_Breath_03.ogg JumpingJumpingMedia:VO Wriothesley Jumping 01.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Wriothesley_Jumping_01.ogg Media:VO Wriothesley Jumping 02.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Wriothesley_Jumping_02.ogg Media:VO Wriothesley Jumping 03.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Wriothesley_Jumping_03.ogg Media:VO Wriothesley Jumping 04.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Wriothesley_Jumping_04.ogg Media:VO Wriothesley Jumping 05.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Wriothesley_Jumping_05.ogg 
+Navigation[]
+  Characters  (Voice-Overs)AnotherWorld
+
+Mondstadt
+
+Liyue
+
+Inazuma
+
+Sumeru
+
+Fontaine
+
+Snezhnaya
+
+
+Upcoming Characters announced by HoYoverse.
+
+
+
+
+
+
+
+OverviewLoreVoice-OversOutfitsCompanionGallery
+
+
+Wriothesley
+
+
+
+
+
+
+
+
+
+
+Category
+Companion Companion
+
+
+Quality
+
+
+
+
+
+Adeptal Energy
+Load 
+
+
+300
+1200 
+
+
+
+
+Adeptal Energy per Load 
+
+
+0.25
+
+
+
+
+
+
+
+
+
+								Description
+							
+
+
+
+
+
+Character In-Residence
+
+
+
+
+
+Wriothesley can be invited as a Companion into the player's Serenitea Pot after obtaining him and completing the World Quest Idle Teapot Talk.
+
+Contents
+
+1 Favorite Furnishing Sets
+2 Idle Quotes
+3 Dialogue
+4 Special Dialogue
+
+4.1 Full Force Forward in the Forbidden Fortress
+4.2 Wellspring of Rule Violation Prevention
+
+
+5 Change History
+6 Navigation
+
+
+Favorite Furnishing Sets[]
+If a character's favorite furnishing set is placed in the same realm as the character for the first time, the character will automatically teleport to the furnishing set. Interacting with the character will initiate a special dialogue, after which the character will teleport back to their original position.
+
+Wriothesley has 2 Favorite Furnishing Sets:Furnishing SetRewardsWellspring of Rule Violation Prevention 20 2 20,000Full Force Forward in the Forbidden Fortress 20 1 20,000
+Idle Quotes[]
+
+ Morning briefing...
+ Recommendations...
+ Have a walk...
+ Underwater...
+ Such delicious tea...
+(When the player is nearby)
+ Hello...
+ I was just wondering...
+
+Dialogue[]
+
+Media:vo wriothesley mimitomo hello 01.ogg Wriothesley: Hello there, (TravelerTravelerThe player's chosen name for the Traveler).
+Media:vo wriothesley mimitomo hello 02.ogg Wriothesley: I was just thinking about finding a patch of grass to lie down if you don't need me for anything.
+ How do you like it here?
+Media:vo wriothesley mimitomo friendship1 01.ogg Wriothesley: Hmm, I quite like the environment. The temperature and humidity are both near perfect. It's a very fitting place for a leisurely vacation.
+Media:vo wriothesley mimitomo friendship1 02.ogg Wriothesley: You really are quite something, to possess such a cozy and comfortable haven, but still be willing to venture out into the unknown.
+ There are some things that I must do.
+Media:vo wriothesley mimitomo friendship1 03a 1.ogg Wriothesley: You speak with conviction. I can tell those matters are extremely important to you.
+Media:vo wriothesley mimitomo friendship1 03a 2.ogg Wriothesley: It's not a bad thing to be committed to a goal. It can prevent you from losing your way in life.
+Media:vo wriothesley mimitomo friendship1 03a 3.ogg Wriothesley: But don't let your convictions control you and lead you down a dangerous path, okay?
+Media:vo wriothesley mimitomo friendship1 03a 4.ogg Wriothesley: After all, this wonderful place is still waiting for your return.
+ Life is all about being on the move.
+Media:vo wriothesley mimitomo friendship1 03b 1.ogg Wriothesley: Huh, I like the sound of that phrase. I just might write it down and add it to one of the regulations at the Fortress of Meropide.
+Media:vo wriothesley mimitomo friendship1 03b 2.ogg Wriothesley: Should I say that it came from you?
+ Nope, that responsibility's all yours.
+Media:vo wriothesley mimitomo friendship1 03b 3.ogg Wriothesley: Ahh, you saw right through me.
+Media:vo wriothesley mimitomo friendship1 03b 4.ogg Wriothesley: Don't worry, though. I was just joking around.
+Media:vo wriothesley mimitomo friendship1 03b 5.ogg Wriothesley: If I was actually going to add some new kind of rule, I will be sure to take full responsibility for it.
+(Unlocks at Friendship Level 4)
+ Would you like to chat?
+Media:vo wriothesley mimitomo friendship2 01.ogg Wriothesley: Sure. Got anything on your mind?
+Media:vo wriothesley mimitomo friendship2 02.ogg Wriothesley: Talking about the weather is usually a great way to get a conversation going, but it seems like the weather here is always the same.
+ That's the work of Tubby, the teapot spirit.
+Media:vo wriothesley mimitomo friendship2 03.ogg Wriothesley: I see, so the keeper of this place is a teapot spirit...
+Media:vo wriothesley mimitomo friendship2 04.ogg Wriothesley: When I first arrived, I had actually mistaken her for one of those large finchbill pets.
+ Don't judge a book by its cover.
+Media:vo wriothesley mimitomo friendship2 05.ogg Wriothesley: Yeah, you're right.
+Media:vo wriothesley mimitomo friendship2 06.ogg Wriothesley: Speaking of which, I actually made a similar mistake when I was young. I once thought that Melusines were the form that sea hares took when they hopped onto land.
+Media:vo wriothesley mimitomo friendship2 07.ogg Wriothesley: It wasn't until I read some books that I realized just how silly I was.
+Media:vo wriothesley mimitomo friendship2 08.ogg Wriothesley: You should know that according to laws and regulations, Melusines are also recognized citizens of Fontaine. It is forbidden to view or treat them as pets or monsters.
+ I figured it was something like that.
+Media:vo wriothesley mimitomo friendship2 09a 1.ogg Wriothesley: Good, that makes for one less legal trouble you may get yourself into.
+ First time I've ever heard of it...
+Media:vo wriothesley mimitomo friendship2 09b 1.ogg Wriothesley: I believe you owe me a big thank-you, then.
+Media:vo wriothesley mimitomo friendship2 09b 2.ogg Wriothesley: Criminals that disrespect Melusines usually get slapped with a pretty hefty sentence.
+Media:vo wriothesley mimitomo friendship2 10.ogg Wriothesley: Although it'd be great to have more people working in the Fortress, I've never been interested in instigating crime.
+Media:vo wriothesley mimitomo friendship2 11.ogg Wriothesley: It is my hope that people will use more legitimate channels to find work in the Fortress of Meropide. There's no need to cause headaches for the upstanding ladies and gentlemen of the Palais Mermonia.
+(Unlocks at Friendship Level 7)
+ Anything you'd like to do?
+Media:vo wriothesley mimitomo friendship3 01.ogg Wriothesley: I'd like to take a quick walk around here. Would you mind?
+ Not at all. It's not like I can keep you in my sights all the time anyway.
+Media:vo wriothesley mimitomo friendship3 02a 1.ogg Wriothesley: Our combat abilities aside, I will definitely stay put if that's what you prefer.
+Media:vo wriothesley mimitomo friendship3 02a 2.ogg Wriothesley: However, you've also gotten to know me a bit by now. It's true that I'm not accustomed to staying in an unfamiliar place for long.
+ I figured you would've already explored the place.
+Media:vo wriothesley mimitomo friendship3 02b 1.ogg Wriothesley: That would have been true if we were elsewhere... Making sure that my surroundings are safe is essential.
+Media:vo wriothesley mimitomo friendship3 02b 2.ogg Wriothesley: But this is your home. We don't have to worry about danger here, right?
+Media:vo wriothesley mimitomo friendship3 02b 3.ogg Wriothesley: I'm curious, that's all. I just want to take a walk around this vast, miraculous place as if I were a tourist.
+ I can show you some other teapot realms, too, if you'd like.
+Media:vo wriothesley mimitomo friendship3 03.ogg Wriothesley: Wait, really?
+Media:vo wriothesley mimitomo friendship3 04.ogg Wriothesley: So, as long as you wish it, you can visit each of the seven nations without ever having to step outside?
+ Want to give it a try?
+ I can already see your excitement.
+Media:vo wriothesley mimitomo friendship3 05.ogg Wriothesley: Haha, well, opportunities like that don't just come by every day.
+Media:vo wriothesley mimitomo friendship3 06.ogg Wriothesley: If you want something, you should try your best to fight for it, won't you agree?
+ Got it, I'll go switch up the realms for you.
+Media:vo wriothesley mimitomo friendship3 07.ogg Wriothesley: And I would be ever so grateful.
+Media:vo wriothesley mimitomo friendship3 08.ogg Wriothesley: Obviously, I am also aware that there is no such thing as a free lunch.
+Media:vo wriothesley mimitomo friendship3 09.ogg Wriothesley: So, if you are ever in need of my help, don't let anything hold you back. We will always welcome you at the Fortress of Meropide.
+Media:vo wriothesley mimitomo friendship3 10.ogg Wriothesley: Of course, with that said, I hope you won't be coming down because of a new sentence.
+(Between 6:00 and 19:00)
+ Good morning, Your Grace.
+Media:vo wriothesley mimitomo morning 01.ogg Wriothesley: It's not every day that we get to meet in the overworld. There's no need to be so formal.
+Media:vo wriothesley mimitomo morning 02.ogg Wriothesley: Morning. I hope you'll have a wonderful day.
+(Between 19:00 and 6:00)
+ Good night, Wriothesley.
+Media:vo wriothesley mimitomo night 01.ogg Wriothesley: Good night.
+Media:vo wriothesley mimitomo night 02.ogg Wriothesley: The daytime hours are always full of sound and fury, so I've developed a habit of saving work that requires more considered thinking for the evening.
+Media:vo wriothesley mimitomo night 03.ogg Wriothesley: However... I'll pass on that while I'm here. Allow me to space out for a little longer.
+
+Special Dialogue[]
+When a character is invited to or invites themselves to their favorite set for the first time, the character will provide a reward. They will provide a reward for each of their favorite sets.
+Inviting them to the furnishing set again will replay the dialogue, but no further reward will be given.
+
+Full Force Forward in the Forbidden Fortress[]
+
+Media:vo mimitomo fd wriothesley meropide 01.ogg Wriothesley: Not bad. It really looks the part.
+Media:vo mimitomo fd wriothesley meropide 02.ogg Wriothesley: Anyone who gets to compete in a tournament here must be the cream of the crop, since you're the one sending out the invitations.
+Media:vo mimitomo fd wriothesley meropide 03.ogg Wriothesley: So, I'll pass — save myself the embarrassment. Besides... I make a good spectator.
+
+Wellspring of Rule Violation Prevention[]
+
+Media:vo mimitomo fd wriothesley meropideindoors 01.ogg Wriothesley: If I didn't know better, I'd think you were trying to coax me into working from your place so you can pry into the Fortress of Meropide's most closely guarded secrets...
+Media:vo mimitomo fd wriothesley meropideindoors 02.ogg Wriothesley: Well, I hate to break it to you, but the majority of my day-to-day work is mundane accounting.
+Media:vo mimitomo fd wriothesley meropideindoors 03.ogg Wriothesley: So I could consider working here, but only if... Well, let's put it this way — how good's your math?
+
+Change History[]
+Released in Version 4.1[Edit History]Version 4.3
+The following Furnishing Sets were assigned as favorite for this character:
+Full Force Forward in the Forbidden Fortress
+Wellspring of Rule Violation Prevention
+
+Version 4.1
+
+Wriothesley/Companion was released.
+Navigation[]
+  Living Beings
+ Companions5★
+
+4★
+
+Paimon
+
+
+
+ AnimalsCreatures
+
+
+
+
+
+

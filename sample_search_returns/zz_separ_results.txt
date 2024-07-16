@@ -1,0 +1,743 @@
+all_food_descriptions.txt:
+ ing you of a lovely Pufferfish. The bread is usually cut in the middle into two separate "pockets," hence the name, "Pita Pocket." It is said that people of Sumeru u
+---
+all_food_descriptions.txt:
+ :  A traditional Fontainian dish. Fry the apple slices and blood sausage slices separately and serve them on a plate with sauce. Judging by the name of this dish, to
+---
+all_furnishings.txt:
+ ive wood qualities are indeed similar, such that most will not treat the two as separate species. However, this tree sports smoky-red leaves of exceeding loveliness 
+---
+all_furnishings.txt:
+ he pavilions near the Razan Garden. The dark gold frames are thin yet firm, and separate the glass dome vertically into four quarters, while also dividing it horizon
+---
+all_furnishings.txt:
+  Mercantile
+A stall that sells fruits and vegetables, with the various products separated into their own wooden frames, almost like a neatly divided field. Clever me
+---
+all_furnishings.txt:
+ est to the stage. Sometimes, guests who came together would end up being seated separately, but they did not complain. After all, when the performer on stage puts on
+---
+all_furnishings.txt:
+ ve even found a way to process them into catalysts for explosions.Once they are separated from the body, these tails will lose their vitality and curl up. They will,
+---
+all_furnishings.txt:
+ ve even found a way to process them into catalysts for explosions.Once they are separated from the body, these tails will lose their vitality and curl up.Unlike thos
+---
+all_furnishings.txt:
+ ve even found a way to process them into catalysts for explosions.Once they are separated from the body, these tails will lose their vitality and curl up.Out in the 
+---
+all_furnishings.txt:
+ ts and vegetables can accelerate the process of decay when next to one another. Separating them, therefore, is key to keeping them suitable for sale for as long as p
+---
+all_furnishings.txt:
+ eriorBuilding Fontaine-Style
+A two-story building with an attached workshop and separate balcony that uses an asymmetric layout. It exudes the distinctive Petrichor 
+---
+all_furnishings.txt:
+  ventilate exhaust, cleverly ensuring that work and living areas are completely separated and neither will interfere with the other. It is said that even if you were
+---
+all_furnishings.txt:
+ ve even found a way to process them into catalysts for explosions.Once they are separated from the body, these tails will lose their vitality and curl up. They will,
+---
+all_furnishings.txt:
+ d Wall
+A folding screen made of Aralia Wood. When used in combination, they can separate different areas within the hot spring grounds.People may get too excited and
+---
+all_furnishings.txt:
+ hot springs have stipulated that drinking in the pool is not allowed and that a separate area for wine tasting is required.
+Realm Depot
+Verdant_Leaves_in_the_Balmy_B
+---
+all_furnishings.txt:
+ emists have even found a way to process them into catalysts for explosives.Once separated from the body, the tail will lose its vitality and curl up.
+ Omni-Ubiquity 
+---
+all_furnishings.txt:
+ olitary_Retreat : ExteriorBuilding Liyue
+A spacious Liyue-style domicile with a separate kitchen and chimney. It is said that recluses particularly like this sort of
+---
+all_furnishings.txt:
+ ive wood qualities are indeed similar, such that most will not treat the two as separate species. However, this tree sports smoky-red leaves of exceeding loveliness 
+---
+all_furnishings.txt:
+ chipelago?""So things might get dreadfully boring if they all had to wait under separate tents in case of sudden rain.""And that's why I decided to pitch an especial
+---
+all_furnishings.txt:
+ ke the buildings in the Court of Fontaine, the houses in Petrichor tend to have separate, dedicated spaces for non-residential areas and chimneys, and are built as s
+---
+all_furnishings.txt:
+ rate, dedicated spaces for non-residential areas and chimneys, and are built as separate buildings. Though such designs take up more space, they increase fire safety
+---
+all_hangout.txt:
+  everything they say. After all, people can tell you anything, and it's hard to separate truth from rumors without facts.
+Media:vo lyycop001 1906003 heizou 03.ogg Sh
+---
+all_hangout.txt:
+ ter a Long TimeKorean오랜만의 재회Oraenmanui JaehoeSpanishUn encuentro tras una larga separaciónAn Encounter After a Long SeparationFrenchRéunionReunionRussianВоссоединени
+---
+all_hangout.txt:
+ ui JaehoeSpanishUn encuentro tras una larga separaciónAn Encounter After a Long SeparationFrenchRéunionReunionRussianВоссоединениеVossoyedineniyeReunionThaiพบกันอีกค
+---
+all_hangout.txt:
+  MeaningEnglishIndependent Actions—Chinese(Simplified)分头行动Fēntóu XíngdòngActing SeparatelyChinese(Traditional)分頭行動Fēntóu XíngdòngJapanese別行動BetsukoudouGoing Off On Y
+---
+all_hangout.txt:
+ panese別行動BetsukoudouGoing Off On Your OwnKorean분담 수색 개시Bundam Susaek GaesiStart Separate ActingSpanishPor caminos distintosThrough Separate PathsFrenchÉtape par étap
+---
+all_hangout.txt:
+ 색 개시Bundam Susaek GaesiStart Separate ActingSpanishPor caminos distintosThrough Separate PathsFrenchÉtape par étapeStep by StepRussianСамостоятельные действияSamosto
+---
+all_hangout.txt:
+ was aware of these happenings as well. I just figured... what I want to do is a separate effort from what's already being done by the Akademiya.
+Media:vo kvcop001 19
+---
+all_hangout.txt:
+ vely ascertain the quality of something like a story. In the end, only time can separate the classics from the fads.
+Media:vo frzcop001 1917105 faruzan 07.ogg Faruza
+---
+all_hangout.txt:
+ be able to put it all behind me.
+Media:vo_bdcop001_1905402_ren_10.ogg Ren: On a separate note... I remember The Crux last visited the village not very long ago.
+Medi
+---
+all_hangout.txt:
+ ave to worry about this anymore.
+Media:vo_bdcop001_1905402_ren_14.ogg Ren: On a separate note... I remember The Crux last visited the village not very long ago.
+Medi
+---
+all_hangout.txt:
+ dia:vo frzcop001 1917205 anis 05.ogg Anis: Uh, we'll probably have to send in a separate application, but it shouldn't be an issue.
+Media:vo frzcop001 1917205 anis 0
+---
+all_hangout.txt:
+ spect got wind that we were on his tail and fled. That's most likely how he got separated from the cat.
+Media:vo lntcop001 1918504 elodie 13.ogg Elodie: I just so ha
+---
+all_hangout.txt:
+ first.
+Media:vo lntcop001 1918506 lynette 07.ogg Lynette: Hmm... Maybe he had a separate, dedicated area where he made the Imitation Sinthe?
+Media:vo lntcop001 19185
+---
+all_hangout.txt:
+  floating barrel method so that the goods could be dropped off and picked up at separate times. That way, the two parties wouldn't have to meet each other.
+Media:vo 
+---
+all_hangout.txt:
+  wrote the letter also knew nothing about Bonnie's whereabouts... or they had a separate goal entirely?
+(Return to option selection)
+ There's an unexplained part in 
+---
+all_hangout.txt:
+ he Traveler): It almost feels like the "plan" and the "expose" were done by two separate individuals, and Pierre was set up.
+(Associate - Does Pierre have multiple p
+---
+all_hangout.txt:
+ :vo cycop001 1903001 unclejia 02.ogg Uncle Jia: And most importantly, don't get separated from your partner and wander off on your own. You'll most certainly be in f
+---
+all_hangout.txt:
+ or all parties, but due to issues with our personalities, we ended up going our separate ways before completing the project.
+Media:vo kvcop001 1907603 alhaitham 06.o
+---
+all_npc_text.txt:
+ d. But I will keep my eyes out.
+Alfred: If anyone understands the pain of being separated from family, it's me...
+Alfred: I wish you the best of luck, my friend.
+Alf
+---
+all_npc_text.txt:
+ . Despite her animosity, Apep allows the party to enter the Oasis, but they are separated in the process. When the Fire Seed's elemental energy proves insufficient t
+---
+all_npc_text.txt:
+ g and were kicked out of Vanarana (Subarea) by Arapacati, where they went their separate ways.
+Araphala ended up near Devantaka Mountain to pick sunsettias, as he ha
+---
+all_npc_text.txt:
+  up arguing and were kicked out of Vanarana by Arapacati, where they went their separate ways.
+Arasaka later befriended Iaanesh in his youth, where they enjoyed suga
+---
+all_npc_text.txt:
+ empted to flee, but the disaster caught up to them. As punishment, the two were separated for eternity and had their memories wiped. The heartbroken Seelie withered 
+---
+all_npc_text.txt:
+ kami-Watatsumi War.
+Ayame was the original wielder of Wavebreaker's Fin. It was separated from her during the war and confiscated by the tengu,[2] while Ayame's mans
+---
+all_npc_text.txt:
+ ring Jeht as a "live sample" for his experiments to get rid of her.[5] She then separately told both the Traveler and Jeht that the other had betrayed the tribe to t
+---
+all_npc_text.txt:
+ y, but that even it needed "acknowledgment" in order to work. Later, Benben was separated from the group and taken by Samail and the Fatui, but was quickly tracked d
+---
+all_npc_text.txt:
+ on: However, in one field test, we neglected to store the shells and detonators separately, and there was a massive explosion...
+Chatillon: The team suffered grievou
+---
+all_npc_text.txt:
+ th bob, and although not so visible in-game, the front portions of her hair are separated with dark brown accessories.
+Media:VO Chitose 01.ogg "Ugh, this mission is 
+---
+all_npc_text.txt:
+ his plan is exposed to the Marechaussee Hunters, leading him to be arrested and separated from his creation Coppelia. The second snippet features Coppelia and a youn
+---
+all_npc_text.txt:
+ off by a mountain, while the waterway at the northwest gateway has been dammed, separating it from the rest of the river. This suggests that the city previously had 
+---
+all_npc_text.txt:
+ friends, but he believes that their bonds of trust will last even despite their separation.[2]
+Denjirou wears the Watatsumi Army's standard uniform, modeled from the
+---
+all_npc_text.txt:
+ 
+ The soil composition...
+Media:VO Djarkutan 01.ogg "I need an effective way of separating the soil into its discrete components."
+Djarkutan: We can rule out tempera
+---
+all_npc_text.txt:
+ our journey through the ages, it is inevitable that Oz and I will sometimes act separately.
+Fischl: When Oz is not at his place by my side, he prefers peace and quie
+---
+all_npc_text.txt:
+  continue my studies down this path, I might just be able to see why there is a separation between my theories and the calculations.
+Farghani: The Interdarshan Champ
+---
+all_npc_text.txt:
+ r work.
+Fengtai: In Chenyu Vale, the sale and production of jade are completely separate. This allows our artisans to focus on carving.
+Fengtai: Who knows, there mig
+---
+all_npc_text.txt:
+ one of Egeria's Oceanid familiars.
+Once one with the being known as Furina, she separated her "divinity" from this singular body to exist separately as Focalors, wit
+---
+all_npc_text.txt:
+  known as Furina, she separated her "divinity" from this singular body to exist separately as Focalors, with the remaining "humanity" made into Furina. After her dea
+---
+all_npc_text.txt:
+ hecy was happening while actually saving all Fontainians. To this end, Focalors separated her divinity from her body and spirit, and named her human body that she le
+---
+all_npc_text.txt:
+ n? Not that I remember.
+Freki: I understand how you must feel. If I were to get separated from my brother, I mean, if one of use wandered off and got lost or somethi
+---
+all_npc_text.txt:
+ ing apart lately... but why? We used to be so close. Surely nobody is trying to separate us...
+Galvaryet: He's one of those weirdos people often talk about. It's obv
+---
+all_npc_text.txt:
+ er of Teyvat.
+Gao Fei: Hmm... Well, how about we switch up the design a little? Separate the body from the movable components?
+Gao Fei: By using discrete external co
+---
+all_npc_text.txt:
+ th bob, and although not so visible in-game, the front portions of her hair are separated with dark brown accessories.
+Gendou Ringo: You want a fortune slip?
+Paimon:
+---
+all_npc_text.txt:
+ Stove God was another title for Morax, while others believe the Stove God was a separate deity.
+Keqing's grandfather described the Stove God Festival as the practice
+---
+all_npc_text.txt:
+ e nearby Akitsu Yuugei, wanting to protect them all from the pain of inevitable separation caused by their different life spans.
+Yae Miko then approaches, and Chizur
+---
+all_npc_text.txt:
+ emergence of the "eternal throne of the heavens" caused the world to be remade, separating its "microcosm" from the universe. The Heavenly Principles appeared to do 
+---
+all_npc_text.txt:
+  to flee from an unidentified force. They were caught and punished with eternal separation and the erasure of their memories. According to the legend, the Seelie's a
+---
+all_npc_text.txt:
+  one of the seven archons in Gnostic belief, whereas the Heavenly Principles is separate from, and is above, the Seven Archons of Teyvat.
+↑ 天理 Tiānlǐ, "Heavenly Prin
+---
+all_npc_text.txt:
+ t tea, you can just put the bag in a cup and add water.
+Hermanson: You can even separate the tea leaves and the tea immediately after making it. Not bad, right?
+Herm
+---
+all_npc_text.txt:
+ t the mountain, the team was caught in a snowstorm and the unnamed members were separated from the others, who met up at the South Base Camp. Eberhart convinced the 
+---
+all_npc_text.txt:
+ ute alongside Rene de Petrichor, Alain, and Mary-Ann after the Siege of Poisson separated him from his father.
+When the cataclysm struck, Jakob and Rene were sent to
+---
+all_npc_text.txt:
+ urning to Joel.[2]
+During the Adventurers' Guild training camp, Reckless Pallad separated from the group to pursue his personal motivations, only to lose his footing
+---
+all_npc_text.txt:
+ brown hair is cut into a chin-length bob, with the frontal portions of her hair separated with dark brown accessories.
+ Not slacking off, right...
+Media:VO Kano Nana
+---
+all_npc_text.txt:
+  Rukkhadevata parted ways with both of them and built her own civilization in a separate corner of Sumeru.[21] Following Nabu Malikata's death, he was left to rule o
+---
+all_npc_text.txt:
+ late and The Lay of Al-Ahmar both state that King Deshret ultimately managed to separate his mind from his body, which was left in his mausoleum. This, together with
+---
+all_npc_text.txt:
+  instead.[2][15]
+In the wake of their absences, the Mt. Yougou group went their separate ways. The Great Tengu went on a self-imposed exile over her failure to prote
+---
+all_npc_text.txt:
+ king for family.
+Lan: I haven't, no, but I will keep it in mind.
+Lan: I've been separated from family before. I know how you feel...
+Lan: Aight, don't drag this out.
+---
+all_npc_text.txt:
+ 
+Lingyuan: I don't know.
+Lingyuan: Or perhaps no obvious differences exist that separate "us" from "them," but I cannot be sure.
+Lingyuan: The young of the humans wa
+---
+all_npc_text.txt:
+ th bob, and although not so visible in-game, the front portions of her hair are separated with dark brown accessories.
+See also: Gendou Ringo § Dialogue
+(After compl
+---
+all_npc_text.txt:
+  bob, and although not so visible in-game, the frontal portions of her hair are separated with dark brown accessories.
+Story QuestsDivina Vulpes Chapter (Yae Miko)Ac
+---
+all_npc_text.txt:
+ ovel was based on, the two protagonists could not resolve their differences and separated!
+Miu: I've... I've pinned all my hopes for their happiness onto Taiyaki!
+Sh
+---
+all_npc_text.txt:
+  is on Watatsumi Island. I have to serve here because of the war, so we've been separated.
+Moriguchi: The Vision Hunt Decree has not only hurt people with Visions, b
+---
+all_npc_text.txt:
+  is on Watatsumi Island. I have to serve here because of the war, so we've been separated.
+Moriguchi: The Vision Hunt Decree has not only hurt people with Visions, b
+---
+all_npc_text.txt:
+ er of Teyvat.
+Gao Fei: Hmm... Well, how about we switch up the design a little? Separate the body from the movable components?
+Gao Fei: By using discrete external co
+---
+all_npc_text.txt:
+ ough they both remain on the dock standing next to each other.
+Nadia and Vlad's separate dialogue after the fireworks in Fleeting Colors in Flight only occur during 
+---
+all_npc_text.txt:
+ t the mountain, the team gets caught in a snowstorm and the unnamed members get separated from the others, who meet up at the South Base Camp. Eberhart convinces the
+---
+all_npc_text.txt:
+ ter Katarina Snezhevna.
+He was presumably slain by a Shadowy Husk after getting separated from his team.
+Sometime before the Ninth Company's deployment to The Chasm,
+---
+all_npc_text.txt:
+ 3] Orobashi fled from Teyvat[7][2] and eventually ended up beyond the seal that separated Enkanomiya from Teyvat.[8]
+Orobashi remained confined in a cavern for untol
+---
+all_npc_text.txt:
+ quickly realized that the problem lay in Sybilla's nature. As a failsafe, Remus separated Cassiodor from the Grand Symphony and restored his free will so that he wou
+---
+all_npc_text.txt:
+ and had a gentle smile on her face. We nodded at each other, then each went our separate ways.
+More About Clorinde: IMore About Clorinde: IMedia:VO_Clorinde More Abo
+---
+all_npc_text.txt:
+ ing for breath.As such, she sticks to a number of ironclad personal habits that separate her from the many slobs who plague their trade, leave her employers with a g
+---
+all_npc_text.txt:
+ cladding for battle. The fabric itself was familiar yet had the feeling of long-separation, and Diluc privately treasured it.
+"That's my boy." Looking upon the gem a
+---
+all_npc_text.txt:
+  Diluc is my senior, and I have the utmost respect for him. Though we have gone separate ways, I can sense we share the same strong commitment to protecting Mondstad
+---
+all_npc_text.txt:
+ gg Faruzan: Whether they choose to pursue the same field of research as me is a separate matter... Ultimately, it will all depend on their natural aptitude.
+ You're 
+---
+all_npc_text.txt:
+ his outfit. Her eyepatch is white.
+She wears a dark purple dress-like bodysuit, separate dark purple sleeves, and a dark purple choker. Her bodysuit is cut at the bo
+---
+all_npc_text.txt:
+ at Furina was not the true Hydro Archon. Focalors, the successor of Egeria, had separated her divinity from her body and spirit; Furina was the Archon's body and spi
+---
+all_npc_text.txt:
+  stronger role I tried to play gradually merged with my real self. Even I can't separate the two now... but perhaps there's no need to distinguish them. Experiences 
+---
+all_npc_text.txt:
+ ystander, they might even have seemed like playmates meeting again after a long separation. Finally, the Suanni seemed to acknowledge him, and as it shook its head a
+---
+all_npc_text.txt:
+ te and purple bodice with gold trim and long ends similar to a tailcoat, with a separated pair of sleeves to match and a pair of gray high heels with black soles. He
+---
+all_npc_text.txt:
+ hogunate can be fully trusted, so I'll be keeping my eyes and ears on him! On a separate note, he does have some talent for investigation. But how can we know that t
+---
+all_npc_text.txt:
+  straight from Wuwang Hill, one may arrive at the "border." It is the line that separates life and death, the secrets of which have been managed by Wangsheng Funeral
+---
+all_npc_text.txt:
+  for walnuts in certain parts of China. In the game, both characters are parsed separately: as her surname  (Chinese: 胡 Hú) is distinct from her given name  (Chinese
+---
+all_npc_text.txt:
+ her given name  (Chinese: 桃 Táo, "Peach"). The English version reflects this by separating the two characters with a space, unlike most other Liyue characters whose 
+---
+all_npc_text.txt:
+ She wears a strapless shirt with a long blue tailcoat attached to it, a pair of separate white sleeves, a short blue and gold cloak attached to a white collar, white
+---
+all_npc_text.txt:
+ utton-up under a white vest with a long blue tailcoat attached to it, a pair of separate black sleeves, a short blue and gold cloak attached to a white collar, white
+---
+all_npc_text.txt:
+ strength and responsibility shouldered too young... Though the lioness has been separated from her pride for a long time, she grows from strength to strength, and th
+---
+all_npc_text.txt:
+ low along with her Vision.
+Jean and Barbara are sisters, but when their parents separated, Jean stayed with their mother while Barbara stayed with their father.
+Jean
+---
+all_npc_text.txt:
+  Diluc is my senior, and I have the utmost respect for him. Though we have gone separate ways, I can sense we share the same strong commitment to protecting Mondstad
+---
+all_npc_text.txt:
+ _Kaedehara_Kazuha_-_05.ogg Don't worry — even if the day comes for us to go our separate ways, I am certain that we will meet again, in some corner of the world. The
+---
+all_npc_text.txt:
+ t which Kaeya's Vision appeared.Since that day, Kaeya and Diluc have gone their separate ways. But he never discusses it, just as he never discusses the origin of hi
+---
+all_npc_text.txt:
+ heir lower bound determined by hard work. Ordinary people and geniuses would be separated by various practical realities, and they did not have to force themselves t
+---
+all_npc_text.txt:
+ r death. As a genius, Kaveh longed to belong in a crowd, subconsciously fearing separation from it — this was the difference between him and Alhaitham.Returning to t
+---
+all_npc_text.txt:
+ he upper back and met in front along with a black bow, appearing as if it was a separate collar. Her Vision is worn on the intersection of the straps at her nape. 
+T
+---
+all_npc_text.txt:
+ ner that invited passersby to participate in a game of luck. Upon his stall, he separated colorful pages worth varying rewards into wooden boxes. In a display of ast
+---
+all_npc_text.txt:
+ s missions while remaining completely anonymous, and the twins began to operate separately more often as a result.Lyney found himself unable to adapt to this. Not on
+---
+all_npc_text.txt:
+ strength and responsibility shouldered too young... Though the lioness has been separated from her pride for a long time, she grows from strength to strength, and th
+---
+all_npc_text.txt:
+ or such tales of misfortune to befall real people.How might one mediate between separated lovers mired in the battlefields of differing perspectives? How might one i
+---
+all_npc_text.txt:
+  Well, this leads us to a more mundane explanation for the situation, one quite separate from grave matters of the world's fate:As the one named "Neuvillette," he wo
+---
+all_npc_text.txt:
+  Kokomi: If you ask me, I would say this is almost an ideal place. I can easily separate myself from the outside world and enjoy some time to myself...
+Media:vo koko
+---
+all_npc_text.txt:
+ t all costs.One is that of the "solitary star," which dictates that one will be separated from friends and family, living alone all one's days.The other is "disastro
+---
+all_npc_text.txt:
+ hogunate can be fully trusted, so I'll be keeping my eyes and ears on him! On a separate note, he does have some talent for investigation. But how can we know that t
+---
+all_npc_text.txt:
+ ot meet these requirements, a new complement of devices will need to be created separately.) 3. Contains a function with which to perform routine health checkups. 4.
+---
+all_npc_text.txt:
+ 
+Ascensions do not require Ascension Gems.
+Constellations, which are maintained separately for each element, require Memories, which are obtained through various mea
+---
+all_npc_text.txt:
+ deer.And yet this name was not his to own from the start. Indeed, they were yet separated by over a hundred years.After leaving Inazuma, he forsook the name Kabukimo
+---
+all_npc_text.txt:
+ ng one's foes, from loving one's comrades — these are the sublime emotions that separate humanity into masters and slaves."
+Later, just as the opera sang, this uniqu
+---
+all_npc_text.txt:
+  I."
+"Yes, Master Eberhart."
+Yes — she would forget bloodline and duty, forsake separation and the sickly heart.
+Not many nails were left. The glories bygone would s
+---
+all_npc_text.txt:
+ ut one of the friends returned to the earth, while the remaining two went their separate ways.
+One was determined to create a kingdom on earth and cause all sorrow t
+---
+all_npc_text.txt:
+ Horn 15 Recruit's Insignia 23 Sergeant's Insignia 27 Lieutenant's Insignia
+Each separate weapon in the series can stack. Having multiple characters equip this weapon
+---
+all_npc_text.txt:
+ railer. However, after the release of Freedom-Sworn, the Red-Haired Warrior was separated into a fifth member of the group, leaving the knight's identity a mystery; 
+---
+all_npc_text.txt:
+ opponent, its CRIT Rate will be increased by 2%. Both of these effects last 10s separately, have 4 max stacks, and can be triggered once every 0.1s.
+DMG dealt by Ele
+---
+all_npc_text.txt:
+ ponent, its CRIT Rate will be increased by 2.5%. Both of these effects last 10s separately, have 4 max stacks, and can be triggered once every 0.1s.
+DMG dealt by Ele
+---
+all_npc_text.txt:
+ opponent, its CRIT Rate will be increased by 3%. Both of these effects last 10s separately, have 4 max stacks, and can be triggered once every 0.1s.
+DMG dealt by Ele
+---
+all_npc_text.txt:
+ ponent, its CRIT Rate will be increased by 3.5%. Both of these effects last 10s separately, have 4 max stacks, and can be triggered once every 0.1s.
+DMG dealt by Ele
+---
+all_npc_text.txt:
+ opponent, its CRIT Rate will be increased by 4%. Both of these effects last 10s separately, have 4 max stacks, and can be triggered once every 0.1s.
+Legend has it th
+---
+all_npc_text.txt:
+ me to train in Narukami for the sake of her hometown shrine,
+Or the kid who got separated from the adults by the divine palanquin's entourage during the summer festi
+---
+all_npc_text.txt:
+ ssenkreuz was a ceremonial sword used by the Narzissenkreuz Ordo in a ritual to separate the mind from the body. It has been notably used by Narzissenkreuz himself t
+---
+all_npc_text.txt:
+ The lords once worshipped as gods fought for reasons their own,
+Blood and fire, separation and betrayal. All the mortal world was stained.
+Those who lost everything 
+---
+all_npc_text.txt:
+ 1 Chaos Core 15 Divining Scroll 23 Sealed Scroll 27 Forbidden Curse Scroll
+Each separate weapon in the series can stack. Having multiple characters equip this weapon
+---
+all_npc_text.txt:
+ ss Heart can activate even if the wielder of the Cinnabar Spindle is off field.
+Separate the dust in the flames with joy, and extract the exquisite from the crude.
+F
+---
+all_npc_text.txt:
+ ght after by alchemists starting around the 15th century and said to be able to separate any other material into its pure constituents.
+If Elemental Skill hits a shi
+---
+all_npc_text.txt:
+  Wriothesley's accession to administrator of the Fortress of Meropide cannot be separated from "money."Credit Coupons serve the role of currency within the Fortress.
+---
+all_npc_text.txt:
+  she doesn't mind.After all, the young ones have never known the agony of being separated from their friends, nor beheld the sight of blood-soaked battlefields. How 
+---
+all_npc_text.txt:
+  Liyue, the result of which was a book called "Tour of the Land of Liyue," with separate editions being available in Sumeru and Liyue."Hidden Diamond and Cloudy Moon
+---
+all_npc_text.txt:
+ nce owned the Eye of Perception.
+Yun Jin is the second character to feature two separate voice actors for one language, the first being Diona for English, although t
+---
+all_npc_text.txt:
+ tage. I have no doubt that the fall of our order to its present state cannot be separated from their plots.
+Pyrrho: But I never thought that this time, even our lead
+---
+all_npc_text.txt:
+ .6, Freedom-Sworn made the rebels a group of five with the red-haired warrior a separate character from the knight, leaving the knight's identity a mystery. Consider
+---
+all_npc_text.txt:
+ s with Phobos, he decided to put an end to the very symphony he had created. He separated Cassiodor, who became a Harmost after joining Remuria, from the Golden Symp
+---
+all_npc_text.txt:
+ less cheongsam-inspired crop top consisting of light brown and black, a pair of separate puffed sleeves of the same colors along with fingerless black gloves and puf
+---
+all_npc_text.txt:
+  Clan; they married and had two daughters, Jean and Barbara. The two eventually separated and Barbara stayed with him.[2] Despite their separation, he still kept Fre
+---
+all_npc_text.txt:
+ ara. The two eventually separated and Barbara stayed with him.[2] Despite their separation, he still kept Frederica's set of clothes as the Alder Knight, Gunnhildr's
+---
+all_npc_text.txt:
+ aster to befall the world thirty days later, which resulted in the lovers being separated for eternity and having their memories of each other wiped.[7] If the scrib
+---
+all_npc_text.txt:
+ gests that the events in the Seelie legend occurred right before Enkanomiya was separated from the surface world. The Seelie there still withered away in their grief
+---
+all_npc_text.txt:
+ ovel was based on, the two protagonists could not resolve their differences and separated!
+Miu: I've... I've pinned all my hopes for their happiness onto Taiyaki!
+Sh
+---
+all_npc_text.txt:
+ uhua disciples Sun Yu and Little Que'er. While they were able to escape, he was separated from Yan'er, but was unable to check in on her and returned to Inazuma thro
+---
+all_npc_text.txt:
+ : But all relationships must come to an end. If death is the thing that finally separates you, well then surely that's a sign that you had a good run...
+Sisi: ...or 
+---
+all_npc_text.txt:
+ e to take it down and Neuvillette needing his full Dragon Authority in order to separate it from the power from the Primordial Sea it accrued in order to then battle
+---
+all_npc_text.txt:
+ r an immediate setback right at the start of the competition... The novel would separate itself from cliche tropes. It'll be both unexpected and exciting...
+Availabl
+---
+all_npc_text.txt:
+ iestess are both really awesome! They must have felt very lonely when they were separated...)
+Available after completing The Children of Vimara Village.
+Sudabeh: Aft
+---
+all_npc_text.txt:
+ ut I've been through life-and-death situations with everyone here... I won't be separated from them again.
+ About your companion...
+Sumi: Though the resistance is de
+---
+all_npc_text.txt:
+ ring habits, which Hibiki scolded him for.[2]
+During the conflict, Takamine was separated from the rest and fought against the dark forces alone. Because he left Thu
+---
+all_npc_text.txt:
+ t me be already!
+Terada: I'm just a samurai on patrol, that's all. Let's go our separate ways, please.
+Terada: If you keep messing with me like this, outlander, *I'l
+---
+all_npc_text.txt:
+ d to the back of his hat. At the back of his hat hangs a translucent black veil separated into two, with a character, 惡 "evil", on it and ombré brown swirls near the
+---
+all_npc_text.txt:
+ tered or shut off.[8] According to Ei, she does not see the Shogun as an entity separate from herself, claiming that the Shogun counts as a different form of her exi
+---
+all_npc_text.txt:
+  production, just like that. The workers took their compensation and went their separate ways... Once such a gathering of people is dispersed, I fear it may be diffi
+---
+all_npc_text.txt:
+  bob, and although not so visible in-game, the frontal portions of her hair are separated with dark brown accessories.
+Story QuestsHangout EventsThomaAct I: A Housek
+---
+all_npc_text.txt:
+ the old world."
+The Tsaritsa also has the ability to grant her subjects a power separate from Visions, called Delusions. High-ranking Fatui such as Fatui Agents, Fat
+---
+all_npc_text.txt:
+ want to know why I'm so nice to Flora?
+Ulfr: Well... it's like this. My parents separated when I was very young, and I spent much of my childhood on my own.
+Ulfr: I 
+---
+all_npc_text.txt:
+  to know why I'm so nice to Flora?
+Old: Well, to tell you the truth, my parents separated when I was very young, so I always played by myself growing up.New: Well...
+---
+all_npc_text.txt:
+ so I always played by myself growing up.New: Well... it's like this. My parents separated when I was very young, and I spent much of my childhood on my own.
+Old: So 
+---
+all_npc_text.txt:
+ ackage deal" of 3 fish for 1,000 Mora, which is more expensive than buying them separately.
+At nighttime, he can be found at Third-Round Knockout, where it turns out
+---
+all_npc_text.txt:
+ es
+Kugimiya Rie (釘宮理恵)[3]
+The unknown god is the mysterious god responsible for separating the Traveler from their sibling at the start of Genshin Impact.
+She appear
+---
+all_npc_text.txt:
+ ough they both remain on the dock standing next to each other.
+Nadia and Vlad's separate dialogue after the fireworks in Fleeting Colors in Flight only occur during 
+---
+all_npc_text.txt:
+ , who was also his true love...
+Wenze: They perished together, but their burial separates them for eternity.
+Wenze: The two trees that grew above the ruins once ever
+---
+all_npc_text.txt:
+ uins once everything had turned to dust stand, just like them, face to face but separated...
+ You seem to know a great deal.
+Wenze: Honestly, it's not much. I've lov
+---
+all_npc_text.txt:
+ i: In this one, these two people got together in the end, But in that one, they separated...
+Xixi: But they're the same characters, right? Then why did the stories e
+---
+all_npc_text.txt:
+ hieve?
+Xuanzhu: We are exploring the idea of cooperative engagement capability, separating units that receive intelligence from the units that launch the attack, whi
+---
+all_npc_text.txt:
+  and Little Que'er. While they managed to avoid the Guhua disciples, Yan'er was separated from Shun and fell into a pit, where Mountain Shaper arrived and encased he
+---
+a_purified_misc_content.txt:
+ ly assumed to be concurrent with King Deshret's Civilization and Gurabad.
+After separating from King Deshret, Greater Lord Rukkhadevata comes to the East of the Grea
+---
+a_purified_misc_content.txt:
+ t the mountain, the team gets caught in a snowstorm and the unnamed members get separated from the others, who meet up at the South Base Camp. Eberhart convinces the
+---
+a_purified_misc_content.txt:
+ ther, Jean and Barbara. Some years later, the two lovers have a falling out and separate; Jean stays with Frederica, while Barbara goes with Seamus.[127]
+12 years ag
+---
+a_purified_misc_content.txt:
+  west, and you will see two towering cliffs, serving as a natural boundary that separates Liyue and Mondstadt, with a narrow passage in between them paved with woode
+---
+a_purified_misc_content.txt:
+ e unity of the region represented by the name "Inazuma" but also hope that each separate island — because it consists of six different islands — is able to bring a d
+---
+a_purified_misc_content.txt:
+ rent Divine Priestess is Sangonomiya Kokomi, and the island has their own army, separate from that of the Shogun's. 
+Prior to the Traveler's arrival in Inazuma, Ei h
+---
+a_purified_misc_content.txt:
+ mance,[3] a Romaritime Flower loyalty and unswerving oaths,[4] a Lumidouce Bell separation and a desire to return.[5] There are alternate meanings for some flowers, 
+---
+a_purified_misc_content.txt:
+ rible calamity caught up with and seized them. Their cruel punishment was to be separated from each other for eternity and to have their memories wiped without a tra
+---
+a_purified_misc_content.txt:
+ pphire-blue homeland, she sang of the homesickness of exile, and she sighed for separation and belonging. In these dreams, the boy became the one who silently listen
+---
+a_purified_misc_content.txt:
+ n gently approaches, the fate of the two youngsters diverges, and they go their separate ways. But the echoes of that ancient story still resound within the forest, 
+---
+a_purified_misc_content.txt:
+ ces of the new light novel "The Saga of Hamavaran," now combined into their own separate volume due to a business model adjustment!
+Foreword
+Thanks to a fruitful new
+---
+a_purified_misc_content.txt:
+ ell had to be broken. However, Phanes, the Primordial One, used the eggshell to separate the "universe" and the "microcosm of the world."
+"Forty Years After the Held
+---
+a_purified_misc_content.txt:
+ g not to laugh. "Firstly, how can time be considered a part of space?"
+"Can you separate yourself from time and exist independently in space alone?"
+"What do you mea
+---
+a_purified_misc_content.txt:
+ he look on Princess Gopatha's face right now..."
+So thought both to themselves, separately but identically, in that brief moment.
+Vol. 3[]
+Amid a sea of stars that s
+---
+a_purified_misc_content.txt:
+ 
+The truth of the world is revealed — and what a terrible joke it is! Even when separated, the two cannot escape the chains of fate.This may be the final volume of "
+---
+a_purified_misc_content.txt:
+ . Due to this, Yae Publishing House would name this book "Volume 0" and sell it separately. Eventually, the original work, the boxed collector's edition, and Volume 
+---
+a_purified_misc_content.txt:
+ f changes in the village, or of a few short verses she wrote him.
+The sustained separation had not diminished his love for her. Instead, if love was a monument, it w
+---
+a_purified_misc_content.txt:
+  was doing... And now I think about it, I fear that the companions we have been separated from along the way will have already fallen victim to his treachery. The ca
+---
+a_purified_misc_content.txt:
+  Finally, a ward must be used to suppress all the filth. This must be performed separately in five different places on Narukami Island.
+The purpose of this minor cle
+---
+a_purified_misc_content.txt:
+ the depths of the mountain, was the greatest threat.
+This chasm was once a pass separating two nations, and it was the site of a monstrous battle in which nearly a m
+---
+a_purified_misc_content.txt:
+ m of wisdom and power was buried by the sands of retribution.
+They say Al-Ahmar separated his mind from his flesh and bone, placing it within the corridors, stairway
+---

@@ -1,2 +1,0 @@
-(this was an output file checking for bad urls when doing the miscellaneous scan)
-(I manually added this note, but seeing an empty file here meant no bad urls tripped the exception block)

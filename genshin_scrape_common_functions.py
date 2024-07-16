@@ -43,5 +43,13 @@ def general_genshin_info_scraper(url):
     else:
         input(f"problem occurred... check link{url}")
 
+# .pop() removes last, sanity check....
+# potato = [1, 2, 3, 4, 5]
+# p1 = potato.pop()
+# print(p1)
+# print(potato)
+# input("pause....")
+
 # example, used for removing spaces and number-only lines from the misc-content scrape:
 # remove_lines_lacking_letters("misc_collection_output.txt", "purified_misc_content.txt")
+remove_lines_lacking_letters("bad_furnishing.txt", "all_furnishings.txt")

@@ -1,0 +1,590 @@
+A synthetic human made by the alchemist Rhinedottir, the mysterious Albedo is the Chief Alchemist and Captain of the Investigation Team of the Knights of Favonius.
+
+
+
+
+
+Newmoon Starlight
+
+
+
+
+
+							Wish
+							
+						
+
+
+
+							In-Game
+							
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Type
+Default
+
+
+Char­ac­ter
+Albedo
+
+
+De­scrip­tion
+Albedo's outfit. The Knights of Favonius alchemist's uniform that Albedo often wears when conducting his experiments.
+
+
+How to Obtain
+Unlocked upon obtaining character
+
+
+Newmoon Starlight is Albedo's Default Character Outfit.
+
+Contents
+
+1 Appearance
+2 Gallery
+
+2.1 In-Game Assets
+2.2 Animations
+2.3 Turnarounds
+
+
+3 Other Languages
+4 Change History
+5 Navigation
+
+
+Appearance[]
+Albedo has pale skin and pale blond hair, pulled back into a half ponytail with braids and reaching his shoulders. He has softer turquoise eyes and a golden star-shaped marking on his throat, resulting from being synthetically produced via alchemy.  Albedo wears an indigo collared shirt, with a long white coat with a black hood on top for insulation from the cold. There are chains on said coat, connected over his hip and ending at the lower back. He has a sash-like piece of leather with silver designs on it, and black shorts. He wears embellished thigh-high boots with silver accents. Albedo wears black gloves till just past the elbows, and a bit of skin peaks out on his arm before his short-sleeved coat covers the rest. Albedo has a Geo Vision right below the collar of his shirt.
+
+Gallery[]
+In-Game Assets[]
+Character IconItem IconParty IconOutfit Preview
+Animations[]
+Hover over previews to view in higher quality.(Preview Preferences)Media:Idle Albedo 1.mp4      Media:Idle Albedo 2.mp4      Media:Talent Menu Albedo.mp4      Media:Weapon Menu Albedo.mp4      Media:Party Setup Albedo.mp4      
+Turnarounds[]
+In-game model turnaround
+Other Languages[]
+
+LanguageOfficial NameLiteral MeaningEnglishNewmoon Starlight—Chinese(Simplified)朔分星芒Shuò fēn xīngmángChinese(Traditional)朔分星芒Shuò fēn xīngmángJapanese新月の星芒Shingetsu no SeibouNewmoon StarlightKorean신월의 별빛Sinwol-ui ByeolbitNewmoon's StarlightSpanishBrillo sideralSidereal GlowFrenchPrisme du NordNorthern PrismRussianЗвёзды и новолуниеZvyozdy i novoluniyeStars and NewmoonThaiผู้รู้ครอบจักรวาลPhu-ru Khrop-chak-kra-wanPerson of Universal KnowledgeVietnameseÁnh Sao Le LóiFaint StarlightGermanSternenlicht bei NeumondStarlight at NewmoonIndonesianNewmoon Starlight—PortuguesePrisma do NorteNorthern PrismTurkishHilal IşığıCrescent LightItalianLuce di luna nuovaNew Moon Light
+Change History[]
+Released in Version 1.2[Create New History]
+Navigation[]
+ Dressing Room
+ Character OutfitsDefault
+
+Alternate
+
+Themed
+
+
+
+ Wind GlidersProgress
+
+Other
+
+
+
+ Echoes
+
+
+
+
+
+
+
+
+
+OverviewLoreVoice-OversOutfitsCompanionGallery
+Albedo — an alchemist based in Mondstadt, in the service of the Knights of Favonius."Genius," "Kreideprinz," or "Captain of the Investigation Team"... Such titles and honors are of no consequence to him when there is so much more research to conduct.The pursuit of fortune and connections cannot hold a candle to his heart's desire — acquiring the limitless, obscure knowledge left behind by previous generations of scholars.—Description from the Official Website[1]
+Contents
+
+1 Personality
+2 Appearance
+3 Official Introduction
+4 Character Stories
+
+4.1 Character Details
+4.2 Character Story 1
+4.3 Character Story 2
+4.4 Character Story 3
+4.5 Character Story 4
+4.6 Character Story 5
+4.7 Albedo's Artwork
+4.8 Vision
+
+
+5 Namecard
+6 Constellation
+7 Quests and Events
+
+7.1 Story Quests
+
+7.1.1 Hangout Events
+
+
+7.2 Events
+7.3 Web Events
+
+
+8 Character Trials
+
+8.1 Events
+8.2 Test Run Events
+
+
+9 Character Mentions
+
+9.1 Character Stories
+9.2 Character Voice-Overs
+
+
+10 Mail
+11 Trivia
+
+11.1 Etymology
+
+
+12 Other Languages
+
+12.1 Character Title: Kreideprinz
+
+
+13 References
+14 Navigation
+
+
+Personality
+A genius known as the Kreideprinz, he is the Chief Alchemist and Captain of the Investigation Team of the Knights of Favonius.—In-game character attributes and profile page text
+Having gained fame for his alchemical talents, Albedo is a reclusive person, spending most of his time in Dragonspine. He isn't fond of most social interactions and thus rarely travels to the city of Mondstadt unless it is to meet up with his fellow alchemists or other acquaintances. Yet he's also shown to at least be fascinated or interested in them in some way, often willingly appearing in events that have some sort of social setting going on and helping out the people around him in any way he can. While he does seem to enjoy company and seeing how people interact in a social setting, he finds relationships stressful and tiresome because of the amount of effort needed to maintain them. This doesn't mean he dislikes the relationships he has with others, he simply struggles with them and can get tired out from trying to keep track of everything to keep the relationship from falling apart. He prefers being around children, especially Klee, seeing her as a younger sister. Klee in turn sees him as an older brother figure.[2]
+Fueled by the feeling of enlightenment, he researches about the things that pique his interest, and once the feeling is gone, either by uncovering its truth or otherwise, he loses all interest, left with a bittersweet sensation in his mind. Along with his alchemical genius, Albedo is also a respectable artist. Having initially learned the talent as a way to help with his experiments, it is now a form of relaxation for him.[1] He is Xingqiu's illustrator and regards him as a good author.[3]
+As much of a positive demeanor he gives off, the people of Mondstadt do not know anything about his personal life and he is particularly secretive about it towards them. To the Traveler, he does not mind sharing most of his secrets with them due to feeling a kinship of sorts as they are both not of Teyvat, him being an artificial lifeform and the Traveler a visitor from afar. He considers himself to be dangerous due to his knowledge on the Art of Khemia, something which Venti and Dainsleif are well too aware of.
+
+Appearance
+See also: Newmoon Starlight
+Albedo uses the medium male model. He has bright teal eyes with three dots in each iris, pale skin, and pale blond hair reaching below his shoulders. Due to being a synthetic human, a gold diamond marking can be found on his neck.
+
+Official Introduction
+The purest dust that gives birth to human life.
+Albedo is so smart and gentle. He's super nice to me too! He always plays with the weirdest things, so I love following him around~!—Klee
+Despite his great achievements in the field of alchemy, he does not speak of the nature of things too hastily.
+Wandering among ordinary folk oblivious to various truths of this world, he treats them with nothing but sincerity and kindness.
+Polite and graceful, he seems withdrawn on the surface, but never hesitates to lend a helping hand. No matter if you go way back, or he has just befriended you, he can always find time to draw an exquisite portrait for a friend.
+The Chief Alchemist of the Knights of Favonius, Albedo, is a truly remarkable young man. All admire his scholarly attainments — citizens of Mondstadt and members of the Knights of Favonius alike.
+"Genius," "Kreideprinz," or "Captain of the Investigation Team"... Such titles and honors are of no consequence to him when there is so much more research to conduct.
+The pursuit of fortune and connections cannot hold a candle to his heart's desire — acquiring the limitless, obscure knowledge left behind by previous generations of scholars.
+
+Character Stories
+Character Details
+Alchemy is an ancient art, and many of its secrets have been lost to history. The few commonly known alchemy techniques of today are but enough to put some broken odds and ends together, saving you the money you would have otherwise spent on glue."Nay, alchemy is not so ignoble an art!" Or so most alchemists would protest.But as far as the average citizen of Mondstadt was concerned, that was alchemy.At least until the day Albedo suddenly appeared and decided to stay in Mondstadt.This young man displayed the true prowess of alchemy to all, bringing with him a massive corpus of wisdom that even the Sumeru Akademiya did not possess. "The universe is heaven reversed, and the earth is a dream lost to time. This is dust, the most basic form of complex life."As if to provide evidence for this claim, Albedo lifted the burnt ash of the flower that once grew atop a Dendro Slime's head.Seconds later, a Cecilia sprouted forth from the ash in his hand."And this... is new birth."Character Story 1 Friendship Lv. 2
+Albedo has a very important job within the Knights of Favonius but does not often appear in public.Still, he does not have the strange and eccentric temper that people tend to assume of academics. In fact, he is earnest in all his dealings.He is, however, of the persuasion that it requires more energy to maintain relationships established on excessive enthusiasm.As a result, Albedo's equivalent of friendship involves maintaining an appropriate degree of distance.Whether shutting himself away to work or traveling and gathering materials, no one in Mondstadt knows how to find him.Albedo's tendency to avoid social interactions does not make him a cold-hearted person.He is sincere and contented when instructing his assistants, Timaeus and Sucrose.He finds pleasure in giving his sketches to the citizens of Mondstadt.Yet he cannot help but feel sincere disappointment that Lisa, for all her great talents, has chosen to remain a mere Librarian.Character Story 2 Friendship Lv. 3
+"Albedo only got into Mondstadt because of his master's recommendation letter."On some level, this statement is true. Nevertheless, Mondstadt's gates are ever open to all, and a recommendation letter is not strictly necessary.Indeed, it could be argued that Albedo's life would have been far more comfortable without the letter.This is because the recipient of the letter was the famed travel writer Alice, an old friend of Albedo's master, Rhinedottir.After receiving the letter, Alice considered its requests."So Rhine said that you'll need a laboratory... And not one of a size that a civilian could build, either. Hmm... I know!"And just like that, she threw him into the Knights of Favonius.The work of the Knights is actually quite easy for Albedo — requiring only five percent of his energy.Albedo had imagined that the rest of his energy could be spent on experiments, with the Knights' full range of apparatus at his disposal.And yet...Alice had a daughter, named Klee.Yes, "that" Klee."We'll be a family from now on, treat her like a real younger sister!"From that day forth, remedying Klee's disasters would come to take up most of Albedo's remaining energy...Character Story 3 Friendship Lv. 4
+Albedo has no memory of any blood relations. From birth, he was already adventuring deep within domains with his master.Of course, Miss Alice, the Knights of Favonius, and that traveler who had a sense of the stellar depths about them... They are all important. And yet his master is unquestionably the most special to him.For Albedo, she is his only kin.She was a cold and strict woman who raised him and taught him the secrets of alchemy."The universe is the dark essence of the true starry sky, and the earth is the accumulated memories of time and lives.The chalk: that is you. The earth is where alchemy gets its name, and is the basis of all life. And this..."She demonstrated her technique before him as a huge life form burst from its culture tank in a shower of shattered fragments."...This is new birth."Character Story 4 Friendship Lv. 5
+Albedo once led a simple and content existence.There was no need for him to contemplate anything. Life was uneventful, its meaning consisted of nothing more than accompanying his teacher, doing what she asked of him, and meeting her expectations.But one day, deep in the heart of a dungeon, master and apprentice discovered an artifact known as The Heart of Naberius.And with that, his master disappeared, leaving naught but a note, a recommendation letter, and a classical text behind.Upon the note was written: "Albedo, go to Mondstadt. Find my old friend, Alice, and give her the recommendation letter. Then, complete your final assignment."The classical text was one of the last extant manuscripts of the Opus Magnum from his master's collection.If one were to push the definition a little, she had left him another gift — the title of Kreideprinz, and with it, a written acknowledgment that she had nothing further to teach him.In the past, Albedo's assignments had always been very difficult.He had always believed wholeheartedly that his master would make good on her threat to leave him, should he fail.But this assignment she had left to him was far too hard, far beyond the limit of his abilities.Did this mean, then, that he was fated to never complete it, and thus never see his master again?"Your final assignment: show me the truth and the meaning of this world."Character Story 5 Friendship Lv. 6
+The alchemy that Albedo commands is wholly different from any of the arts practiced in the Seven Nations of Teyvat.Its lineage can be traced back to the nation of Khaenri'ah.Khaenri'ah was an underground realm, with precious few natural fauna. As such, its alchemy focused more heavily on the creation of life.This art of creation was known as "The Art of Khemia."Albedo had learned of this in his youth from reading his master's notes. The next stage after "soil" is "chalk," which was also something his master had mentioned."Chalk is the spotless soil, and was used to make primordial man."Now, Albedo understands alchemy in far greater depth than he did in the beginning, and his knowledge on the subject is far more comprehensive."From soil was birthed chalk."The profundity of this statement is well understood by Albedo now.Such ineffable secrets are bound up with his fond memories of his master.She was not his birth mother, but there is no doubt that his life stems from her."I hope this isn't just wishful thinking, but... when parents speak to their children about 'the meaning of this world'... surely they just mean the pursuit of a happy life?"From time to time, Albedo finds himself musing on this sentiment.Albedo's Artwork Friendship Lv. 4
+Albedo's interest in drawing and painting began back in the days of traveling with his master.At first, he would simply illustrate his notes with basic sketches. But he soon noticed that the process of rendering things in great detail helped him to intimately understand their physical makeup, which was of great utility to his alchemical studies.Additionally, it also allowed him to enter into a pleasant state of clarity, in which he needed only to focus on observation and creating his artwork, and nothing else.Eventually, Albedo became a master artist without ever having received formal tuition.When strolling through Mondstadt, he enjoys sketching and painting all manner of living things, but particularly people in moments of joy.Sometimes, he even gifts his artwork to his unsuspecting models, believing that when a work of art captures a transient moment of enjoyment, it is something worth treasuring.Albedo continued to refine his skills in this manner, going from strength to strength — until one day, when he was taken aback by illustrations from Inazuma.How was it that drawings of such generality could possess such narrative power?Amazed, he decided to give it a go himself....Eventually, after collaborating with a certain novelist by the name of Xingqiu, "A Legend of Sword" was printed and published.Unfortunately, it received lukewarm reviews, being lambasted as "a dictionary with divine illustrations."Vision Friendship Lv. 6
+Gaining a Vision came as no great surprise to Albedo.When he received it, he gave it a single glance before continuing to engross himself in his work.He barely felt any wave of emotion at all, as if this was something to be taken for granted.As far as he is concerned, his Vision is merely a tool with which he can more conveniently conduct his research.What truly sparks joy within him is turning the unknown into the known.One day, he will understand all there is to know about this world — and Visions are no exception.
+Namecard
+
+
+Albedo: Sun Blossom
+
+
+
+
+Obtain:Reward for reaching Friendship Level 10 with AlbedoDescription:Allow me to bear witness to this miracle.
+
+Constellation
+Princeps CretaceusStory Chapter:Princeps CretaceusMeaning:Chalk Prince 
+Quests and Events
+Story QuestsPrinceps Cretaceus Chapter (Albedo)Act I: Traveler Observation ReportThe Genius Researcher and the Seed of Another WorldThe First Experiment: ElementsThe Second Experiment: The WorldThe Third Experiment: LifeThe Final Experiment: Withering GloryHangout EventsKaeyaAct I: Shenanigans and Sweet WineAn Ordinary Day for the Knights of FavoniusEventsThe Chalk Prince and the DragonAct I: Festering DesireAct II: Archon's RivalAct III: Raiders Amidst Snow MistAct IV: Uninvited GuestsAct V: AfterwordInvitation of WindblumePart III: Realm of Fog and WindPart IV: Dream of Wind and FlowersMidsummer Island AdventurePart III: Dodo-King of the Sea: Lying in WaitPart IV: The Final Riddle: A Secret UncoveredShadows Amidst SnowstormsAct I: The Snowy PastAct II: The Shadows DeepenAct III: A Secret Born From AshesHues of the Violet GardenFestival DeedsPart I: A Story for YouTrue Tales of the Violet GardenAct I: The Strange Tale of Suikou's Tipsy TinctureThe Strange Tale of Suikou's Tipsy TinctureAct II: What the Blue Flowers Left BehindWhat the Blue Flowers Left BehindAct III: A New Painting in Pale ScarletA New Painting in Pale ScarletAct IV: The Palace, Dyed in BlackThe Palace, Dyed in BlackThe Five Colors' True FormOf Ballads and BrewsFavonian Goodies and BuddiesWindblume's BreathWindblume FestivalPart I: A Gathering of OutlandersPart II: A Riddle Amidst the CrowdsPart III: Joy Above the CloudsFeline Fortress FurrdysseySir Pouncelot Joins the Lot!Web EventsSide by Side We VentureAn Unforgettable JourneyJourney With a Gentle BreezeCanvas of Starlight MemoriesDiscover TeyvatDiscover Traces, Explore Nature
+Character Trials
+EventsBattlefront: Misty DungeonMisty Dungeon: Realm of LightVibro-Crystal ResearchMisty Dungeon: Realm of SandFayz Trials: HypothesisThe Great Fayz Reaction DebateTest Run EventsAlbedo, Fischl, Sucrose, Bennett — 2020-12-23Albedo, Eula, Bennett, Rosaria — 2021-11-24Nilou, Albedo, Beidou — 2022-10-14
+Character Mentions
+Character StoriesCharacterStoriesKleeAs Albedo:Character Story 5As "That boy in white":Character Story 1MikaMultipurpose Front-Line Surveying DeviceMonaCharacter Story 4SucroseCharacter DetailsCharacter Story 4Character Voice-OversCharacterVoice-OversAmberAbout Albedo Media:VO_Amber About Albedo.ogg Media:VO ZH_Amber About Albedo.ogg Media:VO JA_Amber About Albedo.ogg Media:VO KO_Amber About Albedo.ogg Albedo spends most of his time in his workshop, tinkering away with all of his awesome stuff. But, when you see him in person, you can never quite tell what he is thinking, not a clue at all.DionaAbout Albedo Media:VO_Diona About Albedo.ogg Media:VO ZH_Diona About Albedo.ogg Media:VO JA_Diona About Albedo.ogg Media:VO KO_Diona About Albedo.ogg Alchemy genius? Hmm... I wonder if he knows of a way to finally help me make a drink that people don't like?JeanAbout Albedo Media:VO_Jean About Albedo.ogg Media:VO ZH_Jean About Albedo.ogg Media:VO JA_Jean About Albedo.ogg Media:VO KO_Jean About Albedo.ogg Sometimes I feel that terms like "genius" were originally created for Albedo.About Sucrose Media:VO_Jean About Sucrose.ogg Media:VO ZH_Jean About Sucrose.ogg Media:VO JA_Jean About Sucrose.ogg Media:VO KO_Jean About Sucrose.ogg Sucrose is also a rare talent in the field of alchemy. Under Albedo's mentorship, she is sure to flourish. I am sure her future will be bright. The only thing is... Ahem, I was momentarily lost in thought. It is nothing. Nothing bad, anyway.KaeyaAbout Albedo Media:VO_Kaeya About Albedo.ogg Media:VO ZH_Kaeya About Albedo.ogg Media:VO JA_Kaeya About Albedo.ogg Media:VO KO_Kaeya About Albedo.ogg Albedo, eh? Calm, collected, and incredibly talented. He's the type everybody likes, some even more so than others. What, you into him as well?KleeInteresting Things Media:VO_Klee Interesting Things.ogg Media:VO ZH_Klee Interesting Things.ogg Media:VO JA_Klee Interesting Things.ogg Media:VO KO_Klee Interesting Things.ogg Every lizard has a different pattern on his back, and some of them you can use their dried-out tails to make gunpowder with. I know because Albedo told me so.About Albedo Media:VO_Klee About Albedo.ogg Media:VO ZH_Klee About Albedo.ogg Media:VO JA_Klee About Albedo.ogg Media:VO KO_Klee About Albedo.ogg Me and Albedo have a secret code! Whenever he puts a sign on his workshop door saying "Experiment in Progress," that's code for "Come back later, Klee." Albedo's really nice and he's so patient with me, so I don't mind waiting until he's finished with his work.LisaAbout Albedo Media:VO_Lisa About Albedo.ogg Media:VO ZH_Lisa About Albedo.ogg Media:VO JA_Lisa About Albedo.ogg Media:VO KO_Lisa About Albedo.ogg Albedo is quite the alchemist. Just say the word and he'll come up with a good solution. He's easy on the eyes too, just like you.MikaAbout Albedo Media:VO_Mika About Albedo.ogg Media:VO ZH_Mika About Albedo.ogg Media:VO JA_Mika About Albedo.ogg Media:VO KO_Mika About Albedo.ogg The Chief Alchemist has been very kind to me. He helped me make all the survey equipment I use in the field... I even have some pens he made that will work even when I'm hanging upside down from a tree. But it seems that making artistic sketches is quite different from making maps. I've tried to make some sketches of a target area as supplemental intel before, and word has it that Captain Albedo went silent for a long time when he saw them...MonaAbout Albedo Media:VO_Mona About Albedo.ogg Media:VO ZH_Mona About Albedo.ogg Media:VO JA_Mona About Albedo.ogg Media:VO KO_Mona About Albedo.ogg Albedo? Ah... I envy his ability to solely focus on his research without getting bogged down in mundane worldly affairs. What a wonderful life! If that batty old lady hadn't had one too many screws loose, perhaps that's the life I'd be living by now myself...About Klee Media:VO_Mona About Klee.ogg Media:VO ZH_Mona About Klee.ogg Media:VO JA_Mona About Klee.ogg Media:VO KO_Mona About Klee.ogg Ah yes, Alice's daughter. She's in the custody of the Knights of Favonius, and Albedo looks after her too. She's blessed to have Trifolium as her constellation, which represents good luck. I'm slightly envious... *smirk*Although, if I'd been blessed with good luck, I suppose I never would have had the great honor of running into that old woman, would I...RosariaAbout Albedo Media:VO_Rosaria About Albedo.ogg Media:VO ZH_Rosaria About Albedo.ogg Media:VO JA_Rosaria About Albedo.ogg Media:VO KO_Rosaria About Albedo.ogg He's like an oil painting you find hanging on the wall in some ancient hall, profound and mysterious... hard to see through. But what can I say, I find people with stories... interesting.SucroseAbout Jean Media:VO_Sucrose About Jean.ogg Media:VO ZH_Sucrose About Jean.ogg Media:VO JA_Sucrose About Jean.ogg Media:VO KO_Sucrose About Jean.ogg I don't dare talk to Master Jean that much, because she's so strict. I know she's a good person and all — I know that, I do — but... I still find her scary. I don't tend to bother her, and even when I have to... I ask Albedo to go on my behalf.About Albedo: Artistry Media:VO_Sucrose About Albedo - Artistry.ogg Media:VO ZH_Sucrose About Albedo - Artistry.ogg Media:VO JA_Sucrose About Albedo - Artistry.ogg Media:VO KO_Sucrose About Albedo - Artistry.ogg As his assistant I learn so much each and every day. What's key is not his existing knowledge, but his talented way of thinking. No matter how complex the task at hand, his way of thinking ensures he gets to the bottom of it, and is able to explain it thoroughly. His methodologies are amazing... to me, it's where alchemy meets art.About Albedo: Talent Media:VO_Sucrose About Albedo - Talent.ogg Media:VO ZH_Sucrose About Albedo - Talent.ogg Media:VO JA_Sucrose About Albedo - Talent.ogg Media:VO KO_Sucrose About Albedo - Talent.ogg Talent? Let's hypothesize that he and I were to perform the same research — I'd still spend my whole life playing catch up. But, my studying bio-alchemy has nothing to do with evading his line of research, we just happen to have different interests and dreams — nothing more.TravelerAbout Onikabuto Media:VO_Aether_About Onikabuto.ogg Media:VO ZH_Aether_About Onikabuto.ogg Media:VO JA_Aether_About Onikabuto.ogg Media:VO KO_Aether_About Onikabuto.ogg Media:VO_Lumine_About Onikabuto.ogg Media:VO ZH_Lumine_About Onikabuto.ogg Media:VO JA_Lumine_About Onikabuto.ogg Media:VO KO_Lumine_About Onikabuto.ogg Paimon: Those Onikabuto bugs look so scary! The patterns on their backs are terrifying!(Traveler): Do you mean those demonic patterns? It's because they don't like to fight, so they purposely evolved their patterns in a way that scares their enemies away.Paimon: That's really smart. We should try to learn a thing or two from them!Paimon: We could borrow Xiao's mask. If a hilichurl saw you wearing it, do you think they'd run in fear?(Traveler): Uh... I don't think Xiao would agree to that...Paimon: Yeah... Hmm, how about we ask Sayu to steal his mask for us?Paimon: She knows ninjutsu that allows her to vanish into thin air. She can steal it for sure! Problem solved!Paimon: Uh... If we are afraid of Xiao evening the score with us, how about we steal Childe's mask? We've kicked his butt many times before!(Traveler): I don't think stealing other people's belongings is a good idea. Also, what if Sayu doesn't agree to all of this?Paimon: Th—Then let's... Let's visit Albedo first.Paimon: If Albedo can develop a growth serum for Sayu, she'll help us for sure!(Traveler): Brilliant, now we just need you to come up with a way to make Albedo help us.Paimon: Ugh! Paimon's head is going to explode. Let's stick to festival masks for now.About Sakura Blooms Media:VO_Aether_About Sakura Blooms.ogg Media:VO ZH_Aether_About Sakura Blooms.ogg Media:VO JA_Aether_About Sakura Blooms.ogg Media:VO KO_Aether_About Sakura Blooms.ogg Media:VO_Lumine_About Sakura Blooms.ogg Media:VO ZH_Lumine_About Sakura Blooms.ogg Media:VO JA_Lumine_About Sakura Blooms.ogg Media:VO KO_Lumine_About Sakura Blooms.ogg Paimon: The blossoms drifting down from the Sacred Sakura are so dazzling!Paimon: Paimon heard that those flower petals can stay suspended in the air for so long because of being infused with Electro.(Traveler): Is it the same principle behind your levitation abilities?Paimon: Uh... Ah...That's because...(Traveler): You do know what allows you to fly, don't you, Paimon?Paimon: Paimon can fly because of... mysterious powers, obviously!(Traveler): Got it. Seems like you have no idea.(Traveler): How about we let Albedo do some research? He's good at cracking such mysteries...Paimon: Please don't!VentiAbout Albedo Media:VO_Venti About Albedo.ogg Media:VO ZH_Venti About Albedo.ogg Media:VO JA_Venti About Albedo.ogg Media:VO KO_Venti About Albedo.ogg How do you explain white chalk in black soil, or the earth's dense crust amidst the emptiness of space? Same reason the purest soil gave birth to human life... It's an ancient power with unmistakable properties. Trying to harness it is dangerous indeed, I can't imagine what would happen if someone lost control of it in the city... Ah, never mind! What goes on within Mondstadt's walls is up to Mondstadt's people to deal with!XingqiuAbout Albedo Media:VO_Xingqiu About Albedo.ogg Media:VO ZH_Xingqiu About Albedo.ogg Media:VO JA_Xingqiu About Albedo.ogg Media:VO KO_Xingqiu About Albedo.ogg I've thought of all the illustrations I want for each of the major event in the next three volumes! I should write my thoughts down before I forget them, and send them to Mr. Kreideprinz...
+Mail
+To... (2021-09-13)Paintings That Require Your Opinion... (2022-09-13)Old Paintings... (2023-09-13)
+Trivia
+Albedo is a synthetic human created from alchemy by his master, Rhinedottir (also known as "Gold"). While he debates whether he considers her his "mother" in Character Story 5, by the events of Shadows Amidst Snowstorms, he openly calls her his mother to the Traveler. On Rhinedottir's part, the description for Concealed Talon implies that she considers him her greatest creation. Later in the cinematic sequence in the quest Joy Above the Clouds, she describes him as her child and muses that this makes her a mother.
+Albedo is the illustrator for Xingqiu's novel, A Legend of Sword.[4] He enjoys reading the novels himself and rejected the Yae Publishing House's offers to have him change series for greater royalties.[3]
+The fact that Albedo was an artificial human who came from Khaenri'ah was heavily suggested before it was directly confirmed in Shadows Amidst Snowstorms:
+In his Character Stories, Albedo deduced the circumstances surrounding his creation through Rhinedottir's notes. Albedo's Constellation takes the shape of a fetus in a bottle, further hinting at the artificial nature of his creation.
+One of Albedo's Talents is named Homuncular Nature. In some branches of alchemy, the creation of homunculi is seen as an alchemist's end goal.[5] During Shadows Amidst Snowstorms, Albedo is revealed to be the successful product of Rhinedottir's Primordial Human Project.[6]
+Albedo practices the Art of Khemia, a form of alchemy that was developed and practiced Khaenri'ah, and also played a major role in causing Khaenri'ah's downfall during the cataclysm 500 years ago. The Art of Khemia was unheard of in Teyvat before his arrival, while Venti — the Archon Barbatos who was present for the cataclysm — states it has "unmistakable properties."[7] It could thus be deduced that Rhinedottir was from Khaenri'ah and created Albedo there.
+The Khaenri'ah Chapter's featured character, Dainsleif, has the following line from a "self-proclaimed prophet" in his Official Introduction: "Chalk pursues gold, in this time inopportune, the eclipse is swallowed by the crimson moon."[8] "Chalk pursues gold" is a reference to the four stages in creating the Opus Magnum, and may also be an allusion to Albedo's pursuit of Rhinedottir.
+Albedo's name is derived from the second step in creating the Opus Magnum and he is known as the Kreideprinz (Chalk Prince). Rhinedottir is better known by her infamous alias "Gold," the alchemist from Khaenri'ah attributed with creating the monsters that wreaked havoc on Teyvat during the cataclysm.
+Rhinedottir's final assignment for Albedo, to discover the "truth and meaning of this world," is similar to the Traveler's Sibling's remark to the Traveler that they will discover the "true nature of this world" after they finish their journey.[9] Albedo seeks to reunite with Rhinedottir by completing his assignment, much like how the Traveler hopes to reunite with their sibling at the end of their journey.
+Albedo has a four-pointed star on his neck. Having a four-pointed star as a birthmark is currently a trait only shared by other people from Khaenri'ah: Kaeya and Dainsleif's pupils take that shape. It was later revealed that Albedo's star is a "birthmark" left where Rhinedottir infused him with his life force.[6]
+Albedo is one of the few currently playable characters who acknowledges (or even seems aware) that the Traveler is from another world. He deduced this based on the Traveler's ability to control multiple elements without a Vision.
+In Version 1.2, players noticed that Albedo didn't breathe like all the other characters did in Dragonspine. This turned out to be an error and was fixed in Version 1.3.
+The Version 1.4 event Invitation of Windblume reveals that Albedo plays the lyre by ear and is apparently very good at it despite a lack of formal education in playing instruments.[10]
+Albedo refers to Alice as "Aunt Alice," and considers her daughter Klee to be his younger sister.
+Albedo is known by these aliases or titles:
+The Chalk Prince
+Captain of the Investigation Team
+Cretaceus[11]
+Subject One
+Calx (pen name in Inazuma)
+In his original character introduction illustration, Albedo is seen armed with a Sacrificial Sword. In-game, as of Shadows Amidst Snowstorms, he is seen wielding his signature Cinnabar Spindle in all cutscenes.
+As a Trial Character:
+Albedo is one of three playable characters who wields a Flagship Event weapon in at least one of his Character Trial iterations (Festering Desire prior to Version 2.3, Cinnabar Spindle from 2.3 onwards), with the other characters with this distinction being Xianyun and Chiori.
+Excluding Aloy (who is a crossover character lacking Character Trials) and the Traveler, he is also one of the only two 5-star characters who has never wielded a 5-star weapon in any of his Character Trial iterations to date. The other 5-star character with this distinction is Qiqi.
+Albedo is mentioned in the descriptions of the following 7 Furnishings: "A Portrait of Paimon, the Greatest Companion" "The Five Kasen" Nishiki-e Alchemic Component: Burden of Dust Dodoco's Beach Nap Dodoco's Summertime Fir Case Shelf Combination Special Jumpy Dumpty Dodoco
+Etymology
+The word albēdō means "whiteness" in Latin. The term is used in alchemy to refer to the second phase in the creation of a Philosopher's Stone (the Opus Magnum) from prima materia.
+His title, Kreideprinz, means "Chalk Prince" in German.
+His constellation, Princeps Cretaceus, is Latin for "Chalk Prince."
+Albedo at times mentions the Hadean (Chinese: 冥古 Mínggǔ, lit. "Dark Ancient") and the Phanerozoic (Chinese: 显生 Xiǎnshēng, lit. "Visible Life"). The terms are used in Tide of Hadean and Opening of Phanerozoic, as well as the Chinese, Japanese, and Korean voice-overs of his Elemental Burst.
+They are a reference to the geologic time scale of the real world. The Hadean refers to the eon from 4.6 billion years ago to 4 billion years ago, while the Phanerozoic spans from 541 million years ago to the present time. The latter eon includes the period of the Cretaceous (from Latin creta, "chalk"), which lasted from around 145 to 66 million years ago.
+They may be used here as their literal senses. Namely, Albedo is perhaps saying "the primordial dark ancient era was followed by the era in which life has emerged, including me, the Chalk Prince, an artificial life created by alchemy."
+Other Languages
+Character Title: Kreideprinz
+
+LanguageOfficial NameLiteral MeaningEnglishKreideprinzGerman: Chalk PrinceChinese(Simplified)白垩之子Bái'è zhī ZǐChild of ChalkChinese(Traditional)白堊之子Bái'è zhī ZǐJapanese白亜の申し子Haku'a no MoushigoGranted Child of Chalk[• 1]Korean백악백악白堊의 아이Baegak-ui AiChild of ChalkSpanishEl Príncipe de la Roca CalizaThe Prince of the Chalk Rock[• 2]FrenchKreideprinz—RussianПринц мелаPrints melaPrince of ChalkThaiองค์ชายชอล์กขาวOng Chai Chok KhaoWhite Chalk PrinceVietnameseKreideprinz—GermanKreideprinz—IndonesianKreideprinz—PortuguesePríncipe do GizPrince of the ChalkTurkishKreideprinz—ItalianKreideprinz—
+↑ Japanese: A "granted child" (Japanese: 申し子 moushi-go) is a child who was born in response to a prayer.
+
+↑ Spanish: Caliza commonly refers to limestone, but here it likely refers to the chalk form of limestone.
+
+
+References
+
+↑ 1.0 1.1 Official Genshin Impact Website: Albedo
+
+↑ Klee's Voice-Over: About Albedo
+
+↑ 3.0 3.1 Albedo's Voice-Over: About Xingqiu
+
+↑ Xingqiu's Voice-Over: About Albedo
+
+↑ Wikipedia: Homunculus § Alchemy
+
+↑ 6.0 6.1 Event Shadows Amidst Snowstorms Quest: Act II: The Shadows Deepen
+
+↑ Venti's Voice-Over: About Albedo
+
+↑ HoYoLAB: "Bough Keeper" — Dainsleif
+
+↑ Archon Quest, Chapter I, Act IV - We Will Be Reunited, Part 4: A Soul Set Apart
+
+↑ Event Invitation of Windblume, Festive Challenge: Frost Parable - Windblume Laureate
+
+↑ Character and Weapon Enhancement Material: Concealed Talon
+
+
+Navigation
+  Characters  (Lore)AnotherWorld
+
+Mondstadt
+
+Liyue
+
+Inazuma
+
+Sumeru
+
+Fontaine
+
+Snezhnaya
+
+
+Upcoming Characters announced by HoYoverse.
+
+
+
+
+
+
+
+OverviewLoreVoice-OversOutfitsCompanionGallery
+EnglishChineseJapaneseKorean
+Contents
+
+1 Story
+2 Combat
+3 Trivia
+4 Navigation
+
+
+Story
+
+Title and RequirementsDetails
+HelloHelloMedia:VO_Albedo Hello.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Albedo_Hello.ogg I am Albedo, Chief Alchemist of the Knights of Favonius. You carry the aura of the stars, interesting... I would like to study you, if you do not mind. I'm certain we will have many opportunities to be alone in the future.
+Chat: Still LifeChat: Still LifeMedia:VO_Albedo Chat - Still Life.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Albedo_Chat_-_Still_Life.ogg What a view... How about a quick break so I can sketch this beautiful scenery?
+Chat: InvestigationChat: InvestigationMedia:VO_Albedo Chat - Investigation.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Albedo_Chat_-_Investigation.ogg "The truth of this world"... *sigh* What could it be?
+Chat: ReminiscingChat: ReminiscingMedia:VO_Albedo Chat - Reminiscing.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Albedo_Chat_-_Reminiscing.ogg Going out into the world and investigating, turning the "unknown" into the "known." ...Ahhh, I missed this feeling.
+When It RainsWhen It RainsMedia:VO_Albedo When It Rains.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Albedo_When_It_Rains.ogg The soil is moist, ideal for collecting the roots of Boom Blossoms. No please, allow me to handle this.
+When It SnowsWhen It SnowsMedia:VO_Albedo When It Snows.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Albedo_When_It_Snows.ogg Master...
+When the Sun Is OutWhen the Sun Is OutMedia:VO_Albedo When the Sun Is Out.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Albedo_When_the_Sun_Is_Out.ogg Ample light... active biological organisms... Yes, this is a good place to sketch.
+Good MorningGood MorningMedia:VO_Albedo Good Morning.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Albedo_Good_Morning.ogg Good morning. Are we going to search for ancient relics today?
+Good AfternoonGood AfternoonMedia:VO_Albedo Good Afternoon.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Albedo_Good_Afternoon.ogg Good afternoon. I heard your footsteps. My, it certainly is lively outside of the workshop.
+Good EveningGood EveningMedia:VO_Albedo Good Evening.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Albedo_Good_Evening.ogg *sigh* It's gotten quiet outside...
+Good NightGood NightMedia:VO_Albedo Good Night.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Albedo_Good_Night.ogg Good night, you go ahead and rest. I will just finish one last experiment before bed... If you are interested in the results, I can discuss them with you tomorrow.
+About Albedo: GeniusAbout Albedo: GeniusMedia:VO_Albedo About Albedo - Genius.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Albedo_About_Albedo_-_Genius.ogg Genius? ...A number of people call me that. But I don't think I'm any "genius."
+About Albedo: SocializingAbout Albedo: SocializingMedia:VO_Albedo About Albedo - Socializing.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Albedo_About_Albedo_-_Socializing.ogg Relationships are... quite troublesome. Once you establish a relation with someone, you must continue to maintain it; if you lose contact, you must reestablish the relation. This taxing cycle requires a lot of time...
+About Us: ExperimentsAbout Us: ExperimentsMedia:VO_Albedo About Us - Experiments.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Albedo_About_Us_-_Experiments.ogg You... want to accompany me while I experiment? I'm honored.Oh, don't be nervous. My experiments may be dangerous, but no one gets hurt... most of the time.
+About Us: Assistant Friendship Lv. 6About Us: Assistant Friendship Lv. 6Media:VO_Albedo About Us - Assistant.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Albedo_About_Us_-_Assistant.ogg Would you oblige me by serving as my assistant? After observing so many experiments, you surely know a good deal about alchemy by now. Relax, we will work together. I don't think you will have any problems. I have faith in my ability to instruct you, and even more faith in your exceptional talents.
+About the Vision Friendship Lv. 4About the Vision Friendship Lv. 4Media:VO_Albedo About the Vision.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Albedo_About_the_Vision.ogg My Vision? Ah, that's nothing more than a tool to aid in my experiments, no different from a beaker or crucible. The one thing about it that really intrigues me is the principle behind how it works... One day, I will uncover its secrets, it's only a matter of time.
+Something to Share Friendship Lv. 4Something to Share Friendship Lv. 4Media:VO_Albedo Something to Share.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Albedo_Something_to_Share.ogg There's something I've always wanted to ask you, but feared rejection and disappointment...Eh-hem... I am very interested in your little floating companion. May I borrow her to investigate for a short while?
+Interesting ThingsInteresting ThingsMedia:VO_Albedo Interesting Things.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Albedo_Interesting_Things.ogg You would like to know more about petrified trees? Erm... Actually, the petrified trees you have come across in domains aren't that ancient. Truly ancient trees usually grow to around one or two miles in height. Oh, and there's a kind of large spider that lives around their roots — if you tie one up in cape jasmine and lemongrass and sprinkle on some cardamom, smoke it for a few hours — you get a fragrant taste that's simply... unforgettable.
+About Family Friendship Lv. 6About Family Friendship Lv. 6Media:VO_Albedo About Family.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Albedo_About_Family.ogg Family? Although Alice has always asked me to call her mother.... when I think of the idea of "family," my master comes to mind first. My earliest memories in life are of going on adventures with her. She taught me the art of alchemy and much knowledge about the world. Perhaps... even the words "family" and "master" are incapable of fully expressing her meaning to me.
+About Sucrose: Direction Friendship Lv. 4About Sucrose: Direction Friendship Lv. 4Media:VO_Albedo About Sucrose - Direction.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Albedo_About_Sucrose_-_Direction.ogg Sucrose? I think I more or less understand why she is so dedicated to her research in bio-alchemy... Either way, I'm happy to see her succeed more and more in her endeavors.
+About Sucrose: Habits Friendship Lv. 5About Sucrose: Habits Friendship Lv. 5Media:VO_Albedo About Sucrose - Habits.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Albedo_About_Sucrose_-_Habits.ogg Working with Sucrose on alchemy research is quite pleasant, but she has some... stubborn qualities in regards to certain aspects unrelated to research. For example, I have told her numerous times to just call me "Albedo" since we are hardly generations apart, but she insists on addressing me in an excessively formal manner. *sigh* ...Whatever she prefers, I guess.
+About Lisa Friendship Lv. 4About Lisa Friendship Lv. 4Media:VO_Albedo About Lisa.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Albedo_About_Lisa.ogg Lisa? I always am impressed by the valuable perspectives she brings to discussions. But is a person with her talents satisfied with such a basic occupation as librarian? There must be some hidden reason for this.
+About Klee Friendship Lv. 4About Klee Friendship Lv. 4Media:VO_Albedo About Klee.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Albedo_About_Klee.ogg Indeed, I view Klee as my younger sister. Whenever she gets herself into some explosive sort of trouble, I can only console myself with the fact that her current destructiveness is nothing compared to that of Miss Alice.
+About Jean Friendship Lv. 4About Jean Friendship Lv. 4Media:VO_Albedo About Jean.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Albedo_About_Jean.ogg Jean? She has served exceptionally well as Acting Grand Master, one can even say she is more reliable than Grand Master Varka. Perhaps in our hearts, we all eagerly await the day she can become the official Grand Master herself.
+About Xingqiu Friendship Lv. 4About Xingqiu Friendship Lv. 4Media:VO_Albedo About Xingqiu.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Albedo_About_Xingqiu.ogg Oh, Xingqiu? I find his written works quite interesting. The Yae Publishing House in Inazuma has been asking that I cooperate with a different author for greater royalties. Hmph, do I seem the type to be swayed by a few extra Mora?
+About Barbara Friendship Lv. 4About Barbara Friendship Lv. 4Media:VO_Albedo About Barbara.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Albedo_About_Barbara.ogg Barbara? She's a very earnest Deaconess. I once had the opportunity to sketch her a simple portrait... What happened to the sketch? Ah yes... Albert offered to purchase it, but I rejected his bid and gave it to the Acting Grand Master. Social relations... really require a lot of effort.
+More About Albedo: IMore About Albedo: IMedia:VO_Albedo More About Albedo - 01.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Albedo_More_About_Albedo_-_01.ogg Have a question for me? Go ahead, ask. It doesn't take too long to ask a single question, does it? I'm about to begin the final stage of an experiment...
+More About Albedo: II Friendship Lv. 3More About Albedo: II Friendship Lv. 3Media:VO_Albedo More About Albedo - 02.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Albedo_More_About_Albedo_-_02.ogg Oh, by the way. Did you know that without human manipulation, you would need to harness the power of a sun eight times the size of our own in order to naturally create gold?
+More About Albedo: III Friendship Lv. 4More About Albedo: III Friendship Lv. 4Media:VO_Albedo More About Albedo - 03.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Albedo_More_About_Albedo_-_03.ogg The time required to sketch portraits closely correlates with one's mood. I could spend half a day sketching Huffman, while I might only need three strokes of the pencil to sketch Kaeya — one for the face, one for the eyepatch string... and one for the eyepatch.
+More About Albedo: IV Friendship Lv. 5More About Albedo: IV Friendship Lv. 5Media:VO_Albedo More About Albedo - 04.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Albedo_More_About_Albedo_-_04.ogg What do I do besides sketching and research...? I will occasionally read novels from Inazuma and Liyue. They contain many fascinating ideas which can sometimes provide me with unexpected inspirations for my own creations.
+More About Albedo: V Friendship Lv. 6More About Albedo: V Friendship Lv. 6Media:VO_Albedo More About Albedo - 05.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Albedo_More_About_Albedo_-_05.ogg Even now, I find the nigredo processing stage of alchemy passed down by my master to be full of mystery. What did my master want to create using this technique...? My research is far from over, I will require your help to investigate further.
+Albedo's HobbiesAlbedo's HobbiesMedia:VO_Albedo Hobbies.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Albedo_Hobbies.ogg Hmm... Besides research, the activity I spend most of my time on is probably sketching. At first I saw it simply as a way to better study the structure of living things and materials so as to aid me in my experiments, but it eventually became a hobby of mine. Indeed, it is a very good way to relax.
+Albedo's TroublesAlbedo's TroublesMedia:VO_Albedo Troubles.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Albedo_Troubles.ogg There's just never enough time, is there? Even when I remove the most troublesome matters from my schedule, I still can't find enough time for everything.
+Favorite FoodFavorite FoodMedia:VO_Albedo Favorite Food.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Albedo_Favorite_Food.ogg I really do enjoy having dessert. How can I put it...? When both physical and mental capacity are spent, high-energy materials further provide a kind of primordial, highly-effective boost.
+Least Favorite FoodLeast Favorite FoodMedia:VO_Albedo Least Favorite Food.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Albedo_Least_Favorite_Food.ogg What food do I dislike? ...Large portions of meat at restaurants. I have a rather small appetite, so a meal like that only ends up in tragedy — either I overeat and the joy of the taste is lost, or I don't finish it and the food is wasted. I decided to simply not go to restaurants, although that has also meant I must spend more time preparing my own food...
+Receiving a Gift: IReceiving a Gift: IMedia:VO_Albedo Receiving a Gift - 01.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Albedo_Receiving_a_Gift_-_01.ogg If flavors were colors... this one would be gold.
+Receiving a Gift: IIReceiving a Gift: IIMedia:VO_Albedo Receiving a Gift - 02.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Albedo_Receiving_a_Gift_-_02.ogg You're willing to spend so much time on improving your cooking, and that's precisely how you're able to make it taste so good.
+Receiving a Gift: IIIReceiving a Gift: IIIMedia:VO_Albedo Receiving a Gift - 03.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Albedo_Receiving_a_Gift_-_03.ogg This is more than I can manage... maybe we could split it between us?
+BirthdayBirthdayMedia:VO_Albedo Birthday.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Albedo_Birthday.ogg Happy birthday. You look especially happy, would you mind if I sketched you? The capacity of our brains is limited, so we are bound to forget things. But when an image is transferred onto paper or canvas, the sketch becomes an extension of our memory. We can remember that past feeling when we later look at the sketch.
+Feelings About Ascension: Intro Ascension Phase 1Feelings About Ascension: Intro Ascension Phase 1Media:VO_Albedo Feelings About Ascension - 01.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Albedo_Feelings_About_Ascension_-_01.ogg Nigredo is the first step in alchemy, drawing from primordial forms. As beings who live in this world, we must find our own meaning.
+Feelings About Ascension: Building Up Ascension Phase 2Feelings About Ascension: Building Up Ascension Phase 2Media:VO_Albedo Feelings About Ascension - 02.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Albedo_Feelings_About_Ascension_-_02.ogg Albedo is the step in which change begins. Clearing away the excess so we can take on all the knowledge that is available. Would you like to investigate this world with me?
+Feelings About Ascension: Climax Ascension Phase 4Feelings About Ascension: Climax Ascension Phase 4Media:VO_Albedo Feelings About Ascension - 03.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Albedo_Feelings_About_Ascension_-_03.ogg Rubedo in alchemy refers to the refining of feeling. I feel the refining of my own emotions is also thanks to you.
+Feelings About Ascension: Conclusion Ascension Phase 6Feelings About Ascension: Conclusion Ascension Phase 6Media:VO_Albedo Feelings About Ascension - 04.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Albedo_Feelings_About_Ascension_-_04.ogg Citrinitas is the final stage of the alchemical transmutation process. The meaning of the object being transmuted has finally been brought to light, becoming gold and revealing its true value... I too have found my own meaning.
+Combat
+TitleDetailsElemental SkillElemental SkillMedia:VO Albedo Elemental Skill 1 01.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Albedo_Elemental_Skill_1_01.ogg Burst forth.Media:VO Albedo Elemental Skill 1 02.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Albedo_Elemental_Skill_1_02.ogg Come into being!Media:VO Albedo Elemental Skill 1 03.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Albedo_Elemental_Skill_1_03.ogg Live.Elemental BurstElemental BurstMedia:VO Albedo Elemental Burst 01.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Albedo_Elemental_Burst_01.ogg Moment of birth.Media:VO Albedo Elemental Burst 02.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Albedo_Elemental_Burst_02.ogg Feel this ancient power.Media:VO Albedo Elemental Burst 03.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Albedo_Elemental_Burst_03.ogg Witness my great undertaking.Sprint StartSprint StartMedia:VO Albedo Sprint Start 01.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Albedo_Sprint_Start_01.ogg Media:VO Albedo Sprint Start 02.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Albedo_Sprint_Start_02.ogg Media:VO Albedo Sprint Start 03.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Albedo_Sprint_Start_03.ogg Sprint EndSprint EndAlbedo does not feature any Sprint End Voice-Overs.Deploying Wind GliderDeploying Wind GliderMedia:VO Albedo Deploying Wind Glider 01.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Albedo_Deploying_Wind_Glider_01.ogg Media:VO Albedo Deploying Wind Glider 02.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Albedo_Deploying_Wind_Glider_02.ogg Media:VO Albedo Deploying Wind Glider 03.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Albedo_Deploying_Wind_Glider_03.ogg Opening Treasure ChestOpening Treasure ChestMedia:VO Albedo Opening Treasure Chest 01.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Albedo_Opening_Treasure_Chest_01.ogg This world holds many a rare treasure.Media:VO Albedo Opening Treasure Chest 02.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Albedo_Opening_Treasure_Chest_02.ogg If this treasure could talk...Media:VO Albedo Opening Treasure Chest 03.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Albedo_Opening_Treasure_Chest_03.ogg Although it's not gold, it certainly glitters.Low HPLow HPMedia:VO Albedo Low HP 01.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Albedo_Low_HP_01.ogg My calculations were off...Media:VO Albedo Low HP 02.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Albedo_Low_HP_02.ogg Time to reassess...Media:VO Albedo Low HP 03.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Albedo_Low_HP_03.ogg A new strategy's required.Ally at Low HPAlly at Low HPMedia:VO Albedo Ally at Low HP 01.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Albedo_Ally_at_Low_HP_01.ogg I'll take over from here.Media:VO Albedo Ally at Low HP 02.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Albedo_Ally_at_Low_HP_02.ogg This is too dangerous for you.FallenFallenMedia:VO Albedo Fallen 01.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Albedo_Fallen_01.ogg Ashes to ashes, dust to dust...Media:VO Albedo Fallen 02.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Albedo_Fallen_02.ogg My... experiment... failed...Media:VO Albedo Fallen 03.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Albedo_Fallen_03.ogg Seems my research... is over...Light Hit TakenLight Hit TakenMedia:VO Albedo Light Hit Taken 02.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Albedo_Light_Hit_Taken_02.ogg Still within my threshold.Media:VO Albedo Light Hit Taken 01.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Albedo_Light_Hit_Taken_01.ogg Media:VO Albedo Light Hit Taken 03.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Albedo_Light_Hit_Taken_03.ogg Media:VO Albedo Light Hit Taken 04.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Albedo_Light_Hit_Taken_04.ogg Media:VO Albedo Light Hit Taken 05.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Albedo_Light_Hit_Taken_05.ogg Media:VO Albedo Light Hit Taken 06.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Albedo_Light_Hit_Taken_06.ogg Heavy Hit TakenHeavy Hit TakenMedia:VO Albedo Heavy Hit Taken 02.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Albedo_Heavy_Hit_Taken_02.ogg A miscalculation.Media:VO Albedo Heavy Hit Taken 01.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Albedo_Heavy_Hit_Taken_01.ogg Media:VO Albedo Heavy Hit Taken 03.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Albedo_Heavy_Hit_Taken_03.ogg Media:VO Albedo Heavy Hit Taken 04.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Albedo_Heavy_Hit_Taken_04.ogg Media:VO Albedo Heavy Hit Taken 05.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Albedo_Heavy_Hit_Taken_05.ogg Media:VO Albedo Heavy Hit Taken 06.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Albedo_Heavy_Hit_Taken_06.ogg Joining PartyJoining PartyMedia:VO Albedo Joining Party 01.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Albedo_Joining_Party_01.ogg Understood.Media:VO Albedo Joining Party 02.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Albedo_Joining_Party_02.ogg Some in-the-field research?Media:VO Albedo Joining Party 03.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Albedo_Joining_Party_03.ogg Let's investigate this further.Character Idles(Note: Chat & Weather voice-over can also be heard as idles.)Character Idles(Note: Chat & Weather voice-over can also be heard as idles.)Media:VO Albedo Standby 02.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Albedo_Standby_02.ogg Light AttackLight AttackMedia:VO Albedo Light Attack 01.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Albedo_Light_Attack_01.ogg Media:VO Albedo Light Attack 02.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Albedo_Light_Attack_02.ogg Media:VO Albedo Light Attack 03.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Albedo_Light_Attack_03.ogg Media:VO Albedo Light Attack 04.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Albedo_Light_Attack_04.ogg Media:VO Albedo Light Attack 05.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Albedo_Light_Attack_05.ogg Media:VO Albedo Light Attack 06.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Albedo_Light_Attack_06.ogg Media:VO Albedo Light Attack 07.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Albedo_Light_Attack_07.ogg Mid AttackMid AttackMedia:VO Albedo Mid Attack 01.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Albedo_Mid_Attack_01.ogg Media:VO Albedo Mid Attack 02.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Albedo_Mid_Attack_02.ogg Media:VO Albedo Mid Attack 03.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Albedo_Mid_Attack_03.ogg Heavy AttackHeavy AttackMedia:VO Albedo Heavy Attack 01.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Albedo_Heavy_Attack_01.ogg Media:VO Albedo Heavy Attack 02.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Albedo_Heavy_Attack_02.ogg Media:VO Albedo Heavy Attack 03.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Albedo_Heavy_Attack_03.ogg ClimbingClimbingMedia:VO Albedo Climbing 01.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Albedo_Climbing_01.ogg Media:VO Albedo Climbing 02.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Albedo_Climbing_02.ogg Media:VO Albedo Climbing 03.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Albedo_Climbing_03.ogg Media:VO Albedo Climbing 04.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Albedo_Climbing_04.ogg Media:VO Albedo Climbing 05.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Albedo_Climbing_05.ogg Climbing BreathClimbing BreathMedia:VO Albedo Climbing Breath 01.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Albedo_Climbing_Breath_01.ogg Media:VO Albedo Climbing Breath 02.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Albedo_Climbing_Breath_02.ogg Media:VO Albedo Climbing Breath 03.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Albedo_Climbing_Breath_03.ogg JumpingJumpingMedia:VO Albedo Jumping 01.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Albedo_Jumping_01.ogg Media:VO Albedo Jumping 02.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Albedo_Jumping_02.ogg Media:VO Albedo Jumping 03.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Albedo_Jumping_03.ogg Media:VO Albedo Jumping 04.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Albedo_Jumping_04.ogg Media:VO Albedo Jumping 05.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Albedo_Jumping_05.ogg 
+Trivia
+In his Climax and Conclusion Ascension lines, the stages of the Magnum Opus Albedo speaks of are listed in reverse order; normally, citrinitas is the third stage while rubedo is the final stage. It is unclear whether this is a mistake owing to confusion regarding the words' associated colors (yellow and red, respectively), or if this is deliberate.
+Navigation
+  Characters  (Voice-Overs)AnotherWorld
+
+Mondstadt
+
+Liyue
+
+Inazuma
+
+Sumeru
+
+Fontaine
+
+Snezhnaya
+
+
+Upcoming Characters announced by HoYoverse.
+
+
+
+
+
+
+
+OverviewLoreVoice-OversOutfitsCompanionGallery
+
+
+Albedo
+
+
+
+
+
+
+
+
+
+
+Category
+Companion Companion
+
+
+Quality
+
+
+
+
+
+Adeptal Energy
+Load 
+
+
+300
+1200 
+
+
+
+
+Adeptal Energy per Load 
+
+
+0.25
+
+
+
+
+
+
+
+
+
+								Description
+							
+
+
+
+
+
+Character In-Residence
+
+
+
+
+
+Albedo can be invited as a Companion into the player's Serenitea Pot after obtaining him and completing the World Quest Idle Teapot Talk.
+
+Contents
+
+1 Favorite Furnishing Sets
+2 Idle Quotes
+3 Dialogue
+4 Special Dialogue
+
+4.1 Secret Research Lab
+4.2 Iter Ad Astra Abyssosque
+
+
+5 Change History
+6 Navigation
+
+
+Favorite Furnishing Sets
+If a character's favorite furnishing set is placed in the same realm as the character for the first time, the character will automatically teleport to the furnishing set. Interacting with the character will initiate a special dialogue, after which the character will teleport back to their original position.
+
+Albedo has 2 Favorite Furnishing Sets:Furnishing SetRewardsSecret Research Lab 20 1 20,000Iter Ad Astra Abyssosque 20 2 20,000
+Idle Quotes
+
+ My next research topic...
+ This line of inquiry...
+ Time to paint...
+ Fascinating...
+ The truth of this world...
+(When the player is nearby)
+ I thought it might be you.
+ Hello.
+
+Dialogue
+
+Media:vo albedo mimitomo hello 01.ogg Albedo: Hello, (TravelerTravelerThe player's chosen name for the Traveler).
+Media:vo albedo mimitomo hello 02.ogg Albedo: I heard the sound of footsteps from afar, and here you are.
+ How do you like it here?
+Media:vo albedo mimitomo friendship1 01.ogg Albedo: Hm, I believe that the utopia referenced in literature would likely resemble this place.
+Media:vo albedo mimitomo friendship1 02.ogg Albedo: Peaceful and comforting, enough for one to forget the time while pouring oneself into research.
+ Remember to eat on time.
+Media:vo albedo mimitomo friendship1 03a 1.ogg Albedo: ...
+Media:vo albedo mimitomo friendship1 03a 2.ogg Albedo: Yes, of course.
+Media:vo albedo mimitomo friendship1 03a 3.ogg Albedo: Ah, right...
+ You can tell me if you need anything.
+Media:vo albedo mimitomo friendship1 03b.ogg Albedo: Hm... Let your creative instincts run unabated, and I should be quite content.
+Media:vo albedo mimitomo friendship1 04.ogg Albedo: I will often sketch my surroundings. Your arrangements in this realm also provide a source of inspiration for me.
+Media:vo albedo mimitomo friendship1 05.ogg Albedo: ...Thank you.
+(Unlocks at Friendship Level 4)
+ Would you like to have a chat with me?
+Media:vo albedo mimitomo friendship2 01.ogg Albedo: Certainly.
+Media:vo albedo mimitomo friendship2 02.ogg Albedo: Uh... I will let you decide the topic of our conversation.
+ You really like to draw...
+Media:vo albedo mimitomo friendship2 03a 1.ogg Albedo: Yes, this is a habit that I formed long ago.
+Media:vo albedo mimitomo friendship2 03a 2.ogg Albedo: Initially, it was for research purposes. I originally tried to reproduce subjects with a rubbing technique.
+Media:vo albedo mimitomo friendship2 03a 3.ogg Albedo: However, the results were inadequate and lacked spirit.
+Media:vo albedo mimitomo friendship2 03a 4.ogg Albedo: After that, I tried to learn how to draw.
+Media:vo albedo mimitomo friendship2 03a 5.ogg Albedo: While refining my artistic skills, I unconsciously found myself engrossed in drawing.
+ You really like to conduct experiments...
+Media:vo albedo mimitomo friendship2 03b 1.ogg Albedo: Hmm, if you ask me, the world is a limitless library.
+Media:vo albedo mimitomo friendship2 03b 2.ogg Albedo: There's a multitude of research topics for experiments...
+Media:vo albedo mimitomo friendship2 03b 3.ogg Albedo: You can use your own hands to unearth unknown secrets and ultimately master new knowledge.
+Media:vo albedo mimitomo friendship2 03b 4.ogg Albedo: This sort of feeling is captivating.
+ Is there anything else you're interested in?
+Media:vo albedo mimitomo friendship2 04.ogg Albedo: Hmm, anything else...?
+Media:vo albedo mimitomo friendship2 05.ogg Albedo: Probably you.
+Media:vo albedo mimitomo friendship2 06.ogg Albedo: At first, it was because you carry the aura of the stars.
+Media:vo albedo mimitomo friendship2 07.ogg Albedo: But now... it seems that there is more to it.
+Media:vo albedo mimitomo friendship2 08.ogg Albedo: Why is this? Give me some time and I can conduct experiments to find out.
+(Unlocks at Friendship Level 7)
+ Is there anything you'd like to do?
+Media:vo albedo mimitomo friendship3 01.ogg Albedo: Heh, where should I begin...?
+Media:vo albedo mimitomo friendship3 02.ogg Albedo: In your company, I never lack inspiration.
+ For drawing?
+ For experiments?
+Media:vo albedo mimitomo friendship3 03.ogg Albedo: It's good for both drawing and experiments.
+Media:vo albedo mimitomo friendship3 04.ogg Albedo: And not just for these, but for many other things.
+Media:vo albedo mimitomo friendship3 05.ogg Albedo: Speaking of which... I used to think interaction with others was a waste of time.
+Media:vo albedo mimitomo friendship3 06.ogg Albedo: But after meeting you, I'd rather spend my time on you than other matters.
+Media:vo albedo mimitomo friendship3 07.ogg Albedo: This is a unique anomaly. I think I likely know the reason why.
+Media:vo albedo mimitomo friendship3 08.ogg Albedo: So can you also... give me more of your time?
+ I'll accompany you while you sketch.
+Media:vo albedo mimitomo friendship3 09a 1.ogg Albedo: Thank you. Then, today's subject—
+Media:vo albedo mimitomo friendship3 09a 2.ogg Albedo: You and your realm.
+ I'll accompany you during your experiments.
+Media:vo albedo mimitomo friendship3 09b 1.ogg Albedo: Thank you. I'll guarantee your safety, as I've done before.
+Media:vo albedo mimitomo friendship3 09b 2.ogg Albedo: We already understand each other quite well, don't we?
+Media:vo albedo mimitomo friendship3 10.ogg Albedo: By the way, after we're done. may I have the pleasure of inviting you to dessert with me?
+Media:vo albedo mimitomo friendship3 11.ogg Albedo: To continue our time together, and to thank you for your company.
+(Between 6:00 and 19:00)
+ Good morning, Albedo.
+Media:vo albedo mimitomo morning 01.ogg Albedo: Morning, (TravelerTravelerThe player's chosen name for the Traveler). I've already organized my next stage of research objectives.
+Media:vo albedo mimitomo morning 02.ogg Albedo: But should you have other arrangements, I don't necessarily mind revising my plans.
+(Between 19:00 and 6:00)
+ Good night, Albedo.
+Media:vo albedo mimitomo night 01.ogg Albedo: Good night. May you have sweet dreams.
+Media:vo albedo mimitomo night 02.ogg Albedo: ...You don't require me to read you a bedtime story, do you?
+
+Special Dialogue
+When a character is invited to or invites themselves to their favorite set for the first time, the character will provide a reward. They will provide a reward for each of their favorite sets.
+Inviting them to the furnishing set again will replay the dialogue, but no further reward will be given.
+
+Secret Research Lab
+
+Media:vo mimitomo md albedo alchemy 01.ogg Albedo: This is a nice workshop. Looks like I will be able to continue my research here as well.
+Media:vo mimitomo md albedo alchemy 02.ogg Albedo: Hmm, I believe that you must have acquired some sort of secret art that allows you to copy things from the real world, is this not so?
+Media:vo mimitomo md albedo alchemy 03.ogg Albedo: If you don't mind, I'd like to conduct some further research with you. Perhaps it may be of some help to you.
+
+Iter Ad Astra Abyssosque
+
+Media:vo mimitomo md albedo adventure 01.ogg Albedo: A fascinating copy... You have attended to every fine detail — even the feeling of the wilderness that one can only experience when adventuring themselves.
+Media:vo mimitomo md albedo adventure 02.ogg Albedo: Alright then. I'll go ahead and start sketching.
+Media:vo mimitomo md albedo adventure 03.ogg Albedo: Would you mind... if I make you the subject matter of my sketch?
+
+Change History
+Released in Version 1.6[Create New History]
+Navigation
+  Living Beings
+ Companions5★
+
+4★
+
+Paimon
+
+
+
+ AnimalsCreatures
+
+
+
+
+
+

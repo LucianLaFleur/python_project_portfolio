@@ -37,8 +37,9 @@ def translate_eng_sentences(eng_only_input_file_path):
     results = []
     total_sentences = len(sentences)
     for i, sentence in enumerate(sentences):
+        # input(f"sentence is >> {sentence}")
         print("sleeping for 3 seconds to chill")
-        time.sleep(3)
+        time.sleep(0.5)
         original, translated = translate_text(sentence, "de")
         results.append(translated + '\n')
         results.append(original + '\n')

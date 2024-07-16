@@ -1,0 +1,543 @@
+Extremely strong and reliable, Noelle is considered to be "the maid of all maids" in the Knights of Favonius, with many thinking she has the ability to be everywhere all at once. She is stubborn, however, and willing to unnecessarily endanger her life at any moment to help someone. She has tried many times to join the ranks of the Knights of Favonius to accomplish her dream of becoming a full-fledged knight, but has fallen short every time so far.
+
+
+
+
+
+Armored Rose
+
+
+
+
+
+							Wish
+							
+						
+
+
+
+							In-Game
+							
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Type
+Default
+
+
+Char­ac­ter
+Noelle
+
+
+De­scrip­tion
+Noelle's outfit. Heavy clothing made of durable velvet and metal plates.
+
+
+How to Obtain
+Unlocked upon obtaining character
+
+
+Armored Rose is Noelle's Default Character Outfit.
+
+Contents
+
+1 Appearance
+2 Gallery
+
+2.1 In-Game Assets
+2.2 Animations
+2.3 Turnarounds
+
+
+3 Other Languages
+4 Change History
+5 Navigation
+
+
+Appearance[]
+Noelle has a maid-inspired dress with a metal headdress, a breastplate, a pauldron on her left shoulder, and a cravat. Her attire is adorned with fuchsia roses and bows. Her dress has one bow at her hip and a second at her rear, upon which her Geo Vision sits. She wears black tights beneath her armored boots.
+
+Gallery[]
+In-Game Assets[]
+Character IconItem IconParty IconOutfit Preview
+Animations[]
+Hover over previews to view in higher quality.(Preview Preferences)Media:Idle Noelle 1.mp4      Media:Idle Noelle 2.mp4      Media:Talent Menu Noelle.mp4      Media:Weapon Menu Noelle.mp4      Media:Party Setup Noelle.mp4      
+Turnarounds[]
+In-game model turnaround
+Other Languages[]
+
+LanguageOfficial NameLiteral MeaningEnglishArmored Rose—Chinese(Simplified)甲铁玫瑰Jiǎ tiě méiguīIron-Armored RoseChinese(Traditional)甲鐵玫瑰Jiǎ tiě méiguīJapanese甲鉄のバラKoutetsu no BaraArmored RoseKorean갑옷을 입은 장미Gaboseul ibeun jangmiArmored RoseSpanishRosa férreaFerrous RoseFrenchRose en armureArmored RoseRussianЖелезная розаZheleznaya rozaIron RoseThaiกุหลาบงามใต้คมเหล็กKulap ngam tai khom lekBeautiful Rose Under the Sharp Edge of SteelVietnameseHoa Hồng SắtIron RoseGermanGepanzerte RoseArmored RoseIndonesianArmored Rose—PortugueseRosa de AçoRose of SteelTurkishZırhlı GülArmored RoseItalianRosa corazzataArmored Rose
+Change History[]
+Released in Version 1.0[Create New History]
+Navigation[]
+ Dressing Room
+ Character OutfitsDefault
+
+Alternate
+
+Themed
+
+
+
+ Wind GlidersProgress
+
+Other
+
+
+
+ Echoes
+
+
+
+
+
+
+
+
+
+OverviewLoreVoice-OversOutfitsCompanionGallery
+Like most of Mondstadt's young people, Noelle always dreamed of being a knight of Favonius when she grew up.She may not have what it takes to be a knight just yet, but she is learning. Working as a maid at the Knights' headquarters, she is constantly taking notes on what constitutes knightly speech, knightly conduct, and knightly customs.She holds firm to her belief that one day she will join their ranks — she just needs to keep trying her hardest at everything she does.—Description from the Official Website[1]
+Contents
+
+1 Personality
+2 Appearance
+3 Official Introduction
+4 Character Stories
+
+4.1 Character Details
+4.2 Character Story 1
+4.3 Character Story 2
+4.4 Character Story 3
+4.5 Character Story 4
+4.6 Character Story 5
+4.7 "Warning of Roses"
+4.8 Vision
+
+
+5 Namecard
+6 Constellation
+7 Quests and Events
+
+7.1 Story Quests
+
+7.1.1 Hangout Events
+
+
+7.2 Events
+7.3 Web Events
+
+
+8 Character Trials
+
+8.1 Quests
+8.2 Events
+8.3 Test Run Events
+
+
+9 Character Mentions
+
+9.1 Character Voice-Overs
+
+
+10 Mail
+11 History
+12 Trivia
+
+12.1 Etymology
+
+
+13 Other Languages
+
+13.1 Character Title: Chivalric Blossom
+
+
+14 References
+15 Navigation
+
+
+Personality
+A maid who faithfully serves the Knights of Favonius. She dreams of joining their ranks someday.—In-game character attributes and profile page text
+Noelle is a polite young woman and professional maid, helping those in need without hesitation, regardless of how far they are or what they need done, as long as they say her name. She has a very high standard of work ethic, as she always strives to ensure that everyones' needs are satisfied and always makes the effort to go over their expectations. No work is a problem for her; Lisa believes that the more work she is given, the happier she is.[2]
+Despite this, she is relatively stubborn and inexperienced; she states that she is useless in an argument and simply does what she believes is best, regardless of the other party's advice. Likewise, her attempts to meet everyone's needs is double-edged; although most people are genuine, others can take advantage of her generosity. Jean also considers her to be eligible for the Knights, but refrains from knighting her because she is worried that she is not ready for what lies outside Mondstadt.[3]
+She looks up to all of the Knights and asks them for advice on how to be a proper member when she officially joins, regardless of how much experience they may have, such as the rambunctious Klee. Her aspiration of joining them means that she will refuse any other invitations offered to her.[4]
+
+Appearance
+See also: Armored Rose
+Noelle uses the medium female model. She has short, neck-length pale gray hair with a straight fringe and lopsided locks of hair framing her face. A section of hair is braided over her bangs and pinned down at the right side of her face with a gold shield clip. Her eyes are olive green.
+
+Official Introduction
+A Maid's Job Knows No Bounds
+Jean's job is definitely the most stressful. But Noelle's is by far the busiest.—Kaeya, who in contrast to both Jean and Noelle seems quite the man of leisure
+▌Maid of Favonius · Noelle
+A Maid's Job Knows No Bounds
+========================
+Many people in Mondstadt think there's something a little bit magical about Noelle: She seems to have the ability to be everywhere at once, and to do absolutely anything she sets her mind to.
+Whether it's a Knights of Favonius dinner party, a winery banquet, or just an ordinary barbecue, Noelle is a whirlwind of helpfulness that will burst through your door at the first sign of a problem and whisk it away for you.
+It's no wonder that people have taken to calling her the "Wondermaid."
+But ask Noelle and she'll tell you there's nothing wondrous about the way she works, let alone magical. She just takes pride in her work and is constantly in pursuit of perfection.
+"Nothing more, nothing less. Just as it should be, and not as it should not be."
+
+Character Stories
+Character Details
+Noelle has much greater dreams and ambitions than other maids in the Knights of Favonius.Like anyone else in this city protected by the Knights of Favonius, she too dreams of donning the honored armor.Even if her skills are not enough to pass the rigorous selection trials, she still wishes to observe and learn from them every chance she gets.Aside from her training, she enjoys her current life, helping everyone in need."You can leave absolutely anything to me!"That's her signature line. If there's anything that you need, Noelle is glad to be of aid.Character Story 1 Friendship Lv. 2
+Noelle is "the maid of all maids" to many.Such people also tend to say this of her: "She's everywhere."For example, there was a child who once tried to get a plate during a banquet, but found that there was no way to open the cabinet without all the plates falling out..."Noelle!!!!!!"All the child needed to do was scream, and Noelle appeared. She put the cabinet down on its back, took a plate out, and handed it to the child, reminding him not to have cold drinks immediately after having barbecue. Then she righted the cabinet, cleaned up other plates, and then put them back in order.Noelle's ability to be everywhere all at once is something miraculous to many.However, the job of a maid is no myth or legend. Noelle only does her job to the letter."No more, no less. As it should be, not as it should not be."Noelle doesn't think herself special, only that she thinks too much at times.Character Story 2 Friendship Lv. 3
+Noelle is always eager to help, sometimes excessively so.If you were to ask her how to build a campfire as she passed by, she would not only stop and build the campfire for you, she would also put up the grill racks, season the food, cook it for you, taste it herself to make sure it's done, and remind you to put out the fire when you've finished so as not to burn the forest down. Then she would get back to whatever she had been doing beforehand.Of course, most people don't mind at all that she regularly goes the extra mile. But it can sometimes produce unexpected results...For example, a merchant from Snezhnaya once came to Mondstadt, ostensibly wishing to get into the winery business. In truth, he had an evil plot to ruin the land, destroy the winery business in Mondstadt altogether and then seize the market with wines from Snezhnaya.He disguised himself as an honest merchant with his family on a business trip to Mondstadt. Naturally, with them being visitors from afar, Noelle gave them a warm reception.Initially, the merchant was delighted with Noelle's hospitality; it was a cut above the crude etiquette he had come to expect from most peasants in Mondstadt. However, after a while he began to feel that something was amiss.Noelle seemed to be able to read his mind: She correctly guessed his schedule, cooked his family's favorite Snezhnayan dishes for them each day, and even knew that his daughter liked to go to bed hugging a ragdoll, presenting her with a hand-made doll she had sewn together herself.This spooked the merchant, and made him hesitant to execute the next phase of his plan. Noelle's warm smile now chilled the merchant to the bone. What else did she know, and what was she really planning?In the end, the merchant fled Mondstadt with his family.Noelle was upset for a few days, thinking she had somehow insulted her guests. Little did she know that all of Mondstadt was indebted to her for taking her job so seriously.Character Story 3 Friendship Lv. 4  •  Song of the Dragon and Freedom
+Most of the time, Noelle's reliability provides a comforting presence, but there are always exceptions.Once, she learned that an adventurer was trapped on Dragonspine, so she decided to mount a rescue by herself.The snowstorm that day was terribly fierce, wiping out any tracks left by humans as soon as they were made. It was impossible to find a safe route to proceed, to say nothing of saving the adventurer amidst the snow.However, Noelle persisted on searching for the adventurer and eventually found him inside a cave, suffering from severe hypothermia.At the time, her coat was completely soaked, and the water inside her bottle had turned to ice. Thirsty and hungry, Noelle still managed to carry the adventurer down on her back.The adventurer was saved, but Noelle, having over-exerted herself, laid in bed for three days straight, suffering from a high fever. Everyone in the Knights of Favonius barely slept out of concern for her during that period. Fortunately, Noelle recovered.It was not the first or second time that something similar had happened, and everyone was deeply worried for Noelle.In order to prevent Noelle from putting herself in harm's way again, Jean had to invent some safe jobs to keep Noelle busy. If something were to happen, then Kaeya would have to save the day.During the Stormterror threat, Noelle was also eager to resolve the threat at its source. However, Kaeya managed to arrange quite a few "urgent matters" for her to attend to inside the city until it was all over.Character Story 4 Friendship Lv. 5
+Noelle's petite form does a good job of hiding her great strength.This does not just refer to her resoluteness or her indomitable spirit, but also her physical strength.Once, Lisa accidentally dropped her experimental apparatus under her bookshelf and troubled over whether she could remain decent while bending over to retrieve it. Noelle made it over in the nick of time, lifting the full bookshelf with only one hand — and not a single book fell out between her hefting it and putting it down.There was another incident in which several cargo-bearing carts were attacked by Pyro Slimes as they tried to pass through Mondstadt's side gate. As the owners were all in a panic, it was Noelle again who came to the rescue — hurling the carts — cargo and all, into the Cider Lake, before leaping into the water herself and retrieving every last item.Rumor has it that when Noelle was studying the blade, she nearly sent Wagner — who prided himself in his forging skills — into despairing seclusion.In all, he forged over ten different swords with different alloy compositions for Noelle, but all would lose their edge after a few uses.At first, Wagner thought Noelle unskilled, but eventually found that the problem was more foundational: the swords just weren't strong enough.Putting his reputation on the line, Wagner finally made Noelle a sturdy and heavy claymore that was further reinforced by her affinity for Geo. Only then was her weapon issue (barely) solved.But don't worry, Noelle won't use her superhuman strength unless the situation calls for it, as she is a pacifist at heart.They say, however, that the very day Noelle received her custom-made claymore, she was set upon by a pair of drunken Treasure Hoarders in Drunkard Gorge, who thought her a harmless lamb...Let's just hope that no one else will ever be so unlucky.Character Story 5 Friendship Lv. 6
+Noelle's greatest enemy, curiously, is not a person, but Ludi Harpastum itself.During Ludi Harpastum, long tables arranged in a circular shape and filled with all kinds of food will be set up in the plaza before the Cathedral for everyone to enjoy.The food is usually prepared by volunteers who can cook. During this time, Noelle, who always holds herself to a high standard, joins the volunteers in continuously cooking and serving food.It's not really any additional work; what's difficult is that she insists on tasting every dish to make sure they are up to standard.The crispy Moon Pies; the sizzling Mondstadt Pork Chops; the towering Pile 'Em Ups — all the fried and barbecued foods, equal parts delicious and fatty, are customary at the festival.The smiles on people's faces make Noelle truly happy. What makes her less so is seeing her bulging belly. She can't help but let out a sigh.For the entire month following the festival, Noelle will volunteer for the Knights of Favonius' city night patrol.The festival may be over, but her battle is only beginning."Warning of Roses" Friendship Lv. 4
+The maids of the Knights have many "red lines" that are not to be crossed, and one of these is that "the personal information of the Knights must be kept in strict confidence."This does not only require restricting outsider access to such information — this restriction also applies to other members of the Knights.For example, what Jean keeps in her private quarters, the contents of Amber's Baron Bunny, the number of special eye patches that Kaeya owns, the number of Klee's hidden bomb caches... These things are all top secret.To avoid leaking such information, Noelle used red cloth to make a great many roses — in Mondstadt, this flower means "my lips are sealed."She specially wove one such rose into her gauntlet as an ever-present reminder to herself.Revealing secrets would be a major dereliction of duty for a maid, and those who aspire to be knights cannot afford such errors.So you can forget about probing Noelle for any secrets. She won't tell.Vision Friendship Lv. 6
+Noelle did once wish to fulfill her dream before its time. Some years ago, after failing her seventh selection test, which was really a foregone conclusion, she felt somewhat discouraged.The etiquette, swordsmanship, the lines she had memorized... had they all gone to waste? She remembered all the strong points of every official knight, but who would remember the hard work of a failure like her?She had never stopped aspiring to become a Knight of Favonius, but her exhausted body wouldn't let her get back on her feet like she normally would. She felt like someone who had spent days and nights traveling through an icy tundra.At that moment, the main gate of the Knights Headquarters were flung upon, and out walked Acting Grand Master Jean, who had just been in charge of the selection process.Without a thought, Noelle gave a precise knight's salute.Immediately, she knew that this was too abrupt a thing to do, and wondered what Jean might think of her.But just as she was wishing that there was some hole she might crawl into to flee, Jean stopped in her own tracks and returned the salute.After a moment's surprise, Noelle gave a strained smile, clumsy but pure.This was a lucky day that she would always remember, for she would receive recognition from two all-important sources this day: once from Jean, and the other from the gods.Her hard work had been remembered after all.From that day forward, Vision in hand, Noelle reaffirmed her belief that she would one day be able to don that armor. That she would be gentle and reliable — and yes, everywhere at once too.
+Namecard
+
+
+Noelle: Protector
+
+
+
+
+Obtain:Reward for reaching Friendship Level 10 with NoelleDescription:Noelle is quite special. Noelle won't let any harm come to you.
+
+Constellation
+Parma CordisMeaning:Heart's Shield 
+Quests and Events
+Story QuestsHangout EventsNoelleAct I: Chivalric TrainingFleeting LeisureGift and IntentLive PracticeMaid-in-TrainingNoelle's StrengthStrength TrainingThe Art of HospitalityAct II: Knightly Exam PrepA Knight's Journey Through LiyueAdventurer's Entrance ExamJourney to LiyueNoelle Rides OutNoelle the Intelligence OperativeStudious MaidSubstitute Acting Grand Master NoelleWhile the Millelith Stands GuardEventsInvitation of WindblumePart IV: Dream of Wind and Flowers (cutscene)Of Ballads and BrewsAct III: Aroma of the PastWindblume's BreathWindblume FestivalPart II: A Riddle Amidst the CrowdsWaterborne PoetryPart I: Congenial GatheringCongenial GatheringPart II: Tears Among the LeavesTears Among the LeavesWeb EventsSide by Side We VentureAn Unforgettable JourneyTaking Pictures and Recounting Good TimesCanvas of Starlight MemoriesDiscover Teyvat
+Character Trials
+QuestsLive Practice in Noelle's Hangout Event: Act I - Chivalric TrainingNoelle's Strength in Noelle's Hangout Event: Act I - Chivalric TrainingStrength Training in Noelle's Hangout Event: Act I - Chivalric TrainingAdventurer's Entrance Exam in Noelle's Hangout Event: Act II - Knightly Exam PrepNoelle Rides Out in Noelle's Hangout Event: Act II - Knightly Exam PrepNoelle the Intelligence Operative in Noelle's Hangout Event: Act II - Knightly Exam PrepEvent Story Quest Tears Among the Leaves in Waterborne Poetry: Part II - Tears Among the LeavesEventsBattlefront: Misty DungeonAdventurer's TrialsMisty Dungeon: Realm of SandTest Run EventsKlee, Sucrose, Fischl — 2021-06-09Yoimiya, Diona, Xinyan, Sayu — 2021-08-10Itto, Gorou — 2021-12-14Shenhe, Xiao, Yun Jin, Ningguang, Chongyun — 2022-01-05Kamisato Ayato, Venti, Sucrose, Yun Jin — 2022-03-30Arataki Itto, Kuki Shinobu, Chongyun, Gorou — 2022-06-21Kaedehara Kazuha, Klee, Shikanoin Heizou, Ningguang, Thoma — 2022-07-13Yoimiya, Bennett, Xinyan, Yun Jin — 2022-08-02Tighnari, Zhongli, Collei, Diona, Fischl — 2022-08-24Cyno, Venti, Candace, Kuki Shinobu, Sayu — 2022-09-28Nahida, Yoimiya, Razor, Bennett — 2022-11-02Wanderer, Arataki Itto, Faruzan, Gorou, Yanfei — 2022-12-07Alhaitham, Xiao, Yaoyao, Yun Jin, Xinyan — 2023-01-18Dehya, Cyno, Bennett — 2023-03-01Yoimiya, Yae Miko, Kirara, Yun Jin, Chongyun — 2023-05-24Sangonomiya Kokomi, Wanderer, Faruzan, Rosaria, Yanfei — 2023-07-25Xianyun, Nahida, Gaming, Faruzan — 2024-01-31Xiao, Yae Miko, Yaoyao, Xinyan, Ningguang — 2024-02-20Chiori, Arataki Itto, Gorou, Yun Jin, Dori — 2024-03-13
+Character Mentions
+Character Voice-OversCharacterVoice-OversAmberAbout Noelle Media:VO_Amber About Noelle.ogg Media:VO ZH_Amber About Noelle.ogg Media:VO JA_Amber About Noelle.ogg Media:VO KO_Amber About Noelle.ogg You wanna know about Noelle? She's super resilient. Still, since she's younger than us, we should look out for her.BarbaraAbout Noelle Media:VO_Barbara About Noelle.ogg Media:VO ZH_Barbara About Noelle.ogg Media:VO JA_Barbara About Noelle.ogg Media:VO KO_Barbara About Noelle.ogg Noelle is just the cutest! She's so kind and patient, you just feel totally relaxed when you're around her. ...Oh yeah, and she makes the tastiest snacks! Best part is, they're also healthy. Hehehe!BennettAbout Noelle Media:VO_Bennett About Noelle.ogg Media:VO ZH_Bennett About Noelle.ogg Media:VO JA_Bennett About Noelle.ogg Media:VO KO_Bennett About Noelle.ogg Noelle's someone I've been watching for a while. She's really talented, and extremely hardworking. But somehow she's still a maid — the Knights of Favonius still haven't made her a knight. It's a shame, don't you think? Boy, if she switched to the Adventurers' Guild, she'd easily be one of the best there is.JeanAbout Noelle Media:VO_Jean About Noelle.ogg Media:VO ZH_Jean About Noelle.ogg Media:VO JA_Jean About Noelle.ogg Media:VO KO_Jean About Noelle.ogg Noelle... She puts enormous effort into trying to become a Knight of Favonius. However, I fear she is not quite ready for the dangers that lie beyond Mondstadt's walls.KaeyaAbout Noelle Media:VO_Kaeya About Noelle.ogg Media:VO ZH_Kaeya About Noelle.ogg Media:VO JA_Kaeya About Noelle.ogg Media:VO KO_Kaeya About Noelle.ogg I was entrusted by the Acting Grand Master to work in the background to support Noelle. But there hasn't been much for me to concern myself with — she has a good head on her shoulders. Quite the relief.LisaAbout Noelle Media:VO_Lisa About Noelle.ogg Media:VO ZH_Lisa About Noelle.ogg Media:VO JA_Lisa About Noelle.ogg Media:VO KO_Lisa About Noelle.ogg Every time I ask Noelle to dust off the bookshelves, I'm always left with the sense that the more exhausted I make her, the happier she becomes. Yes, who knows what's going on with her... *chuckles*SucroseAbout Noelle Media:VO_Sucrose About Noelle.ogg Media:VO ZH_Sucrose About Noelle.ogg Media:VO JA_Sucrose About Noelle.ogg Media:VO KO_Sucrose About Noelle.ogg She's... a very willing helper, I can't deny that. It's just... she makes me a little anxious is all. One time, she saw three boxes of materials stacked just outside my laboratory door, and proceeded to move them inside for me. A nice gesture, but the thing is... I'd only just finished putting them outside...TravelerAs "Wondermaid":About the "Wondermaid" Media:VO_Aether_About the Wondermaid.ogg Media:VO ZH_Aether_About the Wondermaid.ogg Media:VO JA_Aether_About the Wondermaid.ogg Media:VO KO_Aether_About the Wondermaid.ogg Media:VO_Lumine_About the Wondermaid.ogg Media:VO ZH_Lumine_About the Wondermaid.ogg Media:VO JA_Lumine_About the Wondermaid.ogg Media:VO KO_Lumine_About the Wondermaid.ogg Paimon: It's time for Paimon's Little Life Tips!(Traveler): "Little Life Tips"?Paimon: In Mondstadt, if there's something you can't fix, or there's something you can't get clean, no matter what you do...Paimon: If you ever run into something you can't handle yourself, you just need to shout this name into the skies:Paimon: "Noeeeelle!"Paimon: And everything that's troubling you will be swept away in an instant.(Traveler): So this is one of the tricks to living in Mondstadt? Pretty impressive...
+Mail
+It's a Promise! (2021-03-21)Our Promise... (2022-03-21)Please Help! (2023-03-21)Flowers... (2024-03-21)
+History
+Main article: Noelle/Lore/History
+Trivia
+Noelle is seen wielding a Favonius Greatsword in her official art.
+Noelle is mentioned in the description of the following Furnishing: Landscape Accessory: Bright Aroma
+Noelle shares her Korean voice actress, Lee Bo-hee, with Keqing.
+Noelle is the first, and so far only, character to have a Hangout Quest that consists of two acts.
+Etymology
+The name "Noelle" means Christmas, and is typically given to children born around that time of year. Despite this, Noelle's birthday is in March.
+Her constellation, Parma Cordis, is roughly Latin for "The Heart's Shield."
+Other Languages
+Character Title: Chivalric Blossom
+
+LanguageOfficial NameLiteral MeaningEnglishChivalric Blossom—Chinese(Simplified)未授勋之花Wèi Shòuxūn zhī HuāUnmedaled FlowerChinese(Traditional)未授勛之花Wèi Shòuxūn zhī HuāJapanese騎士道の花咲Kishidou no Hanasaki‍[!][!]Assumed readingChivalric BlossomKorean수여받지 못한 꽃Suyeobatjji Motan KkotFlowers Not GrantedSpanishLa Heroína no ReconocidaThe Unrecognized HeroineFrenchFleur chevaleresqueChivalric FlowerRussianНераспустившийся цветокNeraspustivshiysya tsvetokBudding FlowerThaiดอกไม้ที่หาญกล้าDokmai thi hanklaBrave FlowerVietnameseĐóa Hoa Chưa Vinh DanhThe Unhonored FlowerGermanKnospe des RittertumsBurgeon of KnighthoodIndonesianChivalric Blossom—PortugueseFlor da CavalariaFlower of the ChivalryTurkishŞövalye ÇiçeğiItalianFiore cavallerescoChivalric Flower
+References
+
+↑ Official Genshin Impact Website: Noelle
+
+↑ Lisa's Voice-Over: About Noelle
+
+↑ Jean's Voice-Over: About Noelle
+
+↑ Bennett's Voice-Over: About Noelle
+
+
+Navigation
+  Characters  (Lore)AnotherWorld
+
+Mondstadt
+
+Liyue
+
+Inazuma
+
+Sumeru
+
+Fontaine
+
+Snezhnaya
+
+
+Upcoming Characters announced by HoYoverse.
+
+
+
+
+
+
+
+OverviewLoreVoice-OversOutfitsCompanionGallery
+EnglishChineseJapaneseKorean
+Contents
+
+1 Story
+2 Combat
+3 Navigation
+
+
+Story
+
+Title and RequirementsDetails
+HelloHelloMedia:VO_Noelle Hello.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_Hello.ogg My name is Noelle, maid of the Knights of Favonius, and it's my pleasure to be joining you on your adventure today. Should you encounter any problems at any point throughout your journey, please do not hesitate to call me and I will be delighted to provide you with my full assistance. Yes, starting right now — what do you need?
+Chat: A FavorChat: A FavorMedia:VO_Noelle Chat - A Favor.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_Chat_-_A_Favor.ogg Leave it to me! All of it, whatever it is! ...What... exactly is "it"? I didn't quite catch your request...
+Chat: RestChat: RestMedia:VO_Noelle Chat - Rest.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_Chat_-_Rest.ogg You seem tired. Would you like some tea? I'll brew you some. Do you take sugar? One cube, or two?
+Chat: Being ReliableChat: Being ReliableMedia:VO_Noelle Chat - Being Reliable.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_Chat_-_Being_Reliable.ogg Whenever you need me, I'll be there.
+When It RainsWhen It RainsMedia:VO_Noelle When It Rains.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_When_It_Rains.ogg Oh dear, everyone's laundry is still on the line! May I be excused to fetch it in?
+When Thunder StrikesWhen Thunder StrikesMedia:VO_Noelle When Thunder Strikes.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_When_Thunder_Strikes.ogg Please stay indoors until the storm passes. I will deal with any urgent outdoor business.
+When the Sun Is OutWhen the Sun Is OutMedia:VO_Noelle When the Sun Is Out.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_When_the_Sun_Is_Out.ogg Mmm, such fair weather. Why don't we do a bit of sunny work? Oh, what sort of work is that, you ask? Haha, well, anything that makes you feel bright and sunny too.
+When It's WindyWhen It's WindyMedia:VO_Noelle When It's Windy.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_When_It%27s_Windy.ogg Ahh... Can you hear the Anemo Archon's voice on the breeze? It calms me down whenever I get flustered.
+Good MorningGood MorningMedia:VO_Noelle Good Morning.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_Good_Morning.ogg Good morning! Breakfast is served. I will be on hand the whole time. Should you find that anything is not to your taste, please, do not hesitate to let me know.
+Good AfternoonGood AfternoonMedia:VO_Noelle Good Afternoon.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_Good_Afternoon.ogg Ready for your tea break? Please wait here while I get it ready. Oh yes, I also made Lighter-Than-Air Pancakes! You simply must try one, it's my specialty.
+Good EveningGood EveningMedia:VO_Noelle Good Evening.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_Good_Evening.ogg Everyone has free time in the evening, and that is when I am busiest. Where have Amber's washed hairbands been placed? How many new eyepatches did Kaeya buy? Keeping track of all these things is a maid's responsibility.
+Good Night Friendship Lv. 4Good Night Friendship Lv. 4Media:VO_Noelle Good Night.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_Good_Night.ogg Please get some rest, you must be tired from today's adventure. I should head back to the Knights of F— Sorry? you want me to watch over you until you fall asleep? I—I... I mean, of course, it's no problem. But, um... You're not just teasing me, are you?
+About Noelle: DisciplineAbout Noelle: DisciplineMedia:VO_Noelle About Noelle - Discipline.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_About_Noelle_-_Discipline.ogg In my job, I do the exact same things every day — a far cry from being a true knight, that's for sure. But ultimately, this is all part of my training, and when it comes to training, actions speak louder than words.
+About Noelle: DisagreementAbout Noelle: DisagreementMedia:VO_Noelle About Noelle - Disagreement.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_About_Noelle_-_Disagreement.ogg I'm a bit useless in an argument because I can't really explain my reasoning clearly. People find that hard to understand, so instead, I try to just get on with my work in my own way. But then they call me stubborn. All I try to do is convince people with results instead of trying to talk them round... Is that really stubborn of me?
+About Us: IdentitiesAbout Us: IdentitiesMedia:VO_Noelle About Us - Identities.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_About_Us_-_Identities.ogg I am devoted to what I do, but make no mistake — I devote myself freely. A maid, to me, is the most liberating job there is. I'm a chef, a gardener, a warrior, a guide... I can be anything you need me to be!
+About Us: RemindersAbout Us: RemindersMedia:VO_Noelle About Us - Reminders.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_About_Us_-_Reminders.ogg Even when you're too busy to eat three square meals, never eat something if you don't know where it came from, and always maintain a balance between meat and vegetables. Oh, and no swimming right after a meal. Haha, I do hope you're not thinking, "that's too much trouble I'll just leave it to Noelle," are you? ... Oh... but of course, if you are... Well then, just leave it to me.
+About Us: Welcome Party Friendship Lv. 6 For a Tomorrow Without TearsAbout Us: Welcome Party Friendship Lv. 6 For a Tomorrow Without TearsMedia:VO_Noelle About Us - Welcome Party.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_About_Us_-_Welcome_Party.ogg So I hear you're an Honorary Knight of Favonius? I envy you! I suppose that makes you my senior... Anyway, it's about time someone threw you a welcome party, surely? Leave it to me!
+About the Vision Friendship Lv. 4About the Vision Friendship Lv. 4Media:VO_Noelle About the Vision.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_About_the_Vision.ogg To be honest, I'm feeling a little dejected. Sure, this Vision proves that the Archons think I'm worthy, but why is it a Geo Vision? I mean, Geo's the furthest thing from Anemo, and for a Knight of Favonius...
+Something to ShareSomething to ShareMedia:VO_Noelle Something to Share.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_Something_to_Share.ogg I actually really like the smell of wine, I'm just not of drinking age yet. There have been a few times when I could have had a little taste if I'd wanted, and no one would ever have known... but I resisted the temptation. I feel like the first time you try it is probably really magical, so I want to save it till I'm older.
+Interesting ThingsInteresting ThingsMedia:VO_Noelle Interesting Things.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_Interesting_Things.ogg A maid is required to keep everyone's secrets. That's why my favorite flower is the rose. Here in Mondstadt, the rose represents the saying "As wine bottles are corked, so too are my lips sealed." It reminds me to— What? ...Roses represent love in your hometown? I—I had no idea the rose held such a... passionate meaning.
+About Amber Friendship Lv. 4About Amber Friendship Lv. 4Media:VO_Noelle About Amber.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_About_Amber.ogg I really look up to Amber. Not only is she an accomplished knight, but she's a kind person too. She taught me how to make a Baron Bunny. I keep it on my person for luck, and it looks quite alright I think. Oh no, please do not be alarmed. There's no risk of explosion whatsoever.
+About Klee Friendship Lv. 4About Klee Friendship Lv. 4Media:VO_Noelle About Klee.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_About_Klee.ogg I've always been curious as to how she managed to become a fully-fledged knight at such a young age. I actually went to ask her for tips once, but I'd barely started talking to her when she grabbed me by the hand and took me outside the Knights headquarters to play with bombs. I thought it was some kind of training exercise at first, but Jean found us, and we both ended up in a solitary confinement...
+About Jean Friendship Lv. 4About Jean Friendship Lv. 4Media:VO_Noelle About Jean.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_About_Jean.ogg Master Jean has always been my role model, both in terms of ability and dedication. She holds herself and others to the same high standards, so if there ever comes a day when I meet with her approval, it will be the ultimate acknowledgment of all my efforts so far. Until then, there's no room for complacency!
+About Varka Friendship Lv. 4About Varka Friendship Lv. 4Media:VO_Noelle About Varka.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_About_Varka.ogg At first I wanted to join his expedition party and do my part as a maid. But the Grand Master said no — it would give him more peace of mind if I stayed behind to take care of things in Mondstadt. It made me so happy to hear how much he values me! ...Okay, so apparently he said the same thing to a lot of people. But that doesn't change the fact he prizes me too!
+About Kaeya Friendship Lv. 4About Kaeya Friendship Lv. 4Media:VO_Noelle About Kaeya.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_About_Kaeya.ogg He's a mysterious character! He comes and goes like the wind, and is always occupied with important business. I like the fact that he delegates some of the smaller jobs to me sometimes, it's nice to feel like part of the team, you know... What do you mean, "errand runner"? I don't see it like that at all! Okay, well yes, technically I run errands for him. But still, I really appreciate it!
+About Bennett Friendship Lv. 4About Bennett Friendship Lv. 4Media:VO_Noelle About Bennett.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_About_Bennett.ogg He's asked me to join the Adventurers' Guild more than a few times, saying that life there would suit me better than with the Knights of Favonius. While I could help him take care of his "dads" like the other adventurers... the Knights hold a special meaning for me, and I'm not ready to give up on becoming one yet. No, I simply cannot accept his offer.
+About Fischl: Tea Friendship Lv. 4About Fischl: Tea Friendship Lv. 4Media:VO_Noelle About Fischl - Tea.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_About_Fischl_-_Tea.ogg I think she's from another world, but I don't know the details. One thing I do know, however, is that she loves the Knights of Favonius' library. She can always be found there with her nose in a book. I bring her some refreshments whenever I go in there to clean, and she always thanks me profusely. When I say profusely... I mean she goes a bit over the top, to be honest, and... I actually don't understand half of what she's saying.
+About Fischl: Background Friendship Lv. 6About Fischl: Background Friendship Lv. 6Media:VO_Noelle About Fischl - Background.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_About_Fischl_-_Background.ogg So once when I was cleaning the library, I noticed a book on the shelf called Flowers for Princess Fischl. At the time I assumed it was just a fantasy novel... I was so surprised to find out the main character is a real person. I could hardly believe it! She must be someone incredible to have a whole book dedicated to her.
+About Barbara Friendship Lv. 4About Barbara Friendship Lv. 4Media:VO_Noelle About Barbara.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_About_Barbara.ogg We take tea breaks together sometimes. Often she'll start humming a tune, saying inspiration has come to her. I'm not the right person to give useful feedback on anything musical... But I still love spending time with Barbara.
+More About Noelle: IMore About Noelle: IMedia:VO_Noelle More About Noelle - 01.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_More_About_Noelle_-_01.ogg How may I be of assistance? ...Oh, you just want to chat? Okay then! Well, if that's how I can help, then please feel free to chat as long as you'd like.
+More About Noelle: II Friendship Lv. 3More About Noelle: II Friendship Lv. 3Media:VO_Noelle More About Noelle - 02.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_More_About_Noelle_-_02.ogg Not a problem, I am here to serve in whatever capacity you require. You needn't be concerned about the way I feel. ...Huh? More tool than maid? I disagree! A tool might help you to complete a million tasks to a satisfactory standard, but it feels nothing. I, on the other hand, feel a strong sense of achievement every time I do something for you.
+More About Noelle: III Friendship Lv. 4More About Noelle: III Friendship Lv. 4Media:VO_Noelle More About Noelle - 03.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_More_About_Noelle_-_03.ogg Th—These treats are for me? Oh no, I couldn't, really. Well... Then I'll make some for you too! I'll go right now, right this instant! Half an hour... Ah, okay, maybe an hour, tops. You can busy yourself with other things first, and I'll be sure to deliver them right to you, hot and fresh out of the oven!
+More About Noelle: IV Friendship Lv. 5More About Noelle: IV Friendship Lv. 5Media:VO_Noelle More About Noelle - 04.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_More_About_Noelle_-_04.ogg I spend all my days handling the most trivial of matters, but so long as it helps you in your adventure, or makes your life easier in some small way, I couldn't be happier. That's because each time I get a thank-you, it makes me feel like my work at least has some meaning, no matter how insignificant it seems.
+More About Noelle: V Friendship Lv. 6More About Noelle: V Friendship Lv. 6Media:VO_Noelle More About Noelle - 05.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_More_About_Noelle_-_05.ogg Even though I mostly work for the Knights of Favonius, I'm always looking out for ways I can help more people. These days, though, I seem to be spending more and more of my time with you... It might be a bit selfish of me... What do you think?
+Noelle's HobbiesNoelle's HobbiesMedia:VO_Noelle Hobbies.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_Hobbies.ogg My hobby? I really like washing all sorts of things... clothes, floorboards, windows, you name it! Whenever I see something dirty, I just want to give it a good old clean! It just gives me such a sense of achievement! ...Oh, you mean the things I do in my free time? Hmm... Same answer!
+Noelle's TroublesNoelle's TroublesMedia:VO_Noelle Troubles.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_Troubles.ogg How to get more for your Mora? Last time I went all the way to Liyue, I visited every single shop to compare prices, and then carried everything back myself... I won't be doing that again though. I was on the road for so long that Jean was convinced I'd been gobbled up by Stormterror along the way!
+Favorite FoodFavorite FoodMedia:VO_Noelle Favorite Food.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_Favorite_Food.ogg My favorite is easily a Satisfying Salad. The best of Mondstadt's natural produce on one plate — highly nutritious, and a low calorie count. No, I never get sick of eating it — it's delicious! I've been eating it for ten years now.
+Least Favorite FoodLeast Favorite FoodMedia:VO_Noelle Least Favorite Food.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_Least_Favorite_Food.ogg I'm not a fussy eater, but I really don't like banquets... The reason being, as the maid, I am expected to sample every single dish on the table to ensure its quality. Just one bite of each, of course, but it all adds up... Oh, the guilt...
+Receiving a Gift: IReceiving a Gift: IMedia:VO Noelle Receiving a Gift - 01.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_Receiving_a_Gift_-_01.ogg How can you make such a simple dish taste so good? My admiration towards you just keeps growing!
+Receiving a Gift: IIReceiving a Gift: IIMedia:VO Noelle Receiving a Gift - 02.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_Receiving_a_Gift_-_02.ogg This tastes wonderful! Uh, would you mind teaching me how to make this? After all, it is my duty as a maid...
+Receiving a Gift: IIIReceiving a Gift: IIIMedia:VO Noelle Receiving a Gift - 03.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_Receiving_a_Gift_-_03.ogg Hmm... This is more than I normally eat in a whole day...
+BirthdayBirthdayMedia:VO_Noelle Birthday.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_Birthday.ogg Since you're always so busy adventuring, there must be so many little things you never get round to, surely? Well, you need not worry about them adding up, because today, I am all yours — your exclusive maid for the entire day! Just leave it all to me! ...Also, I'd like to take this opportunity to wish you a very happy birthday!
+Feelings About Ascension: Intro Ascension Phase 1Feelings About Ascension: Intro Ascension Phase 1Media:VO_Noelle Feelings About Ascension - 01.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_Feelings_About_Ascension_-_01.ogg What is this... new power!? Thank you! Now I can be of assistance to even more people.
+Feelings About Ascension: Building Up Ascension Phase 2Feelings About Ascension: Building Up Ascension Phase 2Media:VO_Noelle Feelings About Ascension - 02.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_Feelings_About_Ascension_-_02.ogg I cannot rest on my laurels. After all, I'm not even formally a knight yet. Until that day, I must work even harder.
+Feelings About Ascension: Climax Ascension Phase 4Feelings About Ascension: Climax Ascension Phase 4Media:VO_Noelle Feelings About Ascension - 03.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_Feelings_About_Ascension_-_03.ogg Thank you for the opportunity to accompany you on your adventures, it's taught me a lot and I believe I have improved a lot. As a maid, I should be the one serving you, but it seems you have done more for me than I could ever imagine...
+Feelings About Ascension: Conclusion Ascension Phase 6Feelings About Ascension: Conclusion Ascension Phase 6Media:VO_Noelle Feelings About Ascension - 04.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_Feelings_About_Ascension_-_04.ogg Everyone in Mondstadt is saying that I'm much more reliable now. Some even say that I'm to be made a true knight soon, but I don't think... What!? You think so too!? Oooohh, thank you! Coming from you, that is the best compliment I could ever hope for!
+Combat
+TitleDetailsElemental SkillElemental SkillMedia:VO Noelle Elemental Skill 1 01.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_Elemental_Skill_1_01.ogg Steady as stone.Media:VO Noelle Elemental Skill 1 02.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_Elemental_Skill_1_02.ogg I must leave no stone unturned.Media:VO Noelle Elemental Skill 1 03.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_Elemental_Skill_1_03.ogg Leave it all to me.Elemental BurstElemental BurstMedia:VO Noelle Elemental Burst 01.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_Elemental_Burst_01.ogg Time to clean up.Media:VO Noelle Elemental Burst 02.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_Elemental_Burst_02.ogg As a good knight should.Media:VO Noelle Elemental Burst 03.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_Elemental_Burst_03.ogg As a dutiful maid would.Sprint StartSprint StartMedia:VO Noelle Sprint Start 01.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_Sprint_Start_01.ogg I'll catch up.Media:VO Noelle Sprint Start 02.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_Sprint_Start_02.ogg Someone needs assistance.Media:VO Noelle Sprint Start 03.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_Sprint_Start_03.ogg Media:VO Noelle Sprint Start 04.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_Sprint_Start_04.ogg Media:VO Noelle Sprint Start 05.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_Sprint_Start_05.ogg Sprint EndSprint EndNoelle does not feature any Sprint End Voice-Overs.Deploying Wind GliderDeploying Wind GliderMedia:VO Noelle Deploying Wind Glider 01.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_Deploying_Wind_Glider_01.ogg Media:VO Noelle Deploying Wind Glider 02.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_Deploying_Wind_Glider_02.ogg Media:VO Noelle Deploying Wind Glider 03.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_Deploying_Wind_Glider_03.ogg Opening Treasure ChestOpening Treasure ChestMedia:VO Noelle Opening Treasure Chest 01.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_Opening_Treasure_Chest_01.ogg All in a day's work.Media:VO Noelle Opening Treasure Chest 02.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_Opening_Treasure_Chest_02.ogg Oh, wonderful...Media:VO Noelle Opening Treasure Chest 03.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_Opening_Treasure_Chest_03.ogg A little dusty... Best give it a spring-cleaning!Low HPLow HPMedia:VO Noelle Low HP 01.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_Low_HP_01.ogg I can patch myself up.Media:VO Noelle Low HP 02.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_Low_HP_02.ogg Ugh, that's going back in the wash...Media:VO Noelle Low HP 03.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_Low_HP_03.ogg If at first you don't succeed...Ally at Low HPAlly at Low HPMedia:VO Noelle Ally at Low HP 01.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_Ally_at_Low_HP_01.ogg Apply continuous pressure to the wound.Media:VO Noelle Ally at Low HP 02.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_Ally_at_Low_HP_02.ogg Let me get this. You need medical attention!FallenFallenMedia:VO Noelle Fallen 01.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_Fallen_01.ogg I am a disgrace... to the knights...Media:VO Noelle Fallen 02.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_Fallen_02.ogg But they still need me...Media:VO Noelle Fallen 03.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_Fallen_03.ogg It was my honor to serve you...Light Hit TakenLight Hit TakenMedia:VO Noelle Light Hit Taken 01.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_Light_Hit_Taken_01.ogg Media:VO Noelle Light Hit Taken 02.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_Light_Hit_Taken_02.ogg Media:VO Noelle Light Hit Taken 03.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_Light_Hit_Taken_03.ogg Media:VO Noelle Light Hit Taken 04.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_Light_Hit_Taken_04.ogg Media:VO Noelle Light Hit Taken 05.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_Light_Hit_Taken_05.ogg Media:VO Noelle Light Hit Taken 06.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_Light_Hit_Taken_06.ogg Heavy Hit TakenHeavy Hit TakenMedia:VO Noelle Heavy Hit Taken 02.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_Heavy_Hit_Taken_02.ogg Ugh... I missed a spot...Media:VO Noelle Heavy Hit Taken 01.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_Heavy_Hit_Taken_01.ogg Media:VO Noelle Heavy Hit Taken 03.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_Heavy_Hit_Taken_03.ogg Media:VO Noelle Heavy Hit Taken 04.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_Heavy_Hit_Taken_04.ogg Media:VO Noelle Heavy Hit Taken 05.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_Heavy_Hit_Taken_05.ogg Media:VO Noelle Heavy Hit Taken 06.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_Heavy_Hit_Taken_06.ogg Joining PartyJoining PartyMedia:VO Noelle Joining Party 01.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_Joining_Party_01.ogg Ohhh, how exciting! Ahem.Media:VO Noelle Joining Party 02.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_Joining_Party_02.ogg I will protect you.Media:VO Noelle Joining Party 03.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_Joining_Party_03.ogg As you wish.Character Idles(Note: Chat & Weather voice-over can also be heard as idles.)Character Idles(Note: Chat & Weather voice-over can also be heard as idles.)Noelle does not feature any Character Idles Voice-Overs.Light AttackLight AttackMedia:VO Noelle Light Attack 01.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_Light_Attack_01.ogg Media:VO Noelle Light Attack 02.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_Light_Attack_02.ogg Media:VO Noelle Light Attack 03.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_Light_Attack_03.ogg Media:VO Noelle Light Attack 04.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_Light_Attack_04.ogg Media:VO Noelle Light Attack 05.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_Light_Attack_05.ogg Media:VO Noelle Light Attack 06.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_Light_Attack_06.ogg Media:VO Noelle Light Attack 07.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_Light_Attack_07.ogg Mid AttackMid AttackMedia:VO Noelle Mid Attack 01.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_Mid_Attack_01.ogg Media:VO Noelle Mid Attack 02.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_Mid_Attack_02.ogg Media:VO Noelle Mid Attack 03.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_Mid_Attack_03.ogg Media:VO Noelle Mid Attack 04.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_Mid_Attack_04.ogg Media:VO Noelle Mid Attack 05.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_Mid_Attack_05.ogg Heavy AttackHeavy AttackMedia:VO Noelle Heavy Attack 01.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_Heavy_Attack_01.ogg Media:VO Noelle Heavy Attack 02.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_Heavy_Attack_02.ogg Media:VO Noelle Heavy Attack 03.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_Heavy_Attack_03.ogg ClimbingClimbingMedia:VO Noelle Climbing 01.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_Climbing_01.ogg Media:VO Noelle Climbing 02.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_Climbing_02.ogg Media:VO Noelle Climbing 03.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_Climbing_03.ogg Climbing BreathClimbing BreathMedia:VO Noelle Climbing Breath 01.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_Climbing_Breath_01.ogg Media:VO Noelle Climbing Breath 02.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_Climbing_Breath_02.ogg Media:VO Noelle Climbing Breath 03.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_Climbing_Breath_03.ogg Media:VO Noelle Climbing Breath 04.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_Climbing_Breath_04.ogg JumpingJumpingMedia:VO Noelle Jumping 01.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_Jumping_01.ogg Media:VO Noelle Jumping 02.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_Jumping_02.ogg Media:VO Noelle Jumping 03.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_Jumping_03.ogg Media:VO Noelle Jumping 04.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_Jumping_04.ogg Media:VO Noelle Jumping 05.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Noelle_Jumping_05.ogg 
+Navigation
+  Characters  (Voice-Overs)AnotherWorld
+
+Mondstadt
+
+Liyue
+
+Inazuma
+
+Sumeru
+
+Fontaine
+
+Snezhnaya
+
+
+Upcoming Characters announced by HoYoverse.
+
+
+
+
+
+
+
+OverviewLoreVoice-OversOutfitsCompanionGallery
+
+
+Noelle
+
+
+
+
+
+
+
+
+
+
+Category
+Companion Companion
+
+
+Quality
+
+
+
+
+
+Adeptal Energy
+Load 
+
+
+300
+1200 
+
+
+
+
+Adeptal Energy per Load 
+
+
+0.25
+
+
+
+
+
+
+
+
+
+								Description
+							
+
+
+
+
+
+Character In-Residence
+
+
+
+
+
+Noelle can be invited as a Companion into the player's Serenitea Pot after obtaining her and completing the World Quest Idle Teapot Talk.
+
+Contents
+
+1 Favorite Furnishing Sets
+2 Idle Quotes
+3 Dialogue
+4 Special Dialogue
+
+4.1 Weapon Forging Station
+4.2 Amidst Whispering Winds
+
+
+5 Change History
+6 Navigation
+
+
+Favorite Furnishing Sets
+If a character's favorite furnishing set is placed in the same realm as the character for the first time, the character will automatically teleport to the furnishing set. Interacting with the character will initiate a special dialogue, after which the character will teleport back to their original position.
+
+Noelle has 2 Favorite Furnishing Sets:Furnishing SetRewardsAmidst Whispering Winds 20 1 20,000Weapon Forging Station 20 2 20,000
+Idle Quotes
+
+ A maid's work...
+ Nice and clean...
+ I'll go wash up...
+ Time to clean up...,
+ My chivalric training...
+(When the player is nearby)
+ I'm at your service!
+ Good to see you again!
+
+Dialogue
+
+Media:vo noelle mimitomo hello 01.ogg Noelle Hello, (TravelerTravelerThe player's chosen name for the Traveler)! I'm so happy to see you again!
+Media:vo noelle mimitomo hello 02.ogg Noelle Can I do anything for you? I'm at your service.
+ How do you like it here?
+Media:vo noelle mimitomo friendship1 01.ogg Noelle I love the atmosphere here, as I'm sure you'd expect.
+Media:vo noelle mimitomo friendship1 02.ogg Noelle The exterior is spacious and very pleasant, and the interior is exquisitely decorated.
+Media:vo noelle mimitomo friendship1 03.ogg Noelle I do believe it's the finest estate I've ever seen!
+Media:vo noelle mimitomo friendship1 04.ogg Noelle The only problem is...
+ Problem? What is it?
+Media:vo noelle mimitomo friendship1 04a.ogg Noelle Compared to Mondstadt, there is far too little here for a maid to do.
+Media:vo noelle mimitomo friendship1 05.ogg Noelle It feels a little too relaxing...
+(Unlocks at Friendship Level 4)
+ Would you like to have a chat with me?
+Media:vo noelle mimitomo friendship2 01.ogg Noelle It would be my pleasure!
+Media:vo noelle mimitomo friendship2 02.ogg Noelle Do you know something? Ever since I came here, I don't believe I've picked up a single item of lost property.
+Media:vo noelle mimitomo friendship2 03.ogg Noelle I'm still not used to it...
+ ...Huh?
+Media:vo noelle mimitomo friendship2 04a.ogg Noelle What I mean is, I often used to find odds and ends while performing my cleaning duties.
+ Wait, so you go around collecting random lost items?
+Media:vo noelle mimitomo friendship2 04b.ogg Noelle N—No, they're just items I find while cleaning...
+Media:vo noelle mimitomo friendship2 05.ogg Noelle For example... A faded headband under a cabinet.
+Media:vo noelle mimitomo friendship2 06.ogg Noelle Or a ball hidden in a bush by a kitten.
+Media:vo noelle mimitomo friendship2 07.ogg Noelle Or a bookmark in a corner of the library, keys dropped at the side of the road, an unsigned letter of confession stuck in the door of the church...
+ Sounds like cleaning is quite exhausting...
+Media:vo noelle mimitomo friendship2 08a.ogg Noelle No, no, not at all! It is a great honor to perform my duties.
+ Where do all these things end up?
+Media:vo noelle mimitomo friendship2 08b.ogg Noelle I always do my utmost to reunite each item with its owner! But the ones that go unclaimed remain at the Knights of Favonius headquarters.
+Media:vo noelle mimitomo friendship2 09.ogg Noelle Speaking of cleaning...
+Media:vo noelle mimitomo friendship2 10.ogg Noelle This place always seems so clean and tidy.
+ In no small part due to your efforts.
+Media:vo noelle mimitomo friendship2 11.ogg Noelle Thank you...!
+Media:vo noelle mimitomo friendship2 12.ogg Noelle It's always very fulfilling to work here! More so than when I'm cleaning for the Knights or anywhere else.
+Media:vo noelle mimitomo friendship2 13.ogg Noelle Because... this is your home.
+(Unlocks at Friendship Level 7)
+ Anything you'd like to do?
+Media:vo noelle mimitomo friendship3 01.ogg Noelle Huh? You're asking me...?
+Media:vo noelle mimitomo friendship3 02.ogg Noelle I... I want to take your measurements and make an outfit for you.
+ Where has that idea come from?
+ So you even know how to sew, too?
+Media:vo noelle mimitomo friendship3 03b.ogg Noelle Oh, of course... They... don't call me the, uh, "Wondermaid" for nothing...
+Media:vo noelle mimitomo friendship3 04.ogg Noelle If you wore clothes that I made for you...
+Media:vo noelle mimitomo friendship3 05.ogg Noelle It'd most certainly be a wonderfully momentous occasion...
+ Well, if you insist... Much obliged!
+ I'll be sure to get you something in return.
+Media:vo noelle mimitomo friendship3 06.ogg Noelle Okay... Alright then...
+Media:vo noelle mimitomo friendship3 07.ogg Noelle Excellent! Time to get busy-busy again!
+Media:vo noelle mimitomo friendship3 08.ogg Noelle Only, this must be the happiest kind of busy in all of Teyvat.
+(Between 6:00 and 19:00)
+ Good morning, Noelle.
+Media:vo noelle mimitomo morning 01.ogg Noelle Good morning, (TravelerTravelerThe player's chosen name for the Traveler).
+Media:vo noelle mimitomo morning 02.ogg Noelle The temperature has been fluctuating greatly as of late, so please take care to not catch a cold.
+(Between 19:00 and 6:00)
+ Good night, Noelle.
+Media:vo noelle mimitomo night 01.ogg Noelle Good night, (TravelerTravelerThe player's chosen name for the Traveler).
+Media:vo noelle mimitomo night 02.ogg Noelle Should you require a glass of hot milk or a lullaby, I will see to it without delay.
+
+Special Dialogue
+When a character is invited to or invites themselves to their favorite set for the first time, the character will provide a reward. They will provide a reward for each of their favorite sets.
+Inviting them to the furnishing set again will replay the dialogue, but no further reward will be given.
+
+Weapon Forging Station
+
+Media:vo mimitomo md noel blacksmith 01.ogg Noelle: These facilities will make it much easier to maintain our weapons.
+Media:vo mimitomo md noel blacksmith 02.ogg Noelle: After all, I must be ready for battle at any moment if I am to protect everyone.
+Media:vo mimitomo md noel blacksmith 03.ogg Noelle: Thank you for doing this. You... are also someone I want to protect.
+
+Amidst Whispering Winds
+
+Media:vo mimitomo md noel bedroom 01.ogg Noelle: Did you arrange all of this yourself?
+Media:vo mimitomo md noel bedroom 02.ogg Noelle: To have you do such strenuous work yourself... I should have come to your aid earlier. I have neglected my duty as a maid.
+Media:vo mimitomo md noel bedroom 03.ogg Noelle: You must be tired after a hard day's work. I'll brew you some tea and prepare your favorite snacks. Please rest well.
+
+Change History
+Released in Version 1.6[Create New History]
+Navigation
+  Living Beings
+ Companions5★
+
+4★
+
+Paimon
+
+
+
+ AnimalsCreatures
+
+
+
+
+
+

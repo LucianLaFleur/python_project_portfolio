@@ -1,0 +1,887 @@
+all_furnishings.txt:
+ d, and is a public facility found throughout Fontaine.Legend has it that in the early days of the establishment of The Steambird, promoters were tasked with distribu
+---
+all_furnishings.txt:
+ hat when they were young, they would meet their friends under the pines. In the early morning hours, they would form groups and go out before returning by evening, t
+---
+all_furnishings.txt:
+ w this pair of best friends are here to stay in the Realm Within!Klee went home early every day to use Albedo's scrapbook as a reference, and finally managed to craf
+---
+all_furnishings.txt:
+ o use it as a resting spot while they are on sentry duty.It is said that in the early days, Aaru Village was already ringed with a fixed number of sentries on the al
+---
+all_furnishings.txt:
+  Refined Estate, built in a style commonly seen in Inazuma.They say that in the early days, there were some areas that were distinctly walled off, but as the city ar
+---
+all_furnishings.txt:
+ the impression they give, however, these trees grow into their set shape during early winter. When they first show their vibrant color, a special layer of wax grows 
+---
+all_furnishings.txt:
+ t all their campfires. She thus vanquished her enemy, bringing the battle to an early end and avoiding unnecessary casualties.
+Remarkable Chest
+Textured_Whitestone_S
+---
+all_furnishings.txt:
+ key when it comes to running a small business, and business-people tend to rise early and go to bed late, so they often feel the need to stay close to their workplac
+---
+all_furnishings.txt:
+  those who do so after enjoying some tea, they will think of the outer wilds in early spring, filled with vitality.
+Realm Depot
+Celebratory_Kite:_All's_Well : Exteri
+---
+all_furnishings.txt:
+  the dye-work is a lot less troublesome and certainly lacks the weight of those early days, but the people of Bourou Village have never stopped being fond of this co
+---
+all_furnishings.txt:
+  found near Sangonomiya Shrine. They grow vigorously when the snow melts in the early spring and are notable amongst people for their "thrice-dyed crimson" hue.Like 
+---
+all_furnishings.txt:
+ festivals, people often think of a joyful celebration, of not needing to get up early to go to work, so why not be just like this little Suanni and lie down to enjoy
+---
+all_furnishings.txt:
+ ng Table
+A desk made from fragrant cedar that has been crafted from wood in the early, incipient stages of decay. The wood grain here is most elegant, as if reflecti
+---
+all_furnishings.txt:
+ characters take the stage in some productions, cymbals and gongs must be played.Early on in Yun Jin's opera education, she would observe the timings at which these g
+---
+all_furnishings.txt:
+  the standard commercial buildings in the Court of Fontaine. It is a product of early forays into modular architecture, and an example given in the Court of Fontaine
+---
+all_furnishings.txt:
+ f wood and stone. The visibility from the top is unparalleled, giving it strong early warning capabilities. The large lanterns installed at the top are lights most l
+---
+all_furnishings.txt:
+  were products developed by a Fontaine Research Institute project team in their early years. In order to reduce and share R&D costs, relevant technologies were relea
+---
+all_hangout.txt:
+ oin Heizou: I was starting to think our investigation was about to end a little early. That would have been a real shame. Man alive, you finally saw through my littl
+---
+all_hangout.txt:
+ cop001 1907803 alkami 01.ogg Alkami: Oh, I didn't expect you two to get here so early.
+Media:vo kvcop001 1907803 kaveh 01.ogg Kaveh: I was up last night preparing fo
+---
+all_hangout.txt:
+ that.
+Media:vo kvcop001 1905904 kaveh 18.ogg Kaveh: My father passed away at an early age. Even though I had a good number of friends during my years at the Akademiya
+---
+all_hangout.txt:
+ ress-dependent. The conference in Item 4 is scheduled for the evening. Arriving early is recommended.
+Media:vo ngcop001 1913102 baishi 24.ogg Baishi: Good. You facto
+---
+all_hangout.txt:
+ ishi 28.ogg Baishi: I hope so, too. You must be exhausted. Make sure you get an early night tonight.
+(Proceed to Business as Usual)
+ (Alright. Time to avoid anything
+---
+all_hangout.txt:
+ ishi 35.ogg Baishi: I hope so, too. You must be exhausted. Make sure you get an early night tonight.
+(Proceed to Time Off!)
+Other Languages[]
+LanguageOfficial NameLi
+---
+all_hangout.txt:
+  lntcop001 1918203 merieux 11.ogg Merieux: You shouldn't give your attention to early drafts of the script, Lynette. All it would do is sow confusion where you alrea
+---
+all_hangout.txt:
+ ieux.)
+(If the card is less than 15)
+Investigation Notes: (Skimming through the early newspaper clippings, none of the headlines mention Director Merieux...)
+Investi
+---
+all_hangout.txt:
+ vo lntcop001 1918210 amaury 02.ogg Amaury: Haha, well, you know how it is — the early critics get all the readers! Wouldn't you agree, Merieux?
+Media:vo lntcop001 19
+---
+all_hangout.txt:
+  chosen name for the Traveler), Todoroki said that he'd be going to Sangonomiya early tomorrow morning to get Gorou's instructions before the caravan leaves.
+Media:v
+---
+all_hangout.txt:
+ p001 1907103 badawi 06.ogg Badawi: Unfortunately, no. My wife passed away at an early age, and I don't have any children.
+Media:vo kvcop001 1907103 badawi 07.ogg Bad
+---
+all_hangout.txt:
+ anIdentità segreta
+Change History[]
+Released in Version 2.3[Create New History]
+Early Learning Mechanism : 
+Early Learning Mechanism
+Quest Type
+Story
+Group
+Hangout E
+---
+all_hangout.txt:
+ story[]
+Released in Version 2.3[Create New History]
+Early Learning Mechanism : 
+Early Learning Mechanism
+Quest Type
+Story
+Group
+Hangout Event
+Chapter
+Faruzan: Act I 
+---
+all_hangout.txt:
+ ruzan, Kamal, Mamdouh, Nadwah, Nazenin, Qasit, Ruhi, Servan, Tighnari, Traveler
+Early Learning Mechanism is a quest in Faruzan's Hangout Event: Act I - A Confounding
+---
+all_hangout.txt:
+ tive in training the mind...
+Media:vo frzcop001 1917203 anis 02.ogg Anis: These early learning toys are meant to help the Akademiya train future researchers, after a
+---
+all_hangout.txt:
+ ctions despite using simple parts. Maybe we can do something similar with these early learning toys...
+Media:vo frzcop001 1917203 faruzan 03.ogg Faruzan: The contrap
+---
+all_hangout.txt:
+ is 04.ogg Anis: Um, isn't this a little too simple? Even by the standards of an early learning toy, I mean...
+Media:vo frzcop001 1917203 faruzan 08.ogg Faruzan: Of c
+---
+all_hangout.txt:
+  well. You didn't underestimate the "principles" behind it just because it's an early learning toy.
+Media:vo frzcop001 1917203 faruzan 24.ogg Faruzan: The complexity
+---
+all_hangout.txt:
+ 1 1917204 faruzan 23.ogg Faruzan: You're right. Explanations are a core part of early development, too.
+Media:vo frzcop001 1917204 faruzan 24.ogg Faruzan: By using d
+---
+all_hangout.txt:
+ avatat specializes in... Pay attention, children... children!
+ Looks like these early learning toys are a success.
+ However, looks like recruiting students might be 
+---
+all_hangout.txt:
+ resence of Imitation Sinthe overseas. We managed to track down evidence of some early transactions. What we were able to find out, however, hasn't proven that useful
+---
+all_hangout.txt:
+ 04 barbara 08.ogg Barbara: When I first began singing practice, I had to get up early every day.
+Media:vo bblcop001 1900504 barbara 09.ogg Barbara: After practice, I
+---
+all_hangout.txt:
+ ia:vo bblcop001 1900504 barbara 10.ogg Barbara: But because I was getting up so early... my singing wasn't getting any better. Sometimes I'd be half asleep, singing 
+---
+all_hangout.txt:
+ Mondstadt[]
+A Holiday in Mondstadt
+Aether
+Lumine
+"We've only just met, it's too early to say goodbye."...
+To be sorted[]
+Media:vo bblcop001 1900901 paimon 03.ogg Pai
+---
+all_hangout.txt:
+ 1917306 tighnari 03.ogg Tighnari: Well, hurry up and finish it so you can sleep early, or Faruzan will worry. That's the best thing you can do now to help.
+Media:vo 
+---
+all_hangout.txt:
+ noecop001 1906803 noelle 13.ogg Noelle: N—No! ...Nothing! This book... it's too early to read this book...
+Media:vo noecop001 1906803 noelle 14.ogg Noelle: L—Let's l
+---
+all_hangout.txt:
+ s."
+Media:vo jqrcop001 1914501 shinobu 05.ogg Kuki Shinobu: Once people see the early investors making their money back, scores of other investors jump on the bandwa
+---
+all_hangout.txt:
+ alk to Mr. Iron Abacus
+A Strange Transaction
+Go to Guyun Stone Forest
+Wait till early morning (00:00–05:00)
+Talk to Mr. Iron Abacus
+Take a walk by the beach with Bei
+---
+all_hangout.txt:
+  that the first offerings of Imitation Sinthe came from what Pierre made in his early days, but since he was not experienced with running a clandestine operation, he
+---
+all_hangout.txt:
+ p001 1913204 ningguang 23.ogg Ningguang: Or how about this — I'll invest in you early on, before you make it big.
+ I'm a novice, but I was able to follow because you
+---
+all_nation_main_page_info_collection.txt:
+ a font most typical in German-speaking countries from the Middle Ages until the early 21st century. You can still see it on many signs or old houses in Germany. Howe
+---
+all_npc_text.txt:
+ , "Akuou" has become the more well-known name for him.
+In the Japanese version, early texts pertaining to Akuou from Versions 2.0 and 2.1 wrote his name as 悪王, which
+---
+all_npc_text.txt:
+  of both of their personalities, talents, and intelligence in Alhaitham from an early age.
+She is a pivotal figure in Alhaitham's backstory, having instilled in him 
+---
+all_npc_text.txt:
+  the middle name of Thomas Alva Edison, an American inventor known for creating early versions of the light bulb and compared to Tesla so often that popular culture 
+---
+all_npc_text.txt:
+  goes with the Receiver Crystal would cost an absolute fortune.
+Patrice: In the early stages of applying new technologies, costs are always high. But once there's de
+---
+all_npc_text.txt:
+ s good for your mental health.
+ About the secret to staying healthy...
+Arderne: Early to bed, early to rise. Eat healthy foods. Moderate exercise. Take care of your 
+---
+all_npc_text.txt:
+ r mental health.
+ About the secret to staying healthy...
+Arderne: Early to bed, early to rise. Eat healthy foods. Moderate exercise. Take care of your mental health 
+---
+all_npc_text.txt:
+  I'm going to enter the Interdarshan Championship too!
+Arina: Huh... It's a bit early to be thinking about this, isn't it? Didn't our instructors say that seeking kn
+---
+all_npc_text.txt:
+  I'm going to enter the Interdarshan Championship too!
+Arina: Huh... It's a bit early to be thinking about this, isn't it? Didn't our instructors say that seeking kn
+---
+all_npc_text.txt:
+ ya: Well... I suppose it's not bad for him to learn about merchants' job in his early age. When he grows up, he can help with the family business.
+During Outside the
+---
+all_npc_text.txt:
+  Inazuma
+Atsuko is from Inazuma and is the daughter of Yoh and Michiru. From an early age, Atsuko strove to be independent, having learned to cook by the time she wa
+---
+all_npc_text.txt:
+ up with him in his old age, and that he has no one to look after him due to the early death of his wife and his lack of children. He laments the way his life had bee
+---
+all_npc_text.txt:
+ om classic tea cauldrons to machinery, I caught wind and took advantage of that early adoption to accumulate a substantial amount of funds.
+Baishu: I started a teaho
+---
+all_npc_text.txt:
+ e, which we based on the available intel on your circumstances at the time, was early by a whole two hours. Hmm..
+Baiwen: I must reflect on the cause of this discrep
+---
+all_npc_text.txt:
+ lways ready to sacrifice himself for others. It's unfortunate that he passed so early and never had the chance to live his years to their fullest.
+Mr. Bai falsely cl
+---
+all_npc_text.txt:
+ alfour: Oh, you can rest assured about that!
+Balfour: Though the game is in its early test stages, it is open to all, and anyone who wants to can try it and make sug
+---
+all_npc_text.txt:
+  perch.[1]
+Baulande took the mission as if he was successful, he would enjoy an early retirement with his family, who lived on the outskirts of the Court of Fontaine
+---
+all_npc_text.txt:
+ er was born before the cataclysm, and his family experienced poverty during his early life. Later on, something "[went] wrong",[3] causing him to lose his family[4] 
+---
+all_npc_text.txt:
+ t like this!
+Cyrus: This is exactly how Mondstadt is said to have looked in the early days, according to the legends...
+Cyrus: Hey, kiddo! Welcome to the Adventurers
+---
+all_npc_text.txt:
+ Proverb Column
+When Lisa entered Sumeru Akademiya, he took a liking to her work early on and deemed her to be the greatest scholar the Akademiya had seen in 200 year
+---
+all_npc_text.txt:
+ e research and development, the Akademiya would recruit talented children at an early age.
+Darya: I'm the teacher for those children. Seeing them mature into accompl
+---
+all_npc_text.txt:
+ n coming home late at times to his family with sweets for Chevreuse and woke up early in the morning for his shifts. Donatello's work ethic was noted by everyone, an
+---
+all_npc_text.txt:
+ xt hunt, of course! Is that a trick question or something?
+Draff: Goodbye! Come early enough next time and there might still be a few drinks left for you! Hahaha!
+Dr
+---
+all_npc_text.txt:
+  a ship. That ship that's just set sail to be precise...
+Guanhai: Getting up so early in the morning is my biggest hurdle. I never seem to get enough sleep.
+Guanhai:
+---
+all_npc_text.txt:
+  and do at night, how can anyone expect me to sleep!? Haha, no way. That whole "early to bed, early to rise" lifestyle... I'd rather be dead.
+Guanhai: Ahh... Seems t
+---
+all_npc_text.txt:
+ ht, how can anyone expect me to sleep!? Haha, no way. That whole "early to bed, early to rise" lifestyle... I'd rather be dead.
+Guanhai: Ahh... Seems the captain has
+---
+all_npc_text.txt:
+  locals here, too.
+Gulabgir: In the rain forest, we were awakened by Dusk Birds early in the morning and searched for food. At the port, people get up to work alongs
+---
+all_npc_text.txt:
+ Additional Titles
+The Heavenly Principles, also called destiny or the divine in early parts of the English localization,[Note 1] is the progenitor god who allegedly 
+---
+all_npc_text.txt:
+ rk! Work! Work! Sprint to the finish! Go above and beyond the call of duty, win early!
+ Take it easy over there...
+Hustler: When one task is done, I can start anothe
+---
+all_npc_text.txt:
+ r and no one dares to break her rules.
+Innam: *sigh* I just want to finish work early and go to the bar for drinks.
+Innam: *sigh* Guess I'll keep working this boring
+---
+all_npc_text.txt:
+ by the Shore
+Inu Shoushou's story resembles that of Hachikou, a dog born in the early 1920s who would always meet his owner, Hidesaburou Ueno, at Shibuya Station aft
+---
+all_npc_text.txt:
+ 
+Istaroth's direct role in Mondstadt's history is currently unknown, but in the early days of Barbatos' Mondstadt, she was worshipped alongside the Anemo Archon hims
+---
+all_npc_text.txt:
+ nda Village as a token of gratitude from him.
+Little is known about Michihiro's early life, besides the fact that he was Chiyo's biological son. At some point in tim
+---
+all_npc_text.txt:
+ rder of Skeptics. At this time, Jakob had recently grown his third adult tooth. Early on, Rene noticed that a certain "sacred lotus" — the Gaokerena located inside t
+---
+all_npc_text.txt:
+ ogg "The awakening is coming... and with it, the storm..."
+Jiu: You're a little early... Are you here to witness the resurrection of the most ancient, most awe-inspi
+---
+all_npc_text.txt:
+ rue Form
+ Since there is no one...
+Media:VO Kaede 01.ogg "*sigh* Should I close early? It's not like I'll get any customers..."
+After completing Transient Dreams
+Med
+---
+all_npc_text.txt:
+ -edition drinks...
+Media:VO Karpillia Irodori 01.ogg "Make sure you get in line early to buy your special edition drinks!"
+Karpillia: Hey, how about trying some fine
+---
+all_npc_text.txt:
+  conceiving Kaveh over 20 years before Chapter III began.[5]
+Kaveh developed an early interest in architectural design from the scholarly backgrounds of his parents,
+---
+all_npc_text.txt:
+ aranak, had a significant influence on Kaveh's interest in architecture from an early age, with them encouraging his interest by purchasing a sketchbook and building
+---
+all_npc_text.txt:
+ y martial artist like you...
+ About the Hyakunin Ikki...
+Kayabuki Ikkei: In the early days, this was a mysterious rite used by the Tengu-Kin as a means of making a r
+---
+all_npc_text.txt:
+  a doubtful look, but I didn't get rejected outright, so I reckon that it's too early to give up yet!
+Kimiya: I just need to work out some rationale for this interpr
+---
+all_npc_text.txt:
+ anddaughter of Earnshaw. She was born in the Fortress of Meropide and lived her early life there. She is technically an unregistered individual in the Fortress. Some
+---
+all_npc_text.txt:
+ _Layla Good Evening.ogg Media:VO KO_Layla Good Evening.ogg I'm going to turn in early tonight, hope I can actually get to sleep... Dear Mighty God of Wisdom, please 
+---
+all_npc_text.txt:
+  merchandises that are not mechanical in nature. However, Liben left the nation early due to the apparent social instability and unrest among its people.
+In the seve
+---
+all_npc_text.txt:
+  mean someone else is out to get us now? This is not great...
+Mikhail: It's too early to say. We're still not sure on the identities or affiliations of these masked 
+---
+all_npc_text.txt:
+ was helping the Fatui with finding Mosso Lombroso's workshop in the hopes of an early retirement if he was successful in his mission. She took their arrival as a bad
+---
+all_npc_text.txt:
+ like yourself are in the minority in Inazuma now. And I was the one who woke up early in the morning to get tickets to the exhibition match.
+Sae: Okay, okay. I didn'
+---
+all_npc_text.txt:
+  mean someone else is out to get us now? This is not great...
+Mikhail: It's too early to say. We're still not sure on the identities or affiliations of these masked 
+---
+all_npc_text.txt:
+ Nagamasa following Katsuragi and Nozomu's deaths[2]
+At some point in Nagamasa's early life, he was fostered by the oni maiden Chiyo and grew up alongside her biologi
+---
+all_npc_text.txt:
+ QuestsHangout EventsFaruzanAct I: A Confounding ConundrumA Mysterious Senior...?Early Learning Mechanism
+Naganohara Ryuunosuke is the father of Yoimiya and previous 
+---
+all_npc_text.txt:
+  goes with the Receiver Crystal would cost an absolute fortune.
+Patrice: In the early stages of applying new technologies, costs are always high. But once there's de
+---
+all_npc_text.txt:
+ all Fatui Harbingers, Pulcinella is a stock character in commedia dell'arte, an early form of professional theatre originating from Italy. The name Pulcinella is der
+---
+all_npc_text.txt:
+ ation.Although the two did not continue that research, its great success in the early stage still serves as compelling proof of Alhaitham's academic ability. Later, 
+---
+all_npc_text.txt:
+ was born to just such a family of well-received scholars. His parents died very early in an accident, and he was raised by his grandmother, a Kshahrewar scholar.Alha
+---
+all_npc_text.txt:
+ is exceptional talents, Alhaitham's grandmother suggested that he attend school early. However, it only took half a day in the Akademiya for little Alhaitham to repo
+---
+all_npc_text.txt:
+ n his mid-to-late twenties, making Alhaitham very likely to currently be in his early-to-mid twenties based on Kaveh's approximate age.
+The taglines in the Chinese c
+---
+all_npc_text.txt:
+ genshin-impact.fandom.com/wiki/File:VO_Alhaitham_Good_Morning.ogg It's a little early for me... Let me get a cup of coffee first.
+Good AfternoonGood AfternoonMedia:V
+---
+all_npc_text.txt:
+ ed. With time, I'm sure he'll come into his own. I see no need to judge him too early.
+More About Arlecchino: IMore About Arlecchino: IMedia:VO_Arlecchino More About
+---
+all_npc_text.txt:
+ eady to retire myself.
+Media:vo arlecchino mimitomo night 02.ogg Arlecchino: An early night is a balm for exhaustion, and presages a productive tomorrow.
+When a char
+---
+all_npc_text.txt:
+ aizhu habitually has a pot of water before boiling a pot of tea after waking up early in the morning. There is never a shortage of pastries at the Pharmacy, both swe
+---
+all_npc_text.txt:
+ icken daughter to the door of the pharmacy, frantically pounding on the door....Early the next morning, the neighbors were shocked to discover that the pharmacy had 
+---
+all_npc_text.txt:
+ he neighbors were shocked to discover that the pharmacy had opened several days early, with no fanfare or celebration."Aren't you afraid of going bankrupt and losing
+---
+all_npc_text.txt:
+  did was treat an emergency case last night, why would you need to open up shop early?"Baizhu replied as he wrote a prescription: "Every day delayed is another day t
+---
+all_npc_text.txt:
+ lways ready to sacrifice himself for others. It's unfortunate that he passed so early and never had the chance to live his years to their fullest.
+More about Baizhu:
+---
+all_npc_text.txt:
+ sleep. Exhausted, Barbara lay down by the wall and fell straight asleep herself.Early the next morning, Barbara awoke to discover that the boy's fever had come down.
+---
+all_npc_text.txt:
+ ood_Night.ogg Yes, it's time to rest. You should sleep. Me? It's still much too early. The night is beautiful, but it's also full of danger... I must keep watch, for
+---
+all_npc_text.txt:
+ y day off, she thought to herself. I'll get a good night's sleep, then head out early to buy some flowers and fruit. I'm meeting Navia in the afternoon over at the T
+---
+all_npc_text.txt:
+ f protection to Mondstadt, and entered their ranks. Before long, he received an early promotion which saw him become the youngest-ever Cavalry Captain.Over the cours
+---
+all_npc_text.txt:
+ er his return to Mondstadt three years after his father's death.[Note 1]
+In his early days of being a vigilante, Diluc fought using throwing knives and the Delusion 
+---
+all_npc_text.txt:
+ f achievements in battle, they can't help but let out a little gasp of surprise.Early one weekend morning, Amber stood atop a makeshift stage of wooden crates and be
+---
+all_npc_text.txt:
+ artial symbol of the clan and represents the spirit of the Lawrence Clan in the early days of Mondstadt before their fall from grace: cold and unsullied, undaunted b
+---
+all_npc_text.txt:
+ resentHangout EventsFaruzanAct I: A Confounding ConundrumA Mysterious Senior...?Early Learning MechanismEssential ClassicWanderings of a Lonesome ShadowEventsA Parad
+---
+all_npc_text.txt:
+ at Fischl always keeps the books she borrows in good condition and returns them early. She cares about her friends and peers, even if not particularly close, showing
+---
+all_npc_text.txt:
+ brary looking to borrow fantasy novels. She always returns her books three days early and looks after them very well. She's a good kid.NoelleAbout Fischl: Tea Media:
+---
+all_npc_text.txt:
+ he ocean a way to get away from the stress and express his feelings. During his early years, Freminet learned to suppress his emotions in order to carry out his orde
+---
+all_npc_text.txt:
+ u can join hands with your 'family' and open your eyes again.—Arlecchino
+In his early years, Freminet always preferred to be alone. His unassuming appearance would m
+---
+all_npc_text.txt:
+ Miss Furina displayed a severe lack of interest in my trial and excused herself early, probably because I pleaded guilty to all charges as soon as they were announce
+---
+all_npc_text.txt:
+ /wiki/File:VO_Furina_Good_Morning.ogg Good morning... Must I really get up this early? Just let me sleep a little longer...
+Good AfternoonGood AfternoonMedia:VO_Furi
+---
+all_npc_text.txt:
+ self. This was something that Rex Lapis, the leader of the adepti, noticed very early on. Thus when the Liyue Qixing first emerged ages ago, Ganyu was their secretar
+---
+all_npc_text.txt:
+ dom.com/wiki/File:VO_Ganyu_Chat_-_Anxious.ogg Should we really be off work this early? There is still a lot left to do...
+When It Rains: WorriesWhen It Rains: Worrie
+---
+all_npc_text.txt:
+ fandom.com/wiki/File:VO_Ganyu_About_Us_-_Work.ogg I finished all my assignments early today. ...O—Overtime? I understand. I'll get right on the case.
+About Us: Reque
+---
+all_npc_text.txt:
+ .fandom.com/wiki/File:VO_Hu_Tao_Good_Morning.ogg Well are those who rise in the early morn, while those late to bed I shall forewarn~
+Good AfternoonGood AfternoonMed
+---
+all_npc_text.txt:
+ hosen name for the Traveler).
+Media:vo hutao mimitomo night 02.ogg Hu Tao: Rest early and don't worry about nightmares, monsters under your bed, or anything like tha
+---
+all_npc_text.txt:
+ was in this state of mind that Kazuha arrived at a mountain in the south.It was early summer, and the frequent and heavy rainfall had turned the mountain roads to mu
+---
+all_npc_text.txt:
+ e court and at home would weigh heavily on his father's health, resulting in an early passing.The young Ayato was thus thrust into a battle for the survival of the c
+---
+all_npc_text.txt:
+ make you cook for yourself, after all?"Ayato's work often sees him leaving home early and returning late. As such, the people of the Kamisato Estate will communicate
+---
+all_npc_text.txt:
+ s never explicitly stated, enrolling a child at the age of seven is considered "early," with the oldest known child enrollment into the Akademiya being at the age of
+---
+all_npc_text.txt:
+ en though I am a youkai, I've been looked after by my human Granny since a very early age.
+Media:vo kirara mimitomo friendship3 05.ogg Kirara: It goes without saying
+---
+all_npc_text.txt:
+ s actually thought that she was a boy at first due to her coming to train at an early age, and they took care of her very well.Having been a little frightened of cro
+---
+all_npc_text.txt:
+ der," a lacquerware doll made using the deity's image as its template.Sara rose early the day it went on the market, easily becoming first in the queue to purchase t
+---
+all_npc_text.txt:
+ shin-impact.fandom.com/wiki/File:VO_Layla_Good_Evening.ogg I'm going to turn in early tonight, hope I can actually get to sleep... Dear Mighty God of Wisdom, please 
+---
+all_npc_text.txt:
+ brary looking to borrow fantasy novels. She always returns her books three days early and looks after them very well. She's a good kid.
+About Noelle Friendship Lv. 4
+---
+all_npc_text.txt:
+  through countless missions.Reality had eroded their childish innocence all too early, and the dream of possessing a Vision, too, had fallen by the wayside of the pa
+---
+all_npc_text.txt:
+ rowing up in a loving home, would have received from their parents.Even from an early age, performance was something closely tied to Lyney's life. Each time he would
+---
+all_npc_text.txt:
+ Grand Bazaar in detail, as if they were a family member.Mr. Jut usually gets up early to make tahchin, so if you want the privilege of having the most delicious bite
+---
+all_npc_text.txt:
+  of having the most delicious bite of freshly cooked tahchin, be sure to get up early!Mr. Afshin's storytelling skills are simply divine. His wonderful ingenuity alw
+---
+all_npc_text.txt:
+ Japanese: 古今和歌集 "Collection of Japanese Poems of Ancient and Modern Times"), an early anthology of the waka form of Japanese poetry.
+The Raiden Shogun's "Chat: Idlen
+---
+all_npc_text.txt:
+ 6
+Rosaria, the Church's number one truant, became infamous for her absence very early on."Miss Rosaria, please, show a little more circumspection in your actions! Yo
+---
+all_npc_text.txt:
+  *yawn* Good morning... I've missed morning mass, haven't I? Ugh, it starts too early anyway.
+Good AfternoonGood AfternoonMedia:VO_Rosaria Good Afternoon.ogghttps://
+---
+all_npc_text.txt:
+ ind her doesn't seem so difficult anymore.For example, if you go to Sayu's room early in the morning and lift the covers, the odds are that you will find her in bed.
+---
+all_npc_text.txt:
+ Path Rural Concealment Wood-Carved Hat: Slacker
+Sayu's name uses the kanji for "early/fast" (早) and "citron" (柚).
+Sayu's constellation, Nyctereutes Minor, is the New
+---
+all_npc_text.txt:
+ gg Do you hear that? Something's going on over there. I wanna go check it out — early bird gets the worm.
+Chat: SchoolChat: SchoolMedia:VO_Sethos Chat - School.ogght
+---
+all_npc_text.txt:
+ ealm.
+Obtain:Reward for reaching Friendship Level 10 with ShenheDescription:The early onset of white hair is often correlated to one's sorrows. Since "comb" and "sca
+---
+all_npc_text.txt:
+ e taken to mean "combing away worries" is ironic, in the sense that usually the early onset of white hair means that one is full of worries. This irony is also highl
+---
+all_npc_text.txt:
+ ed. With time, I'm sure he'll come into his own. I see no need to judge him too early.TravelerAbout Onikabuto Media:VO_Aether_About Onikabuto.ogg Media:VO ZH_Aether_
+---
+all_npc_text.txt:
+  (by Xinyan)
+Master Childe (by Lyney and Freminet)[8]
+In commedia dell'arte, an early form of professional theatre originating from Italy, Tartaglia is a stock chara
+---
+all_npc_text.txt:
+  in his head in a quiet and steady state of mind.Vision Friendship Lv. 6
+In his early years living in Mondstadt, Thoma did not have particularly strong aspirations.E
+---
+all_npc_text.txt:
+ a did not have particularly strong aspirations.Each day, he was awakened by the early morning sun and the fresh fragrance of flowers. After breakfast, he could choos
+---
+all_npc_text.txt:
+ omeone who can see what's at stake, so if you don't want to get involved, leave early."Could Thoma, who had received so many favors from the Kamisato Clan, just leav
+---
+all_npc_text.txt:
+ d number of comrades nonetheless.Tighnari had excellent grades in the Akademiya early on, and many would come to him for help with their coursework. When his seminar
+---
+all_npc_text.txt:
+ tion, collection, and consideration that he was eventually admitted into Amurta early, beginning his official learning journey under the Sage there.Tighnari placed t
+---
+all_npc_text.txt:
+ mo morning 01.ogg Tighnari: Morning. The day's plans are best made at dawn. The early bird catches the worm.
+Media:vo tighnari mimitomo morning 02.ogg Tighnari: Earl
+---
+all_npc_text.txt:
+ arly bird catches the worm.
+Media:vo tighnari mimitomo morning 02.ogg Tighnari: Early-rising worms might object to this, of course, but that's just how the food chai
+---
+all_npc_text.txt:
+ n works.
+Media:vo tighnari mimitomo morning 03.ogg Tighnari: See, no matter how early they rise, a tree's leaves will still get eaten by insects. You don't hear them
+---
+all_npc_text.txt:
+ is true name.Character Story 2 Friendship Lv. 3  •  Inversion of Genesis
+In the early days when Tatarasuna was still a prosperous place, the Wanderer walked amongst 
+---
+all_npc_text.txt:
+  the character falls or leaves combat.
+An educational tome written by anonymous early inhabitants who worshiped the wind. It has been blessed by the wind for its fai
+---
+all_npc_text.txt:
+ and virtue in the nobles, instead becoming birds of a feather with them.
+In the early days of Mondstadt, the Lawrence clan was led by Venerare.
+Under her guidance, t
+---
+all_npc_text.txt:
+ The ending of Verdict's description is currently left to reader interpretation. Early into the Siege of Poisson, Leticia's father offered to take Leticia, her husban
+---
+all_npc_text.txt:
+ sa. Because of their exceptional sharpness, Muramasa blades were favored by the early generations of the Tokugawa shogunate. When misfortune struck the Tokugawa clan
+---
+all_npc_text.txt:
+ m the sea beyond the horizon, following the current of warmth and peace. In the early days of the Knights of Favonius, when they were still weak, the nameless knight
+---
+all_npc_text.txt:
+ ponded to the story of "Boreas" likely happened between the Grand Master of the early days of the founding of the Knights and the nameless knight. The events unfolde
+---
+all_npc_text.txt:
+ 's Urgent Neko Parcel Hit DMG
+ Thundering Might's additional Electro DMG
+In the early days, the people of Mondstadt had a tradition of building theaters on top of wi
+---
+all_npc_text.txt:
+ not banned.
+This was because such chainsaws played an irreplaceable role in the early production of clockwork meka.
+Later on, a massive clockwork meka factory was co
+---
+all_npc_text.txt:
+ waters who rebelled against the gods.
+Legend has it that her home was destroyed early on by the wrathful God King, with an army from the Golden City enslaving or kil
+---
+all_npc_text.txt:
+ Miss Furina displayed a severe lack of interest in my trial and excused herself early, probably because I pleaded guilty to all charges as soon as they were announce
+---
+all_npc_text.txt:
+ o xianyun mimitomo morning 01.ogg Xianyun: Good morning. I see you are a fellow early riser.
+Media:vo xianyun mimitomo morning 02.ogg Xianyun: Is this because a hero
+---
+all_npc_text.txt:
+ elerThe player's chosen name for the Traveler). Youngsters like you should keep early hours.
+Media:vo yaemiko mimitomo night 02.ogg Yae Miko: What about me? Oh, I'm 
+---
+all_npc_text.txt:
+ riendship Lv. 4
+Streetward Rambler has acquaintances all across Liyue, and even early on, she had paid many of them a visit, saying that her newest disciple's traini
+---
+all_npc_text.txt:
+ gghttps://genshin-impact.fandom.com/wiki/File:VO_Yelan_Good_Morning.ogg Mmm~ So early... I usually get up at noon if I don't have any urgent work.
+Good AfternoonGood
+---
+all_npc_text.txt:
+ mily's connections, I learned some useful skills from the Millelith scouts very early on. Although there are things working against you every step of the way when yo
+---
+all_npc_text.txt:
+ und one begin.
+Media:vo yelan mimitomo morning 01.ogg Yelan: Morning... this is early for me, but you seem pretty peppy.
+Media:vo yelan mimitomo morning 02.ogg Yelan
+---
+all_npc_text.txt:
+ randfather.In such an environment, Yun Jin was exposed to Liyue Opera at a very early age, often amusing herself by echoing her mother's singing.A childhood hobby, a
+---
+all_npc_text.txt:
+  knew about the Liyue Opera to her. As such, Yun Jin started learning the opera early.However, Liyue Opera is a complex art that takes years of perfection to master.
+---
+all_npc_text.txt:
+ ng girl as Sir?"Upon hearing this, Yun Jin curved her lips."Those who were born early, learn early. They are naturally better-informed than others. It's every bit ri
+---
+all_npc_text.txt:
+ r?"Upon hearing this, Yun Jin curved her lips."Those who were born early, learn early. They are naturally better-informed than others. It's every bit right for them 
+---
+all_npc_text.txt:
+ om/wiki/File:VO_Yun_Jin_About_Yun_Jin_-_Schooling.ogg My schooling started very early. In fact, my earliest memories are of my father teaching me to read. Despite my
+---
+all_npc_text.txt:
+ yu Tea House are quite lenient with us. Otherwise, we'd be working ourselves to early graves.
+More About Yun Jin: III Friendship Lv. 4More About Yun Jin: III Friends
+---
+all_npc_text.txt:
+ avelerTravelerThe player's chosen name for the Traveler)! It is good to turn in early from time to time.
+Media:vo yunjin mimitomo night 02.ogg Yun Jin: The night mar
+---
+all_npc_text.txt:
+ ute
+↑ Weapon: Favonius Codex
+↑ Event Invitation of Windblume Festive Challenge: Early Dawn
+↑ Weapon: Windblume Ode
+Rahman is the leader of an Eremite faction whose l
+---
+all_npc_text.txt:
+ uld I say, the one who stole the core — likely removed the Arkhium Kinetic Core early on, activating the backup energy source.
+Raimondo: However, Pneumousia Cores ar
+---
+all_npc_text.txt:
+ ive this a go?
+ Sounds like a good idea.
+Robert: I know, right? If I can set up early, I might just hit upon some good opportunities first.
+Robert: But I reckon that
+---
+all_npc_text.txt:
+ dn't really want to work in this line of business at first. You have to wake up early and go home late. My husband was never in good health either... How could he ha
+---
+all_npc_text.txt:
+ like yourself are in the minority in Inazuma now. And I was the one who woke up early in the morning to get tickets to the exhibition match.
+Sae: Okay, okay. I didn'
+---
+all_npc_text.txt:
+ y be named after Franz Schubert, an Austrian Composer of the late Classical and early Romantic eras.
+Following a certain dialogue branch for the first time gives the
+---
+all_npc_text.txt:
+ ppointment within a royal, ducal, or noble household during the Middle Ages and early Modern period — historically a steward or majordomo of a medieval great house.
+
+---
+all_npc_text.txt:
+ escendant)Eula (descendant)Schubert (descendant)
+Venerare was the leader of the early generations of the Lawrence Clan who lived approximately 2600 years ago.[Note 1
+---
+all_npc_text.txt:
+ ught in. So, space is tight. If you want to make a booking, you should do it as early as you can.
+(Dialogue options and responses are the same as normal)
+Verr Goldet
+---
+all_npc_text.txt:
+ popular with them both.
+Wenhua: He's quite the hardworking one, too. Works from early till late preparing the feed, and he doesn't miss a beat.
+Wenhua: He's differen
+---
+all_npc_text.txt:
+ ings back memories! It reminds me of how when I was young, I would wake up very early to attend calligraphy classes at my teacher's place. It was so early, that it w
+---
+all_npc_text.txt:
+ ke up very early to attend calligraphy classes at my teacher's place. It was so early, that it was still dark out, and it was terribly frightening.
+Xingxi: Fortunate
+---
+all_npc_text.txt:
+ Golden Apple Archipelago
+Yakov is a Fatui member; in his youth, his mother died early, leaving him with only his father. During an operation, his father sacrificed h
+---
+all_npc_text.txt:
+  main female leads in the wuxia novel The Heaven Sword and Dragon Saber.
+In his early life, Zhiyi's parents died when he was a child while struggling to live in a li
+---
+a_purified_misc_content.txt:
+ focating, leading to much inward lamentation.Fortune favors those who reach out early, so make preparations to make that stitch in time.If you wait until sunset's fi
+---
+a_purified_misc_content.txt:
+  right on schedule.
+"Of these, Sweet Madame was a delicacy greatly loved by the early people of Mondstadt. All a family would need after a hard day's work was a litt
+---
+a_purified_misc_content.txt:
+ sten now as to you my innermost feelings I confide."— Breeze Amidst the Forest: Early Spring Series Part IIISpring sneaks up silently, and all things are renewed.If 
+---
+a_purified_misc_content.txt:
+ , putting him around 18 years old; assuming his parents are in their mid-40s to early 50s, this means his education will likely take somewhere around 15 to 20 years.
+---
+a_purified_misc_content.txt:
+ Post-Archon War
+4.1 Mondstadt's Aristocratic Period (2600–1000 years ago)
+4.1.1 Early Aristocratic Period (2600–1600 years ago)
+4.1.2 Late Aristocratic Period (1600–
+---
+a_purified_misc_content.txt:
+ t's Aristocratic Period (2600–1000 years ago)[]
+See also: Mondstadt Aristocracy
+Early Aristocratic Period (2600–1600 years ago)[]
+<2600 years ago ― Dvalin, an elemen
+---
+a_purified_misc_content.txt:
+ lans in the aristocracy derived their lineages from heroes who lived during the early ages of Barbatos' Mondstadt.[55] Known clans include the Lawrence Clan, Gunnhil
+---
+a_purified_misc_content.txt:
+ like most other Ruin Guards.
+↑ Since the Loom of Fate operation is still in its early stages in Present Day, the Defiled Statue was likely stolen somewhat recently. 
+---
+a_purified_misc_content.txt:
+ nt that was typical for medieval Germany and that was still in use up until the early 20th century. The secondary language appears to be a simpler, reversed form of 
+---
+a_purified_misc_content.txt:
+ wering pillar of rock, it is Liyue's first landmark piece of architecture.
+From early on in the very first IP Design Document, the name "Wangshu Inn" was already a f
+---
+a_purified_misc_content.txt:
+ l-received — those were the central issues that we constantly considered in the early stages. This is why we collected a great deal of visual resources and conducted
+---
+a_purified_misc_content.txt:
+ verything else and just get lost in that moment. The entire creative team, from early white-box testing to concept art design, then to resources production and map e
+---
+a_purified_misc_content.txt:
+ story and the legends regarding Lisha seem to have some relation.
+? years ago — Early civilizations in the Lisha region of Liyue are established at Dunyu Ruins, Ling
+---
+a_purified_misc_content.txt:
+ once more as the tides withdrew, revealing the ancient buildings erected by the early peoples.[9]
+What [Soraya] told me was that these ruins were left behind by an e
+---
+a_purified_misc_content.txt:
+ n top of it, such as the background, gameplay design, we started on them pretty early. Some of our teammates have been working hard on the development of the version
+---
+a_purified_misc_content.txt:
+ ng seems to be inspired by the kind popular in Europe between the late 19th and early 20th centuries. The first and second versions of adult men's attire, however, a
+---
+a_purified_misc_content.txt:
+ at were most popular. The third version is closest in style to the late 18th to early 19th century, due to the jabot and longer coat being hallmarks of the period.
+W
+---
+a_purified_misc_content.txt:
+  It tells the story of Vennessa, the founder of the Knights of Favonius, in her early years as a slave in Mondstadt.
+Friends of Mondstadt, let us revel! Drink to you
+---
+a_purified_misc_content.txt:
+  It tells the story of Vennessa, the founder of the Knights of Favonius, in her early years when she met Barbatos, the Anemo Archon, as well as how she defeated the 
+---
+a_purified_misc_content.txt:
+ Note to self: Guyun Stone Forest is not a good place to spend the night! I woke early, so I lit the campfire and I'll move out once the sky's bright. My next stop is
+---
+a_purified_misc_content.txt:
+ once more as the tides withdrew, revealing the ancient buildings erected by the early peoples.
+Back when I was at the Wangshu Inn I met a scholar from Sumeru called 
+---
+a_purified_misc_content.txt:
+ leaving behind unique bloodlines in Liyue Harbor.
+According to one folktale, as early as several thousand years ago, there were already those among the elegant qilin
+---
+a_purified_misc_content.txt:
+ .
+—In the Light, Beneath the Shadow—
+Question 1: What walks on four feet in the early morning, two feet during the day, and three feet at night?
+Answer: A vishap who
+---
+a_purified_misc_content.txt:
+ he lay on the hillside near the village, eyes closed, feeling the breeze of the early summer.
+"Then where in this world would you not consider dull?" Her buddy Sachi
+---
+a_purified_misc_content.txt:
+ t at the Grand Narukami Shrine, Lady Yae still had yet to be born. As such, her early years were filled with stories and tales about Saiguu, and she loved and respec
+---
+a_purified_misc_content.txt:
+ e this epic historical work concerning the ancient Remurian civilization in the early years of the founding of Fontaine.
+The ocean gave birth to all, yet also devour
+---
+a_purified_misc_content.txt:
+ erward, and the roaring tides drowned all sin and arrogation, and thus were the early peoples brought to an end.
+When the tide receded and the earth was revealed aga
+---
+a_purified_misc_content.txt:
+ e this epic historical work concerning the ancient Remurian civilization in the early years of the founding of Fontaine.
+Greatness and glory unto Remuria, and its im
+---
+a_purified_misc_content.txt:
+ e this epic historical work concerning the ancient Remurian civilization in the early years of the founding of Fontaine.
+Humans, in their naivete, once believed that
+---
+a_purified_misc_content.txt:
+ e history of France. The cycle springs from the Old French chanson de geste, an early type of medieval French epic poetry, and the source for many of the names appea
+---

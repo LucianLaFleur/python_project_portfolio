@@ -1,0 +1,3748 @@
+all_food_descriptions.txt:
+ priestess Neko in mind. Although it does not quite match the flavor that Hibiki used to produce, Lady Neko seems rather pleased with your work nonetheless, Due to lack
+---
+all_food_descriptions.txt:
+ Soup :  A seafood soup. It originated in the fishing village Poisson. Fishermen used to process leftover fish by stewing them together. This soup then became popular i
+---
+all_food_descriptions.txt:
+ ked cheese balls give off a titillating aroma, for a special technique has been used to mix the spices into the dough. A small bite and you will see hot cheese oozing 
+---
+all_food_descriptions.txt:
+ rate "pockets," hence the name, "Pita Pocket." It is said that people of Sumeru used to dip the bread in sauce. But nowadays, people usually stuff the "pockets" with d
+---
+all_food_descriptions.txt:
+ e. "This dish didn't use to have sugar, but he was worried that you wouldn't be used to the bitter taste, so he added some to it," added Changsheng.
+Tianshu_Meat :  A 
+---
+all_furnishings.txt:
+  immediately discuss, the leaves of plants that are packed with moisture can be used to cool you down in an emergency. However, be sternly reminded that you cannot ing
+---
+all_furnishings.txt:
+  It is made from Maple Wood and has a fair balance of dimensions and work-hours used to build it. It is somewhat lacking in the space department, though.It is said tha
+---
+all_furnishings.txt:
+ ehe : Carving Component
+Wood-Carved Head
+A smiling woodcarving head that can be used to assemble an "Aranara Carving." It's painted pink and reminds people of huge flo
+---
+all_furnishings.txt:
+ ssic : ExteriorLandscape Curio
+A traditionally-styled snowman torso that can be used to build a Puffy Snowman.This torso design is very simple, and even children with 
+---
+all_furnishings.txt:
+ l : Snowman Component
+Snowman Head
+An ordinary smiling snowman head that can be used to build a Puffy Snowman.Children love using Valberry dye to add blushes onto snow
+---
+all_furnishings.txt:
+ of pottery.Made in the rainforest areas, they are more expensive, and are often used to store fine wine. Of course, it works perfectly fine as a beautiful tabletop ado
+---
+all_furnishings.txt:
+ form Tree
+Apart from some rare and precious trees, the people of Liyue are more used to naming trees using broad-reaching, appearance-based terms for types of trees at
+---
+all_furnishings.txt:
+ onent
+Wood-Carved Hat
+A wood-carved hat adorned with a plum blossom that can be used to assemble an "Aranara Carving."It was modeled after the hat of an eccentric, qui
+---
+all_furnishings.txt:
+  often results in a lot of soil that is left unused. Sometimes, carts cannot be used to enter the premises, and so barrels must be brought in and out on foot.Some work
+---
+all_furnishings.txt:
+  InteriorSmall Furnishing Craftwork
+A Liyue-style stage. Two colors of wood are used to build a solid floor and lanterns are added for decoration.This stage gives perf
+---
+all_furnishings.txt:
+ Snowman Component
+Snowman Eyes
+Eye components made using two fried eggs. Can be used to build a Puffy Snowman.Some children, being too playful, have fun the whole morn
+---
+all_furnishings.txt:
+ y_Rest : ExteriorLandscape Curio
+A lovely, seated woodcarving torso that can be used to assemble an "Aranara Carving." It is unpainted and has the unique texture and a
+---
+all_furnishings.txt:
+ Touch_Me! : Snowman Component
+Snowman Nose
+A snowman nose made of stone. Can be used to build a Puffy Snowman.Snowmen built near Dragonspine will sometimes be taken fo
+---
+all_furnishings.txt:
+ e stove that is equipped with semi-enclosed counters and cabinets, which can be used to place ingredients and semi-finished products. They are not complicated tools, b
+---
+all_furnishings.txt:
+ Depot
+Parched_Stone : ExteriorLandform Rock
+Legends say that this kind of stone used to only appear in arid regions such as the deserts of Sumeru, but it can now easil
+---
+all_furnishings.txt:
+ nts Utensil
+This type of note holder can often be found in Fontaine, and can be used to hang different types of notes or documents.The original specialized note holder
+---
+all_furnishings.txt:
+ t can be found in Chenyu Vale. It has many partitioned compartments that can be used to store different types of tea.Rumors say that every new batch of tea leaves from
+---
+all_furnishings.txt:
+ Component
+Wood-Carved Head
+A woodcarving head decorated with leaves that can be used to assemble an "Aranara Carving." It is unpainted and has the unique texture and a
+---
+all_furnishings.txt:
+ ehe : Carving Component
+Wood-Carved Head
+A smiling woodcarving head that can be used to assemble an "Aranara Carving." It is unpainted and has the unique texture and a
+---
+all_furnishings.txt:
+ rs for long periods of time.It is said that the wheat-colored variety are often used to keep wearers warm as they sleep, and can be used to ward off the desert cold. T
+---
+all_furnishings.txt:
+ t-colored variety are often used to keep wearers warm as they sleep, and can be used to ward off the desert cold. The red version, on the other hand, is used when goin
+---
+all_furnishings.txt:
+ ping_Stone : ExteriorLandform Rock
+These rugged, reddish-brown stones are often used to decorate courtyards.The name "Weeping Stone" comes from a nameless song — the e
+---
+all_furnishings.txt:
+ and Shaded Clarity.A medium-sized, round fish with horn-like cartilages that is used to dig underwater burrows, build shelters and drive away creatures that try to har
+---
+all_furnishings.txt:
+ t_Cinnabar : ExteriorLandform Rock
+These rugged, reddish-brown stones are often used to decorate courtyards.The name "Ardent Cinnabar" may come from a children's song.
+---
+all_furnishings.txt:
+ ned as a restaurant, but some creative finagling by business people has seen it used to divide guests and staff. As such, one can see this construction used in many a 
+---
+all_furnishings.txt:
+ dite tree of sprawling green has entered full maturity and can be harvested and used to its fullest extent.
+Realm Depot
+Passage's_Evening_Ensemble : ExteriorOutdoor Fu
+---
+all_furnishings.txt:
+ eturn, the monsters will often have made off with the pole that would have been used to finish the fence, rendering the work incomplete.
+Realm Depot
+Light_of_the_Land_
+---
+all_furnishings.txt:
+ Spear-Rack:_Point_Break : ExteriorLandscape Large Object
+A weapon rack that has used to mount Shogunate-style polearms. The shafts of these weapons have used the compa
+---
+all_furnishings.txt:
+ stroyed in the chaos of battle. This method is not actually the same as the one used to build their tent roofing, and they say that this method was developed long ago 
+---
+all_furnishings.txt:
+ rk_Quarters : ExteriorCourtyard Large Ornament
+A simple wooden shed that can be used to store many tools of the trade and protect them from the rain, thus reducing any
+---
+all_furnishings.txt:
+ he ability to retain moisture for long periods. In theory, this fungus could be used to maintain the humidity of a courtyard, but they seem to only grow in special env
+---
+all_furnishings.txt:
+ rOrnaments Potted Plant
+A gift from Aranakula and Arakara.It is a Viparyas that used to only grow in Vanarana, but it has now been placed into this small pot, turning 
+---
+all_furnishings.txt:
+ Snowman Hat
+A simple, practical but slightly expensive metal bucket hat. Can be used to build a Puffy Snowman.The children often worry that their snowmen might be dama
+---
+all_furnishings.txt:
+ _One : ExteriorLandscape Curio
+A snowman torso with a unique design that can be used to build a Puffy Snowman.The uniqueness of such snowmen lies in its ability to loo
+---
+all_furnishings.txt:
+ yle of those found in Wangshu Inn. There are herbal components in the green dye used to make it that can not only eliminate excess moisture but that also smell uniquel
+---
+all_furnishings.txt:
+ tute for long-distance waterborne transport, and it has become ever more widely used to transport fluids as the technology has matured.They say that the designers incr
+---
+all_furnishings.txt:
+ mponent
+Wood-Carved Cape
+A dashing and comfortable wood-carved cape that can be used to assemble an "Aranara Carving."It was modeled after the cape of a Forest Ranger 
+---
+all_furnishings.txt:
+ efronts suffer from a lack of space, so these modular shelf designs that can be used to "play any role" are most practical indeed.
+Realm Depot
+Tighnari/Companion : Com
+---
+all_furnishings.txt:
+ er : ExteriorLandscape Curio
+A naturally-standing woodcarving torso that can be used to assemble an "Aranara Carving." It is unpainted and has the unique texture and a
+---
+all_furnishings.txt:
+ om built into a wooden cart that had adopted a rather traditional design. It is used to weave fabric in larger sizes and has served as the cornerstone in Sumeru's text
+---
+all_furnishings.txt:
+ is made from clean and bright stones that are also secure and stable. It can be used to pave outdoor courtyards."Of Fields Green" draws inspiration from fairy tale won
+---
+all_furnishings.txt:
+  to produce a rumbling sound and are hard to track with the naked eye, and thus used to have the moniker of "Invisible Buzz" in Liyue.Considering that mosquitoes are c
+---
+all_furnishings.txt:
+ nks' hardness to their greatest extent, before mortise and tenon structures are used to join them together. They are then affixed on three relatively light and soft ba
+---
+all_furnishings.txt:
+  from which the principle of "the greatest offense is the greatest defense" was used to transform this venerable shield design into this style of round shield.And who 
+---
+all_furnishings.txt:
+ arving Component
+Wood-Carved Hat
+A plain and simple wood-carved hat that can be used to assemble an "Aranara Carving."It was modeled after the hats of Aranara depicted
+---
+all_furnishings.txt:
+  enemies from a certain distance, while the sledgehammer on the far left can be used to efficiently pierce through an opponent's armor.But moving around in a suit of a
+---
+all_furnishings.txt:
+ rs, the contours of their light will change before you know it..."After getting used to a life of expeditions and camping out in the wild, the sleepless young woman at
+---
+all_furnishings.txt:
+ nt. Apart from using it for long-term research and observations, it can also be used to cultivate hydrophilic plants, or even act as a fish tank.
+Realm Depot
+Sub-Space
+---
+all_furnishings.txt:
+ mponent
+Snowman Head
+A snowman head whose cheeks are puffed up in anger. Can be used to make a Puffy Snowman.It is said that the very first snowman of this kind was bu
+---
+all_furnishings.txt:
+ s fortified rooms in the spacious basement that are heavily guarded and usually used to store critical documents of the Exchange. Surely, they can also be used to stor
+---
+all_furnishings.txt:
+ ally used to store critical documents of the Exchange. Surely, they can also be used to store unimaginable sums of Mora and various other types of precious goods.
+Real
+---
+all_furnishings.txt:
+ ehe : Carving Component
+Wood-Carved Head
+A smiling woodcarving head that can be used to assemble an "Aranara Carving." It's painted blue and reminds people of a forest
+---
+all_furnishings.txt:
+ s "Of Fields Green." When combined with the tall Starflower Fences, they can be used to form verdant mazes suitable for guiding guests through different parts of your 
+---
+all_furnishings.txt:
+ nutrient-rich water bodies taste fresh and juicy, and freshwater fish are often used to make Tahchin, a delicious and filling dish served in large quantities.
+Remarkab
+---
+all_furnishings.txt:
+  and Shaded Clarity.A medium-sized, round fish with horn-like cartilage that is used to dig underwater burrows, build shelters and drive away creatures that try to har
+---
+all_furnishings.txt:
+ Component
+Wood-Carved Hat
+An exquisite and gorgeous wood-carved hat that can be used to assemble an "Aranara Carving."It was modeled after the hat of a certain traveli
+---
+all_furnishings.txt:
+ ze : Snowman Component
+Snowman Eyes
+Two snowman eyes brimming with life. Can be used to build a Puffy Snowman.The first child to build such eyes claimed that he had re
+---
+all_furnishings.txt:
+  building that may be found in Aaru Village has a smaller floor area and can be used to store tools or miscellaneous goods, or as a shelter from the assault of the san
+---
+all_furnishings.txt:
+ rnous depths of The Chasm. Their fur has a unique blue sheen.Having long become used to life in the darkness, they now have excellent hearing and olfactory senses.Now 
+---
+all_furnishings.txt:
+  it light the way. It is less bright, however, and so it does take some getting used to. However, it is said that veteran miners can use their dim, cool gleam to find 
+---
+all_furnishings.txt:
+ e most excellent and elastic texture. Actually, the petals of this plant can be used to make balls for entertainment, and according to legend, the Hydro Eidolons use t
+---
+all_furnishings.txt:
+ dels within that are specially designed by the Tenryou Commission. These can be used to reproduce all available battlefield information and are accurate up to the last
+---
+all_furnishings.txt:
+ hrub
+Save for certain trees with special nobility, the people of Liyue are more used to naming vegetation based on their morphology as opposed to their precise species
+---
+all_furnishings.txt:
+ ph : Carving Component
+Wood-Carved Head
+A smirking woodcarving head that can be used to assemble an "Aranara Carving." It's painted blue and reminds people of a forest
+---
+all_furnishings.txt:
+ A fairy tale writer wrote several fairy tales about the mischievous Aranara who used to be pranksters and eventually admitted their mistakes. Unfortunately, these fair
+---
+all_furnishings.txt:
+ Component
+Wood-Carved Head
+A woodcarving head decorated with leaves that can be used to assemble an "Aranara Carving." It's painted blue and reminds people of a forest
+---
+all_furnishings.txt:
+ y_Jump : ExteriorLandscape Curio
+A snowman torso with a unique pose that can be used to build a Puffy Snowman.This sort of snowman feels like it is currently gathering
+---
+all_furnishings.txt:
+ e piece of glass. Two pieces of curved glass bent at different angles were then used to form the sides of the fish tank, such that the size of the fish inside might be
+---
+all_furnishings.txt:
+ : Snowman Component
+Snowman Eyes
+A pair of eyes brimming with innocence. Can be used to build a Puffy Snowman.These eyes are very simple indeed, requiring only two str
+---
+all_furnishings.txt:
+ ohoo : Carving Component
+Wood-Carved Head
+A sullen woodcarving head that can be used to assemble an "Aranara Carving." It is unpainted and has the unique texture and a
+---
+all_furnishings.txt:
+ d-Carved Hat
+A wood-carved hat with a conical crown and a wide brim that can be used to assemble an "Aranara Carving."It was modeled after the hat of a traveling astro
+---
+all_furnishings.txt:
+  Realm Within, Sir Pouncelot has stepped out of the shadow of its past, growing used to this leisurely lifestyle...
+Feline Fortress Furrdyssey
+Sir Pouncelot Joins the 
+---
+all_furnishings.txt:
+  by miners and considered a good omen, hence the name "Lucklight."Having gotten used to life in The Realm Within, they still practice their usual living habits, but si
+---
+all_furnishings.txt:
+ se barren wells with a wooden lid. Sometimes, however, these wells will also be used to hide some terrible secrets...
+Realm Depot
+"Sekijou"_Aralia_Tea_Table : Interior
+---
+all_furnishings.txt:
+ hrub
+Save for certain trees with special nobility, the people of Liyue are more used to naming vegetation based on their morphology as opposed to their precise species
+---
+all_furnishings.txt:
+ onent
+Wood-Carved Eyes
+A pair of genial and clever wood-carved eyes that can be used to assemble an "Aranara Carving."It was modeled after the eyes of the Port Ormos h
+---
+all_furnishings.txt:
+ ing torso with hands modeled after the claws of the Rishboland Tiger. It can be used to assemble an "Aranara Carving." It is painted blue and reminds people of a fores
+---
+all_furnishings.txt:
+ man Component
+Snowman Nose
+A nose made using a small ball-shaped potato. Can be used to build a Puffy Snowman.These potato noses often wound up being stolen by starvin
+---
+all_furnishings.txt:
+ nent
+Wood-Carved Cape
+A lightweight and convenient wood-carved cape that can be used to assemble an "Aranara Carving."It was modeled after the cape of the young Forest
+---
+all_furnishings.txt:
+ g Component
+Wood-Carved Eyes
+A pair of melancholic wood-carved eyes that can be used to assemble an "Aranara Carving."It was modeled after the eyes of the sculptor Mam
+---
+all_furnishings.txt:
+ agrant tea and a refreshing breeze from a great vantage point.For those who are used to forest life, true relaxation can only be achieved when they will not have to pa
+---
+all_furnishings.txt:
+ ible spot at the storefront, features two flags of different colors that can be used to guide customers to queue up."Red is the color of raw meat, and represents savor
+---
+all_furnishings.txt:
+  the urban legends say.They pay no attention when someone approaches, seemingly used to living alongside mankind.The kitsune have a long history in Inazuman culture. S
+---
+all_furnishings.txt:
+ nent
+Snowman Scarf
+A scarf with an alternating violet and white pattern. Can be used to build a Puffy Snowman.This sort of scarf very much resembles Wolfhook Smoothies
+---
+all_furnishings.txt:
+ rot : Snowman Component
+Snowman Nose
+A snowman nose made using a carrot. Can be used to build a Puffy Snowman.Some ancient children's tales make mention of a kind of m
+---
+all_furnishings.txt:
+ ambird, Merusea Village can be a somewhat darker place than outsider guests are used to due to being underwater. In response, the friendly and gentle Melusines selecte
+---
+all_furnishings.txt:
+ se_Elder : ExteriorLandscape Curio
+A woodcarving torso with a stick that can be used to assemble an "Aranara Carving." It is painted blue and reminds people of a fores
+---
+all_furnishings.txt:
+ Component
+Wood-Carved Head
+A woodcarving head decorated with leaves that can be used to assemble an "Aranara Carving." It's painted pink and reminds people of huge flo
+---
+all_furnishings.txt:
+ onent
+Snowman Nose
+A snowman nose made of a failed attempt at apple pie. Can be used to build a Puffy Snowman.These failed apple pies have exceedingly high internal pr
+---
+all_furnishings.txt:
+  However, some mercenaries would come to draw water using bottles that had been used to store wine, causing the water to become contaminated with strong wine and affec
+---
+all_furnishings.txt:
+ naments Utensil
+A gramophone found often in venues such as the Palais Mermonia, used to help employees relax and improve their working state. Capable of storing sound 
+---
+all_furnishings.txt:
+ th round and thick leaves aplenty and no scent. After some washing, they can be used to serve food. More optimistic adventurers are fond of these plants, comparing the
+---
+all_furnishings.txt:
+ ject
+An iron rack on which the campfire is lit. Properly-dried Adhigama Wood is used to keep the fire burning brightly for a long time."Only valor's flame shall never 
+---
+all_furnishings.txt:
+ ring the owner's story, some foreign sailors decided that her textiles could be used to ward off sea monsters. Though it became a widespread rumor among a certain grou
+---
+all_furnishings.txt:
+ ructed one with more appropriate dimensions.However, due to Melusines not being used to making particularly sturdy ropes, few of them ever use this swing as anything b
+---
+all_furnishings.txt:
+ ing a clean kitchen, and has earned it the name "Ashen Stone." It has also been used to build stoves.
+Realm Depot
+Snowman_Hat:_Honored_Guest : Snowman Component
+Snowma
+---
+all_furnishings.txt:
+ at:_Honored_Guest : Snowman Component
+Snowman Hat
+An opulent formal hat. Can be used to build a Puffy Snowman.Such top hats are usually part of an adult man's formal w
+---
+all_furnishings.txt:
+ rge crate crafted from Adhigama Wood that is suited for mass production. Can be used to store fish for sale. To prevent it from going stale — which they do very often 
+---
+all_furnishings.txt:
+ t to be placed on a desk, but in actuality, this leaf sample is also a key tool used to observe the ecological condition of the rainforest. By soaking the plant's leav
+---
+all_furnishings.txt:
+ nalice's_Cabinet" : InteriorLarge Furnishing Bookcase
+A small bookcase commonly used to store books or important documents in the Palais Mermonia. Employees sometimes 
+---
+all_furnishings.txt:
+ nshu once lived and toiled in just such a shophouse before his rise and that he used to galvanize himself with the following phrase: "time waits for no one."
+Trust Ran
+---
+all_furnishings.txt:
+ : ExteriorLandscape Large Object
+A set of shelves made of fir wood. It is often used to place weapons, and can even be creatively used as a fence for defensive measure
+---
+all_furnishings.txt:
+  and Shaded Clarity.A medium-sized, round fish with horn-like cartilage that is used to dig underwater burrows, build shelters and drive away creatures that try to har
+---
+all_furnishings.txt:
+ t : InteriorLarge Furnishing Cabinet
+A fir cabinet of ancient make. It is often used to store resources that need to avoid direct sunlight and fragile items.
+Adeptal M
+---
+all_furnishings.txt:
+ rving Component
+Wood-Carved Eyes
+A pair of enraged wood-carved eyes that can be used to assemble an "Aranara Carving."It was modeled after the eyes of the Eremite capt
+---
+all_furnishings.txt:
+ ing torso with hands modeled after the claws of the Rishboland Tiger. It can be used to assemble an "Aranara Carving." It is unpainted and has the unique texture and a
+---
+all_furnishings.txt:
+ aimon's description. It resembles the actual landscape of the desert and can be used to form the basic terrain of adepti abodes.The craggy, bizarrely-shaped rock seems
+---
+all_furnishings.txt:
+ nd obtain the resources within. At the same time, these machines have also been used to construct buildings of grandiose scale.However, the sheer scale of these things
+---
+all_furnishings.txt:
+ nd obtain the resources within. At the same time, these machines have also been used to construct buildings of modest scale. Though they lack the scale of the "Mountai
+---
+all_furnishings.txt:
+ age, these barriers, which were meant to divide up territory, eventually became used to display items instead. Legend has it that this was because some Melusines belie
+---
+all_furnishings.txt:
+ vely young tree, even though it is already rather tall. Apparently, Birches are used to line the sides of the road in some towns and cities.
+Realm Depot
+Goldbud_Stone 
+---
+all_furnishings.txt:
+ snacks, saying that they tasted very familiar — indeed, just like the ones they used to have at home.""Paimon also could not understand what was happening, for were we
+---
+all_furnishings.txt:
+ ks fence, and is extremely fireproof. The firewood is originally intended to be used to make weapons, but it is not suitable for conversion into agricultural tools. Wi
+---
+all_furnishings.txt:
+ air_Care : Snowman Component
+Snowman Hat
+A hat with three locks of hair. Can be used to build a Puffy Snowman.Usually, snowman hats of this kind are souvenirs made usi
+---
+all_furnishings.txt:
+ tatue:_The_Knowing : ExteriorLandscape Large Object
+A stone lion statue that is used to ward off evil spirits. This stone lion stands guard over the left-hand side.Leg
+---
+all_furnishings.txt:
+  sea creature-inspired soup ladle gives off a sense of leisure.If this ladle is used to taste various waters, you might perhaps gain insights you would not normally...
+---
+all_furnishings.txt:
+ : ExteriorLandscape Curio
+A snowman torso with standard proportions that can be used to build a Puffy Snowman.This sort of snowman mimics a sitting position. Though it
+---
+all_furnishings.txt:
+ dy water.
+Realm Depot
+Simple_Cargo_Cart : ExteriorLandscape Large Object
+A cart used to transport a variety of goods. Its ability to traverse obstacles is quite limite
+---
+all_furnishings.txt:
+ ohoo : Carving Component
+Wood-Carved Head
+A sullen woodcarving head that can be used to assemble an "Aranara Carving." It's painted blue and reminds people of a forest
+---
+all_furnishings.txt:
+ aimon's description. It resembles the actual landscape of the desert and can be used to form the basic terrain of adepti abodes.The sturdy and huge rock is like a loft
+---
+all_furnishings.txt:
+ ce and Shaded Clarity.Medium-sized, round fish with horn-like cartilage that is used to dig underwater burrows, build shelters and drive away creatures that try to har
+---
+all_furnishings.txt:
+ s possible. These basic paving units would eventually evolve into the floorings used today.
+Realm Depot
+Standard_Shipping_Pallet : ExteriorCourtyard Large Ornament
+Med
+---
+all_furnishings.txt:
+ er : ExteriorLandscape Curio
+A naturally-standing woodcarving torso that can be used to assemble an "Aranara Carving." It is painted pink and reminds people of huge fl
+---
+all_furnishings.txt:
+ k made from reliable, economical Bamboo Segments and Fragrant Cedar Wood, often used to store the bamboo sieves that hold tea leaves.Ostensibly, this simply appears to
+---
+all_furnishings.txt:
+ tatue:_The_Warding : ExteriorLandscape Large Object
+A stone lion statue that is used to ward off evil spirits. This stone lion defends the right-hand side.Legend has i
+---
+all_furnishings.txt:
+ itts : Snowman Component
+Snowman Hands
+Hands covered by two red mittens. Can be used to build a Puffy Snowman.Mondstadt's children believe that wearing red gloves duri
+---
+all_furnishings.txt:
+ Steel_Stopper : ExteriorLandscape Large Object
+These traditional roadblocks are used to delineate prohibited areas in peacetime, but they serve as the basic unit of a 
+---
+all_furnishings.txt:
+ robe contains a replaceable wooden box full of dried petals and sawdust that is used to absorb water and control the humidity within. This contraption actually works q
+---
+all_furnishings.txt:
+ aughter : Snowman Component
+Snowman Head
+A traditional snowman head that can be used to build a Puffy Snowman.It is tradition to use a few stones or a little ink to co
+---
+all_furnishings.txt:
+ k made from reliable, economical Bamboo Segments and Fragrant Cedar Wood, often used to store the bamboo sieves that hold tea leaves.Some report that this inclined des
+---
+all_furnishings.txt:
+  Maple Wood that is often found as an accessory to tea ceremony sets and can be used to store generous amounts of snacks and sweets. The snack box within has a double-
+---
+all_furnishings.txt:
+  double-decker design. Its base plate is quite thin, and the lower layer can be used to store ice cubes or hot sand to keep the snacks at the optimal temperature for t
+---
+all_furnishings.txt:
+ ph : Carving Component
+Wood-Carved Head
+A smirking woodcarving head that can be used to assemble an "Aranara Carving." It is unpainted and has the unique texture and a
+---
+all_furnishings.txt:
+ A fairy tale writer wrote several fairy tales about the mischievous Aranara who used to be pranksters and eventually admitted their mistakes. Unfortunately, these fair
+---
+all_furnishings.txt:
+  Object
+A special device that can be found throughout the Fortress of Meropide, used to relieve stress, improve one's physical constitution, and assist in combat pract
+---
+all_furnishings.txt:
+ The lamp itself has an elegant appearance, and the extent of its swaying can be used to determine wind speed. In an emergency, stronger mercenaries may even be able to
+---
+all_furnishings.txt:
+ ough which rain may enter.The scholar, Musk, pointed out that these gaps can be used to collect rainwater, and that indoor pots may be set up inside such structures.
+T
+---
+all_furnishings.txt:
+ se_Elder : ExteriorLandscape Curio
+A woodcarving torso with a stick that can be used to assemble an "Aranara Carving." It is unpainted and has the unique texture and a
+---
+all_furnishings.txt:
+ side around Mondstadt, where they have stood for a long time.Street lights also used to be a common sight in the wild and the mountains, but many were destroyed when m
+---
+all_furnishings.txt:
+  The Steambird's gates.When first designed, this sort of announcement board was used to display "the hottest monthly news" from said paper. The editors would select th
+---
+all_furnishings.txt:
+ er : ExteriorLandscape Curio
+A naturally-standing woodcarving torso that can be used to assemble an "Aranara Carving." It's painted blue and reminds people of a forest
+---
+all_furnishings.txt:
+ ndering_Heavens_Drum : InteriorSmall Furnishing Craftwork
+This kind of war drum used to be a feature of every major mountain pass in Liyue, where it served as an impor
+---
+all_furnishings.txt:
+ n Component
+Snowman Hands
+A pair of hands that naturally point downward. Can be used to build a Puffy Snowman.Such snowman hands are the simplest to build, such that e
+---
+all_furnishings.txt:
+ s deep and resounding, like the furious roars of wild beasts, and was therefore used to express battle scenes. Today, a variety of instruments are used for this purpos
+---
+all_furnishings.txt:
+ around a square table and draw slips from a bamboo cylinder similar to the ones used to draw fortune slips. The items drawn have seashells or small amounts of Mora spe
+---
+all_furnishings.txt:
+ y_Rest : ExteriorLandscape Curio
+A lovely, seated woodcarving torso that can be used to assemble an "Aranara Carving." It is painted pink and reminds people of huge fl
+---
+all_furnishings.txt:
+ same attitude towards imports from overseas. That is to say that if they can be used to improve local lives, then they shall indeed be used. The two commissions have b
+---
+all_furnishings.txt:
+ while also occupying a relatively small area.Thus, this kind of design is often used to expand storage space, fill gaps, or create partitions. There is just such a bui
+---
+all_furnishings.txt:
+ ments inside are tightly sealed, and in an emergency, this backpack can even be used to store water.Inside one of the backpack's many internal storage spaces is a guid
+---
+all_furnishings.txt:
+ Melusine senses are quite different from those of ordinary people, and they are used to walking about in such places. As for guests from outside, these stone platforms
+---
+all_furnishings.txt:
+ he bricked structure is capable of ensuring water quality, but the wooden frame used to pull the bucket up does not look all that sturdy.
+Realm Depot
+Passage's_Plentif
+---
+all_furnishings.txt:
+ onstrous_Joy : Snowman Component
+Snowman Hands
+Hands made from branches. Can be used to build a Puffy Snowman.Although branches aren't very... aesthetic, so to speak, 
+---
+all_furnishings.txt:
+ ded_Pathway : ExteriorLandform Floating Platform
+An elevated boardwalk that can used to construct paths between floating platforms as well as taller buildings. These b
+---
+all_furnishings.txt:
+ h : Snowman Component
+Snowman Scarf
+An ordinary but practical red scarf. Can be used to build a Puffy Snowman.Snowmen will melt if they get too warm, but how will chil
+---
+all_furnishings.txt:
+ nishing Bookcase
+A small bookcase often seen in the Palais Mermonia that can be used to store all kinds of reference books that are quite helpful to the staff in their
+---
+all_furnishings.txt:
+ 
+Snowman Scarf
+A scarf with an alternating deep red-pale yellow pattern. Can be used to build a Puffy Snowman.The children believe that to wear these colors is to have
+---
+all_furnishings.txt:
+ ystal-like accessory embedded into it. Even in the discerning eyes of merchants used to trading and appraising precious artifacts, this stands out as a rare treasure b
+---
+all_furnishings.txt:
+ ph : Carving Component
+Wood-Carved Head
+A smirking woodcarving head that can be used to assemble an "Aranara Carving." It's painted pink and reminds people of huge flo
+---
+all_furnishings.txt:
+ A fairy tale writer wrote several fairy tales about the mischievous Aranara who used to be pranksters and eventually admitted their mistakes. Unfortunately, these fair
+---
+all_furnishings.txt:
+ d using dense stones. The slabs are arranged in a regular fashion and are often used to pave exposed ground in towns and cities.The clean, hard stones utilize a tradit
+---
+all_furnishings.txt:
+ wer_Beds : ExteriorLandscape Terrace
+Rectangular fir flower beds that are often used to decorate the streets.A special coating has been applied to these flower beds to
+---
+all_furnishings.txt:
+ : Carving Component
+Wood-Carved Hat
+A mujina-shaped wood-carved hat that can be used to assemble an "Aranara Carving."It was modeled after the hat of a petite ninja wh
+---
+all_furnishings.txt:
+ ohoo : Carving Component
+Wood-Carved Head
+A sullen woodcarving head that can be used to assemble an "Aranara Carving." It's painted pink and reminds people of huge flo
+---
+all_furnishings.txt:
+ th round and thick leaves aplenty and no scent. After some washing, they can be used to serve food. Only one such plant is necessary to provide an entire adventure tea
+---
+all_furnishings.txt:
+ ous_Cleanup : Snowman Component
+Snowman Hands
+Two hands holding a broom. Can be used to build a Puffy Snowman.Snowmen equipped with such hands suddenly appear most pro
+---
+all_furnishings.txt:
+ n Component
+Snowman Scarf
+A unique bib that looks like a ruffled collar. Can be used to build a Puffy Snowman.Snowmen that wear such bibs often play comedic roles that
+---
+all_furnishings.txt:
+ ever, some say that this is not what the tool was originally designed for — one used to hang fishing nets on the rack to clear the fish they had caught of sand and mud
+---
+all_furnishings.txt:
+ y_Rest : ExteriorLandscape Curio
+A lovely, seated woodcarving torso that can be used to assemble an "Aranara Carving." It's painted blue and reminds people of a forest
+---
+all_furnishings.txt:
+  ExteriorOutdoor Furnishing Fence
+A crop rack built from Otogi Wood that can be used to cultivate all kinds of fruits and vegetables.Although the Shogunate gives a cer
+---
+all_furnishings.txt:
+ ace will always be saved for the Guardian with heterochromatic eyes, for she is used to eating alone. She eats modestly and has no outsize appetite, and yet her streng
+---
+all_furnishings.txt:
+ s Potted Plant
+A sizable floral arrangement in a large floor vase that is often used to decorate important venues. The color combination adopted by this floral arrange
+---
+all_furnishings.txt:
+ wman Component
+Snowman Head
+A snowman head with a unique expression that can be used to build a Puffy Snowman.It is said that the expression on this snowman's face is 
+---
+all_furnishings.txt:
+ nd_Proper : ExteriorBuilding Inazuma
+An annex to the Refined Estate that can be used to receive guests.Some Inazumans who place great emphasis on mercantile etiquette 
+---
+all_furnishings.txt:
+ nd store, these boxes were most convenient indeed. Later on, they would also be used to store snacks and other things.
+Realm Depot
+Mondstadt_House_With_Overhanging_Att
+---
+all_furnishings.txt:
+ nes that has an upside-down triangular pattern. It is said that Forest Watchers used to set these fences up around no-fishing zones to maintain ecological balance and 
+---
+all_furnishings.txt:
+ have for Forest Rangers going on long missions. Supposedly, apart from commonly used tools, emergency rations, and containers to store specimens, the backpack also con
+---
+all_furnishings.txt:
+ pe Ornament
+A complex scale metal model that is a replica of the marvelous tool used to analyze and upgrade alchemical ingredients. This device is designed to extract 
+---
+all_furnishings.txt:
+ edients of the same sort.Rumor has it that this device was inspired by a device used to extract coffee concentrate. However, to increase the success rate of the relate
+---
+all_furnishings.txt:
+ ter : Snowman Component
+Snowman Eyes
+Snowman eyes made using two stones. Can be used to make a Puffy Snowman.The children have called these eyes the "Treasure Hunters,
+---
+all_furnishings.txt:
+ hrub
+Save for certain trees with special nobility, the people of Liyue are more used to naming vegetation based on their morphology as opposed to their precise species
+---
+all_furnishings.txt:
+ od-carved cape colored almost identical to the stunning sunset glow that can be used to assemble an "Aranara Carving."It was modeled after the cape of a well-known ope
+---
+all_furnishings.txt:
+ ishing Bookcase
+A Liyue-style cedar bookshelf of cunning workmanship. It can be used to contain books or other miscellaneous objects and comes with a desk on top.Many 
+---
+all_furnishings.txt:
+ nt
+Wood-Carved Eyes
+A pair of affable and peaceful wood-carved eyes that can be used to assemble an "Aranara Carving."It was modeled after the eyes of the goldsmith Po
+---
+all_furnishings.txt:
+ _Bed : InteriorLarge Furnishing Bed
+A traditional bed from Liyue. The materials used to make the pillows and mattress are very carefully selected.Owing to the excess o
+---
+all_furnishings.txt:
+ _Dreamscape : Snowman Component
+Snowman Hat
+A soft, fluffy red nightcap. Can be used to build a Puffy Snowman."You can play with the snowmen tomorrow!" So the adults t
+---
+all_furnishings.txt:
+ andbearer Wood and decorated with a red roof and curtains. These huts are often used to sell souvenirs and gifts. Liyue has a tradition of giving gifts at the door, an
+---
+all_furnishings.txt:
+ rategy : ExteriorOutdoor Furnishing Cabinet
+A plain wooden shelf that is mainly used to display the finished fruits of alchemical potioneering.It is said that includin
+---
+all_furnishings.txt:
+ se_Elder : ExteriorLandscape Curio
+A woodcarving torso with a stick that can be used to assemble an "Aranara Carving." It is painted pink and reminds people of huge fl
+---
+all_furnishings.txt:
+ hrub
+Save for certain trees with special nobility, the people of Liyue are more used to naming vegetation based on their morphology as opposed to their precise species
+---
+all_furnishings.txt:
+  interior contains a large store of weapons, armor, and crossbows that could be used to defend against invasion by evil from without. Though many years have passed sin
+---
+all_furnishings.txt:
+ in, ocher vase. Compared with the materials used for earliest pottery, the ones used to produce such a piece have been upgraded to the point where they may be regarded
+---
+all_furnishings.txt:
+  the Adepti, but can now be found all over Liyue. This particular kind of amber used to possess the power to suppress evil. Prolonged exposure to the elements has carv
+---
+all_furnishings.txt:
+ brocades. The resemblance is surface-level, however, as these flowers cannot be used to make clothing. Using it in dye is out of the question as well — it's way too ex
+---
+all_furnishings.txt:
+  years living in these houses, not due to poverty, but because they are already used to working in this kind of environment, and dislike spending time getting rid of n
+---
+all_furnishings.txt:
+ stove and the shelves, the wide passageways and water-diverting channels can be used to prevent the losses from getting worse.
+Adeptal Mirror (Round 2)
+Two-Way_Iron_La
+---
+all_furnishings.txt:
+ p_Stroll : ExteriorLandform Floating Platform
+An elevated boardwalk that can be used to construct paths between floating platforms as well as taller buildings. These b
+---
+all_furnishings.txt:
+  embedded inside of it.These boardwalks have a special curved design and can be used to create smooth turns high above the ground. However, if you desire to decorate t
+---
+all_furnishings.txt:
+ its contents from being contaminated by rainwater and dust.Some mercenaries are used to gulping down wine over their long trek through the desert. Seeing this as an op
+---
+all_furnishings.txt:
+ ing torso with hands modeled after the claws of the Rishboland Tiger. It can be used to assemble an "Aranara Carving." It is painted pink and reminds people of huge fl
+---
+all_furnishings.txt:
+ it has to be. They tell you that it was made in imitation of a machine that was used to test certain types of data, capturing and combining the angle, speed, and direc
+---
+all_furnishings.txt:
+ ed environment. This design would eventually catch on in the markets and become used to carry all manner of foodstuffs and construction material, even military materia
+---
+all_furnishings.txt:
+ s. The whole affair went on so quietly that even to this day, the merchants who used to sell glazed pottery as luxury items cannot figure out where went wrong. From th
+---
+all_furnishings.txt:
+ he ability to retain moisture for long periods. In theory, these fungi could be used to maintain the humidity of a courtyard, but they seem to only grow in special env
+---
+all_furnishings.txt:
+ loons away, stand and all — her reasoning being that very large balloons can be used to transport goods.""However, when I asked her 'which is lighter, you, or a balloo
+---
+all_furnishings.txt:
+ Colors_in_the_Water_Roiling : ExteriorLandform Small Shrub
+"These plants can be used to make dyes. If you place them into boiling water and add some spices and Mountai
+---
+all_hangout.txt:
+ n be yours to do with as you please, save for a small portion that I would like used to pay my mother's living expenses. Her name is Minamoto Kotomi, and she lives in 
+---
+all_hangout.txt:
+ ey meet. But, Heizou might still consider her as an old friend. I heard that he used to work with Sango.
+Media:vo lyycop001 1906003 uesugi 22.ogg Uesugi: Sometimes he'
+---
+all_hangout.txt:
+ ogg Chongyun: *sigh* Sorry, I—I shouldn't rant like that. I'm fine, I've gotten used to such feelings...
+ Don't give up, Chongyun.
+Media:vo cycop001 1902302 chongyun 1
+---
+all_hangout.txt:
+ he Akademiya in quite a while.
+Media:vo lylcop001 1915702 layla 39.ogg Layla: I used to enjoy visiting the rainforest... but it's been a while since I've been there. M
+---
+all_hangout.txt:
+ ofei)
+Media:vo ngcop001 1913403 xiaofei 01.ogg Xiaofei: Anything Lady Ningguang used to own is sure to be worth a significant amount of money.
+Media:vo ngcop001 191340
+---
+all_hangout.txt:
+ a 55.ogg Layla: Really? That's great. You're helping with all the things that I used to do for her.
+Media:vo lylcop001 1915902 layla 56.ogg Layla: Seems like you've gi
+---
+all_hangout.txt:
+ e curious about, you may go ahead and ask now. I can answer you as I write! I'm used to multi-tasking.
+Media:vo lylcop001 1916002 layla 02.ogg Layla: Oh, and I have to
+---
+all_hangout.txt:
+ way, thanks for looking out for me. Honestly, it wasn't that big of a deal. I'm used to it by now.
+Media:vo kvcop001 1905803 kaveh 06.ogg Kaveh: Stress is just an ines
+---
+all_hangout.txt:
+  is also an architect. I've always adored her drawings, and when I was young, I used to sit next to her and watch her bring all kinds of buildings to life on paper. Yo
+---
+all_hangout.txt:
+ Media:vo kvcop001 1905803 kaveh 57.ogg Kaveh: Hold on! I just remembered that I used to have a senior classmate by the name of Alkami. If memory serves me right, he's 
+---
+all_hangout.txt:
+  bit easier on them. After all, they're nothing like the genius scholars you're used to dealing with at the Akademiya. We don't need to strive for perfect understandin
+---
+all_hangout.txt:
+ vo noecop001 1906502 henning 08.ogg Henning: I guess in Mondstadt we're just so used to calling Noelle's name when we're in trouble.
+ Sound like you're a little too de
+---
+all_hangout.txt:
+ y sumpter beasts, I'm your man.
+Media:vo kvcop001 1905903 roya 03.ogg Roya: You used to be an Eremite mercenary?
+Media:vo kvcop001 1905903 badawi 03.ogg Badawi: I know
+---
+all_hangout.txt:
+ g Badawi: Okay, okay... *sigh*
+Media:vo kvcop001 1905903 kaveh 02.ogg Kaveh: He used to be a member of the Eremites? Huh, from the way he dressed, I would have thought
+---
+all_hangout.txt:
+ lty.
+Media:vo kvcop001 1905904 kaveh 32.ogg Kaveh: Let me think... You said you used to be an Eremite mercenary, right? In that case, you could help us clear out some 
+---
+all_hangout.txt:
+  again, my mind goes completely blank...
+ You could take some more exams to get used to the atmosphere.
+(Go to Branch 3)
+ You could try to imagine yourself passing the
+---
+all_hangout.txt:
+ ng the exam.
+(Go to Branch 4)
+Branch 3[]
+ You could take some more exams to get used to the atmosphere.
+Media:vo noecop002 1908101 noelle 39.ogg Noelle: Take some more
+---
+all_hangout.txt:
+ ogg Noelle: Making the stuffing requires Pyro Slime Condensate, and the red dye used to grab the enemies' attention can be made from crushed Valberries.
+Media:vo noeco
+---
+all_hangout.txt:
+  hard.
+Media:vo lylcop001 1915502 layla 08.ogg Layla: Thanks, but I'm fine. I'm used to pushing my limits... I know how far I can go.
+(Obtain  Picture Left by the Wisd
+---
+all_hangout.txt:
+ g adjustment. Give it some time.
+ Maybe after a few more interviews, you'll get used to it?
+Media:vo lntcop001 1918201 lynette 20.ogg Lynette: ...I think I'd rather pr
+---
+all_hangout.txt:
+ ood actor.)
+Media:vo lntcop001 1918202 lynette 07.ogg Lynette: ...Normally, I'm used to lurking in the shadows on the stage and spying on other people. So it was stran
+---
+all_hangout.txt:
+ cop001 1918205 ginna 02.ogg ???: Things are different around here. You might be used to a crowd of bootlicking morons fawning over you wherever you go, but not down he
+---
+all_hangout.txt:
+ 918211 jacques 02.ogg Jaiques: We watched as you slowly started down a path you used to despise... the path of powerful connections, drinks receptions, backdoor deals 
+---
+all_hangout.txt:
+  long as you're no longer raring to fight... Peace begets wealth, as the elders used to say...
+Media:vo kycop001 1908007 kaeya 24a.ogg Media:vo kycop001 1908007 kaeya 
+---
+all_hangout.txt:
+ ight then, I suppose it's not all that different from the dice gambling games I used to play in my youth. If it's just for a few drinks... you can count me in.
+Media:v
+---
+all_hangout.txt:
+ dia:vo dancop001 1910205 diona 16.ogg Diona: Alright, let's go find Paisley. He used to always sneak out to go to the Cathedral before, so let's start there.
+ Does he 
+---
+all_hangout.txt:
+ o frzcop001 1917103 faruzan 06.ogg Faruzan: "Tropes"? Ah, those fictional rules used to push the plot forward, yes? They're definitely effective in achieving a distanc
+---
+all_hangout.txt:
+ lei: S—Sorry...
+Media:vo frzcop001 1917105 maddah 04.ogg Maddah: It's fine. I'm used to it, more or less. So, how can this terribly unpopular storyteller help you?
+Med
+---
+all_hangout.txt:
+ h 06.ogg Maddah: My master always talked about how incredibly popular that book used to be. However, I tried reciting a few chapters of it at the cafe, and I found tha
+---
+all_hangout.txt:
+ , I can tell you what that's all about! Apparently, in their youth, some people used to imagine themselves as someone "burdened by fate," "fighting against the world,"
+---
+all_hangout.txt:
+  that I'm required to.
+Media:vo ngcop001 1913601 gousaner 08.ogg Gou San'er: It used to be a huge problem. But with a bit of hard work, I've managed to reduce the amou
+---
+all_hangout.txt:
+ g: In which case, I think I'll take this opportunity to show you a skill that I used to be rather proud of.
+ Fishing?
+Media:vo ngcop001 1913603 ningguang 10.ogg Ninggu
+---
+all_hangout.txt:
+ onsibility.
+Media:vo wlcop001 1902602 gorou 10.ogg Gorou: By this point, I'm so used to it that I'd probably find it hard to adjust if I ever gave it up.
+ (I can't let
+---
+all_hangout.txt:
+ n club it is, but they are raring to go! Reminds me of the rallying speeches we used to give before going into battle.
+ Hehe...
+ Heh, yeah...
+Media:vo wlcop001 1902603
+---
+all_hangout.txt:
+ .ogg Faruzan: In the end, "useful" and "useless" are concepts that shouldn't be used to evaluate knowledge.
+Media:vo frzcop001 1917204 faruzan 09.ogg Faruzan: When I f
+---
+all_hangout.txt:
+ ao 09.ogg Chef Mao: Since this is your first time in Liyue, perhaps you are not used to chopsticks yet? If so, might I recommend the Grilled Tiger Fish — fresh, fragra
+---
+all_hangout.txt:
+  want to learn about the Liyue diet. Adjusting the dish to accommodate what I'm used to seems to defeat the purpose of coming here...
+Media:vo noecop002 1908202 chefma
+---
+all_hangout.txt:
+  noelle 16.ogg Noelle: When I was little, the other Mondstadt kids and I always used to imagine what kind of Visions we would have when we grew up... I hope that, some
+---
+all_hangout.txt:
+ ion, and the like. In fact, the insignia that was discovered on the pendant was used to represent an illegitimate child.
+ So that would mean... Pierre is a bastard chi
+---
+all_hangout.txt:
+ 16.ogg Lyney: Haha... Well, if it works out, maybe it's something worth getting used to.
+Media:vo lntcop001 1918506 lynette 16.ogg Lynette: Cats and humans are actuall
+---
+all_hangout.txt:
+  lntcop001 1918511 chevreuse 03.ogg Chevreuse: These cleaning agents are likely used to dispel traces of the substance... like its smell.
+Media:vo lntcop001 1918511 ch
+---
+all_hangout.txt:
+  feeling that somewhere down there... we might find some rope. If a rope can be used to keep a pet from running away... then why not a barrel?
+(Talk to Chevreuse, opti
+---
+all_hangout.txt:
+ to-face. As one of the sole survivors of the Lefevere family, maybe he was just used to that sort of elusive lifestyle.
+Media:vo lntcop001 1918515 lynette 04.ogg Lynet
+---
+all_hangout.txt:
+  but could otherwise be harmless — like raw materials that could potentially be used to create contraband — we return them to the ship they were confiscated from, inst
+---
+all_hangout.txt:
+ 1.ogg Lynette: There were gaps around the lids of the barrels, and airbags were used to keep them upright in the water....
+ ...So that the animals would be able to bre
+---
+all_hangout.txt:
+ lerThe player's chosen name for the Traveler): (No... I don't think that can be used to answer the question at hand.)
+Media:vo lntcop001 1918519 lynette 13.ogg Lynette
+---
+all_hangout.txt:
+ lerThe player's chosen name for the Traveler): (No... I don't think that can be used to answer the question at hand.)
+Media:vo lntcop001 1918519 lynette 13.ogg Lynette
+---
+all_hangout.txt:
+ lerThe player's chosen name for the Traveler): (No... I don't think that can be used to answer the question at hand.)
+Media:vo lntcop001 1918519 lynette 13.ogg Lynette
+---
+all_hangout.txt:
+ cop001 1900504 barbara 22.ogg Barbara: Uh- have I said too much? Sorry, I'm not used to taking a break, I keep boring you to death...
+Media:vo bblcop001 1900504 barbar
+---
+all_hangout.txt:
+ 6.ogg Sayu: Don't worry, you might feel a little dizzy at first, but you'll get used to it.
+ I don't think this technique is as easy as it looks...
+Media:vo zycop001 1
+---
+all_hangout.txt:
+ 002 1908801 noelle 04.ogg Noelle: I just wanted to take an exam, so I could get used to the atmosphere... I thought it might help me better prepare for the Knights of 
+---
+all_hangout.txt:
+ istic talent, right?
+ Why do you say that?
+ You don't sound as confident as you used to be.
+Media:vo kvcop001 1907501 kaveh 09.ogg Kaveh: Criticism and self-doubt have
+---
+all_hangout.txt:
+ lding blocks... it's been years since I've last seen these. When I was a kid, I used to stack them super high, and could even stabilize the tower to keep it from tumbl
+---
+all_hangout.txt:
+ a:vo kvcop001 1907501 kaveh 20.ogg Kaveh: Ah, this is my mother's notebook. She used to write and sketch in it all the time.
+Media:vo kvcop001 1907501 kaveh 21.ogg Kav
+---
+all_hangout.txt:
+ l the time.
+Media:vo kvcop001 1907501 kaveh 21.ogg Kaveh: When I was a child, I used to be super fascinated by this notebook, and always pestered my mother to let me r
+---
+all_hangout.txt:
+ u 36.ogg Beidou: I'd prefer to be having fun together with my crew! I guess I'm used to that rowdy bunch.
+Media:vo bdcop001 1905102 beidou 37.ogg Beidou: So I think we
+---
+all_hangout.txt:
+  in the fishing village)
+Media:vo bdcop001 1905114 beidou 01.ogg Beidou: People used to call this place "Downriver," because the villagers apparently moved here from a
+---
+all_hangout.txt:
+ 1 1915202 hunayn 15.ogg Hunayn: (The House of Daena doesn't feel as quiet as it used to be.)
+(Talk to Hunayn)
+Media:vo lylcop001 1915202 layla 01.ogg Layla: Hi there, 
+---
+all_hangout.txt:
+ t be exhausted.
+Media:vo bblcop001 1900906 barbara 21.ogg Barbara: Hehe, I'm so used to it by now, but thanks for wanting to intervene.
+Media:vo bblcop001 1900906 barb
+---
+all_hangout.txt:
+ 801 ningguang 53.ogg Ningguang: A lot of the old folks like to brag about how I used to be their errand-runner back in the day... hehe.
+ It's hard to imagine...
+ But i
+---
+all_hangout.txt:
+ urse, my drink is non-alcoholic...
+ Dunno what I was expecting. Never mind, I'm used to it already.
+Media:vo kycop001 1909702 kaeya 08.ogg Kaeya: Strictly speaking, th
+---
+all_hangout.txt:
+ e side?
+Media:vo kycop001 1909703 kaeya 13.ogg Kaeya: Yes, just like you always used to make. Thank you kindly, Adelinde.
+Media:vo kycop001 1909703 adelinde 10.ogg Ade
+---
+all_hangout.txt:
+ 1909705 adelinde 11.ogg Adelinde: Kaeya is much savvier and more mature than he used to be. Goodness knows he can be tricky to deal with... But let me share a few litt
+---
+all_hangout.txt:
+  at that time, I really couldn't stand it a second longer. My adventures always used to go off without a hitch...
+Media:vo bntcop001 1904404 royce 11.ogg Royce: But af
+---
+all_hangout.txt:
+ here...
+Media:vo bntcop001 1904404 bennett 21.ogg Bennett: It's just, I've been used to thinking this way for a long time. Hearing you say that, though, I feel like ma
+---
+all_hangout.txt:
+ ... and then...
+Media:vo lyycop001 1905602 kujousara 05.ogg Kujou Sara: Ugh, it used to be that the Tenryou Commission assisted others with disappearances, but it seem
+---
+all_hangout.txt:
+ eared along with the man himself. The only thing I can think of is the Kunai he used to train with.
+Media:vo tmcop001 1911703 kazuaki 11.ogg Kazuaki: Come with me. I'l
+---
+all_hangout.txt:
+ : I've interacted with her a few times before, but I can't say I've ever gotten used to it.
+Media:vo wlcop001 1901801 gorou 16.ogg Gorou: I've never been good at deali
+---
+all_hangout.txt:
+ k to borrow some money from your neighbor? Any sum he agrees to lend you can be used to offset the amount he owes. Even if he refuses to lend to you, at least by askin
+---
+all_hangout.txt:
+ curious where you store the wine these days — is it the same place as it always used to be?
+Media:vo kycop001 1909602 diluc 04.ogg Diluc: Sounds like you're in a hurry
+---
+all_hangout.txt:
+ ou like this in a long time.
+Media:vo kycop001 1909604 connor 05.ogg Connor: We used to always pour the first glass for you when cracking open a new barrel. With you g
+---
+all_hangout.txt:
+  getting on in years, so some things just aren't as easy as they were. But he's used to doing things his way, and doesn't trust new employees to do it for him.
+Media:v
+---
+all_hangout.txt:
+  you.
+Media:vo kycop001 1909605 kaeya 05.ogg Kaeya: Do you still remember how I used to help out when we were shorthanded?
+Media:vo kycop001 1909605 tunner 06.ogg Tunn
+---
+all_hangout.txt:
+ with them?
+Media:vo dancop001 1910701 diona 04.ogg Diona: Don't you know? Elzer used to always show up at the Cat's Tail.
+Media:vo dancop001 1910701 diona 05.ogg Diona
+---
+all_hangout.txt:
+ m the idiom 天有不测风云，人有旦夕祸福 tiān yǒu bù cè fēngyún, rén yǒu dànxī huòfú, which is used to describe how one's fortunes can be as unpredictable as the weather.
+↑ Japanese:
+---
+all_hangout.txt:
+ 3 layla 04.ogg Layla: "What's the big deal? We just wanna swim!" That's what we used to say.
+Media:vo lylcop001 1916103 layla 05.ogg Layla: But now that I think about 
+---
+all_hangout.txt:
+ ve traveled back in time.
+Media:vo lylcop001 1916108 layla 02.ogg Layla: We all used to run around in the woods when we were kids. Trees and mud was [sic] the world we
+---
+all_hangout.txt:
+ e," and other similar thoughts started to come to mind... I guess I'm still not used to being in the Akademiya yet.
+ There is a purpose for every stage in life.
+Media:
+---
+all_hangout.txt:
+ layla 17.ogg Layla: You're right. I've been doing research for so long that I'm used to having a certain routine...
+Media:vo lylcop001 1916108 layla 18.ogg Layla: A ca
+---
+all_hangout.txt:
+ torms and earthquakes subsided. They are now exploring areas of the desert that used to be difficult to access.
+Media:vo frzcop001 1917304 collei 04.ogg Collei: Should
+---
+all_hangout.txt:
+ 
+Media:vo frzcop001 1917312 curiousvillagers 01.ogg Curious Villager: This area used to be ravaged by frequent sandstorms, but it's been calm lately for some reason...
+---
+all_hangout.txt:
+ y, and soon...
+Media:vo frzcop001 1917314 faruzan 08.ogg Faruzan: Tamimi, which used to be incapable of even moving heavy objects, became the "Ruin Wanderer"...
+Media:
+---
+all_hangout.txt:
+ ith the rest.
+Media:vo frzcop001 1917318 faruzan 05.ogg Faruzan: It's fine. I'm used to this.
+Media:vo frzcop001 1917318 faruzan 06.ogg Faruzan: I once believed that I
+---
+all_hangout.txt:
+ 
+Media:vo tmcop001 1911902 thoma 01.ogg Thoma: Back in its heyday, Ritou always used to remind me of Mondstadt...
+Media:vo tmcop001 1911902 thoma 02.ogg Thoma: Freedom
+---
+all_hangout.txt:
+ p001 1911903 thoma 04.ogg Thoma: Back when my father was still in Mondstadt, he used to talk fondly of the Angel's Share.
+Media:vo tmcop001 1911903 thoma 05.ogg Thoma:
+---
+all_hangout.txt:
+ now, okay?
+Media:vo cycop001 1903003 luzheng 02.ogg Lu Zheng: Hmm... To think I used to believe you were brave.
+Media:vo cycop001 1903003 dandan 02.ogg Dandan: B—But t
+---
+all_hangout.txt:
+ .
+Media:vo dancop001 1910403 diona 25.ogg Diona: Never mind, Daddy. I'm already used to it. Now that you're sober, let's start heading back. Allan and the others are w
+---
+all_hangout.txt:
+ 27.ogg Azzam: You're quite welcome. It makes me happy to see my equipment being used to its potential.
+(Proceed to Thesis Defense Practice)
+ If you mess this up, you w
+---
+all_hangout.txt:
+ a 49.ogg Layla: Really? That's great. You're helping with all the things that I used to do for her.
+Media:vo lylcop001 1915802 layla 50.ogg Layla: Seems like you've gi
+---
+all_hangout.txt:
+ 27.ogg Azzam: You're quite welcome. It makes me happy to see my equipment being used to its potential.
+(Proceed to The Remaining Problem)
+Other Languages[]
+LanguageOff
+---
+all_hangout.txt:
+ scriptionAccording to Diona, the herbal soup made by samachurls can possibly be used to make an antidote to alcohol.
+A Sobering Affair[]
+Media:vo dancop001 1910501 dio
+---
+all_hangout.txt:
+ n here... I don't ever want to smell it again, phew! Besides, I doubt it can be used to make any drinks.
+Media:vo dancop001 1910501 diona 15.ogg Diona: ...But it does 
+---
+all_hangout.txt:
+  places in the Akademiya, I remember this one most. When my studies got busy, I used to pull all-nighters here trying to finish my blueprints.
+ You sound like you almo
+---
+all_hangout.txt:
+ e of the creative process... The point about the design that will be ultimately used to judge its true worth. It was the first time that it became crystal clear in my 
+---
+all_hangout.txt:
+ 
+Media:vo kvcop001 1907704 kaveh 18.ogg Kaveh: Who would have thought my mother used to attend that kind of thing... It seemed she was only good at talking about her o
+---
+all_hangout.txt:
+ un of me, are you?
+Media:vo kvcop001 1907704 kaveh 30.ogg Kaveh: I've gotten so used to sarcasm that I can't tell what's genuinely a compliment anymore. Wait! By "fun,
+---
+all_hangout.txt:
+ ests have to go through her.
+Media:vo yjcop001 1903702 yunjin 25.ogg Yun Jin: I used to think I could hold the troupe together just by putting on a good performance. B
+---
+all_hangout.txt:
+ Media:vo kvcop001 1907402 kaveh 08.ogg Kaveh: I must thank you as well, Dori. I used to say you only cared about Mora, which might have been some prejudice on my part.
+---
+all_hangout.txt:
+  once. Everything went smoothly on the way, and I thought I was starting to get used to life at the Akademiya.
+Media:vo lylcop001 1915406 layla 03.ogg Layla: But just 
+---
+all_hangout.txt:
+  asami 07.ogg Asami: Oh? Really... Well, perhaps my hearing isn't as good as it used to be.
+ (That's a point. She didn't seem surprised that we're shrine maidens.)
+ (M
+---
+all_hangout.txt:
+  So his name is Shikanoin Heizou, huh? Yes, I'm familiar with the detective, he used to stroll around the area.
+Media:vo lyycop001 1903604 shibata 03.ogg Shibata: Her 
+---
+all_hangout.txt:
+ eh: Yeah, it's just another day doing business with people, but I can never get used to that... Those people never think of anyone other than themselves.
+Media:vo kvco
+---
+all_hangout.txt:
+ 01 1909405 venti 02.ogg Venti: Everyone in the choir loves to sing, but they're used to singing their favorite songs.
+Media:vo kycop001 1909405 venti 03.ogg Venti: Sud
+---
+all_hangout.txt:
+ Maybe there's hope for this idea yet.
+ The audience might take some time to get used to a new song...
+Media:vo kycop001 1909405 venti 06.ogg Venti: That's perfectly na
+---
+all_hangout.txt:
+  That's perfectly natural. I'm sure the first hymns ever sung took some getting used to for the audience at the time as well. But I believe that as long as the song is
+---
+all_hangout.txt:
+ s a very novel idea indeed.
+Media:vo kycop001 1909408 melker 01.ogg Melker: I'm used to just humming to myself while I work, so after Sister Grace criticized us for no
+---
+all_hangout.txt:
+ g Chevreuse: Hmm... The materials have many other regular uses outside of being used to make Imitation Sinthe, so they're not immediately subject to being confiscated 
+---
+all_hangout.txt:
+ nett 12.ogg Bennett: Yeah, I felt really let down at first, but I'm pretty much used to it now. It's okay!
+ They're all traitors. (−1 Heart)
+Media:vo bntcop001 1904503
+---
+all_hangout.txt:
+ my daily routine.
+Media:vo bntcop001 1904504 bennett 13.ogg Bennett: I'm pretty used to it by now. At the very least, I should be able to last longer than this Eric gu
+---
+all_hangout.txt:
+ ones.
+Media:vo lylcop001 1916204 layla 03.ogg Layla: But that's just like how I used to think that I had a gift for learning... After coming to Sumeru City, I realized
+---
+all_hangout.txt:
+ e curious about, you may go ahead and ask now. I can answer you as I write! I'm used to multi-tasking.
+Media:vo lylcop001 1916002 layla 02.ogg Layla: Oh, and I have to
+---
+all_hangout.txt:
+  it's nothing that unusual. I think it tastes okay... doesn't it?
+ So am I just used to eating this stuff now...?
+ Amazingly, it actually tastes pretty good...
+Media:v
+---
+all_nation_main_page_info_collection.txt:
+ cretion is found within a patch of mud, a sufficiently-upgraded Adjuvant can be used to destroy it, which will disperse the mud and potentially reveal objects it cover
+---
+all_nation_main_page_info_collection.txt:
+ nterns light up smaller lanterns within a certain radius. Adeptal energy can be used to pick up and reposition the large lantern. The smaller lanterns remain lit for a
+---
+all_npc_text.txt:
+ tab: My family doesn't own a boat so if you want one, I think my neighbor's son used to be a sailor...
+Aftab: Oh, you mean these rugs!
+Aftab: Good question. I've been 
+---
+all_npc_text.txt:
+ s wishes; however, during its journey from Snezhnaya to Inazuma, the Tatarigami used to create it corrupted its consciousness and drove it into an obsession to prove i
+---
+all_npc_text.txt:
+ ed, Hidden in Plain SightLost in Deep Seas
+Alfred is a bard from Mondstadt that used to perform in Liyue. As a bard, he often didn't have time for his family and could
+---
+all_npc_text.txt:
+ d.
+Alfred: Heh. Just singing my daughter's favorite nursery rhymes.
+Alfred: She used to beg me to sing them to her each day the moment I got home... But I was so focus
+---
+all_npc_text.txt:
+ 6] and xiǎoxiānzi (小仙子) to fairies.[36] That said, jīnglíng has previously been used to describe Barbatos before he became Archon, and Paimon. For Barbatos, it was tra
+---
+all_npc_text.txt:
+ y apologies. Now that I'm getting on in years, my eyes are not as sharp as they used to be. Everything is a blurry shadow to me. Luckily, my ears still work well...
+Am
+---
+all_npc_text.txt:
+ y the same as the ones in Liyue.
+Amenoma Tougo: Yeah, the materials and methods used to forge the weapons aren't the same, so the resulting weapons would be of a diffe
+---
+all_npc_text.txt:
+  that weapon.
+Amenoma Tougo: Now, I have fully grasped the techniques that were used to forge that weapon. Seeing as you have deep connections with Liyue, I'll gift th
+---
+all_npc_text.txt:
+ through in your appetite.
+Anna: Brother! I... I'm only eating a bit more than I used to, come on!
+Anna: Don't you pin this on me by the way. This is your fault for mak
+---
+all_npc_text.txt:
+ through in your appetite.
+Anna: Brother! I... I'm only eating a bit more than I used to, come on!
+Anna: Don't you pin this on me by the way. This is your fault for mak
+---
+all_npc_text.txt:
+ d with some elemental lifeforms to create the Fire Seed, which would one day be used to restore the Heart of Oasis.[7]
+Apep is briefly mentioned during the World Quest
+---
+all_npc_text.txt:
+ he Sprout," which is able to generate healthier Dendrogranum, which can then be used to revive Valaya.[3]
+Presumably during the cataclysm, Aramaha fought again the Mar
+---
+all_npc_text.txt:
+ t", and Rana, Arana's childhood friend.
+Aranimba is an Aranara. In the past, he used to stick together with Araminali and Arayama, and the three of them were happy no 
+---
+all_npc_text.txt:
+ ved as well. The Traveler and Paimon concluded that perhaps it was Ararycan who used to play with Royinjan and Amadhiah when they were kids.[4] Due to the nature of th
+---
+all_npc_text.txt:
+ l with it...
+Arashakun: Arashakun will!
+Arashani is an Aranara. In the past, it used to play with a human girl named Avin. When Avin lost the ability to walk and could
+---
+all_npc_text.txt:
+ s of Flowers, and Greater Lord Rukkhadevata.[1] According to Araminali, Arayama used to stick together with Aranimba and Araminali and the three of them were so happy 
+---
+all_npc_text.txt:
+ er what they did.[2]
+Arayama was noted to be not fond of Nara (human), and they used to create the phantasmal barrier to mess up the Nara. One day, one Nara saw though
+---
+all_npc_text.txt:
+ ert from the Akademiya to boot.
+ Why are you practicing medicine here?
+Areta: I used to be very poor, and I had no money to support my studies or travel overseas. It w
+---
+all_npc_text.txt:
+ hine is needed here.
+Areta: But the people in Fleuve Cendre have already gotten used to such a lifestyle. We don't go up there unless it is absolutely necessary.
+Areta
+---
+all_npc_text.txt:
+ unger brother Hosseini and I both got in the Akademiya, but I just couldn't get used to that kind of life...
+Arezo: My younger brother seems to like it though, so he c
+---
+all_npc_text.txt:
+ dering how to arrange the various utensils we use here at the hotel.
+Argalia: I used to place them in a rack close to the outside, which would make them easy to take a
+---
+all_npc_text.txt:
+ aveler and Paimon to save his own life, and confronted him at the spot where he used to visit Autumn.
+The Traveler and Paimon soon arrive onto the scene, where they co
+---
+all_npc_text.txt:
+  them worry.
+ About your homeland...
+Atsuko: Sometimes I miss the sights that I used to see in my home... The tranquil Chinju Forest, the lovely Sacred Sakura... I gre
+---
+all_npc_text.txt:
+ d hale, and may all go well with you!
+Atsuko: Haha, I guess I've finally gotten used to the festive greetings that locals give one another...
+(Continue non-event dialo
+---
+all_npc_text.txt:
+  and the vastly different environment in Inazuma, Ayesha's Chaos Prospector was used to search out replacement parts from ancient relics.[1]
+Introduced in Version 2.2[
+---
+all_npc_text.txt:
+ ots for the pupils, but would otherwise stay merely as paintings.
+This idiom is used to describe how a small finishing touch is often added to a work-piece to make it 
+---
+all_npc_text.txt:
+ structions in the recipe.
+(Opens Floral Jelly screen)
+Balfour: Truth be told, I used to be an ordinary merchant. I studied the promotional principles of commercial eve
+---
+all_npc_text.txt:
+ period of time.
+ Traditional business?
+Balfour: Yeah, I hear that Mr. Elchingen used to primarily be in the grocery business. I'm not too sure about the details though
+---
+all_npc_text.txt:
+ lya decide the other names. It's a good thing that most of those names are only used to communicate with future collaborators and aren't used by the contestants.
+Paimo
+---
+all_npc_text.txt:
+ eah, (TravelerTravelerThe player's chosen name for the Traveler) and Paimon are used to this already!
+Paimon: Although they were able to catch us off guard, it's good 
+---
+all_npc_text.txt:
+ st and recuperate in a place with a lot of trees.
+Banka: Before he fell sick, I used to sell in the city the quarries I hunted. But I have to look after him now, so I 
+---
+all_npc_text.txt:
+ Banu: Shalmar and I came up with the setting of the Future Stars together. They used to be called Parvo Cores. I mean, "Future Star" is just a much better name than th
+---
+all_npc_text.txt:
+ anu: Apple is my best friend. When I was little, mom brought her back home. She used to carry me on her back and walk me around. She'd help me cook too!
+Banu: Whenever
+---
+all_npc_text.txt:
+ ng to speak with her in private.
+During the conversation, he digs up the musket used to kill the assassin and dismantles it, but is unable to reassemble it back. He al
+---
+all_npc_text.txt:
+ rds a mysterious destination, which turns out to be a place where he and Autumn used to live together — where they find Athos lying in wait for them. Athos confronts B
+---
+all_npc_text.txt:
+ rned a thing from her at all!
+ Cherish what I have...
+Bhai: When I was young, I used to travel around with the fleet, which taught me to cherish every drop of water an
+---
+all_npc_text.txt:
+ t a big appetite.
+Big-Footed Dajiao: Oh yeah, did you know? Tiger fish actually used to be called something similar, but the sound changed over time... A bride I was c
+---
+all_npc_text.txt:
+  events
+Big G was a childhood friend of Congzi, Little Wu, Mumu, and Meng. They used to live in what once was a village in Wuwang Hill, before Big G died in an unspeci
+---
+all_npc_text.txt:
+  she traded the sapphire gem that caused her misfortune for the silver cup that used to hold the gem.[4]
+According to one story, the witch was a servant in a noble hou
+---
+all_npc_text.txt:
+  In the past, the Temple of the Wolf located near the Thousand Winds Temple was used to worship him, but it has long been abandoned, while Boreas' spirit dwells on the
+---
+all_npc_text.txt:
+  friend...
+Amber: I have a friend who's very skilled at making handicrafts, and used to make all kinds of toys for kitties and doggies. Many of the furnishings at The 
+---
+all_npc_text.txt:
+ e phrase "Carpe Diem," is a Latin phrase meaning "seize the day." The phrase is used to encourage people to live in the present moment rather than worrying about the f
+---
+all_npc_text.txt:
+ dentified.[6]
+Eventually, Jakob convinced Rene to repeat the method he had once used to save Jakob's life to save Carter, a process which involved harnessing the power
+---
+all_npc_text.txt:
+ d that inevitable solemn moment?
+Caterpillar: Other than Narzissenkreuz, whom I used to call Master. Regardless, he deserved to be called a Grandmaster.
+Caterpillar: J
+---
+all_npc_text.txt:
+ to be expected that you wouldn't remember...
+Chang the Ninth: I remember when I used to do my business on Feiyun Slope. People would fight to do business with me... *s
+---
+all_npc_text.txt:
+ ored brands do. And it makes her dishes all the more special for people who are used to traditional cuisine.
+Chef Mao: I started to worry that the restaurant might be 
+---
+all_npc_text.txt:
+ ch an in-depth conversation with someone...
+Chen the Sharp: This is the sword I used to use back in the day. I doubt I'll be getting in any more sword fights again in 
+---
+all_npc_text.txt:
+ hey are modeled after the slim wings of Crystalflies. The metallurgical process used to make them is quite unique, and they are encrusted with dazzling gems...
+Chesil:
+---
+all_npc_text.txt:
+ hey are modeled after the slim wings of Crystalflies. The metallurgical process used to make them is quite unique, and they are encrusted with dazzling gems...
+Chesil:
+---
+all_npc_text.txt:
+ hey are modeled after the slim wings of Crystalflies. The metallurgical process used to make them is quite unique, and they are encrusted with dazzling gems...
+Chesil:
+---
+all_npc_text.txt:
+  At the start of their duel, Crucabena used a wilted flower — one which Clervie used to wear — as an allegory for Clervie herself, indirectly mocking her late daughter
+---
+all_npc_text.txt:
+ ed up and got chucked into this cage.
+Clitopho: Him? He's from Mingyun Village. Used to work over there. After they ran the ore veins dry, he came to The Chasm. Did pr
+---
+all_npc_text.txt:
+ Italian Ciarlare meaning "to babble", then Italian and French Ciarlatano, which used to mean itinerant seller of supposed remedies in the 17th century.
+Clitopho is nam
+---
+all_npc_text.txt:
+  are the same person. 
+He reveals himself as the real owner of the workshop. He used to work at the Fontaine Research Institute, but was kicked out due to the unethica
+---
+all_npc_text.txt:
+ eel anything.
+Crossa: *sigh* Must be my old sickness acting up, then.
+Crossa: I used to be a sailor, but I was injured in an accident, and ever since, I've felt like m
+---
+all_npc_text.txt:
+  ruins filled with strange mechanisms.
+Darina: According to some legends, there used to be no desert in Sumeru, and it was the battle between King Deshret and the Grea
+---
+all_npc_text.txt:
+  because I bashed my head when Stormterror attacked!
+Davy: Can you believe they used to call us Mr. and Mrs. Lovebard? It's so nauseating now that I think back on it.
+
+---
+all_npc_text.txt:
+ en.[Note 1] Based on architectural evidence within Stormterror's Lair, his city used to lead outwards towards the northeast and northwest; the northeast gateway has si
+---
+all_npc_text.txt:
+ German for "Moon City."
+The top of Decarabian's tower resembles an observatory, used to observe celestial events.
+Decarabian's tower — which is already situated in a v
+---
+all_npc_text.txt:
+ nly one who knows how to fix things.
+ You know how to repair meka?
+Denichere: I used to work in a project team that built meka, but the project leads kept changing.
+De
+---
+all_npc_text.txt:
+ l uses.
+Depierris: But as a professional artist, I must say that it can only be used to provide reference materials for a painting, not replace a painting entirely!
+ Y
+---
+all_npc_text.txt:
+ at tea leaves require several processes and careful handling before they can be used to make tea.
+Ding Sr.: Simply put, we need to remove the excess moisture in the le
+---
+all_npc_text.txt:
+ yes? Compared to our village's history, the machine is very young.
+Ding Sr.: We used to use a huge tea cauldron for stirring. They said it was an adeptal mechanism of 
+---
+all_npc_text.txt:
+ st.
+Dongsheng: Would you care to hear how this store got its name?
+Dongsheng: I used to be an adventurer who visited every corner of the world.
+Dongsheng: But the good
+---
+all_npc_text.txt:
+  a researcher and a doctor, I don't recommend that you go there.
+Juzjani: There used to be a hospital that the Akademiya used to study Eleazar. Entry to its ruins is p
+---
+all_npc_text.txt:
+ mend that you go there.
+Juzjani: There used to be a hospital that the Akademiya used to study Eleazar. Entry to its ruins is prohibited now.
+Dunya: I study history, so
+---
+all_npc_text.txt:
+ commend that you go there.
+Juzjani: That was once a hospital that the Akademiya used to study Eleazar. Entry to its ruins is prohibited now.
+Dunya: Oh, come on. I stud
+---
+all_npc_text.txt:
+ made from Durin's remains, containing his blood toxins.[14] Parts of Durin were used to forge the cursed sword Festering Desire.[15]
+Dvalin, worn out from the battle a
+---
+all_npc_text.txt:
+  and a prominent figure in Fleuve Cendre before the cataclysm 500 years ago. He used to operate taverns in Fleuve Cendre, where the Parsifal the Great and her younger 
+---
+all_npc_text.txt:
+ municate with the Parchamdar and the logistics officer.
+Effendi: The Parchamdar used to be a researcher, and the logistics officer is friendly too. Overall, everyone i
+---
+all_npc_text.txt:
+ s to be placed on a thigh). In Buddhist art in Japan, this position is commonly used to depict the bodhisattva Miroku (Japanese: 弥勒; Sanskrit: मैत्रेय Maitreya), an ob
+---
+all_npc_text.txt:
+ ained loyal to the Traveler. Yae Miko also easily broke the technique Elchingen used to seal the domain for Ultimate Trial and brought herself, Layla, and Haniyyah int
+---
+all_npc_text.txt:
+ r boss's manner of speech is... on the straightforward side. Takes some getting used to, if you catch my drift.
+Eloffe: But not to worry. Chioriya Boutique's work is a
+---
+all_npc_text.txt:
+ e's events
+Melusine (indirectly)Breacher Primus (indirectly)
+When alive, Elynas used to enjoy exploring the world, initially unaware that his happiness brought others 
+---
+all_npc_text.txt:
+ and is not focused in a single direction.
+Ematol: Could a cone-shaped casing be used to concentrate the explosive energy so it would penetrate thick defenses...?
+Emato
+---
+all_npc_text.txt:
+ ng left. I'm sorry. I'll let you know if I hear anything else.
+ Is this machine used to forge weapons?
+Estelle: That's right. I'm very proud of this one, in fact.
+Este
+---
+all_npc_text.txt:
+ it all what it is today. I paid my dues when I was young... Granny Ruoxin and I used to sing together on that stage all the time.
+Fan Er'ye: Eventually I made a name f
+---
+all_npc_text.txt:
+ haracter Story 3Character Story 5Old Sketchbook
+In Wondrous Times, her voice is used to narrate her diary entries as Kaveh is reading them:
+Notably, Faranak's tone shi
+---
+all_npc_text.txt:
+ sting when I try to wash it...
+ Tell me more about Drunkard Gorge.
+Farrah: This used to be a popular route for all the merchant caravans. I used to set up my stall in 
+---
+all_npc_text.txt:
+ Gorge.
+Farrah: This used to be a popular route for all the merchant caravans. I used to set up my stall in the canyon earn a few Mora too...
+Farrah: Occasionally the o
+---
+all_npc_text.txt:
+ mentioned by any other character.
+The Crux (Former Lieutenant Captain)
+Farzaneh used to serve as lieutenant captain in Beidou's Crux Fleet. She now runs an armed comme
+---
+all_npc_text.txt:
+  take you to the hospital?
+Farzaneh: Oh, it's not like that. I'm just not quite used to life on land yet.
+Farzaneh: I run an armed commercial shipping company. I used 
+---
+all_npc_text.txt:
+ ed to life on land yet.
+Farzaneh: I run an armed commercial shipping company. I used to serve as a lieutenant captain in Beidou's Crux Fleet, and made quite a bit of m
+---
+all_npc_text.txt:
+ tarting my own commercial shipping company.
+Farzaneh: But I'm struggling to get used to being back on land, maybe because I spent so long at sea. I have to walk back a
+---
+all_npc_text.txt:
+ centuries since this land last witnessed something so wondrous!
+Fedhri: We Pari used to walk with humans, and we would both build our homes in this Vourukasha Oasis.
+F
+---
+all_npc_text.txt:
+ ou see people having Sweet Flowers in their gardens...
+Flora: They are probably used to get sugar.
+ Tell me about Cecilias.
+Flora: Cecilias! You've got good taste.
+Flo
+---
+all_npc_text.txt:
+  dog.
+Freeman: This dog's too delicate. Grew up in the city, after all, and not used to life in the wild.
+Freeman: I was shocked the first time I heard Autumn say she 
+---
+all_npc_text.txt:
+ porary. I'll be outta here as soon as I find somewhere proper to live.
+ Are you used to being here yet?
+Fusilier: ...It's great. Staying on the ship means that at leas
+---
+all_npc_text.txt:
+ n the desert's border.
+Futuh: I heard from the village elders that Aaru Village used to be a part of King Deshret's Citadel! How amazing!
+Futuh: If you think about it,
+---
+all_npc_text.txt:
+ Galvaryet: I feel like Sis and I have been drifting apart lately... but why? We used to be so close. Surely nobody is trying to separate us...
+Galvaryet: He's one of t
+---
+all_npc_text.txt:
+  tongues, and they told me that there are two more rooms in this place that are used to store treasure.
+Paimon: Well, uh, (TravelerTravelerThe player's chosen name for
+---
+all_npc_text.txt:
+  that? Raise the dead? Magically recover my lost wealth?
+Gentry De'an: *sigh* I used to have my own bank... The Minghua Company and the Minghua Bank used to be the two
+---
+all_npc_text.txt:
+ : *sigh* I used to have my own bank... The Minghua Company and the Minghua Bank used to be the two proudest stores on this whole street.
+Gentry De'an: But then those b
+---
+all_npc_text.txt:
+ , and that's exactly what we're gonna do!
+Geri: Yes, I must force myself to get used to the food here... Okay, full disclosure, we caved and cooked some pancakes this 
+---
+all_npc_text.txt:
+  with them. That's where the Windblume feeling truly resides...
+Glory: I always used to spend the Windblume Festival with my family and my darling Godwin. How I cheris
+---
+all_npc_text.txt:
+ orked as well recently. He says that my opinions don't attract him the way they used to.
+Gontharet: Work? Why, I'm doing something far more important than work!
+Gontha
+---
+all_npc_text.txt:
+ Archon this year? Will it still be a Dandelion?
+Goth: When I was a young man, I used to enjoy debating the identity of the Windblume as well. I was quite the dyed-in-t
+---
+all_npc_text.txt:
+  be too loud?
+Grainville: The only problem is that it keeps breaking down... It used to start working again if you smacked it a couple of times. But that doesn't work 
+---
+all_npc_text.txt:
+  Liyue Harbor. Life would have been simpler, but more content.
+Granny Ruoxin: I used to be an actress at the Heyu Tea House. I was living the high life, but when you'r
+---
+all_npc_text.txt:
+ u, kind child. Your words bring comfort.
+Granny Ruoxin: There was a time when I used to look out for him all day long, from sunrise to sunset. But the only time I saw 
+---
+all_npc_text.txt:
+ rk here.
+Gravier: That said, though, I'm a bit of an introvert. I'm not exactly used to a job like this, where I'll need to talk to lots of people.
+Gravier: Monsieur N
+---
+all_npc_text.txt:
+ ou.
+Gregor: The wine here tastes more bitter than those from Mondstadt, but I'm used to it now.
+ About the wine from your hometown...
+Gregor: Clear and cool water from
+---
+all_npc_text.txt:
+ hing, he just wants me to leave!
+Grundeland: They misunderstand! I... I mean, I used to be that way, but I've changed! I've completely repented and started anew! I wan
+---
+all_npc_text.txt:
+ not easy, by Greater Lord Rukkhadevata, I'm still filled with hope.
+Gulabgir: I used to be a snake handler in the rain forest. I recently moved to the harbor and make 
+---
+all_npc_text.txt:
+ ckcliff Forge.
+Gummer: Interested in the Forge? I'm quite the expert.
+Gummer: I used to work here, but my body eventually couldn't keep up with the work inside. With l
+---
+all_npc_text.txt:
+ akes its inspiration from this thrilling chapter of Mondstadt's history! And it used to be quite popular, too...
+Gygax: Sadly, yes. Young people these days don't seem 
+---
+all_npc_text.txt:
+ akes its inspiration from this thrilling chapter of Mondstadt's history! And it used to be quite popular, too...
+Gygax: Sadly, yes. Young people these days don't seem 
+---
+all_npc_text.txt:
+ akes its inspiration from this thrilling chapter of Mondstadt's history! And it used to be quite popular, too...
+Gygax: Sadly, yes. Young people these days don't seem 
+---
+all_npc_text.txt:
+ ng people always prefer somewhere a bit more exciting.
+Hanfeng, "Cold Blade": I used to run a blacksmith's there — Hanfeng's Ironmongers. My apprentices would all have
+---
+all_npc_text.txt:
+ ries about her ancestors nearly getting killed by a group of berserk fungi. She used to work for the Eremites training Sumpter Beasts as beasts of burden. Due to her e
+---
+all_npc_text.txt:
+ ds now, you can think of me as half an owner.
+Hanqian: Let me tell you... There used to be three of us leaders, and we were all very good.
+Hanqian: At our peak, we wer
+---
+all_npc_text.txt:
+ among the three of us lost his drive, and just hung around all day.
+Hanqian: He used to be the kind of guy who would train under a waterfall to discipline himself. I c
+---
+all_npc_text.txt:
+ onclusion that the world's first Mora — undoubtedly cast by Morax himself — was used to enhance a sword and dagger, and whoever came to possess those artifacts would g
+---
+all_npc_text.txt:
+  be able to do this for a living at some point.
+Hao: Well, as for me, I'm quite used to doing hard labor to earn my Mora, so I wouldn't be too sure about such prospect
+---
+all_npc_text.txt:
+ h, with my family background, traveling abroad was a simple matter.
+Hasegawa: I used to travel a lot, so I've naturally seen many things. But now...
+Hasegawa: *sigh* I
+---
+all_npc_text.txt:
+ g that Havria placed a curse on them, returned to Sal Terrae to break the sword used to kill her and place it on a pedestal, along with two of her relics under the bel
+---
+all_npc_text.txt:
+ d lately.
+Hawad: Ajilenakh Nuts are a common crop that the people of the desert used to plant. They make pretty good desserts and candy because of their high sugar con
+---
+all_npc_text.txt:
+ ch as possible. There are also notes that expand on the deduction and reasoning used to draw certain conclusions, which can be read by either hovering over (desktop-on
+---
+all_npc_text.txt:
+ s, he imported various foreign inventions, including a Snezhnayan blast furnace used to create the hot springs at Tenshukaku (as a gift for the Shogun) and a special K
+---
+all_npc_text.txt:
+ d you run into some trouble?
+Housein: No, no. It was just a thought.
+Housein: I used to be a sailor. I've seen every kind of storm you could imagine, and not even a sh
+---
+all_npc_text.txt:
+ u: Oh... I'm fine. It's just my first time away from home and I'm still getting used to it.
+Huachu: Even the tea here tastes different from what I'm used to...
+Huachu:
+---
+all_npc_text.txt:
+ ll getting used to it.
+Huachu: Even the tea here tastes different from what I'm used to...
+Huachu: Oh yes, sorry... I am the second daughter of the manager of the Ming
+---
+all_npc_text.txt:
+ ellow Millelith determined the source of the contamination to be the corpse she used to fake her death.
+Fleeting Colors in Flight Event Cutscene Animation- "Age of Flo
+---
+all_npc_text.txt:
+ e my wife. She moved from Mondstadt to marry me.
+Huai'an: When I was a child we used to sing this nursery rhyme about Liyue women: "Half the girls marry to a winery to
+---
+all_npc_text.txt:
+ inese: A pun on the phrase 百事通/百事通 bǎishìtōng, "expert of ten thousand things," used to describe a person who is a jack-of-all-trades.
+↑ Italian: From the Chinese 万货/萬
+---
+all_npc_text.txt:
+ thin its confines by Idyia. Afterward, they would leave gifts for her which she used to power the domain, having the Hydro Eidolons mimic them.
+Idyia has watery-blue h
+---
+all_npc_text.txt:
+ unded forging style. Our founder... Well, you're looking at him!
+Ikuhara Gai: I used to be a swordsmith at Tatarasuna. Then an accident occurred at the Mikage Furnace.
+---
+all_npc_text.txt:
+ hing. He is the son of Imatani Saburou and Imatani Kaori from Konda Village and used to be good childhood friends with Sakujirou, until they fought over the peace in I
+---
+all_npc_text.txt:
+ rself in a couple days, right?
+ What orange Bulle Fruit?
+"Intrepid Valberry": I used to have a buddy who really liked Bulle Fruit, and recently I saw that someone had 
+---
+all_npc_text.txt:
+ nazuma. I can't remember when that started...
+ Protector of the Grove?
+Ioroi: I used to be a bake-danuki, free as can be! I wasn't famous or anything, but I was free i
+---
+all_npc_text.txt:
+ tole that comb.
+Ioroi: Like anyone would've known that the comb was meant to be used to make Sacred Sakura Daifukus!
+Ioroi: So, the sneaky kitsune had stopped appeared
+---
+all_npc_text.txt:
+ at I'm keeping score!
+ About the little bake-danuki...
+Ioroi: The Chinju Forest used to be the territory of yours truly, Ioroi, the Hidden Protector of the Grove, and 
+---
+all_npc_text.txt:
+ e use.
+(Obtain  Hero's Wit ×4)
+Iris: Yes, Cyrus is my younger brother.
+Iris: We used to go on adventurers together — you could say that we were quite the famous duo, t
+---
+all_npc_text.txt:
+ sed instead of hierro to refer to the metal known as iron, but is also commonly used to refer to an object made from said metal, such as a branding iron.
+Boss of the I
+---
+all_npc_text.txt:
+  I would have found it hard to believe that Rex Lapis is gone.
+Iron Shoulder: I used to think that he alone would remain, even long after Liyu Harbor any of the seven 
+---
+all_npc_text.txt:
+ hat won't do...
+Iron Shoulder: You should find a job soon, or you might get too used to idling about.
+Iron Shoulder: Once you've done work for over a decade like me, y
+---
+all_npc_text.txt:
+ tors with Pardis Dhyai.
+Isami: For example, a Forest Watcher of Gandharva Ville used to spend all his time here while he was studying. Even if he has left the Akademiy
+---
+all_npc_text.txt:
+ s darkness by gathering light in the Bokuso Box,[13] and the Light Realm Sigils used to upgrade it are said to bear a mark symbolizing Tokoyo Ookami's recognition. Bot
+---
+all_npc_text.txt:
+ ra Clan.
+In Shinto, iwakura (Japanese: 磐座/岩座) is a large rock or rock formation used to invite down kami (Japanese: 神), or believed to inhabit kami themselves. The "Iw
+---
+all_npc_text.txt:
+ anslates 磐座 as "seat of rock."
+In both Chinese and Japanese, the term 座 kura is used to denote constellation names. For example, Zhongli's Japanese Constellation name 
+---
+all_npc_text.txt:
+ Merc's Pal.
+Commissions1,001 Cups of Coffee
+Media:VO Izem 01.ogg "I'm still not used to a quiet life."
+Izem's thoughts can be accessed by using Nahida's Elemental Skil
+---
+all_npc_text.txt:
+ it's pretty good.
+Izem: Everyone loves peace and quiet. Although I'm not really used to it, there's nothing to complain about.
+Izem: Drinking coffee every day, lazing 
+---
+all_npc_text.txt:
+  The acting manager makes me the same coffee every day, and says I should be as used to peace as the nearby residents are.
+Izem: A day like that will probably come in 
+---
+all_npc_text.txt:
+ near-death following a failed experiment hardened his personality: Jakob became used to deception, projecting confidence to outsiders, and became willing to do anythin
+---
+all_npc_text.txt:
+ eeded to eat to survive and only continued doing so out of habit. He had gotten used to supplementing his nutrition through Elynas' flesh and blood, and Rene believed 
+---
+all_npc_text.txt:
+ ile Jakob maintained his lie about the Master (Rene)'s ritual.[33] Jakob became used to projecting confidence, and even expressed disappointment that no one in the Ord
+---
+all_npc_text.txt:
+ njoy yourself.)
+ Are you hurting badly?
+Javad: It does hurt pretty bad, but I'm used to it.
+Javad: Even the best doctor couldn't do anything with my affliction, so I d
+---
+all_npc_text.txt:
+ ied in Dreams Beneath the Searing Sand
+Jebrael was a member of the Eremites who used to live in the desert. He was originally part of the Tanit tribe.
+Jebrael and Sama
+---
+all_npc_text.txt:
+  do?
+Jiangxue: I think you already know the answer to that. Because like you, I used to be one of the chosen ones in this world.
+Jiangxue: The difference is, I used my
+---
+all_npc_text.txt:
+ ly after work.
+Jiangzhou: Honestly, this sudden change has made me forget how I used to cope with so much work at all... There were so many things that really weren't 
+---
+all_npc_text.txt:
+ aising its rich aroma...
+Jiewu: Little did he know that it was merely the water used to rinse the tea set... and the rich aroma he spoke of? That was just the remnants
+---
+all_npc_text.txt:
+ 
+Jinwu: Eventually, they would forsake their tribal lands and ways, and growing used to city life, would join the Lord of Geo in his dwelling, creating and selling por
+---
+all_npc_text.txt:
+ get that part as well, causing him to believe Morax betrayed him. As the energy used to sustain Jiu wore out, she faded away with Morax's name on her lips.[2]
+Jiu is a
+---
+all_npc_text.txt:
+ Five Flushes of Fortune event, he gives the Kurious Kamera gadget, which can be used to take pictures of certain objects, randomly giving the traveler a tinted picture
+---
+all_npc_text.txt:
+ uff, but I'm just happy to have his company!
+Joel: I've found some toys that we used to play with together. Maybe he'll remember a couple more things once he sees them
+---
+all_npc_text.txt:
+ Chief Mate. I'm in charge of the lads when Captain Beidou isn't around.
+Juza: I used to be a dockworker, just muddling along without a clue about what I was living for
+---
+all_npc_text.txt:
+ Chief Mate. I'm in charge of the lads when Captain Beidou isn't around.
+Juza: I used to be a dockworker, just muddling along without a clue about what I was living for
+---
+all_npc_text.txt:
+  a researcher and a doctor, I don't recommend that you go there.
+Juzjani: There used to be a hospital that the Akademiya used to study Eleazar. Entry to its ruins is p
+---
+all_npc_text.txt:
+ mend that you go there.
+Juzjani: There used to be a hospital that the Akademiya used to study Eleazar. Entry to its ruins is prohibited now.
+Dunya: I study history, so
+---
+all_npc_text.txt:
+ commend that you go there.
+Juzjani: That was once a hospital that the Akademiya used to study Eleazar. Entry to its ruins is prohibited now.
+Dunya: Oh, come on. I stud
+---
+all_npc_text.txt:
+ ally mind people buying the statues for any reason whatsoever.
+Kaede: *sigh* It used to be our best-selling product...
+Kaede: Sadly, we've lost our customer base ever 
+---
+all_npc_text.txt:
+ ues for any reason whatsoever.
+Kaede: Before the Sakoku Decree was instated, it used to be our best-selling product... But the old edition long ceased production.
+Kaed
+---
+all_npc_text.txt:
+ ut yourself, if you would...
+Kaida Ryouma: Before serving as an officer here, I used to live on Narukami Island and work for the Kujou Clan.
+Kaida Ryouma: Hah... Life 
+---
+all_npc_text.txt:
+ ter.
+Kaji: The Shogun's army treats us pretty well... It's just that we workers used to be in charge in the mines. Here, we need to listen to the soldiers.
+Kaji: It's 
+---
+all_npc_text.txt:
+ Mystic Onmyou Chamber and created Shiki Taishou. The chamber was intended to be used to help train the Shogunate forces to help defend their nation from the all threat
+---
+all_npc_text.txt:
+ f the Shinto god Inari.
+"Bring forth the fried tofu!" was also something Saiguu used to say a lot when she was alive.[citation needed]
+Introduced in Version 2.0[Edit H
+---
+all_npc_text.txt:
+ nster" (Chinese: 魔物). The term 怪物 "monsters" and 魔物 "demonic creatures" is also used to describe the monsters.
+↑ 4.0 4.1 Story Teaser: Promise of a People's Dream
+↑ 5.
+---
+all_npc_text.txt:
+  Nagamasa), an epithet applied to both Nagamasa himself as well as the blade he used to slay Katsuragi.
+I daresay that while Sir Katsuragi may have committed malfeasan
+---
+all_npc_text.txt:
+ le, eh?
+ About the Tengu-kin...
+Kayabuki Ikkei: The Tengu-kin were a group that used to be active in Inazuma. They revered the way of life of the tengu warriors, seein
+---
+all_npc_text.txt:
+ qing (granddaughter)
+According to Keqing, Yelan's ancestors and her grandfather used to have academic collaborations in the past.[2]
+He was still alive during her chil
+---
+all_npc_text.txt:
+ Keqing About Yelan.ogg Media:VO KO_Keqing About Yelan.ogg Ms. Yelan's ancestors used to serve the Qixing. My grandfather and her family have had academic collaboration
+---
+all_npc_text.txt:
+ id Kujirai: Besides my mom and dad, we have an eldest sister, named Momiji. She used to play with us a lot.
+Kid Kujirai: But ever since she got hooked on fishing, she 
+---
+all_npc_text.txt:
+ ina" (Ainu: キナ kina) is the Ainu word for "grass" or "edible plant." It is also used to refer to a type of grass mat.
+Kindlejoy takes on the appearance of a Whirling P
+---
+all_npc_text.txt:
+ rt of Hadramaveth, Viewpoint: The Lost Hermitage
+↑ Loading Screen Tip: JinnThey used to be family to the Lord of Flowers. After the death of their mistress, they were 
+---
+all_npc_text.txt:
+ ouses love these melons. Not only can you cook with it, the flowers can also be used to make natural and durable dye. It can even act as pest repellent!
+Konda Densuke:
+---
+all_npc_text.txt:
+  durable dye. It can even act as pest repellent!
+Konda Densuke: Oh, our village used to be so lively. Merchants looking for dye, adventurers heading to Inazuma from Ri
+---
+all_npc_text.txt:
+ ouring the land... This place used be filled with people from everywhere, and I used to show them around and give them directions.
+Konda Densuke: Too bad all that's in
+---
+all_npc_text.txt:
+ hipment, you mean...
+Kosel: Huh? Relax, I meant normal goods.
+Kosel: Munaciello used to keep saying that "information is a type of good too." That certainly succeeded 
+---
+all_npc_text.txt:
+ urosh: *sob* The manager scolded me again today...
+Kourosh: Not really, but I'm used to it.
+Kourosh: It's practice. Lessons from Mr. Sheikh Zubayr, then more practice.
+---
+all_npc_text.txt:
+ Kumar: I heard the Akademiya isn't holding the Sabzeruz Festival as often as it used to. I may never get to attend one if that goes on...
+(After completing Where the B
+---
+all_npc_text.txt:
+ at's wonderful. What do you plan to do next?
+Kumar: To be honest, I'm not quite used to my body being this healthy.
+Kumar: Well, have I got lots of things I want to do
+---
+all_npc_text.txt:
+ help previously.
+Kumi: Oh, by the way... Anisa's been trying really hard to get used to life around here. Lately, she's been learning how to make our local cuisine fro
+---
+all_npc_text.txt:
+ yo 
+Deceased prior to the game's events
+During Three Realms Gateway Offering
+He used to travel in Narukami Island and was confused by the Electro Seelie.
+EventsThree R
+---
+all_npc_text.txt:
+  Ritou has increased.
+Kurisu: We've got quite a few new arrivals who aren't yet used to the paths through which goods may be sourced or transported, and so that's wher
+---
+all_npc_text.txt:
+ ly someone in the wine business could tell you?
+Landa: "Angel's Share" actually used to be wine brewers' slang before it was the name of a tavern.
+Landa: The idea was 
+---
+all_npc_text.txt:
+ ing Fontaine Research Institute, Stagnating in the Rubble)
+Lanty: I am... Uh, I used to be a clerk in 5th Finances Office at the Fontaine Research Institute.
+(After co
+---
+all_npc_text.txt:
+ )
+Lanty: Hello, Honorary Senior Researcher. I'm so happy to see you...
+Lanty: I used to be a clerk in 5th Finances Office at the Fontaine Research Institute.
+Lanty: I 
+---
+all_npc_text.txt:
+ t it's not good news, either...
+ Why isn't it bad news?
+Lanty: Because... There used to be numerous projects running at the Fontaine Research Institute, and each one w
+---
+all_npc_text.txt:
+ . I will make an exception for you, though, and give you the full story.
+Lan: I used to be a mercenary. I joined the Adventurers' Guild so I could take advantage of th
+---
+all_npc_text.txt:
+ 鲁伽树，吉祥草助我 "As to the ruca-tree will the lucky-grass help me"). The word is also used to refer to the kusa-grass.
+In Korean, the name is 쿠사나리 데비 Kusanari Debi. The word
+---
+all_npc_text.txt:
+ ...
+Lianfang: Chenyu Vale has a leisurely and elegant atmosphere. We locals are used to sitting by the water, brewing a pot of tea with two saucers of beans and two ma
+---
+all_npc_text.txt:
+ pill water onto the stage, thereby destroying the Water from the Primordial Sea used to commit the crime. However, as she hailed from Mondstadt and the water only work
+---
+all_npc_text.txt:
+ hronicle: End of the Golden Realm
+Lily is Rudolf's and Jilliana's daughter. She used to own the entire series of The Boar Princess. Her father used to read it to her b
+---
+all_npc_text.txt:
+ 's daughter. She used to own the entire series of The Boar Princess. Her father used to read it to her but when they finished reading the violent ending of the series,
+---
+all_npc_text.txt:
+ away from home. They could stay in the village and it would be fun here like it used to be — like how Little Liu says it was!
+Little Xing: Paimon? What's a Paimon? No 
+---
+all_npc_text.txt:
+ ver come to play with me again since then.
+Little Yi: I know, right!? The story used to give me the creeps every time...
+Little Yi: But after I saw Dusky Ming for myse
+---
+all_npc_text.txt:
+ ere's some sort of undiscovered treasure still in there somewhere. And if there used to be adepti here, then who knows; maybe some of their good luck will have rubbed 
+---
+all_npc_text.txt:
+ rgued over the Cleansing Bell, with the former believing that machines could be used to produce simple but fine melodies, and the latter believing that music was emoti
+---
+all_npc_text.txt:
+ ants to trade shifts with you, don't agree to it!
+Mahshid: You Eremites are too used to idling in the desert to know the importance of rules!
+Mahshid: If everyone swit
+---
+all_npc_text.txt:
+ of Egypt.
+A makhaira (Ancient Greek: μάχαιρα mákhaira) is an Ancient Greek term used to refer to single-edged blades, although it was used to refer to blades of any si
+---
+all_npc_text.txt:
+  is an Ancient Greek term used to refer to single-edged blades, although it was used to refer to blades of any size.
+In a similar vein, a xiphos (Ancient Greek: ξίφος 
+---
+all_npc_text.txt:
+ te some time. Ask me if you have any questions about the place.
+Mandora: Yes, I used to be an adventurer, but not now.
+Mandora: After stumbling into this Mirage during
+---
+all_npc_text.txt:
+ r yourself.
+(Obtain  Jueyun Chili ×5)
+Manie: Haha, a little spicier than you're used to, right?
+Manie: All the top chefs in Liyue love them — they're spicy, but refres
+---
+all_npc_text.txt:
+ is a name that Vacher and Vigneire settled on for their future child.[3]
+Vacher used to be a kind person until Vigneire's untimely demise. Her death would cause great 
+---
+all_npc_text.txt:
+  found again.[5]
+Her notebook was found among other pieces of evidence that was used to convict Vacher. In the notebook, she chronicled her last days in the hands of M
+---
+all_npc_text.txt:
+ 
+Marjorie: This tune is so gentle, just the way I remember it.
+Marjorie: My dad used to play this one for me on his harmonica while we were on the way back from Spring
+---
+all_npc_text.txt:
+ ants to trade shifts with you, don't agree to it!
+Mahshid: You Eremites are too used to idling in the desert to know the importance of rules!
+Mahshid: If everyone swit
+---
+all_npc_text.txt:
+ imilar to named Aranara.
+Matsudaira is a samurai for the Tenryou Commission. He used to be good friends with Kenji Kazumichi and Masanori prior to Masanori's death and
+---
+all_npc_text.txt:
+ here's only one hotel in Caravan Ribat, so it should be easy to find.
+Maziar: I used to live in the city with my parents, but I really didn't have a thing for school, 
+---
+all_npc_text.txt:
+ ere's only one in Caravan Ribat, so it should be pretty easy to find.
+Maziar: I used to live in the city with my parents, but I really didn't have a thing for school, 
+---
+all_npc_text.txt:
+ or a drink.
+Maziar: To be honest, most Sumeru people like to drink, but I'm not used to alcohol. I would feel dizzy after just half a glass.
+Maziar: But it'd be a lack
+---
+all_npc_text.txt:
+ m not good with my hands... I broke a lot of flower stems, and they couldn't be used to make garland...
+Mengmeng: ...Well, I guess I'll just give these flowers to you!
+---
+all_npc_text.txt:
+ án," lit. "General Mind-Monkey," is derived from the Buddhist term monkey mind, used to describe someone who is capricious, restless, and cannot be contained. It is of
+---
+all_npc_text.txt:
+  While her fate is unknown, Momoyo believes she was killed by the Fatui.
+Momoka used to communicate with her colleague Momoyo through various means, one of which consi
+---
+all_npc_text.txt:
+ festive cheer here in the city!
+Musheng: I've heard that the Moonchase Festival used to be celebrated for very different reasons in the past. Something about the adept
+---
+all_npc_text.txt:
+ irreversible...
+Mu Chen shares his English voice actress with Sandrone.
+Myweiss used to be known as Myweiss the lovebard, but after a falling out with her ex-husband, 
+---
+all_npc_text.txt:
+ world. Not love, as some imbeciles would have you believe.
+Myweiss: Me? Well, I used to be known as Myweiss the Lovebard... but not anymore. Now I go by Myweiss, Grim 
+---
+all_npc_text.txt:
+ isciple of the Meikyou Shisui Art. My master's name is Domon.
+Nanako: My master used to be a great swordsman and a Vision-wielder. He will become the best in the world
+---
+all_npc_text.txt:
+  or something else entirely, given both an Oceanid's essence and the Abyss were used to create him.
+The Master may have powers that can rival that of a god.
+Since the 
+---
+all_npc_text.txt:
+ 's not your fault. It's just an old habit of mine that's acting up.
+Nasrin: I'm used to speaking softly because I hunt frequently and sometimes meet researchers traini
+---
+all_npc_text.txt:
+ en are a lot tougher than us old geezers.)
+Nigina: I wonder if the children are used to life in the Akademiya.
+ About the children...
+Nigina: They all went to the Akad
+---
+all_npc_text.txt:
+ ality materials and pay very close attention to the details. Many samurai lords used to come to the shop to purchase high-grade silk from Liyue.
+Ogura Yuu: Have you ev
+---
+all_npc_text.txt:
+ yun Commerce Guild there produces silk that is as smooth as flowing water. It's used to make top shelf clothing.
+Ogura Yuu: I hear that it's because of a locally-grown
+---
+all_npc_text.txt:
+ him hot soup to warm him up, and he returns to Springvale where he tries to get used to life in the future.
+Story QuestsTrulla Chapter (Xiangling)Act I: Mondstadt Gast
+---
+all_npc_text.txt:
+ t back stories from the past... *sigh*"
+Olaf: Life in the future is hard to get used to...
+ How do you get on with your modern family?
+Olaf: Well, I have skipped over 
+---
+all_npc_text.txt:
+ of course. She likes everyone around these parts.
+Old Finch: Way back when, she used to sneak into people's dreams to see the scenes being woven there.
+Old Finch: Now,
+---
+all_npc_text.txt:
+ bout?
+Old Finch: Oh, anything and everything.
+Old Finch: When I was younger, we used to talk a lot here...
+Old Finch: About the weather and the water. About the fish i
+---
+all_npc_text.txt:
+ aemonIndonesianOokubo SanzaemonPortugueseOokubo Sanzaemon
+He is a craftsman who used to work in Tatarasuna, but after the Mikage Furnace went critical, he was out of a
+---
+all_npc_text.txt:
+  him, the Traveler gains a Monolith Fragment, which was part of the spear Morax used to seal it away.
+During "A Herald Without Adherents," Dainsleif and the Traveler d
+---
+all_npc_text.txt:
+ side. I mean, I can handle my own business just fine, but it takes some getting used to. I'm sure you can understand. You also have... I mean... always have Paimon wit
+---
+all_npc_text.txt:
+ fantastical creatures like elves, fairies, and spirits. This term has also been used to describe Barbatos' original form before becoming an Archon, Klee and Alice's ra
+---
+all_npc_text.txt:
+ ng to the questions and suggestions on the official Facebook page.
+In the image used to announce the end of CBT1, Paimon is featured with an unknown staff alongside he
+---
+all_npc_text.txt:
+ le snooping around for information.
+Panah: To be honest, I haven't quite gotten used to the pace of my new job just yet... but I'll just have to do my best.
+Panah: Bes
+---
+all_npc_text.txt:
+ isy, I'll have some wine to help me sleep. I don't remember what kind of wine I used to drink, but that's not important either. As long as it can get me drunk, it's go
+---
+all_npc_text.txt:
+  and I'm also in charge of cleaning the Yilong Dais daily.
+Pingshan: This place used to be full of tourists. I took over this job from my master almost twenty years ag
+---
+all_npc_text.txt:
+ as also something his master had mentioned."Chalk is the spotless soil, and was used to make primordial man."Now, Albedo understands alchemy in far greater depth than 
+---
+all_npc_text.txt:
+ ngs.
+Media:vo albedo mimitomo friendship3 05.ogg Albedo: Speaking of which... I used to think interaction with others was a waste of time.
+Media:vo albedo mimitomo fri
+---
+all_npc_text.txt:
+ ing.
+Media:vo aloy mimitomo friendship1 03a 2.ogg Aloy: It's just that I'm more used to camping out in the wilds.
+Media:vo aloy mimitomo friendship1 03a 3.ogg Aloy: I'
+---
+all_npc_text.txt:
+ nto the world, exploring the unknown, embracing new challenges, that's what I'm used to.
+ I would love to visit your world.
+Media:vo aloy mimitomo friendship3 14b 1.og
+---
+all_npc_text.txt:
+ 's so quiet here, I mean, completely still... That's gonna take me some getting used to.
+When a character is invited to or invites themselves to their favorite set for
+---
+all_npc_text.txt:
+ le:VO_Amber_About_Eula.ogg Eula is a great friend of mine! You just need to get used to her sense of humor and you'll get along fine! The only reason she's misundersto
+---
+all_npc_text.txt:
+ impact.fandom.com/wiki/File:VO_Amber_Receiving_a_Gift_-_03.ogg Uh, I'm just not used to this taste, sorry! Nothing to do with you of course!
+BirthdayBirthdayMedia:VO_A
+---
+all_npc_text.txt:
+  encouraging and heartwarming response for all her readers. Just look at me — I used to be a lost soul, but not anymore, and it's all thanks to her. Oh, that reminds m
+---
+all_npc_text.txt:
+ hing_to_Share_-_Horns.ogg Question for ya! Do my horns look boring once you get used to them? 'Cause, uh, I was thinking of switching up the style, going for a total o
+---
+all_npc_text.txt:
+  wails, and hurled recriminations would wake her from dreams, and she soon grew used to this. She had few dreams worth remembering fondly, in any case, filled as most 
+---
+all_npc_text.txt:
+ r thaumaturgical arts can instantly recognize that all of these are ingredients used to refine various "Elixirs of Immortality" spoken of in legend.For most ordinary p
+---
+all_npc_text.txt:
+ n. Talking about the distant past with Changsheng is often like this. Baizhu is used to listening to her advice, though, and understands she has good intentions. Thus 
+---
+all_npc_text.txt:
+ iling and cooking.Bubu Friendship Lv. 4
+In Liyue, a form of divination is often used to predict fortune and peril or ask the gods for guidance. The people of Liyue cal
+---
+all_npc_text.txt:
+ is the Latin spelling of the Greek krater, a type of large cup or vase that was used to dilute wine with water.
+↑ Genshin Impact Official Website: Barbara
+↑ Facebook: 
+---
+all_npc_text.txt:
+ old you back.
+Media:vo beidou mimitomo friendship3 05b 2.ogg Beidou: You'll get used to the ocean's movements soon enough. If you're really struggling, I have some med
+---
+all_npc_text.txt:
+ ennett in combat.It's not that Bennett doesn't feel pain — he has simply gotten used to it. He adapted to the pain as others would to pungent smells or blinding light.
+---
+all_npc_text.txt:
+ ky. That's just the way it is, and I've lived with it so long now that I'm just used to it. But you know what? Maybe it's a good thing. It means I know that whatever l
+---
+all_npc_text.txt:
+ ia:vo bennett mimitomo friendship2 04.ogg Bennett: Oh, diarrhea is nothing. I'm used to that.
+Media:vo bennett mimitomo friendship2 05.ogg Bennett: At first, there wer
+---
+all_npc_text.txt:
+ .However, when new life emerges in this ancient village... Everything that they used to know might just have to change a bit.Character Story 2 Friendship Lv. 3
+When Un
+---
+all_npc_text.txt:
+  a "descendant of King Deshret" is not a literal descendancy, but rather a term used to refer to all people of Aaru Village as it is the last bastion of his civilizati
+---
+all_npc_text.txt:
+ ting my next one...
+Media:vo charlotte mimitomo night 02.ogg Charlotte: I'm not used to having so much free time. Hahaha...
+Media:vo charlotte mimitomo night 03.ogg Ch
+---
+all_npc_text.txt:
+ nant hand for a primary (and precise) sword strikes, while a pistol is normally used to surprise their opponents and catch them off guard.
+The last sentence of her Nam
+---
+all_npc_text.txt:
+ tomo friendship1 09a.ogg Chevreuse: Uncomfortable is part of the job. But we're used to it. After all, ensuring peace for the citizens of Fontaine is no small matter.
+
+---
+all_npc_text.txt:
+  violence. But, the readiness of your answer seems to suggest that you're quite used to that sort of thing.
+Media:vo chevreuse mimitomo friendship3 03a 2.ogg Chevreuse
+---
+all_npc_text.txt:
+ ally speaks in a blunt, straightforward manner, which can take some time to get used to. Her methods of resolving disputes can be considered radical, as she does not l
+---
+all_npc_text.txt:
+ ia.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chiori_About_Navia.ogg She used to beg me to help her design all kinds of strange things. For example, little crow
+---
+all_npc_text.txt:
+ .fandom.com/wiki/File:VO_Chiori_More_About_Chiori_-_03.ogg When I was little, I used to always look forward to the summer festival in my hometown. Every year, people w
+---
+all_npc_text.txt:
+ iki/File:VO_Chiori_Favorite_Food.ogg I can never forget the Inazuman desserts I used to indulge in as a child. But rather than the joy of tasting them, I've always bee
+---
+all_npc_text.txt:
+ e these materials for thaumaturgy during exorcisms — I never knew they could be used to purify one's own spirit, too.
+Feelings About Ascension: Building Up Ascension P
+---
+all_npc_text.txt:
+ estionnaire turned to their companions, laughed, and said:"And to think, we all used to imagine that Miss Clorinde spent the entirety of her waking hours dealing with 
+---
+all_npc_text.txt:
+ tinct as my guide.
+Media:vo clorinde mimitomo friendship2 02a 6.ogg Clorinde: I used to be afraid of being alone. I could never fall asleep without her by my side.
+Med
+---
+all_npc_text.txt:
+ the Fateometer to determine the rules of the duel and the weapons we can use. I used to play this a lot with my Master. Although, back then, we just rolled a die.
+ Wha
+---
+all_npc_text.txt:
+ he also developed a deep sense of empathy, extending even to the gods, whom she used to deem forsaken by, she now wonders if they too can feel just as helpless. She st
+---
+all_npc_text.txt:
+ ps://genshin-impact.fandom.com/wiki/File:VO_Collei_About_Us_-_New_Friends.ogg I used to think that I'd never make a single friend in my whole life, but things changed 
+---
+all_npc_text.txt:
+ gg I never thought there'd come a day where I get my own Vision. In the past, I used to think that the gods only cared about people who were born popular... Um, but I 
+---
+all_npc_text.txt:
+ ension_-_02.ogg I'm starting to feel like... I'm finally a better person than I used to be.
+Feelings About Ascension: Climax Ascension Phase 4Feelings About Ascension:
+---
+all_npc_text.txt:
+ riosity is remarkable... Alright, let's hear your questions. For someone who is used to interrogating others, the feeling of being questioned is... interesting.
+Cyno's
+---
+all_npc_text.txt:
+  HP 02.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Cyno_Low_HP_02.ogg I'm used to it.Media:VO Cyno Low HP 03.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Cy
+---
+all_npc_text.txt:
+ nture.
+Media:vo cyno mimitomo friendship1 01.ogg Cyno: At first, I couldn't get used to how quiet it is here.
+Media:vo cyno mimitomo friendship1 02.ogg Cyno: There's n
+---
+all_npc_text.txt:
+  forestvillage 03.ogg Cyno: It was an unfamiliar experience at first, but I got used to it. ...Looking back now, I can hardly believe how long I've been with the matra
+---
+all_npc_text.txt:
+ genshin-impact.fandom.com/wiki/File:VO_Dehya_Chat_-_My_People.ogg My people are used to the desert life... But still, I hope that one day, they'll be able to find an o
+---
+all_npc_text.txt:
+ com/wiki/File:VO_Dehya_Something_to_Share.ogg You know Ajilenakh Nuts, right? I used to go crazy for them as a kid... but my dad was the worst at shelling them. He'd j
+---
+all_npc_text.txt:
+ tly safe here, but to go to bed without someone on lookout... I don't think I'm used to that yet.
+When a character is invited to or invites themselves to their favorit
+---
+all_npc_text.txt:
+ e wishing Cat's Tail luck in their business.
+Diluc owns an Umbertail Falcon and used to own a pet tortoise.
+Diluc is one of only two residents of Mondstadt who are awa
+---
+all_npc_text.txt:
+ enshin-impact.fandom.com/wiki/File:VO_Diluc_Feelings_About_Ascension_-_04.ogg I used to believe... if I was to stamp out evil, I would have to walk alone in darkness. 
+---
+all_npc_text.txt:
+ y? Well, because it's there, of course."Character Story 3 Friendship Lv. 4
+Dori used to suffer terribly from insomnia. Back then, she would often lose sleep for no rea
+---
+all_npc_text.txt:
+  with expectation. She even began looking forward to playing together like they used to.But one day, she saw her sister gripping her chest while telling a story.Then, 
+---
+all_npc_text.txt:
+ VO KO_Amber About Eula.ogg Eula is a great friend of mine! You just need to get used to her sense of humor and you'll get along fine! The only reason she's misundersto
+---
+all_npc_text.txt:
+ nd treat you like a potential threat to society. It's nowhere near as bad as it used to be, though. Before I'd joined the Knights, good grief... I couldn't even buy gr
+---
+all_npc_text.txt:
+ uzan_More_About_Faruzan_-_05.ogg My field of study is nowhere as esteemed as it used to be, and Haravatat has refused me funding more than once. Every now and then, Ks
+---
+all_npc_text.txt:
+ pose, Oz ends up translating most of her speech if they are confused. She is so used to speaking this way that breaking character ends up confusing the people she talk
+---
+all_npc_text.txt:
+  make people drop their guard, which was something that the House of the Hearth used to their advantage, sending him in behind enemy lines to complete the missions the
+---
+all_npc_text.txt:
+ Character Story 1 Friendship Lv. 2
+Even before he received his Vision, Freminet used to love wearing his diving helmet and exploring the underwater world like a pengui
+---
+all_npc_text.txt:
+ rders filled the void and became like a clockwork spring driving him forward.He used to fantasize about turning into a cold, cruel machine, driven only by the imperati
+---
+all_npc_text.txt:
+ eminet's clockwork penguin, Pers, comes from the French word pers, an adjective used to describe blue-green eyes, which fits with its actual eye color.
+Fréminet, in Ge
+---
+all_npc_text.txt:
+ endship1 03.ogg Freminet: I mean, uh... Everything here is really nice. And I'm used to it now, so there's no need to worry about me.
+ It's okay. You don't have to be 
+---
+all_npc_text.txt:
+  comfortable, and the environment here is flawless, I just... can't seem to get used to life here.
+Media:vo freminet mimitomo friendship1 09.ogg Freminet: This is nobo
+---
+all_npc_text.txt:
+ ile:VO_Furina_About_Lyney_and_Lynette.ogg Of course I know Lyney and Lynette. I used to frequently attend their magic shows. Though they're very popular, they're still
+---
+all_npc_text.txt:
+ he most familiar with Rex Lapis. Heh... I feel a bit awkward, though, because I used to be openly disparaging of Rex Lapis in front of her... But she doesn't seem to m
+---
+all_npc_text.txt:
+  something to eat, it was already dark out. It really reminded me of the time I used to spend training in the mountains with her... Back then, time also seemed to pass
+---
+all_npc_text.txt:
+  Oh, a—alright...
+Media:vo ganyu mimitomo friendship2 03.ogg Ganyu: You know, I used to agonize a lot over whether to try and integrate into human society.
+Media:vo ga
+---
+all_npc_text.txt:
+  encouraging and heartwarming response for all her readers. Just look at me — I used to be a lost soul, but not anymore, and it's all thanks to her. Oh, that reminds m
+---
+all_npc_text.txt:
+ much persuading! Thank you!
+Media:vo gorou mimitomo friendship3 05.ogg Gorou: I used to go mountain climbing with my resistance comrades all the time. It was a great w
+---
+all_npc_text.txt:
+ ere faced with an even bigger conundrum when, once everyone had reluctantly got used to her presence, Hu Tao discontinued her visits.That meant that the responsibility
+---
+all_npc_text.txt:
+ gs. Actually, I must have heard all of her songs several times each by now. I'm used to her singing, but I still find it strange. That being said, I don't hate it eith
+---
+all_npc_text.txt:
+ from Liyue, spends much of the year on the high seas, and its sailors are quite used to the vagaries of life in other nations. So they were more curious than surprised
+---
+all_npc_text.txt:
+ iad of leaves."
+The character 万 literally means "ten thousand," but it is often used to more broadly mean "a number which is vast and difficult to fathom."
+Kaedehara c
+---
+all_npc_text.txt:
+ fandom.com/wiki/File:VO_Kaedehara_Kazuha_More_About_Kaedehara_Kazuha_-_03.ogg I used to love the rain when I was small. The sound of it would lull me into a peaceful s
+---
+all_npc_text.txt:
+ he time Kaeya finally reached Diluc, it was all over.The power their father had used to successfully fend off the attack backfired, taking their father's life.Both Kae
+---
+all_npc_text.txt:
+ er Story 5 Friendship Lv. 6
+The tutors who guide Ayaka in her various arts once used to say: whether in tea ceremony, chess, the art of the sword, or all other affairs
+---
+all_npc_text.txt:
+ aka back in the day.As for the third, it is stored deep within a wooden cabinet used to store antiques, sealed within a silk bag. Excellent of make and design, it was 
+---
+all_npc_text.txt:
+ als were in themselves not mistaken, and that the fault lay only in the methods used to achieve them.People should not give up, for even if they are doing good in an a
+---
+all_npc_text.txt:
+ In_the_Desert.ogg This isn't my first trek into the desert, but I can never get used to the heat... *sigh* Is there no shade anywhere...?
+Good MorningGood MorningMedia
+---
+all_npc_text.txt:
+ l, it just disappears... Don't worry about me, though — I'm a lot better than I used to be. I'll be more careful to live within my means in the future.
+Favorite FoodFa
+---
+all_npc_text.txt:
+ nteresting.
+Media:vo kaveh mimitomo friendship1 01.ogg Kaveh: I'm still getting used to it all.
+Media:vo kaveh mimitomo friendship1 02.ogg Kaveh: Never have I seen a p
+---
+all_npc_text.txt:
+ minimum level of embellishment. Therefore, though like a flower she blooms, she used to dress simple.
+However, working closely with Ganyu and then Ningguang has given 
+---
+all_npc_text.txt:
+ lar advice:
+"You've never donned anything special for festivals, and people are used to your image as it is. But Liyue is different now. If you show up in front of the
+---
+all_npc_text.txt:
+ d perpendicular to the ground, to alert and awaken Keqing immediately.It can be used to fish: Keqing just hurls it into the water when she's feeling peckish, and there
+---
+all_npc_text.txt:
+ recently. But is Liyue better off with the Yuheng we have now, or the Yuheng we used to know? Only time will tell.XianyunAbout Keqing Media:VO_Xianyun About Keqing.ogg
+---
+all_npc_text.txt:
+ ://genshin-impact.fandom.com/wiki/File:VO_Keqing_About_Us_-_Encouragement.ogg I used to be so naive. I genuinely believed that I was on a par with Rex Lapis... Seems I
+---
+all_npc_text.txt:
+ he most familiar with Rex Lapis. Heh... I feel a bit awkward, though, because I used to be openly disparaging of Rex Lapis in front of her... But she doesn't seem to m
+---
+all_npc_text.txt:
+ hin-impact.fandom.com/wiki/File:VO_Keqing_About_Yelan.ogg Ms. Yelan's ancestors used to serve the Qixing. My grandfather and her family have had academic collaboration
+---
+all_npc_text.txt:
+ sured," "vivacious and adorable"... These three phrases are words most commonly used to describe Kirara on the feedback board. Word is that if you give her a five-star
+---
+all_npc_text.txt:
+ to "Blossom-Pure", fitting the flower theme of the other languages. The word is used to describe something as Flawless and immaculate.
+OverviewLoreVoice-OversOutfitsCo
+---
+all_npc_text.txt:
+ mother cannot do — as far as Klee is concerned, anyway.Whether it's the way she used to guide Klee step-by-step through the techniques for adding gunpowder and selecti
+---
+all_npc_text.txt:
+ n exchange student to specialize in law. When she was doing her coursework, she used to meet with me to discuss some cases, and after we were done, she'd always bow an
+---
+all_npc_text.txt:
+  you're still tired, you should go back to sleep for a bit... Me? *sigh* I'm... used to it...
+Good AfternoonGood AfternoonMedia:VO_Layla Good Afternoon.ogghttps://gens
+---
+all_npc_text.txt:
+ ZZT! Ugh, it's so annoying.
+Media:vo layla mimitomo friendship1 06.ogg Layla: I used to always lose sleep because of those pests, but thankfully there's nothing like t
+---
+all_npc_text.txt:
+ ortant part of her day. She sometimes takes tea with vegetable soup as she once used to enjoy this with Jean at the Good Hunter restaurant. She also suffers from cucur
+---
+all_npc_text.txt:
+ ed.Slowly, the sight before her eyes became clearer. Perhaps her ears had grown used to the wind, or her eyes, accustomed to the darkness, but her steps grew more agil
+---
+all_npc_text.txt:
+ :VO KO_Furina About Lyney and Lynette.ogg Of course I know Lyney and Lynette. I used to frequently attend their magic shows. Though they're very popular, they're still
+---
+all_npc_text.txt:
+ side. I mean, I can handle my own business just fine, but it takes some getting used to. I'm sure you can understand. You also have... I mean... always have Paimon wit
+---
+all_npc_text.txt:
+ tps://genshin-impact.fandom.com/wiki/File:VO_Lynette_About_Us_-_Interests.ogg I used to think that the golden sun and dark shadows of the night could never understand 
+---
+all_npc_text.txt:
+ ven Lynette's propensity for damaging various small devices, he had long gotten used to following his intuition to do some fixes here and there.Unfortunately, he under
+---
+all_npc_text.txt:
+ :VO KO_Furina About Lyney and Lynette.ogg Of course I know Lyney and Lynette. I used to frequently attend their magic shows. Though they're very popular, they're still
+---
+all_npc_text.txt:
+ side. I mean, I can handle my own business just fine, but it takes some getting used to. I'm sure you can understand. You also have... I mean... always have Paimon wit
+---
+all_npc_text.txt:
+ tomo friendship1 02.ogg Lyney: But were I to say I've already gotten completely used to it... Would you think I'm lying?
+ Sure doesn't seem like the truth.
+Media:vo ly
+---
+all_npc_text.txt:
+  02.ogg Lyney: It takes me right back to when Lynette and I were little, and we used to do magic tricks on the street. Just like this: Check your pockets.
+Media:vo mim
+---
+all_npc_text.txt:
+ lchemical creations.A notebook is embedded in the device's interior that can be used to record information. Designed to facilitate the quick production and use of maps
+---
+all_npc_text.txt:
+  here, please do let me know!
+Media:vo mika mimitomo friendship1 08.ogg Mika: I used to spend a lot of time cleaning and tidying the house and yard. That was a while a
+---
+all_npc_text.txt:
+ Mona: Hmm... For instance, ingredients approaching their expiration date can be used to create very cost-effective meals as long as you thoroughly cook them with the a
+---
+all_npc_text.txt:
+  shall not be a mere approach to justify things in this world, it could also be used to satisfy her need for pure innocent fun.Technically, Shroomboars can only walk o
+---
+all_npc_text.txt:
+ ight one eradicate the threat that forbidden knowledge poses to Irminsul?Nahida used to believe that she was the one who had the answer, but never did she realize that
+---
+all_npc_text.txt:
+ en_-_Introduction.ogg I'm led to believe that long, long ago, the Seven Archons used to stay in regular contact with each other. I'm a bit of a special case though, so
+---
+all_npc_text.txt:
+ ness always occupies the most important place. Strange, isn't it? I think there used to be something there, but for all the power I have over dreams, I still can't fin
+---
+all_npc_text.txt:
+ fair skin, blue eyes and long, waist-length blonde hair.
+When we were young, we used to play a kind of tabletop game where she would be the adventurer and I the host. 
+---
+all_npc_text.txt:
+ tory 2 Friendship Lv. 3
+Navia, presently the one helping people out of trouble, used to be the one getting into it as a child.President Callas, busy as he was, had to 
+---
+all_npc_text.txt:
+ was a (self-proclaimed) big girl of something over ten years, and is thus quite used to the latter's mannerisms. Yes, those are accurate words of praise, indeed!Optimi
+---
+all_npc_text.txt:
+ a.ogg Media:VO JA_Chiori About Navia.ogg Media:VO KO_Chiori About Navia.ogg She used to beg me to help her design all kinds of strange things. For example, little crow
+---
+all_npc_text.txt:
+ at my place. I've always been quite fond of his style, and now that I've gotten used to it, I'm reluctant to change things up.
+ Well, if you like it here, you're welco
+---
+all_npc_text.txt:
+ imitomo friendship1 07.ogg Nilou: Can I stay here a little longer, so I can get used to everything?
+Media:vo nilou mimitomo friendship1 08.ogg Nilou: Hehe, I won't be 
+---
+all_npc_text.txt:
+ bout Ningguang.ogg Media:VO KO_Xinyan About Ningguang.ogg Y'know, the Millelith used to get in my way all the time. Can't set up a stage here, can't perform there. Rea
+---
+all_npc_text.txt:
+ ays continues to press on. A rare gem indeed. I'm reminded of the time that she used to walk barefoot from Yaoguang Shoal to the south wharf, trying to sell her wares 
+---
+all_npc_text.txt:
+ recently. But is Liyue better off with the Yuheng we have now, or the Yuheng we used to know? Only time will tell.(Actual Voice-Over: The Yuheng... She has changed a l
+---
+all_npc_text.txt:
+ recently. But is Liyue better off with the Yuheng we have now, or the Yuheng we used to know? Only time will tell.)
+About Jean Friendship Lv. 4About Jean Friendship Lv
+---
+all_npc_text.txt:
+ lost property.
+Media:vo noelle mimitomo friendship2 03.ogg Noelle I'm still not used to it...
+Media:vo noelle mimitomo friendship2 04a.ogg Noelle What I mean is, I oft
+---
+all_npc_text.txt:
+ ...
+Media:vo noelle mimitomo friendship2 04a.ogg Noelle What I mean is, I often used to find odds and ends while performing my cleaning duties.
+ Wait, so you go around
+---
+all_npc_text.txt:
+ ting stars at night? Haha, they are but fleeting moments of luminosity. Uh, you used to be one of them? Are you a tengu warrior?
+About Us: Protector Friendship Lv. 6Ab
+---
+all_npc_text.txt:
+ mpact.fandom.com/wiki/File:VO_Raiden_Ei_About_Yae_Miko.ogg Ah, that girl... She used to be the kind of person who could easily be swayed with some Fried Tofu. It's a r
+---
+all_npc_text.txt:
+ It's much livelier here than the plane of pure silence and tranquility that I'm used to.
+ Will it be difficult for you to get used to this place?
+Media:vo raidenei mim
+---
+all_npc_text.txt:
+  silence and tranquility that I'm used to.
+ Will it be difficult for you to get used to this place?
+Media:vo raidenei mimitomo friendship1 02.ogg Ei: No, not at all.
+M
+---
+all_npc_text.txt:
+  is honest and forthright, due to his limited exposure to human life. He is not used to speaking and only speaks in short phrases and words, finding it troublesome,[3]
+---
+all_npc_text.txt:
+ ed myself to get drunk.
+Media:vo rosaria mimitomo friendship3 04.ogg Rosaria: I used to think it was idiotic to leave yourself vulnerable in front of others.
+Media:vo 
+---
+all_npc_text.txt:
+ m.com/wiki/File:VO_Sangonomiya_Kokomi_Feelings_About_Ascension_-_04.ogg I often used to succumb to self-doubt. I would think to myself, "Can a person like me really ho
+---
+all_npc_text.txt:
+ g.
+Media:vo kokomi mimitomo friendship2 03.ogg Sangonomiya Kokomi: I remember I used to always stay home all by myself when I was little. I didn't really have any frie
+---
+all_npc_text.txt:
+ Sangonomiya Kokomi: Mm. I suppose I never expected that someone like me who was used to staying home would be promoted to such a position.
+Media:vo kokomi mimitomo fri
+---
+all_npc_text.txt:
+  you think about that, Grandpa? Whenever you claimed to be a traveler, everyone used to say you hadn't been to enough places. But now I have. Plus, I have plenty of fr
+---
+all_npc_text.txt:
+ he firecrackers, they were quite crude compared to the adeptal melodies she was used to.
+In truth, the toys themselves had but limited appeal to her, for what she actu
+---
+all_npc_text.txt:
+ ner similar to Albedo. Due to having a limited diet in the mountains, Shenhe is used to eating plenty of herbs despite clearly despising their taste.
+See also: The Wor
+---
+all_npc_text.txt:
+ other.
+According to Records of a Changing Village, a branch family of exorcists used to live in the east of the village. However, the mother would die of illness, the 
+---
+all_npc_text.txt:
+ ogg The assumption that every person has somewhere to call home is naive. I got used to living in the mountains alongside the birds and beasts a long time ago.
+Chat: M
+---
+all_npc_text.txt:
+ gs. Actually, I must have heard all of her songs several times each by now. I'm used to her singing, but I still find it strange. That being said, I don't hate it eith
+---
+all_npc_text.txt:
+ er the adepti, I had to abstain from all kinds of things, and to a point, I got used to it. But them... "The common delights of the mortal realm pose no hindrance to t
+---
+all_npc_text.txt:
+ -impact.fandom.com/wiki/File:VO_Shenhe_Receiving_a_Gift_-_03.ogg No matter. I'm used to this kind of flavor, after all.
+BirthdayBirthdayMedia:VO_Shenhe Birthday.ogghtt
+---
+all_npc_text.txt:
+ 3 07.ogg Shenhe: I see...
+Media:vo shenhe mimitomo friendship3 08.ogg Shenhe: I used to always feel that the holidays had nothing to do with me. But now... there seems
+---
+all_npc_text.txt:
+ e will be hosting a lecture.
+The wording of this message implies that Sigewinne used to host lectures but hasn't done so for quite some time.
+Sigewinne may be named af
+---
+all_npc_text.txt:
+ httime... No, I don't find it depressing at all. It's not even that I've gotten used to it. I just... kinda prefer being in the dark.
+Good NightGood NightMedia:VO_Sige
+---
+all_npc_text.txt:
+ n."People found her behavior utterly unusual at first, but once they had gotten used to it, they were eager to oblige, even putting the rarest bones aside for her in a
+---
+all_npc_text.txt:
+ ically corresponds to the English term "granulated sugar" (table sugar), and is used to refer to sugars in general. "Sucrose" would be 蔗糖 Zhètáng.
+In Japanese, her nam
+---
+all_npc_text.txt:
+ n't be nervous, nothing to be afraid of. They're really quite cute once you get used to them.
+Interesting ThingsInteresting ThingsMedia:VO_Sucrose Interesting Things.o
+---
+all_npc_text.txt:
+ t busy? Really? It's fine, I—I get that you have stuff to do. I'm already quite used to working alone. ...You're truly not busy? I—In that case, I don't suppose you co
+---
+all_npc_text.txt:
+ pact.fandom.com/wiki/File:VO_Tartaglia_Deploying_Wind_Glider_02.ogg I could get used to this.Media:VO Tartaglia Deploying Wind Glider 01.ogghttps://genshin-impact.fand
+---
+all_npc_text.txt:
+ artaglia kitchen 01.ogg Tartaglia: A kitchen? Haha, how intriguing! You know, I used to cook quite often. Let me show you a thing or two!
+Media:vo mimitomo ly tartagli
+---
+all_npc_text.txt:
+ oma has experienced it all.At first, he found the work boring, but after he got used to it, he found that he could think more quietly when cleaning.So to this day, Tho
+---
+all_npc_text.txt:
+ d. Hmm? A conversation... I see, I see. That's a little different from what I'm used to, but I'm all for it.
+More About Thoma: II Friendship Lv. 3More About Thoma: II 
+---
+all_npc_text.txt:
+ rticularly sensitive to weather, disliking the wind and thunder. While his kind used to live in the desert, Tighnari, having a darker shade of fur (which he attributes
+---
+all_npc_text.txt:
+ llei About Us - New Friends.ogg Media:VO KO_Collei About Us - New Friends.ogg I used to think that I'd never make a single friend in my whole life, but things changed 
+---
+all_npc_text.txt:
+ gghttps://genshin-impact.fandom.com/wiki/File:VO_Tighnari_When_It_Rains.ogg I'm used to the rain, but you should probably use an umbrella.
+After the RainAfter the Rain
+---
+all_npc_text.txt:
+ Japanese, and Korean, his name is 空 "Sky, Air, Void." In Buddhism, this word is used to denote the concept of Śūnyatā, which has multiple meanings but generally relate
+---
+all_npc_text.txt:
+ 01.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Wanderer_Low_HP_01.ogg I'm used to this.Media:VO Wanderer Low HP 02.ogghttps://genshin-impact.fandom.com/wiki/File
+---
+all_npc_text.txt:
+ ck, Charged Attack, Plunging Attack, Elemental Skill and Elemental Burst can be used to trigger the on-hit effect, even if no damage is dealt.
+Only one stack is gained
+---
+all_npc_text.txt:
+ no, no, this is... Well, it's... the Ultimate Overlord's Mega Magic Sword, once used to triumph over the Crab Emperor!"
+A long, long time ago, before Romaritime Flower
+---
+all_npc_text.txt:
+ pril 2, 2024
+According to the Resolution of Sojourner artifact set, this weapon used to have 4 strings until they were removed, leaving only the bowstring left.
+Diona 
+---
+all_npc_text.txt:
+  naming it "Calamity Queller."
+"If disaster should befall, this shall surely be used to calm it."
+The tribespeople who made their living in the craggy mountains were n
+---
+all_npc_text.txt:
+ material. Gives 400 EXP.
+A refined ingot with endless possibilities that can be used to enhance weapons.
+Enhancement Ore is an Enhancement Material for Weapons that pr
+---
+all_npc_text.txt:
+ his bow tells the story of the pioneers and the hardships they went through.
+It used to be a prop with an immobile bowstring, but the string became both flexible and s
+---
+all_npc_text.txt:
+  after the Lord of Sand parted ways with old friends.
+They even say that it was used to hide the desert tower and paradise of dreams away under the aegis of illusions 
+---
+all_npc_text.txt:
+ ars later, she had already taken on the name of the rose,
+And she was no longer used to the fancy dresses once foisted on her, but was far more accustomed to the weigh
+---
+all_npc_text.txt:
+  far more accustomed to the weight of an axe in her hand.
+Yet she could not get used to the now fragile, hoary appearance of the dignified, gentle father she remembere
+---
+all_npc_text.txt:
+ ck, Charged Attack, Plunging Attack, Elemental Skill and Elemental Burst can be used to trigger the on-hit effect, even if no damage is dealt.
+Only one stack is gained
+---
+all_npc_text.txt:
+ ns in the Primordial Jade Series are, in Chinese, named after the piece of jade used to create it. The names of the jades are derived from a line in the Strategies of 
+---
+all_npc_text.txt:
+ cksmith understood quickly enough, though. So this bow was some powerful weapon used to hunt and kill these mighty machine creatures, and so it was the apex predator o
+---
+all_npc_text.txt:
+ sed in a Kagura dance.
+↑ Japanese: 神遊 Kamiasobi refers to ritual song and dance used to pacify Shinto kami, or in some cases a song and dance performed by kami themsel
+---
+all_npc_text.txt:
+ TK. Gain 50% Energy Recharge for 12s after using an Elemental Burst.
+A naginata used to "cut grass." Any army that stands before this weapon will probably be likewise 
+---
+all_npc_text.txt:
+ ­let 50 Crystal Chunk 50 White Iron Chunk 500 Mora 1 Forest Regalia
+"The forest used to be a giant maze many, many moons ago..."
+The last king of the forest had return
+---
+all_npc_text.txt:
+ oble."
+But did you know that, in the ruins where mighty winds once swept, there used to be blooming wild flowers over hill and dale?
+Those flowers were not the common 
+---
+all_npc_text.txt:
+ very 12s.
+This gilded blade was made using precious white branches. It was once used to destroy countless poisons that infested the forest.
+Light of Foliar Incision is
+---
+all_npc_text.txt:
+ arasol.
+A rather special oil-paper umbrella. While long wanderings may make one used to the wind and the rain, there might be some fun in admiring a rainy scene beneat
+---
+all_npc_text.txt:
+ t is capable of unleashing great destructive power.
+In the distant past, Kitain used to be a family that hunted the Tatarigami down.
+For many generations, they shoulde
+---
+all_npc_text.txt:
+ escribe the dazzling warriors who once illuminated the earth like comets.
+There used to be many other names on the list, but they have since been lost to history.
+And 
+---
+all_npc_text.txt:
+ e favored barbed spear of a famous Inazuman bandit.
+It was originally a harpoon used to catch fish, but it was also very handy in battle.
+They say that he even pierced
+---
+all_npc_text.txt:
+ d in English that refers to a certain medieval greatsword, but is also commonly used to refer to two-handed greatswords in general.
+ Weapons of the 2-Star Series
+Sword
+---
+all_npc_text.txt:
+  of Liyue.
+The polearm features a dragon motif that runs from handle to tip.
+It used to have a dragon-shaped wooden sheath,
+but now it no longer needs to contain its m
+---
+all_npc_text.txt:
+ ored in the Dainichi Mikoshi. With the coming of the Serpent God, this item was used to notarize great oaths and wishes.
+Oathsworn Eye is a 4-Star Catalyst obtained fr
+---
+all_npc_text.txt:
+ ows Amidst Snowstorms" event after making the first Puffy Snowman. It cannot be used to enhance another weapon as only one copy can be obtained.
+Toggle Ascension Mater
+---
+all_npc_text.txt:
+ urnace in Inazuma. It was originally named the Daitatara Nagamasa, before being used to kill Katsuragi. The sword was later named "Katsuragikiri Nagamasa" (a play on w
+---
+all_npc_text.txt:
+  tool often used for urban construction and ruin exploration in the past. Often used to measure angles, it also possessed a state of the art ability to measure and est
+---
+all_npc_text.txt:
+ e." That's what they all call me down in the Fortress, and... well, I kinda got used to it.
+Chat: StickersChat: StickersMedia:VO_Wriothesley Chat - Stickers.ogghttps:/
+---
+all_npc_text.txt:
+ thesley_When_It_Snows.ogg Hmm... This is a different kind of cold than what I'm used to.
+When the Sun Is OutWhen the Sun Is OutMedia:VO_Wriothesley When the Sun Is Out
+---
+all_npc_text.txt:
+ the event.
+Xiangling's side portrait (seen on the Character menu and Inventory) used to differ in design from her official art and in-game model: she had a headband, t
+---
+all_npc_text.txt:
+ would save an inestimable amount of manpower and resources.If machines could be used to wash clothes, people would no longer have to lie there in their beds listening 
+---
+all_npc_text.txt:
+  something to eat, it was already dark out. It really reminded me of the time I used to spend training in the mountains with her... Back then, time also seemed to pass
+---
+all_npc_text.txt:
+ ce to the Chinese phrase 闲云野鹤 xiányún yěhè, lit. "idle clouds and wild cranes," used to describe a leisurely person detached from worldly affairs.
+It is also a referen
+---
+all_npc_text.txt:
+ nd Tofu and later Grilled Tiger Fish, the former reminding him of the dreams he used to consume and the latter to honor Pervases' memory.
+For information on Xiao's des
+---
+all_npc_text.txt:
+  he finds irresistible — apparently, it's very similar to that of the dreams he used to devour.Character Story 4 Friendship Lv. 5
+What exactly is Xiao wrestling with?T
+---
+all_npc_text.txt:
+ https://genshin-impact.fandom.com/wiki/File:VO_Xingqiu_Interesting_Things.ogg I used to like rabbits, but I'm more a fan of stags now. To me, the saying "May my final 
+---
+all_npc_text.txt:
+ avorite_Food.ogg I like baked goods and Yue-style seafood. Probably because I'm used to quite a bland diet at home.
+Least Favorite FoodLeast Favorite FoodMedia:VO_Xing
+---
+all_npc_text.txt:
+ impact.fandom.com/wiki/File:VO_Xinyan_About_Ningguang.ogg Y'know, the Millelith used to get in my way all the time. Can't set up a stage here, can't perform there. Rea
+---
+all_npc_text.txt:
+ P 03.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Xinyan_Low_HP_03.ogg I'm used to this much.Ally at Low HPAlly at Low HPMedia:VO Xinyan Ally at Low HP 01.ogghttp
+---
+all_npc_text.txt:
+ at the same time. She has an enigmatic air around her, with her friends growing used to it.[3] When speaking with outsiders or close friends, she shows a blunter and m
+---
+all_npc_text.txt:
+ ans.Under the banner of Narukami, the incredible powers of the youkai host were used to help humans through an era of strife and poverty.Seeking refuge in the mountain
+---
+all_npc_text.txt:
+ bout Yae Miko.ogg Media:VO KO_Raiden Ei About Yae Miko.ogg Ah, that girl... She used to be the kind of person who could easily be swayed with some Fried Tofu. It's a r
+---
+all_npc_text.txt:
+  her.It is said that this balance was a treasure given by Rex Lapis that can be used to measure the value of all things. For convenience, Yanfei tends to use Mora to b
+---
+all_npc_text.txt:
+ n exchange student to specialize in law. When she was doing her coursework, she used to meet with me to discuss some cases, and after we were done, she'd always bow an
+---
+all_npc_text.txt:
+ ... maybe it's because I rarely eat them. When I would get home late, my father used to keep a lantern lit for me. He'd hear me coming and ask me if I was hungry. In h
+---
+all_npc_text.txt:
+ th said adeptus, for they feared that their innocent daughter, having long been used to life in the mountains, would find herself led astray by the bright lights of th
+---
+all_npc_text.txt:
+ to roll the dice to decide how she will pass the time.Just as someone who is so used to spicy food might lose the ability to enjoy ordinary dishes, Yelan finds that on
+---
+all_npc_text.txt:
+ Keqing About Yelan.ogg Media:VO KO_Keqing About Yelan.ogg Ms. Yelan's ancestors used to serve the Qixing. My grandfather and her family have had academic collaboration
+---
+all_npc_text.txt:
+ ety of flammables and spices. When ignited and hung up in the summer, it can be used to repel mosquitoes.Many people have come to ask Yoimiya for help on account of he
+---
+all_npc_text.txt:
+ n a family of Liyue Opera performers.Her father is a playwright, and her mother used to be a famous opera singer in Liyue Harbor, taking up the mantle from Yun Jin's g
+---
+all_npc_text.txt:
+ n has so far only kept to herself.Longevity Lock Friendship Lv. 4
+Her ancestors used to work as weaponsmiths instead of opera performers.Later, someone in the family w
+---
+all_npc_text.txt:
+ ngli enjoys Osmanthus wine as it was the drink he and his former Archon friends used to have when they met up in Liyue. He dislikes seafood as it reminds him of the pr
+---
+all_npc_text.txt:
+ e in every way, save for the matter of money. Those around him have long gotten used to his eccentricities, and do not take this matter to heart. If you ask him, he wi
+---
+all_npc_text.txt:
+ magical fan that can resurrect the dead, as well as alchemical powers, which he used to transmute stones and base metals into gold and silver to save people from pover
+---
+all_npc_text.txt:
+ ct.fandom.com/wiki/File:VO_Zhongli_About_Us_-_Confusion.ogg Contracts cannot be used to define friendship, nor measure sentiment. So just what can we use to measure th
+---
+all_npc_text.txt:
+ ays continues to press on. A rare gem indeed. I'm reminded of the time that she used to walk barefoot from Yaoguang Shoal to the south wharf, trying to sell her wares 
+---
+all_npc_text.txt:
+ pact.fandom.com/wiki/File:VO_Zhongli_Favorite_Food.ogg There was once a drink I used to enjoy with friends — long ago... Is it because the climate has changed? A shame
+---
+all_npc_text.txt:
+ l Chinese medicine for clearing the mind and relieving emotional pain, commonly used to treat symptoms such as postpartum depression in new mothers.
+In the Japanese ve
+---
+all_npc_text.txt:
+ ave to go someplace further.
+Qian: I work as a miner, or at least that's what I used to do. Now that the Chasm's been sealed off, I just wander around without a job to
+---
+all_npc_text.txt:
+ he name's Qilang. I'm nobody special, I just come here to pick herbs.
+Qilang: I used to spend all my time down at the Wanwen Bookhouse, devouring every book on the nat
+---
+all_npc_text.txt:
+ t while singing a short time ago.
+Qiu'ge: Mm... Well, it's not much. My teacher used to say that this often happens to us opera singers.
+Qiu'ge: Fortunately, the troup
+---
+all_npc_text.txt:
+ mber of the Vahumana Darshan. He was the author of the thesis Jani fraudulently used to send in a project application to the Akademiya. This application would be accep
+---
+all_npc_text.txt:
+ h that can be found pacing in Liyue's dockyard to look for his lost polearm. He used to be a slacker and gained the nickname "Reekwind" from his squad mates. When he f
+---
+all_npc_text.txt:
+ . Look, it's not like I did it on purpose, okay?
+Reekwind: Believe it or not, I used to be a bit of a lazy slacker. Didn't care much for my appearance. Then, my squad 
+---
+all_npc_text.txt:
+  require strenuous labor. I'm a little beat, so I'm just taking a rest.
+Rege: I used to have someone to talk to when taking a break, but now... Forget it, best not to 
+---
+all_npc_text.txt:
+ e of the prop engineers for Zubayr Theater alongside Najia. She and her husband used to be adventurers. Back then, she was fearless and often charged head-first into d
+---
+all_npc_text.txt:
+ ce of his destiny caused the Irminsul to turn into a golden ship,[6] which they used to establish the empire of Remuria over the waters.[11]
+Remus' reign was a prosper
+---
+all_npc_text.txt:
+ ke charge of their own fates and obtain true free will. Remus' massive ship was used to create the Domus Aurea, a giant harp from which the Grand Symphony would be pla
+---
+all_npc_text.txt:
+  is also the source and namesake of Teyvat's currency, Mora. Morax's Gnosis was used to mint Mora at the Golden House before he retired from his position as Archon and
+---
+all_npc_text.txt:
+  Rex Lapis has a "true appearance."[8]
+According to Xiao, the statues Rex Lapis used to seal Chi in Qingce Village were made in his likeness.[9] These appear to have a
+---
+all_npc_text.txt:
+  balance, said to be a treasure once given to him by Morax himself and could be used to measure the value of all things.[20]
+Main articles: Zhongli/Lore and Chapter I
+
+---
+all_npc_text.txt:
+  About Us - Encouragement.ogg Media:VO KO_Keqing About Us - Encouragement.ogg I used to be so naive. I genuinely believed that I was on a par with Rex Lapis... Seems I
+---
+all_npc_text.txt:
+ he most familiar with Rex Lapis. Heh... I feel a bit awkward, though, because I used to be openly disparaging of Rex Lapis in front of her... But she doesn't seem to m
+---
+all_npc_text.txt:
+ in Version 1.0[Edit History]Version 1.2
+Rhinedottir was introduced.
+The pronoun used to refer to Gold in Breeze Amidst the Forest was changed from "his" to "their."
+↑ 
+---
+all_npc_text.txt:
+ rge quantities to meet the needs of ship crews going on long voyages.
+Roya: I'm used to selling crates of apples, peaches, potatoes, and tomatoes, so if you were to on
+---
+all_npc_text.txt:
+ tifact, Thundering Fury: Omen of Thunderstorm (Chinese version)用以将活祭的鲜血献给雷之魔鸟。 "Used to offer the blood of the living sacrifice to the Thunderbird."
+Media:VO Ruying 01
+---
+all_npc_text.txt:
+ tective who works at the Bantan Sango Detective Agency as Sango's assistant. He used to be a Doushin but was framed and suspended from his job. After receiving Sango's
+---
+all_npc_text.txt:
+ wrongly accused back in the day, she was the one who cleared my name.
+Ryuuji: I used to be a constable at the Police Station. Someone framed me, and I was suspended fr
+---
+all_npc_text.txt:
+ , having to take refuge in Naganohara Fireworks until safe for him to leave. He used to be childhood friends with Imatani Keisuke, until they had a fight and stopped t
+---
+all_npc_text.txt:
+ and florist who owns and runs a flower shop called "Sakura's Flowers." The shop used to be located in Inazuma City, but is now located by her flower field. She is skil
+---
+all_npc_text.txt:
+ eed to be big, it just needs to make enough money for me to get by on.
+Sal: I'm used to hard labor and have a decent enough head for business. Not that I hope to be as
+---
+all_npc_text.txt:
+  a mask to the festival, and I'm not forcing you to buy anything.
+Sanden: Masks used to be mainly used for ceremonial affairs, but nowadays it's become a festival stap
+---
+all_npc_text.txt:
+  place — neither fish nor birds will stick around upon seeing him.
+Sandino: I'm used to it, though. I love fishing for it requires patience and allows for quiet consid
+---
+all_npc_text.txt:
+ , a basis for Neuvillette's name (see Trivia).
+Sawada is a long-time writer who used to live in Inazuma and moved to Sumeru between the Traveler's defeat of Stormterro
+---
+all_npc_text.txt:
+ bout Lady Furina...
+Sedene: Are you asking where Lady Furina Lives?
+Sedene: She used to have an apartment on the top floor. I remember someone did once try to get in t
+---
+all_npc_text.txt:
+  of them, I also don't get to go home as often.
+Sekkura: Dusk birds are usually used to carry messages. They're essential for my job as a Swallow Messenger.
+Sekkura: W
+---
+all_npc_text.txt:
+ , the Traveler and Paimon successfully calibrate the light-based mechanisms she used to keep visitors out and make their way to Maillardet's prototype Meka, which she 
+---
+all_npc_text.txt:
+  one thing I hate above all, it's doubters.
+Shajar: Oh yeah, I almost forgot. I used to be an Eremite Mercenary... and then I accepted the Akademiya's employment offer
+---
+all_npc_text.txt:
+  typically one who is a leader or respected elder in his community. It is often used to refer to a tribal leader, religious leader, or a leader of a clan or family. In
+---
+all_npc_text.txt:
+ 0,000(27,000) 
+Brackets indicate cost after reputation discount.
+Shimura Kanbei used to be a samurai with very little money, until he realized that he still had not fi
+---
+all_npc_text.txt:
+ 's guaranteed to be top-notch. Even Uyuu Restaurant can't compete with us!
+ You used to be a samurai?
+Shimura Kanbei: Hmm? Oh yeah... But it's been decades. Nothing wo
+---
+all_npc_text.txt:
+ ng an increasing socioeconomic gap as a result of the Jinn machines Parvezravan used to replace their labor.[2]
+Shiruyeh was depicted by his supporters as the emissary
+---
+all_npc_text.txt:
+ sive.
+Shushan: After all, ordinary stone is not the equal of jade. It should be used to build ordinary houses, roads, and bridges.
+Shuuhei wears the Watatsumi Army's s
+---
+all_npc_text.txt:
+ s to Know.
+Media:VO Shyam All Schemes to Know 01.ogg Shyam: (I've gotten pretty used to this quiet way of life.)
+Shyam: I was elected by the local residents... Um... I
+---
+all_npc_text.txt:
+ . I'm sort of a sheriff.
+Shyam: They probably called me in keep order because I used to be a mercenary in the Eremites. I've done many... jobs for them.
+Shyam: I am in
+---
+all_npc_text.txt:
+ inne by the same means, suggesting that Potton was no longer the man his mother used to know as her son. After thanking Sigewinne, the Sick Old Lady passed away, belie
+---
+all_npc_text.txt:
+ e was likely an apprentice studying Pyro magic there,[10] though what means she used to harness Pyro is unknown.[Note 2]
+The cataclysm struck while she was in Sumeru. 
+---
+all_npc_text.txt:
+ Just relax. A life of leisure isn't a bad thing, you know. You just have to get used to it.
+Big Ferocious Cat: *hiss*... *whimper*
+Media:vo mkeq002b 1 valerina 03.ogg 
+---
+all_npc_text.txt:
+ okay.
+Six-Fingered José: I am a beloved bard of Mondstadt... Or I should say, I used to be beloved.
+ Sing for me, José, por favor!
+Six-Fingered José: Oh? You want to h
+---
+all_npc_text.txt:
+ t..."
+Slippery: Hey there! Hey, traveler!
+ What are you doing here?
+Slippery: I used to work here in the mines, but after they dried up a few years ago everybody moved
+---
+all_npc_text.txt:
+  be able to make an absolute fortune from it!
+Slippery: This is Yaoguang Shoal. Used to be the biggest mining facility in Liyue.
+Slippery: But they mined it to exhaust
+---
+all_npc_text.txt:
+ e working as a chef though.
+Smiley Yanxiao: My story goes like this. I actually used to be a thief until I stole from the boss.
+Smiley Yanxiao: I took a beating for it
+---
+all_npc_text.txt:
+ er's chosen name for the Traveler)...
+Sumida: Our travels? ...Hmmm, you know, I used to go out to travel to collect reference materials a lot.
+Sumida: I went to Musouj
+---
+all_npc_text.txt:
+  you looking for me?
+Sumi: You can talk to Yuuzou if it's work-related.
+Sumi: I used to work at Tatarasuna. Yuuzou rescued me from the ruins after the disaster — strai
+---
+all_npc_text.txt:
+ washed thoroughly before I use it.
+Su Er'niang: I have some customers who never used to go near any kind of animal innards, but after they'd tried it here they simply 
+---
+all_npc_text.txt:
+ , then.
+Taliesin: Ah, yeah, if you come across any new stories, do tell me!
+She used to be the tour guide for the Callas Line, but due to the explosion of Fontaine Res
+---
+all_npc_text.txt:
+  as a weapon, of course.
+Tanamart: I might just be a homemaker right now, but I used to be a mercenary with the Eremites, so I always feel uneasy without a weapon at h
+---
+all_npc_text.txt:
+ d.
+Tanjiyy: Migrated? No. Look, the supplies and the tents are right where they used to be. There's ash and signs of former habitation everywhere... Hm. Honestly, it's
+---
+all_npc_text.txt:
+ nese: 太郎丸 Taroumaru) is a Shiba Inu and owner of the Komore Teahouse. Taroumaru used to serve the Shuumatsuban before retiring and taking the position of owner at the 
+---
+all_npc_text.txt:
+  by Fan Er'ye, boss of the Heyu Tea House, to serve as its storyteller. He also used to be Iron Tongue Tian's senior, but Liu Su eventually started storytelling to the
+---
+all_npc_text.txt:
+  level of "respect" to prevent people from trying to scam her.
+Thabit: Haniyyah used to be an energetic and happy person. She wore her heart on her sleeve, and she nev
+---
+all_npc_text.txt:
+  the Case of the Eccentric is no longer referred to as such, as "eccentric" was used to describe Scaramouche but not the vengeful Hyakume bladesmith.
+While he could no
+---
+all_npc_text.txt:
+ attached to Scaramouche's stylized kasa hat resemble bachi plectrums, which are used to play traditional Japanese string instruments, such as the shamisen. This could 
+---
+all_npc_text.txt:
+  Ei had originally given him.[27] After several decades of studying the methods used to create Scaramouche,[28] Dottore decided to create segments of himself at differ
+---
+all_npc_text.txt:
+ polo, doge of Venice and Podestà of Constantinople during 13th century.
+Tieshan used to live around Qingxu Pool before joining the Millelith. After he helped his famil
+---
+all_npc_text.txt:
+ nge, because we rarely get any returning guests. I suppose people are still too used to ordinary cuisine...
+Tomoki: Seems like I need to put more work into how I promo
+---
+all_npc_text.txt:
+ token of my appreciation.
+(Obtain  "Pure Water" ×1)
+"Tricky Bulle Fruit": Oh, I used to have a buddy with red hair. Maybe I haven't been getting enough sleep recently,
+---
+all_npc_text.txt:
+ let you in on a little secret. I actually prefer when there is no tide.
+Trow: I used to live by the sea. Back then, I always dove into the sea to collect Romaritime Fl
+---
+all_npc_text.txt:
+ e debts, as seen by harassing Estelle. It is later revealed that said debts are used to task the Gardemek army to kill Navia, daughter of Spina di Rosula's president C
+---
+all_npc_text.txt:
+ mask to conceal the top half of her face. It is later revealed that the mask is used to hide her reptilian-like pupils.
+EventsThree Realms Gateway OfferingAphotic Diff
+---
+all_npc_text.txt:
+ mi: Each of the towers is positioned on top of a leyline junction, and they are used to maintain balance between vishaps, the Abyss, and humans.
+Tsumi: After being mod
+---
+all_npc_text.txt:
+ hree Realms Gateway Offering: Part II is completed.)
+Tsumi: The Sentou ceremony used to be used to chase vishaps away. This is the clash between the human and vishap r
+---
+all_npc_text.txt:
+  Gateway Offering: Part II is completed.)
+Tsumi: The Sentou ceremony used to be used to chase vishaps away. This is the clash between the human and vishap realms.
+Tsum
+---
+all_npc_text.txt:
+  1–3)
+Media:vo tips mimitomo friendship1 plumpy 01.ogg Tubby: Maybe you are not used to the place at the moment, but once you've materialized enough rooms and furnitur
+---
+all_npc_text.txt:
+ s I keep finding myself thinking back to the way my next-door neighbor, Shuzhi, used to look in the prime of her youth...
+Uncle Liu: Ah, the way I'd crouch behind the 
+---
+all_npc_text.txt:
+ ription of the Furnishing item "Liyue House: Time Waits for No One," Uncle Tian used to live in a house like this before his rise to the position of Tianshu.
+In Korean
+---
+all_npc_text.txt:
+ tadt. Notably, some of those hilichurls have wings — suggesting such hilichurls used to exist.
+Character StoriesCharacterStoriesDilucCharacter Story 3KaeyaCharacter St
+---
+all_npc_text.txt:
+ kushima, he noticed a large, sturdy red cow, called "akabeko," among the cattle used to haul lumber.
+In the first version, the akabeko's flesh turned to stone when it 
+---
+all_npc_text.txt:
+ y, I didn't come cheap if anyone wanted to hire me as a freelance adventurer. I used to take on quite a bit of work, too. Sometimes I'd even complete over ten missions
+---
+all_npc_text.txt:
+ ave any hobbies, and now the money that was just sitting in my savings is being used to help cats today, and tomorrow, it might help more animals still. That works out
+---
+all_npc_text.txt:
+  so many things in this world that we Melusines are unable to understand... I'm used to it.
+Veleda: Still, thank you! Please take this small souvenir.
+(Obtain 4★  Mast
+---
+all_npc_text.txt:
+ ghra (Sanskrit: व्याघ्र) is a word that has several meanings, but is most often used to refer to tigers.[13]
+Introduced in Version 3.0[Create New History]
+↑ 1.0 1.1 1.
+---
+all_npc_text.txt:
+ u settling in to life in Sumeru?
+Viktor: No, but I'll just have to learn to get used to it... I was stationed here after all, so complaining won't do me any good.
+Vikt
+---
+all_npc_text.txt:
+ enzo: Hello, do you need any help?
+Vincenzo: I'm with Spina di Rosula. I mainly used to work in the Court of Fontaine, but the Boss sent me here a while ago.
+Vincenzo:
+---
+all_npc_text.txt:
+  if I hadn't moved to Poisson.
+Vincenzo: Hello, I'm with the Spina di Rosula. I used to work in the Court of Fontaine until the Boss sent me here.
+Vincenzo: I'm sure y
+---
+all_npc_text.txt:
+  single storm again, once in a while my mind would be drawn to the stories they used to tell in my father's generation...
+Vind: The way our ancestors would defiantly b
+---
+all_npc_text.txt:
+ f Honorary Senior Researcher...
+ Why are you thinking about that?
+Vuillermoz: I used to be part of Mr. Edwin Eastinghouse's Arkhium research team...
+Vuillermoz: But I 
+---
+all_npc_text.txt:
+ t all.
+Wangjuan: Let me guess... You think I'm strange, right?
+Wangjuan: Now, I used to be a fisherman who didn't care about anything other than catching fish and maki
+---
+all_npc_text.txt:
+ Treasure Duck. A real classic, that, and not at all spicy.
+Wenxun: My family is used to food with lighter seasoning, maybe something a bit saltier if we're feeling adv
+---
+all_npc_text.txt:
+ Hahaha!
+ Does everyone in the shipyard laugh as much as you?
+Wrench Wang: Oh, I used to be just like Hammer Li the shipbuilder over there, always flying a stern look o
+---
+all_npc_text.txt:
+ uess. We've known each other for a while.
+ Why does he imitate you?
+Xinghuo: He used to speak with a stutter until a few years ago, until a Traveler called Alice came 
+---
+all_npc_text.txt:
+ : ...Hmm? What else do you want?
+Xixi: Hmm. The International Trade Association used to be a gathering place for foreign traders. Everyone would come here to mingle an
+---
+all_npc_text.txt:
+ .
+Xu Liushi: You ever hear the name Third-Round Knockout?
+Xu Liushi: That place used to be some no-name watering hole. The specialty there was the wine-fermented sweet
+---
+all_npc_text.txt:
+ d friend of Hiromi and Shun, often being referred to as "Big Sis" by them. They used to hang out at Uyuu Restaurant together before the Sakoku Decree took effect, upon
+---
+all_npc_text.txt:
+  (Daytime)Yegor's location (Nighttime)Additional context (Nighttime)
+ Can't get used to the food...
+Media:VO Yegor 01.ogg "Inazuma's cooking... I'm not used to it at a
+---
+all_npc_text.txt:
+ n't get used to the food...
+Media:VO Yegor 01.ogg "Inazuma's cooking... I'm not used to it at all!"
+ Treasure in Inazuma...
+Media:VO Yegor 02.ogg "*sigh* Is there real
+---
+all_npc_text.txt:
+ quest should be processed soon.
+Yegor: But I'm a Snezhnayan, and I'm not really used to the diet here, nor am I a good cook myself.
+Yegor: I'm fine here in Ritou, but 
+---
+all_npc_text.txt:
+ he Sakoku Decree was abolished.
+Yegor: But I'm a Snezhnayan, and I'm not really used to the diet here, nor am I a good cook myself.
+Yegor: I'm fine here in Ritou, but 
+---
+all_npc_text.txt:
+ stall there. Have you ever tried her snacks?
+Yegor: She knew that I wouldn't be used to the food here, so she changed the taste up for me... That's so sweet of her!
+Ye
+---
+all_npc_text.txt:
+ ote amorous or lustful feelings.[5] Also, kiln (Chinese: 窑 yáo) is colloquially used to refer to brothels.[6]
+The term 流莺 liúyīng, lit. "wandering warbler/oriole" is a
+---
+all_npc_text.txt:
+ ely, I've gotta keep it up!"
+Yizheng: Come on! Just need to persevere. I'll get used to working on the ship soon!
+Yizheng: Greetings! I'm Yizheng, one of the workers h
+---
+all_npc_text.txt:
+ he old men who worked at the dock said that it took many sailors a while to get used to the waves and the wind on the ocean.
+Yizheng: I got this job as soon as I came 
+---
+all_npc_text.txt:
+ n...
+(Talk to either Yi Xian or Yi Zhu during the day)
+Yi Xian: ...Mommy always used to take us to Xiao Market...
+Yi Zhu: Yeah! Mommy would buy toys for us, take us to
+---
+all_npc_text.txt:
+ ain.
+(Talk to either Yi Xian or Yi Zhu during the day)
+Yi Xian: ...Mommy always used to take us to Xiao Market...
+Yi Zhu: Yeah! Mommy would buy toys for us, take us to
+---
+all_npc_text.txt:
+  monopoly, and they want all Secure Transport Agencies to have jobs.
+Yongzan: I used to get ten or so big jobs in six months, but nowadays I only get about two. The ot
+---
+all_npc_text.txt:
+ n differences in Yilong Wharf are too great, and the water-powered lift is only used to transport large items. It doesn't run often, either.
+Yougui: Sometimes we just 
+---
+all_npc_text.txt:
+ thinking about this, too.
+Yuewen: Perhaps the busy old days have made me become used to running one errand after another...
+Yuewen: But I heard the villagers say that 
+---
+all_npc_text.txt:
+ n dialogue branch for the first time gives the player the player five Crabs.
+He used to meet with a friend in that place, but it's been a while since the last time the
+---
+all_npc_text.txt:
+ o. Ah...
+ Is something upsetting you?
+Yuften: Ah... Aderfi... H—He... Sorry. He used to be my f—friend.
+ I'm sorry about your friend...
+Yuften: I hope that th—the Matr
+---
+all_npc_text.txt:
+  money off it, and life started getting better.
+Yundan: But I just couldn't get used to the constant chaos of city life, nor did the cunning one needs to try and do bu
+---
+all_npc_text.txt:
+ stances
+Yuuzou (Japanese: 雄三 Yuuzou) is providing aid to the Watatsumi Army. He used to work in the Mikage Furnace, but was rescued from the Tatarasuna by the Watatsum
+---
+all_npc_text.txt:
+ dra: It will take only one hour to walk around this place. The time left can be used to...
+Zadra: Oh, hey there. I'm planning my itinerary.
+Zadra: Before I arrived in 
+---
+all_npc_text.txt:
+ 
+Zhi: I guess I was born with the nose of the mountain people. I just can't get used to the sea-salt tinge and the flavors of a city by the shore.
+Zhi: What's more, th
+---
+a_purified_misc_content.txt:
+ w, everyone needs to rest after the last battle... But I'm an Outrider. I'm not used to standing around waiting.
+Media:vo ambor saferoom rest 03.ogg Amber: Make sure y
+---
+a_purified_misc_content.txt:
+ hat wave down the middle.
+Media:vo beidou saferoom challenge 03.ogg Beidou: I'm used to taking the helm when the storms come. So when we head into battle, feel free to
+---
+a_purified_misc_content.txt:
+ ruzan saferoom others 02.ogg Faruzan: But it does seem that people aren't quite used to having a legend living among them. No one takes my courses, or pays attention t
+---
+a_purified_misc_content.txt:
+ g! Why, this is a walk in the park compared to the field studies that Haravatat used to send us out on...
+Media:vo faruzan saferoom rest 02.ogg Faruzan: *sigh* Never m
+---
+a_purified_misc_content.txt:
+  with some good ideas.
+Resting[]
+Media:vo keqing saferoom rest 01.ogg Keqing: I used to believe that once I'd made up my mind to do something, I should act immediately
+---
+a_purified_misc_content.txt:
+ ightText for female Traveler‍)! Guess what I found? Loads of stories that Mommy used to read to me!
+Media:vo klee saferoom others 02.ogg Klee: Whenever I shouted out, 
+---
+a_purified_misc_content.txt:
+ ards available from the treasure hunt itself, Ancient Iron Coins dug out can be used to redeem for other rewards. Of course Everyone can also select a Mini Seelie of t
+---
+a_purified_misc_content.txt:
+ s are provided as much as possible. Notes expand on the deduction and reasoning used to draw certain conclusions, which can be read either by hovering over (desktop-on
+---
+a_purified_misc_content.txt:
+ us Dendro Archon, Greater Lord Rukkhadevata.[1] The people of Sumeru frequently used to use their Akasha Terminals to find information, and essentially every adult had
+---
+a_purified_misc_content.txt:
+ s are provided as much as possible. Notes expand on the deduction and reasoning used to draw certain conclusions, which can be read either by hovering over (desktop-on
+---
+a_purified_misc_content.txt:
+ .[66]
+After leaving the cellar, Eberhart takes refuge in an area where a prison used to be and plans to follow the waterway to where his supplies are hidden. Either at
+---
+a_purified_misc_content.txt:
+ ghts of Favonius his sword style, the Favonius Bladework, which continues to be used to this day.[97][98] Arundolyn's fighting style, which wielded a greatsword in one
+---
+a_purified_misc_content.txt:
+ people and culture. Legend has it that the Holy Lyre der Himmel, which Barbatos used to liberate Mondstadt centuries ago, is kept right here in its halls.
+I've heard t
+---
+a_purified_misc_content.txt:
+ . Xiangling mentions eating valberries in her character stories, dandelions are used to make dandelion wine, and Grace prepares Mondstadt Hash Browns with Philanemo Mu
+---
+a_purified_misc_content.txt:
+ on of ancient Chinese myths about the dragon Bixi, the Dihua Marsh of antiquity used to experience seasonal floods. In order to avoid disaster, people would build thei
+---
+a_purified_misc_content.txt:
+ f living for characters and NPCs based on the larger story world, which we then used to help us design the details. In the current floorplan of the inn, the platform a
+---
+a_purified_misc_content.txt:
+ some tea on the side for guests. As for the water wheel-powered elevator, it is used to ferry guests and goods up and down the floors.
+Xuankong Temple in Hunyuan Count
+---
+a_purified_misc_content.txt:
+ , Chinese National Geography Expert: I'm very familiar with Huanglong because I used to go there to conduct field work almost every year. Although Huanglong is located
+---
+a_purified_misc_content.txt:
+ s are provided as much as possible. Notes expand on the deduction and reasoning used to draw certain conclusions, which can be read either by hovering over (desktop-on
+---
+a_purified_misc_content.txt:
+ ancestors' betrayal, risked their lives to enter Sal Terrae and break the sword used to kill her. By the time of the present, however, Havria's story has been twisted 
+---
+a_purified_misc_content.txt:
+ nezhnaya like Ivanovich are traders in Liyue, and a fisherman mentioned that he used to import goods from Inazuma over to Liyue before the lockdown. Local Liyue specia
+---
+a_purified_misc_content.txt:
+ visited Liyue, Morax gave 17 predictions.[9]
+Unlike Rite of Partings, which are used to commemorate deceased adepti, the Rite of Descension appears to be open to all p
+---
+a_purified_misc_content.txt:
+  world opened up to me, Liyue also became a lot more to me than just the port I used to run around barefoot in as a kid.
+From my understanding of Liyue Harbor's histor
+---
+a_purified_misc_content.txt:
+ y Rex Lapis and therefore stopping there may bring you closer to the Archons.
+I used to laugh superstitious beliefs off, but my vivacious romanticist of a wife believe
+---
+a_purified_misc_content.txt:
+ s are provided as much as possible. Notes expand on the deduction and reasoning used to draw certain conclusions, which can be read either by hovering over (desktop-on
+---
+a_purified_misc_content.txt:
+ s are provided as much as possible. Notes expand on the deduction and reasoning used to draw certain conclusions, which can be read either by hovering over (desktop-on
+---
+a_purified_misc_content.txt:
+ st a shame, really, to think that I can never again make her cry as easily as I used to.
+Really, I'd thought that she'd quickly get drunk, start to cry, and start talk
+---
+a_purified_misc_content.txt:
+ ey have the appearance of items dedicated to the Electro Archon, the techniques used to make them are quite familiar to me.
+Oh, whoa, would you look at that! This is s
+---
+a_purified_misc_content.txt:
+ rified throats. Then they roam around Liyue, inspecting once more the land they used to protect.
+To my knowledge, no one has ever witnessed a stone beast in motion fir
+---
+a_purified_misc_content.txt:
+ treasure and obtained Prospect of the Brave.[2] Ulman's Treasure-Seeking Seelie used to guide him to treasure, even though he is not a Vision-bearer.[3]
+The "faraway s
+---
+a_purified_misc_content.txt:
+  在仙祖定乾坤于一尊之前, contains an adaptation of the Chinese idiom 定于一尊, which was first used to refer to China's unification under Qin Shi Huang; while the term 乾坤 can mean "t
+---
+a_purified_misc_content.txt:
+ rbulent life.
+"Counterfeit, you say? What makes you so sure?"
+Min'gui was quite used to customers making such provocative claims. But this young man spoke so bluntly a
+---
+a_purified_misc_content.txt:
+ uld slowly disappear.Still, the legends hold that the riverbank that maiden had used to roam remains filled with blooming Glaze Lilies to this day.
+Location[]
+Vol. 2 L
+---
+a_purified_misc_content.txt:
+ w while Dvalin was summoned by the Anemo Archon and fell into a slumber.
+People used to believe that Dvalin would awaken whenever Mondstadt faces a new threat.
+But in 
+---
+a_purified_misc_content.txt:
+ hi" and will be given to retainers for them use as weapons. These will often be used to shed blood and will thus be stained with impurity and filth.
+From the day Naruk
+---
+a_purified_misc_content.txt:
+ did people come to worship the flame, believing it to be the sun. They even got used to a life of darkness and fire.
+When the sage died, someone would monopolize the f
+---
+a_purified_misc_content.txt:
+ d for normalcy. Even if after a hundred or a thousand years, people should grow used to life down here, always remember — these days with neither sun nor moon are abno
+---
+a_purified_misc_content.txt:
+ a of Byakuyakoku, Towers of the Three Realms were built at these three corners, used to harmonize the three realms. Their ancient names have been lost to time, and the
+---
+a_purified_misc_content.txt:
+ e us would utilize this phenomenon by creating the Serpent's Heart. It would be used to guard secrets, imprison criminals, and worship the great imaginary serpent, Our
+---
+a_purified_misc_content.txt:
+  water.
+According to prophecy, this was likely the sun that the sage displayed, used to light those lightless caverns. And just as those prophecies suggested, it was a
+---
+a_purified_misc_content.txt:
+ se lightless caverns. And just as those prophecies suggested, it was also later used to cast a great shadow over the nation.
+Vol. 4[]
+Experimental Records of the Bathy
+---
+a_purified_misc_content.txt:
+ sing. But everything will start to make sense once they crack Question 4.
+There used to be a sequel to this riddle in ancient times. It roughly said that every grandda
+---
+a_purified_misc_content.txt:
+ es. In those moments I felt like I was speaking not to the fox, but to a girl I used to love many years ago.
+And so, when she was around me, it was as if I were in the
+---
+a_purified_misc_content.txt:
+ broken halberd (Chinese: 折戟 zhéjǐ, lit. "snapped halberd") is a phrase which is used to describe a catastrophic defeat.
+Change History[]
+Released in Version 1.0[Edit H
+---
+a_purified_misc_content.txt:
+ he gods, it is probably the only thing left that remembers that land the way it used to be... every inch of it covered in ice and snow."
+She spoke softly,
+"Welcome to 
+---
+a_purified_misc_content.txt:
+  the frozen earth, to give them the strength to keep surviving. The method they used to brew this kind of wine was forgotten when the people's fate took a turn for the
+---
+a_purified_misc_content.txt:
+ ed her head to indicate that he should continue.
+"That man in the raincoat... I used to go mining with him, up in the mountains. I wanted to make a name for myself. He
+---
+a_purified_misc_content.txt:
+ trianism. The term "Zarathustra," in both English and Chinese, is also commonly used to refer to Friedrich Nietzsche's work Thus Spoke Zarathustra.
+↑ Sommernachtgarten
+---
+a_purified_misc_content.txt:
+ ndecision, a gust of wind rushed through the night and blew the veil Shirin had used to conceal her face away.
+Seeing that familiar face, the young man who had been fo
+---
+a_purified_misc_content.txt:
+ a savage.
+Just as how a towering tree was once tender and delicate, the old man used to be fair and handsome. He grew up in a village by the forest. Agile and kind, he
+---
+a_purified_misc_content.txt:
+ net around him soon."
+"That is no certain thing. Just as the explosion was only used to hide the sound of the clockwork meka, the meka itself could also be little more
+---
+a_purified_misc_content.txt:
+ o make the Mother Lotus laugh. And as everyone knows, Pluie Lotuses are all too used to weeping.
+"All is well again," said the king. "I can rest my regal head in peace
+---
+a_purified_misc_content.txt:
+ at it also had an organ enabling it to breathe underwater.A complete vacuum was used to dispatch it in the end. It seems that it still required aerobic respiration.Man
+---
+a_purified_misc_content.txt:
+ le and tender hands that once elegantly held teacups. Those same hands had been used to bring forth much magic, kindling the flames on many worlds.The little witch sai
+---
+a_purified_misc_content.txt:
+ ould cease to have much meaning. But that isn't true. Those are just words they used to comfort the companions who departed before them. Witches, in fact, treasure eve
+---
+a_purified_misc_content.txt:
+ hese virtues at all times.
+2. Terms of address
+Refers to the various honorifics used to address members of the public, including visitors to Mondstadt. As public serva
+---
+a_purified_misc_content.txt:
+ uest Items
+								Description
+Legend has that it contains ancient incantations used to pay respects to Rex Lapis and the yaksha adepti. It also serves as a historical
+---
+a_purified_misc_content.txt:
+ ointer points right below it.
+But... Well, fine. The lecturers at the Akademiya used to say that it would be best for people without Visions not to take part in practi
+---
+a_purified_misc_content.txt:
+ nder Melon soup for people...
+"Care is also a form of remedy."
+...Sensei always used to say that, but it's just a thing that medical professionals like ourselves say t
+---
+a_purified_misc_content.txt:
+ atsumi were also not written in the Inazuman style then. The names and surnames used today by them came about by order of the Great Serpent, who had them learn the tra
+---
+a_purified_misc_content.txt:
+ root nodules must be isolated from any mortal dwelling. Finally, a ward must be used to suppress all the filth. This must be performed separately in five different pla
+---
+a_purified_misc_content.txt:
+  respectful term that reflects both awe and fear towards the person the term is used to describe.
+The process for the Sacred Sakura Cleansing Ritual as described in th
+---
+a_purified_misc_content.txt:
+ bed in this summary are likely a nod to norito, a type of Shinto chanted prayer used to show reverence to the kami and ask for their blessings. It may be inspired by t
+---
+a_purified_misc_content.txt:
+ ter: Act I - The Crane Returns on the Wind.
+Text[]
+A branch family of exorcists used to live in the east of the village, but in around two weeks, the mother died of di
+---
+a_purified_misc_content.txt:
+  is being looked after by Guuji Yae Masako.
+Before I knew it, I had already got used to this way of life.
+Every time I just randomly swing my sword, she'll enthusiasti
+---
+a_purified_misc_content.txt:
+ s that could help Riko master all manner of abilities but that it could also be used to steer clear of danger. The vengeful spirits of the Ryuutetsu Cage were unveiled
+---
+a_purified_misc_content.txt:
+  hilichurls' concept of gods and the origin of life. Both of these terms can be used to describe a seed, which is fascinating.
+By the way, "Du" is two, "Unu du" is thr
+---
+a_purified_misc_content.txt:
+ ed that the word "rise" was inappropriate here and that a better word should be used to present the image of "pouring out like a radiant cloud of smoke." It must be ad
+---

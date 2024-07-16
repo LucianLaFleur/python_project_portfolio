@@ -1,0 +1,899 @@
+all_furnishings.txt:
+ ther strange smell, and it is for that reason that such methods are rarely used anymore.
+Purchased from Netsuke no Gen Crafts
+Sword-Bearing_Statue:_"Aesthetics_of_Inco
+---
+all_hangout.txt:
+ 3 yunning 06.ogg Yunning: You know, you... you... ugh, I don't know what to say anymore. (TravelerTravelerThe player's chosen name for the Traveler)! Please! You tell 
+---
+all_hangout.txt:
+  and arrives at the same conclusion that I did, then you won't have to doubt me anymore.
+Media:vo lyycop001 1906001 sango 10.ogg Sango: Whoa, huh?
+Media:vo lyycop001 1
+---
+all_hangout.txt:
+ a: Hehe, I'm getting older now and my eyesight is poor. I can't see too clearly anymore.
+Media:vo lyycop001 1906003 uesugi 01.ogg Uesugi: Hey c'mon, Yoriki Owada, ther
+---
+all_hangout.txt:
+  Ningguang: Now now, this is a grown-up situation, okay? It's not fun and games anymore. And don't try and follow me.
+Media:vo ngcop001 1913302 ningguang 26.ogg Ninggu
+---
+all_hangout.txt:
+ 902301 chongyun 34.ogg Chongyun: Do... do you mean that I shouldn't trouble him anymore?
+Media:vo cycop001 1902301 chongyun 35.ogg Chongyun: Sorry, I digress. I've fou
+---
+all_hangout.txt:
+ e my nose was being trampled by a hundred forest boars. I couldn't feel my nose anymore, let alone smell anything..."
+Media:vo dancop001 1910301 diona 06.ogg Diona: Hm
+---
+all_hangout.txt:
+ o happy.
+ You worked hard to reach this point. You don't need to rely on others anymore.
+(Stress Value −2)
+Media:vo lylcop001 1915902 layla 33.ogg Layla: Hehe...
+Media
+---
+all_hangout.txt:
+ blessing from the stars. Will it never happen again since I don't need its help anymore?
+Media:vo lylcop001 1915902 layla 36.ogg Layla: It somehow makes me feel a litt
+---
+all_hangout.txt:
+ kaveh 07.ogg Kaveh: Anyway, that's it, I will not be working on this commission anymore. Goodbye! Maybe you can find yourself some other genius who'll be able to satis
+---
+all_hangout.txt:
+ 34.ogg Kaveh: Sounds great to me! I don't even want to think about this project anymore. But what should we do? It's probably not a good idea to just drink until I pas
+---
+all_hangout.txt:
+ 's chosen name for the Traveler)?
+ At least you won't have to deal with clients anymore.
+ I think you can give it a go.
+Media:vo kvcop001 1907801 alkami 15.ogg Alkami:
+---
+all_hangout.txt:
+  that happens, your facade will pop like a soap bubble. No one will believe you anymore!
+Media:vo kvcop001 1907806 alkami 12.ogg Alkami: Ah, but that's just one way to
+---
+all_hangout.txt:
+ vcop001 1905904 badawi 04.ogg Badawi: Alright, there's no point hiding anything anymore. The building I'm trying to commission you for is not really a personal residen
+---
+all_hangout.txt:
+ lived to be my age and something happens, you can't really call it "unexpected" anymore.
+Media:vo kvcop001 1905904 badawi 21.ogg Badawi: All I want is to build this li
+---
+all_hangout.txt:
+ 07.ogg Alois: I was so scared I ran all the way here, until I just couldn't run anymore... Thank goodness I found you and this... uh... maid.
+Media:vo noecop001 190610
+---
+all_hangout.txt:
+  long as we stick to the plan, I'll give up the lead role... so it won't matter anymore, right?
+Media:vo lntcop001 1918207 gillian 13.ogg Gillian: But surely you want 
+---
+all_hangout.txt:
+  whim, then abandon your responsibility the moment you don't feel like doing it anymore! You're playing games with other people's hopes and dreams!
+Media:vo lntcop001 
+---
+all_hangout.txt:
+ cats at the Cat's Tail, then I wouldn't need to spend all my time making drinks anymore. All I'd have to do is take care of the kitties and let the customers come and 
+---
+all_hangout.txt:
+ a:vo dancop001 1910206 diona 17.ogg Diona: Cocktails... Hmph! No need for those anymore!
+Ending: The Unfathomable Felines[]
+The Unfathomable Felines
+Aether
+Lumine
+Cats
+---
+all_hangout.txt:
+ ink I'm at a bird market. I'm telling you, you are not gonna get away with this anymore.
+Media:vo_bdcop001_1905401_ji_04.ogg Ji: So... yeah, I mean, they laid a few eg
+---
+all_hangout.txt:
+ _1905402_ren_13.ogg Ren: It'll be such a relief not to have to worry about this anymore.
+Media:vo_bdcop001_1905402_ren_14.ogg Ren: On a separate note... I remember The
+---
+all_hangout.txt:
+  player's chosen name for the Traveler), I don't think I'm so afraid of my exam anymore.
+Media:vo noecop002 1908305 noelle 10.ogg Noelle: I know I still have a long wa
+---
+all_hangout.txt:
+  girl who did nothing but cower in the corner in fear — she doesn't need saving anymore.
+ I know you want to protect your little sister...
+ But little sisters don't st
+---
+all_hangout.txt:
+ sister. In their capable hands, the show doesn't need me to attract an audience anymore.
+Media:vo lntcop001 1918401 lynette 05.ogg Lynette: Phew... freedom at last...
+
+---
+all_hangout.txt:
+  noecop002 1908801 cyrus 09.ogg Cyrus: There's no need to talk like an outsider anymore! From now on, you can call me Branch Master, and I will call you Adventurer!
+Me
+---
+all_hangout.txt:
+ a 23.ogg Barbara: It's happened so many times already, I don't really notice it anymore.
+ Isn't it a little exhausting?
+Media:vo bblcop001 1900906 barbara 24.ogg Barba
+---
+all_hangout.txt:
+ w, and you don't get sick nearly as easily. You don't need me to look after you anymore.
+Media:vo kycop001 1909703 kaeya 10.ogg Kaeya: True, I don't get sick as much, 
+---
+all_hangout.txt:
+ nce?
+Media:vo kycop001 1909706 kaeya 06.ogg Kaeya: After all, I don't live here anymore, so I'm just a regular guest. You aren't going to refuse your honored guest thi
+---
+all_hangout.txt:
+ 01 1904404 royce 12.ogg Royce: I just couldn't dismiss it as "mere coincidence" anymore...
+Media:vo bntcop001 1904404 royce 13.ogg Royce: The last straw was when my le
+---
+all_hangout.txt:
+ that random explosion that came out of nowhere. After that, I couldn't stand it anymore... both literally and figuratively. *sigh* So I left... and went back to being 
+---
+all_hangout.txt:
+  able to persevere in everything she does, then one day, she won't need my help anymore.
+Media:vo lylcop001 1915306 layla 53.ogg Layla: I trust that she's capable of d
+---
+all_hangout.txt:
+ went back.
+Media:vo lylcop001 1916108 layla 08.ogg Layla: "Ahh, I can't go back anymore," and other similar thoughts started to come to mind... I guess I'm still not u
+---
+all_hangout.txt:
+  Raed: Hmph. Looks like this thing's parts can't handle the load of functioning anymore after years of disrepair.
+Media:vo frzcop001 1917313 raed 04.ogg Raed: Tch. Whe
+---
+all_hangout.txt:
+ at you.
+Media:vo cycop001 1903005 junjun 09.ogg Junjun: Oh... It doesn't matter anymore. You're still the best, babe.
+Media:vo cycop001 1903005 chaner 08.ogg Chan'er: 
+---
+all_hangout.txt:
+  drink this.
+Media:vo dancop001 1910403 draff 13.ogg Draff: No! I—I can't drink anymore! If I drink more, my daughter will be very angry with me...
+Media:vo dancop001 
+---
+all_hangout.txt:
+ th me...
+Media:vo dancop001 1910403 draff 14.ogg Draff: No more, can't drink... anymore! Drinking — is — bad.
+Media:vo dancop001 1910403 diona 21.ogg Diona: Huh!? Why 
+---
+all_hangout.txt:
+ ff 05.ogg Draff: I know I know, don't worry. I mean, I don't even have my flask anymore...
+Media:vo dancop001 1910404 diona 07.ogg Diona: Yeah right! Who knows how man
+---
+all_hangout.txt:
+  I've gotten so used to sarcasm that I can't tell what's genuinely a compliment anymore. Wait! By "fun," did you mean...
+Media:vo kvcop001 1907704 kaveh 31.ogg Kaveh: 
+---
+all_hangout.txt:
+ ill arguing back and forth with Cyrus. It seems that they're not actually angry anymore, but just arguing to pass the time.)
+(Zaha Hadi idle line)
+Media:vo kvcop001 19
+---
+all_hangout.txt:
+ cop001 1907703 kaveh 20.ogg Kaveh: I... Whatever! I'm not going to use my brain anymore! Let's drink tonight to our hearts' content!
+Ending: Leisurely Gathering[]
+Leis
+---
+all_hangout.txt:
+ :vo zycop001 1901305 sayu 13.ogg Sayu: No, no need. I don't want to trouble you anymore. Maybe my stunted growth is tied to my bad attitude more than anything else.
+Me
+---
+all_hangout.txt:
+ ke to go swimming in water that's too deep for me now, and no one will tease me anymore for my toes not being able to touch the bottom.
+Media:vo zycop001 1901306 sayu 
+---
+all_hangout.txt:
+ ave a guardian to look after me, and the shrine maiden won't be out to catch me anymore.
+Media:vo zycop001 1901306 sayu 09.ogg Sayu: I'll even be able to visit other p
+---
+all_hangout.txt:
+ :vo zycop001 1901306 sayu 10.ogg Sayu: Ah, imagine, no need to catch up on naps anymore. That will be the day...
+Media:vo zycop001 1901306 sayu 11.ogg Sayu: By the way
+---
+all_hangout.txt:
+ o noecop001 1906901 marjorie 05.ogg Marjorie: Say, Noelle... you're not a child anymore, you know?
+Media:vo noecop001 1906901 marjorie 06.ogg Marjorie: If you don't ta
+---
+all_hangout.txt:
+ ugh for healing me. I feel strong enough to carry on now... I won't trouble you anymore.
+Media:vo bblcop001 1900801 barbara 13.ogg Barbara: Oh... Well, the best thing 
+---
+all_hangout.txt:
+ ck."
+Media:vo jqrcop001 1914509 shinobu 18.ogg Kuki Shinobu: I couldn't take it anymore so I quit. I was determined to be anything but a shrine maiden, so I studied bo
+---
+all_hangout.txt:
+ our actions if you know what's good for you. Sorry, but I'm not babysitting you anymore today.
+Media:vo yjcop001 1903809 shiyun 01.ogg Shiyun: Ohh... What am I going t
+---
+all_hangout.txt:
+ ess that's what the notes are referring to when they say... "Eric can't hold on anymore"...
+ ...Die?
+Media:vo bntcop001 1904504 bennett 09.ogg Bennett: Uh... You think
+---
+all_hangout.txt:
+ 1 1904504 bennett 10.ogg Bennett: It says in the notes that Eric "can't hold on anymore." That at least proves that it is possible to "hold on" up to a point.
+Media:vo
+---
+all_hangout.txt:
+ op001 1904511 bennett 05.ogg Bennett: I don't think my body... can... take this anymore...
+Media:vo bntcop001 1904511 bennett 06.ogg Bennett: I'm sorry... I failed you
+---
+all_hangout.txt:
+ a: I can't remember the last time I went swimming. I might not even know how to anymore...
+ That's impossible.
+ It's one of those things that you never forget.
+Media:v
+---
+all_hangout.txt:
+ Fan Club, I could never let Barbara-sama wander here alone.
+ Barbara isn't here anymore, you'd better head back to the city.
+(+1 Point)
+Media:vo bblcop001 1900201 albe
+---
+all_hangout.txt:
+  bblcop001 1900201 albert 17.ogg Albert: Huh? Wait a second, what do you mean, "anymore"? Did you see her here earlier?
+Media:vo bblcop001 1900201 albert 18.ogg Albert
+---
+all_hangout.txt:
+ ualified as an official Knight... Will that mean you won't have time to help us anymore? I for one am going to miss you...
+Media:vo noecop002 1909103 noelle 04.ogg Noe
+---
+all_hangout.txt:
+ ecop002 1909103 noelle 09.ogg Noelle: Yes... Maybe it's because I am not afraid anymore...
+Media:vo noecop002 1909103 noelle 10.ogg Noelle: I've never dared to imagine
+---
+all_npc_text.txt:
+ er times, like stagnant water in a deep pool.
+Aeife: But I don't feel like that anymore.
+Aeife: Lady Furina seemed very cheerful the last time I saw her. She said she 
+---
+all_npc_text.txt:
+ Feedback noted! I'll report it to the higher-ups!
+Aeval: "She"'s not that young anymore, I'm afraid. I've heard that the aquabuses are converted small naval boats from
+---
+all_npc_text.txt:
+ at midnight — in which case, well, every little was a gain. But I won't do that anymore. I only did it then on account of my younger sister's illness, anyway.
+ It's be
+---
+all_npc_text.txt:
+ ead Mushroom" brought happiness to Nara.
+Arachatora: That's why she's not angry anymore and I don't have to wait until the Sunsettias to ripen many times to pick mushr
+---
+all_npc_text.txt:
+ ed by Sumeru's devastation and the bad Nara. While his physical body can't move anymore, Araja's mind remained intact and can manifest a body inside his dream.
+Over th
+---
+all_npc_text.txt:
+ karman: However, after that, Aramuhukunda was just a story, and not in Vanarana anymore.
+Arakarman: Perhaps he went to a place far, far away with Nara Varuna.
+Arakarma
+---
+all_npc_text.txt:
+ karman: However, after that, Aramuhukunda was just a story, and not in Vanarana anymore.
+Arakarman: Perhaps he went to a place far, far away with Nara Varuna.
+Arakarma
+---
+all_npc_text.txt:
+ 
+Arakarman: Because bad Marana appeared in Vana, Aranara were unwilling to hear anymore about Valuka.
+Arakarman: After many sunrises and moonrises, very few Aranara kn
+---
+all_npc_text.txt:
+ karman: However, after that, Aramuhukunda was just a story, and not in Vanarana anymore.
+Arakarman: Perhaps he went to a place far, far away with Nara Varuna.
+Arakarma
+---
+all_npc_text.txt:
+ peared in Vana, and Aranara were not willing to listen to people mention Valuka anymore.
+Arakarman: After many sunrises and moonrises, very few Aranara know that even 
+---
+all_npc_text.txt:
+ xt step is...
+ I'll have some fine goods.
+Aramani: It's not called "fine goods" anymore. Aramani is now selling "specialties."
+Aramani: Goodbye, Nara friend. I hope yo
+---
+all_npc_text.txt:
+  song after obtaining the Zohrah Mushroom.
+Aranakin: Aranakin does not remember anymore, but the plants in the forest that hear this song will remember for sure. Arana
+---
+all_npc_text.txt:
+ 's friend.
+Aranakin: Nara Khayyam... I had forgotten his name. He cannot see us anymore, right...?
+Aranakin: I can't meet him again, but I will use my singing to tell 
+---
+all_npc_text.txt:
+ aPart II: Dream NurseryFestival UtsavaTaste of Happiness
+ Arapacati isn't angry anymore...
+ Vasoma Fruit and Bija...
+(Available during An Unwavering Culinary Dream)
+Ar
+---
+all_npc_text.txt:
+ ut how some very bad people will try to intrude on this festival, it's not nice anymore.
+Arayash: So I am a little unhappy...
+ I will defeat the bad guys.
+Arayash: Gol
+---
+all_npc_text.txt:
+  open sea and the freedom it represents grew inside me until I couldn't take it anymore.
+Atsuko: So... One day when I was gazing out to see, something in me just snapp
+---
+all_npc_text.txt:
+  open sea and the freedom it represents grew inside me until I couldn't take it anymore.
+Atsuko: That's why I eventually just grabbed the nearest vessel I could find a
+---
+all_npc_text.txt:
+ chair. As a result, Avin stopped leaving Sumeru City and couldn't meet Arashani anymore, so those memories became hazy and Avin's mood dropped.
+When Yoimiya travels to
+---
+all_npc_text.txt:
+  god with many followers, right?
+Baharak: So even if King Deshret doesn't exist anymore, there could still be some kin left... Like a dragon or something?
+Baharak: Ugh
+---
+all_npc_text.txt:
+ I'll be studying at the Akademiya and have little time to hang out with Shalmar anymore.
+ About 50 Things Every Traveling Scholar Should Know...
+Banu: You mean the boo
+---
+all_npc_text.txt:
+ * I mean, it's all water under the bridge now, isn't it? Let's not dredge it up anymore, hahaha...
+ Perhaps dueling a Fatui Harbinger might do the trick?
+Bruce: I... w
+---
+all_npc_text.txt:
+ uels don't come knocking too often round these parts. I'm not feeling so sleepy anymore, thanks to you!
+(If the player wins the match)
+Camden: *yawn* Lost, as expected
+---
+all_npc_text.txt:
+ s gone, we won't be able to consult his divine predictions while doing business anymore. For someone like me, this is a disaster, plain as day!
+Captain Wu: Eh, forget 
+---
+all_npc_text.txt:
+ Grandpa says that you shouldn't trouble people like that, so I won't bother you anymore. I'll play by myself.
+Cava: I'm very good at that — even playing by myself can 
+---
+all_npc_text.txt:
+ ed every dish with great care.
+Chan Baatjan: Unfortunately, I do not often cook anymore, but these days am more akin to a very picky wandering gourmand.
+Chan Baatjan: 
+---
+all_npc_text.txt:
+ ot "training."
+Chatillon: Far as I can tell... Fontaine's fleet doesn't need me anymore. Or rather, Fontaine has no intention to ever form another fleet like that.
+Cha
+---
+all_npc_text.txt:
+ imarily do business overseas these days. We don't even have a shop in Mondstadt anymore.
+Clemens: We can't compete with Dawn Winery, but Sailing Breeze has made quite 
+---
+all_npc_text.txt:
+  coming from you!
+Clitopho: Hahahaha! I mean... Well, let's not joke about this anymore. In any case, what I meant to say was that people don't necessarily join the Tr
+---
+all_npc_text.txt:
+ xplains that the people of Mondstadt will not trust the Knights to protect them anymore if they were to know a "mere businessman" was the one who settled the incident.
+---
+all_npc_text.txt:
+ urely than I thought they'd be. Before I knew it, I didn't have that fire in me anymore.
+Dummy: Now I just want to find a girl to marry... Maybe it's the age or maybe 
+---
+all_npc_text.txt:
+  there.
+Edwin Eastinghouse: And now, thanks to Nacker, I don't even have my lab anymore!
+Edwin Eastinghouse: Hmm...How can I get in?
+Edwin's surname, Eastinghouse, may
+---
+all_npc_text.txt:
+ e land.
+Flora: When I think about it like that, the storm doesn't seem so scary anymore, haha.
+ Tell me about your flowers.
+Flora: We carry a large variety of flowers.
+---
+all_npc_text.txt:
+ thority...
+(After completing Turning Point)
+Gongming: Well, this isn't a secret anymore. It must be the talk of the town. by now.
+Gongming: It never rains, but it only
+---
+all_npc_text.txt:
+ efore completing Where the Boat of Consciousness Lies)
+Hamawi: He's not a child anymore. That Jut is even younger, but he has already settled down. He is just fooling 
+---
+all_npc_text.txt:
+  Where the Boat of Consciousness Lies)
+Hamawi: Well, you know, he's not a child anymore. Jut, who's younger than him, has already settled down and has a good job. But 
+---
+all_npc_text.txt:
+ en I bring them back does it finally dawn on me that I can't even lift a hammer anymore...
+Hanfeng, "Cold Blade": Take 'em, if you can use them... If you ever have the
+---
+all_npc_text.txt:
+ a child. I have a daughter now. The adventurer Herman has nothing to do with me anymore!
+Herman: My life doesn't belong to me alone any longer. Even if it's for their 
+---
+all_npc_text.txt:
+ a word! ...Even the ones that are true.
+Herman: Because I'm not the same person anymore. No more starry-eyed "ad astra" adventurer for me; the only thing that catches 
+---
+all_npc_text.txt:
+ hey are in my life, I don't have the right to tempt fate by going on adventures anymore.
+Herman: Huh, have you... never heard of the adventurer Herman before?
+Herman: 
+---
+all_npc_text.txt:
+ venturers like you with snippets of my experience. I don't go out on adventures anymore.
+(Obtain  Adventurer's Experience ×7)
+Herman: My baby girl Ellin is almost old 
+---
+all_npc_text.txt:
+  in."
+Imena: The documents have been very clearly organized. I won't need to do anymore I think.
+ What sorts of documents?
+Imena: Ah, it's some communications between 
+---
+all_npc_text.txt:
+ Child
+ Won't run around again...
+Media:VO Iotham 02.ogg "I won't go running off anymore."
+ I want to travel as well!
+Media:VO Iotham 03.ogg "Ah, I want to go travellin
+---
+all_npc_text.txt:
+  his goals. At one point, Rene briefly pondered if Jakob was not really himself anymore after being integrated with the Abyss, but never continued with that train of t
+---
+all_npc_text.txt:
+  Sumeru Akademiya uniform.
+(After completing Vimana Agama)
+ Can't afford to eat anymore...
+Media:VO Jazari 01.ogg "Oh no... at this rate I won't be able to afford to e
+---
+all_npc_text.txt:
+ ower to do some bad things.
+Jiangxue: I gave up my Vision. I'm not worthy of it anymore, nor do I have any real use for it.
+Jiangxue: No, you misunderstand. I don't fi
+---
+all_npc_text.txt:
+ gzhou: ...No, no, I'm starting to think like a planner again. That's not my job anymore — I should just get off work and go take care of my father.
+Jiangzhou: See you.
+---
+all_npc_text.txt:
+ nds so much of her time searching for Sayu that she barely has any time to read anymore. If you ask me, I'd say that Sayu has a secret ally who is helping her hide all
+---
+all_npc_text.txt:
+ .
+Kid Kujirai: But ever since she got hooked on fishing, she won't play with us anymore. And she even says we'll scare the fish away!
+Kid Kujirai: Then... how many bro
+---
+all_npc_text.txt:
+ necessary expectations of us porters.
+Kosel: Now that we can't hear his nagging anymore... being a porter is a boring profession once again.
+Kosel: Oh, so you're a cus
+---
+all_npc_text.txt:
+ ision, it feels like most of the things in this world don't mean anything to me anymore.
+Kurosawa Kyounosuke: Mm.
+Available after completing To Treat the Well-Meaning 
+---
+all_npc_text.txt:
+  accident in the tavern a few days ago, so the original tableware can't be used anymore.
+Lambad: It turned out to be a blessing in disguise. The tableware we have now 
+---
+all_npc_text.txt:
+ nty 01.ogg "Where do I even start with all the accounting?"
+Lanty: I can't work anymore. What am I going to do...
+(Before completing Fontaine Research Institute, Stagn
+---
+all_npc_text.txt:
+ aveler. Not bad at all.
+Linyang: Still, I can't tell you about the locations of anymore chests or charms today. These are the rules, so please understand...
+Linyang: S
+---
+all_npc_text.txt:
+ aveler. Not bad at all.
+Linyang: Still, I can't tell you about the locations of anymore chests or charms today. These are the rules, so please understand...
+Linyang: S
+---
+all_npc_text.txt:
+ aveler. Not bad at all.
+Linyang: Still, I can't tell you about the locations of anymore chests or charms today. These are the rules, so please understand...
+Linyang: S
+---
+all_npc_text.txt:
+  or else I'll... I'll make ye walk the plank!
+Little Fei: ...I don't wanna play anymore. I'm always your "matey..."
+Little Lulu: So what do you wanna be?
+Little Fei: .
+---
+all_npc_text.txt:
+ ould come back to the village 'cause they wouldn't need to work in Liyue Harbor anymore.
+Little Liu: I told my friends about Visions, and now they all want one too.
+Li
+---
+all_npc_text.txt:
+  or else I'll... I'll make ye walk the plank!
+Little Fei: ...I don't wanna play anymore. I'm always your "matey..."
+Little Lulu: So what do you wanna be?
+Little Fei: .
+---
+all_npc_text.txt:
+  or else I'll... I'll make ye walk the plank!
+Little Fei: ...I don't wanna play anymore. I'm always your "matey..."
+Little Lulu: So what do you wanna be?
+Little Fei: .
+---
+all_npc_text.txt:
+ every time...
+Little Yi: But after I saw Dusky Ming for myself, I wasn't scared anymore. Ghosts aren't that scary!
+Little Yi: Oh, hello there, person whose name I don'
+---
+all_npc_text.txt:
+ Xiao: Sorry that you had to see that. I just... can't hold my homesickness back anymore.
+Li Xiao: I came to Inazuma as a representative of our merchant guild, but I go
+---
+all_npc_text.txt:
+ e!
+Li Xiao: Thank you! I just... couldn't hold my feelings of homesickness back anymore.
+Li Xiao: Before this, I went to Inazuma as a representative of our merchant gu
+---
+all_npc_text.txt:
+ Realm Within)
+Madame Ping: ...The younger generation doesn't appreciate flowers anymore.
+(After completing The Realm Within)
+Madame Ping: Oh? Why, hello child.
+Madame 
+---
+all_npc_text.txt:
+ uldn't understand anyway...
+Manager Xiao: Bah, hopefully not! Don't distract me anymore!
+Manager Xiao: Hmph. Young people nowadays have no work ethic worth mentioning!
+---
+all_npc_text.txt:
+ he income stable?
+Mawyo: If you're a freelancer, you don't care about stability anymore.
+Mawyo: See, I can rest for a long time as soon as I make a pile with an expedi
+---
+all_npc_text.txt:
+ ve abandoned me here and fled back to Sumeru because they just couldn't take it anymore...
+Maymunah: Still, anything is hard when you're first starting. If I just take
+---
+all_npc_text.txt:
+ , that's just a childhood story! Minoo is older now and doesn't believe in that anymore...
+Minoo: From now on, Minoo shall be a courageous adult.
+Following a certain d
+---
+all_npc_text.txt:
+  out for a really long time now...
+Mirai: But I'm not a crybaby or a little kid anymore. I'll wait for him to come back.
+Mirai: The last time my brother wrote back, he
+---
+all_npc_text.txt:
+ nteresting?
+Moce: A very, very long one! Uh, I don't really remember much of it anymore, though. Did I have it yesterday? Or have I had it before...
+Moce: I dreamed th
+---
+all_npc_text.txt:
+ alking about food, let me give this to you. Take it and you won't need to worry anymore.
+(Obtain  Poisson Seafood Soup ×3)
+Muirne: Sure you can. The view here's really
+---
+all_npc_text.txt:
+ lieve.
+Myweiss: Me? Well, I used to be known as Myweiss the Lovebard... but not anymore. Now I go by Myweiss, Grim Reaper of Romance.
+Myweiss: What is love but a lie w
+---
+all_npc_text.txt:
+ show. Nadia started to enjoy spending time with Vlad (not mentioning her penpal anymore), but Vlad mistaken it for Nadia's enjoying the music, upon which he intends to
+---
+all_npc_text.txt:
+ o my daughter.
+Naganohara Ryuunosuke: However, even if I no longer run the shop anymore, I am still very confident in my ability to make fireworks! The fireworks from 
+---
+all_npc_text.txt:
+ o get so upset...
+Paimon: Yeah, you said you don't need to listen to him at all anymore, so there's no need to get so angry. You should be happy now that you have noth
+---
+all_npc_text.txt:
+ e more, but from the looks of things, there's no need to torment myself over it anymore. I should be celebrating!
+Najah: Thank you, I feel much better now...
+Najah: Ah
+---
+all_npc_text.txt:
+ irai Island is my hometown. To think that we have no idea what's going on there anymore...
+Oda Tarou: Farewell! I wish you good fortune in the long journey ahead.
+Avai
+---
+all_npc_text.txt:
+ ave closed down, and the dyes grown in Konda Village don't sell for good prices anymore.
+Ogura Mio: Because of the difficulty in trading with Liyue, its price was driv
+---
+all_npc_text.txt:
+ or Lumine‍), if we opened them all here, I wouldn't even need Paimon as a guide anymore.Paimon: Okay scrap that idea! No more Canned Knowledge, let's save our Mora for
+---
+all_npc_text.txt:
+ sponse for all her readers. Just look at me — I used to be a lost soul, but not anymore, and it's all thanks to her. Oh, that reminds me, I managed to sign up for one 
+---
+all_npc_text.txt:
+ eidou's ship is amazing! If I hadn't promised Ganyu that I wouldn't go on board anymore, I know exactly where I'd set up my own little bed, hee-hee.YoimiyaSomething to
+---
+all_npc_text.txt:
+ 2.ogg Bennett:  With your concern, I already feel like my wounds aren't hurting anymore! Really!
+Media:vo bennett mimitomo friendship1 06.ogg Bennett: Hehe, looks like
+---
+all_npc_text.txt:
+ o. Collei got really upset, because she thought there was nothing for her to do anymore...People say Sethos is good at keeping himself amused — he certainly seems pret
+---
+all_npc_text.txt:
+ o. Collei got really upset, because she thought there was nothing for her to do anymore...People say Sethos is good at keeping himself amused — he certainly seems pret
+---
+all_npc_text.txt:
+ .
+Media:vo faruzan mimitomo night 01.ogg Faruzan: Oh? Can't keep your eyes open anymore?
+Media:vo faruzan mimitomo night 02.ogg Faruzan: That means you've worked hard 
+---
+all_npc_text.txt:
+ bout_the_Vision.ogg After I got my Vision, I didn't need my helmet to go diving anymore. But... I can't bear to be without it. It cuts me off from the noise of the out
+---
+all_npc_text.txt:
+ a mimitomo night 02.ogg Furina: You know what? I'm not going to dwell over them anymore! Let's just get some rest.
+When a character is invited to or invites themselves
+---
+all_npc_text.txt:
+  we don't get so many bandits on the road between Liyue Harbor and Yilong Wharf anymore. She's the one who spearheaded the crackdown on all that. ...You think my job's
+---
+all_npc_text.txt:
+ sponse for all her readers. Just look at me — I used to be a lost soul, but not anymore, and it's all thanks to her. Oh, that reminds me, I managed to sign up for one 
+---
+all_npc_text.txt:
+ eturn. Once they finally had the opportunity to ask her why she would not visit anymore, they received the most absurd of answers."Whiskers and Mittens are adults now 
+---
+all_npc_text.txt:
+  we don't get so many bandits on the road between Liyue Harbor and Yilong Wharf anymore. She's the one who spearheaded the crackdown on all that. ...You think my job's
+---
+all_npc_text.txt:
+ You're not suggesting my bedroom is full of that stuff, surely? I'm not a child anymore! Although... Okay, I did buy a couple of Rex Lapis figurines recently, but — bu
+---
+all_npc_text.txt:
+  could become this powerful... looks [sic] like I won't need to hide behind you anymore.
+TitleDetailsElemental SkillElemental SkillMedia:VO Lynette Elemental Skill 1 0
+---
+all_npc_text.txt:
+ ood thing after coming back from the expedition is that I don't feel so worried anymore. As long as I'm not causing trouble for anyone else, then I don't really mind w
+---
+all_npc_text.txt:
+ ing?
+Media:vo nilou mimitomo friendship1 08.ogg Nilou: Hehe, I won't be nervous anymore once I'm more familiar with this place.
+Media:vo nilou mimitomo friendship2 01.
+---
+all_npc_text.txt:
+ she has not gone to see it in a long time, and even though no one sits under it anymore, she wishes that time might stop forever.Character Story 4 Friendship Lv. 5  • 
+---
+all_npc_text.txt:
+ rstand her habits and preferences. Trying to find her doesn't seem so difficult anymore.For example, if you go to Sayu's room early in the morning and lift the covers,
+---
+all_npc_text.txt:
+ nds so much of her time searching for Sayu that she barely has any time to read anymore. If you ask me, I'd say that Sayu has a secret ally who is helping her hide all
+---
+all_npc_text.txt:
+ o. Collei got really upset, because she thought there was nothing for her to do anymore...People say Sethos is good at keeping himself amused — he certainly seems pret
+---
+all_npc_text.txt:
+ tating beyond a certain point, there is no need to adopt the meditation posture anymore. Adepti can meditate even when standing up... I still have much more to improve
+---
+all_npc_text.txt:
+ as a criminal?Regardless, he reprimanded his friend harshly: "We're not friends anymore!"Fuming, he returned home, sought out each and every item he had been given, an
+---
+all_npc_text.txt:
+ ney to lure in their prey... Hmm, I feel like I'm not just talking about plants anymore.
+About Collei Friendship Lv. 4About Collei Friendship Lv. 4Media:VO_Tighnari Ab
+---
+all_npc_text.txt:
+ o. Collei got really upset, because she thought there was nothing for her to do anymore...People say Sethos is good at keeping himself amused — he certainly seems pret
+---
+all_npc_text.txt:
+ , or that so-called pure world free of all sorrows, none of those things matter anymore...
+But I do not wish that the poison ingested by mistake should remain in this 
+---
+all_npc_text.txt:
+ t the world would be at peace, and neither guardians nor swords would be needed anymore.
+Lithic Blade has been promoted or featured with a drop-rate boost in 7 Event W
+---
+all_npc_text.txt:
+ here are none left who sing of the gentleman thief, nor are such thieves needed anymore.
+Wine and swords, maidens and heroes, a carefree opening and a happy ending, th
+---
+all_npc_text.txt:
+ nds so much of her time searching for Sayu that she barely has any time to read anymore. If you ask me, I'd say that Sayu has a secret ally who is helping her hide all
+---
+all_npc_text.txt:
+ eidou's ship is amazing! If I hadn't promised Ganyu that I wouldn't go on board anymore, I know exactly where I'd set up my own little bed, hee-hee.
+About Shenhe Frien
+---
+all_npc_text.txt:
+ shin-impact.fandom.com/wiki/File:VO_Yaoyao_Fallen_01.ogg I can't look after you anymore...Media:VO Yaoyao Fallen 02.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Y
+---
+all_npc_text.txt:
+ ey prepare it, it always tastes the same. Ugh, ghastly! I really can't stand it anymore...
+Receiving a Gift: IReceiving a Gift: IMedia:VO Yun Jin Receiving a Gift - 01
+---
+all_npc_text.txt:
+ er-back pain, to the point that he can barely even bend down to pick said herbs anymore.
+Media:VO Qilang 01.ogg "*sigh* Such a pain not being able to bend down..."
+Qil
+---
+all_npc_text.txt:
+ aravan Ribat is not bad. At least I won't have to deal with those obscure jokes anymore.)
+Railah: Every result has a reason, and every reason has a consequence.
+(Opens
+---
+all_npc_text.txt:
+ ...
+Rashnu: A human instrument. One that's extremely noisy.
+ I won't bother you anymore.
+After completing The Hymn of Tir Yazad (Part 2)
+Rashnu: *snore*... *snore*... 
+---
+all_npc_text.txt:
+ she expected, I think the present circumstances are better.
+ I won't bother you anymore.
+Rashnu (Avestan: 𐬭𐬀𐬴𐬢𐬏) is the Zoroastrian yazata of "Justice."
+Rastignac live
+---
+all_npc_text.txt:
+ You're not suggesting my bedroom is full of that stuff, surely? I'm not a child anymore! Although... Okay, I did buy a couple of Rex Lapis figurines recently, but — bu
+---
+all_npc_text.txt:
+ as with the Eremites, because I don't have to deal with those stiff researchers anymore.
+Roshana: Ha, it's funny that even the power of alcohol is greater than knowled
+---
+all_npc_text.txt:
+ l!
+Shams: But Kamal's already packed it in and doesn't do this business with me anymore... *burp* He insisted on joining some doggone Adventurers' Guild.
+Shams: The wa
+---
+all_npc_text.txt:
+ ow.
+Media:VO Shapur All Schemes to Know 01.ogg Shapur: (Does my cat not like me anymore?)
+Shapur: Sisi, Sisi! Are you there?
+Shapur: Oh, are you a customer?
+Shapur: Si
+---
+all_npc_text.txt:
+ it, how are you speaking so fluently now? Is it because you're not scared of us anymore?
+Souka: Erm... Uh... Ahem... Umm...
+Souka: Even though I have the utmost respec
+---
+all_npc_text.txt:
+ hat has kept me in the village this entire time. But I can't remember any of it anymore...
+Tejima: Why did I come here? Why did I stay? What should I be doing right no
+---
+all_npc_text.txt:
+  must've experienced something that changed her. Her thoughts aren't on display anymore. It puts my mind at ease.
+Paimon: Paimon doesn't really understand... But Paimo
+---
+all_npc_text.txt:
+ ly." I might have flipped through it a bit too much...
+Tia: But I don't need it anymore, because I'm on a real adventure with Daddy. My experiences will be even more i
+---
+all_npc_text.txt:
+ experiments have failed dismally...
+Timaeus: It's not much use for keeping time anymore, that's for sure...
+Timaeus: But after being sued in so many alchemical experim
+---
+all_npc_text.txt:
+ h. The Withering.
+Tuman: Wait, what? The Withering isn't cropping up everywhere anymore? But I've heard that it's still out there in the forest... you aren't trying to
+---
+all_npc_text.txt:
+ your life.
+Uncle Tian: Just a spot of fishing. I don't make my living off of it anymore, though, so when I catch something, I throw it right back in again.
+Uncle Tian:
+---
+all_npc_text.txt:
+ , I got my own business started up and didn't have to do all the fishin' myself anymore.
+Uncle Tian: But, everyone's out tryna swindle each other, an' before I knew it
+---
+all_npc_text.txt:
+ an: To be honest, I'm not even all that concerned about the value of my catches anymore... On the other hand, you seem quite concerned about that, don't you?
+Uncle Tia
+---
+all_npc_text.txt:
+ show. Nadia started to enjoy spending time with Vlad (not mentioning her penpal anymore), but Vlad mistaken it for Nadia's enjoying the music, upon which he intends to
+---
+all_npc_text.txt:
+ uld give me a sense of peace.
+Xingxi: That dear old lady probably isn't with us anymore, but I've also grown, and I'm no longer as afraid of the dark, haha...
+Xingxi: 
+---
+all_npc_text.txt:
+ * I can't make sense of it...
+ We need to get going.
+Xu: Take care. If you have anymore business to attend to, remember us here at Feiyun Commerce Guild, won't you?
+Xu
+---
+all_npc_text.txt:
+ ruitful.
+Yasmin: But in terms of their everyday lives, they weren't even eating anymore, and their sleep patterns were terribly skewed...
+Yasmin: In their own words...
+---
+all_npc_text.txt:
+ ing home...
+Yi Xian: *sobs* Why won't Mommy come home... Does Mommy not love us anymore?
+Yi Zhu: Hey, don't say such silly things...
+Yi Xian: But, but... I know I saw 
+---
+all_npc_text.txt:
+ ommy is one of the stars in the sky now.
+Yi Xian: You mean Mommy isn't sleeping anymore? ...You're lying, I don't believe you!
+Yi Zhu: I'm telling the truth, Yi Xian..
+---
+all_npc_text.txt:
+ ing home...
+Yi Xian: *sobs* Why won't Mommy come home... Does Mommy not love us anymore?
+Yi Zhu: Hey, don't say such silly things...
+Yi Xian: But, but... I know I saw 
+---
+all_npc_text.txt:
+ ommy is one of the stars in the sky now.
+Yi Xian: You mean Mommy isn't sleeping anymore? ...You're lying, I don't believe you!
+Yi Zhu: I'm telling the truth, Yi Xian..
+---
+all_npc_text.txt:
+ ive their tasks their full attention, wouldn't you say?
+Ylgr: Don't distract me anymore!
+Media:VO Yohanan 01.ogg "I'll have to grab a drink with Flame-Mane when I'm ba
+---
+all_npc_text.txt:
+ aste buds will get numb, and you won't be able to taste how good the dishes are anymore.
+Yukio: So even if most Inazuman snacks go well with alcohol, we don't serve al
+---
+all_npc_text.txt:
+ ayda Harbor is too close to Fontaine, so Fontainian goods aren't quite in vogue anymore.
+Zayah: But Liyue? Now that's a different story.
+Zayah: My mercantile nose is n
+---
+all_npc_text.txt:
+ e shore.
+Zhi: What's more, the older folks in the village can't quite walk well anymore, so I have to help them pick herbs.
+ I'll leave you to it, then.
+Zhi: See you, 
+---
+all_npc_text.txt:
+ g All Schemes to Know 02.ogg Zhuoying: (No one really cares about sea creatures anymore.)
+Zhuoying: What is wine and song... to me!
+Zhuoying: Hahaha, it is indeed, and
+---
+all_npc_text.txt:
+  even counts as a poem.
+Zhuoying: Just like me, I hardly even count as a sailor anymore. I'm just a lush lingering between bottles of liqour [sic].
+Zhuoying: Ah, enoug
+---
+a_purified_misc_content.txt:
+ nge the subject!
+Media:vo yyeq002 8 dvorak 01.ogg Dvorak: Haha, let's not argue anymore, shall we? Itto and Paimon, you both gave incredibly moving performances...
+Med
+---
+a_purified_misc_content.txt:
+  blew up, the kind old lady decided she was not going to rescue me from the sea anymore.
+Guyun Stone Forest
+This is the site where the Geo Archon defeated the sea mons
+---
+a_purified_misc_content.txt:
+ r, milady. Now that the string of pearls is returned to you, you need not worry anymore."
+Fan Jie: "My name's Fan..."
+(Fan Jie pauses, covers his mouth, and turns to l
+---
+a_purified_misc_content.txt:
+ )
+Zhang San: "Ow, ow!"
+Li Si: "Stop hitting us, please! We don't want your Mora anymore!"
+Wang Er'ma: "Now to find that fellow who truly picked her things up to come a
+---
+a_purified_misc_content.txt:
+  enough. But if a penguin lost its thick layer of fat, it wouldn't be a penguin anymore. So, Pers shook his head.
+And as all children know, the frigatebird got a new n
+---

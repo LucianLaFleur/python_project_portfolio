@@ -1,0 +1,737 @@
+ad_hoc_text_data.txt:
+ ld have never produced that kind of result on my own.
+ Jean: Well, I do have to admit, your success is remarkable.
+ Jean: I've been meaning to come see you for some 
+---
+all_furnishings.txt:
+ ry tales about the mischievous Aranara who used to be pranksters and eventually admitted their mistakes. Unfortunately, these fairy tales have inspired more naughty 
+---
+all_furnishings.txt:
+ ry tales about the mischievous Aranara who used to be pranksters and eventually admitted their mistakes. Unfortunately, these fairy tales have inspired more naughty 
+---
+all_furnishings.txt:
+ ry tales about the mischievous Aranara who used to be pranksters and eventually admitted their mistakes. Unfortunately, these fairy tales have inspired more naughty 
+---
+all_hangout.txt:
+ eservation?
+Media:vo yjcop001 1901702 yunjin 12.ogg Yun Jin: Granted, she later admitted that she preferred the version of events given in the opera, with its portra
+---
+all_hangout.txt:
+  guy was a forensic expert who worked in the station named Shiroyama. I have to admit, he wasn't easy to track down.
+Media:vo lyycop001 1906003 owada 19.ogg Owada: T
+---
+all_hangout.txt:
+ e caught.
+Media:vo lyycop001 1906003 uesugi 11.ogg Uesugi: Of course, he didn't admit whether he had been prompted by Kujou Takayuki. He took the responsibility alon
+---
+all_hangout.txt:
+ mless on their own, but when combined... Poof! That's it.
+ Why didn't Shiroyama admit this in his testament? There was no need for him to hide it.
+Media:vo lyycop001
+---
+all_hangout.txt:
+ p001 1905803 kaveh 55.ogg Kaveh: It's just a saying, of course, but even I will admit that my life would be a lot better if I could make additional Mora.
+Media:vo kv
+---
+all_hangout.txt:
+ him.
+Media:vo kvcop001 1907808 adil 02.ogg Adil: That's true, but you've got to admit, his advertisements are really effective... After all, the Akademiya only admit
+---
+all_hangout.txt:
+ admit, his advertisements are really effective... After all, the Akademiya only admits those that can pass its entrance exam, so only a few people could hope to stud
+---
+all_hangout.txt:
+ chant to confirm. But if we were to confront him right now, there's no way he'd admit to anything...
+ We can pretend to be potential customers.
+Media:vo kvcop001 190
+---
+all_hangout.txt:
+ res my style, doesn't it?
+Media:vo jqrcop001 1914408 amano 04.ogg Amano: So you admit it, then? Right, that's it, you're coming with me to the Police Station!
+Media:
+---
+all_hangout.txt:
+ intense...?
+Media:vo noecop001 1906602 belinda 04.ogg Belinda: I—I'm ashamed to admit that... even though we try and get Noelle to take it easy...
+Media:vo noecop001
+---
+all_hangout.txt:
+ gnized it as the latest volume with a single glance...)
+ (Is she embarrassed to admit that she likes books like that?)
+Media:vo frzcop001 1917103 collei 07.ogg Colle
+---
+all_hangout.txt:
+ 05401_beidou_08.ogg Beidou: Well, you tell me! You took my deal, that means you admitted to being their owner, doesn't it? Otherwise, what gives you the right to sel
+---
+all_hangout.txt:
+ gcop001 1913503 ningguang 03.ogg Ningguang: When we were at Mingxing Jewelry, I admitted that my decision to sacrifice the Jade Chamber was a calculated one. I had a
+---
+all_hangout.txt:
+ for the time being?)
+Media:vo lntcop001 1918504 elodie 32.ogg Elodie: I have to admit — I'm not holding out too much hope that Pierre will come back for her... But i
+---
+all_hangout.txt:
+ cop001 1918506 chevreuse 02.ogg Chevreuse: It's an honor to meet you. I have to admit — I'm quite familiar with you both already.
+Media:vo lntcop001 1918506 chevreus
+---
+all_hangout.txt:
+ my abilities from time to time.
+Media:vo kvcop001 1907501 kaveh 10.ogg Kaveh: I admit that I may have spent a little too long questioning myself this time around, bu
+---
+all_hangout.txt:
+ The Shield of The Crux.
+Media:vo bdcop001 1905101 beidou 04.ogg Beidou: I gotta admit though, I like your attitude, kid. Okay, let's get started!
+ It was a little ha
+---
+all_hangout.txt:
+ a:vo tmcop001 1912104 thoma 08.ogg Thoma: On the surface, not a whole lot, I'll admit. But you'll see. Very shortly.
+Media:vo tmcop001 1912104 thoma 09.ogg Thoma: Bu
+---
+all_hangout.txt:
+  noticed you.
+Media:vo kvcop001 1907603 kaveh 03.ogg Kaveh: Alright, alright, I admit I was probably overreacting just now.
+ Well, want to continue the story?
+ I wan
+---
+all_hangout.txt:
+ don't be like that. After all, this is the first time I've seen a Voice. I must admit, I'm most intrigued.
+Media:vo lyycop001 1903605 paimon 05.ogg Paimon: Huh? Voic
+---
+all_hangout.txt:
+ here's been a misunderstanding!
+Media:vo tmcop001 1911301 thoma 07.ogg Thoma: I admit, I may have added a few weird things to that hot pot. But it was just a game!
+M
+---
+all_hangout.txt:
+ e Team, anyway?
+Media:vo bntcop001 1904503 bennett 06.ogg Bennett: ...I hate to admit it, but the truth is... it's gone. It remains in name alone.
+Media:vo bntcop001
+---
+all_hangout.txt:
+ ycop001 1902504 chongyun 07.ogg Chongyun: Since I've been found, I guess I must admit my defeat.
+Media:vo cycop001 1902504 chongyun 08.ogg Chongyun: It's a simple ga
+---
+all_npc_text.txt:
+ l of mine, I've decided to conquer Avidya Forest first!
+Aberdeen: Ahem, what? I admit that I'm a novice, but every novice has to take their first step, right?
+Aberde
+---
+all_npc_text.txt:
+ ord in his office and disappeared without a trace, shortly after Amber had been admitted into the Outriders. After his disappearance, Amber committed herself to cont
+---
+all_npc_text.txt:
+ o's my daddy." Pretty embarrassing, don't you think?(Traveler): Um... I have to admit, I've never thought about it like that...
+Anisa may be the researcher who wrote
+---
+all_npc_text.txt:
+ t know... but it'd be disrespectful to say that we'd beat Miko... If we were to admit defeat, we'd be too soft... How frustrating!
+ There's no point in comparing com
+---
+all_npc_text.txt:
+ t down! Even Paimon... can get embarrassed sometimes!
+Basima: Haha, this I will admit! Now that I look more closely, your floating white companion is every bit as ad
+---
+all_npc_text.txt:
+ him why he needed it, as it was being monopolized by the Shogunate. Chouji then admitted that he was looking for his parents, and seeing this, the Traveler and Paimo
+---
+all_npc_text.txt:
+ t it to anyone else! Ms. Monglane herself approves of my work. Not that she can admit to it in public, but I know...
+Darcy: That's definitely what she actually think
+---
+all_npc_text.txt:
+ t it to anyone else! Ms. Monglane herself approves of my work. Not that she can admit to it in public, but I know...
+Darcy: That's definitely what she actually think
+---
+all_npc_text.txt:
+ truth, he stated that he had just missed a chance for promotion, causing him to admit that he was only interested in the coupons and expressed regret for his attitud
+---
+all_npc_text.txt:
+  an adventurer?
+Dr. Livingstone: I certainly am, though I would be the first to admit that my appearance is more that of a scholar... Nevertheless, my principle occu
+---
+all_npc_text.txt:
+  dragon language sound like? Do dragons sing songs and write essays?
+Ella Musk: Admittedly, I have never seen a dragon other than Dvalin. If only I could find a rese
+---
+all_npc_text.txt:
+ ely the right decision."
+Eunomia: Everything must have proper standards. I must admit that I prefer such work.
+Eunomia: That's right. I'm comparing this to my previo
+---
+all_npc_text.txt:
+ uvillette.
+In her final moments, a more vulnerable side of her is shown, as she admits that she is afraid of dying, stating that she believes this is one thing that 
+---
+all_npc_text.txt:
+ prophecy. Now revealing her true identity, Focalors appeared to Neuvillette and admitted to having Furina take her place as the Hydro Archon for the past 500 years i
+---
+all_npc_text.txt:
+  beautiful homeland, where even time seems to flow more slowly...
+Gregor: I got admitted into the Akademiya a few years ago, so I left Mondstadt and came here.
+Grego
+---
+all_npc_text.txt:
+ ly repented and started anew! I want to support their research careers!
+ I must admit that I'm doubtful myself...
+Grundeland: You... Alright, it is true. An evil-doe
+---
+all_npc_text.txt:
+ , their marriage would have a lot of political influence. In fact, Kujou Kamaji admits that someone might take advantage of their situation. So, to reply to Chisato'
+---
+all_npc_text.txt:
+ ld claim the "treasure", which existed, but modern disciples could not find. He admits that they were honest compared to the others, and their willingness to humor h
+---
+all_npc_text.txt:
+ l from the look in your eyes that I am faced with an expert...
+Hulu: Okay, I'll admit it. We buy from the Dawn Winery and change the labels.
+Hulu: It's not like I wa
+---
+all_npc_text.txt:
+ till on the right track.
+ Still feeling the pressure?
+Iaune: I'm not ashamed to admit that. It just means that I'm "taking every problem too seriously"!
+Iaune: That'
+---
+all_npc_text.txt:
+ thes as evidence for their "demise" to Ogawa. They then confronted Ogawa and he admitted that a vagrant had kidnapped his daughter and threatened to kill her if he d
+---
+all_npc_text.txt:
+  When I mentioned releasing the fish, I should have gotten down on my knees and admitted my terrible mistake...
+Jala: I had no idea the Anglers I released had no nat
+---
+all_npc_text.txt:
+ f Favonius wouldn't have had to mobilize so many people to investigate.
+ You're admitting your guilt and showing remorse quite sincerely!
+ Now I feel bad about resor
+---
+all_npc_text.txt:
+ o there for the same reason. They soon manage to find the person, Baulande, who admits that when he had leaked info to Jenck regarding the criminals. This made him p
+---
+all_npc_text.txt:
+ give him food following a mysterious incident in Jiangxue's past. Jiangxue also admits to the Traveler that he once went to Dihua Marsh to do "bad things," but that 
+---
+all_npc_text.txt:
+ r myself, I can't go against my conscience in this matter.
+Karpillia: I have to admit that Dawn Winery's drinks are better. Even I prefer them.
+Karpillia: Our store 
+---
+all_npc_text.txt:
+ o's my daddy." Pretty embarrassing, don't you think?(Traveler): Um... I have to admit, I've never thought about it like that...
+Khedive (Persian: خدیو Xadêv) is an h
+---
+all_npc_text.txt:
+ n that prevails...
+(If the player wins the match)
+Kurisu: I have lost, and must admit that I'm not good enough...
+Kurisu: I'm Kurisu from Fontaine. My real name is a
+---
+all_npc_text.txt:
+ Princess," playing the part of "Loyal Servant." After the play's conclusion, he admits that there were small incidents along the way and adds that he was worried he 
+---
+all_npc_text.txt:
+  party and the Fatui, was modeled after the power of a God (Archon).
+The entity admits they helped "design a little something" for the Traveler and friends, referenc
+---
+all_npc_text.txt:
+ h my little Princey.
+(Unlocked after completing "A Long Shot")
+Margaret: I must admit that though I'm glad we're all finally safe, I do feel just a bit unsatisfied.
+
+---
+all_npc_text.txt:
+ your way here.
+ Just how are the taverns around here?
+Margaret: I don't like to admit it but the best tavern in the city is Angel's Share.
+Margaret: However, ever si
+---
+all_npc_text.txt:
+ bleware Confrerie, who duped him into a multi-level marketing scheme. Unable to admit the truth as to how he lost the locket, he lied and told her that he lost it wh
+---
+all_npc_text.txt:
+ while guiding a cargo ship, and it almost ran aground.
+Mermet: Okay, fine, I'll admit it's partially my fault, but you can't pin all the blame on me.
+Mermet: The rou
+---
+all_npc_text.txt:
+ okomi defuses the standoff while Sara interrogates Motosuke and Yoshitaka. They admit that they were approached by a group of Fatui members and encouraged them to ca
+---
+all_npc_text.txt:
+ other day, and he took down a half-decent-sized boar with it.
+Mr. Qiang: Now. I admit you might not have his burly physique or martial prowess, and we have to factor
+---
+all_npc_text.txt:
+  (by Arataki Itto)
+Paimon implies she is less than 400 years old.[8]
+Paimon has admitted to having a "hidden stash" of funds in her shoes.[9]
+Paimon has been granted
+---
+all_npc_text.txt:
+ in Guards from a distance.
+Paimon: Though it's kind of maddening, Paimon has to admit that sometimes... being able to attack at range really does have a lot of advan
+---
+all_npc_text.txt:
+ atest of wisdom."Later, Alhaitham applied for the Akademiya and was immediately admitted, scoring high marks in the Haravatat entrance exam. He was informed that his
+---
+all_npc_text.txt:
+ der division.Amber personally experienced this entire episode, having just been admitted to the Outriders before it all began. With the decline of her squad, she exp
+---
+all_npc_text.txt:
+ no, the noisiest oni I've ever encountered. He showed he was enough of a man to admit defeat, but the rematch he insisted upon... Tsk... To this day, I still don't w
+---
+all_npc_text.txt:
+ aki "Burning Passion for Battle" Itto[5]
+Arataki "He Might Lose but He'll Never Admit Defeatto"[7]
+Arataki "Live Long and Prosper" Itto[8]
+Arataki "No Prison Food Fo
+---
+all_npc_text.txt:
+ rataki "The Ultimate TCG Champion" Itto, Arataki "He Might Lose but He'll Never Admit Defeatto"... Anyway, these are some of the ones I usually go by, so go ahead, t
+---
+all_npc_text.txt:
+ om.com/wiki/File:VO_Arataki_Itto_About_Us_-_Response.ogg You know what, I gotta admit — I respect you, always have. I could really see you as a member of the gang, y
+---
+all_npc_text.txt:
+  know what, yeah, she beat me during the Vision Hunt Decree. I'm not ashamed to admit it. When you lose, you admit defeat, and when you screw up, you take it on the 
+---
+all_npc_text.txt:
+  during the Vision Hunt Decree. I'm not ashamed to admit it. When you lose, you admit defeat, and when you screw up, you take it on the chin, like a man! And anyway,
+---
+all_npc_text.txt:
+ a:vo candace mimitomo friendship3 06a 6.ogg Candace: People may find it hard to admit, but lies often soothe the heart more than the truth ever could.
+ About the his
+---
+all_npc_text.txt:
+ rt of yourself... but you can only choose that which best represents you."Never admit defeat." That's me. That's my brand.
+About Us: FittingAbout Us: FittingMedia:VO
+---
+all_npc_text.txt:
+  a master of my craft, my hands will never shake while cutting fabric, but I'll admit, the excitement and anticipation has my heart really beating right now. Thank y
+---
+all_npc_text.txt:
+ , don't you worry about that. Even though the Chioriya brand is all about never admitting defeat, I have no problem with accepting a loss in a game between friends.
+
+---
+all_npc_text.txt:
+  would only ever give a noncommittal smile in response. It's not like she could admit that the only reason she found it all so easy was that she'd been the Game Mast
+---
+all_npc_text.txt:
+ my eyesight! I even bought them medicine, found them doctors... They just won't admit it!"With countless articles containing these claims circulating throughout the 
+---
+all_npc_text.txt:
+ the full range of Genius Invokation TCG merch for him! Not bad, huh? I've gotta admit, it's pretty rare to see anyone from the Akademiya like him... independent and 
+---
+all_npc_text.txt:
+ le understand that an excess of desire will lead to disaster, but people seldom admit that when it comes to the pursuit of knowledge, they're only willing to put it 
+---
+all_npc_text.txt:
+ anting to help her in any way possible, albeit slightly embarrassed to publicly admit it; when Dunyarzad tried to revive the Sabzeruz Festival, Dehya secretly sold h
+---
+all_npc_text.txt:
+ in a good mood, that old ne'er-do-well's shadow slid back into her mind. Though admittedly disgruntled, Dehya did her best to keep the curl of her lips imperceptible
+---
+all_npc_text.txt:
+ eling Troop's Pomp 20 1 20,000
+Media:vo dehya mimitomo hello 01.ogg Dehya: I'll admit it's cozy here, but there's not a whole lot to do... I'm already getting bored.
+---
+all_npc_text.txt:
+ have anticipated the way this battle would end: His father, who had been denied admittance into the Knights and who was shunned by the gods, defeated the monster wit
+---
+all_npc_text.txt:
+ s://genshin-impact.fandom.com/wiki/File:VO_Diona_Receiving_a_Gift_-_02.ogg I'll admit, that was pretty sweet... but that doesn't mean I haven't had sweeter.
+Receivin
+---
+all_npc_text.txt:
+ the full range of Genius Invokation TCG merch for him! Not bad, huh? I've gotta admit, it's pretty rare to see anyone from the Akademiya like him... independent and 
+---
+all_npc_text.txt:
+ tionally. Whenever someone points out something to her that she doesn't want to admit, she either raises her chin or puts her hands on her hips.
+Eula uses the tall f
+---
+all_npc_text.txt:
+ her newly assigned tasks to perfection. The new recruit is invariably forced to admit that with her abilities, it is no wonder she was able to achieve a captaincy wi
+---
+all_npc_text.txt:
+ od is loved by all who try it.The Reconnaissance Company's designated chef once admitted that when developing this item, she was inspired by the captain's own baked 
+---
+all_npc_text.txt:
+  a clear line between professional and personal matters. She saw I was capable, admitted me into the Knights, and gave me lots of opportunities. So, when the time co
+---
+all_npc_text.txt:
+ VO_Furina_About_Navia_-_Desserts.ogg Have you tried Navia's macarons? I have to admit that her skills in dessert-making are comparable to mine. The design she paints
+---
+all_npc_text.txt:
+ hing too similar to last year's Rite..."Needless to say, Ganyu was not about to admit to this being the real reason for her tardiness!Character Story 3 Friendship Lv
+---
+all_npc_text.txt:
+ e Bishui trade route. She even asked me what Rex Lapis would do if it were him. Admittedly, what we came up with was not quite on par with what he would have chosen.
+---
+all_npc_text.txt:
+  of people — they were all talking and laughing, eating, drinking tea... I must admit, I found myself feeling a little envious in that moment.
+About Xianyun Friendsh
+---
+all_npc_text.txt:
+ legedly, she is similarly peculiar when it comes to her taste in food. One must admit, one finds eccentrics like her rather intriguing.XiaoAbout Hu Tao Media:VO_Xiao
+---
+all_npc_text.txt:
+  a clear line between professional and personal matters. She saw I was capable, admitted me into the Knights, and gave me lots of opportunities. So, when the time co
+---
+all_npc_text.txt:
+  In any case... However objectionable she might find me, she would be forced to admit that without me, she would have no one to help execute her weird and wonderful 
+---
+all_npc_text.txt:
+ er of shame for him to this day. A person with little to no standing could just admit to such a thing, but a famous architect cannot. In fact, such undue candor migh
+---
+all_npc_text.txt:
+ hat had come to represent so much pain for her. For her sake, Kaveh would never admit that he was lonely. He assured her that he was all grown up now and could live 
+---
+all_npc_text.txt:
+ ake. For Kaveh quickly realized that Alhaitham, though two years his junior and admittedly both extremely talented and incredibly gifted, was also utterly different 
+---
+all_npc_text.txt:
+ sed, and he was beaten back by reality time and time again, Kaveh was forced to admit that his persistence born of wishful thinking was not always useful. It was onl
+---
+all_npc_text.txt:
+  has realizing your ideals gone for you?"Only reality can force a researcher to admit that they were wrong, but Kaveh did not know what he should consider reality. H
+---
+all_npc_text.txt:
+  to pass the time, heh.Uh... Ahem, what's that look for...? Alright, alright! I admit it! Maybe I do drown my sorrows a little more often that [sic] I was letting on
+---
+all_npc_text.txt:
+  5.ogg Kaveh: I was far more idealistic during my years as a student. I hate to admit it, but... an overly naive person cannot survive in this world.
+Media:vo kaveh 
+---
+all_npc_text.txt:
+ e Bishui trade route. She even asked me what Rex Lapis would do if it were him. Admittedly, what we came up with was not quite on par with what he would have chosen.
+---
+all_npc_text.txt:
+ gonal piece resembling a tokin.
+Fly Like the Wind, Strike Like Lightning
+I must admit, Kujou Sara is an opponent that cannot be taken lightly. Although we have oppos
+---
+all_npc_text.txt:
+  know what, yeah, she beat me during the Vision Hunt Decree. I'm not ashamed to admit it. When you lose, you admit defeat, and when you screw up, you take it on the 
+---
+all_npc_text.txt:
+  during the Vision Hunt Decree. I'm not ashamed to admit it. When you lose, you admit defeat, and when you screw up, you take it on the chin, like a man! And anyway,
+---
+all_npc_text.txt:
+ ujou Sara.ogg Media:VO KO_Sangonomiya Kokomi About Kujou Sara.ogg Mmm... I must admit, Kujou Sara is an opponent that cannot be taken lightly. She seldom employs cun
+---
+all_npc_text.txt:
+ no, the noisiest oni I've ever encountered. He showed he was enough of a man to admit defeat, but the rematch he insisted upon... Tsk... To this day, I still don't w
+---
+all_npc_text.txt:
+ n, with the passing of half a year, the Herbad went to find Layla once more. He admitted then that after consulting more researchers, he had discovered a point of no
+---
+all_npc_text.txt:
+  and sometimes acts flirtatious, referring to them as "cutie" or "darling," and admitting that they're special to her.[3]
+She loves tea and thinks that afternoon tea
+---
+all_npc_text.txt:
+  attention away before getting the official out of his predicament.The official admitted that he had not had high hopes when pressing the device. Magicians were untr
+---
+all_npc_text.txt:
+ :VO JA_Wriothesley About Lyney.ogg Media:VO KO_Wriothesley About Lyney.ogg I'll admit that when I removed the House of the Hearth's spies in the underworld, that was
+---
+all_npc_text.txt:
+ emeanour when she speaks to others, and treats everyone as equals. However, she admits that her social skills and understanding of human interaction needs work, and 
+---
+all_npc_text.txt:
+ KO_Furina About Navia - Desserts.ogg Have you tried Navia's macarons? I have to admit that her skills in dessert-making are comparable to mine. The design she paints
+---
+all_npc_text.txt:
+ ould exterminate them. Upon learning the full extent of Focalors' deception, he admitted that she was devious and was both saddened and shocked by her self-sacrifice
+---
+all_npc_text.txt:
+ 's native life, too, and a form of life that requires your care."He would never admit that he himself had become quite fascinated with the joys and sorrows of humani
+---
+all_npc_text.txt:
+  of people — they were all talking and laughing, eating, drinking tea... I must admit, I found myself feeling a little envious in that moment.Hu TaoAbout Ningguang M
+---
+all_npc_text.txt:
+ business with great adroitness, and is meticulous in her speech. Hmph, one must admit that Liyue is thriving under the governance of the Qixing. One has been observi
+---
+all_npc_text.txt:
+ atness..."The young of today shall outperform us tomorrow," as they say. I must admit, she has my respect.YaoyaoInteresting Things Media:VO_Yaoyao Interesting Things
+---
+all_npc_text.txt:
+ s a relief to see how shrewd and resourceful she's now become. Still, I have to admit that I was a little upset to become the target of her scheming myself. I know i
+---
+all_npc_text.txt:
+ t.fandom.com/wiki/File:VO_Sangonomiya_Kokomi_About_Kujou_Sara.ogg Mmm... I must admit, Kujou Sara is an opponent that cannot be taken lightly. She seldom employs cun
+---
+all_npc_text.txt:
+ ta person to you?
+Media:vo sethos mimitomo friendship2 14.ogg Sethos: But, I'll admit, we were thinking along the same lines.
+Media:vo sethos mimitomo friendship2 15
+---
+all_npc_text.txt:
+ ship2 07.ogg Shenhe: Well, whenever my master brought you up as the topic, I'll admit I felt quite... amused.
+Media:vo shenhe mimitomo friendship2 08.ogg Shenhe: Yes
+---
+all_npc_text.txt:
+ uld have a conversation like proper adults.Unexpectedly, his friend immediately admitted to having deceived him, and even confessed that all the gifts he had given H
+---
+all_npc_text.txt:
+ any particularly wild and violent newcomers must receive a "warning" upon being admitted. After all, they had to be made aware that the community would brook no affr
+---
+all_npc_text.txt:
+ genshin-impact.fandom.com/wiki/File:VO_Sucrose_Receiving_a_Gift_-_02.ogg I must admit, this tastes a lot better than my healthy meals. Time for me to make some modif
+---
+all_npc_text.txt:
+ hin-impact.fandom.com/wiki/File:VO_Tartaglia_Receiving_a_Gift_-_03.ogg Um, I'll admit the taste surprises me a little. Hmm? Okay... I'll try one more bite.
+BirthdayB
+---
+all_npc_text.txt:
+ e viewed them as interchangeable.As for the latter, though Tighnari is loath to admit it, it probably had something to do with what his father said then as he tousle
+---
+all_npc_text.txt:
+  this gradual observation, collection, and consideration that he was eventually admitted into Amurta early, beginning his official learning journey under the Sage th
+---
+all_npc_text.txt:
+  of beetles in the desert... I have no intention of joining him. I'm ashamed to admit that I don't tolerate the sun very well. Prolonged exposure turns my brain and 
+---
+all_npc_text.txt:
+ ding the Traveler's ability to discern what he's thinking as discomforting, but admits that he appreciates having a true friend, similar to how he views the Bard.
+Ve
+---
+all_npc_text.txt:
+  had been discovered.
+"Well, you're a terrible liar, for one. You've as much as admitted to being an outsider now, haven't you?"
+"...And my dear lady, your clothes l
+---
+all_npc_text.txt:
+  had been discovered.
+"Well, you're a terrible liar, for one. You've as much as admitted to being an outsider now, haven't you?"
+"...And my dear lady, your clothes l
+---
+all_npc_text.txt:
+ oshi's only legitimate heir, Michihiro, abandoned him and disappeared,
+His self-admitted stupidity and loyalty led him to cherish the Mikoshi name all the more.
+He s
+---
+all_npc_text.txt:
+ https://genshin-impact.fandom.com/wiki/File:VO_Wriothesley_About_Lyney.ogg I'll admit that when I removed the House of the Hearth's spies in the underworld, that was
+---
+all_npc_text.txt:
+ n't see a problem with sharing them. After all, why should anybody be afraid to admit what they want?
+Wriothesley's HobbiesWriothesley's HobbiesMedia:VO_Wriothesley 
+---
+all_npc_text.txt:
+ shin-impact.fandom.com/wiki/File:VO_Xiangling_Receiving_a_Gift_-_02.ogg I gotta admit, you're really good at cooking. Next time, it's my turn to show you a thing or 
+---
+all_npc_text.txt:
+ ts and rivals in their research in the subject, though Cloud Retainer privately admitted to herself that Guizhong had superior talent.
+In the past, Cloud Retainer pr
+---
+all_npc_text.txt:
+ legedly, she is similarly peculiar when it comes to her taste in food. One must admit, one finds eccentrics like her rather intriguing.
+About Xiangling Friendship Lv
+---
+all_npc_text.txt:
+ business with great adroitness, and is meticulous in her speech. Hmph, one must admit that Liyue is thriving under the governance of the Qixing. One has been observi
+---
+all_npc_text.txt:
+  In any case... However objectionable she might find me, she would be forced to admit that without me, she would have no one to help execute her weird and wonderful 
+---
+all_npc_text.txt:
+ s a relief to see how shrewd and resourceful she's now become. Still, I have to admit that I was a little upset to become the target of her scheming myself. I know i
+---
+all_npc_text.txt:
+ atness..."The young of today shall outperform us tomorrow," as they say. I must admit, she has my respect.
+About Ganyu Friendship Lv. 4About Ganyu Friendship Lv. 4Me
+---
+all_npc_text.txt:
+ ei_Receiving_a_Gift_-_02.ogg There's a saying in Liyue: "Food is life." I gotta admit, the supporting evidence is pretty compelling.
+Receiving a Gift: IIIReceiving a
+---
+all_npc_text.txt:
+  of people — they were all talking and laughing, eating, drinking tea... I must admit, I found myself feeling a little envious in that moment.KeqingAbout Yelan Media
+---
+all_npc_text.txt:
+ hroom.
+Ranjit: Are you ready?
+ Tell me the tale of Kuntur...
+Ranjit: I've gotta admit that my friend only told me the back half. I wonder, what did his father do to 
+---
+all_npc_text.txt:
+ uld you like to chat instead?
+ Tell me the tale of Kuntur...
+Ranjit: I've gotta admit that my friend only told me the back half. I wonder, what did his father do to 
+---
+all_npc_text.txt:
+ e Bishui trade route. She even asked me what Rex Lapis would do if it were him. Admittedly, what we came up with was not quite on par with what he would have chosen.
+---
+all_npc_text.txt:
+ legedly, she is similarly peculiar when it comes to her taste in food. One must admit, one finds eccentrics like her rather intriguing.XiaoAs Morax:More About Xiao: 
+---
+all_npc_text.txt:
+ nd I'm carrying out an academic study on the rainforest.
+Rudaba: I'm ashamed to admit it, but I haven't been able to hire a suitable bodyguard due to financial diffi
+---
+all_npc_text.txt:
+ activities.[2] He also scouts suspected areas to confirm Sango's deductions. He admits that his specialty lies in running errands and not stealth.[3]
+He once rescued
+---
+all_npc_text.txt:
+ 
+Sanad: That's not true at all! My schedule has become ever crazier since I got admitted... I've been experiencing hair loss lately. I'm just in a constant state of 
+---
+all_npc_text.txt:
+  What's it supposed to be?
+Sasaki: And there's a ton of people here too. I must admit that it's got me a little muddle-headed.
+Sasaki: Still, it's good to see our pa
+---
+all_npc_text.txt:
+  my senior.
+Sasani: But it is a pity that Mr. Kaveh graduated before I was even admitted.
+Sasani: So, I didn't have the honour to even speak with him in person, and 
+---
+all_npc_text.txt:
+ of the Fatui, stating that they are ruffians who openly flaunt their power, but admits that they are favorable business partners.
+He has brown hair and wears glasses
+---
+all_npc_text.txt:
+ ther members are arrested and escorted away by the Matra, with Siraj dejectedly admitting defeat.
+Story QuestsVultur Volans Chapter (Alhaitham)Act I: The Illusions o
+---
+all_npc_text.txt:
+ do: It appears you enjoy interacting with small animals, Sister Rosaria. I must admit, I find that a bit surprising...
+Media:vo mkeq003b 1 paimon 10.ogg Paimon: Paim
+---
+all_npc_text.txt:
+ okomi defuses the standoff while Sara interrogates Yoshitaka and Motosuke. They admit that they were approached by a group of Fatui members and encouraged them to ca
+---
+all_npc_text.txt:
+ ut of his hometown and accused of being a "monster" and a "madman" after he was admitted into Sumeru Akademiya. His Darshan is not mentioned, apart from explicitly e
+---
+all_npc_text.txt:
+ brother are Treasure Hoarders.
+Following this, Tyler's demeanor turns brash and admits that he's a Treasure Hoarder, but tries to get rid of Mona so no one will ever
+---
+all_npc_text.txt:
+  Vile 01.ogg "Woah, that doesn't sound very good..."
+Vile: Still she refuses to admit it, despite being confronted with all the evidence...
+Vile: Oh, it's you travel
+---
+all_npc_text.txt:
+ looking for family.
+Vile: While I know most anything about Mondstadt, I have to admit that this is one thing I'm not apprised of...
+Vile: There's just been no time —
+---
+all_npc_text.txt:
+ other day, and he took down a half-decent-sized boar with it.
+Mr. Qiang: Now. I admit you might not have his burly physique or martial prowess, and we have to factor
+---
+all_npc_text.txt:
+ arn of his origins. Giving him items from both Mondstadt and Liyue, Werner soon admitted he was wrong and exposed Keijirou's misdeeds to them. While not known, it is
+---
+a_purified_misc_content.txt:
+ at is!I, too, have grown old, and I do not know how long I have left. So yes, I admit that I really do miss you, just a little. Not that I would actually go over to 
+---
+a_purified_misc_content.txt:
+ efeating Haishan.
+Media:vo beidou saferoom others 02.ogg Beidou: I'm ashamed to admit it, but I went into that fight with a huge ego. I thought I'd seen it all and w
+---
+a_purified_misc_content.txt:
+ hank you so much!
+Puppy Union Admission Details[]
+Available post-quest:
+...Pets admitted for care today...
+Weasel Thief No. 11: Dalang, 6 y/o.
+...Pets admitted for c
+---
+a_purified_misc_content.txt:
+ 
+...Pets admitted for care today...
+Weasel Thief No. 11: Dalang, 6 y/o.
+...Pets admitted for care today...
+Weasel Thief No. 12: Chouji, 8 y/o.
+...Pets admitted for c
+---
+a_purified_misc_content.txt:
+ 
+...Pets admitted for care today...
+Weasel Thief No. 12: Chouji, 8 y/o.
+...Pets admitted for care today...
+Unagi No. 8: Cocquerel, 35 y/o.
+...Pets admitted for care 
+---
+a_purified_misc_content.txt:
+ y/o.
+...Pets admitted for care today...
+Unagi No. 8: Cocquerel, 35 y/o.
+...Pets admitted for care today...
+General Crab No. 3: Koharu, 25 y/o.
+...Pets admitted for c
+---
+a_purified_misc_content.txt:
+ 
+...Pets admitted for care today...
+General Crab No. 3: Koharu, 25 y/o.
+...Pets admitted for care today...
+Bake-Danuki No. 5: Kusumi, 60 y/o.
+...Pets admitted for ca
+---
+a_purified_misc_content.txt:
+ .
+...Pets admitted for care today...
+Bake-Danuki No. 5: Kusumi, 60 y/o.
+...Pets admitted for care today...
+Unagi No. 9: Dvorak, 40 y/o.
+Last month, all pets were suc
+---
+a_purified_misc_content.txt:
+ er ceases to amaze.
+Media:vo yyeq001 1 dvorak 12.ogg Dvorak: Ahem, well... I'll admit, I heard a few exaggerations there myself, but regardless, Itto has helped me s
+---
+a_purified_misc_content.txt:
+ fter her grandfather's death while her Character Story 3 only says that she was admitted to the Outriders before her grandfather's death without specifying if being 
+---
+a_purified_misc_content.txt:
+ ted to the Outriders before her grandfather's death without specifying if being admitted to the Outriders means officially becoming an Outrider or if it can also mea
+---
+a_purified_misc_content.txt:
+ he Outriders means officially becoming an Outrider or if it can also mean being admitted as a trainee.
+↑ Crepus' death occurs 3 years before the manga's events while
+---
+a_purified_misc_content.txt:
+ bard. Together, they liberated and revitalized the city of Mondstadt.
+I have to admit, Mondstadt indeed is a free and open city; this fact is evident in its culture 
+---
+a_purified_misc_content.txt:
+  my own eyes, like a red flash tearing through the sky, I have no choice but to admit that Barbatos blessed his people with freedom, courage, vitality and fierce wil
+---
+a_purified_misc_content.txt:
+ nd after 1600 years of fighting after negotiating a truce. The Tanuki refuse to admit a loss in the war but cede the "giant Thunder Sakura" (likely the Sacred Sakura
+---
+a_purified_misc_content.txt:
+ nough to captivate the best poets in my birthplace (despite such praise, I must admit the acrid smells coming from the elderly hilichurls were just as melancholic, a
+---
+a_purified_misc_content.txt:
+ ck and bull stories they concoct "true accounts." So I will freely and honestly admit that everything I write is completely, utterly fabricated. After all, since I'v
+---
+a_purified_misc_content.txt:
+ hat everything I write is completely, utterly fabricated. After all, since I've admitted it up front like this, nobody can call me a fraud. Anyway, the events I shal
+---
+a_purified_misc_content.txt:
+ o hold peace talks. The tanuki are a stubborn bunch and to this day still don't admit defeat, but the fact remains that they ceded the giant Thunder Sakura to the ki
+---
+a_purified_misc_content.txt:
+ o hold peace talks. The tanuki are a stubborn bunch and to this day still don't admit defeat, but the fact remains that they ceded the giant Thunder Sakura to the ki
+---
+a_purified_misc_content.txt:
+ ere was no such thing as a shadow without a source.
+But just as he was about to admit defeat, the one who captures dreams found him. Their encounter happened within 
+---
+a_purified_misc_content.txt:
+ work Guardsman. "Come, young guard, come, child. All must be tested, but do not admit defeat easily, my strong child..."
+"My maggots will not eat you, my moss will n
+---
+a_purified_misc_content.txt:
+ ot grow on you. Whether your enemy is time or guilt, sadness or ennui... Do not admit defeat easily, my child."
+And with that, Ms. Toad took the guard's metal hand a
+---
+a_purified_misc_content.txt:
+ to present the image of "pouring out like a radiant cloud of smoke." It must be admitted that his opinion has literary merit, but it will not be adopted academically
+---

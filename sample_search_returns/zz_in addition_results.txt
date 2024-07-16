@@ -1,0 +1,296 @@
+all_furnishings.txt:
+ ing it to let in varying amounts of sunlight during different times of the day. In addition, the cloth prevents the moisture inevitable in coastal areas from getting to th
+---
+all_furnishings.txt:
+ isitely crafted metal bell whose tolling announces the time to the entire town. In addition, a weathervane that shows the direction and strength of the wind is installed o
+---
+all_furnishings.txt:
+  and take into account the mercenaries' various body types and fighting styles. In addition, each weapon specializes in tackling a different target: the spear and halberd 
+---
+all_furnishings.txt:
+ are master in Inazuma City, with excellent workmanship. When one considers this in addition to the mere 300 available at first launch, and the limit on purchases to one pe
+---
+all_furnishings.txt:
+ also very tall, and scholars often require a ladder to reach the topmost shelf. In addition, all parts of the shelf must endure heavy loads. As a result, these shelves hav
+---
+all_furnishings.txt:
+ ff of various attractions use them to store tools or their personal belongings. In addition, their popularity with guests has led to their inclusion on the list of potenti
+---
+all_furnishings.txt:
+ s most luminous and can guide ships through the waters when visibility is poor. In addition to its functions of aiding marine navigation and surveilling the seas, its inte
+---
+all_furnishings.txt:
+ e primarily as decorations, enhancing the aesthetic appeal of the surroundings. In addition to the potted displays, the flowers are also planted among roadside bushes, ser
+---
+all_furnishings.txt:
+ unique roofing design that can even deflect the force of falling mountain rocks.In addition to those who live in the shadow of such mountains, some merchant guilds will al
+---
+all_hangout.txt:
+ 1918504 elodie 22.ogg Elodie: ...The Marechaussee Phantom found him in Poisson. In addition to the cat, he also had a pendant with him.
+Missing quest item picture
+Media:vo
+---
+all_hangout.txt:
+ : ...Looks like he's got more than just Imitation Sinthe stashed around here... In addition to the raw materials needed to synthesize the substance itself, there's a large
+---
+all_hangout.txt:
+ s a clear and inviting fragrance.
+Media:vo kycop001 1909707 kaeya 06.ogg Kaeya: In addition to the Apple Cider, the winery has an extensive collection of reserve wines and
+---
+all_hangout.txt:
+  flavor of the Dandelion Wine.
+Media:vo dancop001 1910703 connor 06.ogg Connor: In addition, the Fish Scales that were broken up during the stirring process have lost all 
+---
+all_hangout.txt:
+ ou probably know, Captain Kaeya, we've been trying to organize an amateur choir in addition to the regular church choir.
+Media:vo kycop001 1909402 kaeya 12.ogg Kaeya: Ah y
+---
+all_npc_text.txt:
+ as both "elf"[38] and "spirit."[39] For Paimon, it was translated as "elf."[40] In addition, it is used as a part of the Chinese name for the Oceanids (纯水精灵 chúnshuǐ-jīngl
+---
+all_npc_text.txt:
+ n that the residents of Liyue are just boring old ordinary humans, like us."[2] In addition to that, it is implied he believed the Liyue people ate stones as well, with Ta
+---
+all_npc_text.txt:
+ x Lapis left us, the question of Liyue's future has been on my mind constantly. In addition to reviewing his own past deeds, I've been researching the other archons' modes
+---
+all_npc_text.txt:
+  he wanted to be a guardian of the nation even after his mortal life ended.[15] In addition, Ieyasu's slogan "Abhor the Impure Land, Aspire to the Pure Land" is alleged to
+---
+all_npc_text.txt:
+ the responsibilities of the investigation team as I understand them...
+Ematol: "In addition to basic military intelligence reports, we also investigate, collect, and analy
+---
+all_npc_text.txt:
+ troduction to some of my responsibilities in the investigation team...
+Ematol: "In addition to basic military intelligence reports, we also investigate, collect, and analy
+---
+all_npc_text.txt:
+  the Chief Editor of The Steambird. She shoulders a great many responsibilities in addition to her work at the agency — she posts commissions for local residents' everyday
+---
+all_npc_text.txt:
+ the very waters of Fontaine became filled with pain and hatred.[8] This change, in addition to their discovery of what remained of their former god at the Harvisptokhm,[9]
+---
+all_npc_text.txt:
+ y could not resist the temptation of treasure hunting... *cough*
+Furuya Noboru: In addition, I haven't heard much good about the Mikage Furnace of Tatarasuna at Kannazuka.
+---
+all_npc_text.txt:
+ y could not resist the temptation of treasure hunting... *cough*
+Furuya Noboru: In addition, I haven't heard much good about the Mikage Furnace of Tatarasuna at Kannazuka.
+---
+all_npc_text.txt:
+ from thousands years ago with Apep's creatures and saves Apep from illness.[59]
+In addition to successfully removing the pollution from Irminsul, the removal of Greater Lo
+---
+all_npc_text.txt:
+ ssociated with the color purple, which appears as an accent in Iansan's design.
+In addition to presiding over death and rebirth, Ọya also is said to rule over the realm of
+---
+all_npc_text.txt:
+ omplete on his own. There is no doubt, then, that he will lead a well-off life. In addition, his interpersonal relationships have also improved, as he has more or less bef
+---
+all_npc_text.txt:
+  desires can take a bite, and this counts as having had breakfast with everyone.In addition, the doors of the Pharmacy are always lined with fresh supplies when it opens i
+---
+all_npc_text.txt:
+ with sharp eyes cannot avoid noticing the books Baizhu reads in his spare time. In addition to medical treatises are ancient tomes which record the ways in which the adept
+---
+all_npc_text.txt:
+  are ancient tomes which record the ways in which the adepti may be sought out. In addition, the medicine chests at Bubu Pharmacy contain a multitude of rare herbs and ing
+---
+all_npc_text.txt:
+ n Barbara's wish art. However, the lowest note is likely missing a ledger line. In addition, the highest note (C-flat, the enharmonic equivalent of B) does not appear in a
+---
+all_npc_text.txt:
+ pecial correspondent" — someone who would conduct interviews and write articles in addition to taking photographs....However, her father, despite his usual mild temperamen
+---
+all_npc_text.txt:
+ olleagues often came by in plainclothes, bringing all kinds of gifts with them. In addition to their presents, they brought news as well. They told her mother of the appea
+---
+all_npc_text.txt:
+ me color, and white gloves with light pink paw-like patterns on the undersides. In addition to this, she wears a cat collar with her initial written on the tag and an oran
+---
+all_npc_text.txt:
+ the hat decorated with metal flourishes giving the hat a crown-like appearance, in addition to including her emblem on the top surface. Multiple other fabric ornaments dec
+---
+all_npc_text.txt:
+ of Favonius are the protectors of Mondstadt, the swords and shields of the city.In addition to keeping the city and the surrounding travel routes safe from the threat of w
+---
+all_npc_text.txt:
+ feathers resembles the ones on the dangling backs of her detached long sleeves. In addition, she wears a golden hairpin, a pair of drop earrings, a tasseled choker, and da
+---
+all_npc_text.txt:
+ t the Chasm, rammed earth at the south wharf, and waited tables at small diners.In addition to working, she also once took the opportunity to gather evidence with which to
+---
+all_npc_text.txt:
+ nshin-impact.fandom.com/wiki/File:VO_Keqing_Something_to_Share_-_Initiative.ogg In addition to my work with the Liyue Qixing, I do a lot of work for the public, too. Mostl
+---
+all_npc_text.txt:
+ x Lapis left us, the question of Liyue's future has been on my mind constantly. In addition to reviewing his own past deeds, I've been researching the other archons' modes
+---
+all_npc_text.txt:
+ ponytail with a thick dark reddish rope and a dark hairpiece with gold accents. In addition to this, Shinobu has messy bangs and wears a strapless dark gray mask that cove
+---
+all_npc_text.txt:
+ accents and trinkets and thicker red ropes, most notably around her chest area. In addition to this, Shinobu wears a single samurai plate over her left shoulder, where her
+---
+all_npc_text.txt:
+ ng knight — in an electrifying way...
+The librarian of the Knights of Favonius. In addition to her elegance and charm, Lisa is also highly educated.She is said to have bee
+---
+all_npc_text.txt:
+ identify key locations. Sometimes, we also have to deal with enemy sentries, so in addition to being able to map out the terrain, I also have to stay combat ready, know fi
+---
+all_npc_text.txt:
+  a finger on how people view the real him — or that is to say, the Hydro Dragon.In addition to commanding the power of Hydro, the Hydro Dragon also had mastery over the se
+---
+all_npc_text.txt:
+ rms of traditional Iranic dances.
+Her dance in The Morn a Thousand Roses Brings in addition to the dance moves featured in her Elemental Skill and Elemental Burst appear t
+---
+all_npc_text.txt:
+ e maedate (front crest) of a kabuto helmet. He wears a Pyro Vision on his belt, in addition to a kusazuri (tassel) adorned with flaming Kamisato Clan crests on the other h
+---
+all_npc_text.txt:
+ hance, Thoma will pick up a broom or duster and sweep away any unsightly stains.In addition, he also takes special care of the daily lives of his colleagues around him.The
+---
+all_npc_text.txt:
+ llion to liberate Decarabian's Mondstadt from Decarabian's rule 2600 years ago. In addition to using this form as an ordinary Mondstadter, he also uses it when appearing a
+---
+all_npc_text.txt:
+ ged Attack hits an opponent. This effect can be triggered up to once every 14s. In addition, when the equipping character has a Bond of Life, they gain a 12% DMG Bonus; if
+---
+all_npc_text.txt:
+ ged Attack hits an opponent. This effect can be triggered up to once every 14s. In addition, when the equipping character has a Bond of Life, they gain a 16% DMG Bonus; if
+---
+all_npc_text.txt:
+ ged Attack hits an opponent. This effect can be triggered up to once every 14s. In addition, when the equipping character has a Bond of Life, they gain a 20% DMG Bonus; if
+---
+all_npc_text.txt:
+ ged Attack hits an opponent. This effect can be triggered up to once every 14s. In addition, when the equipping character has a Bond of Life, they gain a 24% DMG Bonus; if
+---
+all_npc_text.txt:
+ ged Attack hits an opponent. This effect can be triggered up to once every 14s. In addition, when the equipping character has a Bond of Life, they gain a 28% DMG Bonus; if
+---
+all_npc_text.txt:
+  character is not on the field. Each stack's duration is counted independently. In addition, when 3 stacks are active, Elemental Burst CRIT Rate will be increased by 28%. 
+---
+all_npc_text.txt:
+  character is not on the field. Each stack's duration is counted independently. In addition, when 3 stacks are active, Elemental Burst CRIT Rate will be increased by 35%. 
+---
+all_npc_text.txt:
+  character is not on the field. Each stack's duration is counted independently. In addition, when 3 stacks are active, Elemental Burst CRIT Rate will be increased by 42%. 
+---
+all_npc_text.txt:
+  character is not on the field. Each stack's duration is counted independently. In addition, when 3 stacks are active, Elemental Burst CRIT Rate will be increased by 49%. 
+---
+all_npc_text.txt:
+  character is not on the field. Each stack's duration is counted independently. In addition, when 3 stacks are active, Elemental Burst CRIT Rate will be increased by 56%. 
+---
+all_npc_text.txt:
+ ar."
+This version of the Magic Guide generated much controversy when published.
+In addition to the defiance of basic common sense seen in Chapter VII: Principles of the An
+---
+all_npc_text.txt:
+ do uses this blade in cutscenes throughout the Shadows Amidst Snowstorms event. In addition to matching his color scheme, the sword's description could be interpreted as a
+---
+all_npc_text.txt:
+ als, It could keep the flight trajectory of arrows as straight as light itself.
+In addition to planning and construction, it also often came in handy for exploration and e
+---
+all_npc_text.txt:
+ se of its resemblance to a katana, befitting his status as a wandering samurai. In addition, Kazuha does enjoy eating fish.
+The Chinese version of the weapon's description
+---
+all_npc_text.txt:
+ aling a pair of cream colored antlers[3] as a result of her xiezhi[4] heritage. In addition to this, the sides of her chest, ankles, and the backs of her hands have white 
+---
+all_npc_text.txt:
+ hokers and necklaces around her neck from which a charm resembling a die hangs. In addition to this, Yelan keeps a furred white coat hanging from the back of her outfit so
+---
+all_npc_text.txt:
+ ple an unparalleled experience with her ever-changing and spectacular fireworks.In addition to being a craftsperson, she is also the "heroic sister" in the eyes of many ch
+---
+all_npc_text.txt:
+ uire time to be crafted, so please make a reservation if you need them.
+Qiuwei: In addition, you can also buy some of the raw materials directly from us.
+Qiuwei: Very good
+---
+all_npc_text.txt:
+ true and exaggerated, often depicting him as an all-conquering, powerful deity.
+In addition to forming the geography of the region he governs, Rex Lapis defended Liyue in 
+---
+all_npc_text.txt:
+ x Lapis left us, the question of Liyue's future has been on my mind constantly. In addition to reviewing his own past deeds, I've been researching the other archons' modes
+---
+all_npc_text.txt:
+ explorer Roald Amundsen, who famously became the first to reach the South Pole, in addition to navigating the Northwest Passage.
+↑ Book: Diary of Roald the Adventurer, Vol
+---
+all_npc_text.txt:
+ ly responsible for Sumeru's defenses. Most tasks are assigned by the Akademiya, in addition to those from civilians.
+Rukh Shah: Unlike other Eremites, its members wear a g
+---
+all_npc_text.txt:
+ right and manager. I run the Zubayr Theater in this tree hollow.
+Sheikh Zubayr: In addition, I also do some composing, choreography, stage design, and action direction.
+Sh
+---
+all_npc_text.txt:
+ st trying to make a living. There's all levels of skill among us.
+Sido: Anyway, in addition to tactical considerations when dealing with monsters, there're lots of other t
+---
+all_npc_text.txt:
+ ayama Kaoru's Flowery Plan.
+On the seventh chest opened:
+ Diagram: Hamayumi ×1 (in addition to the regular possible rewards)
+This will also unlock the Wonders of the World
+---
+all_npc_text.txt:
+  "eagles." Thus the bird yīng in this case probably refers to the Accipitridae.
+In addition, her signature sword Fēngyīng-jiàn (Chinese: 风鹰剑 "Wind Yīng Sword") is translat
+---
+all_npc_text.txt:
+ hat's why guests have all the time they need to do whatever they'd like.
+Wolfy: In addition, feel free to try out any of the furnishings you'd like! Whether changing the m
+---
+all_npc_text.txt:
+ ment to complete.
+Woliu: Sometimes, I even use consumable devices from Fontaine in addition to my equipment from Liyue.
+Woliu: If you carefully calculate the costs, this w
+---
+a_purified_misc_content.txt:
+ eet by chance in Port Ormos, Alhaitham, is from the Haravatat in the Akademiya. In addition, characters from other walks of life will also cross paths with the Traveler su
+---
+a_purified_misc_content.txt:
+ ayers can accumulate Fayz Tinctures and obtain up to 3 uses of the Fayz Potion. In addition, some monsters have special golden weaknesses. Capturing these weaknesses will 
+---
+a_purified_misc_content.txt:
+ ll.
+Mondstadt's alcohol industry comprises a wide array of alcoholic beverages. In addition to grape wines, hard ciders made of apple and cherry have been mentioned,[12] b
+---
+a_purified_misc_content.txt:
+ ven to be a big hit, with monthly sales on par with that of dandelion wine.[15] In addition to cocktails, Angel's Share has a fairly extensive menu of non-alcoholic drinks
+---
+a_purified_misc_content.txt:
+ y of the alcohol from Dawn Winery, especially its signature Dandelion Wine.[18] In addition, merchants from Liyue purchase alcohol from Mondstadt and resell it to the rest
+---
+a_purified_misc_content.txt:
+ oles (The mountains of Mondstadt are said to be both beautiful and treacherous. In addition to providing stability on tough terrains, the trekking poles could serve as wea
+---
+a_purified_misc_content.txt:
+ place. Blackcliff Forge is where the Blackcliff and Prototype Series were made. In addition to creating weapons, the forge also doubles as a mine. When the ores in Mingyun
+---
+a_purified_misc_content.txt:
+ iar with. However, the Komore Teahouse is only one small place in Inazuma City. In addition to this, there are so many more magnificent and larger locations in Inazuma. Ea
+---
+a_purified_misc_content.txt:
+ hen designing Inazuma's music, we added several traditional musical instruments in addition to classical orchestral music such as Shakuhachi, Shamisen, Taiko, Koto, etc. W
+---
+a_purified_misc_content.txt:
+ on is visible on the Specially-Shaped Saurian Search event page.[4]
+Languages[]
+In addition to speaking the common tongue, it appears that Vennessa's clan had their own la
+---

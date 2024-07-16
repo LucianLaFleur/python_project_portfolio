@@ -1,0 +1,927 @@
+all_furnishings.txt:
+ ith sufficient space for the installation of automation equipment, with various connections and pipeline channels reserved to make future upgrades to the production eq
+---
+all_furnishings.txt:
+ been hung. It has a mounted totem pole with great powers of deterrence, and the connection between the different timber flanks has been strengthened. Even the fierce i
+---
+all_furnishings.txt:
+ ck, with a furnace cavity containing charcoal inside, with a flue and air vents connected to it from below. The stone facade is extremely thin and has good thermal con
+---
+all_furnishings.txt:
+ ll:_Peace_Across : ExteriorCourtyard Courtyard Wall
+A central wall segment that connects to both horizontal and vertical walls.Courtyard walls are an extension of the 
+---
+all_furnishings.txt:
+ stage of the Yun-Han Opera Troupe. It is, in fact, comprised of several screens connected to one another in sequence in such a way that they can block one's vision, wh
+---
+all_furnishings.txt:
+ e at these works for the longest period of time when they stop by the shop. The connections between varied art forms often hide in the details of daily life. Dancers c
+---
+all_furnishings.txt:
+ osition, and linear elements like corridors and pathways play a crucial role in connecting these shapes. Even though individual "lines" may appear less frequently on t
+---
+all_furnishings.txt:
+ A perfectly straight and sturdy Liyue-style wooden passageway with an arch that connects buildings while protecting pedestrians from wind and rain. The traditions of C
+---
+all_furnishings.txt:
+ d Wall
+A courtyard wall structure that is often found at the corners, forming a connection between the two wall sections. It is said that the abundance of Chenyu Vale 
+---
+all_furnishings.txt:
+ stage of the Yun-Han Opera Troupe. It is, in fact, comprised of several screens connected to one another in sequence in such a way that they can block one's vision, wh
+---
+all_furnishings.txt:
+ e scholars to analyze the building's structure. After prudently considering the connection between airflow and customer experience, they decided to only put one dining
+---
+all_furnishings.txt:
+ wadays, a mouthwatering aroma is always wafting out of the café. Is it possibly connected to this architectural decision...?
+Realm Depot
+"Satisfying_Weight" : Exterior
+---
+all_furnishings.txt:
+  has a long history, allegedly dating back to the age of Decarabian.Due to this connection, it is not a common sight in Mondstadt today.
+Trust Rank 7
+Key_Gateway:_Bene
+---
+all_furnishings.txt:
+ d durable, fearing neither wind nor rain. As such, when bui
+---
+all_furnishings.txt:
+ Nevertheless, a few years ago, a certain traveling merchant, with her marvelous connections — her almighty supplier, to be precise — found a cheap method most suitable
+---
+all_furnishings.txt:
+ eriorLandscape Ornament
+This standing billboard is formed of three boards and a connecting shaft. It sees regular use by many merchants in Sumeru City.Reportedly, when
+---
+all_furnishings.txt:
+ ce might not be all that useful, but at least if the start and end segments are connected, it's not cramping your style.
+Realm Depot
+Shrine_Annex:_Pleased_to_Serve : E
+---
+all_furnishings.txt:
+ t
+Courtyard_Wall:_All_in_a_Row : ExteriorCourtyard Courtyard Wall
+A corner that connects to two outside walls.Dividing your courtyard into different areas and working 
+---
+all_hangout.txt:
+  to me. When it comes down to it, I think it's these simple and straightforward connections that I value the most.
+Media:vo tmcop001 1911802 thoma 20.ogg Thoma: Sorry,
+---
+all_hangout.txt:
+ 3 layla 31.ogg Layla: Worry, fear, or whatever you want to call it. Hmm, if I'm connecting the dots correctly, then I think I know where the Seelie is leading us.
+Medi
+---
+all_hangout.txt:
+  personality, she would never put Mora into something like this.
+ Maybe she can connect us with some of her contacts?
+Media:vo kvcop001 1905904 kaveh 40.ogg Kaveh: Hmm
+---
+all_hangout.txt:
+ our search.
+Media:vo lylcop001 1915502 layla 06.ogg Layla: I can't think of any connection I have with Vimara Village, though. I've only been there once, and it was pr
+---
+all_hangout.txt:
+ s trying to say that the act of performance itself is the actor's true means of connecting with their fans...
+Media:vo lntcop001 1918201 mimereportera 05.ogg Friendly 
+---
+all_hangout.txt:
+ d as you slowly started down a path you used to despise... the path of powerful connections, drinks receptions, backdoor deals with the critics, and collaborations bas
+---
+all_hangout.txt:
+ 8211 lynette 21.ogg Lynette: Next time, huh? Yeah, next time you won't use your connections, next time you won't pay off your critics. Next time, you'll let Gillian pl
+---
+all_hangout.txt:
+ zou 01.ogg Shikanoin Heizou: Are you still a little confused? Haha, let me help connect the dots, this whole thing was actually quite similar to a case I once worked o
+---
+all_hangout.txt:
+ g...
+Media:vo lyycop001 1905508 heizou 16.ogg Shikanoin Heizou: I can feel some connection to the question in Gorou, Todoroki, and even Tokuda and Masashi.
+Media:vo ly
+---
+all_hangout.txt:
+  Commission, because it doesn't immediately benefit them, and we don't have any connections there.
+Media:vo lyycop001 1905512 paimon 02.ogg Paimon: Yeah... it's kinda 
+---
+all_hangout.txt:
+ ugh of them for a whole class... Ah, I know — Yuuko is supposed to be very well connected in the community. Why don't you go and ask her?
+Media:vo tmcop001 1911401 tho
+---
+all_hangout.txt:
+ g 01.ogg Aunt Zhang: That's impressive, Wu. I wouldn't have thought you had the connections for something like that. So is it Dr. Baizhu that you're in talks with?
+Med
+---
+all_hangout.txt:
+ TravelerTravelerThe player's chosen name for the Traveler). You're the one with connections in Liyue — it's your time to shine.
+You recount what happened to Captain Wu
+---
+all_hangout.txt:
+ 1905406_beidou_11.ogg Beidou: But the way I see it, favors are what keep people connected to one another.
+Media:vo_bdcop001_1905406_beidou_12.ogg Beidou: Over thousand
+---
+all_hangout.txt:
+  own out there. When someone falls down, there's an invisible net made of human connections, waiting to catch them and get them back on their feet.
+Media:vo_bdcop001_1
+---
+all_hangout.txt:
+ ing: Between Us[]
+Between Us
+Aether
+Lumine
+Community and cheer are the web that connects human hearts.
+Other Languages[]
+LanguageOfficial NameLiteral MeaningEnglishQin
+---
+all_hangout.txt:
+ ers, I can feel that she respects me, trusts me... she has a natural ability to connect with people.
+Media:vo wlcop001 1902601 hiroshi 04.ogg Hiroshi: She's so conside
+---
+all_hangout.txt:
+ , you're right... maybe it will!
+ Understanding the local culture will help you connect with people and learn more.
+(+1 Heart)
+Media:vo noecop002 1908201 noelle 13.ogg
+---
+all_hangout.txt:
+ s have been burned, so we can no longer confirm or trace anything.
+(Interpret - Connections)
+(TravelerTravelerThe player's chosen name for the Traveler): Any past memb
+---
+all_hangout.txt:
+ aveler): Any past member of the Lefevere family would probably have a number of connections outside of Fontaine.
+(Submit the wrong conclusion)
+(TravelerTravelerThe pla
+---
+all_hangout.txt:
+ .
+Media:vo wlcop001 1902801 katheryne 03.ogg Katheryne: The reason being, it is connected to a case involving the Treasure Hoarders, which is still under investigation
+---
+all_hangout.txt:
+ the one to be social. My father was the one with more friends, but all of those connections were severed when he died.
+Media:vo kvcop001 1907501 kaveh 37.ogg Kaveh: Le
+---
+all_hangout.txt:
+ him!
+Media:vo jqrcop001 1914805 akira 06.ogg Akira: And Shinobu, too! She's got connections all over Inazuma and Liyue! And... and...
+ And me.
+ And (TravelerTravelerTh
+---
+all_hangout.txt:
+ p001 1915302 layla 15.ogg Layla: (Hmm, no, there doesn't seem to be any notable connection between these two pieces of information.)
+(Quit Contemplation and use Nahida
+---
+all_hangout.txt:
+ raveler‍) in, then?
+Media:vo tmcop001 1912103 thoma 02.ogg Thoma: They're not a connection, if that's what you're thinking. Just a regular friend.
+Media:vo tmcop001 19
+---
+all_hangout.txt:
+ rney as an artist. But outside of your life as a creator, you can learn to form connections with other people, and enjoy many other things in life. It's the only way t
+---
+all_hangout.txt:
+ ions for us, would you?
+Media:vo kvcop001 1907201 dori 08.ogg Dori: Sure, I can connect you with some folks. But with every service comes a fee, you know!
+Media:vo kvc
+---
+all_hangout.txt:
+ cop001 1907201 dori 09.ogg Dori: Of course! Making introductions means using my connections and putting my reputation on the line. Why wouldn't I charge a fee for some
+---
+all_hangout.txt:
+ g, so I didn't give it too much thought at the time... Do you think it could be connected?
+ Maybe we can investigate in the direction in which the noise disappeared.
+M
+---
+all_npc_text.txt:
+ kanji transcription of the English name Alice. However, there has not any other connection made between Eris (Arisu/Alice) and the adventurer Alice.
+Eris is probably n
+---
+all_npc_text.txt:
+ ped the techniques that were used to forge that weapon. Seeing as you have deep connections with Liyue, I'll gift this weapon to you.
+(Obtain  Fillet Blade ×1)
+ Got an
+---
+all_npc_text.txt:
+ ss, a massive underground city built by a ruined civilization, has several deep connections with the moon(s): Within it is a structure known as the Abyssal Moon Spire,
+---
+all_npc_text.txt:
+ ey were aware of their mother's murderer and sought revenge, but due to Morris' connections, were unable to reach him. By the events of the Fontinalia Festival, Veroni
+---
+all_npc_text.txt:
+ extract their juice, creating wine.[12] Though Barbatos has never been directly connected with the wind spirit of that tale, Mondstadters call their wine a "gift from 
+---
+all_npc_text.txt:
+ n flies away.[62] Later on, Barbatos reveals that the sudden severance of their connection infected him with Abyssal magic instead of curing Dvalin of it,[63] but he m
+---
+all_npc_text.txt:
+ ed that Benben seemed familiar with the inside of the temple, and had a special connection to the doors throughout King Deshret's ruins.
+Eventually, the group reached 
+---
+all_npc_text.txt:
+  need something, dear customer? Say the word, and I shall procure it through my connections — anything you wish.
+ Let me see your wares.
+Boucicaut: Of course, of cours
+---
+all_npc_text.txt:
+ ore on, I felt that spending my days peacefully at home suited me better.
+ What connections have you got?
+Boucicaut: Well now, if I did tell you, I'd have another comp
+---
+all_npc_text.txt:
+ ected Plan?]
+Chambelland: Boss, if you hire me, I... I could help you make some connections. I know Chaussivert, and with his protection, there ain't nobody in the wor
+---
+all_npc_text.txt:
+ ected Plan?]
+Chambelland: Boss, if you hire me, I... I could help you make some connections. I know—
+Chambelland: Wait a minute, you're...! Oh my goodness! It's an hon
+---
+all_npc_text.txt:
+ aux: Alright, I've talked enough. I need to think about how to make this report connect with more readers.
+Choneaux: How should I revise this report...
+"I'm Not Drunk.
+---
+all_npc_text.txt:
+ e falling out between Diluc and the Knights of Favonius. The infamous Fatui are connected to the cause of his death.
+He made his first appearance in Chapter 7: Dusty C
+---
+all_npc_text.txt:
+ n on the map.
+During A Parade of Providence
+EventsA Parade of ProvidenceProject Connectivity
+Daya's thoughts can be accessed by using Nahida's Elemental Skill, All Sch
+---
+all_npc_text.txt:
+ ties)
+Daya: I do hope everyone will enjoy the game...
+(After completing Project Connectivity)
+Daya: How about it? Care for a game of "Project Connectivity"?
+Daya: Alri
+---
+all_npc_text.txt:
+ ompleting Project Connectivity)
+Daya: How about it? Care for a game of "Project Connectivity"?
+Daya: Alright. In that case, if you'll look over this way...
+ I've got s
+---
+all_npc_text.txt:
+ of the best jade artisans in Chenyu Vale.
+Deyin: There's always an inextricable connection between beautiful jade and fascinating stories.
+Deyin: As such, I would tell
+---
+all_npc_text.txt:
+ he line "Dr Livingstone, I presume?" Other characters from Mondstadt share this connection, i.e., Henry Morton and Stanley.
+SpringvaleKätzlein Bloodline 
+								Addit
+---
+all_npc_text.txt:
+ they were intruding on Venti's attempt to cure Dvalin's poisoning by creating a connection to him. The two attempt to hide away, but are detected and Dvalin flies off 
+---
+all_npc_text.txt:
+ i makes his escape shortly afterward,[13] having been poisoned himself when the connection failed.[14]
+Upon investigating the anomaly, it turns out the Abyss Order att
+---
+all_npc_text.txt:
+ glimpse of Dvalin through the Imaginary Tree, confirming that the two games are connected. The cutscene was later canonically implemented as the ending of "Chapter 17:
+---
+all_npc_text.txt:
+ d the strongest of them traveled all over Teyvat to follow Egeria's command of "connect[ing] everyone in the world."[19] Following Egeria's death, many of the Oceanids
+---
+all_npc_text.txt:
+ s and to love every creature." The Oceanids, following their master's desire to connect everyone in the world, thus dispersed across the waters of Teyvat to act as spi
+---
+all_npc_text.txt:
+ ad numerous "siblings." Their blood is poisonous and crystallizes, and it has a connection to the Abyss. In their lifetimes, they caused many disasters, yet they perce
+---
+all_npc_text.txt:
+ earlier, but I'm a Melusine — according to Monsieur Neuvillette, we have a deep connection to the ocean.
+Everallin: And even amongst us, I'm one of the best at sensing
+---
+all_npc_text.txt:
+ barefoot, and wears a gold ankle cuff with a blue jewel on her right ankle that connects to a toe ring. Her fingernails and toenails are painted with light blue nail p
+---
+all_npc_text.txt:
+ e as they found it first. He chose to give it to her, who in turn would use her connections to help him and his men find honest jobs around Liyue Harbor before allowin
+---
+all_npc_text.txt:
+ kai friendships aren't meant to be, despite her loneliness and yearning to form connections with humans.
+After hundreds of years, Chizuru's hagoita form starts to dete
+---
+all_npc_text.txt:
+ e's just like me. Not a talent in the world apart from mining, and not a lot of connections, either. *sigh* I wish I could be like him, you know? Being lost in his own
+---
+all_npc_text.txt:
+ he is considered a genius in the Akademiya thanks to her successful attempts at connecting to Irminsul using Spirit Borneol after only three years of training.
+When th
+---
+all_npc_text.txt:
+ and became one of The Seven 2,600 years ago,[44] these three figures are likely connected to the Heavenly Principles in some way.
+The description of Staff of the Scarl
+---
+all_npc_text.txt:
+ for the hilichurls' concept of gods and the origin of life.[46] While no direct connection has been made between hilichurls, the single unified civilization that once 
+---
+all_npc_text.txt:
+ nry's search for his missing friend. Other characters from Mondstadt share this connection, i.e., Stanley and Dr. Livingstone.
+Like Timmie, he has no idle voice-over.
+
+---
+all_npc_text.txt:
+ apers off him. The Traveler noted that he looked familiar, but did not make the connection until after their duel against Arlecchino.
+Introduced in Version 4.6[Create 
+---
+all_npc_text.txt:
+  way?
+ I took a backdoor, actually.
+Hosseini: Ah, to think that you'd have such connections. Well, for someone like me who lacks them, even getting that permit done is
+---
+all_npc_text.txt:
+  Your Respects" does not have Fate of a Fighter as a prerequisite, leaving this connection unconfirmed.
+While the quest description for the last part of Fate of a Figh
+---
+all_npc_text.txt:
+ : Alfry from the Intelligence Department says that Dragonspine has some sort of connection with the evil dragon that fought Dvalin in the past, though none of that rea
+---
+all_npc_text.txt:
+ indicating that the phrase relates to Mondstadt.[15]
+Hilichurls may also have a connection to Istaroth and the Primordial One. Jacob Musk believes that hilichurls wors
+---
+all_npc_text.txt:
+ oly word which they use to refer to gods.[18] Altogether, this points towards a connection between hilichurls, the Primordial One and its shining shades, and the unifi
+---
+all_npc_text.txt:
+ cess Lyris.
+Jak takes on the appearance of a Hydro Mimic Frog.
+Jak might have a connection to Jakob, another character in Fontaine with radical beliefs.
+EventsThelxie'
+---
+all_npc_text.txt:
+ iend in the Eremites. Come to me if you need some.
+ I see someone's pretty well connected.
+Jut: Hehe, you flatter me... It's just that I often sent gifts to my guests 
+---
+all_npc_text.txt:
+ Omnipresence Over Mortals)
+Kageyama: ... However, if you don't have any special connections, it might be very difficult to apply for it.
+Kageyama: Yup, that's about it
+---
+all_npc_text.txt:
+ mnipresence Over Mortals)
+Kageyama: In the past, if you didn't have any special connections, it might be very difficult to apply for it.
+Kageyama: Nowadays, all the af
+---
+all_npc_text.txt:
+ Mausoleum of King Deshret, Opet Hall, and Khaj-Nisut (three locations which are connected as part of the way to Deshret's paradise "Aaru") all bear this word in Deshre
+---
+all_npc_text.txt:
+ distributed his mind into the structures of his kingdom, and that he went on to connect his mind to his citizens' minds in one way or another. Given the nature of the 
+---
+all_npc_text.txt:
+  information about the Case of the Eccentric, a later event in Inazuman history connected to Scaramouche.[5]
+↑ In the original Chinese text, the term localized as "wan
+---
+all_npc_text.txt:
+ elatively high risk at this stage.
+Lamiya: Also, as only the sense of vision is connected, though you may see from the animal's perspective, it's still your own body m
+---
+all_npc_text.txt:
+ ctive, it's still your own body moving...
+Lamiya: Consider what would happen if connected to the vision of a bird. Visually, you are flying, and it is hard to control 
+---
+all_npc_text.txt:
+ he Spindrift Shall Never Return to the Sea)
+Lawrence: Heh... I actually have no connection at all to the Lawrence Clan. *sigh* It's a bit of a long story...
+Lawrence: 
+---
+all_npc_text.txt:
+ can attest to, every few days, I get someone coming up to me and asking what my connection with the Lawrence Clan is.
+Lawrence: My father gets extremely remorseful abo
+---
+all_npc_text.txt:
+ he Traveler and friends, referencing the machine and/or the mirages.
+Additional connections that aren't as direct:
+A "mirage" of knowledge is mentioned in Teyvat Chapt
+---
+all_npc_text.txt:
+ e similar to how Xiao Lanterns work?
+Linlang: This year's theme is kites, which connects with the idea of those lanterns in interesting ways.
+Linlang: I wonder if ther
+---
+all_npc_text.txt:
+ me good luck."
+Ruins Investigation Log: "Research suggests that these ruins are connected to adepti who fought and died in an ancient war. I think the line went someth
+---
+all_npc_text.txt:
+  few minor issues...
+Macadell: It's [sic] external power output fluctuates when connected to the Pressurized Impactor.
+Macadell: This kind of unstable energy output is
+---
+all_npc_text.txt:
+ Sakura is now thriving more than ever before.
+Maki: The Sacred Sakura roots are connected to one another, and together they bless the land of Inazuma. You too shall be
+---
+all_npc_text.txt:
+ ounger sister Josephine using the alias) was captured. Parsifal, who had a past connection to Marfisa, requested trial by combat before the court. She presumably died 
+---
+all_npc_text.txt:
+ elative soon. You have my full support! Being related by blood is the only real connection you can have in this world. Not love, as some imbeciles would have you belie
+---
+all_npc_text.txt:
+  information about the Case of the Eccentric, a later event in Inazuman history connected to Scaramouche.[5]
+↑ In the original Chinese text, the term localized as "wan
+---
+all_npc_text.txt:
+ ou not think?
+Olaf: Being related by blood does seem to give us an inexplicable connection though. Draff and I are complete strangers, and yet we keep finding that we 
+---
+all_npc_text.txt:
+ coming aware that a Fatui Harbinger stationed in Sumeru learned that they could connect people's minds through the help of certain technologies, which could expand thr
+---
+all_npc_text.txt:
+ an underling. Potton played both of these roles to his advantage. Utilizing his connections to the Sinthe business, he secured the source liquid for his potion from Va
+---
+all_npc_text.txt:
+  black hood on top for insulation from the cold. There are chains on said coat, connected over his hip and ending at the lower back. He has a sash-like piece of leathe
+---
+all_npc_text.txt:
+  him when there is so much more research to conduct.
+The pursuit of fortune and connections cannot hold a candle to his heart's desire — acquiring the limitless, obscu
+---
+all_npc_text.txt:
+ ham personally made the music player when he first became the scribe, and it is connected to the headphones via cables of the same color. He sometimes uses the gadget 
+---
+all_npc_text.txt:
+ .
+Sin Mal was also raised in an orphanage (Cocolia's orphanage), and has a lore connection to fire and bloodlust
+Sin Mal's personality is different; she is arrogant an
+---
+all_npc_text.txt:
+ es ending in folded-back black cuffs and a black mantle-like top with gold trim connecting across her back. This is adorned with a black-and-white ribbon tied in a bow
+---
+all_npc_text.txt:
+  even some who would resort to any means necessary to make a particular article connected to themselves disappear. Or alternatively, just make Charlotte disappear.
+For
+---
+all_npc_text.txt:
+ having done so wishing that they would never be discovered, and that all events connected to them would simply end right there.Charlotte knew that she could find them.
+---
+all_npc_text.txt:
+  directing her pen against certain figures in the newspaper itself who had been connected to the La Verite selection committee, laying out the manner in which they had
+---
+all_npc_text.txt:
+ of progress.By the next day, Charlotte had procured a divesuit through personal connections and was ready to get close to the divers in secret as they worked, and use 
+---
+all_npc_text.txt:
+ eporters began to act quietly and surreptitiously. Some utilized their personal connections to look into Dollander's business, while others followed the divers, and ot
+---
+all_npc_text.txt:
+ dia:vo charlotte mimitomo friendship3 10.ogg Charlotte: ...I knew you were well-connected, but wow, fraternizing with the adepti? That's really incredible.
+Media:vo ch
+---
+all_npc_text.txt:
+ the same gold clip on the bottom of the gap, and some other on the sides, being connected by some red ornament that has a gold spike on it, the whole third layer is de
+---
+all_npc_text.txt:
+ Some kind of special cleansing ointment? Or could it be that, to strengthen her connection to her weapon, she even adds a touch of... her own blood?No, no, no! The gre
+---
+all_npc_text.txt:
+ eny any taking any inspiration whatsoever from those rumors.Nope, absolutely no connection to those old fabrications whatsoever, none at all!Character Story 3 Friendsh
+---
+all_npc_text.txt:
+  the matter much thought, he decided to carry on living as he had, severing his connections with the Marechaussee Hunters so that he might continue hunting down monste
+---
+all_npc_text.txt:
+ air, nor remotely just. Some writers allow their views to be swayed by personal connections and promises of Mora.If you want to find out the truth of a situation, the 
+---
+all_npc_text.txt:
+  serval's genus, while cervarius is a Latin term meaning 'of, pertaining to, or connected with deer' from which the word serval is derived.
+Cuilein-Anbar's name may be
+---
+all_npc_text.txt:
+ an commoners, rulers and even deities. For his footwear, he wears stirrups that connect to toe rings that leave his heels and toes exposed.
+Character IconItem IconPart
+---
+all_npc_text.txt:
+ ill. Of course, according to some conspiracy theories, Cyno's Vision is closely connected with certain forbidden technologies hidden within the Akademiya. Otherwise, h
+---
+all_npc_text.txt:
+  front of her hat will glow along with her Vision. It will also glow if Dori is connected to the Jinni summoned by her Elemental Burst.
+Character IconItem IconParty Ic
+---
+all_npc_text.txt:
+  front of her hat will glow along with her Vision. It will also glow if Dori is connected to the Jinni summoned by her Elemental Burst.
+Dori was first referenced in th
+---
+all_npc_text.txt:
+ t for a moment before saying that since it could stir up strong winds and had a connection with the matra, she could call it the "Great Vayuvyastra."Faruzan's puzzleme
+---
+all_npc_text.txt:
+ t the back that reach her knees. Her collar has a pale gem in the center and is connected to her bodysuit with a golden design. She also wears dark purple heels with A
+---
+all_npc_text.txt:
+ imal you'd like to have as a pet... If you and I are companions, it means we're connected, more closely than gears in a machine.
+About the Vision Friendship Lv. 4About
+---
+all_npc_text.txt:
+ ost of her questions are born from her curiosity and often have tenuous logical connections with the case at best, which at times can provoke raucous bursts of laughte
+---
+all_npc_text.txt:
+ There's no harm in knowing more people. If you find a friend who you can really connect with, you absolutely must treat them well with a sincere heart. It's not about 
+---
+all_npc_text.txt:
+ ring Twilight Blossom, when Ganyu's Elemental Burst is ready, the teal gem that connected the hanging red tassel with her hairpin will glow along with her Vision.
+Than
+---
+all_npc_text.txt:
+ ve met merely by chance and then form such a strong bond, there must be a fated connection between them... so, although they would part ways for now, surely they would
+---
+all_npc_text.txt:
+ _-_04.ogg I never stay in a single place for very long. Stagnancy dulls both my connection with nature and the blade I wield. While I am still able to, I want to trave
+---
+all_npc_text.txt:
+ l, Keqing is the only person unaware of his true identity who draws an explicit connection between Zhongli and Rex Lapis in her voice-over about him.
+Her fighting styl
+---
+all_npc_text.txt:
+ ur heels on one thing, you're actually causing chaos for a whole bunch of other connected issues, too. That's why I firmly believe you should never put off until tomor
+---
+all_npc_text.txt:
+  uncanny powers of observation to catch all such critical details.And after she connects all these seemingly trivial details, she can tease out intel useful to the Hot
+---
+all_npc_text.txt:
+  member on the expedition under Varka's direct command... His teammates quickly connected the dots and a strange chain of logic emerged:"Mika fought against the Fatui!
+---
+all_npc_text.txt:
+ ite subjects.
+At the exhibition hall of The Steambird, there even hangs a photo connected to her called "The Soaring Yellow Rose."
+But there's no need to worry — for i
+---
+all_npc_text.txt:
+ d, I suppose these are, in the end, just my own wishes."For some reason — their connection by blood, perhaps — Navia immediately understood the meaning of those words.
+---
+all_npc_text.txt:
+ ocated in the French region that is closest to Great Britain, a region directly connected to Britain via an underwater railway tunnel, the Channel Tunnel.
+↑ In Chinese
+---
+all_npc_text.txt:
+  that the previous Hydro Archon, Egeria, hoped to achieve universal equality by connecting all things with love. Her successor chose instead to seek equality by means 
+---
+all_npc_text.txt:
+ ht thigh, while white leg garments go from her mid-shin to her ankle, which are connected to toe rings around her second toes; she is otherwise barefoot. Ribbons cover
+---
+all_npc_text.txt:
+  and her dress has multiple thin dark blue and pale blue straps at the top that connect to a dark blue collar with a golden gem in front. She additionally wears a pair
+---
+all_npc_text.txt:
+  Mei from Houkai Gakuen 2 and Honkai Impact 3rd, as the two share a plethora of connections:
+The two harness the power of lightning (Electro).
+Raiden Shogun's real nam
+---
+all_npc_text.txt:
+ ult of this, he was indwelt by a great power with which he established a sacred connection.The other whose childhood experiences were similar to his — Cyno, the Genera
+---
+all_npc_text.txt:
+ emained....Today, Shenhe still keeps this comb on her person as a symbol of her connection to the adepti.Through her years of training, she has long since come to unde
+---
+all_npc_text.txt:
+ eh... the gifts that fate brings, fate can just easily take away. If one day my connection to this Vision comes to an end, that'll be it, and the light inside of it wi
+---
+all_npc_text.txt:
+ ndship2 09.ogg Shikanoin Heizou: You've already heard about who I am and who my connections are. And I'm sure you know my general likes and dislikes after all this tim
+---
+all_npc_text.txt:
+  she tried to give him a checkup. Eventually, she was forced to make use of her connections with the prison administration, calling upon the aid of several guards to d
+---
+all_npc_text.txt:
+ none too happy about it."Similar genome, but ultimately different ancestry. Cat connection merits further study. Note: Unable to obtain bone sample thus far."This is t
+---
+all_npc_text.txt:
+ her Dandelion Wine, but after falling overboard, he ended up in Inazuma with no connections and no Mora. Despite the dangers he faced at the time, Thoma was able to ma
+---
+all_npc_text.txt:
+  threaten the Kamisato siblings and the Yashiro Commission. He does not use his connections for personal gains.
+Thoma uses the tall male model. He has green eyes, fair
+---
+all_npc_text.txt:
+ easons behind every word that he says. Sometimes, it might seem like there's no connection, but as he goes on, everything will eventually dovetail nicely towards a sin
+---
+all_npc_text.txt:
+ tions, Barbatos has long left Mondstadt. In fact, the only visible proof of his connection with Mondstadt is the Statues of The Seven that appear across the land — eve
+---
+all_npc_text.txt:
+ onstructed by excavating the mountains, with countless workshops, furnaces, and connecting tunnels blasted black by dust.In the tumultuous years when the fires of war 
+---
+all_npc_text.txt:
+ drops of blood would remain on the sword's sharp edge.
+The sword in the play is connected to legends of the 16th century swordsmith Muramasa. Because of their exceptio
+---
+all_npc_text.txt:
+ vast sea of sand gathered.
+In the name of the Reed Sea that never existed, they connected with the dream that was promised to them...
+Multi-Wish ArtworkWeapon Beacon o
+---
+all_npc_text.txt:
+  reputation with his diligence and righteousness.
+When his yoriki Katsuragi was connected with but a single trace of misconduct, he had him executed without mercy.
+Eve
+---
+all_npc_text.txt:
+ es not, in fact, leave the Fortress often. Using the network of information and connections that he has personally built up over the years, he can gain any intelligenc
+---
+all_npc_text.txt:
+  official channels had their various special tricks, too. If you lacked private connections, you could only buy food and water at exorbitant prices, and your fortune s
+---
+all_npc_text.txt:
+ ding to the sound of turning pages. Had he been willing, he could have used his connections to discover how these old companions were faring, but he dismissed those th
+---
+all_npc_text.txt:
+ impact.fandom.com/wiki/File:VO_Xiao_More_About_Xiao_-_05.ogg It's too late. The connection between us is too strong. Even if you wanted to, it's too late to sever it. 
+---
+all_npc_text.txt:
+ he tail end of the instrument so it might serve as a weapon in a pinch.She also connected it to her Vision, allowing it to spew flames and sparks. Its internals can al
+---
+all_npc_text.txt:
+ thing, so I guess I can tell you something about my past. Thanks to my family's connections, I learned some useful skills from the Millelith scouts very early on. Alth
+---
+all_npc_text.txt:
+ easons behind every word that he says. Sometimes, it might seem like there's no connection, but as he goes on, everything will eventually dovetail nicely towards a sin
+---
+all_npc_text.txt:
+  friendship2 04b 3.ogg Yoimiya: Thanks to the family business, I've got tons of connections. Haha!
+Media:vo yoimiya mimitomo friendship2 04b 4.ogg Yoimiya: Well, I gue
+---
+all_npc_text.txt:
+ ontains the word "yun," just like my own name... It looks like I have a special connection with this room.
+Media:vo mimitomo md yunjin study 03.ogg Yun Jin: Haha, I'm 
+---
+all_npc_text.txt:
+ ry taboo.
+Media:vo mimitomo ly zhongli study 03.ogg Zhongli: Perhaps some tacit connection has formed between us during our journey together.
+Media:vo mimitomo ly zhon
+---
+all_npc_text.txt:
+ Khaenri'ah was the Eclipse Dynasty, while the visage of a crimson moon has been connected to the cataclysm — specifically, Celestia's role in Khaenri'ah's destruction.
+---
+all_npc_text.txt:
+ er "off work."
+Santon is a friendly and adventurous person. He greatly values a connection with nature and believes that living in the city causes people to grow weak 
+---
+all_npc_text.txt:
+ "one who came after" and create the Gnoses to maintain order.[3]
+There may be a connection between Enkanomiya's historical records in Before Sun and Moon and Teyvat's 
+---
+all_npc_text.txt:
+ nonetheless. Nahida, possessing the puppet Katheryne, suggested using Setaria's connections to her homeland as a means to convince her to join their cause. She managed
+---
+all_npc_text.txt:
+ ons.[3] Tartaglia later reveals he is investigating the Domain for any possible connections to his fellow Harbinger Scaramouche, who had recently gone missing after co
+---
+all_npc_text.txt:
+ er to the Geo Archon as Morax instead of Rex Lapis,  outside the context of his connection to Mora. The others are Wanyan and Keqing, who primarily calls him Rex Lapis
+---
+all_npc_text.txt:
+ voice actress, Xie Ying, with Keqing and Gaming.
+She is speculated to have some connection to Khaenri'ah or the Abyss Order, considering she is a warrior who dwells in
+---
+all_npc_text.txt:
+ behaved, but seems not to comprehend my meaning... Perhaps we lack that special connection.
+Mona: So I would like to observe a bit more — you know, keep an eye out for
+---
+all_npc_text.txt:
+ or his search for David Livingstone. Other characters from Mondstadt share this connection, i.e., Henry Morton and Dr. Livingstone.
+Following a certain dialogue branch
+---
+all_npc_text.txt:
+  Terrace.
+Tic, Tac, and Toe are named after the game tic-tac-toe. They are also connected with the achievement "Ticked, Tacked, and Towed".
+His dialogue assumes you re
+---
+all_npc_text.txt:
+  a follower in the form of Haypasia, who had managed to see his past during her connection to Irminsul. Showcasing his new power to the Traveler after learning Dottore
+---
+all_npc_text.txt:
+ tempt to beg Nahida not to remove it, he accidentally broke out from the tubing connecting him to his mechanical suit, causing him to fall to the ground and into a com
+---
+all_npc_text.txt:
+ n the Aranara, a race of strange mushroom creatures as he was interested in the connection between them, dreams, and The Withering that occurred in Sumeru; Trofin Snez
+---
+all_npc_text.txt:
+ le for the task. Like him, the Shogun has a consciousness of her own.[7] She is connected to the storms of Inazuma,[8] and wields the sword (Musou Isshin) that houses 
+---
+all_npc_text.txt:
+ oes home.
+Tic, Tac, and Toe are named after the game tic-tac-toe. They are also connected with the achievement "Ticked, Tacked, and Towed".
+Paula (Granddaughter)Contar
+---
+all_npc_text.txt:
+  payment.
+Tic, Tac, and Toe are named after the game tic-tac-toe. They are also connected with the achievement "Ticked, Tacked, and Towed".
+Tokuda wears the Watatsumi 
+---
+all_npc_text.txt:
+ elvers)
+Tu: If this place does indeed become a market, then we should establish connections with the Feiyun Commerce Guild as soon as possible.
+Tu: That's right, I've 
+---
+all_npc_text.txt:
+  on that Chasm Mora as well.
+Tu: Also, I never expected Muning to have monetary connections to the Feiyun Commerce Guild. This is a great opportunity!
+Tu: So, uh... co
+---
+all_npc_text.txt:
+ the name "Ukko."[Note 1]
+The Lawachurl named Ukko.
+↑ While there is no explicit connection between the scribe Ukko and the Lawachurl Ukko, their shared uncommon name a
+---
+all_npc_text.txt:
+ oth have the four-pointed symbol from the portal that The unknown god uses.
+The connection between the unknown god and Kiana Kaslana was hinted during a program held o
+---
+all_npc_text.txt:
+ e author of New Chronicles believes that whatever he did five hundred years was connected to the Abyss.[2]
+Eventually, Urakusai died, and his memories were absorbed in
+---
+all_npc_text.txt:
+ ess, was born under the Frostbearing Tree — an ancient silver-white tree with a connection to Irminsul — and the entire nation rejoiced when she received her blessing.
+---
+all_npc_text.txt:
+ etual snowstorms and the Frostbearing Tree, an ancient silver-white tree with a connection to Irminsul, was shattered when a fragment of the broken Skyfrost Nail came 
+---
+all_npc_text.txt:
+ ey were aware of their mother's murderer and sought revenge, but due to Morris' connections, were unable to reach him. By the events of the Fontinalia Festival, Veroni
+---
+all_npc_text.txt:
+ det: Hahaha, well I'd hardly be able to operate an inn in this location without connections with the Qixing.
+Verr Goldet: What I mean is I obviously need their approva
+---
+all_npc_text.txt:
+ the lead actor. Because of her senior status among the youkai and her extensive connections among humans she doesn't face punishment for any of her chaotic deeds.
+Duri
+---
+all_npc_text.txt:
+  each other... albeit he strongly believes that they're soulmates with a strong connection, so he comes to this spot every day, searching for a letter or a gift from h
+---
+all_npc_text.txt:
+ !?
+Yue Chuan: I know I'm poor but honestly, me and her are soulmates! We have a connection!
+Yue Chuan: I come here to the seaside every day to see whether she has left
+---
+all_npc_text.txt:
+  of the Millelith. He is a guard stationed together with Fugui at the road that connects Mondstadt to Liyue Harbor. He can be found north of the Statue of The Seven at
+---
+all_npc_text.txt:
+ a foreign port and needs to have his goods inspected and registered first, I'll connect them to a specialist at Hezhe Post...
+ It sounds like you've got a lot to do...
+---
+a_purified_misc_content.txt:
+  may not be aware of the particulars regarding said Union, but they are closely connected to Sangonomiya.
+Letter With Elegant Handwriting: The second source is more in
+---
+a_purified_misc_content.txt:
+  17.ogg Arataki Itto: Hey! Don't look down your nose at the Arataki Gang! I got connections, alright? Even the Tri-Commission listens to what I have to say!
+Media:vo y
+---
+a_purified_misc_content.txt:
+ 06.ogg Yoimiya: What do you know about this dog, Thoma? Everyone knows how well-connected you are.
+Media:vo yyeq002 4 thoma 04.ogg Thoma: Heh, for once... not much, I'
+---
+a_purified_misc_content.txt:
+ yyeq002 4 thoma 04.ogg Thoma: Heh, for once... not much, I'm afraid. I guess my connections are one key canine short.
+Media:vo yyeq002 4 thoma 05.ogg Thoma: But assumi
+---
+a_purified_misc_content.txt:
+ eactions, level design, and environment mechanics. They also have a very strong connection to each other.
+Regarding Genshin Impact's Elemental Reactions, on the one ha
+---
+a_purified_misc_content.txt:
+ of Dendro. The phenomenon related to the Catalyze reaction also has a very deep connection with the local history of Sumeru.
+Yangshen, Combat Designer: In Version 3.0,
+---
+a_purified_misc_content.txt:
+ players will feel this vitality in this new land, see new possibilities and new connections, and enjoy their journey in Sumeru.
+Dawei: Thank you for sharing, Xiao Luoh
+---
+a_purified_misc_content.txt:
+ cological feature of the Sumeru region.
+Dawei: It feels like we have a stronger connection to the scene.
+Kawa: Yup. We just talked about the opposing concepts of life 
+---
+a_purified_misc_content.txt:
+ homing After-Sales Service Rounds. Her Elemental Burst summons a Jinni that can connect to a nearby character, constantly regenerating their HP and Elemental Energy. W
+---
+a_purified_misc_content.txt:
+ arby character, constantly regenerating their HP and Elemental Energy. When the connector between the Jinni and the character touches opponents, it will deal Electro D
+---
+a_purified_misc_content.txt:
+ s — editors will sometimes make assumptions to determine the order of events or connect pieces of lore together. However, they may be obsoleted and proven incorrect by
+---
+a_purified_misc_content.txt:
+ evka, one of the Harbingers — likely Il Dottore — discovered in Sumeru a way to connect people's minds through the means of "certain technologies" (the Akasha).[55]
+No
+---
+a_purified_misc_content.txt:
+ s — editors will sometimes make assumptions to determine the order of events or connect pieces of lore together. However, they may be obsoleted and proven incorrect by
+---
+a_purified_misc_content.txt:
+ ree grows where she stood when she ascended.[48][91]
+This tree has a mysterious connection to Celestia; Venti channels power from it to purify himself from the Abyss' 
+---
+a_purified_misc_content.txt:
+ ighland. It is unique from other ruins' ornamentation styles, making it easy to connect them.
+↑ The Biography of Gunnhildr gives the earliest known date for Boreas and
+---
+a_purified_misc_content.txt:
+ h of these must be unique yet interlinked, enriched by people living there, and connected by those who come to and fro.
+Liyue is precisely such a city, brimming with l
+---
+a_purified_misc_content.txt:
+ grass are not the same thing, the spaces they occupy in artistic expression are connected.)
+For me, that which in isolation creates a sense of austere solitude, yet ha
+---
+a_purified_misc_content.txt:
+ s within these environments. This makes everything come together as one whole — connected by a complete framework.
+Bu Yiding, Environment Concept Artist: When gatherin
+---
+a_purified_misc_content.txt:
+ s — editors will sometimes make assumptions to determine the order of events or connect pieces of lore together. However, they may be obsoleted and proven incorrect by
+---
+a_purified_misc_content.txt:
+ ion of this energy, we directed the surrounding plankways towards the middle to connect with the furnace in the center. Next, we enveloped the inner space in purple an
+---
+a_purified_misc_content.txt:
+ e eyes" and the dark blue hyacinths constitute the basic ecology of Inazuma. It connects every plain and swamp and reeds grow vigorously in the mountain passes, river 
+---
+a_purified_misc_content.txt:
+ s — editors will sometimes make assumptions to determine the order of events or connect pieces of lore together. However, they may be obsoleted and proven incorrect by
+---
+a_purified_misc_content.txt:
+ anned the whole world.[1][2]
+A civilization in Tsurumi Island was built and had connection with Celestia. A similar civilization was found beneath Seirai Island.
+In th
+---
+a_purified_misc_content.txt:
+ Shakkei Pavilion, having no name for himself and only a feather as proof of his connection to the Raiden Shogun.[68] He is found by Mikoshi Nagamasa's yoriki, Katsurag
+---
+a_purified_misc_content.txt:
+ andles the management of shrines, festivals and cultural events, being the most connected to the people. They are currently led by Kamisato Ayato. Outside of this, Aya
+---
+a_purified_misc_content.txt:
+ s — editors will sometimes make assumptions to determine the order of events or connect pieces of lore together. However, they may be obsoleted and proven incorrect by
+---
+a_purified_misc_content.txt:
+ array of species and to love every creature."[12]
+To fulfill Egeria's desire to connect everyone in the world, the Oceanids disperse across the waters of Teyvat to act
+---
+a_purified_misc_content.txt:
+ o Archon, now deceased, sent the Oceanids across Teyvat to spy on the people to connect them to the world. After her passing, the Oceanids refused to acknowledge the G
+---
+a_purified_misc_content.txt:
+ und it! I am a proud member of the Adventurers' Guild, and I have absolutely no connection to the Treasure Hoarders!"
+Indeed, some adventurers are in the business for 
+---
+a_purified_misc_content.txt:
+ ns thus far have turned up nothing which might hint at the true nature of their connection with the lost civilizations to which these ruins belong.
+Vol. 3[]
+It contain
+---
+a_purified_misc_content.txt:
+ Literal MeaningEnglishString of Pearls—Chinese(Simplified)连心珠Lián xīn zhūPearls Connecting HeartsChinese(Traditional)連心珠Lián xīn zhūJapanese連心珠Renshinshu‍[!][!]Assumed
+---
+a_purified_misc_content.txt:
+ for road accidents that might occur! The doorway to a study in a simple village connects to anywhere in space and time!Having hide-and-seek across time... Vera's great
+---
+a_purified_misc_content.txt:
+ pent with him.
+The first Divine Halberd, Irmin, once pierced the Axis Mundi and connected the nine worlds. Now, its replicas had proliferated across the heavens.
+Feari
+---
+a_purified_misc_content.txt:
+ d Lady Saiguu back in the day, but it is known that his deeds may have had some connection to the later incursion of the Abyss.[Note 1]
+However, after Urakusai had bee
+---
+a_purified_misc_content.txt:
+ goes on.
+If it weren't for her senior status among the youkai and her extensive connections in human society, I suspect Yoichi might have been dealt with by some hero 
+---
+a_purified_misc_content.txt:
+ shredded every page and put them back together haphazardly. The words that were connected felt like fragments randomly selected from a complete text, and no one could 
+---
+a_purified_misc_content.txt:
+ ments randomly selected from a complete text, and no one could really grasp the connection between them.
+It was on a starless night when he, with all his strength, lik
+---
+a_purified_misc_content.txt:
+ siltia" as a "classical romance" in her second dialogue set.
+Daeira was a deity connected with the Eleusinian Mysteries. Due to the secrecy of the Eleusinian Mysteries
+---
+a_purified_misc_content.txt:
+ roked my beard in thought and gazed out at the galaxy:
+The stars across the sky connect to form a canopy, holding back the moon lest it fall into the sea.
+Tenth Song[]
+---
+a_purified_misc_content.txt:
+ still focused on the figures cast in the sky.
+"Not... working... I can't get it connected." The dark-haired girl hid her face within the hood, electric arcs dancing ar
+---
+a_purified_misc_content.txt:
+ grafted Sacred Sakura branches. They are offshoots of Narukami's own spirit and connect the Grand Shrine to all others.
+In those days, catastrophe rocked the heavens a
+---

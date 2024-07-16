@@ -1,0 +1,740 @@
+all_furnishings.txt:
+  style, but being limited by the texture of their scrolls, they were ultimately convinced to give up.
+Adeptal Mirror (Round 4)
+Cuihua_Sapling : ExteriorLandform Tree
+A
+---
+all_hangout.txt:
+ if not for me, then for the sake of the opera troupe — I'm begging you. Help me convince her that at the end of the day, she's gotta fall in line.
+ That is not going t
+---
+all_hangout.txt:
+ g Furuta: Seeing is believing, after all. You could spend a long time trying to convince them with words alone — or you could let them see you in action with their own
+---
+all_hangout.txt:
+ rusts in both your qualities and abilities, so I hope your findings can finally convince her and put an end to this whole thing.
+Media:vo lyycop001 1906002 heizou 05.o
+---
+all_hangout.txt:
+ ertise. Hmm, what kind of person do we both see regularly enough to impersonate convincingly?
+ I think I've met Fatui with the right kind of personality...
+Media:vo wl
+---
+all_hangout.txt:
+ rou 09.ogg Gorou: I smell danger!
+ Hehe, it's just me.
+ Looks like I was pretty convincing.
+Media:vo wlcop001 1902002 gorou 10.ogg Gorou: Really? Huh, for a moment the
+---
+all_hangout.txt:
+ r way, they were all people who have had a taste of something that was mine and convinced themselves that I am someone to be taken advantage of.
+ No wonder they had su
+---
+all_hangout.txt:
+ aybe I should play it safe and just make a simple suggestion...)
+ I'll help you convince the client to come to your side. (This dialogue option leads to Searching for 
+---
+all_hangout.txt:
+ e another talk with him. I know where we'd be able to find the guy.
+ If you can convince even him to see your point of view...
+Media:vo kvcop001 1905803 kaveh 30.ogg K
+---
+all_hangout.txt:
+ 01 sayu 15.ogg Sayu: Ugh, never mind. The longer I talk to you, the more you'll convince me otherwise...
+Media:vo zycop001 1901001 sayu 16.ogg Sayu: Besides, what's wr
+---
+all_hangout.txt:
+ his way, nobody is wasting time being lazy, hehe!
+ Now you're the one trying to convince me to work.
+ Fine, if that's what we have to do.
+Media:vo zycop001 1901001 say
+---
+all_hangout.txt:
+ ut their strange behavior
+Dialogue[]
+ Quest DescriptionYou decide to help Kaveh convince the client to come to his side. However, it seems like the client's trying to 
+---
+all_hangout.txt:
+ 
+Media:vo kvcop001 1905904 kaveh 35.ogg Kaveh: Sponsor the project? You mean... convince wealthy merchants to join our cause, and pool their money together to build th
+---
+all_hangout.txt:
+ vo lntcop001 1918205 gillian 17.ogg Gillian: Without Lynette, how could we ever convince people to pay money to go and see a "masked mime show"?
+Media:vo lntcop001 191
+---
+all_hangout.txt:
+ g to try and keep Lynette on board.
+ [Contemplation] (Is there any other way?)
+ Convincing him to replace the lead actress won't be easy...
+ [Contemplation] (Is there 
+---
+all_hangout.txt:
+  the lead role?
+Media:vo lntcop001 1918212 lyney 05.ogg Lyney: It took a lot of convincing from me for her to accept the role, and I had to turn down some big work opp
+---
+all_hangout.txt:
+ erhaps you're overlooking someone else — the true leader here.
+ Alright, you've convinced me that there might be some secret here. What do we do?
+Media:vo lyycop001 19
+---
+all_hangout.txt:
+ leave)
+Media:vo tmcop001 1911402 thoma 11.ogg Thoma: Alright, I'll see if I can convince the older folks to come along and make up the numbers.
+(Talk to Nagano)
+Media:
+---
+all_hangout.txt:
+ gether?
+Media:vo dancop001 1910206 diona 16.ogg Diona: I have to hurry back and convince the tavern to hire a few more cats. They're the key to attracting the customer
+---
+all_hangout.txt:
+ a:vo frzcop001 1917102 faruzan 02.ogg Faruzan: I argued with the higher-ups and convinced them of the practicality and necessity of educating the general public.
+Media
+---
+all_hangout.txt:
+ ckly.
+Media:vo frzcop001 1917102 collei 14.ogg Collei: A—Amazing...
+ (Were they convinced...)
+ (...Or were they coerced?)
+Media:vo frzcop001 1917102 faruzan 04.ogg Far
+---
+all_hangout.txt:
+ nd other details, we all see her as an empathetic older sister figure, and feel convinced that she must be the same sort of person in real life.
+Media:vo wlcop001 1902
+---
+all_hangout.txt:
+ ust your strength.
+Media:vo bdcop001 1905101 yinxing 24.ogg Yinxing: If you can convince Mora-Grubber to show you the books, you'll see there is a regular fixed cost, 
+---
+all_hangout.txt:
+ :vo bdcop001 1905103 beidou 08.ogg Beidou: Hahahaha. I get it, you're trying to convince me that I'm not cursed.
+Media:vo bdcop001 1905103 beidou 09.ogg Beidou: I appr
+---
+all_hangout.txt:
+  1909705 adelinde 17.ogg Adelinde: Master Diluc wasn't happy about that, and he convinced Master Kaeya to team up with him and sneak into the wine cellar to steal some
+---
+all_hangout.txt:
+ ell them about Tamimi, will they still feel happy for Karkata? Even if we could convince them to accept the components, they'll probably still feel bad about it.
+Media
+---
+all_hangout.txt:
+ ..
+Media:vo noecop001 1906902 beatrice 07.ogg Beatrice: I've been so focused on convincing Quinn, I haven't even thought about where our date's gonna be!
+ No... really
+---
+all_hangout.txt:
+ r a real shrine maiden, like Inagi. I wouldn't be suited to it.
+ Why didn't you convince her to leave, like the others?
+Media:vo jqrcop001 1914509 shinobu 05.ogg Kuki 
+---
+all_hangout.txt:
+ ry
+Steps[]
+Go to the Palace of Alcazarzaray and look for Dori
+Try to help Kaveh convince the merchants
+Dialogue[]
+ Quest DescriptionAfter hearing about the client's bu
+---
+all_hangout.txt:
+ oin Heizou: I'm flattered, but even if I wanted to, do you really think I could convince Lady Yae to join a little event like mine?
+Media:vo lyycop001 1905701 paimon 0
+---
+all_hangout.txt:
+ e: Hmm... Captain Kaeya would probably appear cordial and sincere as a means to convince his subject to lower their guard, would he not?
+Media:vo noecop002 1909203 noe
+---
+all_hangout.txt:
+ some proper waiting staff to really take care of the customers. Perhaps I could convince the boss to hire a waitress...
+Media:vo noecop002 1909205 charles 11.ogg Charl
+---
+all_hangout.txt:
+ wn church choir, this would be a major departure from tradition... I'm just not convinced that it's appropriate...
+Media:vo kycop001 1909405 kaeya 04.ogg Kaeya: Haha, 
+---
+all_hangout.txt:
+ ou bunch of goody two-shoes won't let that happen, right?
+ [Persuasion] (Try to convince Elodie to surrender.)
+(If the card drawn is less than 15)
+ Whoa, just calm dow
+---
+all_hangout.txt:
+ customed to the discipline required to rein in my condition.
+ I was the one who convinced you to give away all your popsicles in the first place.
+Media:vo cycop001 190
+---
+all_hangout.txt:
+ 2
+2.3.1 Albert Is Amenable to Reason
+3 Other Languages
+4 Change History
+Steps[]
+Convince Albert to leave
+Follow Albert
+Talk to Albert
+Albert Is Amenable to Reason
+Repo
+---
+all_npc_text.txt:
+ he cataclysm, and the author of Someone's Abandoned Letter entreats Anfortas to convince Irmin of the value of preserving some Khaenri'ahn technology made before the i
+---
+all_npc_text.txt:
+ d forgotten them, but after using the melody he had taught them, he was able to convince them that they were good Nara. After exploring an abandoned treehouse, Aranaki
+---
+all_npc_text.txt:
+  to practice medicine, sparking an argument with his older brother.  Failing to convince him to stay, the two fell out and never spoke to each other again.[1] Baizhu's
+---
+all_npc_text.txt:
+ ul witches — challenged the Anemo Archon himself. However, Barbatos was able to convince them to make music, not war, and to resolve conflicts through song. From then 
+---
+all_npc_text.txt:
+ chard initially let him go. He was eventually caught by the group again and was convinced to hand over Sir Arthur's Head. To avoid punishment from directly disobeying 
+---
+all_npc_text.txt:
+ peditions, the knight began to lose himself in the cutting down of his foes. He convinced himself that the feeling he was getting was satisfaction in justice being ser
+---
+all_npc_text.txt:
+ nnot force souls to board and instead will frequently visit a reluctant soul to convince them otherwise. He will give hints to the Traveler so that they can assist him
+---
+all_npc_text.txt:
+ acius' memories with the other four Yakshas, Menogias can be seen attempting to convince Bosacius to wear a purple robe. However, the robe only has two arms, posing a 
+---
+all_npc_text.txt:
+ ponse, Callas banned the drink and began to investigate its vendors, eventually convincing a seller named Jacques to work with him. Jacques' betrayal did not go unnoti
+---
+all_npc_text.txt:
+ on, the root cause of the problem could not be identified.[6]
+Eventually, Jakob convinced Rene to repeat the method he had once used to save Jakob's life to save Carte
+---
+all_npc_text.txt:
+ tual apocalypse arrives, just who would try to find meaning in absurdity and be convinced that those signs herald that inevitable solemn moment?
+Caterpillar: Other tha
+---
+all_npc_text.txt:
+ t she can't stand its bitter taste. Chenxiang spends most of her time trying to convince her to take her medicine, and sometimes resorts to asking the player to bring 
+---
+all_npc_text.txt:
+ equest, "killing" Lyudochka and allowed herself to get captured by the Fatui to convince them that Lyudochka was killed. In the ensuing scuffle, one of the Fatuus shot
+---
+all_npc_text.txt:
+ ey see the auroras in Snezhnaya when they grew up.[6] Clervie tried her best to convince her mother to change her ways and even attempted to escape at times, but was c
+---
+all_npc_text.txt:
+  and did not know her own fate — would follow the House wherever they went, and convinced other disillusioned members to leave, which included Nanteuil and Filliol. Sh
+---
+all_npc_text.txt:
+ ndblume Festival!
+Cyrus: It's just that we lack concrete evidence with which to convince other people...
+ So, about Stormterror's Lair...
+Cyrus: Ah, the Windblume Fest
+---
+all_npc_text.txt:
+ ed a plan with Sethos in order to lure him back and claim Cyno's fragment. They convinced a student, Urraca, to bring a damning letter to the Akademiya accusing Cyrus 
+---
+all_npc_text.txt:
+  go to Springvale... She's my ex-wife, Myweiss. A bard, just like me.
+Davy: I'm convinced the only reason I ever looked her way is because I bashed my head when Stormt
+---
+all_npc_text.txt:
+ ilarly to Dehya. Before he left to burn the archives of Dakan Al-Ahmar, Kusayla convinced her father to hire Dehya to serve as her bodyguard.
+The Traveler and Paimon f
+---
+all_npc_text.txt:
+ when she snuck out of her home. Dehya soon found them, but Dunyarzad managed to convince her to stand down and assist her instead through her determination. She was qu
+---
+all_npc_text.txt:
+ e cats!
+Razor: He wants to bring friends, inside. Use food, bring them inside.
+ Convincing cats to come inside with food...
+ That actually might do the trick...
+Paimon
+---
+all_npc_text.txt:
+  should take care of delivering the food before anything else. If only we could convince them to come live in the city...
+ And we need to explain things to Valerina...
+---
+all_npc_text.txt:
+ I won't be doing that again though. I was on the road for so long that Jean was convinced I'd been gobbled up by Stormterror along the way!SucroseAbout Us: Requests Me
+---
+all_npc_text.txt:
+ aybe, but not pointless. Those are the stories that grab people's attention and convince them to buy the paper to get all the details.Paimon: *sigh* ...Fine. Well... M
+---
+all_npc_text.txt:
+ Drawing on the powers of the seized Visions with Miko's help, they were able to convince Ei to rescind the Vision Hunt Decree, returning all the seized Visions as long
+---
+all_npc_text.txt:
+ ded a fugitive. It is suggested that he fled to Etta's worksite: that day, Etta convinced the overseers at her worksite to allow a "very clever friend" of hers to work
+---
+all_npc_text.txt:
+ , though the architect and his mother both survived. The architect's mother was convinced that King Deshret had destroyed Gurabad, and she carried that belief for the 
+---
+all_npc_text.txt:
+ Headliners.ogg Media:VO KO_Charlotte About Us - Headliners.ogg Good news — I've convinced Euphrasie to make you the next headliners of The Steambird! You'll be right u
+---
+all_npc_text.txt:
+ : (Maybe the key to studying history is not to try and prove everything, but to convince others to believe you.)
+Farahnaz: ...It's a shame that the Alliance was destro
+---
+all_npc_text.txt:
+  to be closed off. When Ce told his father about it, Wu was wracked with guilt, convinced that his mining incident had disturbed the dragon beneath the mines. Wu creat
+---
+all_npc_text.txt:
+ chants' route.
+Harry: If the situation gets worse, intel like this will help me convince the Acting Grand Master that the Stormbearer Mountains area is in dire need of
+---
+all_npc_text.txt:
+ g them a tour of the grounds.
+He eventually comes upon the Traveler and Paimon, convincing them to join under the guise of treasure that would be theirs. However, they
+---
+all_npc_text.txt:
+ me ore mining veins around here.
+Ikuhara Gai: That said, though, I'm not really convinced of the quality of anything that isn't Jade Steel.
+Ikuhara Gai: I'd put them a
+---
+all_npc_text.txt:
+ ers were separated from the others, who met up at the South Base Camp. Eberhart convinced the others that the unnamed members would find their way back to camp and the
+---
+all_npc_text.txt:
+ t them to the location.
+During their travels, Paimon remembered about Ioroi and convinced the Traveler to pay him a visit. Ioroi was initially terrified of their prese
+---
+all_npc_text.txt:
+ veler recognized the person as Alrani and with the help of Kaushik, was able to convince them that she was a Sumeru Akademiya student. In return for studying the islan
+---
+all_npc_text.txt:
+ fore, Rene shifted his focus to more actively include Lyris. The two eventually convinced Lyris to join the Ordo, despite initial reluctance on her part,[12] and broug
+---
+all_npc_text.txt:
+ inger (implied to be Sandrone)[Note 1] to complete his mission. They eventually convince him to abandon it and discover Mosso's old facility, defeating the Fatui along
+---
+all_npc_text.txt:
+ y retained his hunting skills and was able to survive alone as a result. Pallad convinced Joserf to follow him to the Adventurer Camp, where they ran into Joel. After 
+---
+all_npc_text.txt:
+ ing Act I, and Primordial Albedo can change his appearance with alchemy, Albedo convinced Primordial Albedo to assume Joserf's identity so that the conflict between Rh
+---
+all_npc_text.txt:
+ ook. And, wow, did I discover an amazing opportunity! Unfortunately, I couldn't convince the organizers, and my proposal was declined. *sigh* This really sucks...
+Paim
+---
+all_npc_text.txt:
+ p himself afloat.
+Some of Kamei's friends resorted to banditry and attempted to convince him to join the group, but he refused each and every time they came, citing hi
+---
+all_npc_text.txt:
+ ventually made the existence of the chamber pointless. Shiki Taishou eventually convinced him to let go of his burdens; seeking a new purpose, no matter how long it to
+---
+all_npc_text.txt:
+ or help from Yae Miko. Fortunately, through the Traveler's help, he was able to convince Miko to help him.
+Story QuestsDivina Vulpes Chapter (Yae Miko)Act I: The Great
+---
+all_npc_text.txt:
+ [23] One night, he shared all of these desires with Nabu Malikata, and remained convinced even after she warned of the repercussions Celestia would bring on him, like 
+---
+all_npc_text.txt:
+ d that sort of tranquility was and saved us from a stormy sail.
+Kira: That only convinced us to follow the Akademiya even more, and we hope the relationship will conti
+---
+all_npc_text.txt:
+ uji, I would be able to eat all the Fried Tofu I desired. As if that would be a convincing reason... That woman spoke so much nonsense, honestly, she could be so insuf
+---
+all_npc_text.txt:
+ nd showed Nasejuna the documents he had previously found; this proved enough to convince Nasejuna to side with the Abyss Order.[8] To complete the task which Klingsor 
+---
+all_npc_text.txt:
+ ired to obtain the Great Songs by tricking the Pari Sorush into gathering them, convincing her that she needed to sacrifice herself to quell the Sign of Apaosh that ha
+---
+all_npc_text.txt:
+ rt room, correctly identifying her as the suspect that had stolen her macarons, convincing her to testify on Lyney's behalf in return for a reduced sentence. Liliane a
+---
+all_npc_text.txt:
+ s philosophy to make the whole show even more impeccable.
+Paimon: You've almost convinced Paimon! Paimon'll definitely give it some more thought.
+ Then we'll leave you
+---
+all_npc_text.txt:
+ f the orphanage.[2] It was there that she was approached by Rene and Jakob, who convinced Lyris (despite her reservations) to join the Narzissenkreuz Ordo.
+Lyris eithe
+---
+all_npc_text.txt:
+ uture" for her and one day be able to reunite with her. This was an allegory to convince Lyris that the future was not as hopeless as she believed, as her friends were
+---
+all_npc_text.txt:
+ ailure. Afterwards, she initially wanted to leave Inazuma out of guilt, but was convinced by the Traveler and Paimon to stay in Inazuma and adopt the Gendou Ringo iden
+---
+all_npc_text.txt:
+ peacefully, though he was initially insistent on completing it. Eventually, she convinces him to abandon it, and as a result of directly disobeying a Lord Harbinger's 
+---
+all_npc_text.txt:
+ er. She apologized to Ei for leaving her so suddenly, having intended to slowly convince her of her views over time but could not as she could not ignore Khaenri'ah. B
+---
+all_npc_text.txt:
+ esume painting.
+The Traveler would eventually help Seymour discover his master, convincing her to accept the present and leave her "ideal" story behind. During the mee
+---
+all_npc_text.txt:
+ !"
+Manly Jack: Ah! Shoo, shoo!
+Manly Jack: ...Oh, you're just a traveler. I was convinced that you were a hilichurl...
+Manly Jack: Aha, well! Ever heard of a little so
+---
+all_npc_text.txt:
+ Bosacius' memories during Only Old Memories Remain shows Menogias attempting to convince Bosacius to wear a purple robe. It can be assumed that he was unsuccessful, as
+---
+all_npc_text.txt:
+ m, the kabukimono returned only to discover that Niwa had gone missing. Dottore convinced him and the people of Tatarasuna that Niwa had abandoned them to their fates,
+---
+all_npc_text.txt:
+ so they had to recount some of their previous experiences only known to them to convince her and the Traveler. Having learnt the theme of this year's Lantern Rite, the
+---
+all_npc_text.txt:
+ so they had to recount some of their previous experiences only known to them to convince her and the Traveler. Having learnt the theme of this year's Lantern Rite, the
+---
+all_npc_text.txt:
+ h she was apprehensive about joining him and in poor condition, Rene eventually convinced Lyris to join the Ordo and extracted part of her essence to replicate her bod
+---
+all_npc_text.txt:
+  Nathan devised a way to break the Raiden Shogun's wards on Yashiori Island and convinced them that this would restore Orobashi's "dignity." This plan was neither devi
+---
+all_npc_text.txt:
+ d from Gurabad. It is suggested that he fled to Etta's worksite: that day, Etta convinced the overseers at her worksite to allow a "very clever friend" of hers to work
+---
+all_npc_text.txt:
+ ers get separated from the others, who meet up at the South Base Camp. Eberhart convinces the others that the unnamed members must find their way back to camp. He also
+---
+all_npc_text.txt:
+ s the others that the unnamed members must find their way back to camp. He also convinces them to investigate a secret room, which must contain murals and weapons forg
+---
+all_npc_text.txt:
+ m, the kabukimono returned only to discover that Niwa had gone missing. Dottore convinced him and the people of Tatarasuna that Niwa had abandoned them to their fates,
+---
+all_npc_text.txt:
+ ullah for destroying her homeland, and she managed to win Faramarz to her side, convincing him his father would cause Tulaytullah's destruction. The two conspired to a
+---
+all_npc_text.txt:
+ rparts: Kisra and Shirin were in a loveless marriage, which motivated Shirin to convince their son Shiruyeh (the real-life Sheroe was the son of Kisra and one of his o
+---
+all_npc_text.txt:
+  Schemes to Know.
+Media:VO Peseng All Schemes to Know 01.ogg Peseng: (How can I convince her...)
+Peseng: If I join the Eremites, I'll be able to both support my family
+---
+all_npc_text.txt:
+ ap the group while releasing poison gas, though he lets them go after Sigewinne convinces him to do so by giving him an improved version of his potion.
+Potton immediat
+---
+all_npc_text.txt:
+  human-like appearance and claiming that they were alike. Ultimately, Sigewinne convinces Morgane to let him see his mother a final time before going back to prison, b
+---
+all_npc_text.txt:
+ o seems to have become somewhat enamored with seafood lately. You should try to convince her to include some more fruits and vegetables in her diet.Sangonomiya KokomiA
+---
+all_npc_text.txt:
+ eason, Charlotte never believes me when I say I'm just an ordinary diver. She's convinced that my past is full of news stories waiting for her to dig up... Am I really
+---
+all_npc_text.txt:
+ ct.fandom.com/wiki/File:VO_Charlotte_About_Us_-_Headliners.ogg Good news — I've convinced Euphrasie to make you the next headliners of The Steambird! You'll be right u
+---
+all_npc_text.txt:
+  he managed to reassemble it just as swiftly. He seems very experienced — I was convinced he must have graduated from the Fontaine Research Institute, but he denied it
+---
+all_npc_text.txt:
+  as a kid, long before I ever thought about going into journalism, I was always convinced that secrets and mysteries were lurking in every corner... To me, the world i
+---
+all_npc_text.txt:
+ turned out that a whole bunch of people who already hated Fonta were completely convinced it was true... Well, either that, or they saw it as a good opportunity to ven
+---
+all_npc_text.txt:
+  tried, and the evidence was conclusive, she said to herself.But everyone seems convinced that he is in the right.The wealthy merchant had already drawn his sword, and
+---
+all_npc_text.txt:
+ strations she may feel.[4]
+Collei is somewhat of a bad liar, only being able to convince Amber on why she wanted to know about the Fatui's research. She is also prone 
+---
+all_npc_text.txt:
+ engeance." This matter-of-fact confession would alarm them all the more and has convinced everyone that she joined the Knights of Favonius only to serve as a mole for 
+---
+all_npc_text.txt:
+ et considered to be of drinking age in this world, and no bartender can ever be convinced otherwise.
+Interesting ThingsInteresting ThingsMedia:VO_Fischl Interesting Th
+---
+all_npc_text.txt:
+ oser to finding her.Perhaps I really was abandoned, Freminet thought, trying to convince himself to accept reality as he strained to summon the already vague memory of
+---
+all_npc_text.txt:
+  he managed to reassemble it just as swiftly. He seems very experienced — I was convinced he must have graduated from the Fontaine Research Institute, but he denied it
+---
+all_npc_text.txt:
+ eason, Charlotte never believes me when I say I'm just an ordinary diver. She's convinced that my past is full of news stories waiting for her to dig up... Am I really
+---
+all_npc_text.txt:
+ uffered from severe self-esteem issues and paranoia, as shown when the Traveler convinced the court audience that she was a fraud in her trial. Despite being undying d
+---
+all_npc_text.txt:
+ old corpse.The Gardes narrowed the suspects down to the servants, but the maid, convinced that the Master's death had something to do with the mansion's secret, at las
+---
+all_npc_text.txt:
+ s was good news.Thus did father and son continue to be stubborn, each seemingly convinced that the other would understand them in time... Gladsome was it, then, that e
+---
+all_npc_text.txt:
+ om.com/wiki/File:VO_Gaming_About_Qiqi.ogg Ah, Qiqi, the lovable munchkin. She's convinced that all my accidents are due to stiff joints, so whenever I'm at Bubu Pharma
+---
+all_npc_text.txt:
+ o seems to have become somewhat enamored with seafood lately. You should try to convince her to include some more fruits and vegetables in her diet.ShenheAbout Ganyu M
+---
+all_npc_text.txt:
+ e before deciding on the most suitable design."
+"Then Kaeya was somehow able to convince Master Diluc to hire craftsmen to make some modifications..."
+"...With fabric 
+---
+all_npc_text.txt:
+ I won't be doing that again though. I was on the road for so long that Jean was convinced I'd been gobbled up by Stormterror along the way!RosariaAbout Jean Media:VO_R
+---
+all_npc_text.txt:
+ aedehara_Kazuha_Chat_-_Nature.ogg This scenery is wonderful... Surely enough to convince anyone to become a wanderer.
+Chat: Playing a TuneChat: Playing a TuneMedia:VO_
+---
+all_npc_text.txt:
+ face off against him.
+He seems to get a kick out of telling bold-faced lies and convincing others to do his work, but this serves him well in his role in the Knights o
+---
+all_npc_text.txt:
+  to a cliff, Kaveh's engineering spirit and aesthetic appetites drove him on to convince her otherwise. Thus did the project begin with a flourish, and as the days pas
+---
+all_npc_text.txt:
+ e's nothing wrong with self-reflection, is there?" So she said, and it would be convincing, too — if Keqing didn't already have an entire shelf dedicated to Rex Lapis 
+---
+all_npc_text.txt:
+ 2.ogg Keqing: I was a little apprehensive actually, I was wondering how I could convince you if you refused at first...
+ I never knew you had a stargazing hobby.
+Media
+---
+all_npc_text.txt:
+ om, after all.Certifications serve as excellent proof of one's efforts, and are convincing ways of scoring points upon introduction — very useful things indeed.After e
+---
+all_npc_text.txt:
+ her at first, had a change of heart upon witnessing this sign, agreeing to help convince their parents....It was also due to this that she would willingly surrender he
+---
+all_npc_text.txt:
+ d food, only bad cooks." After getting my license as a chef, I became even more convinced that this is absolutely true.
+Receiving a Gift: IReceiving a Gift: IMedia:VO_
+---
+all_npc_text.txt:
+ ruly lovely today, making this a fine night to watch the sky. And now that I've convinced the couple who are usually here to leave, this is now the perfect spot to con
+---
+all_npc_text.txt:
+ onetheless."No one else can quite comprehend this principle, but Mona's ability convinces people to believe in it anyway.Albeit, sometimes grudgingly...Her astrologica
+---
+all_npc_text.txt:
+ ons and giving good answers, but I've come to realize that a lot of people just convince themselves they don't understand. The answers to their problems don't help the
+---
+all_npc_text.txt:
+ ngguang's advice.In the end, Ningguang agreed to disagree and gave up trying to convince the stubborn Beidou to change.Character Story 5 Friendship Lv. 6
+Being the cha
+---
+all_npc_text.txt:
+ o seems to have become somewhat enamored with seafood lately. You should try to convince her to include some more fruits and vegetables in her diet.
+About Keqing Frien
+---
+all_npc_text.txt:
+  with my work in my own way. But then they call me stubborn. All I try to do is convince people with results instead of trying to talk them round... Is that really stu
+---
+all_npc_text.txt:
+ I won't be doing that again though. I was on the road for so long that Jean was convinced I'd been gobbled up by Stormterror along the way!
+Favorite FoodFavorite FoodM
+---
+all_npc_text.txt:
+ iqi.ogg Media:VO KO_Gaming About Qiqi.ogg Ah, Qiqi, the lovable munchkin. She's convinced that all my accidents are due to stiff joints, so whenever I'm at Bubu Pharma
+---
+all_npc_text.txt:
+ s devoted to Inazuma, simply longing to protect it and her people. After she is convinced that her actions were destructive, Ei shows remorse and is willing to change 
+---
+all_npc_text.txt:
+ aybe, but not pointless. Those are the stories that grab people's attention and convince them to buy the paper to get all the details.Paimon: *sigh* ...Fine. Well... M
+---
+all_npc_text.txt:
+  their ears when they receive such an answer, and those they tell are even less convinced."Nonsense, if ever I've heard it! I'd sooner believe that angels exist!"Chara
+---
+all_npc_text.txt:
+  returned in vain, and perhaps there was consensus that the public would not be convinced by the story, for Sigewinne's answer was never published.Afterward, those aro
+---
+all_npc_text.txt:
+ e when it started, but this saying has gone around so much that many people are convinced of this when they hear it.As for those who have had unpleasant run-ins with T
+---
+all_npc_text.txt:
+  her promises to send people to their aid immediately, and returned in despair, convinced that the Shogunate had forsaken Tatarasuna.Still, the dispatch was sent, the 
+---
+all_npc_text.txt:
+ ent at the forge, and such was Escher's silvered tongue that he all too quickly convinced everyone that this was due to the failings of the local overseer.As the next 
+---
+all_npc_text.txt:
+ an ancient and glorious clan still ruled that vast kingdom.The dogmatic priests convinced the muddle-minded king upon the throne that the remnants of the Crimson Moon 
+---
+all_npc_text.txt:
+  the West.
+In the years afterwards, the Knights of Favonius did their utmost to convince the nameless knight to join them, but he never agreed. In reality, the events 
+---
+all_npc_text.txt:
+ triggered once every 12s.
+Most people will find this obsidian-inlaid club quite convincing indeed.
+Talking Stick is a 4-star claymore obtained from the Battle Pass.
+To
+---
+all_npc_text.txt:
+ d weight to one's words.
+Useful in any argument, no matter who the opponent, to convince them to listen to reason.
+In short, people listen to pearls of wisdom.
+Ultimat
+---
+all_npc_text.txt:
+ y the Fortress's administrator.But as noted before, Wriothesley had a knack for convincing others. Words have the power to incite, and so long as all residents of the 
+---
+all_npc_text.txt:
+  to create her most successful dishes. "Maybe this isn't so bad..." He tried to convince himself.Suffice to say that payment for a new wok is a regular feature of the 
+---
+all_npc_text.txt:
+ ls, seeing how her mannerisms and bearing set her apart from ordinary folk, are convinced that she's a heroine — so they go around trying to uncover her heroic backsto
+---
+all_npc_text.txt:
+ stocked it with fish, making it more likely that the Traveler would visit.
+When convinced enough, Xianyun can be easily swayed into making purchases. No matter small o
+---
+all_npc_text.txt:
+ uji, I would be able to eat all the Fried Tofu I desired. As if that would be a convincing reason... That woman spoke so much nonsense, honestly, she could be so insuf
+---
+all_npc_text.txt:
+ utes, Yanfei always gets all legal evidence beforehand to make a compelling and convincing argument. Although she can handle any case, she dislikes having to deal with
+---
+all_npc_text.txt:
+ o seems to have become somewhat enamored with seafood lately. You should try to convince her to include some more fruits and vegetables in her diet.QiqiAbout Yaoyao Me
+---
+all_npc_text.txt:
+ veler and their party, including his longtime friend Dehya. After finally being convinced that their true, common enemy is the Akademiya's sages, and not the entirety 
+---
+all_npc_text.txt:
+ st Remus and his Harmosts.[22] The Harmost Boethius and his followers, who were convinced that the path to Remus' ideal world and a free humanity meant subjugating all
+---
+all_npc_text.txt:
+ thing, because before a crisis comes, no one can truly use accurate evidence to convince another.
+Riqueti: But if we don't consider it at all... Some might call it opt
+---
+all_npc_text.txt:
+  travel around Inazuma. Like many others commissioned before him, he comes back convinced he had the Maushiro and forgetting most of his travels on Tsurumi Island. He 
+---
+all_npc_text.txt:
+  them. Vile is considering sending Kaeya to talk to Sara after having failed to convince her otherwise herself.
+Pre-release appearance
+New Recipes: Crispy Potato Shrim
+---
+all_npc_text.txt:
+  Katheryne, suggested using Setaria's connections to her homeland as a means to convince her to join their cause. She managed to convince her after manipulating severa
+---
+all_npc_text.txt:
+  to her homeland as a means to convince her to join their cause. She managed to convince her after manipulating several others into declaring themselves followers of K
+---
+all_npc_text.txt:
+ esult of the loss, it had caused the Akademiya to lose face and he subsequently convinced his superiors to temporarily suspend him from duty to mitigate the damage dea
+---
+all_npc_text.txt:
+  regained control of the situation. Shiki Taishou, though disheartened by this, convinces Harunosuke to move on and start anew. Harunosuke departs from the Domain with
+---
+all_npc_text.txt:
+ rom his potion. Potton trapped them in a chamber with poison gas, but Sigewinne convinced him to release them in exchange for an enhanced version of the potion, allowi
+---
+all_npc_text.txt:
+ ing in the kitchen. The Traveler and Paimon confirm the presence of a ghost and convince her to stop haunting the inn, after which he makes them a serving of Almond To
+---
+all_npc_text.txt:
+  the Akademiya could have made an argument to get me to enroll that was half as convincing as my own sales pitch, I wouldn't have turned them down on the spot back the
+---
+all_npc_text.txt:
+  the Akademiya could have made an argument to get me to enroll that was half as convincing as my sales pitches back then, I wouldn't have turned them down on the spot.
+---
+all_npc_text.txt:
+ hought we weren't getting our stuff back.
+Sumida: But somehow, Kama was able to convince them to return our things. They even gave him these coins with raven insignias
+---
+all_npc_text.txt:
+ initiated by Jenck, she initially tries to go back for it out of anguish but is convinced to honor its intentions. She then desires revenge against Jenck, but is unabl
+---
+all_npc_text.txt:
+ ler then informed her of the Fatui's plot, though when she did not appear to be convinced, instead issued a duel before the throne. Signora, overconfident in her power
+---
+all_npc_text.txt:
+  they express a desire to return home with them after finishing their goals and convinces them to continue their journey across Teyvat to witness the truth themselves 
+---
+all_npc_text.txt:
+ l they are in cahoots. By deliberately setting a higher price for his fish, Gao convinces people to buy from Sun, thinking his fish is a better deal. The two then spli
+---
+all_npc_text.txt:
+ mon doesn't know what she's been through, but it seems like it would be hard to convince her to return.
+Paimon: To be fair, things don't look too dangerous around here
+---
+all_npc_text.txt:
+ ay alongside Morris to the Fortress of Meropide, she tells her that she was not convinced with her judgement and that justice was not served that day.
+Chevreuse, under
+---
+all_npc_text.txt:
+ s had tried to access the Forum before but were unsuccessful in their task, and convinced the Traveler to help despite his occasional speech mishaps which showed signs
+---
+all_npc_text.txt:
+ offered to help in exchange of good exposure for her brand. He was also able to convince Furina to join the team as a director after he explained his problems. The Tra
+---
+all_npc_text.txt:
+ ink so too.
+Yusupov secretly sought to expand the Fatui's influence in Liyue by convincing Zhiyi to slowly poison Uncle Tian, the current Tianshu of the Liyue Qixing, 
+---
+a_purified_misc_content.txt:
+ ng to host a music festival around the same theme, but unfortunately I couldn't convince my investors.
+Media:vo yyeq001 1 itto 13.ogg Arataki Itto: Oh, yeah, I heard a
+---
+a_purified_misc_content.txt:
+ r to do business. Dori is indeed a sales genius. She can use her gift of gab to convince her customers to part with their money. Even the mysterious Jinni in the lamp 
+---
+a_purified_misc_content.txt:
+ 
+After overspending on the project, there was still Mora to be repaid, and Dori convinces Kaveh to foot the bill, resulting in his bankruptcy and debt. Kaveh gains nat
+---
+a_purified_misc_content.txt:
+  goaded his older half-brother Parsifal's love of chivalry and play-acting,[66] convincing him to become a Phantom Thief, then deceived him in some unknown manner, for
+---
+a_purified_misc_content.txt:
+ ers get separated from the others, who meet up at the South Base Camp. Eberhart convinces the others that the unnamed members should be able to find their way back to 
+---
+a_purified_misc_content.txt:
+ ui plot intended to cause instability in the nation and market their Delusions, convincing both Shinsuke and Takayuki to collude with them. Takayuki would feed the Sho
+---
+a_purified_misc_content.txt:
+ le to discover the whole truth of the plot and with the assistance of Yae Miko, convinced Ei to start listening to her people's wishes. After learning the full extent 
+---
+a_purified_misc_content.txt:
+ senkreuz Institute longing for the past. Rene and Jakob eventually find her and convince her to join the Ordo.
+Rene decides to become "the first subject" of his radica
+---
+a_purified_misc_content.txt:
+  another world.
+This led me to my conclusion:
+"The fox must be waiting for me!"
+Convinced of this fact, I chased the glittering white spot for hours on end. Suddenly, 
+---
+a_purified_misc_content.txt:
+  name allows a human being to exercise absolute control over them. So he wasn't convinced this one had simply forgotten her name.
+"So the court wants to retrieve the s
+---
+a_purified_misc_content.txt:
+ ntity known to her, she didn't display even the slightest sign of any interest.
+Convinced that this commoner didn't understand what was good for her, he decided that h
+---
+a_purified_misc_content.txt:
+ ality of individual self-preservation was deeply ingrained. How was he going to convince anybody to volunteer to be the bait and sacrifice themselves for everyone else
+---
+a_purified_misc_content.txt:
+  seeking to keep their land and village safe. There was nothing he could say to convince them that setting their houses and grain reserves on fire was anything close a
+---
+a_purified_misc_content.txt:
+ sion." My uncle paused for a second. "All these tricks point to a single goal — convincing everyone that the brooch is already gone. No one could ever imagine now that
+---
+a_purified_misc_content.txt:
+ so cruel.
+But yet the symbols and talismans scattered around the village made a convincing counterpoint. The chieftain could not have been mistaken...
+How should she f
+---

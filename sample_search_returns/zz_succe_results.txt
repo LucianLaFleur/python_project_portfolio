@@ -1,0 +1,2274 @@
+ad_hoc_text_data.txt:
+  is simply a must have — especially if we want good results.
+ Lisa: Look at the success of the shop! I could have never produced that kind of result on my own.
+ Jean
+---
+ad_hoc_text_data.txt:
+ r produced that kind of result on my own.
+ Jean: Well, I do have to admit, your success is remarkable.
+ Jean: I've been meaning to come see you for some time now, bu
+---
+ad_hoc_text_data.txt:
+ to make big plans for the future. Right now, we should focus on the hard-earned success we've been able to achieve so far. How about we find a time to celebrate toge
+---
+all_furnishings.txt:
+ om a combination of Pyro and Electro slimes. But even if his experiment were to succeed, the Knights of Favonius would never allow such a dangerous plan to proceed.
+
+---
+all_furnishings.txt:
+ oused from sleep. It is said that this design was popularized by a biography of successive Tianquan tenures.
+Realm Depot
+Aquamarine_Butterfly_Bush : ExteriorLandform
+---
+all_furnishings.txt:
+ ul and agile appearance of carp swimming in the water, hoping for good luck and success in the coming year.
+Vivid Flight Battle Pass: Gnostic Chorus
+Hung_Condensed_B
+---
+all_furnishings.txt:
+ er fashion outlets soon followed suit, but beyond the visual appeal, Chioriya's success lies in the excellent quality of its products. Just as its owner, Miss Chiori
+---
+all_furnishings.txt:
+ you can destroy all the wooden stakes in 2s, the challenge will be considered a success.Interact with the Practice Plaque to check your records. After hearing the Tr
+---
+all_furnishings.txt:
+  assist in drawing larger observation maps — a measure that met with unexpected success.
+Realm Depot
+Forest_Watcher's_Fastidiousness : InteriorSmall Furnishing Ornam
+---
+all_furnishings.txt:
+ rits of those who look upon the figure with an inner warmth.After their initial success, Acara Crafts has been making constant improvements to their art of creating 
+---
+all_furnishings.txt:
+ owever, Flower Shop owner Flora says that her experiments in this area have not succeeded. She suspects it is simply a rumor spread by merchants to bump up the price
+---
+all_furnishings.txt:
+ areful consideration, restricting the sale of imported fruits to Ritou and thus successfully protecting the local agricultural industry.
+Remarkable Chest
+Serene_Flam
+---
+all_furnishings.txt:
+ storyteller Tanger's son Razi, the Traveler, and Paimon, the Acara Crafts staff successfully created Aranara carvings beloved by the children. This prototype was giv
+---
+all_furnishings.txt:
+ , this principle applies not only to tea processing but to almost any job, with success closely tied to one's attention to detail.
+Realm Depot
+Encampment_Fence:_Deci
+---
+all_furnishings.txt:
+  character have been able to enjoy lasting honor and applause. The sole path to success, it seems, is the eternal commitment to "go all in," full force forward.
+Real
+---
+all_furnishings.txt:
+ earched for a long time but couldn't find what they needed. Thankfully, after a successful match, Prince had a wonderful dream, and after Shuyun elaborated on the de
+---
+all_furnishings.txt:
+ spired by a device used to extract coffee concentrate. However, to increase the success rate of the related research and analysis, its structure is more sophisticate
+---
+all_furnishings.txt:
+ cture and reserving space for internal piping.Of course, even if the architects succeed, there may not be much demand in Fontaine unless the Fontaine Research Instit
+---
+all_furnishings.txt:
+ by the table corners, and also extending the table's shelf life, a feature that succeeds in accomplishing multiple purposes. It is well-suited for restaurants that h
+---
+all_furnishings.txt:
+ purchase the materials to perform renovations and enlargements. Though few such successful cases have come to be in recent years, the "wish" for a better life surely
+---
+all_furnishings.txt:
+  pottery in her agreements, which would also earn her a fair sum for each piece successfully sold. Only within a few years, she defeated all her competitors utterly 
+---
+all_furnishings.txt:
+ to look identical to that famous theater are some decorations and accessories.A successful performance requires meticulous stage props, passionate actors, and years 
+---
+all_furnishings.txt:
+ g production costs. The automated manufacturing process for the awnings already successful, with no human labor involved in weaving, post-processing and dyeing. Howe
+---
+all_furnishings.txt:
+ g out in the wild, these tools are key to overcoming dangerous situations. Many successful adventurers have tools that few know how to use well but they, and these a
+---
+all_hangout.txt:
+ pegoat to keep the Takatsukasa Clan off their backs, and poor Ryuuji became the successful candidate.
+Media:vo lyycop001 1906006 heizou 11.ogg Shikanoin Heizou: In l
+---
+all_hangout.txt:
+  somewhere nice and quiet...
+ Step DescriptionThe training hasn't been all that successful, but having some cake with Gorou is pretty alright too!
+(Go to the spot)
+M
+---
+all_hangout.txt:
+ D—Do you have any other questions?
+Despite a few stumbles here and there, Layla successfully manages to answer all the questions.
+Media:vo lylcop001 1915902 layla 25
+---
+all_hangout.txt:
+  see art as revered and sacred. In the end, art is just another business. Being successful at running a business is an art form in itself.
+Media:vo kvcop001 1907806 
+---
+all_hangout.txt:
+ 1 1907813 cyno 11.ogg Cyno: Let's get back to business. If Alkami's case can be successfully resolved, you'll be eligible for a monetary reward from the Akademiya. D
+---
+all_hangout.txt:
+ ied. I've even used ingredients way more unusual than this and have yet to ever succeed.
+Media:vo dancop001 1910605 diona 19.ogg Diona: I really don't know what I ne
+---
+all_hangout.txt:
+ Media:vo zycop001 1901601 sayu 16.ogg Sayu: Think about it this way... If I did successfully ambush the Traveler, you would still have to report it to the Kairagi.
+M
+---
+all_hangout.txt:
+ The purpose of self-reflection is not to indulge in the pain of failure, but to succeed in your next attempt."
+Media:vo lylcop001 1915504 layla 31.ogg Layla: "If you
+---
+all_hangout.txt:
+ op001 1915504 layla 31.ogg Layla: "If you're reading this letter, then you have succeeded in taking the first step."
+Media:vo lylcop001 1915504 layla 32.ogg Layla: "
+---
+all_hangout.txt:
+ 3 Behind the Scenes
+4.4 Performance
+4.5 That's All, Folks
+4.6 Ending: A Roaring Success!
+5 Soundtracks
+6 Other Languages
+7 Change History
+Steps[]
+Enter Hotel Debord
+
+---
+all_hangout.txt:
+ est:
+During step 7, Lynette provides a "Search Mode" bonus of +5.
+Each document successfully read in step 7 will add a check bonus of +3 for step 8.
+During step 11, 
+---
+all_hangout.txt:
+ Merieux's latest show, as of course we've all come to expect from your numerous successful collaborations to date...
+Media:vo lntcop001 1918201 gillian 01.ogg Gillia
+---
+all_hangout.txt:
+  don't you want the fans to know how you're feeling right now? After the hugely successful opening of your first-ever show?
+Media:vo lntcop001 1918201 lynette 11.ogg
+---
+all_hangout.txt:
+ te — Director Merieux would like you to join the group photo to commemorate the successful opening of the show.
+Media:vo lntcop001 1918201 lynette 21.ogg Lynette: ..
+---
+all_hangout.txt:
+ nks to each and every one of you here for your help in making The Lost Puppet a success! The group photo is already being printed as I speak.
+Media:vo lntcop001 1918
+---
+all_hangout.txt:
+ tte. Clearly, this was a very suitable role for you indeed...
+(If Passive Check succeeds)
+(Perception Check Success) You seem to hear a sound...
+(TravelerTravelerThe
+---
+all_hangout.txt:
+ y suitable role for you indeed...
+(If Passive Check succeeds)
+(Perception Check Success) You seem to hear a sound...
+(TravelerTravelerThe player's chosen name for th
+---
+all_hangout.txt:
+ ing me an evil stare. But I couldn't figure out who it was...
+(If Passive Check succeeds)
+(Contemplation Check Success) You recall something regarding Lynette...
+(Tr
+---
+all_hangout.txt:
+ ldn't figure out who it was...
+(If Passive Check succeeds)
+(Contemplation Check Success) You recall something regarding Lynette...
+(TravelerTravelerThe player's chos
+---
+all_hangout.txt:
+ s, Lynette — It's no wonder you're getting such rave reviews!
+(If Passive Check succeeds)
+(Insight Check Success) This gentleman's expression seems a bit unnatural..
+---
+all_hangout.txt:
+ er you're getting such rave reviews!
+(If Passive Check succeeds)
+(Insight Check Success) This gentleman's expression seems a bit unnatural...
+(TravelerTravelerThe pl
+---
+all_hangout.txt:
+ e's no doubt about it. You are the protagonist, and the protagonist is you! The success of one is the success of the other, and that's what made this show an artisti
+---
+all_hangout.txt:
+  You are the protagonist, and the protagonist is you! The success of one is the success of the other, and that's what made this show an artistic triumph!
+Media:vo ln
+---
+all_hangout.txt:
+  this work.Hand over the role of lead actress immediately!...
+(If Passive Check succeeds)
+(Insight Check Success) Merieux appears surprised...
+(TravelerTravelerThe p
+---
+all_hangout.txt:
+ role of lead actress immediately!...
+(If Passive Check succeeds)
+(Insight Check Success) Merieux appears surprised...
+(TravelerTravelerThe player's chosen name for t
+---
+all_hangout.txt:
+ n can't... she's just not what the audience is looking for...
+(If Passive Check succeeds)
+(Insight Check Success) Merieux's attitude suddenly changed, and became a b
+---
+all_hangout.txt:
+  what the audience is looking for...
+(If Passive Check succeeds)
+(Insight Check Success) Merieux's attitude suddenly changed, and became a bit strange...
+(TravelerTr
+---
+all_hangout.txt:
+  this work.Hand over the role of lead actress immediately!...
+(If Passive Check succeeds)
+(Insight Check Success) Gillian appears surprised...
+(TravelerTravelerThe p
+---
+all_hangout.txt:
+ role of lead actress immediately!...
+(If Passive Check succeeds)
+(Insight Check Success) Gillian appears surprised...
+(TravelerTravelerThe player's chosen name for t
+---
+all_hangout.txt:
+  it from me — you would not be "putting us out"! Not one bit.
+ Whether the plan succeeds...
+ ...Is up to you.
+Media:vo lntcop001 1918207 gillian 10.ogg Gillian: You 
+---
+all_hangout.txt:
+ n.
+Lynette grabs your hand and leads you out of the tavern...
+(If Passive Check succeeds)
+(Perception Check Success) You seem to hear a sound...
+(TravelerTravelerThe
+---
+all_hangout.txt:
+ nd leads you out of the tavern...
+(If Passive Check succeeds)
+(Perception Check Success) You seem to hear a sound...
+(TravelerTravelerThe player's chosen name for th
+---
+all_hangout.txt:
+ oney: ...Hmm? What's the matter, cat got your tongue? The first half was a huge success — even I could tell the acting was top-tier...
+Media:vo lntcop001 1918210 mer
+---
+all_hangout.txt:
+ t's a pittance to you, isn't it? Hmph, must be nice to have the luxury of prior success and fame!
+Media:vo lntcop001 1918211 merieux 14.ogg Merieux: Look at us, we'r
+---
+all_hangout.txt:
+ self...
+Media:vo lntcop001 1918211 lynette 18.ogg Lynette: You mentioned "prior success and fame" earlier... But you're a well-known director yourself, with countles
+---
+all_hangout.txt:
+ wn director yourself, with countless works to your name. Wouldn't that make you successful too?
+Media:vo lntcop001 1918211 lynette 19.ogg Lynette: Or maybe, deep dow
+---
+all_hangout.txt:
+ ette: Or maybe, deep down... none of your current achievements really count as "success" to you.
+Media:vo lntcop001 1918211 merieux 19.ogg Merieux: Argh...!
+Media:vo
+---
+all_hangout.txt:
+ g Merieux: Did... did you say... perfect...?
+ Will you keep pursuing a kind of "success" that you don't even value...
+ ...At the cost of your own artistic integrity?
+---
+all_hangout.txt:
+ those critics with their dishonest reviews, I became all about the trappings of success, at the expense of the art itself.
+ At least you came to your senses just in 
+---
+all_hangout.txt:
+ king about? Never heard of it. (This dialogue option leads to Ending: A Roaring Success!.)
+(Draw a card equal to 6 or greater)
+Media:vo lntcop001 1918213 lynette 03.
+---
+all_hangout.txt:
+ lntcop001 1918213 cyril 02.ogg Cyril: Three, two, one, smile!
+Ending: A Roaring Success![]
+A Roaring Success!
+Aether
+Lumine
+"My line of sight was a little bit off...
+---
+all_hangout.txt:
+ il 02.ogg Cyril: Three, two, one, smile!
+Ending: A Roaring Success![]
+A Roaring Success!
+Aether
+Lumine
+"My line of sight was a little bit off...? It's fine as long a
+---
+all_hangout.txt:
+ s proven to be quite capable. Even though he was just a farmer before, he's now successfully running the caravans.
+Media:vo lyycop001 1905506 masashi 12.ogg Masashi:
+---
+all_hangout.txt:
+ hopperflower ×2
+Talk to the staff
+Dialogue[]
+ Quest DescriptionYou and Chongyun successfully enter the Test of Courage, but as you track the evil spirits, Chongyun s
+---
+all_hangout.txt:
+ at would change things.
+Media:vo frzcop001 1917204 faruzan 20.ogg Faruzan: If I successfully poach a student... those young punks at Haravatat will have one less rea
+---
+all_hangout.txt:
+ ay attention, children... children!
+ Looks like these early learning toys are a success.
+ However, looks like recruiting students might be an issue...
+Media:vo frzco
+---
+all_hangout.txt:
+ erwise, I...
+Media:vo noecop002 1908304 shayin 01.ogg Sha'yin: Thank you! We've successfully detained all the Treasure Hoarders who tried to escape through here.
+Med
+---
+all_hangout.txt:
+ some important business, so I came to retrieve her in his stead.
+(Passive Check succeeds)
+(Insight Check Success) This lady's expression seems a bit unnatural...
+(Tr
+---
+all_hangout.txt:
+ so I came to retrieve her in his stead.
+(Passive Check succeeds)
+(Insight Check Success) This lady's expression seems a bit unnatural...
+(TravelerTravelerThe player'
+---
+all_hangout.txt:
+ far more likely this cat, uh... escaped from the Humane Society.
+(Passive Check succeeds)
+(Insight Check Success) This gentleman's expression seems a bit unnatural..
+---
+all_hangout.txt:
+  uh... escaped from the Humane Society.
+(Passive Check succeeds)
+(Insight Check Success) This gentleman's expression seems a bit unnatural...
+(TravelerTravelerThe pl
+---
+all_hangout.txt:
+ 
+Media:vo lntcop001 1918504 lynette 12.ogg Lynette: Lefevere!
+(If Passive Check succeeds)
+(Insight Check Success) Lynette's expression seems a bit unnatural...
+(Trav
+---
+all_hangout.txt:
+ 04 lynette 12.ogg Lynette: Lefevere!
+(If Passive Check succeeds)
+(Insight Check Success) Lynette's expression seems a bit unnatural...
+(TravelerTravelerThe player's 
+---
+all_hangout.txt:
+ This isn't the place...)
+(If a certain amount of time passes)
+(Perception Check Success) There seems to be something odd over there...
+(Investigate the rock with rop
+---
+all_hangout.txt:
+ ing with him if I didn't want to be reported to the Gardes...
+(If Passive Check succeeds)
+(Insight Check Success) Bernard's expression seems a bit unnatural...
+(Trav
+---
+all_hangout.txt:
+ want to be reported to the Gardes...
+(If Passive Check succeeds)
+(Insight Check Success) Bernard's expression seems a bit unnatural...
+(TravelerTravelerThe player's 
+---
+all_hangout.txt:
+ leads.
+Media:vo lntcop001 1918522 lynette 06.ogg Lynette: ...
+(If Passive Check succeeds)
+(Insight Check Success) Lynette's expression seems a bit unnatural...
+(Trav
+---
+all_hangout.txt:
+  1918522 lynette 06.ogg Lynette: ...
+(If Passive Check succeeds)
+(Insight Check Success) Lynette's expression seems a bit unnatural...
+(TravelerTravelerThe player's 
+---
+all_hangout.txt:
+ 002 1908502 cyrus 16.ogg Cyrus: You only need to pass two out of three parts to succeed in the exam... but of course, Noelle should find she has no trouble getting a
+---
+all_hangout.txt:
+ s entrance examination...
+Media:vo noecop002 1908801 cyrus 17.ogg Cyrus: ...You successfully passed the exam! And you were so close to getting a perfect score... It 
+---
+all_hangout.txt:
+ s, then we can raise the difficulty at a later stage... Only in this way can we successfully attract newcomers...
+Media:vo noecop002 1908801 noelle 11.ogg Noelle: I.
+---
+all_hangout.txt:
+ eave her to it. Ellin looks busy with her training, some other time perhaps...
+(Succeeded to persuade Herman)
+(Talk to Schulz)
+Media:vo bblcop001 1900902 schulz 01.o
+---
+all_hangout.txt:
+ rse! Barbara-sama is working after all... Forgive me, I'll leave you in peace.
+(Succeeded to persuade Schulz)
+(Talk to Susie)
+Media:vo bblcop001 1900904 susie 01.ogg
+---
+all_hangout.txt:
+ — this must be incredibly important official business... I—I'll take my leave.
+(Succeeded to persuade Susie)
+(If you managed to persuade everyone)
+Media:vo bblcop001
+---
+all_hangout.txt:
+ uangzhi 03.ogg Guangzhi: Our collaboration with Dawn Winery last year was quite successful, and I was curious about your product shipment plans for the next quarter.
+---
+all_hangout.txt:
+ t, Master Kaeya...
+ In the end, you couldn't protect the reserve.
+ Kaeya's plan succeeded again...
+Media:vo kycop001 1909707 adelinde 04.ogg Adelinde: It's no skin o
+---
+all_hangout.txt:
+ k for signs of evil spirits alone
+Dialogue[]
+ Quest DescriptionYou and Chongyun successfully enter the Test of Courage, and despite causing a misunderstanding, you a
+---
+all_hangout.txt:
+ incident.
+Huffman: Although the Stormterror incident is now resolved, and we've successfully fended off the monsters...
+Huffman: The monsters erected quite a substan
+---
+all_hangout.txt:
+ zcop001 1917316 faruzan 11.ogg Faruzan: Thank you. If they could remodel Tamimi successfully even back then, there's no reason why we won't be able to do even better
+---
+all_hangout.txt:
+ our ago, I was at Hotel Debord for a drinks reception — it was to celebrate the successful opening of a show, but it was draining my energy... So, I waited for the r
+---
+all_hangout.txt:
+ 10.ogg Lynette: Here, take the fateometer. If it's 5 or above, that means "fate successfully changed," anything lower than 5 is a fail.
+Media:vo lntcop001 1918001 ly
+---
+all_hangout.txt:
+ teps
+2 Gameplay Notes
+3 Trial Character
+4 Dialogue
+4.1 The Temple of Wisdom
+4.2 Successes and Regrets
+4.3 Desert Sanctum
+4.4 Ending: Beneath the Stars
+5 Other Langua
+---
+all_hangout.txt:
+ h, and appears to be even more professional than the book's original contents.)
+Successes and Regrets[]
+(Approach the marked area in Port Ormos)
+Media:vo kvcop001 19
+---
+all_hangout.txt:
+ ther painful, so you try to get Sayu to try something else — exercise. Will you succeed this time?
+Recharge Plan[]
+(Go to Kiminami Restaurant)
+Media:vo zycop001 1901
+---
+all_hangout.txt:
+ nce I've finally managed to acclimate to life in Sumeru City, I'll show them my success... I hope that day will come, eventually.
+Media:vo lylcop001 1915404 layla 20
+---
+all_hangout.txt:
+ of his intuition... and a little guidance from beyond the void, Doushin Arataki successfully avoided being defrauded.
+Media:vo lyycop001 1905704 heizou 29.ogg Shikan
+---
+all_hangout.txt:
+  Heizou: Well, you still managed to protect your money. In the end, they didn't succeed.
+Media:vo lyycop001 1905704 itto 64.ogg Arataki Itto: Yeah, but... that was a
+---
+all_hangout.txt:
+ _1905203_beidou_02.ogg Beidou: We work as an armed carrier, earning our keep by successfully delivering the goods entrusted to us from A to B.
+Media:vo_bdcop001_1905
+---
+all_hangout.txt:
+ through over all these years? My life as the last Lefervere!?
+(If Passive Check succeeds)
+(Insight Check Success) Elodie's expression seems a bit unnatural...
+(Trave
+---
+all_hangout.txt:
+ ars? My life as the last Lefervere!?
+(If Passive Check succeeds)
+(Insight Check Success) Elodie's expression seems a bit unnatural...
+(TravelerTravelerThe player's c
+---
+all_hangout.txt:
+ dia:vo lntcop001 1918701 lynette 03.ogg Lynette: What's that—
+(If Passive Check succeeds)
+(Perception Check Success) This device seems a bit odd...
+(TravelerTraveler
+---
+all_hangout.txt:
+ ette 03.ogg Lynette: What's that—
+(If Passive Check succeeds)
+(Perception Check Success) This device seems a bit odd...
+(TravelerTravelerThe player's chosen name for
+---
+all_hangout.txt:
+ 1913204 luoqiao 21.ogg Luo Qiao: Now I see why you were able to become the most successful businessperson in Liyue Harbor.
+Media:vo ngcop001 1913204 luoqiao 22.ogg L
+---
+all_hangout.txt:
+ Gives the Memory "Nothing Gained"
+Dialogue[]
+ Quest DescriptionYou and Chongyun successfully enter the Test of Courage, but as you track the evil spirits, Chongyun s
+---
+all_nation_main_page_info_collection.txt:
+ adopts the Bundesadler ("Federal Eagle" in German) as its coat of arms. It is a successor of the Reichsadler ("Imperial Eagle") of the Holy Roman Empire, which in tu
+---
+all_npc_text.txt:
+ one necrosis and was surgically replaced, came from these "materials."[2]
+Abbas successfully completed the doctor's three-stage treatment and made a full recovery, w
+---
+all_npc_text.txt:
+ overy, with his Eleazar symptoms disappearing completely. With his experiment a success, the doctor switched his focus to his next interest — using the substance whi
+---
+all_npc_text.txt:
+ s killed during a banquet with Callas by the assassin, but the assassin was not successful in killing Callas.
+After Jacques' death, Coralie and Adele were taken to P
+---
+all_npc_text.txt:
+ f Haran Geppaku Futsu, approached them. Having left the Futsu school to avoid a succession crisis between himself and the fourth-generation master Futsu Hiroyoshi, M
+---
+all_npc_text.txt:
+ ing the Thunder Manifestation to destroy the Shogunate's ships.[1] While it was successful on that front, it also created a massive Electro storm in the middle of th
+---
+all_npc_text.txt:
+ yuri, and bring their Tengu mask back as a prize.[1][4][5]
+The Watatsumi forces succeeded in conquering and annexing Yashiori Island. Akuou — who had distinguished h
+---
+all_npc_text.txt:
+ al title held by the Okinawan rulers of the Chuuzan Kingdom (1350–1429) and its successor Ryukyu Kingdom (1429–1872).
+The etymology of his later title Akuou (Japanes
+---
+all_npc_text.txt:
+ ngineers of Fontaine to develop artificial intelligence, although none has ever succeeded.[13][22]
+In Ann's Story, there is a Hydro Mimic Mallard from the Narzissenk
+---
+all_npc_text.txt:
+ e collected, before providing it to adventurers.
+Alfry: So you can say that the success of adventurers and the Intelligence Division's work are joined at the hip.
+ H
+---
+all_npc_text.txt:
+ nture.[9] Mona also speaks favorably of Alice's skillset and sought out Alice's successor — Klee — in hopes that their combined knowledge would be enough to read the
+---
+all_npc_text.txt:
+ ath after his conflict with his client Badawi, Kaveh mentions that Alkami found success as an architect without taking private commissions and decides to seek out hi
+---
+all_npc_text.txt:
+ ilium Ultimum, or Final Kingdom Council.[3] After Knight Commander Hadura led a successful operation in stalling Abyssal beasts, Anfortas is indicated to have bestow
+---
+all_npc_text.txt:
+ ptional interactable Old Orders)Old Orders: ...Knight Commander Hadura, who has successfully led the operation to stall the beasts, is hereby conferred the title of 
+---
+all_npc_text.txt:
+ Self Announcement (Archived)
+							Adventurer Outfit
+Adventurers' Guild (after successful completion of Adventurer Exam: Taking Flight)
+Akagi Haruna (赤木 春菜)[1]
+Befo
+---
+all_npc_text.txt:
+ e about Apep's condition and vow to restore the Heart of Oasis. They eventually succeed and Apep is freed from her millennia of suffering. She decides to rest and re
+---
+all_npc_text.txt:
+ world as a countermeasure for the Heavenly Principles' abilities.[7] While they succeeded in gravely wounding the usurper,[10] they still failed to overthrow it and 
+---
+all_npc_text.txt:
+ trating a portion of her elemental energy into the Fire Seed, intending for her successor to use it to restore Apep after the cataclysm was dealt with. While Nahida'
+---
+all_npc_text.txt:
+ me." Any time playing with Nara is "the right time" for Aragita.
+(If the player successfully completes the challenge)
+Aragita: Hehe, Aragita's happy. This is for Nar
+---
+all_npc_text.txt:
+ me." Any time playing with Nara is "the right time" for Aragita.
+(If the player successfully completes the challenge)
+Aragita: Hehe, Aragita's happy. This is for Nar
+---
+all_npc_text.txt:
+ me." Any time playing with Nara is "the right time" for Aragita.
+(If the player successfully completes the challenge)
+Aragita: Hehe, Aragita's happy. This is for Nar
+---
+all_npc_text.txt:
+ give to Nara. Come back if you're up to the challenge!
+(Talk to Arapratap after successfully completing the challenge)
+Arapratap: One, two, three, three, two, one?
+A
+---
+all_npc_text.txt:
+ give to Nara. Come back if you're up to the challenge!
+(Talk to Arapratap after successfully completing the challenge)
+Arapratap: Nara can count, and I can count too
+---
+all_npc_text.txt:
+ ra is great! Arapratap has a nice gift for great Nara!
+(Talk to Arapratap after successfully completing the challenge)
+Arapratap: Nara picked up one shiny. Nara pick
+---
+all_npc_text.txt:
+  after flipping through the list.
+Aratani: In truth, Souka hasn't published any successful pieces yet. But I added her to our backup roster because of her great writ
+---
+all_npc_text.txt:
+ life of a hermit in this place.
+Archaic Lord of Lightning and Blitz: No mortals succeed in entering Jueyun Karst save for those of superior strength and extraordinar
+---
+all_npc_text.txt:
+ ame and Mouun in charge of leading their first navy.
+The initial invasion was a success. The Watatsumi forces conquered Yashiori Island and turned it into a vassal s
+---
+all_npc_text.txt:
+ art of her true plan, sending a mole named Tarafa to eliminate them. Tarafa was successful in his task until he was sent to a group that consisted of Jebrael and Sam
+---
+all_npc_text.txt:
+ up!
+Baharak: Now that we have the sponsorship from Mr. Vikram, it's bound to be successful this time!
+(Opens Genius Invokation TCG match interface)
+(If the player lo
+---
+all_npc_text.txt:
+  everyone enjoy good health, booming businesses, rewarding careers, wealth, and success!
+ Truly refined! May wealth find you, too!
+Baishu: Judging by your appearance
+---
+all_npc_text.txt:
+ d never spoke to each other again.[1] Baizhu's master would go on to become the successor to Changsheng's "Way of the Dragon-Dragging Jade Snake" contract. Like thos
+---
+all_npc_text.txt:
+ tly to him as well.
+Balfour: He even told me that if the competition were to be successful, we'd be increasing the number of qualifications needed to retain the Fung
+---
+all_npc_text.txt:
+ iya in the past, he knew that they had to mend relationships with them, and his successor had to let go of the past. Collaborating with Sethos, they hired a scholar 
+---
+all_npc_text.txt:
+ he Traveler, Diluc, and Jean, Venti works to save his old friend and ultimately succeeds after a showdown at Decarabian's Tower. However, despite his initial warines
+---
+all_npc_text.txt:
+ s his guard down and is ambushed by Signora of the Eleven Fatui Harbingers, who successfully takes his Gnosis for the Tsaritsa.[60]
+After coming to, Venti returns to
+---
+all_npc_text.txt:
+  within which the truth of our world can be observed. ...It is the one and only success story of that old lady's research endeavors.More About Mona: IV Media:VO_Mona
+---
+all_npc_text.txt:
+ ur missing and a letter on his perch.[1]
+Baulande took the mission as if he was successful, he would enjoy an early retirement with his family, who lived on the outs
+---
+all_npc_text.txt:
+ ght. I must've been overthinking.
+Uncle Anpu: I'm sure we'll have more reliable successors like Candace in our village.
+Belkacem: Of course! Speaking of Candace, rem
+---
+all_npc_text.txt:
+ conspire to free Benoit from his captivity.[5]
+With the Traveler's help, Benoit successfully escapes house arrest, but Benoit's sanity has been worn down by the orde
+---
+all_npc_text.txt:
+  sword.
+EventsOf Ballads and BrewsAct I: Sounds From AfarCharity Event! A Great Success!Charity Event? Securing Funds?Favonian GoodiesFavonian Goodies and BuddiesGoo
+---
+all_npc_text.txt:
+ urrent situation that we needed.
+Betresa: And as you have seen, Lord Sethos has succeeded him as our new leader.
+Betresa: As surely as we have eyes to witness it, th
+---
+all_npc_text.txt:
+ eaning of Lupical, Boreas can be fought in the Wolf of the North Challenge, and successfully completing the challenge yields rewards once per week.
+A noble soul that
+---
+all_npc_text.txt:
+ Wolsey after Camden complained about the noises it made during his naps. Wolsey successfully repaired Bran and provided it a job at the Coupon Cafeteria.[1]
+Bran tak
+---
+all_npc_text.txt:
+ nata."
+Carabosse: Hehe. It seems that the Truesight Potion has been marvelously successful. I think that quite a few enhanced formulas can be made, too... Vere can d
+---
+all_npc_text.txt:
+  upstaging the old regime.[2]
+The hardliners, including Thibert and Suavegothe, successfully lured Carole to the crime scene and accused her of murder, inciting a cr
+---
+all_npc_text.txt:
+ over a Primal Construct, triggering its activation unexpectedly. However, Alain successfully "tamed" the Construct and prevented any further mishaps. At some point, 
+---
+all_npc_text.txt:
+ n adult looking for reassurance from a child as young as Jakob. They managed to successfully conduct research into Primenergy Machinery with, Alain and Rene intendin
+---
+all_npc_text.txt:
+  its potential for security and surveillance applications.[3]
+Soon after, Alain successfully invented Arkhe energy systems, also known as "Pneumousia Energy". Carter
+---
+all_npc_text.txt:
+ e energy systems, also known as "Pneumousia Energy". Carter witnessed the first successful controlled annihilation reaction and the moment when the light bulb illumi
+---
+all_npc_text.txt:
+  but someone will have to put in a lot of work in order for it to become a true success story.
+ Excuse me, what is this place...?
+Cassigneul: Welcome. I'm Cassigneul
+---
+all_npc_text.txt:
+ Traveler and Ann descended into the Primordial Sea to confront the Master. They successfully defeat the Master, who agrees to travel to the surface to see the world 
+---
+all_npc_text.txt:
+ death, he passed down Changsheng and her contract to his disciple. The doctor's successors used their lifeforce to save countless lives, at the cost of their own. Th
+---
+all_npc_text.txt:
+ e cost of their own. This cycle continued for generations and had at least four successors.
+Lingyuan mentions that the Herblord has moved to Liyue Harbor and has fou
+---
+all_npc_text.txt:
+  yourself and consolidate the best practices from across the board to develop a successful business strategy.
+Changshun: It's been quite good. Feiyun Slope is prime 
+---
+all_npc_text.txt:
+ nd as repayment for allowing him to read the volume, Xingqiu enacts a plan that successfully puts an end to Maocai's harassment and allows Chang to sell his Cor Lapi
+---
+all_npc_text.txt:
+ he troubles of the past!
+ Although I don't know the details...
+Paimon: You will succeed for sure, Mr. Chatillon!
+ We'll catch you later, bye!
+Chatillon: Yes, you see
+---
+all_npc_text.txt:
+ d took control of the region. For this, Morax fought it at a "great height" and succeeded in slaying the beast. However, even after its death, the Chi's power contin
+---
+all_npc_text.txt:
+ clysm, the guardians of the forest would pass on the forest's language to their successors in order to protect it. Today, those successors are now known as the Fores
+---
+all_npc_text.txt:
+  the forest's language to their successors in order to protect it. Today, those successors are now known as the Forest Rangers.[4]
+Deepwood MemoriesLaurel Coronet
+In
+---
+all_npc_text.txt:
+ ream is to work my way up and become one of the Qixing one day. Someone big and successful.
+Clerk Zhao: I know it sounds ridiculous, the idea of starting as a minor 
+---
+all_npc_text.txt:
+ , instead issues an ultimatium for the Traveler to pass onto her "children;" to successfully remove her from the House, or they would be punished for treason. Ultima
+---
+all_npc_text.txt:
+ shed with Peruere, a child of the House of the Hearth, who ended up killing and succeeding her as the current Knave.[8]
+Despite her seemingly caring appearance, Cruc
+---
+all_npc_text.txt:
+ uld later inherit her title after being commuted by the Tsaritsa.
+After she was succeeded by Peruere, Efim Snezhevich began to act independently and continued to pur
+---
+all_npc_text.txt:
+ mains inside Collei.[6] Cyno was dispatched to Mondstadt in response,[7] and he successfully sealed the remains. Afterwards, he took Collei back to Sumeru and left h
+---
+all_npc_text.txt:
+ ecious chest. The challenge timer will decrease as the rewards increase after a successful run.
+After earning the precious chest, the player cannot earn any more rew
+---
+all_npc_text.txt:
+ ndent on the education of future scholars?
+Darya: If we wait until there are no successors left, it will be too late already. We can't actually bring in researchers 
+---
+all_npc_text.txt:
+ se Linebreakers, these fighters who dwell underwater. I haven't really had much success yet.
+Delaroche: But so long as I keep my head down and keep at it, believe me
+---
+all_npc_text.txt:
+ rk was easy and fun.
+Denichere: Of course, when Fonta became a major commercial success the Institute started paying more attention.
+Denichere: After that, we founde
+---
+all_npc_text.txt:
+ nichere: Yeah, see you. I need to figure out how to fix this thing...
+After the success of the peace talks between Watatsumi and the Shogunate, Denjirou returned to 
+---
+all_npc_text.txt:
+ ave no way of making my dream come true... I still have a group of disciples to succeed my will. The Meikyou Shisui Art will never be forgotten. There is still hope 
+---
+all_npc_text.txt:
+ th... I didn't know both of us were adventurers!
+Dr. Livingstone: Thank you for succeeding where I did not. But I am going to stay here.
+Dr. Livingstone: There are s
+---
+all_npc_text.txt:
+ tually broke free from Durin's stomach. After he discovered the existence of a "successful" Albedo, he began conspiring to take the latter's place. To that end, he t
+---
+all_npc_text.txt:
+ f an "aristocat."  Players seeking to establish a relationship with it may find success by imitating the mannerisms of an aristocrat, and gently raising its paws in 
+---
+all_npc_text.txt:
+ t, and Luther. He attempted to slay Ingbert and Luther personally, and while he succeeded in taking down Ingbert and mortally wounding Luther, he was gravely injured
+---
+all_npc_text.txt:
+ r, this plot to kill Ingbert was probably in order to move ahead in the line of succession.[5]
+Back in Mondstadt, the aristocracy ultimately discovered Eberhart's pl
+---
+all_npc_text.txt:
+ of the prophecy. She assigned Focalors, one of her Oceanid followers, to be her successor, hoping that she would be able to concoct a plan to deceive Celestia.[28]
+F
+---
+all_npc_text.txt:
+  worship the Harvisptokhm as their god.[22]
+Following Egeria's passing, she was succeeded as Hydro Archon by Focalors. However, the Oceanids, who worshipped Egeria a
+---
+all_npc_text.txt:
+  before her death, believing that it is the "conundrum" she left behind for her successor.[17]
+Character StoriesCharacterStoriesNeuvilletteA Fontainian Nursery Rhyme
+---
+all_npc_text.txt:
+  role as the previous ruler of Fontaine, the nation of Hydro. Incidentally, her successor's vessel, Furina, is also named after a Roman water goddess.
+Amrita (Sanskr
+---
+all_npc_text.txt:
+ ates.[6] Based on the relevant description for the Special Wisdom Orb, Yurochka succeeded in disposing of Elchingen,[7] although the Traveler can encounter Yurochka 
+---
+all_npc_text.txt:
+ , Ella asked Mika to guide her to a hilichurl tribe to talk with them. Mika was successful in doing so, but Ella, with her inexperience, accidentally offended the hi
+---
+all_npc_text.txt:
+ te the mission this time!
+Ematol: That's why I honestly feel the credit for the success of this mission belongs to the Spark Knight! The Spark Knight is not interest
+---
+all_npc_text.txt:
+  mission to "Annihilate the Invasive Anglers." I am happy to report that I have successfully eradicated all the invasive Anglers in Cider Lake, and have had the chan
+---
+all_npc_text.txt:
+ ch and understanding rapidly evolve as she merges with each Hydro Mimic. Endora successfully communicates with Rhodeia, resolving a misunderstanding and quelling her
+---
+all_npc_text.txt:
+ stage all the time.
+Fan Er'ye: Eventually I made a name for myself and saw some success. Enough to buy the place up myself. Now I run it.
+Fan Er'ye: Granny Ruoxin? H
+---
+all_npc_text.txt:
+ o was also his father's concubine, to assassinate the obese king. Although they succeeded, the ensuing political turmoil eventually led Faramarz to assassinate Makha
+---
+all_npc_text.txt:
+ oraz, then raised an army against Balash to reinstate Faramarz. While Goraz was successful and Balash was implied to have died in the conflict, Faramarz was moved ba
+---
+all_npc_text.txt:
+ illelith stands guard, evil shall never prevail."
+Fengyan: The Millelith is the successor to the Millelith Brigade that served long ago during the Archon War.
+Fengya
+---
+all_npc_text.txt:
+  the former Hydro Archon among The Seven who presided over Fontaine. She is the successor of Egeria, and was originally one of Egeria's Oceanid familiars.
+Once one w
+---
+all_npc_text.txt:
+ Prophecy. According to herself, this was the reason why Egeria chose her as her successor for the position of the Hydro Archon.
+Like Furina, Focalors was also extrem
+---
+all_npc_text.txt:
+  an Oceanid transformed into a human by Egeria, who Egeria had chosen to be her successor in the hopes that she would figure out a solution to the prophecy. The Ocea
+---
+all_npc_text.txt:
+ ng Furina take her place as the Hydro Archon for the past 500 years in order to successfully deceive the Heavenly Principles. She then reveals her plan to end hersel
+---
+all_npc_text.txt:
+ a, while Barbara was raised by their father.[4] Frederica raised Jean to be the successor of the Gunnhildr Clan using a strict regimen[3] and allowed her daughter fe
+---
+all_npc_text.txt:
+ tunities when they come your way, and while you might not be destined for great success you'll have a happy and secure life ahead of you. Got it?
+ Could I get some o
+---
+all_npc_text.txt:
+ pycat authors in Inazuma, but none has achieved anywhere near the same level of success. He is, as they say, inimitable...
+ So, tell me about the Guhua Clan.
+Gaiman:
+---
+all_npc_text.txt:
+ r getting a permit with Yanfei's assistance, the tournament soon proves to be a success. Hanakado decides to stay in Liyue to continue learning from Guoba and the ad
+---
+all_npc_text.txt:
+  diets. He hosts a contest sometime during Lantern Rite, which is implied to be successful. Having to get back home before their money runs out, Itto and Shinobu lea
+---
+all_npc_text.txt:
+ t makes him a good egg. Luo can be mean sometimes, but he's training Jin as his successor in earnest.
+Grandpa Lu: It's up to Jin himself whether he can stand Luo's t
+---
+all_npc_text.txt:
+ ing!
+Granna: And once I've made it, I'm so gonna show off to Virda!
+ May you be successful.
+Granna: Heh, thanks, but no need! I'll be fine, with or without anyone's 
+---
+all_npc_text.txt:
+ nd the predecessor to the current Dendro Archon, Lesser Lord Kusanali. Like her successor, Greater Lord Rukkhadevata held the title of God of Wisdom.[12]
+Greater Lor
+---
+all_npc_text.txt:
+ Tunigi Hollow, the main rift where the Abyssal creatures emerged from,[46] they successfully suppressed the power of the Abyss — at a price.[51][Note 3] When the for
+---
+all_npc_text.txt:
+ years ago with Apep's creatures and saves Apep from illness.[59]
+In addition to successfully removing the pollution from Irminsul, the removal of Greater Lord Rukkha
+---
+all_npc_text.txt:
+ s a blacked-out line. Based on the story it shared earlier in the quest and its success in preserving its apocalpyse-corrupted memories, it was likely saying Rukkhad
+---
+all_npc_text.txt:
+ ve no idea who, but I'm sure it was someone in our merchant guild jealous of my success — caused the higher-ups to have me posted to Qingce Village!
+Great Merchant H
+---
+all_npc_text.txt:
+ ou became captain of The Crux, she would run into Haishan many times, but never succeeded in killing the leviathan until one fateful day. As she and her crew sang a 
+---
+all_npc_text.txt:
+ on device on the water pool found in the ruins, but the process was unlikely to succeed and wreaked suffering upon the former Khaenri'ah inhabitants. Despite the pai
+---
+all_npc_text.txt:
+ Rtawahist Darshan.[2] She is considered a genius in the Akademiya thanks to her successful attempts at connecting to Irminsul using Spirit Borneol after only three y
+---
+all_npc_text.txt:
+ d eventually make contact with a divine being, and came to believe that she had successfully linked her mind to Irminsul. She began exhibiting unusual behavior, whic
+---
+all_npc_text.txt:
+ to be harmed, and thus appointed one of her fellow Oceanid follower Focalors to succeed her when the time has come.
+500 years ago, a surge of forbidden knowledge[27]
+---
+all_npc_text.txt:
+ ah's past mistakes.[30]
+Following Egeria's death during the Cataclysm, Focalors succeeded her as the Hydro Archon. Thrust with the looming prophecy, she sought to fi
+---
+all_npc_text.txt:
+ e time but accepted out of a need to find answers for himself, while Furina was successful in duping the masses for the next 500 years.
+The Traveler woke up 500 year
+---
+all_npc_text.txt:
+  Rite of Duels to see who would claim the other half of Hermanubis' power. Cyno successfully defeats Sethos in the duel, and he absorbs his fragment without issue.
+H
+---
+all_npc_text.txt:
+ der to centralize foreign trade under the Inazuman government.[2] He ultimately succeeded, creating the trading hub of Ritou. To prove its benefits, he imported vari
+---
+all_npc_text.txt:
+ .[4] After performing several tests, the Traveler was able to use the device to successfully take down the Ruin Grader for good. Unfortunately, the Traveler also com
+---
+all_npc_text.txt:
+ demic world.
+Hosseini: With that under my belt, I can be said to have graduated successfully. I will not stop here, of course.
+Hosseini: I've applied to look into a 
+---
+all_npc_text.txt:
+ ch with them from time to time. She passed away centuries ago but had a line of successors, the most recent of which is Scarlett.[2]
+I. Ivanovna never had any magic 
+---
+all_npc_text.txt:
+ ary" in comparison to other members of the Hexenzirkel.[6] She had a lineage of successors and followers, although none of them were acknowledged by Hexenzirkel Elde
+---
+all_npc_text.txt:
+ ries ago, she passed her title onto her students and followers. Her most recent successor, Scarlett, had the prophecy which the Hexenzirkel members had written and s
+---
+all_npc_text.txt:
+ em, and I may even get to be a sage!
+Idhari: Just wait and see! I'll definitely succeed.
+Available after completing Where the Boat of Consciousness Lies.
+Idhari: New
+---
+all_npc_text.txt:
+ danuki to follow the Traveler's instructions as he wished to appoint him as his successor when he was older.
+Ioroi: Once upon a time, I was the renowned bake-danuki,
+---
+all_npc_text.txt:
+  of his blade, Hakuen Michimitsu Amenoma, which claims that none in the Iwakura Succession (of which Mitsunari was one) had a Vision.
+↑ Toraemon and Arashi's dialogu
+---
+all_npc_text.txt:
+ village. Despite the obvious failings, Iwata refused to give up in his quest to successfully grow crops and began experimenting with making his own fertilizer. Durin
+---
+all_npc_text.txt:
+ ver 500 years ago and remained alive in the present day as a "neohuman" who has successfully adjusted to the Abyss' power. Jakob and his adoptive older brother, Rene
+---
+all_npc_text.txt:
+ ve his life. He miraculously adapted to the Abyss' power,[6] becoming the first successful example of what Rene later dubbed a "neohuman." Believing Jakob's transfor
+---
+all_npc_text.txt:
+ ption, projecting confidence to outsiders, and became willing to do anything to succeed, including experimenting on his own followers.[9]
+In the present day, he tric
+---
+all_npc_text.txt:
+ own. Despite Director Lyris' promise to obtain that feather for them, she never succeeded.[17]
+Several years after the Siege of Poisson, Basil invited her old friend
+---
+all_npc_text.txt:
+ n would go with Emanuel.[4]
+Basil ultimately perished after a long pursuit, but successfully took down Elynas in the process.[19] Meanwhile, a massive flood later ca
+---
+all_npc_text.txt:
+ mean "[selling] oneself to the 'fate' of this world."[36] He also believed that success would allow him to extract and save Carter, and regain Alain's and Mary-Ann's
+---
+all_npc_text.txt:
+ desperately researched for a way to bring back Rene, still believing they could succeed and even bring back Carter, sharing his progress to Rene despite Rene's inabi
+---
+all_npc_text.txt:
+ ects, Jakob was initially torn but steeled himself to do anything necessary for success.[9]
+Jakob soon found suitable subjects in a faction of the Ordo led by Zenaid
+---
+all_npc_text.txt:
+ h he had never dared to give up due to its emotional significance. He named the successful gestalt body "Narzissenkreuz" — the new Master of the Narzissenkreuz Ordo 
+---
+all_npc_text.txt:
+ eved the knowledge would "obstruct [Rene's] path to transcendence."[9] This was successful; Rene became the basis of the gestalt Narzissenkreuz and returned to leade
+---
+all_npc_text.txt:
+  something similar.
+Jazari: But let's wait until my results have been published successfully. I'll make sure to fill your bellies, be it Curry Shrimp, or even Tandoo
+---
+all_npc_text.txt:
+ ar, but Lyney told her that he was nothing like her before leaving. After Lyney successfully performed Cesar's high-drop trick, Jemma contemplated her choices and co
+---
+all_npc_text.txt:
+ n's home-brewed rice wine was sweet and smooth. The poet drank several bowls in succession, and he was in such high spirits, it seemed to him like he'd uncovered the
+---
+all_npc_text.txt:
+ his inheritance in favor of Sachin giving it over to whoever he deemed a worthy successor, Jiwani hired Eremite's to kidnap Sachin so he could take his inheritance b
+---
+all_npc_text.txt:
+ ma. Many business owners buy one to place in their stores, hoping for financial success.
+Kaede: They look really cute as well! It's not a bad idea to gift them to yo
+---
+all_npc_text.txt:
+ e Sangonomiya Clan's crest under the spearhead.
+Media:VO Kagawa 01.ogg "Another successful training!"
+Kagawa: Mm, yes... Getting closer to nature is also part of tra
+---
+all_npc_text.txt:
+  my old place, the Tenryou Commission, is doing...
+ Everyone contributed to our success.
+Kaida Ryouma: Oh, come on, you don't have to be that humble. That said, you 
+---
+all_npc_text.txt:
+  Past Day, Part 3: In a New Light
+According to Ioroi, "Kichiboushi" will be his successor as "Hidden Protector of the Grove"; in the event Eight Locales Over Mountai
+---
+all_npc_text.txt:
+  locations, he will initiate a Temari challenge. Finishing his Temari challenge successfully three times grants a Precious Chest, and allows the player to play custo
+---
+all_npc_text.txt:
+ onor him, possibly even intending to make human sacrifices.[44] Both he and his successor Parvezravan were recorded as envoys of King Deshret.[45] Liloupar states th
+---
+all_npc_text.txt:
+ e entrance to the Eternal Dreamland at Khaj-Nisut, suggest that he reached some success in his plans.[Note 4]
+In the end, all of King Deshret's dreams were left unfu
+---
+all_npc_text.txt:
+ omakata: I mean, we've got a sterling player like you on side. We'll definitely succeed, right?
+ Yeah... Hooray... Good luck...
+LanguageOfficial NameEnglishKomakataC
+---
+all_npc_text.txt:
+ l: Munaciello keeps saying that "information is cargo too" — and he's certainly succeeded in creating all sorts of unnecessary expectations of us porters.
+Kosel: Don
+---
+all_npc_text.txt:
+ lo used to keep saying that "information is a type of good too." That certainly succeeded in creating all sorts of unnecessary expectations of us porters.
+Kosel: Now
+---
+all_npc_text.txt:
+ recognize me, huh.
+Kujirai Momiji: Allow me to introduce myself, then. I am the successor to the Kujirai Fishing Method and the founder of the Kujirai Guild — Kujira
+---
+all_npc_text.txt:
+ But, Nilou is so good at dancing, and everybody loves her so much...
+Kumari: Is success at school more desirable than being a good dancer?
+Kumari: I love Nilou! She'
+---
+all_npc_text.txt:
+ ame is likely inspired by the real-life 7th century Berber ruler Kusaila, whose successor was queen Dihya.
+Kusayla meeting with IdrisiKusayla's arson of the Dakan Al
+---
+all_npc_text.txt:
+ hadevata, who created her from the purest branch of Irminsul in order to be her successor.[9]
+After all memories of Greater Lord Rukkhadevata were erased from Teyvat
+---
+all_npc_text.txt:
+ insul.[9] Before her demise, she took the purest branch from Irminsul to be her successor, that being Lesser Lord Kusanali, who then ascended to the position of Arch
+---
+all_npc_text.txt:
+ an Journals and Farrokhzadan Note, sets of interactables found in Sumeru.
+After successfully completing a commission by the Fatui to kill a traitor, the Fatui paid t
+---
+all_npc_text.txt:
+ eem happy, judging by your tone.
+Lyudmila: It is indeed good that the Harbinger succeeded, but I'm reminded that Lady Signora also succeeded at Inazuma only to...
+Mi
+---
+all_npc_text.txt:
+ deed good that the Harbinger succeeded, but I'm reminded that Lady Signora also succeeded at Inazuma only to...
+Mikhail: Look at you. You're worrying too much. From 
+---
+all_npc_text.txt:
+ ing that Lyudochka genuinely regretted her actions and did not want the plan to succeed, came up with a plan with Momoyo to fake her death so Efim would not pursue h
+---
+all_npc_text.txt:
+ finding Mosso Lombroso's workshop in the hopes of an early retirement if he was successful in his mission. She took their arrival as a bad sign and wants Bauland to 
+---
+all_npc_text.txt:
+ h? That means flying the Barking Fox is really fun! That's great! It's a design success!
+↑ Event Secret Summer Paradise Quest: Part III - Dreams and First Encounters
+---
+all_npc_text.txt:
+ ch data!
+Maillardet: As long as we can iterate on them smoothly, the joy of our success will be doubled.
+Maillardet: And the coming of that joy now rests upon your s
+---
+all_npc_text.txt:
+ r!
+Maillardet: Regardless of what anyone else thinks, I believe that this was a successful attempt.
+Maillardet: Of course, there was a happy accident involved... Wit
+---
+all_npc_text.txt:
+ t is a front for his underground Sinthe business. He made a fortune through his successful Sinthe business and use it to fund his experiments on Primordial Seawater.
+---
+all_npc_text.txt:
+ : See you, may we meet again!
+Available before finishing Charity Event! A Great Success!
+Mats: Yo, Honorary Knight! Would you like to hear good news from the shop?
+M
+---
+all_npc_text.txt:
+ t hard work, it's a good time!
+Available after finishing Charity Event! A Great Success!
+Mats: Yo, I heard the charity sale was a great success. Congratulations, Hon
+---
+all_npc_text.txt:
+  Charity Event! A Great Success!
+Mats: Yo, I heard the charity sale was a great success. Congratulations, Honorary Knight!
+ This is the result of our collaborative e
+---
+all_npc_text.txt:
+ eem happy, judging by your tone.
+Lyudmila: It is indeed good that the Harbinger succeeded, but I'm reminded that Lady Signora also succeeded at Inazuma only to...
+Mi
+---
+all_npc_text.txt:
+ deed good that the Harbinger succeeded, but I'm reminded that Lady Signora also succeeded at Inazuma only to...
+Mikhail: Look at you. You're worrying too much. From 
+---
+all_npc_text.txt:
+ the game!
+Mischievous Aranara: Being found doesn't mean you lost the game! Nara successfully found Aranara. Aranara has been successfully found. It's a win for both,
+---
+all_npc_text.txt:
+ esn't mean you lost the game! Nara successfully found Aranara. Aranara has been successfully found. It's a win for both, hehe.
+(Talk to the Mischievous Aranara after
+---
+all_npc_text.txt:
+ uppose I can tell you. Before me is an opportunity that will make me, should it succeed, or break me should it fail...
+Mister Qi: My friend heard tell from the Jade 
+---
+all_npc_text.txt:
+  little for the rest.
+Miyazaki Saburou: I am a swordsmith from Tatarasuna and a successor of the Miyazaki Art.
+Miyazaki Saburou: I have been under the protection of 
+---
+all_npc_text.txt:
+ bandits, and deduced that it had been staged. The plans however were ultimately successful, and when the festivities at Liyue Harbor began, Houzhang and Jiehu watche
+---
+all_npc_text.txt:
+ s leaked, hired an assassin from Fleuve Cendre to assassinate her. The assassin successfully killed Elisa, but not her two children, Baptiste and Veronique, who she 
+---
+all_npc_text.txt:
+ ya assist her in nabbing him. After "celebrating" with the others on the film's success, Yoimiya drags Morris with her to collect fireworks, only to be "shot" and ki
+---
+all_npc_text.txt:
+ on, he had the paper publish incriminating, falsified evidence on him. This was successful in swaying public opinion onto him and he subsequently died to a Champion 
+---
+all_npc_text.txt:
+ bandits, and deduced that it had been staged. The plans however were ultimately successful, and when the festivities at Liyue Harbor began, Houzhang and Jiehu watche
+---
+all_npc_text.txt:
+ r Lord Rukkhadevata's death, the Sabzeruz Festival became a celebration for her successor Lesser Lord Kusanali's birthday.[13]
+At some point in time, Nabu Malikata f
+---
+all_npc_text.txt:
+ Nadia: You are right. As long as we persevere, there will always be a chance of success.
+Nadia (Russian: Надя Nadya) is the night time Fatui guard for the Northland 
+---
+all_npc_text.txt:
+ iques from Khaenri'ah (possibly Khemia) to further refine Lyris' essence, Jakob succeeded in creating Hydro Eidolons who could maintain a “rudimentary humanoid form”
+---
+all_npc_text.txt:
+  pocketwatch Alain Guillotin had gifted him as a cornerstone for the ritual, he successfully implanted Rene's consciousness into the creature and named him Narzissen
+---
+all_npc_text.txt:
+  his path to transcendence”. The Master believed his first attempt to have been successful, though he was aware of a portion of his life and memories being missing. 
+---
+all_npc_text.txt:
+ be implicated in their scheme in the event that they were caught.[3] While they succeeded in breaking the wards, this instead unleashed the Tatarigami, causing peopl
+---
+all_npc_text.txt:
+ line. In the new version of the Tatarasuna Mystery, Niwa and another swordsmith successfully used the mechanic's device to purge Tatarasuna of its filth at the cost 
+---
+all_npc_text.txt:
+ ed, as he did not his follow his brother. Sometime after, Nagatane died and was succeeded by Iwakura Mitsunari.
+After receiving word that a Traveler has been going a
+---
+all_npc_text.txt:
+ er moved beyond Souken, the lowest known rank.
+Sometime after Iwakura Mitsunari succeeded as Soushu of the Iwakura Clan, the Vision Hunt Decree was proclaimed. Mitsu
+---
+all_npc_text.txt:
+ ater. After the funeral, Hu Tao searched for his spirit in Wuwang Hill, with no success. She realized that her grandfather had already passed through the border betw
+---
+all_npc_text.txt:
+ .—The Royal Tomb of Orupeusu
+After Clymene activates the Soul Guide's Locus and successfully summons the Sunchildren's spirits, the memories of Enkanomiya's people o
+---
+all_npc_text.txt:
+ rks closely with The Doctor,[6] who aims to create an artificial god and nearly succeeded during Chapter III.[7]
+Pantalone is currently in charge of Snezhnaya's econ
+---
+all_npc_text.txt:
+ long the way he acquired a bow and used it in his robberies, which he was quite successful at, causing much fear and rage among the nobles.[5] At least some of his s
+---
+all_npc_text.txt:
+ ne: Goodbye, have a nice day!
+Available before finishing Charity Event! A Great Success!
+Pauline: Hello, do you have any new tasks?
+Pauline: You'll be pleased to kno
+---
+all_npc_text.txt:
+  the elderly and the children!
+Available after finishing Charity Event! A Great Success!
+Pauline: Honorary Knight, word around town is that the charity sale was a ru
+---
+all_npc_text.txt:
+ uline: Honorary Knight, word around town is that the charity sale was a runaway success, all thanks to you, Paimon, Bernhard, and Mats!
+Pauline: Even I got a taste o
+---
+all_npc_text.txt:
+ have deployed 457 bombs and cleared out 203 nests and all the invasive Anglers, successfully eliminating the negative effects resulting from the introduction of the 
+---
+all_npc_text.txt:
+ he was a descendant of Khaenri'ah's Crimson Moon Dynasty, a bloodline which the succeeding Eclipse Dynasty — which Pierro belonged to — believed had gone extinct.[14
+---
+all_npc_text.txt:
+ o created the Fellflower variant to distract Albedo, intending to eliminate the successful experiment and take his place when the time was right. However, the Travel
+---
+all_npc_text.txt:
+ t's end goal.[5] During Shadows Amidst Snowstorms, Albedo is revealed to be the successful product of Rhinedottir's Primordial Human Project.[6]
+Albedo practices the
+---
+all_npc_text.txt:
+ so dedicated to her research in bio-alchemy... Either way, I'm happy to see her succeed more and more in her endeavors.
+About Sucrose: Habits Friendship Lv. 5About S
+---
+all_npc_text.txt:
+ n and another smart person, and the foolish often think differently when facing success and failure. People's views on Alhaitham are proof of this point — given his 
+---
+all_npc_text.txt:
+ imagination regarding outstanding people only serve to alienate them. "They are successful because they are different" — such is the typical excuse favored by undera
+---
+all_npc_text.txt:
+ t, he has only participated in one joint research project. Despite its eventual success, the project resulted in a huge quarrel and a parting of ways. Little do peop
+---
+all_npc_text.txt:
+ ed as per regulation.Although the two did not continue that research, its great success in the early stage still serves as compelling proof of Alhaitham's academic a
+---
+all_npc_text.txt:
+  Scribe never has to worry about whether their projects will get approved or be successful. Wait... Oh shoot, if he's a Scribe, he probably doesn't have to do any pr
+---
+all_npc_text.txt:
+ ules forever, of course, and I know that one day I will be chosen as "Father's" successor... But that also terrifies me... Please don't mention this to anyone, espec
+---
+all_npc_text.txt:
+ the world. Even with sufficient wealth, those goals would have little chance of success without the right opportunities and a bit of luck.As for the chance to resear
+---
+all_npc_text.txt:
+ yone have something of a "second wind" and become motivated.
+Even after being a successful figure in Mondstadt, she feels doubt and feels disillusioned whenever thin
+---
+all_npc_text.txt:
+ y out of tune!"Character Story 2 Friendship Lv. 3
+Barbara's feelings on her own success are mixed.To the extent that an idol's duty is to make everyone adore her, sh
+---
+all_npc_text.txt:
+ of her family.Unlike Barbara, her sister has always been the very definition of success in all aspects.Initially, all Barbara had ever wanted was to surpass her sist
+---
+all_npc_text.txt:
+ garding cloths.This batch of merchants returned to Sumeru City with news of the success of the deal. Soon after, a new topic cropped up among the business-folk of Su
+---
+all_npc_text.txt:
+ ty," and "unparalleled flair"...Detractors, on the other hand, believe that her successive triumphs are the result of collusion between The Steambird and the prize s
+---
+all_npc_text.txt:
+ r father, Donatello, served in the Gardes. Donatello intended for her to be his successor, submitting her through rigorous trials that were meant to frustrate and ve
+---
+all_npc_text.txt:
+ se only concern is getting rich, and even a bandit whose band of cronies almost succeeded in robbing a bank! If you hadn't personally caught him red-handed — scoping
+---
+all_npc_text.txt:
+  as a consultant. He helped us find a crucial piece of evidence that led to the successful conviction of the suspect. I heard that an author actually used that case 
+---
+all_npc_text.txt:
+ t of her dreams."
+"Miss Chiori, may I ask... How did you manage to achieve such success? And what are the secrets to designing such wonderful clothes?"
+Sitting oppos
+---
+all_npc_text.txt:
+ riendship Lv. 2
+"Ms. Chiori, what past experiences did you have that forged the success you now enjoy?" — A reporter once asked her this question.Chiori had hesitate
+---
+all_npc_text.txt:
+ re not just for looking at, but can also be "heard." In this aspect, Chiori had succeeded. Every stitch and thread of her clothes told a story: the echoes of waves, 
+---
+all_npc_text.txt:
+ an inconvenience for Chongyun himself, for though he has undertaken hundreds of successful exorcisms, he has never come face-to-face with a single ghost or demon.Cho
+---
+all_npc_text.txt:
+ n exasperated Gestionnaire standing by — long since having given up any hope of successful mediation — interjects in a tone of despair:"Alright, I respect your right
+---
+all_npc_text.txt:
+ , the other customers, and even Navia herself... it turned out to be a critical success!After all, no one in the room could claim to understand the meaning of "impar
+---
+all_npc_text.txt:
+ ess skills have made her the most powerful Champion Duelist in our nation. As a successor to the Marechaussee Hunters of old, she plays a vital role in ensuring the 
+---
+all_npc_text.txt:
+ e's never been a need for it.
+Main article: Clorinde/Lore/History
+Clorinde is a successor to the Marechaussee Hunters of old according to Neuvillette's voiceline abo
+---
+all_npc_text.txt:
+ when I draw my blade, I am but an instrument of Fontaine's law.
+Chat: Secret to SuccessChat: Secret to SuccessMedia:VO_Clorinde Chat - Secret to Success.ogghttps://g
+---
+all_npc_text.txt:
+  am but an instrument of Fontaine's law.
+Chat: Secret to SuccessChat: Secret to SuccessMedia:VO_Clorinde Chat - Secret to Success.ogghttps://genshin-impact.fandom.co
+---
+all_npc_text.txt:
+ hat: Secret to SuccessChat: Secret to SuccessMedia:VO_Clorinde Chat - Secret to Success.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Clorinde_Chat_-_Secret_to_S
+---
+all_npc_text.txt:
+ nch as her only weapon. In the end, I still lost.
+ What if you roll a "critical success"...
+Media:vo clorinde mimitomo friendship3 03b 1.ogg Clorinde: Then, congratu
+---
+all_npc_text.txt:
+  defeat.
+Media:vo clorinde mimitomo friendship3 03b 4.ogg Clorinde: A "critical success" can often be what leads to a "critical failure."
+Media:vo clorinde mimitomo 
+---
+all_npc_text.txt:
+ dia:vo clorinde mimitomo morning 01.ogg Clorinde: Good morning. I hope you find success in your endeavors today.
+Media:vo clorinde mimitomo night 01.ogg Clorinde: Go
+---
+all_npc_text.txt:
+ ...Such ideas have ensured that she can travel in and out of the jungle safely, successfully extracting those unfortunate enough to become lost in the woods, acciden
+---
+all_npc_text.txt:
+ rejected multiple times at the review stage. He eventually rammed it through by successfully bribing the members of his review committee. However, the data in that p
+---
+all_npc_text.txt:
+ ught Amber and Collei to Starsnatch Cliff to seal the gods' remains away[2] and successfully put them into a dormant state. Tired from the ordeal, Cyno returned to t
+---
+all_npc_text.txt:
+ tter of great comfort to his father, Crepus, who hoped that Diluc would be more successful than him. Not only would he bring dawn to Mondstadt as a member of the Rag
+---
+all_npc_text.txt:
+ ure.One of those alcohol-free beverages is Mondstadt's apple cider vinegar, the success of which is on a par with dandelion wine in terms of monthly sales volumes.So
+---
+all_npc_text.txt:
+ . I tried to adjust the recipe to match your taste, and from the looks of it, I succeeded in doing just that.
+Media:vo diluc mimitomo friendship3 05.ogg Diluc: Now. 
+---
+all_npc_text.txt:
+ ood morning, my young apprentice.
+Media:vo dori mimitomo morning 02.ogg Dori: A successful day starts with the morning. That Mora's not gonna earn itself, after all.
+---
+all_npc_text.txt:
+ urther investigation with this woman's close cooperation, she then proceeded to successfully capture all the Abyss Order operatives hiding in the vicinity of the por
+---
+all_npc_text.txt:
+ ht, have come to persuade her to join their Darshan instead, only to see little success in that matter.A certain researcher even went a bridge too far in their persu
+---
+all_npc_text.txt:
+ , code-named "Vairambhaka," is one of the few projects that Faruzan was able to successfully secure funding for from the Akademiya following her return.This device c
+---
+all_npc_text.txt:
+ thing when he's carrying out his missions. But when they were celebrating their success, a smile crept onto his face after his first taste of one of the Hotel Debord
+---
+all_npc_text.txt:
+ ules forever, of course, and I know that one day I will be chosen as "Father's" successor... But that also terrifies me... Please don't mention this to anyone, espec
+---
+all_npc_text.txt:
+ .
+It is later revealed that Furina was not the true Hydro Archon. Focalors, the successor of Egeria, had separated her divinity from her body and spirit; Furina was 
+---
+all_npc_text.txt:
+  Fontaine, Furina assumed the role of Hydro Archon for 500 years; while she was successful in this task, it wore her down mentally so that she suffered from severe s
+---
+all_npc_text.txt:
+ d before it could live, got the chance to be performed, and proved a resounding success at the Opera Epiclese.Furina, standing in for the real actress, played the he
+---
+all_npc_text.txt:
+  getting better by the day, and of course, any father would hope for his son to succeed him in the family business.Thanks to his father's hard work, at least Gaming 
+---
+all_npc_text.txt:
+ e, Gaming would retort that staying in business was harder yet, and declined to succeed his father in the tea leaf business. In earlier years, when his mother was st
+---
+all_npc_text.txt:
+ the casual listener. Incredible. If the Mighty Mythical Beasts ever get half as successful as the Yun-Han Opera Troupe... don't pinch me, 'cause I won't wanna wake u
+---
+all_npc_text.txt:
+ l departments.
+In the eons that have gone by, the Qixing have changed with each succession of their posts, while only Ganyu has lived to see the flourishing of Liyue
+---
+all_npc_text.txt:
+ " People say this in praise of Liyue's prosperity. But a city only becomes this successful through everyone playing their part diligently. That's the attitude I take
+---
+all_npc_text.txt:
+ live a happy life." Now, she's grown up to be a beautiful, graceful, and highly successful young woman. Although the work of a legal adviser is complicated, she alwa
+---
+all_npc_text.txt:
+ n Hunt Decree, Gorou led the forces of Watatsumi against the Shogun's Army, and successfully held the line against them.The troops call him the "ever-victorious poin
+---
+all_npc_text.txt:
+ a "job" at Yae Publishing House.With the end of the Vision Hunt Decree, and the successful negotiations between Watatsumi Island and the Shogunate, relations between
+---
+all_npc_text.txt:
+ would place Qiqi in a tomb on the outskirts of the city.In fact, she would have succeeded already if not for Baizhu's timely interventions.Each time the Bubu Pharmac
+---
+all_npc_text.txt:
+ or provides a legitimate and necessary service, which is the cornerstone of any successful enterprise. Work is just work — there are no good and bad jobs, or lucky a
+---
+all_npc_text.txt:
+ and proud lineage can also be a burden. Jean was raised by her mother to be the successor to the Gunnhildr Clan.She was trained in all the things a knight must know 
+---
+all_npc_text.txt:
+ rning.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Jean_Good_Morning.ogg A successful day starts from the morning. Let's give it our all today.
+Good AfternoonGo
+---
+all_npc_text.txt:
+ name for the Traveler).
+Media:vo qin mimitomo morning 02.ogg Jean: I wish you a successful journey.
+Media:vo qin mimitomo morning 03.ogg Jean: If there is anything I
+---
+all_npc_text.txt:
+ Kaeya finally reached Diluc, it was all over.The power their father had used to successfully fend off the attack backfired, taking their father's life.Both Kaeya and
+---
+all_npc_text.txt:
+ o much to protect himself from rival clans and organizations.[2][3]
+Despite his succession as the family head at a young age, he appears to be a mature and determine
+---
+all_npc_text.txt:
+ his father's request, begin a complex and strict training regimen as the family successor.But not all went as well as they might have hoped, and the pressures in the
+---
+all_npc_text.txt:
+ nd the lesson content would turn from ritual affairs to matters that the clan's successor should be concerned with.His duty to the clan would be something that would
+---
+all_npc_text.txt:
+ Kamisato Clan in the future, you are our eldest son, Ayaka's elder brother... A successor the Kamisato Clan is proud to have."After reminding his father to rest well
+---
+all_npc_text.txt:
+  in a single stroke, instead approaching every job earnestly. He dresses like a successful person, but in truth, he does not judge the merit of a project by the remu
+---
+all_npc_text.txt:
+  of the project... and sometimes it is his own pay.After many years, he finally succeeded. The Palace of Alcazarzaray was completed, and he returned to Sumeru in glo
+---
+all_npc_text.txt:
+  one would say that the Palace of Alcazarzaray was any less than an exceedingly successful experiment.Those colleagues, however, were blissfully unaware of how Kaveh
+---
+all_npc_text.txt:
+ op one another. After all, the truth — much like the troubled gestation of this success — has remained well-hidden thanks to Kaveh's efforts.Character Story 2 Friend
+---
+all_npc_text.txt:
+ gaps in the grammatical logic of some ancient minor languages, allowing for the successful interpretation of many important texts. Similarly, the results achieved in
+---
+all_npc_text.txt:
+ y important texts. Similarly, the results achieved in architectural studies had successfully improved the load-bearing structures for some special terrain features i
+---
+all_npc_text.txt:
+ urled it from the heights of the Jade Chamber.Unfortunately, she has never been successful.With no options left, and not wanting it to fall into the wrong hands, Keq
+---
+all_npc_text.txt:
+ ice-over about him.
+Her fighting style, known as the Yunlai Swordsmanship, is a successor of an ancient martial arts school whose masters include Qiqi, according to 
+---
+all_npc_text.txt:
+ w on the ground, wait for the right moment... then pounce right on it? Not even successful package deliveries can compare with the satisfaction I get from hunting do
+---
+all_npc_text.txt:
+ time when a sizable spate of thefts was reported to the police station in quick succession, and they could not find the culprit. Walking through the woods on higher 
+---
+all_npc_text.txt:
+  Scribe never has to worry about whether their projects will get approved or be successful. Wait... Oh shoot, if he's a Scribe, he probably doesn't have to do any pr
+---
+all_npc_text.txt:
+  stealthily and make off with the evidence without a trace.But just as they had succeeded, three flares went up in the forest outside the window — a message from the
+---
+all_npc_text.txt:
+ ules forever, of course, and I know that one day I will be chosen as "Father's" successor... But that also terrifies me... Please don't mention this to anyone, espec
+---
+all_npc_text.txt:
+ ons for the House of the Hearth and has said that he will eventually become the successor of "Father."
+Lyney's outfit. Cats only stretch in front of those they trust
+---
+all_npc_text.txt:
+ d the complexity of the pumping equipment and difficulty of fixing it. While he succeeded in restoring it to normal operations, he remained at a complete loss as to 
+---
+all_npc_text.txt:
+ l groundwork for a grand, unique magic trick in secret.And thus was the banquet successfully held with everyone's support. The children danced to the joyous music pl
+---
+all_npc_text.txt:
+ ven the best laid plans of mice and men may go awry. After conducting dozens of successful missions, the children of the Hotel were caught up in a betrayal, and as a
+---
+all_npc_text.txt:
+  as a consultant. He helped us find a crucial piece of evidence that led to the successful conviction of the suspect. I heard that an author actually used that case 
+---
+all_npc_text.txt:
+ ules forever, of course, and I know that one day I will be chosen as "Father's" successor... But that also terrifies me... Please don't mention this to anyone, espec
+---
+all_npc_text.txt:
+ ongratulations, my dear apprentice — or should I say, "companion." For you have succeeded!
+TitleDetailsElemental SkillElemental SkillMedia:VO Lyney Elemental Skill 1
+---
+all_npc_text.txt:
+  learn how to protect myself," he thought, "or I won't be able to guarantee the success of my expeditions to unfamiliar areas."Thereafter, Mika rode the momentum fro
+---
+all_npc_text.txt:
+  all, eventually passing the most difficult challenge and becoming one of three successful candidates.The other two candidates had both received Mika's aid along the
+---
+all_npc_text.txt:
+ t, and she wanted Mona to retrieve a highly confidential box from that person's successor."If you dare look inside that books... Well, you'll see."That was the warni
+---
+all_npc_text.txt:
+ e."That was the warning Mona received before departing.To Mona's surprise, this successor was none other than the Spark Knight, Klee.The box was still extant, but du
+---
+all_npc_text.txt:
+  within which the truth of our world can be observed. ...It is the one and only success story of that old lady's research endeavors.
+More About Mona: IV Friendship L
+---
+all_npc_text.txt:
+  seemingly useless letter anonymously.But so encouraged was Nahida by the great success of her first attempt at putting knowledge into practice that in the following
+---
+all_npc_text.txt:
+  useless letter anonymously all the same.But so encouraged was she by the great success of her first attempt at putting knowledge into practice that in the following
+---
+all_npc_text.txt:
+ s bringing her to the negotiating table, as if intending to groom her to be his successor. But at the same time, he never spoke of the cause of her mother's death, n
+---
+all_npc_text.txt:
+ ne of the hats I wear, and my time as a judge is but one phase of my life."This successful clarification led him out of the frying pan, and into the fire, as they sa
+---
+all_npc_text.txt:
+  the Hydro Dragon, and in this capacity, he regards Melusines as dependents and successors, and also as the finest example of a new sort of Hydro Vishap species. Yet
+---
+all_npc_text.txt:
+ ia, hoped to achieve universal equality by connecting all things with love. Her successor chose instead to seek equality by means of the law. But ultimately, due to 
+---
+all_npc_text.txt:
+ ess skills have made her the most powerful Champion Duelist in our nation. As a successor to the Marechaussee Hunters of old, she plays a vital role in ensuring the 
+---
+all_npc_text.txt:
+ nshin-impact.fandom.com/wiki/File:VO_Noelle_Low_HP_03.ogg If at first you don't succeed...Ally at Low HPAlly at Low HPMedia:VO Noelle Ally at Low HP 01.ogghttps://ge
+---
+all_npc_text.txt:
+ e?
+Media:vo mimitomo md rosaria vineyard 03.ogg Rosaria: Not a bad idea. If you succeed, remember to call me over. I'd like to try some.
+The young Divine Priestess o
+---
+all_npc_text.txt:
+ shments in the Shuumatsuban.Character Story 4 Friendship Lv. 5
+Sayu is the last successor to the Ninjutsu Art — Yoohoo Art.In this school of ninjutsu, which is known
+---
+all_npc_text.txt:
+ to discuss various issues that arise as they work together — for Sethos has now succeeded Bamoun as the leader of the Temple of Silence, and under his leadership, th
+---
+all_npc_text.txt:
+ le:VO_Shikanoin_Heizou_Hello.ogg The name's Shikanoin Heizou, sharpest and most successful detective of the Tenryou Commission... Ooh, my goodness, life's really put
+---
+all_npc_text.txt:
+ lts.However, she merely considers these to be incidental steps on the path to a successful experiment, rather than the success itself. Her true aim is much more ambi
+---
+all_npc_text.txt:
+  to be incidental steps on the path to a successful experiment, rather than the success itself. Her true aim is much more ambitious than this.It's a secret, and is a
+---
+all_npc_text.txt:
+ so dedicated to her research in bio-alchemy... Either way, I'm happy to see her succeed more and more in her endeavors.About Sucrose: Habits Media:VO_Albedo About Su
+---
+all_npc_text.txt:
+ pact.fandom.com/wiki/File:VO_Sucrose_Joining_Party_03.ogg My experiment... will succeed.Character Idles(Note: Chat & Weather voice-over can also be heard as idles.)C
+---
+all_npc_text.txt:
+  periods of meditation to refine his skills swiftly relegated the question of a successful catch to irrelevance.Character Story 4 Friendship Lv. 5
+Unlike what the re
+---
+all_npc_text.txt:
+  was losing its power.Kamisato Ayato, who was embroiled in the dispute over the succession rights of the clan due to the death of both parents, told Thoma:"Now that 
+---
+all_npc_text.txt:
+  Raiden Shogun's aid, but did not know that this was the very year when she had successfully built the perfect puppet using parts of herself as material, thus handin
+---
+all_npc_text.txt:
+ tory dance he had performed together with them on the day that Mikoshi Nagamasa successfully forged his great blade.His steps fluttered lightly like a feather in the
+---
+all_npc_text.txt:
+ nd they were staged at the newly-rebuilt [sic] opera house on Erinnyes to great success, until an accident put paid to such performances.
+Of them, the most memorable
+---
+all_npc_text.txt:
+ y to show their respect and reverence.
+All Kings had their own palaces: as each successive king of the forest took the throne, the forest changed according to his im
+---
+all_npc_text.txt:
+ s language and the responsibility of protecting the King's land to their future successors.
+And others, when they gazed upon the great agony others suffered, decided
+---
+all_npc_text.txt:
+ ft on the blade.
+As the folk song goes: "Arataki of the Front Gate, Iwakura the Successor, Kitain the Serpent, Takamine the Mistsplitter."
+Thus do children who love 
+---
+all_npc_text.txt:
+ sed that knowledge on to a person he loved.
+However, Mistsplitter would have no successors, and now only exists within storybooks, artworks, and fairytales.
+At the e
+---
+all_npc_text.txt:
+ deed, the fame from the forging of the "Haran" very nearly affected Hiroyoshi's succession to be the fourth-generation head.
+As such, safe in the knowledge that his 
+---
+all_npc_text.txt:
+  that circulated widely within Inazuma:
+"Arataki of the Front Gate, Iwakura the Successor, Kitain the Serpent, Takamine the Mistsplitter."
+These phrases describe the
+---
+all_npc_text.txt:
+  it all. But his efforts had by no means been in vain — at least he had finally succeeded in making a blade of the very finest quality.
+Full Weapon2nd Ascension Phas
+---
+all_npc_text.txt:
+ 11 months ago
+EffectsEnergy Generation
+After casting an Elemental Skill, gain 1 Succession Seed. This effect can be triggered once every 5s. The Succession Seed last
+---
+all_npc_text.txt:
+  Skill, gain 1 Succession Seed. This effect can be triggered once every 5s. The Succession Seed lasts for 30s. Up to 3 Succession Seeds may exist simultaneously. Aft
+---
+all_npc_text.txt:
+ fect can be triggered once every 5s. The Succession Seed lasts for 30s. Up to 3 Succession Seeds may exist simultaneously. After using an Elemental Burst, all Succes
+---
+all_npc_text.txt:
+  Succession Seeds may exist simultaneously. After using an Elemental Burst, all Succession Seeds are consumed and after 2s, the character regenerates 6 Energy for ea
+---
+all_npc_text.txt:
+ rates 6 Energy for each seed consumed.
+After casting an Elemental Skill, gain 1 Succession Seed. This effect can be triggered once every 5s. The Succession Seed last
+---
+all_npc_text.txt:
+  Skill, gain 1 Succession Seed. This effect can be triggered once every 5s. The Succession Seed lasts for 30s. Up to 3 Succession Seeds may exist simultaneously. Aft
+---
+all_npc_text.txt:
+ fect can be triggered once every 5s. The Succession Seed lasts for 30s. Up to 3 Succession Seeds may exist simultaneously. After using an Elemental Burst, all Succes
+---
+all_npc_text.txt:
+  Succession Seeds may exist simultaneously. After using an Elemental Burst, all Succession Seeds are consumed and after 2s, the character regenerates 7.5 Energy for 
+---
+all_npc_text.txt:
+ tes 7.5 Energy for each seed consumed.
+After casting an Elemental Skill, gain 1 Succession Seed. This effect can be triggered once every 5s. The Succession Seed last
+---
+all_npc_text.txt:
+  Skill, gain 1 Succession Seed. This effect can be triggered once every 5s. The Succession Seed lasts for 30s. Up to 3 Succession Seeds may exist simultaneously. Aft
+---
+all_npc_text.txt:
+ fect can be triggered once every 5s. The Succession Seed lasts for 30s. Up to 3 Succession Seeds may exist simultaneously. After using an Elemental Burst, all Succes
+---
+all_npc_text.txt:
+  Succession Seeds may exist simultaneously. After using an Elemental Burst, all Succession Seeds are consumed and after 2s, the character regenerates 9 Energy for ea
+---
+all_npc_text.txt:
+ rates 9 Energy for each seed consumed.
+After casting an Elemental Skill, gain 1 Succession Seed. This effect can be triggered once every 5s. The Succession Seed last
+---
+all_npc_text.txt:
+  Skill, gain 1 Succession Seed. This effect can be triggered once every 5s. The Succession Seed lasts for 30s. Up to 3 Succession Seeds may exist simultaneously. Aft
+---
+all_npc_text.txt:
+ fect can be triggered once every 5s. The Succession Seed lasts for 30s. Up to 3 Succession Seeds may exist simultaneously. After using an Elemental Burst, all Succes
+---
+all_npc_text.txt:
+  Succession Seeds may exist simultaneously. After using an Elemental Burst, all Succession Seeds are consumed and after 2s, the character regenerates 10.5 Energy for
+---
+all_npc_text.txt:
+ es 10.5 Energy for each seed consumed.
+After casting an Elemental Skill, gain 1 Succession Seed. This effect can be triggered once every 5s. The Succession Seed last
+---
+all_npc_text.txt:
+  Skill, gain 1 Succession Seed. This effect can be triggered once every 5s. The Succession Seed lasts for 30s. Up to 3 Succession Seeds may exist simultaneously. Aft
+---
+all_npc_text.txt:
+ fect can be triggered once every 5s. The Succession Seed lasts for 30s. Up to 3 Succession Seeds may exist simultaneously. After using an Elemental Burst, all Succes
+---
+all_npc_text.txt:
+  Succession Seeds may exist simultaneously. After using an Elemental Burst, all Succession Seeds are consumed and after 2s, the character regenerates 12 Energy for e
+---
+all_npc_text.txt:
+ word Bil­let 50 Amethyst Lump 50 White Iron Chunk 500 Mora 1 Ame­noma Kage­uchi
+Succession Seeds are visualized as small purple orbs floating above the hilt of the s
+---
+all_npc_text.txt:
+  as small purple orbs floating above the hilt of the sword.
+The duration of the Succession Seeds is shared, and obtaining a new succession seed restarts the 30s time
+---
+all_npc_text.txt:
+  the sword.
+The duration of the Succession Seeds is shared, and obtaining a new succession seed restarts the 30s timer.
+The Succession Seeds do not disappear on chan
+---
+all_npc_text.txt:
+ eeds is shared, and obtaining a new succession seed restarts the 30s timer.
+The Succession Seeds do not disappear on changing characters, so it is not needed to keep
+---
+all_npc_text.txt:
+  this passive.
+You do not have to hit an enemy with the Elemental Skill to gain Succession Seeds.
+One of the "kageuchi" copies of the famed sword "Hakuen Michimitsu 
+---
+all_npc_text.txt:
+ esources and employing much manpower, though he did not put more stock into its success. It was a ship designed for fleeing disaster — an insurmountable chasm lay be
+---
+all_npc_text.txt:
+ ited as she may be, it was exactly these traits that led her to create her most successful dishes. "Maybe this isn't so bad..." He tried to convince himself.Suffice 
+---
+all_npc_text.txt:
+ der brother. Unlike his older sibling, who is completely devoted to the guild's success, Xingqiu is more reluctant to do so, putting him at odds with his family.
+He 
+---
+all_npc_text.txt:
+ , where it received rave reviews. Writers the region over attempted to copy the success of "A Legend of Sword," but none succeeded — it maintains permanent residency
+---
+all_npc_text.txt:
+  the region over attempted to copy the success of "A Legend of Sword," but none succeeded — it maintains permanent residency in the number one bestseller spot to thi
+---
+all_npc_text.txt:
+ uence... The three arts became diamonds hidden in the rough, quietly awaiting a successor.After many years, the Guhua Clan would finally get one in Xingqiu. It was h
+---
+all_npc_text.txt:
+ fter many years, the Guhua Clan would finally get one in Xingqiu. It was he who successfully grasped the ancient "Martial Principle" after merely four years of study
+---
+all_npc_text.txt:
+ ng House if you were to line them all up, but to this day, very few indeed have succeeded.Not that Miko has ever intended to conceal anything, of course. Any caprici
+---
+all_npc_text.txt:
+ ugo (phrasal compound) 金科玉条, which means "golden rule, basic principle ensuring success in some activity."
+OverviewLoreVoice-OversOutfitsCompanionGallery
+A well-know
+---
+all_npc_text.txt:
+ live a happy life." Now, she's grown up to be a beautiful, graceful, and highly successful young woman. Although the work of a legal adviser is complicated, she alwa
+---
+all_npc_text.txt:
+ or provides a legitimate and necessary service, which is the cornerstone of any successful enterprise. Work is just work — there are no good and bad jobs, or lucky a
+---
+all_npc_text.txt:
+ y... one about working myself into the ground, or stepping on others to achieve success... I would've ran away by now!
+More About Yanfei: IV Friendship Lv. 5More Abo
+---
+all_npc_text.txt:
+  Most of the time, I feel that I have a happy and laid back existence. I have a successful career, clothes on my back, and the freedom to go wherever I please. I've 
+---
+all_npc_text.txt:
+ ed different ways, but they continue to scrutinize my business... After so much success, it's gotten a little embarrassing... So every time, I end up taking advantag
+---
+all_npc_text.txt:
+ opics you could choose, that's what you wanna talk about?
+ Most of the time you successfully win them over.
+ This way, we can figure out any outstanding issues.
+Medi
+---
+all_npc_text.txt:
+ reer so far, there has been one memorable operation that fuses both failure and success together.One could say that it was a failure because she lost a family heirlo
+---
+all_npc_text.txt:
+  left, it is no more than a mere accessory.However, the operation also proved a success for Yelan because her enemy did not get the upper hand, either. And this enem
+---
+all_npc_text.txt:
+ n you.
+Media:vo yelan mimitomo friendship3 06a 3.ogg Yelan: Maybe you'll make a successful intelligence agent yourself one day. I'm excited to go up against you.
+Med
+---
+all_npc_text.txt:
+ ould always jump onto my foot instead. I tried and tried and tried, but I never succeeded... Quite the sore loser I was, then — sitting on a rock, sighing to myself 
+---
+all_npc_text.txt:
+ the casual listener. Incredible. If the Mighty Mythical Beasts ever get half as successful as the Yun-Han Opera Troupe... don't pinch me, 'cause I won't wanna wake u
+---
+all_npc_text.txt:
+ lives here, so I've come to pay him a visit.
+Rajavi: I thought since we're both successful businessmen, we could earn more Mora together.
+Rajavi: But no matter how I
+---
+all_npc_text.txt:
+  You could even say that without Iktomisaurus's help, Kuntur would've found his success much harder to win.
+Ranjit: A flying companion's pretty convenient... and com
+---
+all_npc_text.txt:
+  You could even say that without Iktomisaurus's help, Kuntur would've found his success much harder to win.
+Ranjit: A flying companion's pretty convenient... and com
+---
+all_npc_text.txt:
+ er," led his own followers in opposing the Golden Troupe. Eventually, Cassiodor succeeded in shattering Boethius' soul and sealing the shards within the Domus Aurea.
+---
+all_npc_text.txt:
+ aged in the area that is now Guili Plains against other gods. In one battle, he successfully defeated an ancient god known as Osial, using massive stone lances to im
+---
+all_npc_text.txt:
+  try to complete the ceremony and "died" countless times as a result, but never succeeded.
+The mysteries of Tsurumi Island caught the attention of both the Bantan Sa
+---
+all_npc_text.txt:
+ ompeting in the Interdarshan Championship, where Sachin would choose him as his successor.
+EventsA Parade of ProvidenceAct I: Comings and GoingsOpening FestivitiesAc
+---
+all_npc_text.txt:
+  of the competition, Sachin would reveal himself to Kaveh and choose him as the successor of the experiment he was conducting when he was alive, which was to determi
+---
+all_npc_text.txt:
+ ng when he was alive, which was to determine if Sachin's beliefs would make his successor suffer or if Sachin's wealth would make his successor numb to the strife of
+---
+all_npc_text.txt:
+ 's beliefs would make his successor suffer or if Sachin's wealth would make his successor numb to the strife of the world. Kaveh, deciding to reject Sachin, shatters
+---
+all_npc_text.txt:
+ e the characters point out that Kaveh was always intended to be Sachin's chosen successor, the Diadem of Knowledge was only meant to be worn by the winner of the Int
+---
+all_npc_text.txt:
+ tsumi: You're different from my son. I have confidence that you will find great success. Good luck, youngster.
+Saizou wears a  lavender shitagi, indigo kobakama, and
+---
+all_npc_text.txt:
+ hah Ramshahr (who claimed to be the "rightful heir" following Shiruyeh) and his successor Garshāsp, who is recorded as abandoning Gurabad to make a different city th
+---
+all_npc_text.txt:
+ o become a bard - they believed there was no job security and pushed for her to succeed in academics. They would force her into her room to study, and she found comf
+---
+all_npc_text.txt:
+ journey that I have never imagined before...
+Sasano: But I'm supposed to be the successor of my family business. It's going to be very hard for me to give up on my d
+---
+all_npc_text.txt:
+  unable to figure out why he was in Tatarasuna 400 years ago.
+After Scaramouche successfully removed his past and then-present identities from Irminsul, the Traveler
+---
+all_npc_text.txt:
+ who decides to spy on her. In Joy Above the Clouds it is revealed that she is a successor of a Hexenzirkel member I. Ivanovna N., who used the initial "J".
+EventsWin
+---
+all_npc_text.txt:
+ e to redeem himself for not honouring Remus' sacrifice.[13]
+The trio ultimately succeed in playing Scylla's part of the requiem and allow the Traveler to destroy the
+---
+all_npc_text.txt:
+ ents of the game.
+Such is how the world works. What one may fail to do, two may succeed. I have spent much time gazing at the sea in leisure and have seldom exerted 
+---
+all_npc_text.txt:
+ ute
+Over the course of Treacherous Light of the Depths, the Traveler and Paimon successfully calibrate the light-based mechanisms she used to keep visitors out and m
+---
+all_npc_text.txt:
+ vigne: Hello. Do you need anything?
+ About the prototypes...
+Sevigne: They were successfully recovered after the fact. It sure took a lot of effort to transport them
+---
+all_npc_text.txt:
+ ima Masaoki: My experience is evidence that if you work tirelessly, you will be successful.
+Shima Masaoki: If these new soldiers work as hard as I have, they too wil
+---
+all_npc_text.txt:
+  fought during the Battle of Stalingrad in World War II. He and his troops were successful in the battle, and he was awarded the title of Hero of the Soviet Union fo
+---
+all_npc_text.txt:
+ start training from a young age.
+Shushan: But some youngsters are too eager for success and end up taking the wrong path...
+Shushan: After learning some fancy skills
+---
+all_npc_text.txt:
+ rst in-person appearance at the end of Act III of the Prologue, after the party successfully restored Dvalin, thwarted the Abyss Order's plans, and returned the Holy
+---
+all_npc_text.txt:
+  lure Alhaitham into the hideout containing his collective consciousness; Ilyas successfully lures Alhaitham into the hideout and reveals to him his true colors. Wit
+---
+all_npc_text.txt:
+ !
+Sir Arthur: Extra! Extra! Sir Arthur's regular maintenance has been completed successfully to continue providing high-quality news and information to everyone!
+Sir
+---
+all_npc_text.txt:
+  such a special moment! I do believe this counts as the Furball Fortress' first successful adoption!
+Media:vo mkeq003b 1 rosaria 08.ogg Rosaria: Hey, my veil is not 
+---
+all_npc_text.txt:
+ .ogg Valerina: The trial phase of the Furball Fortress could not have been more successful! When we open for good, you all simply must come to the opening ceremony. 
+---
+all_npc_text.txt:
+ ether!
+Media:vo mkeq003b 1 paimon 13.ogg Paimon: Now that's what Paimon calls a successful commission! Rewarding in more ways than one — Mora, a sense of accomplishm
+---
+all_npc_text.txt:
+ the Rite of Ab-Zohr and awoke the consciousness of the god in the Gaokerena and successfully purged the Sign of Apaosh, purifying Tunigi Hollow and restoring the Har
+---
+all_npc_text.txt:
+ forces alone. Because he left Thundering Pulse with Hibiki as his wager for his successful return, he had only his Mistsplitter to rely on in battle. After the sword
+---
+all_npc_text.txt:
+ mbered in a popular Inazuman folk song: "Arataki of the Front Gate, Iwakura the Successor, Kitain the Serpent, Takamine the Mistsplitter."
+After Hibiki returned to A
+---
+all_npc_text.txt:
+  after studying on their own, since only the best of the best are able to do it successfully.
+Uzayr explains to her and Shurayh that Kaveh could always become their 
+---
+all_npc_text.txt:
+  attest to his behavior.
+Under the ownership of Taroumaru, Komore Teahouse is a successful and well-revered establishment, as evident by Snezhnayan merchant Ramsay f
+---
+all_npc_text.txt:
+ on of indestructible, Gnosis-bearing puppet. With his creation accomplished and succeeded, the original plan was for Ei to simply discard him. However, Ei decided no
+---
+all_npc_text.txt:
+  Wanderer, he did lose his memories of his previous identities since those were successfully removed.
+The Wanderer still knew himself to be a puppet even before his 
+---
+all_npc_text.txt:
+ ical and psychological trauma from her treatment, even though her symptoms were successfully controlled. Dottore's experiments are not limited to furthering his god-
+---
+all_npc_text.txt:
+ ity and the segments often squabble with each other, which Lesser Lord Kusanali successfully takes advantage of to coerce the segment confronting her into erasing th
+---
+all_npc_text.txt:
+ o implied to have participated in Eleazar research in Dar al-Shifa, in which he successfully managed to cure an Eleazar patient named Abbas by using "materials" proc
+---
+all_npc_text.txt:
+ iscover the sages' true objective — creating a new god in Scaramouche — Dottore succeeds in trapping Nahida's consciousness and his Eremite mercenaries destroy the K
+---
+all_npc_text.txt:
+ nts in, then I want in along with her.
+Thirona: Haha. Well, I think wishing her success might be a better place to start...
+Thirona is a variant spelling of Sirona, 
+---
+all_npc_text.txt:
+ ing the Millelith. After he helped his family's business as a side gig, to some success, he helped them move to Chihu Rock. Currently, he is stationed at Yuehai Pavi
+---
+all_npc_text.txt:
+ to do some business on the side, and what do you know — actually had some small success.
+Tieshan: Recently, I've moved my family property to Chihu Rock, so I suppose
+---
+all_npc_text.txt:
+ ty to submit his paper on the entire journey, which was considered a resounding success.
+Toda wears the standard shrine maiden uniform consisting of a white kosode a
+---
+all_npc_text.txt:
+  curse would be removed for good, regardless of how likely the plan would be to succeed. If the device worked, the hilichurls would be reverted to their previous for
+---
+all_npc_text.txt:
+ led them back to Snezhnaya, though through the use of his segments, was able to successfully acquire both the Electro Gnosis that Scaramouche had previously taken an
+---
+all_npc_text.txt:
+ the darkness encroaching Enkanomiya was Enjou.
+After restoring the three towers successfully, Tsumi informed the Traveler and Paimon about the abnormal darkness rema
+---
+all_npc_text.txt:
+ merging from the Dainichi Mikoshi. Tsumi asked them if her rescue operation had succeeded, in which Paimon interrogated her about her real identity. Tsumi did not di
+---
+all_npc_text.txt:
+ e against the darkness.
+ I'm still working on it.
+Tsumi: I look forward to your success.
+Version 2.5 "When the Sakura Bloom" Trailer - Genshin Impact
+LanguageOfficia
+---
+all_npc_text.txt:
+ er is Guy's father and a farmer at the Dawn Winery. He does not want his son to succeed as a farmer in winery so he spent all of his fortunes to make his son a knigh
+---
+all_npc_text.txt:
+ esearchers who so desperately yearn for knowledge come to Avidya Forest to gain success?
+Umm: ...Not that I'm saying that knowledge is that good, but you should unde
+---
+all_npc_text.txt:
+ ght. I must've been overthinking.
+Uncle Anpu: I'm sure we'll have more reliable successors like Candace in our village.
+Belkacem: Of course! Speaking of Candace, rem
+---
+all_npc_text.txt:
+ r eyes on these super-fresh fish!"
+Media:VO Uncle Sun 02.ogg "A toast... to our success!"
+During Fleeting Colors in Flight
+ Lantern Rite limited-edition...
+Media:VO 
+---
+all_npc_text.txt:
+ that his mental and physical strength was dropping and decided on looking for a successor. He asked Yelan to act as an observing official on his behalf, in which he 
+---
+all_npc_text.txt:
+ Nadia: You are right. As long as we persevere, there will always be a chance of success.
+Story QuestsLupus Aureus Chapter (Cyno)Act I: Sands of SolitudeAll Returns t
+---
+all_npc_text.txt:
+ sense of fashion could not be achieved. On the other hand, Chiori persisted and successfully made a name for herself. This resulted in Uther holding a grudge against
+---
+all_npc_text.txt:
+  herself. This resulted in Uther holding a grudge against her, resentful of her success.
+After Chiori opened Chioriya Boutique, Uther would spend his time harassing 
+---
+all_npc_text.txt:
+ e old regime.
+The hardliners of the old regime, such as Thibert and Suavegothe, successfully lured Carole to the crime scene and accused her of murder, inciting a cr
+---
+all_npc_text.txt:
+ batos himself.[10]
+    As first Grand Master of the Knights of Favonius  
+After successfully overthrowing the aristocracy, Vennessa led the city's reconstruction and
+---
+all_npc_text.txt:
+ rmany adopts the Bundesadler ("Federal Eagle" in German) as its coat of arms, a successor of the Reichsadler ("Imperial Eagle") of the Holy Roman Empire (ultimately 
+---
+all_npc_text.txt:
+  labyrinth and follow the rules of nature, who themselves went on to teach more successors and established what would be known as the guardians of the forest. Viride
+---
+all_npc_text.txt:
+ out Viaghara's life beyond its death at an unknown point in the past, with each successor after it changing their palace's form based on their images and visions.[9]
+---
+all_npc_text.txt:
+ palace's form based on their images and visions.[9] It had an unknown number of successors, which ultimately ended with a tiger only referred to as the "final lord o
+---
+all_npc_text.txt:
+ the forest during the cataclysm.[3][9] From then on, the Rishboland Tigers have succeeded the "tiger" name.
+An unknown amount of time after King Deshret sacrificed h
+---
+all_npc_text.txt:
+ relationship between Alexandrina Victoria (Queen of the British Empire) and her successor Albert Edward or her husband Prince Albert.
+He shares his English voice act
+---
+all_npc_text.txt:
+ ks to the Chief Justice and Oratrice's just verdict, every trial will come to a successful conclusion.
+(Obtain  Guide to Equity ×1)
+ I'm fine at the moment, thanks.
+
+---
+all_npc_text.txt:
+ en foreign nations, but something even more powerful.
+Xuanzhu: Our predecessors succeeded in stopping the huge threat from centuries ago, but no one can be certain t
+---
+all_npc_text.txt:
+ ouji never moved beyond Shoden, the lowest known rank.
+Sometime after Mitsunari succeeded Eiin as Soushu of the Iwakura Clan, the Vision Hunt Decree was proclaimed. 
+---
+all_npc_text.txt:
+ erchant, Elchingen, already?
+Paimon: His wealth may not be as mind-blowing as a successful merchant from Liyue, but it's substantial nonetheless.
+Yanbei: There will 
+---
+all_npc_text.txt:
+ antern Rite. After all, we've already performed for many years' Lantern Rite in succession. So this year, we can finally have a good rest.
+Yinggong: That said, I sta
+---
+all_npc_text.txt:
+ rofessional dancer. Tak did not approve of the decision, as he wanted Gaming to succeed him in his small-scale tea business. The two nearly went into a fistfight unt
+---
+all_npc_text.txt:
+ cle Tian, left the village to make a living in Liyue Harbor. The two were quite successful, but she grew weary of the cutthroat competitiveness and eventually return
+---
+all_npc_text.txt:
+  Tian, the current Tianshu of the Liyue Qixing, and have Zhiyi appointed as his successor. This would give the Fatui a pawn inside the Qixing, with Yusupov exploitin
+---
+all_npc_text.txt:
+ ot the only schemer around: Yelan, who was in charge of appointing Uncle Tian's successor, realized the Fatui were behind Zhiyi's sudden rise in fame and announced Z
+---
+all_npc_text.txt:
+ ealized the Fatui were behind Zhiyi's sudden rise in fame and announced Zhiyi's succession to bait Yusupov out. Zhiyi was also fully aware of what Yusupov was trying
+---
+all_npc_text.txt:
+ erence to French oceanographer Jacques-Yves Cousteau, the inventor of the first successful open-circuit scuba set.
+Spina di RosulaFontaine Research Institute (former
+---
+all_npc_text.txt:
+ ll never prevail. Thank you for your cooperation.
+ Blueprint: Celebratory Kite: Successive Prosperity20,000120,000
+ Blueprint: Celebratory Kite: All's Well20,000120,
+---
+all_npc_text.txt:
+ ree candidates chosen by Uncle Tian along with Qianwei and Mingbo to become his successor as the Tianshu of the Liyue Qixing. The Fatui along with Yusupov colluded w
+---
+a_purified_misc_content.txt:
+ they can achieve a whole lot more. Take their hope away, and they never seem to succeed.
+Media:vo sethos saferoom challenge 03.ogg Sethos: So, I'll explore this plac
+---
+a_purified_misc_content.txt:
+ mitted for care today...
+Unagi No. 9: Dvorak, 40 y/o.
+Last month, all pets were successfully rescued and most were removed to Ritou. Some special cases were sent ove
+---
+a_purified_misc_content.txt:
+ ter get back to delivering these invitations. Gotta make sure the big party's a success.
+Media:vo yyeq001 4 paimon 10.ogg Paimon: In that case, guess it's time for u
+---
+a_purified_misc_content.txt:
+  years, life has only just begun So, for this young Archon, will she be able to succeed the Greater Lord Rukkhadevata, who bequeathed innumerable blessings and suppo
+---
+a_purified_misc_content.txt:
+ clysm.[32][33]
+The king of the forest Viaghara dies protecting the forests. His successors today are Rishboland Tigers.[34]
+Girdle of the Sands[]
+Greater Lord Rukkha
+---
+a_purified_misc_content.txt:
+ wn manner, forcing Parsifal to flee Mondstadt and removing him from the line of succession.[67]
+During the late Aristocratic Period, spears and polearms came to be v
+---
+a_purified_misc_content.txt:
+ acy-led expedition to Sal Vindagnyr, hoping that the expedition will be a great success and their achievements will quell those hoping to rebel against the aristocra
+---
+a_purified_misc_content.txt:
+ ent one that was being plotted around the same time.
+After Vennessa's rebellion succeeded, most of the aristocracy and those who had collaborated with them, such as 
+---
+a_purified_misc_content.txt:
+ n about the original sacred aspect of Ludi Harpastum and might see it as a mere succession of lively events, no different from any ordinary festival. However, to us 
+---
+a_purified_misc_content.txt:
+ f. You are a traveler visiting this little world. Whether a game's ecosystem is successful or not isn't necessarily something players will notice at first but it cer
+---
+a_purified_misc_content.txt:
+ . Qingce and takes over the region.[35] Morax fights it at a "great height" and succeeds in subduing it.
+In fantastical Liyue legends, although Zhongli (Morax) revea
+---
+a_purified_misc_content.txt:
+ 度 Zhāngchí-yǒudù, lit. "To have control over tightening and loosening."
+Able to successfully strike a balance between two things.
+A gift of charcoal amidst the snow.
+---
+a_purified_misc_content.txt:
+ le the furnace, giving him a device to help absorb the miasma. After Kabukimono successfully disables the furnace, Escher reveals that inside the device was "a heart
+---
+a_purified_misc_content.txt:
+ being advised by Kamisato Ayato to leave on account of the Yashiro Commission's succession crisis, he nontheless chooses to continue serving the Kamisato Clan.[84]
+1
+---
+a_purified_misc_content.txt:
+ as dismissed for his role in the Fatui plot. Similarly to Shinsuke, an official successor has not been declared, though Kujou Kamaji currently fills the role as an a
+---
+a_purified_misc_content.txt:
+ of the prophecy. She assigned Focalors, one of her Oceanid followers, to be her successor, hoping that she would be able to concoct a plan to deceive Celestia.[32]
+T
+---
+a_purified_misc_content.txt:
+ pposed to Neuvillette, including Thibert and Suavegothe, committed a murder and successfully lured Carole to the crime scene. They then framed her for the murder and
+---
+a_purified_misc_content.txt:
+ naging to steer clear of their line of sight, and made it to Guyun Stone Forest successfully. Six giant Stone Pillars kept the sun out of my eyes as I went ashore, a
+---
+a_purified_misc_content.txt:
+ rlier, it was thanks to a local youth named Kama that I was able to leave Ritou successfully and arrive on Tsurumi Island undetected. At his direction, I tried to pe
+---
+a_purified_misc_content.txt:
+ w," which she was in relation to the first Shogun, to whom she would become the successor.
+As most know, only The Seven emerged from the wrack and ruin of the war th
+---
+a_purified_misc_content.txt:
+ !
+Foreword
+Thanks to a fruitful new writer recruitment drive and the phenomenal success of the contest "This Novel is Amazing!" we have received many highly original
+---
+a_purified_misc_content.txt:
+ ve already bred the strongest vishap possible.
+The grafting can be considered a success. ("Void-907-Watatsumi Omikami's Special Orders: III"). The rejection originat
+---
+a_purified_misc_content.txt:
+  Whitenight and Evernight.
+This riddle is easy to understand. It alludes to the succession of day and night, which in Byakuyakoku means the cyclical Whitenight and E
+---
+a_purified_misc_content.txt:
+ le interactable, which describes him as an Inazuman scholar who became a rather successful romance novelist.
+Mr. Yun may have been a member of the Yun Family.
+Cultur
+---
+a_purified_misc_content.txt:
+ ove her — they're all the same to her. People who can't hurt her in an imperial succession battle."
+"Huh. No wonder those Andromeda Empire assassins kidnapped her. T
+---
+a_purified_misc_content.txt:
+ idnapped her. Two birds with one stone, eh?"
+"I'm not getting involved in their succession wars. I can only help you support her better."
+"Hey now — we're not like t
+---
+a_purified_misc_content.txt:
+ perience was somehow tinged with sadness.
+But the thought of her promise — if I succeeded in teaching her child to speak the common tongue...
+"I shall impart the mag
+---
+a_purified_misc_content.txt:
+ ow Contra Mundi, was once a dear friend of mine. But now, knowing that you have successfully summoned her, all my wishes have been fulfilled."
+—Master Plan—
+Even a B
+---
+a_purified_misc_content.txt:
+ he editor appears at the end of the book:
+Legend of the Shattered Halberd was a successful first attempt by Inazuma's Yae Publishing House to incorporate elements of
+---
+a_purified_misc_content.txt:
+ nts of Liyue culture in one of their novels. The first five volumes were wildly successful, becoming something of a cultural phenomenon in both Inazuma and Liyue. Co
+---
+a_purified_misc_content.txt:
+ d Liyue. Commercially, the fact that a sixth volume exists at all speaks to its success.
+I trust that the abrupt finale to this epic saga brought by volume six will 
+---
+a_purified_misc_content.txt:
+  reliant on Itaru to rescue them.
+Continuing where we left off, Black Fox Itaru successfully tamed the bandit duo, the Twin Oni of Tokaku, and the three set off on t
+---
+a_purified_misc_content.txt:
+ s other jinn children in machinery by her husband.
+Liloupar was critical to the success of the Brass Masks by rallying the commoners to Khorramdin, so the Rebellion'
+---
+a_purified_misc_content.txt:
+  time ago, Mr. Fox and the Clockwork Guardsman were good friends.
+Mr. Fox was a successful thief. The Clockwork Guardsman was... well, he was a guard. Clue's in the 
+---
+a_purified_misc_content.txt:
+  and I wanted to bring her the most expensive treasure I could find."
+"And?"
+"I succeeded. But she died."
+Death slipped from Ms. Jackal's hand and shattered on the g
+---
+a_purified_misc_content.txt:
+ ays. Of course, the organization that the little witch belonged to was a direct successor of these Western witches. Also, this blurb definitely wasn't just added in 
+---
+a_purified_misc_content.txt:
+ nal exam by having the Traveler drop bombs on Hilichurls on the way, which they successfully accomplish. They soon find Raptor at a dead end, with a massive gap betw
+---
+a_purified_misc_content.txt:
+ nal entry.
+In the end, Eberhart's plan failed... In fact, no. I rather think he succeeded.
+In hindsight, his actions are all too clear. I'm surprised none of us saw 
+---
+a_purified_misc_content.txt:
+ is opportunity to move himself one step closer towards the front in the line of succession...
+I am sorry, Priscilla, for I will not make it back to Mondstadt.
+Whoeve
+---
+a_purified_misc_content.txt:
+ he Crocodile King failed to escape from that place, I'd be shocked if you could succeed, Nimue. I'd rather put faith in that lad — it's a long shot, though." Comment
+---

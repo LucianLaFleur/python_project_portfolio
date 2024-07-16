@@ -1,0 +1,2965 @@
+Aderfi_word_salad.txt:
+ s The Dirge of Bilqis.‍[breakpoint was guessed; please verify!]
+
+
+Aderfi: Hmph. Strange... And what are the scouts even doing? Did they just let you in?
+ What is this 
+Aderfi_word_salad.txt:
+ case, I'd say that reading books on your own is far better than relying on some strange machine to stuff information into your brain.
+Aderfi: After all, who knows what
+Ajilenakh_Dash_word_salad.txt:
+ h, that's a good thing. No need to take a single loss too hard!
+Paimon: Anyway, strange Ajilenakh Nut girl, Paimon is looking forward to our next fight!
+Ajilenakh Dash
+Akame_Kanenaga_word_salad.txt:
+ lack
+
+↑ 3.0 3.1 Story Quest, Kaedehara Kazuha, Acer Palmatum Chapter: Act I - A Strange and Friendless Road, Part 2: Ere the End, a Glance Back
+
+↑ Yae Miko's Character
+Ako_Domeki_word_salad.txt:
+ red Fate: Ornate Kabuto
+
+↑ 7.0 7.1 Event Echoing Tales Conch Retrospection, II: Strangers in a Strange Boat
+
+↑ World Quest, Seirai Stormchasers: Seirai Stormchasers: P
+Ako_Domeki_word_salad.txt:
+ e Kabuto
+
+↑ 7.0 7.1 Event Echoing Tales Conch Retrospection, II: Strangers in a Strange Boat
+
+↑ World Quest, Seirai Stormchasers: Seirai Stormchasers: Part I
+
+↑ Event 
+Albert_word_salad.txt:
+  Go!
+ Did you just say "Barbara-sama"?
+Albert: Yes. Is there something you find strange about that?
+Albert: Barbara-sama lights up my world. She is so adorable, so kin
+Alfry_word_salad.txt:
+ is another person like you? Another traveler from a faraway land?
+Alfry: ...How strange. To think that there were people in Teyvat who I had no knowledge of...
+ Goodby
+all_food_descriptions.txt:
+ Mushroom_Pizza :  A pancake with ample toppings. The many rare ingredients do a strange dance around one's mouth — albeit in a good way. 
+Braised_Meatball :  A classic
+all_food_descriptions.txt:
+ on the wind. 
+Nutritious_Meal_(V.593) : Sucrose's specialty. It looks like some strange alchemical product at first, but Sucrose insists that it is a healthy and nutri
+all_food_descriptions.txt:
+ t boosts Geo RES and keeps one from getting bothered by sand and dust. It has a strange taste not unlike that of magnets. It keeps a traveler clean from all the sand a
+all_furnishings.txt:
+ eir deep red coloration.
+Realm Depot
+Burgundy_Dewtree : ExteriorLandform Tree
+A strange tree unique to the region around The Chasm. Its lineage brings it quite close t
+all_furnishings.txt:
+ n opulent golden mask in hand, a commemoration of the time he entered a certain strange and wondrous realm.The mask is solemnity itself and strikingly decorated.It has
+all_furnishings.txt:
+ y close attention to proper etiquette and maintain an appropriate distance from strangers. Any sudden movements towards them will only cause them to promptly take flig
+all_furnishings.txt:
+  former's descriptions with her own imagination to create this stone covered in strange plants.While this stone is quite tall, it is divided into two sections, with th
+all_furnishings.txt:
+ that the phenomenon then significantly decreased throughout the Court. How very strange indeed.
+Remarkable Chest
+The_Aster's_Sigh : ExteriorLandform Small Shrub
+A lumi
+all_furnishings.txt:
+ es Realm Layout
+Dream_of_Mora_Growing_on_Trees : ExteriorLandform Large Shrub
+A strange plant growing in the Veluriyam Mirage, it looks like a shrub with Mora sproutin
+all_furnishings.txt:
+ when she heard her fellow students complain as such to one another...She was no stranger to such an experience, in truth. Several times, when she was startled awake fr
+all_furnishings.txt:
+ urry and uneager to accept some mysterious piece of paper thrust upon them by a stranger, never mind read it carefully. But just as everyone was at a loss, some promot
+all_furnishings.txt:
+ heir less-used caps, in fact, be rather soft? Some researchers have even posted strange commissions for people to help them "verify the strength of a Fungus's headlong
+all_furnishings.txt:
+ ollaboration
+Dream_of_Sakura_and_Sea_Ganoderma : ExteriorLandform Large Shrub
+A strange plant growing in the Veluriyam Mirage, it appears as light as a balloon and to 
+all_furnishings.txt:
+  former's descriptions with her own imagination to create this stone covered in strange plants.While this stone is quite tall, it is divided into two sections, with th
+all_furnishings.txt:
+ sh that may be kept as a pet in the Pool of Sapphire Grace and Shaded Clarity.A strange cartilaginous fish that was once thought to be a fantastical creature, only rec
+all_furnishings.txt:
+ ed : ExteriorLandform Tree
+A unique breed of Amur Maple whose crown has a truly strange color, that when viewed from a specific angle, half of it looks sappan-brown an
+all_furnishings.txt:
+  Creature
+These creatures dwell within The Chasm, absorbing the energies of the strange stones within and emitting a dim light. Because they give off light, they are l
+all_furnishings.txt:
+ Depot
+Dream_of_Kalpalata_Lotus_and_Rose_Leaves : ExteriorLandform Large Shrub
+A strange plant growing in the Veluriyam Mirage, it appears as light as a balloon and to 
+all_furnishings.txt:
+ gnificent tabletop ornament that looks vaguely like a mushroom. It is made of a strange material that resembles stone but is not stone. There is a rumor among the outl
+all_furnishings.txt:
+  be considered poor by any means, and indeed, it is even known to give people a strange sense of "peace." Older folks enjoying their sunset years and open-minded peopl
+all_furnishings.txt:
+ ooden walls and wake the whole town, so it has slowly come to be used for other strange purposes by those outside the field of professional music. Take the shrine maid
+all_furnishings.txt:
+ n. However, the aforementioned method does give any grain so processed a rather strange smell, and it is for that reason that such methods are rarely used anymore.
+Pur
+all_furnishings.txt:
+ rtyard event
+Dream_of_Dandelions_and_Wolfhooks : ExteriorLandform Large Shrub
+A strange plant growing in the Veluriyam Mirage, it appears as light as a balloon and to 
+all_furnishings.txt:
+ icated that sitting under waterfalls for too long might actually result in some strange trauma injuries.
+Realm Depot
+Courtyard_Corridor:_The_Mora_Dividend : ExteriorCo
+all_furnishings.txt:
+ mong the best in all of Fontaine. However, Poisson is not entirely welcoming to strangers. If you want to buy the best fish, you might need to gain the trust of the re
+all_furnishings.txt:
+ acticed and the color palette is fresh and vibrant, surely the work of a master.Strangely enough, not one artist within Mondstadt would claim that this is their work. 
+all_furnishings.txt:
+ ly deepened the impression of them as "weasels in boots." As such, all sorts of strange legends circulate around Teyvat concerning these thieving little creatures.It i
+all_furnishings.txt:
+ el 2 in Sumeru
+Scarlet_Swayshroom : ExteriorLandform Large Shrub
+Mushrooms with strange shapes that present as a deep scarlet. The fungal stipes of these mushrooms are
+all_furnishings.txt:
+  tree its nickname is now?
+Realm Depot
+Gloomy_Glamour : ExteriorLandform Tree
+A strange, vibrant plant. Its thick trunk and rare blue-violet leaves make it look partic
+all_furnishings.txt:
+ a valid option.
+Rag and Bone Shop
+Burgundy_Needletree : ExteriorLandform Tree
+A strange tree unique to the region around The Chasm. Its lineage brings it quite close t
+all_furnishings.txt:
+ le Pass: Gnostic Chorus
+Fervid_Nutrients : ExteriorLandform Tree
+A plant with a strange canopy and a trunk that twists wherever it pleases. Thankfully, the texture is 
+all_furnishings.txt:
+ on most adorable.
+Core of the Apparatus
+Core of the Apparatus
+Festival_Booth_-_"Strange_Wonders" : ExteriorBuilding Free Booth
+A hut that can be seen at the Magnificen
+all_furnishings.txt:
+ vel in the eyes of the customers. Hence, it has won the reputation of "House of Strange Wonders."
+Realm Depot
+Blue_Torso:_Cozy_Rest : ExteriorLandscape Curio
+A lovely,
+all_furnishings.txt:
+ o hear it — if shards of cloud are made of stone, does that mean there could be strange people secretly living up in the clouds?
+Realm Depot
+Crimsonflank_Pigeon_(Furni
+all_furnishings.txt:
+ sh that may be kept as a pet in the Pool of Sapphire Grace and Shaded Clarity.A strange cartilaginous fish that was once thought to be a fantastical creature, only rec
+all_furnishings.txt:
+ Chest
+Rainjade_Statuette:_Tender_Discourse : ExteriorLandscape Special Object
+A strangely shaped stone carving that imitates the form of the Carefree Simulacra scatter
+all_furnishings.txt:
+ erious and practical descriptions, one may find the odd note that is just plain strange, or that might even be mistaken for mild ridicule. The matra often wonder among
+all_furnishings.txt:
+ hat offending fortune slip to this hanger to absolve yourself of that ill luck. Strangely, the hanger is never filled to capacity, though no one has ever seen the shri
+all_furnishings.txt:
+  Small Shrub
+A coral that grows deep in the dark places of Enkanomiya. It has a strange and curious hue from root to stem and is almost crystalline in its transparency
+all_furnishings.txt:
+ eriorLandform Small Shrub
+A flower with the color of fire. Its petals possess a strange shape, and it is relatively rare.Based on scholars' experiment results, these f
+all_hangout.txt:
+  the Akademiya.
+Media:vo lylcop001 1915002 layla 26.ogg Layla: This might sound strange, but I actually don't know who's been helping me. I don't even know if they're 
+all_hangout.txt:
+ rbara at Wolvendom)
+Media:vo bblcop001 1900102 barbara 01.ogg Barbara: Huh, how strange... I can't seem to find any...
+ Barbara, I've finally found you.
+Media:vo bblco
+all_hangout.txt:
+ berries, that's all.
+Media:vo bblcop001 1900102 barbara 04.ogg Barbara: But the strange thing is, there should be lots of them here... and I can't seem to find any.
+Me
+all_hangout.txt:
+ ook.
+(Talk to Barbara again)
+Media:vo bblcop001 1900102 barbara 12.ogg Barbara: Strange... who could it be?
+Temporary Relief From the Fanfare[]
+(Follow Barbara)
+(Talk 
+all_hangout.txt:
+  we'll find some in no time.
+Media:vo bblcop001 1900103 barbara 30.ogg Barbara: Strange... I'm almost certain I've seen lots of red Wolfhooks growing here before...
+(G
+all_hangout.txt:
+  we'll find some in no time.
+Media:vo bblcop001 1900103 barbara 52.ogg Barbara: Strange... I'm almost certain I've seen lots of red Wolfhooks growing here before...
+(G
+all_hangout.txt:
+ ks. Don't get them mixed up.
+Media:vo bblcop001 1900103 barbara 61.ogg Barbara: Strange... I'm almost certain that I've seen lots of those red Wolfhooks growing here b
+all_hangout.txt:
+ Red)
+(Talk again to Barbara)
+Media:vo bblcop001 1900106 barbara 01.ogg Barbara: Strange, I can't seem to find those red Wolfhooks anywhere.
+Of Wolfhooks Red[]
+(When pi
+all_hangout.txt:
+ ld be enough!
+Media:vo bblcop001 1900104 barbara 03.ogg Barbara: But it's still strange, I know for sure that I've seen lots of red Wolfhooks growing here before...
+Me
+all_hangout.txt:
+ k to Noelle
+Dialogue[]
+Guest From Afar[]
+ Quest DescriptionYou and Noelle met a strange guest near Mondstadt named Alois. Alois claims to be a merchant who has lost hi
+all_hangout.txt:
+ chant.
+Media:vo noecop001 1906201 swan 03.ogg Swan: Ah, Mondstadt welcomes you, strange yet respectable traveler.
+Media:vo noecop001 1906201 swan 04.ogg Swan: Please s
+all_hangout.txt:
+ re are a few more clues.
+Media:vo cycop001 1902301 chongyun 21.ogg Chongyun: "A strange man wearing a mask and wielding a pole was once seen in the distance around Gui
+all_hangout.txt:
+ e found traces of it in Mingyun Village, Guili Plains, and Yaoguang Shoal."
+ "A strange man wearing a mask and wielding a pole was once seen in the distance around Gui
+all_hangout.txt:
+ ere, let's go check the two locations mentioned in the clue.
+(Interact with the Strange Smoke)
+Media:vo cycop001 1902303 chongyun 01.ogg Chongyun: What's this...?
+Medi
+all_hangout.txt:
+  1902303 chongyun 15.ogg Chongyun: Let's keep going.
+(Upon interacting with the Strange Smoke, "contaminated" hilichurls appear)
+Media:vo cycop001 1902304 chongyun 01.
+all_hangout.txt:
+ arbor, an unusually-dressed young man comes up to you, asking after some really strange business...
+Meeting by the Wharf[]
+(Talk to Chongyun)
+Media:vo cycop001 1902101
+all_hangout.txt:
+  that's understandable. If I may ask, have you happened to come across anything strange recently?
+Media:vo cycop001 1902101 chongyun 13.ogg Chongyun: Sometimes even th
+all_hangout.txt:
+ ili Plains. It flies and swirls, summons down fireballs, and makes all sorts of strange noises."
+Media:vo cycop001 1902101 chongyun 21.ogg Chongyun: Cases such as thes
+all_hangout.txt:
+ tisement?
+Media:vo cycop001 1902101 chongyun 22.ogg Chongyun: I think something strange must have happened at the Test of Courage...
+Media:vo cycop001 1902101 chongyun
+all_hangout.txt:
+ evant one I have so far.
+Media:vo cycop001 1902101 chongyun 48.ogg Chongyun: If strange things have been happening at the event, then evil spirits may well be the caus
+all_hangout.txt:
+ 702 yunjin 01.ogg Yun Jin: The battle you fought on the Jade Chamber was a very strange set of circumstances, even for someone like you. It's quite normal that you can
+all_hangout.txt:
+ ang spirit has finally been brought under control, but he is now aware that the strange goings-on during the Test of Courage are a result of human activity. However, n
+all_hangout.txt:
+ s false advertising... And even that would be hard to prove.
+ There's something strange about all of this.
+Media:vo kvcop001 1907806 kaveh 16.ogg Kaveh: Oh? Did you no
+all_hangout.txt:
+  the client
+Search for the client in the nearby area
+Ask the client about their strange behavior
+Dialogue[]
+ Quest DescriptionYou decide to help Kaveh convince the cli
+all_hangout.txt:
+ f you!
+(Approach the crossing)
+Media:vo noecop001 1906104 paimon 01.ogg Paimon: Strange... No trace of any large monsters here...
+(Approach the fallen carriage)
+Media:
+all_hangout.txt:
+ if you overdo it."
+Media:vo lylcop001 1915504 layla 30.ogg Layla: "Failure is a stranger to no one. The purpose of self-reflection is not to indulge in the pain of fai
+all_hangout.txt:
+  Oh, uh...
+Media:vo lylcop001 1915504 mundhir 21.ogg Mundhir: C'mon, don't be a stranger. Your friend should join us as well. You can leave your troubles until after t
+all_hangout.txt:
+ ed to lurking in the shadows on the stage and spying on other people. So it was strange, feeling like I was the one being spied on this time.
+ Could it have something 
+all_hangout.txt:
+ gg Merieux: A mechanical puppet with a bumbling body but a sensitive soul... "A stranger in time who doesn't belong..."
+Media:vo lntcop001 1918203 merieux 09.ogg Merie
+all_hangout.txt:
+ )
+(Insight Check Success) Merieux's attitude suddenly changed, and became a bit strange...
+(TravelerTravelerThe player's chosen name for the Traveler): (Merieux's eyes
+all_hangout.txt:
+ Gillian, optional)
+Media:vo lntcop001 1918206 gillian 03.ogg Gillian: ...That's strange. I could have sworn I heard a voice just now...
+(Investigate the Official Scrip
+all_hangout.txt:
+ obu: An interview? You wanna join the Arataki Gang? ...You haven't consumed any strange substances, have you?
+ Of course not.
+ I'm being serious.
+Media:vo jqrcop001 19
+all_hangout.txt:
+  unthinkable.
+Media:vo lyycop001 1903907 heizou 02.ogg Shikanoin Heizou: That's strange... then where did the Nobushi get those goods from?
+Media:vo lyycop001 1903907 
+all_hangout.txt:
+ yycop001 1905509 heizou 12.ogg Shikanoin Heizou: C'mon you two, what's with the strange looks?
+Media:vo lyycop001 1905509 heizou 13.ogg Shikanoin Heizou: You've been k
+all_hangout.txt:
+ cover.
+Media:vo kycop001 1908003 shitou 13.ogg Shitou: Hmm, well it still seems strange to me. Sure, he's hardly the most charming conversationalist, and he's also mig
+all_hangout.txt:
+ tional soul, but alas, for the woes of the world are equally limitless. No such stranger to woes was Huanguang, a man who, having suffered countless injustices at the 
+all_hangout.txt:
+ s the Guhua Clan...
+Media:vo kycop001 1908007 kaeya 16.ogg Kaeya: Guhua, huh... Strange choice of name. Gotta say, I've been in Liyue for a while now. This is the firs
+all_hangout.txt:
+ es on a preexisting amount of trust between the two of us. I can't just get any strange coins to listen to me.
+ He caught us off guard when he insisted on taking the s
+all_hangout.txt:
+ iona: Uhh, wait. You want to pick him up? I'm telling you, Paisley just ignores strangers.
+ Meow, meow...
+Paisley: (Paisley doesn't seem to be responding...)
+Media:vo 
+all_hangout.txt:
+ o frzcop001 1917103 collei 08.ogg Collei: Haha, I also thought those names were strange when I was reading them...
+ She was able to say those phrases in such a serious
+all_hangout.txt:
+ 1 1917103 faruzan 12.ogg Faruzan: Or did the protagonist purposely create these strange names to disorient their foes?
+ I think it's because such names are "cool"...
+ 
+all_hangout.txt:
+ say, I'm in the prime of my youth and I love all beautiful things... Is that so strange?
+Media:vo ngcop001 1913501 ningguang 04.ogg Ningguang: Ying'er is every bit as 
+all_hangout.txt:
+ : *sigh*...
+Media:vo ngcop001 1913501 ningguang 07.ogg Ningguang: If I hear any strange new rumors after this, you will be my number one suspect.
+Media:vo ngcop001 191
+all_hangout.txt:
+  1903102 fusaner 04.ogg Fu San'er: You're bound to run into something in such a strange and eerie place...
+Media:vo cycop001 1903102 fusaner 05.ogg Fu San'er: And what
+all_hangout.txt:
+ ith Gorou to deliver the replies)
+Media:vo wlcop001 1902603 gorou 01.ogg Gorou: Strange, it seems unusually lively here today.
+Media:vo wlcop001 1902603 gorou 02.ogg G
+all_hangout.txt:
+ d get the wrong idea.
+Media:vo noecop002 1908201 noelle 06.ogg Noelle: Huh, how strange... Back in Mondstadt, I never feel shy around strangers, but over here I feel s
+all_hangout.txt:
+ e 06.ogg Noelle: Huh, how strange... Back in Mondstadt, I never feel shy around strangers, but over here I feel so tense...
+Media:vo noecop002 1908201 noelle 07.ogg No
+all_hangout.txt:
+  Wh—Who're you calling "little boy"? I'm a mighty warrior! I see you, with your strange attire, acting all mysterious, loitering around the Ironmongers... Yeah, you're
+all_hangout.txt:
+ panic... But your breathing pattern hasn't changed one bit — in fact, it's been strangely calm and measured this entire time... It stands to reason, then, that your ag
+all_hangout.txt:
+  name for the Traveler): (A slight look of dread just crossed Lynette's face... Strange, she usually schools her expressions with mechanical precision...)
+Media:vo lnt
+all_hangout.txt:
+ bout Lyney.
+Media:vo lntcop001 1918505 lynette 09.ogg Lynette: He's been acting strange recently... He avoids me for days on end, consumes himself with some secret inv
+all_hangout.txt:
+ 001 1918506 lynette 12.ogg Lynette: ...Ah, guess she's a little skittish around strangers.
+ I'll leave it to you, then...
+Media:vo lntcop001 1918506 lynette 13.ogg Lyn
+all_hangout.txt:
+ cop001 1918519 lynette 04.ogg Lynette: ...Is there still anything unresolved or strange that we should try to consider?
+ About what we found in Poisson...
+Media:vo lnt
+all_hangout.txt:
+ appears.
+Media:vo lntcop001 1918520 lynette 03.ogg Lynette: Also, I've had this strange sense that something's off the entire time we've been on the case... and it has
+all_hangout.txt:
+ th two extra bodies around, the Special Patrol is sure to soon take note of the strange event of Bernard somehow having a reason to look for Pierre's cat.
+Media:vo lnt
+all_hangout.txt:
+ still under investigation.
+Media:vo wlcop001 1902801 gorou 01.ogg Gorou: That's strange... I buried that box there — what does it have to do with the Treasure Hoarders
+all_hangout.txt:
+  Taroumaru: Woof! Woof, woof!
+Media:vo wlcop001 1902802 kozue 08.ogg Kozue: How strange. I don't know what's gotten into Taroumaru today...
+Media:vo wlcop001 1902802 g
+all_hangout.txt:
+ aptain.
+Media:vo bdcop001 1905103 beidou 01.ogg Beidou: Hehe... Were they, now? Strange, I don't seem to remember anything about that...
+Media:vo bdcop001 1905104 beid
+all_hangout.txt:
+ 001 1915201 katayoun 10.ogg Katayoun: I assure you that you won't find anything strange here.
+(Use Nahida's All Schemes to Know on Hunayn, optional)
+Media:vo lylcop001
+all_hangout.txt:
+ I couldn't sleep.
+Media:vo ngcop001 1913801 ningguang 06.ogg Ningguang: Oh, how strange — me too! ...I'm joking, of course — I slept like a baby. Sorry to disappoint y
+all_hangout.txt:
+ ia:vo bntcop001 1904404 royce 27.ogg Royce: Hmm, tastes a little... Huh, what a strange texture... Ugh, what is that churning feeling in my stomach...
+Media:vo bntcop0
+all_hangout.txt:
+ is, but...
+Media:vo bntcop001 1904405 bennett 11.ogg Bennett: ...It looks kinda strange. Hmm, was there really something wrong with my cooking?
+ Hate to say, I told yo
+all_hangout.txt:
+ nkin'...
+Media:vo bntcop001 1904405 bennett 24.ogg Bennett: Maybe if I eat this strange dish... it's possible that I'll lose consciousness, right?
+Media:vo bntcop001 1
+all_hangout.txt:
+ ..
+Media:vo lyycop001 1905605 paimon 01.ogg Paimon: Who would give a dog such a strange name?
+(Read the case file: "The Prince of Mischief in Hanamizaka")
+"The Prince 
+all_hangout.txt:
+ of?
+Media:vo tmcop001 1911704 thoma 02.ogg Thoma: I know, I know, how come this strange man suddenly knows your name?
+Media:vo tmcop001 1911704 thoma 03.ogg Thoma: You
+all_hangout.txt:
+ n)
+Media:vo wlcop001 1901801 gorou 11.ogg Gorou: There was definitely something strange about the way she looked at me at the end there... Could she be plotting someth
+all_hangout.txt:
+ The way she towers over me, and speaks so cryptically... something about her is strangely intimidating...
+Media:vo wlcop001 1901801 gorou 17.ogg Gorou: I could probabl
+all_hangout.txt:
+ yway, the writing could take me some time. The questions I receive are often so strange that I have to think long and hard about how to best answer them.
+ I'll stay an
+all_hangout.txt:
+ o knows, maybe you'll find some more inspiration for your mixing.
+(Obtain  Some Strange... Drink?)
+(Talk to Elzer and Connor)
+Media:vo dancop001 1910703 connor 01.ogg 
+all_hangout.txt:
+  here? Hey, Thoma...
+Media:vo tmcop001 1912105 furusawa 05.ogg Furusawa: That's strange, where'd he go? He was right here a second ago...
+You find Thoma in the corrido
+all_hangout.txt:
+ 3.2 Unsettling Feeling/Chongyun's Determination
+3.2.1 Lu Zheng and Dandan
+3.2.2 Strange Smoke
+3.2.3 Junjun and Chan'er
+3.2.4 Proceeding Onward
+4 Other Languages
+5 Chan
+all_hangout.txt:
+ he Test of Courage
+Look around for any sign of evil spirits (0/3)
+Interact with Strange Smoke
+Talk to Junjun to start the conversation
+Talk to Lu Zheng to start the co
+all_hangout.txt:
+ ongyun: Did you hear that? He's warning the event participants. Maybe something strange really did happen here...
+Media:vo cycop001 1903001 chongyun 02.ogg Chongyun: L
+all_hangout.txt:
+ 2 chongyun 07.ogg Chongyun: I see... *sigh* Maybe you're right. I'm certainly a stranger to entertainment, after all.
+Media:vo cycop001 1903002 chongyun 08.ogg Chongyu
+all_hangout.txt:
+ u Zheng: Can't you see she's terrified enough already? You can go find whatever strange things you're looking for on your own.
+Media:vo cycop001 1903003 chongyun 06.og
+all_hangout.txt:
+ rting anyone.
+Media:vo cycop001 1903003 luzheng 05.ogg Lu Zheng: Isn't it a bit strange for an exorcist to come to the Test of Courage looking for evil spirits?
+Media:
+all_hangout.txt:
+ m not too sure what you're looking for, but we did see some dark shadows making strange noises.
+Media:vo cycop001 1903003 chongyun 08.ogg Chongyun: Thank you very much
+all_hangout.txt:
+ cop001 1903003 chongyun 13.ogg Chongyun: Anyway, let's keep searching the area.
+Strange Smoke[]
+(Interact with the Strange Smoke)
+Media:vo cycop001 1903004 chongyun 01
+all_hangout.txt:
+ gyun: Anyway, let's keep searching the area.
+Strange Smoke[]
+(Interact with the Strange Smoke)
+Media:vo cycop001 1903004 chongyun 01.ogg Chongyun: Hmm, these are trace
+all_hangout.txt:
+ 1 layla 01.ogg Layla: I'd like to... Uh, I have a commission... Hmm, it's kinda strange. How should I put this...
+ We would like to borrow a high-precision celestial g
+all_hangout.txt:
+ the quest, optional)
+Media:vo yjcop001 1903754 changhu 02.ogg Changhu: How very strange. I don't usually feel anything when listening to Liu Su's stories. But once Yun
+all_hangout.txt:
+  off the bucket list..."
+Media:vo yjcop001 1903754 changhu 01.ogg Changhu: "How strange..."
+Media:vo yjcop001 1903755 fanerye 01.ogg Fan Er'ye: "What an angelic voice.
+all_hangout.txt:
+ the truth
+Gameplay Notes[]
+Branches
+Branch 1: As Yet Undersigned (Remember that strange mist we found earlier? I would like to investigate that further.)
+Follows up
+Br
+all_hangout.txt:
+ Media:vo cycop001 1903202 chongyun 05.ogg Chongyun: Does that mean that all the strange things here are just a hoax?
+ It's just for entertainment, you took it way too 
+all_hangout.txt:
+ e, I suppose there's no reason for us to linger here any longer.
+ Remember that strange mist we found earlier? I would like to investigate that further.
+(Go to Branch 
+all_hangout.txt:
+ o Branch 1)
+ Right, let's head back.
+(Go to Branch 2)
+Branch 1[]
+ Remember that strange mist we found earlier? I would like to investigate that further.
+Media:vo cycop
+all_hangout.txt:
+ e sight...
+Media:vo noecop001 1906801 beatrice 03.ogg Beatrice: Smells a little strange, too... Surely this can't be what you want me give to Quinn?
+ O—Of course not..
+all_hangout.txt:
+ g Layla: But just as I was about to set up the observation equipment, I heard a strange sound coming from nearby. I made my way here and discovered a bunch of bandits 
+all_hangout.txt:
+ t go. Farewell.
+Media:vo bblcop001 1900801 barbara 14.ogg Barbara: Hehe, what a strange character... but I hope his wounds will be okay.
+Media:vo bblcop001 1900801 bar
+all_hangout.txt:
+ le, too?)
+Media:vo jqrcop001 1914509 asami 08.ogg Asami: Although, this is very strange, you sound exactly like another shrine maiden I remember. She didn't talk much,
+all_hangout.txt:
+ Media:vo lyycop001 1905704 heizou 19.ogg Shikanoin Heizou: Suddenly, he feels a strange compulsion to slide his hand into his pocket where, it turns out, a bank check 
+all_hangout.txt:
+ , knowing that even Heizou got conned kinda puts me back in a good mood... it's strange...
+Media:vo lyycop001 1905704 itto 72.ogg Arataki Itto: Maybe I'm sharper than 
+all_hangout.txt:
+ lenge
+3.1.2 Completing the Challenge Perfectly
+3.2 The Crux of Our Duties
+3.3 A Strange Transaction
+3.4 Ending: Once Everything is Over
+4 Other Languages
+5 Change Hist
+all_hangout.txt:
+ to Wai
+Follow Beidou to meet with the warehouse owner
+Talk to Mr. Iron Abacus
+A Strange Transaction
+Go to Guyun Stone Forest
+Wait till early morning (00:00–05:00)
+Talk
+all_hangout.txt:
+ ogg Beidou: So rest assured, we haven't broken any laws — at least not today.
+A Strange Transaction[]
+(Talk to Mr. Iron Abacus)
+Media:vo_bdcop001_1905206_ironabacus_01
+all_hangout.txt:
+ cions
+Dialogue[]
+ Quest DescriptionAs you walk through Inazuma City, you feel a strange gaze from somewhere around you.
+A Mysterious Gaze[]
+(Go to the city)
+Thoughts: 
+all_hangout.txt:
+ esn't seem to be around here.)
+(Observe the "barrel")
+Observe: (Hm? What's that strange-looking thing?)
+(The "barrel" transforms into Sayu)
+Media:vo zycop001 1901204 s
+all_hangout.txt:
+ his attention right away. He gave me a different location to meet him up later. Strange, why wouldn't we just meet at the Police Station?
+ Maybe he's up to something.
+
+all_hangout.txt:
+ I couldn't sleep.
+Media:vo ngcop001 1913201 ningguang 06.ogg Ningguang: Oh, how strange — me too! ...I'm joking, of course — I slept like a baby. Sorry to disappoint y
+all_hangout.txt:
+ us now.
+Media:vo zycop001 1901404 sayu 03.ogg Sayu: That's right, don't eat any strange ninja gadgets, got it?
+ You really love the wildlife here, don't you, Sayu?
+Med
+all_hangout.txt:
+ re.
+ She left a while ago.
+Media:vo zycop001 1901407 kanonana 05.ogg Kano Nana: Strange, I found all sorts of traces along the road. They all pointed me towards this s
+all_hangout.txt:
+ a 12.ogg Kano Nana: Huh...
+Media:vo zycop001 1901407 kanonana 13.ogg Kano Nana: Strange, I don't think I've ever seen this kitsune around the Shrine before...
+Media:vo
+all_hangout.txt:
+ k uneducated!
+Media:vo cycop001 1902501 yuyan 04.ogg Yuyan: How could you ask a stranger for food? Is that any different from being a beggar?
+Media:vo cycop001 1902501
+Amenoma_Tougo_word_salad.txt:
+ ance of DestructionStory QuestsAcer Palmatum Chapter (Kaedehara Kazuha)Act I: A Strange and Friendless RoadThrough the Mist, a Name UnveiledCarassius Auratus Chapter (
+Amenoma_Yuuya_word_salad.txt:
+ Glance Back in Kaedehara Kazuha's Story Quest, Acer Palmatum Chapter: Act I - A Strange and Friendless Road.
+
+Contents
+
+1 Profile
+
+1.1 Appearance
+
+
+2 Quests and Events
+Amenoma_Yuuya_word_salad.txt:
+ uests and Events[]
+Story QuestsAcer Palmatum Chapter (Kaedehara Kazuha)Act I: A Strange and Friendless RoadEre the End, a Glance Back
+Other Languages[]
+
+LanguageOffici
+Anfortas_word_salad.txt:
+ ver, after reaching the surface, Khaenri'ahns started becoming afflicted with a strange disease which turned them into monsters.[5] This disease's symptoms[6] are desc
+Anthony_word_salad.txt:
+ e to thank you again. If not for you, I wouldn't have been able to gather those strange ingredients for that prescription.
+Anthony: Once Anna fully recovers, I should 
+Aoi_word_salad.txt:
+ Awesomeness[]
+
+ We'd like to invite you to attend this music festival.
+Aoi: How strange. No one's ever invited me to go attend such an event before.
+Paimon: Well, that
+Aramani_word_salad.txt:
+  Aranara... merchant?
+Aramani: Huh... Why does Nara friend's expression look so strange?
+Aramani: Don't Nara merchants speak like this...?
+Aramani: Or is "Buy now befo
+Aramani_word_salad.txt:
+ ut!" not available here?
+Aramani: I don't understand. Nara merchants' talk, too strange.
+ Goodbye.
+Aramani: Goodbye, Nara friend. "We look forward to seeing you again"
+Arapandu_word_salad.txt:
+ rThe player's chosen name for the Traveler).
+ About Vimara Village...
+Arapandu: Strange things at Vimara Village, Arana knows.
+Arapandu: But she is using Ararakalari, 
+Arapas_word_salad.txt:
+ s: Really? Nara (TravelerTravelerThe player's chosen name for the Traveler), so strange. You said water with scent is delicious, but you hate water with too much scent
+Ararycan_word_salad.txt:
+ 
+Upon first meeting, Ararycan was scared of the Traveler since they encountered strange Nara around the area. They later loosen up when Araja was mentioned, who told t
+Ararycan_word_salad.txt:
+ anara - Ararycan spoke of Nara Varuna and compared them both. They investigated strange spots regarding the hilichurls that then led them inside the Ruin Golem, where 
+Ararycan_word_salad.txt:
+ cious Nara that Ararycan was wary about, with him sneaking into the area with a strange machine that was just a Kamera. Like other adult Nara, Jazari can't see Aranara
+Ararycan_word_salad.txt:
+ rarycan: Then Ararycan will stay here in Vanarana, with many Aranara instead of strange Nara.
+Ararycan: Thank you, Nara (TravelerTravelerThe player's chosen name for t
+Ararycan_word_salad.txt:
+ s chosen name for the Traveler).
+ About Jazari…
+Ararycan: Nara Jazari is also a strange Nara, screaming loud like he is ill. But Ararycan doesn't think he is bad.
+Arar
+Aratani_word_salad.txt:
+ nFestival DeedsPart I: A Story for YouTrue Tales of the Violet GardenAct I: The Strange Tale of Suikou's Tipsy TinctureThe Strange Tale of Suikou's Tipsy TinctureFabul
+Aratani_word_salad.txt:
+ Tales of the Violet GardenAct I: The Strange Tale of Suikou's Tipsy TinctureThe Strange Tale of Suikou's Tipsy TinctureFabulous Fungus FrenzyAct I: The Most Fantastic 
+Aryadeva_word_salad.txt:
+ va: There are many societies in the Akademiya, but no Light Novel Society. It's strange, isn't it?
+Aryadeva: Light novels don't seem popular in Sumeru, but it is the N
+Asano_word_salad.txt:
+ rple Shadow in Kaedehara Kazuha's Story Quest, Acer Palmatum Chapter: Act I - A Strange and Friendless Road.
+
+Contents
+
+1 Profile
+
+1.1 Appearance
+
+
+2 Quests and Events
+Asano_word_salad.txt:
+ uests and Events[]
+Story QuestsAcer Palmatum Chapter (Kaedehara Kazuha)Act I: A Strange and Friendless RoadUpon the Plain, a Purple Shadow
+Idle Quotes[]
+
+Media:vo wylq
+Atsuko_word_salad.txt:
+ ng with my parents at one point?
+Atsuko: Um, how should I put it... It's such a strange story...
+Atsuko: That said, I'd love to meet "her" if I have the chance.
+Atsuko
+Autumn_word_salad.txt:
+ a housekeeper with The Steambird half a year ago, Autumn disguised herself as a stranger named Morticia and with Athos as her supposed husband, the two wiled their way
+a_purified_misc_content.txt:
+ rn I just heard you invite me to go monster-fighting in this domain with you... Strange, I slept perfectly well last night. Why am I having auditory hallucinations?
+Me
+a_purified_misc_content.txt:
+ Media:vo faruzan saferoom challenge 02.ogg Faruzan: Back when I fell into those strange ruins, I didn't have a single other person to talk to. I had only myself to rel
+a_purified_misc_content.txt:
+ ing
+2.3 Tomoki
+2.4 Yae Miko
+2.5 Sign-in Board
+2.6 Komore Teahouse Signboard
+2.7 Strange Daruma
+2.8 Letter With Elegant Handwriting
+2.9 Shikanoin Heizou's Message
+2.10 
+a_purified_misc_content.txt:
+ e Teahouse Signboard: Please do not touch the Daruma. It is not a staff member.
+Strange Daruma[]
+Starting on Day 2, a Strange Daruma becomes available near the stage.
+
+a_purified_misc_content.txt:
+ uch the Daruma. It is not a staff member.
+Strange Daruma[]
+Starting on Day 2, a Strange Daruma becomes available near the stage.
+Media:vo dialog yyeq001 sayu 01.ogg St
+a_purified_misc_content.txt:
+ ge Daruma becomes available near the stage.
+Media:vo dialog yyeq001 sayu 01.ogg Strange Daruma: ...
+ Pat Head
+Media:vo dialog yyeq001 sayu 02c 1.ogg Strange Daruma: ..
+a_purified_misc_content.txt:
+ ayu 01.ogg Strange Daruma: ...
+ Pat Head
+Media:vo dialog yyeq001 sayu 02c 1.ogg Strange Daruma: ...
+Media:vo dialog yyeq001 sayu 02c 2.ogg Strange Daruma: ...Grow...
+M
+a_purified_misc_content.txt:
+ eq001 sayu 02c 1.ogg Strange Daruma: ...
+Media:vo dialog yyeq001 sayu 02c 2.ogg Strange Daruma: ...Grow...
+Media:vo dialog yyeq001 sayu 02c 3.ogg Strange Daruma: ...Ca
+a_purified_misc_content.txt:
+ ayu 02c 2.ogg Strange Daruma: ...Grow...
+Media:vo dialog yyeq001 sayu 02c 3.ogg Strange Daruma: ...Can't... grow... taller...
+Media:vo dialog yyeq001 sayu 02c 4.ogg St
+a_purified_misc_content.txt:
+ ge Daruma: ...Can't... grow... taller...
+Media:vo dialog yyeq001 sayu 02c 4.ogg Strange Daruma: ...
+ Poke Face
+Media:vo dialog yyeq001 sayu 02b 1.ogg Strange Daruma: .
+a_purified_misc_content.txt:
+ 02c 4.ogg Strange Daruma: ...
+ Poke Face
+Media:vo dialog yyeq001 sayu 02b 1.ogg Strange Daruma: ...
+Media:vo dialog yyeq001 sayu 02b 2.ogg Strange Daruma: ...Mmmm...
+ 
+a_purified_misc_content.txt:
+ eq001 sayu 02b 1.ogg Strange Daruma: ...
+Media:vo dialog yyeq001 sayu 02b 2.ogg Strange Daruma: ...Mmmm...
+ Leave.
+Letter With Elegant Handwriting[]
+Starting on Day 2,
+a_purified_misc_content.txt:
+ g: The sheer lack of information quite surpassed my expectations. This is quite strange, even for information that has not yet spread widely.
+Letter With Elegant Handw
+a_purified_misc_content.txt:
+ n World Prerequisite
+Arataki Itto
+Gorou
+Sayu
+Available starting on Day 2 as the Strange Daruma
+Kuki Shinobu
+Raiden Shogun
+Sangonomiya Kokomi
+Shikanoin Heizou
+Thoma
+Yae
+a_purified_misc_content.txt:
+ 02 3 gorou 09.ogg Gorou: Does Ms. Hina look familiar to you at all? I have this strange feeling like I've seen her somewhere before...
+Media:vo yyeq002 3 paimon 05.ogg
+a_purified_misc_content.txt:
+  right up!
+Media:vo yyeq002 12 raidenei 01.ogg Ei: Miko... A few days ago, some strange paper notes flew into Tenshukaku, demanding that I "hand over the dog"... So I 
+a_purified_misc_content.txt:
+ Liben heads to Sumeru to trade, but quickly leaves after seeing the arrival of "strange folks", sensing an "ominous air" surrounding the nation.
+Version 2.8 Event, Sum
+a_purified_misc_content.txt:
+ aeya returns Diluc's Vision after he breaks out of prison, hiding it inside the Strange Vase that can be seen inside the Dawn Winery in-game.[Lore Discrepancy 6]
+Notes
+a_purified_misc_content.txt:
+  before the game's story, with no indication of how long ago it occurred.
+↑ The Strange Vase exists in-game and is also referred to in A Child's Secret. However, the e
+a_purified_misc_content.txt:
+ s sealed off due to numerous reasons: mysterious accidents,[81] miners dug up a strange, harmful "Wish Granter",[82][83] and strange earthquakes.[84] The decision was 
+a_purified_misc_content.txt:
+ ous accidents,[81] miners dug up a strange, harmful "Wish Granter",[82][83] and strange earthquakes.[84] The decision was made despite the Chasm's wealth and quite sur
+a_purified_misc_content.txt:
+ acred Sakura Cleansing Summary
+↑ World Quest, Sacred Sakura Cleansing Ritual: A Strange Story in Konda
+↑ World Quest: Sakura Arborism
+↑ 29.0 29.1 Book: A Preliminary S
+a_purified_misc_content.txt:
+ guu Kenki
+↑ Weapon: "The Catch"
+↑ Event Echoing Tales Conch Retrosprection, II: Strangers in a Strange Boat
+↑ 67.0 67.1 World Quest, Sacred Sakura Cleansing Ritual: Sa
+a_purified_misc_content.txt:
+ pon: "The Catch"
+↑ Event Echoing Tales Conch Retrosprection, II: Strangers in a Strange Boat
+↑ 67.0 67.1 World Quest, Sacred Sakura Cleansing Ritual: Sacrificial Offer
+a_purified_misc_content.txt:
+ heir society, believing them to be creatures of calamity due to an increase in "strange incidents," coupled with Neuvillette having just been appointed as the Iudex.
+C
+a_purified_misc_content.txt:
+  and to add to the mystery it's impossible to know just how deep the mist goes. Strange noises can be heard coming from the stone forest. Whether it's illuminated beas
+a_purified_misc_content.txt:
+ ippery to climb up. I also couldn't find my climbing rope or axe anywhere. It's strange, I'm not the type to lose things so easily... I'll bet one of the monsters lurk
+a_purified_misc_content.txt:
+ iarySpanishDiario de alguienSomeone's DiaryFrenchJournal d'un inconnuDiary of a StrangerRussianЧей-то дневникChey-to dnevnikSomeone's DiaryThaiไดอารี่ของใครบางคนDai-ar
+a_purified_misc_content.txt:
+ adepti or unnamed benevolent gods of old. Others believe they are the echoes of strangers without kin, lingering in the mountains to guide lonely, lost visitors onto t
+a_purified_misc_content.txt:
+ une forgone and gently caressed the boy's forehead and cheeks.
+Startled by this stranger's touch, the young boy lifted his head and met the fairy's gaze. "Can you make
+a_purified_misc_content.txt:
+ ory.
+"And yet, this odd fellow dares to stroll in here all by himself. How very strange indeed!"
+The lone wolf pondered this strange phenomenon as it followed the drun
+a_purified_misc_content.txt:
+ l in here all by himself. How very strange indeed!"
+The lone wolf pondered this strange phenomenon as it followed the drunken intruder through the forest, doing its be
+a_purified_misc_content.txt:
+ e. It is said that to this day, adventurers who pass by this place still hear a strange yet harmonious melody sounding from within.
+"And then? ...The story ends here?"
+a_purified_misc_content.txt:
+  her before, but he quickly found himself deep in conversation with her. It was strange, she seemed acquainted with every vein of ore and deposit of jade in the villag
+a_purified_misc_content.txt:
+ dering deep into the mountains, or the youth of the fisherfolk whose habits are strange, those considered deviant often in fact strike closer to the heart of things.
+R
+a_purified_misc_content.txt:
+ nd fears about not completing the thesis on time paled into insignificance.
+But strangely, when Hamavaran arrived on shore, the owner of the voice that had been arguin
+a_purified_misc_content.txt:
+ s the Roundlands, thus earning that location its name. However, the exceedingly strange tectonic shifts in Byakuyakoku caused the Roundlands to collapse into the depth
+a_purified_misc_content.txt:
+ . 1[]
+A poem penned by an author unknown. The writing style seems to give off a strange and ominous aura.
+Once, in a dream, I saw a black ship.
+It sailed through dark 
+a_purified_misc_content.txt:
+ . 2[]
+A poem penned by an author unknown. The writing style seems to give off a strange and ominous aura.
+By the banks of the world's purest lake,
+There once stood a g
+a_purified_misc_content.txt:
+ . 3[]
+A poem penned by an author unknown. The writing style seems to give off a strange and ominous aura.
+At first, all was still, apart from the curtains in the breez
+a_purified_misc_content.txt:
+ nto it, initiating the very first instance of time travel in human history.
+The strange sensations that came over me as I traveled through time are beyond words, just 
+a_purified_misc_content.txt:
+ as I was beside myself in awe, a few patrolling troops discovered me. Seeing my strange style of dress, they took me to be a spy for the barbarian tribes. They seized 
+a_purified_misc_content.txt:
+ millennia in the future — I know not its name, and its pistil structure is very strange indeed. It might be a mallow of some sort, but I cannot be sure. That flower is
+a_purified_misc_content.txt:
+ They were more like bipedal vishaps. With those eyes of his, glowing with their strange light, the leader of the knights spent some time sizing us up, before casually 
+a_purified_misc_content.txt:
+ . We simply could not produce the proofs, and he assured us that these sorts of strange fantasies were not illegal in their lands, and so long as we did not eat Sunset
+a_purified_misc_content.txt:
+ opes of replenishing them. It was then that every member of our party smelled a strange yet rich fragrance, and even the finest perfumes of Capitolium paled in compari
+a_purified_misc_content.txt:
+ himos. I began to feel a faint sense of unease — for could people who fawn over strangers so exist outside of the books of Ennius? But my companions were all quite fam
+a_purified_misc_content.txt:
+ mpanions were all quite familiar with those classic tales, and so found nothing strange at all about this, and followed them back to their homes. I had no choice but t
+a_purified_misc_content.txt:
+ burned away when I was seeking warmth in a pile of firewood..."It was really so strange. Your humble servant had just fallen asleep, and it was warm, so warm... one dr
+a_purified_misc_content.txt:
+ s. He was followed by a tentacled blue slime.
+"Make way! Tal, why did you let a stranger in?"
+The black-haired boy gently pushed Vera out of his way and picked up an a
+a_purified_misc_content.txt:
+ d in the man-devouring castle. It has served me as a butler since I subdued it. Strangely, it behaved quite friendly towards you."
+Vera's parents always reminded her t
+a_purified_misc_content.txt:
+  running for its life, a fox is able to shake off anyone in no time."
+Foxes are strange animals. Even when running on a flat plain like at Windrise, where one can see 
+a_purified_misc_content.txt:
+ ened next, I would have forgotten about the fox by now.
+I awoke with a start to strange noises coming from outside my door.
+"Perhaps boars have come to eat my carrots?
+a_purified_misc_content.txt:
+  be her."
+I thought to myself.
+"This can't be. Must be some type of fox magic."
+Stranger still, the idea of "fox magic" had only occurred to me in that instant. You'd 
+a_purified_misc_content.txt:
+ following days brought real stew to the table.
+But the fox never came again.
+As strange as it may seem, it had honestly been easier to sleep hungry. Even with a full, 
+a_purified_misc_content.txt:
+ ne of the dandelion seeds had grazed it on its journey into the warm night air.
+Strange. I had certainly never mentioned anything about magic to her before. How could 
+a_purified_misc_content.txt:
+ , growing as if turning into towering trees.
+It was only when I started to feel strange that I realized that the fox had become a giant.
+Vol. 11[]
+"Dandelion, Dandelio
+a_purified_misc_content.txt:
+ nd a fox.The Fox in the Dandelion Sea, the final installment.
+I started to feel strange, and then I noticed — I had turned into a dandelion!
+Even if I wanted to protes
+a_purified_misc_content.txt:
+ ne. "I mustn't use it lightly."
+"Before he died, that guy said something really strange about the situation with my father." Mir flicked the candle flame while he spok
+a_purified_misc_content.txt:
+ ppeared now, and if she didn't get back soon...
+She had forgotten all about the strange store, from the route that had taken her there to everything that had happened 
+a_purified_misc_content.txt:
+ "On the other hand, it is delightfully straightforward opening up to a complete stranger. I know that once he sets foot outside that door, we never have to meet one an
+a_purified_misc_content.txt:
+ on my hands, but I couldn't bring myself to accept the risk of traveling with a stranger..."
+"The following morning, I let down my rope and began my descent down the c
+a_purified_misc_content.txt:
+ ill them.
+So the legends claim.
+It had now been around four hours since the two strange customers had left the store. The rain continued to pour down. The shopkeeper s
+a_purified_misc_content.txt:
+ )碎夢奇珍Suì Mèng Qí ZhēnJapanese砕夢奇珍Saimukichin‍[!][!]Assumed readingBroken Dreams Strangeness‍[※][※]Sino-Japanese reading of Chinese nameKorean쇄몽기진SwaemonggijinBroken Dr
+a_purified_misc_content.txt:
+ ※][※]Sino-Japanese reading of Chinese nameKorean쇄몽기진SwaemonggijinBroken Dream's Strange TreasuresSpanishSueños rotosBroken DreamsFrenchRêves brisésBroken DreamsRussian
+a_purified_misc_content.txt:
+ emed not to end, till at last he crashed to earth at the feet of the old witch.
+Strangely, it hurt not at all.
+Something hooked onto Dietrich's necklace, and he found 
+a_purified_misc_content.txt:
+ never in his life seen the common folk able to work and live in peace, and this strange Tai-Shogun was likely no saint, either. The general amnesty was something that 
+a_purified_misc_content.txt:
+ The young woman slowly transformed back into an old woman, who had a kindly but strange smile on her face.
+"Thank you, Auntie Sen."
+Call me Osen![Note 6]
+I was relived
+a_purified_misc_content.txt:
+ t she was the dream-captor spoken the adventurer spoke of, for her shadow had a strange, mottled texture, like drapery encrusted with gems.
+"I have been looking for yo
+a_purified_misc_content.txt:
+ ed before he finally heard a name amidst the scattered sounds. This sound had a strange, special attraction to him, and he could not help but recite it.
+Then he opened
+a_purified_misc_content.txt:
+  to him, and he could not help but recite it.
+Then he opened his eyes.
+"I saw a strange sight," he said. "I saw that a woman had entered my dreams and stolen them, sto
+a_purified_misc_content.txt:
+ aze in the flaming gold of day. She knew then her purpose, though it might seem strange — she wished to gain an audience with that king and tell him something, for the
+a_purified_misc_content.txt:
+ linter reflecting a beam of chilling moonlight. The court was not as bizarre or strange as it had been in her dreams — in a few mere corners and a few corridors, she w
+a_purified_misc_content.txt:
+  to turn into mold — and so she did.As it turned out, the mold colony only sent strange biological signals that needed deciphering. Through repeated observations, it s
+a_purified_misc_content.txt:
+  matter how suspicious they may seem.
+Approved Language:
+"Welcome to Mondstadt, strange yet respectable traveler(s)/wayfarer(s)/guest(s)!* Please state your identity a
+a_purified_misc_content.txt:
+ vonius should always remain vigilant and exercise due caution when dealing with strangers. Even when dealing with non-hostiles, a knight should clarify to the stranger
+a_purified_misc_content.txt:
+  strangers. Even when dealing with non-hostiles, a knight should clarify to the stranger their rights and responsibilities as an outsider, explaining the rules and cus
+a_purified_misc_content.txt:
+ ed itself in the form of diseases, monster infestations, and all kinds of other strange occurrences. The monsters ravaged the land and turned it into a wilderness, and
+a_purified_misc_content.txt:
+ ed itself in the form of diseases, monster infestations, and all kinds of other strange occurrences. The monsters ravaged the land and turned it into a wilderness, and
+a_purified_misc_content.txt:
+ k Type
+Quest Items
+Quality
+								Description
+This text contains all manner of strange legends about Mt. Tianheng's stones, including tales about many rare ores. It i
+a_purified_misc_content.txt:
+ y Quest Hues of the Violet Garden: True Tales of the Violet Garden: Act I - The Strange Tale of Suikou's Tipsy Tincture.
+Contents
+1 Text
+2 Trivia
+3 Other Languages
+4 C
+a_purified_misc_content.txt:
+ y Quest Hues of the Violet Garden: True Tales of the Violet Garden: Act I - The Strange Tale of Suikou's Tipsy Tincture.
+Contents
+1 Text
+2 Trivia
+3 Other Languages
+4 C
+a_purified_misc_content.txt:
+ ade, or a flying stone — which one is less painful?
+"Bzzzzz—"
+I've been hearing strange noises. What's going on...
+Is the thunder going to strike?
+I wake up not knowin
+a_purified_misc_content.txt:
+ nd ground one into dust. One wrong step, and there would be no going back. This strange iron sand even spread across the stone walls, making even the idea of escape by
+Benoit_Leroy_word_salad.txt:
+ a housekeeper with The Steambird half a year ago, Autumn disguised herself as a stranger named Morticia and with Athos as her supposed husband, the two wiled their way
+Benoit_Leroy_word_salad.txt:
+ it tidy his house again, Morticia and Athos return to the house. However, their strange mannerisms arouse the suspicions of all three, which only yields further suspic
+Caribert_(NPC)_word_salad.txt:
+ eading in the direction of The Chasm. The sibling and Chlothar followed it to a strange sanctuary, only to realize the hilichurl was not Caribert. However, deep within
+Caterpillar_word_salad.txt:
+ ng in on Canotila, where he appears to suffer from memory loss and encounters a strange dog in the realm. When the Traveler catches up to the pair, the dog asks him wh
+Cava_word_salad.txt:
+ re are Magical Crystal Ore Veins Cava knows)
+
+Cava: Oh wait! I did see loads of strange, glittering rocks when I went out to play earlier! They were really pretty! Som
+Chandraputra_word_salad.txt:
+  you told the adults?
+Paula: Hmm... Now you mention it, I think I've heard some strange noises in my sleep...
+Chandraputra: Oh! And then what? Then what? What do you t
+Chao_word_salad.txt:
+ rple Shadow in Kaedehara Kazuha's Story Quest, Acer Palmatum Chapter: Act I - A Strange and Friendless Road
+
+Contents
+
+1 Profile
+
+1.1 Appearance
+
+
+2 Quests and Events
+
+Chao_word_salad.txt:
+ uests and Events[]
+Story QuestsAcer Palmatum Chapter (Kaedehara Kazuha)Act I: A Strange and Friendless RoadUpon the Plain, a Purple Shadow
+Other Languages[]
+
+LanguageO
+Charles_word_salad.txt:
+ a night off.
+During the Equivalent Exchange quest, the player must retrieve the Strange Cocktail Ingredient for Charles and he makes the Special Beverage from Angel's 
+Chef_Mao_word_salad.txt:
+ into regulars.
+Chef Mao: ...Speaking of regulars, we've had a young lady with a strange headdress come in pretty often lately. The vegetarian dishes on our menu seem q
+Chesil_word_salad.txt:
+ itional context
+Quests and Events[]
+World QuestsStrange Stone Chronicle (Part 1)Strange Stone Chronicle (Part 2)Strange Stone Chronicle (Part 3)
+Idle Quotes[]
+
+ Make a
+Chesil_word_salad.txt:
+ s[]
+World QuestsStrange Stone Chronicle (Part 1)Strange Stone Chronicle (Part 2)Strange Stone Chronicle (Part 3)
+Idle Quotes[]
+
+ Make a fortune...
+Media:VO Chesil 01.o
+Chesil_word_salad.txt:
+ rtune from this..."
+
+Dialogue[]
+Dialogue Set #1[]
+Available prior to completing Strange Stone Chronicle (Part 2).
+
+
+Chesil: Welcome, welcome. Our store offers the most
+Chesil_word_salad.txt:
+ your patronage is always welcome!
+
+Dialogue Set #2[]
+Available after completing Strange Stone Chronicle (Part 2).
+
+
+Chesil: Welcome! We meet again.
+Chesil: Are you her
+Chesil_word_salad.txt:
+ your patronage is always welcome!
+
+Dialogue Set #3[]
+Available after completing Strange Stone Chronicle (Part 3).
+
+
+Chesil: Welcome! We meet again.
+Chesil: Are you her
+Chiaki_word_salad.txt:
+ rple Shadow in Kaedehara Kazuha's Story Quest, Acer Palmatum Chapter: Act I - A Strange and Friendless Road.
+
+Contents
+
+1 Profile
+
+1.1 Appearance
+
+
+2 Quests and Events
+Chiaki_word_salad.txt:
+ uests and Events[]
+Story QuestsAcer Palmatum Chapter (Kaedehara Kazuha)Act I: A Strange and Friendless RoadUpon the Plain, a Purple Shadow
+Idle Quotes[]
+
+Media:vo wylq
+Childish_Jiang_word_salad.txt:
+ Jiang: But they say that they don't know where mom and dad are, either. It's so strange...
+ What are those two stone tablets...
+Childish Jiang: Oh, those two stones ar
+Chitose_word_salad.txt:
+ SecretWhere the Dandelions Find RestHidden Exploration ObjectivesGendou Ringo's Strange Fortune Slips
+Idle Quotes[]
+
+ How annoying...
+Media:VO Chitose 01.ogg "Ugh, thi
+Chitose_word_salad.txt:
+  Fortune Reveal)
+
+Dialogue Set #2[]
+
+(Before completing Day 1 of Gendou Ringo's Strange Fortune Slips)
+Gendou Ringo: Hello.
+ I want to decipher the fortune slip... (If
+Chitose_word_salad.txt:
+ e of a hazy night. (If a Bamboo Slip was obtained after starting Gendou Ringo's Strange Fortune Slips)
+(See Gendou Ringo's Strange Fortune Slips)
+ Attitude...
+Gendou R
+Chitose_word_salad.txt:
+ tained after starting Gendou Ringo's Strange Fortune Slips)
+(See Gendou Ringo's Strange Fortune Slips)
+ Attitude...
+Gendou Ringo: Hmm? What's the problem?
+ Nope... It'
+Chloris_word_salad.txt:
+ ris: I'm much more open-minded than she is. I care about all plants, especially strange new ones!
+Chloris: I guess I am the older one, after all. I do think Flora real
+Chlothar_word_salad.txt:
+ oids explaining what happened to Caribert's mother. The item description of the Strange Mushrooms and the Traveler during Fortune-Mocking Pedigree both call into quest
+Clerk_Zhao_word_salad.txt:
+ t force yourself to go and deal with the thing...
+Clerk Zhao: *sigh* People are strange creatures. We know full well that time is limited, but we still kid ourselves b
+Clerk_Zhao_word_salad.txt:
+ ew. Lantern Rite sure is a tiring time. Best get some rest...
+Clerk Zhao: But a strange anxiety seems to take me whenever I stop...
+Clerk Zhao: After all, Lady Yuheng 
+Contarini_word_salad.txt:
+ eferences
+
+
+Location[]
+Contarini's locationAdditional context
+Idle Quotes[]
+
+ A strange dream...
+Media:VO Contarini 01.ogg "*yawn* I'm so sleepy... Why did I have such
+Contarini_word_salad.txt:
+ eam...
+Media:VO Contarini 01.ogg "*yawn* I'm so sleepy... Why did I have such a strange dream?"
+
+Dialogue[]
+
+Contarini: *yawn* I was out for so long... But I'm still s
+Contarini_word_salad.txt:
+ yawn* I was out for so long... But I'm still so sleepy... Why did I have such a strange dream...
+ And you are...
+Contarini: Me? Contarini Tiepolo, of the Special Secur
+Contarini_word_salad.txt:
+ t I come out on vacation, and yet I haven't had enough rest at all... *yawn*
+ A strange dream, perhaps?
+Contarini: That's right, and for some reason it was an especial
+Contarini_word_salad.txt:
+ eam, perhaps?
+Contarini: That's right, and for some reason it was an especially strange one. In the dream, I was constantly fighting with these weird fellows. No diffe
+Contarini_word_salad.txt:
+ h these weird fellows. No different from work, really...
+Contarini: There was a strange researcher from the Fontaine Research Institute in my dream who claimed that th
+Crucabena_word_salad.txt:
+ d surprise that the Crimson Moon bloodline had not gone extinct, and that, in a strange twist of fate, the House of the Hearth had ended up in the hands of an orphan o
+Cyrus_(Mondstadt)_word_salad.txt:
+ es
+Idle Quotes[]
+After completing The Outlander Who Caught the Wind
+
+(Daytime)
+ Strange, that was over so quickly...
+Media:VO Cyrus 01.ogg "Welcome to the Adventurers'
+Cyrus_(Mondstadt)_word_salad.txt:
+ getting a bit too tipsy...
+ Excuse me then.
+Cyrus: You leaving? Don't be such a stranger, haha!
+
+Event Dialogue[]
+Invitation of Windblume[]
+
+Cyrus: Well then! It's the
+Daniaud_word_salad.txt:
+  things existed in Teyvat."
+
+Dialogue[]
+
+Daniaud: I never expected that so many strange objects could be fished out of the water before I first learned to fish...
+ Min
+Daniaud_word_salad.txt:
+ of what I might fish up this time is already very fascinating to me.
+ About the strange objects you spoke of...
+Daniaud: Fishermen often say that "fishermen can catch 
+Darina_word_salad.txt:
+  Not to mention the dangers that the sandstorms pose, and the ruins filled with strange mechanisms.
+Darina: According to some legends, there used to be no desert in Su
+Darina_word_salad.txt:
+ na: Not to mention the dangers posed by sandstorms, alongside ruins filled with strange mechanisms.
+Darina: Some say that in the past, there weren't any deserts in Sum
+Darya_word_salad.txt:
+ were a branch of the Akademiya from long ago.
+Darya: They were said to advocate strange ideals like "the transmission of knowledge at all costs" and "conflict is the n
+Delaroche_word_salad.txt:
+ ant to use as pistolets, it's simple, cheap, and easy to maintain.
+Delaroche: O strange aquatic creature, you'd better pray I don't catch you. Otherwise, special treat
+Dopey_word_salad.txt:
+ liars by melting the venerable coinage of lost dynasties and adorning them with strange pearls and dewdrops from the depths of a fjord. Surely, this would make for an 
+Dougier_word_salad.txt:
+ th the help of several unknown contacts, Dougier was able to get his hands on a strange black gem, custom thorns and a revolver. The gem was actually a container for a
+Dr._Edith_word_salad.txt:
+ or material for my new book.
+Dr. Edith: You might have met the scholar with the strange hilichurl obsession? That's my older sister, Ella Musk.
+ Goodbye.
+Dr. Edith: Fa
+Dwarkanath_word_salad.txt:
+ ow he wants a Claymore and he asked me to keep an eye out for one.
+Dwarkanath:  Strange, just where can I buy a sword that's not only fit for purpose, but also looks n
+Eloffe_word_salad.txt:
+ this time, I've never once had a customer ever say that my fitting room smelled strange. In fact, they usually come one after another to ask where they can buy the fra
+Elynas_(NPC)_word_salad.txt:
+ al of these new friends. He took an interest in both Jakob and Rene, sensing a "strange, dark, cold cosmic power" within them, and generously shared his blood with the
+Este_(Human)_word_salad.txt:
+ e's a brave little kitty. Shockingly bold, even.
+Este: He's utterly unafraid of strangers. I'm sure he'd get along with everyone in town smashingly.
+ See you next time
+Fodil_word_salad.txt:
+ ya. Most people struggle to even make ends meet — never mind have any manner of strange thoughts.
+Fodil: Secondly, we, the desert people, consider this place our final
+Food_Manager_word_salad.txt:
+ rector, its nickname is "Food Manager.")
+Food Manager: (But... isn't that a bit strange? What do Hydro Eidolons even eat? Or maybe... it's responsible for feeding thos
+Fugui_word_salad.txt:
+ are jaw, symmetrical features, beautiful eyes, healthy complexion...
+Fugui: How strange... you've gone a little red in the face...
+ It's called a radiant glow!
+Fugui: 
+Fukumoto_(Hues_of_the_Violet_Garden)_word_salad.txt:
+  tale picture books! Suitable for all ages!"
+
+Dialogue[]
+
+(After completing The Strange Tale of Suikou's Tipsy Tincture)
+Fukumoto: Welcome, this is the Yae Publishing 
+Fusilier_word_salad.txt:
+ th Chaussivert around, will the wine racks on this ship really stay empty? It's strange...
+ See you.
+Fusilier: Bye. It's getting late, I should probably be calling it 
+Futaba_word_salad.txt:
+ ring a kimono.
+
+Quests and Events[]
+World QuestsSacred Sakura Cleansing RitualA Strange Story in Konda
+Idle Quotes[]
+
+ Tell another story...
+Media:VO Futaba 01.ogg "Gr
+Gafoor_word_salad.txt:
+ sa in Mondstadt? Are you sure she's just a plain old librarian?
+ Yes, what's so strange about that?
+Gafoor: I didn't think there was anything about that backwater that
+Gaiman_word_salad.txt:
+ ot where he was standing...
+ What's A Legend of Sword?
+Gaiman: You know, it's a strange one. The author, Master Zhenyu, is huge in Inazuma and Fontaine. But no one in 
+Gaiman_word_salad.txt:
+ Version 1.0[Edit History]Version 2.2
+Text change:
+Old: Gaiman: You know, it's a strange one. The author, Master Chenqiu, is huge in Inazuma and Fontaine. [...]
+New: Ga
+Gaiman_word_salad.txt:
+ r Chenqiu, is huge in Inazuma and Fontaine. [...]
+New: Gaiman: You know, it's a strange one. The author, Master Zhenyu, is huge in Inazuma and Fontaine. [...]
+
+Version
+Gendou_Ringo_word_salad.txt:
+ rs their fortune based on the Bamboo Slip drawn that day.
+Before Gendou Ringo's Strange Fortune Slips is started, the person acting as "Gendou Ringo" is a Shuumatsuban
+Gendou_Ringo_word_salad.txt:
+ SecretWhere the Dandelions Find RestHidden Exploration ObjectivesGendou Ringo's Strange Fortune Slips
+Dialogue[]
+Dialogue Set #1[]
+
+(First interaction)
+Gendou Ringo: Y
+Gendou_Ringo_word_salad.txt:
+  Fortune Reveal)
+
+Dialogue Set #2[]
+
+(Before completing Day 1 of Gendou Ringo's Strange Fortune Slips)
+Gendou Ringo: Hello.
+ I want to decipher the fortune slip... (If
+Gendou_Ringo_word_salad.txt:
+ e of a hazy night. (If a Bamboo Slip was obtained after starting Gendou Ringo's Strange Fortune Slips)
+(See Gendou Ringo's Strange Fortune Slips)
+ Attitude...
+Gendou R
+Gendou_Ringo_word_salad.txt:
+ tained after starting Gendou Ringo's Strange Fortune Slips)
+(See Gendou Ringo's Strange Fortune Slips)
+ Attitude...
+Gendou Ringo: Hmm? What's the problem?
+ Nope... It'
+Gendou_Ringo_word_salad.txt:
+ u Ringo: Goodbye.
+
+Dialogue Set #3[]
+
+(After completing Day 1 of Gendou Ringo's Strange Fortune Slips)
+Gendou Ringo: When will that person come...
+ Ms. Gendou...
+Gendo
+Gendou_Ringo_word_salad.txt:
+ ) In the middle of a hazy night. (If holding a Bamboo Slip)
+(See Gendou Ringo's Strange Fortune Slips)
+ Ms. Gendou, you seem to be in a good mood today.
+Gendou Ringo: 
+Gendou_Ringo_word_salad.txt:
+ t friendlier now.
+
+Dialogue Set #4[]
+
+(After completing Day 2 of Gendou Ringo's Strange Fortune Slips)
+Gendou Ringo: Hello there.
+ I want to decipher the fortune slip.
+Gendou_Ringo_word_salad.txt:
+ ) In the middle of a hazy night. (If holding a Bamboo Slip)
+(See Gendou Ringo's Strange Fortune Slips)
+ Anything we can help you with today?
+Gendou Ringo: I...huh? Eh?
+Gendou_Ringo_word_salad.txt:
+  would finally...
+
+Dialogue Set #5[]
+
+(After completing Day 3 of Gendou Ringo's Strange Fortune Slips)
+Gendou Ringo: Hello, (TravelerTravelerThe player's chosen name f
+Gendou_Ringo_word_salad.txt:
+ ) In the middle of a hazy night. (If holding a Bamboo Slip)
+(See Gendou Ringo's Strange Fortune Slips)
+ How do you know my name?
+Gendou Ringo: Huh? You mentioned it be
+Gendou_Ringo_word_salad.txt:
+ sn't it?
+
+Dialogue Set #6[]
+
+(First interaction after completing Gendou Ringo's Strange Fortune Slips)
+Paimon: (Hey, (TravelerTravelerThe player's chosen name for the 
+Gendou_Ringo_word_salad.txt:
+ if you have any questions.
+
+Dialogue Set #7[]
+
+(After completing Gendou Ringo's Strange Fortune Slips)
+Gendou Ringo: Hello, (TravelerTravelerThe player's chosen name f
+Goldoni_word_salad.txt:
+ citizen, or Lucius Septimius Sebelius. Not "Xavier." Your pronunciation is most strange.
+Goldoni: He was a respectable man, but he put his faith in the wrong thing. In
+Goldoni_word_salad.txt:
+ nce the disturbances here have subsided, I shall act forcefully to correct such strange skeins of supposition.
+Goldoni: Delusion and weakness both breed turmoil.
+ Good
+Goth_word_salad.txt:
+  clean.(Traveler): Still, I've heard Mr. Goth say that they've had all kinds of strange problems ever since the Fatui moved in.(Traveler): The Electro Cicins that thei
+Greater_Lord_Rukkhadevata_word_salad.txt:
+  were pretty enthusiastic about Rex Lapis and the Almighty Shogun.Paimon: Those strange scholars are one thing, but even everyone living downtown only ever seems to ta
+Great_Merchant_Huang_word_salad.txt:
+ oked an outstretched thumb and little finger!
+Great Merchant Huang: With such a strange shape, it must surely have been a sacred stone, and so, I must be protected by 
+Guoba_word_salad.txt:
+ offering table, intending to eat it later. By the time she woke up, she found a strange creature instead — and he had eaten her cornbread. Undeterred, Xiangling gave h
+Hanachirusato_word_salad.txt:
+ th red straps.
+
+Quests and Events[]
+World QuestsSacred Sakura Cleansing RitualA Strange Story in KondaCleansing DefilementSacrificial OfferingTanuki-Bayashi in the For
+Hanayama_Kaoru_word_salad.txt:
+  nearby.
+Hanayama Kaoru: Even though there are no monsters about... I did see a strange person when I was out picking flowers.
+Hanayama Kaoru: He just sat there starin
+Hardy_Two-Blades_word_salad.txt:
+ rdy Two-Blades: I'm not sure how, but Lady Haniyyah noticed the Sumpter Beasts' strange behavior and calmed them before it all went down. The disaster was averted befo
+Hardy_Two-Blades_word_salad.txt:
+ e!
+ Y—Yeah, we understand...
+Paimon: Erm... the logic of it all sounds a little strange... but it kinda makes sense...
+ Please continue making a fool out of yourself. 
+Hasad_word_salad.txt:
+ t. It forced him to create three challenges at Devantaka Mountain, as well as a Strange Parchment whose text — written from Hasad's perspective — evolves with each cha
+Hirai_word_salad.txt:
+ h? Of course I'm going to do that!
+Hirai: It's just that I caught sight of some strange ships when I went out recently. They seemed to be from another land...
+Hirai: T
+Hiratsuka_word_salad.txt:
+ , and that's because the Commissioner often ropes him in into [sic] eating some strange stuff...
+Hiratsuka: I really didn't expect the efficient and resolute Commissio
+Hirayama_word_salad.txt:
+ ents[]
+EventsHues of the Violet GardenTrue Tales of the Violet GardenAct I: The Strange Tale of Suikou's Tipsy TinctureThe Strange Tale of Suikou's Tipsy TinctureAct I
+Hirayama_word_salad.txt:
+ Tales of the Violet GardenAct I: The Strange Tale of Suikou's Tipsy TinctureThe Strange Tale of Suikou's Tipsy TinctureAct II: What the Blue Flowers Left BehindWhat th
+Honglang_word_salad.txt:
+ ang: And so this Domain responded to their desires, turning into something most strange.
+Honglang: So as to what this Domain might have originally been like... I suspe
+Hongyu_(Liyue_Harbor)_word_salad.txt:
+ ht matters.
+Hongyu: But the instant that exorcist walked into the room, all the strange happenings stopped right away! He didn't even need to work any thaumaturgy!
+Hon
+Hosseini_word_salad.txt:
+ naddressed until the Traveler took it up. Upon learning about the Ruin Grader's strange properties, Hosseini suggested using Pursina's Spikes, an ancient device with t
+Ioroi_word_salad.txt:
+ ted, I'd still count them among my companions after all this time.
+Ioroi: It is strange, though. There didn't use to be this many hilichurls in Inazuma. I can't rememb
+Irus_word_salad.txt:
+ Take care! I gotta say, saying "See you later" in a place like this feels quite strange.
+
+Other Languages[]
+
+LanguageOfficial NameEnglishIrusChinese(Simplified)伊洛丝Yīlu
+Ishida_word_salad.txt:
+  the latest issue? Thanks for your support!"
+
+Dialogue[]
+
+(After completing The Strange Tale of Suikou's Tipsy Tincture)
+Ishida: As you've seen, I'm a writer of fan no
+Ivanovich_word_salad.txt:
+ 
+Ivanovich: The glow of the Xiao Lanterns feels so warm...
+Ivanovich: Even as a stranger in this foreign city, seeing the brightly lit streets and Xiao Lanterns above 
+Iwao_word_salad.txt:
+ ssius Auratus Chapter (Yoimiya)Act I: Dreamlike TimelessnessThe Firework Girl's Strange StoriesA Sliver of HopeTogether Under the FireworksEventsHues of the Violet Gar
+Iwata_word_salad.txt:
+ h? Of course I'm going to do that!
+Hirai: It's just that I caught sight of some strange ships when I went out recently. They seemed to be from another land...
+Hirai: T
+Jack_word_salad.txt:
+ ays failed in the least expected way...
+Jack: Come to think of it, it is rather strange.
+ Goodbye.
+Jack: Ad astra abyssosque! May Lady Luck smiles upon you, friend.
+
+N
+Jifang_word_salad.txt:
+ ifang: How could this be...
+ I want to know about the Wanwen Bookhouse.
+Jifang: Strange, most people who come here are looking for books, not the bookhouse itself...
+J
+Jill_word_salad.txt:
+  and Events[]
+EventsUnreconciled StarsTo Each Their Duty
+Idle Quotes[]
+
+ What a strange man...
+Media:VO Jill 01.ogg "Is that strange man still here?"
+
+Dialogue[]
+
+Jill
+Jill_word_salad.txt:
+  Their Duty
+Idle Quotes[]
+
+ What a strange man...
+Media:VO Jill 01.ogg "Is that strange man still here?"
+
+Dialogue[]
+
+Jill: Hi...? Is something wrong?
+ Found any nice 
+Kaedehara_Yoshinori_word_salad.txt:
+ tyle, which was developed to test their blades. During his first Story Quest, A Strange and Friendless Road, Kazuha encounters the sentient blade Kagotsurube Isshin, w
+Kaedehara_Yoshinori_word_salad.txt:
+ lack
+
+↑ 4.0 4.1 Story Quest, Kaedehara Kazuha, Acer Palmatum Chapter: Act I - A Strange and Friendless Road, Part 2: Ere the End, a Glance Back
+
+↑ Yae Miko's Character
+Kaede_word_salad.txt:
+  concerning those recently.
+(Continue non-event dialogue)
+(After completing The Strange Tale of Suikou's Tipsy Tincture)
+Kaede: I never thought that Ritou would play h
+Kageyama_word_salad.txt:
+ stay safe.
+
+Event Dialogue[]
+Hues of the Violet Garden[]
+
+(After completing The Strange Tale of Suikou's Tipsy Tincture)
+Kageyama: Welcome to the Magnificent Irodori F
+Kapatcir_word_salad.txt:
+ rson who gave her the name.
+Thousands of years ago, Kapatcir noticed that some "strange objects" fell from the heavens and landed upon Tsurumi Island, producing the fo
+Karpillia_word_salad.txt:
+ , so please wait patiently!
+(Continue non-event dialogue)
+(After completing The Strange Tale of Suikou's Tipsy Tincture)
+Karpillia: We've also taken up some of the set
+Katarina_word_salad.txt:
+ the Liyue Qixing which included a Fatui-Qixing collaboration to investigate the strange occurrences at The Chasm. The Ninth Company was dispatched to The Chasm under t
+Katheryne_word_salad.txt:
+  Black ShadowHues of the Violet GardenTrue Tales of the Violet GardenAct I: The Strange Tale of Suikou's Tipsy TinctureFestive EleganceCore of the ApparatusA-Toymaking
+Kazuha's_Friend_word_salad.txt:
+ of Lightning
+
+↑ Story Quest, Kaedehara Kazuha, Acer Palmatum Chapter: Act I - A Strange and Friendless Road, Part 1: Upon the Plain, a Purple Shadow
+
+↑ Wanderer's Voic
+Khedive_word_salad.txt:
+ ological Investigation in The Chasm)
+(If the player has at least one Photo of a Strange Rock)
+ About the strange rock we found...
+(Starts the Paleontological Investiga
+Khedive_word_salad.txt:
+  The Chasm)
+(If the player has at least one Photo of a Strange Rock)
+ About the strange rock we found...
+(Starts the Paleontological Investigation in The Chasm World Q
+Khedive_word_salad.txt:
+ logical Investigation in The Chasm World Quest)
+(If the player has obtained the Strange Object)
+ About the strange object...
+(Starts the Hydrological Investigation in 
+Khedive_word_salad.txt:
+ e Chasm World Quest)
+(If the player has obtained the Strange Object)
+ About the strange object...
+(Starts the Hydrological Investigation in The Chasm World Quest)
+ Not
+Kitsune_Saiguu_word_salad.txt:
+ pty Boat of a Thousand Gates)
+
+↑ World Quest, Sacred Sakura Cleansing Ritual: A Strange Story in Konda
+
+↑ Weapon: Mistsplitter Reforged
+
+↑ Weapon Ascension Material: M
+Konda_Densuke_word_salad.txt:
+  He has an adopted daughter named Futaba, and a grandson named Takeru. During A Strange Story in Konda, he covered up crimes committed by young people in the village, 
+Konda_Densuke_word_salad.txt:
+ nd a red vest.
+
+Quests and Events[]
+World QuestsSacred Sakura Cleansing RitualA Strange Story in KondaCommissionsInazuma Sales SpecialistPost-Sale Service
+Idle Quotes[
+Konda_Densuke_word_salad.txt:
+ o, about the treasure at the bottom of the well... (Unlocked after completing A Strange Story in Konda)
+Konda Densuke: At first, it was the doing of those drunken teen
+Kousaka_word_salad.txt:
+  01.ogg "Uh, please! Get in line over here."
+
+Dialogue[]
+
+(After completing The Strange Tale of Suikou's Tipsy Tincture)
+Kousaka: Seriously, though, what are these "fa
+Kujou_Kamaji_word_salad.txt:
+ uests and Events[]
+Story QuestsAcer Palmatum Chapter (Kaedehara Kazuha)Act I: A Strange and Friendless RoadUpon the Plain, a Purple ShadowEre the End, a Glance BackCyp
+Kumi_word_salad.txt:
+ 't seem to act like she's in a different nation at all. She just keeps going to strange and dangerous places every day...
+Kumi: And once she gets into her studies, tha
+Kurai_word_salad.txt:
+ nd to conduct an exchange previously, I used a secret technique to capture some strange objects.
+Kurai: I think the academic name for it is an Electro Seele. Or someth
+Kuroda_word_salad.txt:
+  We Do?EventsHues of the Violet GardenTrue Tales of the Violet GardenAct I: The Strange Tale of Suikou's Tipsy TinctureThe Strange Tale of Suikou's Tipsy TinctureWeb E
+Kuroda_word_salad.txt:
+ Tales of the Violet GardenAct I: The Strange Tale of Suikou's Tipsy TinctureThe Strange Tale of Suikou's Tipsy TinctureWeb EventsKitsune's Leisurely Stroll Around Hana
+Lafeinte_word_salad.txt:
+ lance Patrol, or even the Marechaussee Phantom...
+Lafeinte: Ahem! Or else, some strange law enforcement officer will find you, disarm you, and make sure you don't inte
+Landa_word_salad.txt:
+ ays it is her first time outside of Mondstadt. Landa has instructed her to tell strangers only his cover story, though she says she is willing to reveal his true ident
+Landa_word_salad.txt:
+ e hanging now...
+ You get cuter each time you open your mouth.
+Landa: ...What a strange thing to say.
+Landa: Anyway, you want to hear a secret that only someone in the
+Landa_word_salad.txt:
+ e real deal!
+
+Event Dialogue[]
+Unreconciled Stars[]
+
+Landa: It seems that these strange meteorites have also appeared in Liyue, just as they have in Mondstadt...
+Landa
+Lan_word_salad.txt:
+ ...And suddenly I found myself promoted to branch Guild Master. It was all very strange indeed.
+ ...You're amazing.
+Lan: You think so? Well, I don't do it for any kind
+Lawrence_word_salad.txt:
+ ights in the Knights of Favonius don't seem to have the ability to do that. How strange.
+ Goodbye.
+Lawrence: Goodbye, traveler. Hope you have a good time in Mondstadt.
+Lesser_Lord_Kusanali_word_salad.txt:
+  were pretty enthusiastic about Rex Lapis and the Almighty Shogun.Paimon: Those strange scholars are one thing, but even everyone living downtown only ever seems to ta
+Liben_word_salad.txt:
+ .
+In the fifth event, Liben had traveled to Sumeru, but quickly left after some strange folks arrived, having felt an ominous air about them and that the nation had ta
+Little_You_word_salad.txt:
+ Lantern Rite (Part II)
+Dialogue[]
+
+Little You: *sigh* It got away, again... Ah! Stranger danger!
+ Don't worry, I won't hurt you. What are you chasing?
+Little You: My s
+Lyra_word_salad.txt:
+ ents[]
+EventsHues of the Violet GardenTrue Tales of the Violet GardenAct I: The Strange Tale of Suikou's Tipsy TinctureThe Strange Tale of Suikou's Tipsy Tincture
+Othe
+Lyra_word_salad.txt:
+ Tales of the Violet GardenAct I: The Strange Tale of Suikou's Tipsy TinctureThe Strange Tale of Suikou's Tipsy Tincture
+Other Languages[]
+
+LanguageOfficial NameEnglish
+Lyudmila_word_salad.txt:
+ initely green light our actions!
+Mikhail: But I heard that people can feel some strange shaking from deep down in The Chasm. It doesn't seem to be caused by mining.
+Ly
+Lyudochka_Snezhevna_word_salad.txt:
+ arukami Island, Inazuma, after completing the Day 1 objective of Gendou Ringo's Strange Fortune Slips.
+
+Contents
+
+1 Profile
+
+1.1 Appearance
+
+1.1.1 As Gendou Ringo
+
+
+
+
+
+Lyudochka_Snezhevna_word_salad.txt:
+ endou Ringo," Momoyo, faked her death after the Traveler and Paimon took on the strange fortune slips — which Momoyo had intended on using to lure out the Fatui — Lyud
+Lyudochka_Snezhevna_word_salad.txt:
+ SecretWhere the Dandelions Find RestHidden Exploration ObjectivesGendou Ringo's Strange Fortune Slips
+Dialogue[]
+See also: Gendou Ringo § Dialogue
+Dialogue Set #1[]
+
+(
+Lyudochka_Snezhevna_word_salad.txt:
+ u Ringo § Dialogue
+Dialogue Set #1[]
+
+(After completing Day 1 of Gendou Ringo's Strange Fortune Slips)
+Gendou Ringo: When will that person come...
+ Ms. Gendou...
+Gendo
+Lyudochka_Snezhevna_word_salad.txt:
+ ) In the middle of a hazy night. (If holding a Bamboo Slip)
+(See Gendou Ringo's Strange Fortune Slips)
+ Ms. Gendou, you seem to be in a good mood today.
+Gendou Ringo: 
+Lyudochka_Snezhevna_word_salad.txt:
+ t friendlier now.
+
+Dialogue Set #2[]
+
+(After completing Day 2 of Gendou Ringo's Strange Fortune Slips)
+Gendou Ringo: Hello there.
+ I want to decipher the fortune slip.
+Lyudochka_Snezhevna_word_salad.txt:
+ ) In the middle of a hazy night. (If holding a Bamboo Slip)
+(See Gendou Ringo's Strange Fortune Slips)
+ Anything we can help you with today?
+Gendou Ringo: I...huh? Eh?
+Lyudochka_Snezhevna_word_salad.txt:
+  would finally...
+
+Dialogue Set #3[]
+
+(After completing Day 3 of Gendou Ringo's Strange Fortune Slips)
+Gendou Ringo: Hello, (TravelerTravelerThe player's chosen name f
+Lyudochka_Snezhevna_word_salad.txt:
+ ) In the middle of a hazy night. (If holding a Bamboo Slip)
+(See Gendou Ringo's Strange Fortune Slips)
+ How do you know my name?
+Gendou Ringo: Huh? You mentioned it be
+Lyudochka_Snezhevna_word_salad.txt:
+ sn't it?
+
+Dialogue Set #4[]
+
+(First interaction after completing Gendou Ringo's Strange Fortune Slips)
+Paimon: (Hey, (TravelerTravelerThe player's chosen name for the 
+Lyudochka_Snezhevna_word_salad.txt:
+ if you have any questions.
+
+Dialogue Set #5[]
+
+(After completing Gendou Ringo's Strange Fortune Slips)
+Gendou Ringo: Hello, (TravelerTravelerThe player's chosen name f
+Madame_Ping_word_salad.txt:
+ Media:VO KO_Yaoyao About Xiangling.ogg Xiangling hasn't been, um... looking for strange ingredients lately, has she? She gave me a real fright last time. She said she 
+Madame_Ping_word_salad.txt:
+  mean, Master looked like she was really happy to see her, so how could it be a stranger? Evidently, she was an old friend!More About Yaoyao: V Media:VO_Yaoyao More Ab
+Marjorie_word_salad.txt:
+ es your eye."
+ Weirdo...
+Media:VO Marjorie 02.ogg "Haven't you heard? There's a strange wanderer near Wolvendom."
+
+During the Of Ballads and Brews event
+
+ Strange wand
+Marjorie_word_salad.txt:
+ 's a strange wanderer near Wolvendom."
+
+During the Of Ballads and Brews event
+
+ Strange wanderer...
+Media:VO Marjorie Of Ballads and Brews 01.ogg "Have you heard? The 
+Marjorie_word_salad.txt:
+  wanderer...
+Media:VO Marjorie Of Ballads and Brews 01.ogg "Have you heard? The strange wanderer from Wolvendom has shown up in Springvale."
+
+During Windblume's Breath
+Marjorie_word_salad.txt:
+ ..
+ Did I hear you talk about Wolvendom?
+Marjorie: Oh, yes. I did see something strange in Wolvendom not long ago.
+Marjorie: From the silhouette, it seems to have been
+Marjorie_word_salad.txt:
+ s only a glimpse.
+Marjorie: I mean, how could humans live alongside wolves? How strange...
+ Goodbye.
+Marjorie: Oh! Don't forget to bring some goodies here next time!
+
+
+Marjorie_word_salad.txt:
+  adorable child bought a storybook from me, but I remember there being a rather strange riddle within its pages.
+Marjorie: It might've been something that someone just
+Marla_word_salad.txt:
+ ess series lately. I just finished the grand finale.
+Marla: The ending is a bit strange, but it's so wonderful that the Boar Princess and the wolf pup could be togethe
+Masseira_word_salad.txt:
+  of affection.
+ I don't understand what you're trying to say...
+Masseira: Then, stranger, perhaps you should regard my words as but passing wind.
+ See you around.
+Mass
+Masseira_word_salad.txt:
+ hould regard my words as but passing wind.
+ See you around.
+Masseira: Farewell, stranger... May your path be barren of sandstorms.
+
+Dialogue Set #2[]
+Available after m
+Matsuzaka_word_salad.txt:
+ ssius Auratus Chapter (Yoimiya)Act I: Dreamlike TimelessnessThe Firework Girl's Strange StoriesA Sliver of HopeTogether Under the FireworksEventsHues of the Violet Gar
+Mermet_word_salad.txt:
+  might want to ask the hydrology surveyors. They often come across all sorts of strange things during their surveys.
+Mermet: However, I heard from a friend about a pla
+Mikhail_word_salad.txt:
+ initely green light our actions!
+Mikhail: But I heard that people can feel some strange shaking from deep down in The Chasm. It doesn't seem to be caused by mining.
+Ly
+Miyazaki_Saburou_word_salad.txt:
+ side Higi Village across the valley, I hear that the villagers have caught some strange illness. Those who could flee already have. The remaining bunch have gone quite
+Momoka_word_salad.txt:
+ f Momoyo posing as a shrine maiden at the Grand Narukami Shrine and handing out Strange Fortune Slips containing mission orders to the ninjas who recited their secret 
+Momoka_word_salad.txt:
+ to use the code, confusing Momoyo and resulting in the events of Gendou Ringo's Strange Fortune Slips.
+It is revealed at the end of Where the Dandelions Find Rest that
+Murata_(NPC)_word_salad.txt:
+ k Reviews, and the Super Lucky GeneralTrue Tales of the Violet GardenAct I: The Strange Tale of Suikou's Tipsy TinctureFestive EleganceThe Strange Tale of Suikou's Tip
+Murata_(NPC)_word_salad.txt:
+ let GardenAct I: The Strange Tale of Suikou's Tipsy TinctureFestive EleganceThe Strange Tale of Suikou's Tipsy TinctureAct II: What the Blue Flowers Left BehindWhat th
+Murata_(NPC)_word_salad.txt:
+ all up. We'll only open once the Irodori Festival starts.
+(After completing The Strange Tale of Suikou's Tipsy Tincture)
+Murata: Here's the official Yae Publishing Hou
+Murayama_word_salad.txt:
+ Glance Back in Kaedehara Kazuha's Story Quest, Acer Palmatum Chapter: Act I - A Strange and Friendless Road.
+
+Contents
+
+1 Profile
+
+1.1 Appearance
+
+
+2 Quests and Events
+Murayama_word_salad.txt:
+ uests and Events[]
+Story QuestsAcer Palmatum Chapter (Kaedehara Kazuha)Act I: A Strange and Friendless RoadEre the End, a Glance Back
+Other Languages[]
+
+LanguageOffici
+Murayama_word_salad.txt:
+ References[]
+
+↑ Story Quest, Kaedehara Kazuha, Acer Palmatum Chapter: Act I - A Strange and Friendless Road, Part 2: Through the Mist, a Name Unveiled
+
+
+
+
+
+
+Naganohara_Ryuunosuke_word_salad.txt:
+ ssius Auratus Chapter (Yoimiya)Act I: Dreamlike TimelessnessThe Firework Girl's Strange StoriesExpectations Not to Be BetrayedA Sliver of HopeTogether Under the Firewo
+Naganohara_Ryuunosuke_word_salad.txt:
+ ke a new firework for her!"
+
+Dialogue[]
+
+(Before completing The Firework Girl's Strange Stories)
+
+Naganohara Ryuunosuke: Wow, where did you come from, youngster? You'r
+Naganohara_Ryuunosuke_word_salad.txt:
+  you know where the real deal is, hahaha!
+(After completing The Firework Girl's Strange Stories)
+
+Naganohara Ryuunosuke: Oh, if it isn't my little girl's new pal? You 
+Nagato_Sachiko_word_salad.txt:
+  appears in the Kaedehara Kazuha's Story Quest Acer Palmatum Chapter: Act I - A Strange and Friendless Road.
+
+Contents
+
+1 Profile
+
+1.1 Appearance
+
+
+2 Quests and Events
+Nagato_Sachiko_word_salad.txt:
+ uests and Events[]
+Story QuestsAcer Palmatum Chapter (Kaedehara Kazuha)Act I: A Strange and Friendless RoadThrough the Mist, a Name Unveiled
+Other Languages[]
+
+Languag
+Nagato_Sachiko_word_salad.txt:
+ file
+
+↑ 3.0 3.1 Story Quest, Kaedehara Kazuha, Acer Palmatum Chapter: Act I - A Strange and Friendless Road, Part 2: Through the Mist, a Name Unveiled
+
+
+
+
+
+
+Nasejuna_word_salad.txt:
+ quivalent of their "sage," stationed in the Girdle of the Sands to research the strange Abyssal phenomenon occurring in the area. 
+While exploring the area, Nasejuna d
+Neko_word_salad.txt:
+ ll surely be pleased when she returns.
+Neko: Still, I have discovered something strange...
+Neko: On a stroll, I discovered that the surrounding villages have not a sou
+Neko_word_salad.txt:
+  the surrounding villages have not a soul within them...
+Neko: Meow meow... How strange, where did all those humans go?
+ How have the people at the shrine been doing?
+
+Neriman_word_salad.txt:
+ Neriman: If I have to name something I haven't seen before, it's probably those strange people I saw when there was a sea monster warning a few days ago.
+Neriman: Ever
+Nikolay_word_salad.txt:
+ he Fatui's Ninth Company, which went on an ill-fated mission to investigate the strange occurrences at The Chasm. He was an orphan raised in Arlecchino's House of the 
+Nobumori_word_salad.txt:
+ o Ayato with my limited skill? After losing, I handed my Vision over.
+Nobumori: Strangely, losing the Vision felt like letting go of a heavy burden. Those obsessions I
+Nosaki_word_salad.txt:
+ rple Shadow in Kaedehara Kazuha's Story Quest, Acer Palmatum Chapter: Act I - A Strange and Friendless Road.
+
+Contents
+
+1 Profile
+
+1.1 Appearance
+
+
+2 Quests and Events
+Nosaki_word_salad.txt:
+ uests and Events[]
+Story QuestsAcer Palmatum Chapter (Kaedehara Kazuha)Act I: A Strange and Friendless RoadUpon the Plain, a Purple Shadow
+Idle Quotes[]
+
+Media:vo wylq
+Olaf_word_salad.txt:
+ ing first names instead. You have got to overlook some things when you are in a strange situation like this, do you not think?
+Olaf: Being related by blood does seem t
+Olaf_word_salad.txt:
+ oes seem to give us an inexplicable connection though. Draff and I are complete strangers, and yet we keep finding that we just have so much in common.
+Olaf: ...Especi
+Old_Chou_word_salad.txt:
+ 
+
+
+
+
+Old Chou
+Strange Store Owner
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+
+
+Region
+Liyue
+
+
+Location
+Liyue
+
+
+
+Old_Chou_word_salad.txt:
+ u but left the group after hitting it big in the mines, eventually opening up a strange store in the outskirts of the Chasm. He gave Tang a Smaragdus Jadeite necklace.
+Onodera_word_salad.txt:
+ k Reviews, and the Super Lucky GeneralTrue Tales of the Violet GardenAct I: The Strange Tale of Suikou's Tipsy TinctureFestive EleganceAct II: What the Blue Flowers Le
+Ono_word_salad.txt:
+ g Grass Renewing)
+Ono: Hmm? Are you an outlander traveling to Inazuma?
+Ono: How strange. Why are you walking around in a place like this when you could be enjoying you
+Ono_word_salad.txt:
+ g Grass Renewing)
+Ono: Hmm? Are you an outlander traveling to Inazuma?
+Ono: How strange. Why are you walking around in a place like this when you could be enjoying you
+Oz_word_salad.txt:
+ st open by Oz's beak into the boundless tapestry of darkness.Oz: You do say the strangest of things, mein Fräulein.About Us: Ones Dear to Heart Media:VO_Fischl About U
+Oz_word_salad.txt:
+  the World's Curses"), the Traveler ("Visitor From Outer Worlds"), and Paimon ("Strange Fae-shaped Emergency Sustenance").
+Oz is mentioned in the description of the fo
+Paimon_word_salad.txt:
+  was a halo.
+
+Character Mentions
+Character StoriesCharacterStoriesFischlAs the "Strange Fae-shaped Emergency Sustenance":VisionTravelerCharacter Story 2Character Voice
+Paimon_word_salad.txt:
+ to Ayato - 02.ogg Media:VO KO_Kamisato Ayato More About Kamisato Ayato - 02.ogg Strange tastes, you say...? You seem to misunderstand me. Let me be quite clear: Most o
+Paimon_word_salad.txt:
+ 're put in an awkward position. Watching them squirm, you might say. Is that so strange? I would have thought you tease your little friend here on a regular basis for 
+Paimon_word_salad.txt:
+  were pretty enthusiastic about Rex Lapis and the Almighty Shogun.Paimon: Those strange scholars are one thing, but even everyone living downtown only ever seems to ta
+Paisley_word_salad.txt:
+ ood for. At the tavern, he doesn't interact much with the customers and ignores strangers, preferring to play with the other cats instead. Diona calls him a self-cente
+Pan_Guan'er_word_salad.txt:
+ ?
+Pan Guan'er: Not yet. No adeptus has come to give me back my axe, either. How strange...
+Pan Guan'er: I did in fact pick up a sword.
+Pan Guan'er: But... I don't know
+Paula_word_salad.txt:
+  you told the adults?
+Paula: Hmm... Now you mention it, I think I've heard some strange noises in my sleep...
+Chandraputra: Oh! And then what? Then what? What do you t
+Peixiu_word_salad.txt:
+ fficult terrain are inherently dangerous, but we may even run into all sorts of strange monsters...
+Peixiu: N-Next time, I should ask Lan to send a few more people.
+ I
+Pierro_word_salad.txt:
+ ore the events of Unreconciled Stars, Pierro sent Scaramouche to Liyue, where a strange dream-inducing meteorite shower prompted Scaramouche to investigate. While inve
+Pierro_word_salad.txt:
+ d surprise that the Crimson Moon bloodline had not gone extinct, and that, in a strange twist of fate, the House of the Hearth had ended up in the hands of an orphan o
+Pitot_word_salad.txt:
+ Oh, you can't just find this just anywhere. I'm pretty interested in collecting strange and interesting things, so if you're willing to hand it over to me, I'll make s
+Pitot_word_salad.txt:
+  he was able to find these things three times — never again. Maybe there's some strange rule of nature at work.
+Pitot: If you ask me, we'd best leave some of this worl
+Puca_word_salad.txt:
+ rusea Village, Fontaine. She becomes available after completing the World Quest Strange Stone Chronicle.
+
+Contents
+
+1 Location
+2 Quests and Events
+
+2.1 World Quests
+2.
+Puca_word_salad.txt:
+ nt of Dreams and OchreThere Will Come Soft RainsStrange Stone Chronicle (Part 1)Strange Stone Chronicle (Part 2)Strange Stone Chronicle (Part 3)Hidden Exploration Obje
+Puca_word_salad.txt:
+  Come Soft RainsStrange Stone Chronicle (Part 1)Strange Stone Chronicle (Part 2)Strange Stone Chronicle (Part 3)Hidden Exploration ObjectivesPoissonous Cuisine
+Idle Qu
+Puca_word_salad.txt:
+ nes, be sure to tell me about it!
+
+Dialogue Set #2[]
+Available after completing Strange Stone Chronicle (Part 3).
+
+
+Puca: Ah, hello! How are things? Is there anything 
+purified_Albedo.txt:
+ hts of Favonius but does not often appear in public.Still, he does not have the strange and eccentric temper that people tend to assume of academics. In fact, he is ea
+purified_Albedo.txt:
+ nFestival DeedsPart I: A Story for YouTrue Tales of the Violet GardenAct I: The Strange Tale of Suikou's Tipsy TinctureThe Strange Tale of Suikou's Tipsy TinctureAct I
+purified_Albedo.txt:
+ Tales of the Violet GardenAct I: The Strange Tale of Suikou's Tipsy TinctureThe Strange Tale of Suikou's Tipsy TinctureAct II: What the Blue Flowers Left BehindWhat th
+purified_Aloy.txt:
+ der and more dangerous world than she ever could have imagined. She encountered strange and powerful new tribes, ancient ruins rife with mysteries, and dangerous enemi
+purified_Aloy.txt:
+ rought her into a wild and dangerous world far beyond her imagination, bringing strange and powerful tribes, mysterious ancient ruins, and terrifying enemies — whether
+purified_Aloy.txt:
+ Aloy knew completely disappeared from her sight, and she now found herself in a strange, beautiful new world just waiting to be explored.
+Obtain:Reward for reaching Fr
+purified_Aloy.txt:
+ _About_Aloy.ogg I grew up an outcast, and it wasn't much fun. Even though I'm a stranger here, people are friendlier than the tribe that was supposed to raise me. It's
+purified_Aloy.txt:
+ oy_Feelings_About_Ascension_-_04.ogg When we started out, you were just another stranger in a world I didn't understand. But after everything we've been through, I can
+purified_Aloy.txt:
+  salvage their components...
+Media:vo aloy mimitomo friendship1 03b 5.ogg Aloy: Strange components, sure, and probably not the kind that I could use to modify my gear.
+purified_Amber.txt:
+ merous times.
+She has an outgoing personality, as one might find her talking to strangers as if they're acquaintances. She is passionate in everything she does, may it
+purified_Amber.txt:
+ ake the best steak, and I'll call it... the Outrider's Champion Steak!""I met a strange outlander today. I was suspicious at first, but as it turns out, this outlander
+purified_Amber.txt:
+ fandom.com/wiki/File:VO_Amber_Chat_-_New_Discoveries.ogg Hey, there's something strange over there... C'mon, let's take a look!
+When It Rains: WorriesWhen It Rains: Wo
+purified_Arlecchino.txt:
+ f a Fontainian.The truth is, however, that she discovered an ability to wield a strange fire from a young age.This attracted much curiosity, as no one in her "family" 
+purified_Arlecchino.txt:
+ d surprise that the Crimson Moon bloodline had not gone extinct, and that, in a strange twist of fate, the House of the Hearth had ended up in the hands of an orphan o
+purified_Arlecchino.txt:
+  it a mature production, a tale about love that blossomed through all manner of strange coincidences and circumstances.
+Media:vo arlecchino mimitomo friendship2 05c 2.
+purified_Baizhu.txt:
+ ve remedies. To Paimon, his sly attitude during their first two meetings seemed strange, yet Yanfei brushed off her concerns and claimed that Baizhu has always acted t
+purified_Baizhu.txt:
+ d a bit of luck.As for the chance to research the secret arts of the adepti and strange diseases... these are opportunities no amount of Mora could ever buy.Character 
+purified_Baizhu.txt:
+ lity" spoken of in legend.For most ordinary people, "immortality" is simply too strange a concept. But there are people whose curiosity will be aroused, and who will s
+purified_Baizhu.txt:
+ fe."A man and a snake, the snake with human eyes and the man with snake eyes. A strange phenomenon indeed. Few know the truth behind such an enigmatic anomaly. In fact
+purified_Baizhu.txt:
+  past faded and were forgotten.Changsheng hissed an impatient reply: "What's so strange about that? The adepti are gone, but don't their tea trees remain? The tree and
+purified_Baizhu.txt:
+  the footsteps of his master, learning the physician's art.The world is full of strange and complicated diseases, but Baizhu's master was always able to provide treatm
+purified_Baizhu.txt:
+ Media:VO KO_Yaoyao About Xiangling.ogg Xiangling hasn't been, um... looking for strange ingredients lately, has she? She gave me a real fright last time. She said she 
+purified_Barbara.txt:
+ elf while watching her busy sister.
+And that was when she heard a rumor about a strange archipelago.
+Summer, islands, the ocean... could this be her hard-come-by oppor
+purified_Barbara.txt:
+ a.However, this has not always been the case. At first, Barbara's songs sounded strange to the citizens of Mondstadt, and many struggled to see the appeal.This was bec
+purified_Barbara.txt:
+ Idol Magazine Friendship Lv. 4
+"...Idol?"The first time that Barbara heard this strange word, she was visibly confused."But... aren't The Seven the ones that people ar
+purified_Barbara.txt:
+ e given name Barbara is derived from the Latin word barbarus, meaning "foreign, strange." The Latin word barbara pertains to "a wild, savage, cruel, barbarous, shamele
+purified_Candace.txt:
+ gghttps://genshin-impact.fandom.com/wiki/File:VO_Candace_When_It_Snows.ogg This strange powder, it is... fine, like sand, but white as the clouds, and cold as ice...
+W
+purified_Candace.txt:
+ genshin-impact.fandom.com/wiki/File:VO_Candace_About_Candace_-_Eye_Color.ogg ...Strange? I'm not sure what you mean, both amber and blue are fairly common eye colors, 
+purified_Charlotte.txt:
+ pact.fandom.com/wiki/File:VO_Charlotte_Feelings_About_Ascension_-_01.ogg What a strange and wonderful feeling... I've gotta write this down for my records.
+Feelings Ab
+purified_Chevreuse.txt:
+ f Meropide."Did Papa... do something wrong?"This was the question she asked the strange adults beside her. After much choking back of tears, the reply finally came:"..
+purified_Chiori.txt:
+ obstacle to her."Never give up" is Chiori's true brand. She has said so herself.Strangely, it's as though it is in fact her "dream" that has begun actively trying to d
+purified_Chiori.txt:
+ n Fontaine's vibrant avenues, and how the people there would sound speaking the strange name. It suddenly all seemed so real to her, as though, at that moment, the rea
+purified_Chiori.txt:
+ le:VO_Chiori_About_Navia.ogg She used to beg me to help her design all kinds of strange things. For example, little crowns for every handle on a ship's helm... I could
+purified_Chiori.txt:
+ this time, I've never once had a customer ever say that my fitting room smelled strange. In fact, they usually come one after another to ask where they can buy the fra
+purified_Chiori.txt:
+ n the rules that says you can't use two. I use twin blades in combat, what's so strange about using twin hagoita?
+Media:vo chiori mimitomo friendship3 10.ogg Chiori: Y
+purified_Chongyun.txt:
+ air over, and sat upon it in the middle of the house for a time.That night, the strange sounds were no more.The wealthy woman finally had a good night's sleep, and she
+purified_Chongyun.txt:
+  loss.Ultimately, he would attempt to use his imagination to draw some suitably strange images.—Thus did the Field Guide to Demons and Beasts grow ever more exotic. Be
+purified_Chongyun.txt:
+ concerning evil spirits in Liyue, but not all have truth to them. In fact, some strange commissions wind up having nothing to do with them at all.
+Interesting Things A
+purified_Chongyun.txt:
+ om.com/wiki/File:VO_Chongyun_Interesting_Things.ogg I have heard there are many strange and rare things sealed within the amber from Mt. Hulao. Could some of them be t
+purified_Chongyun.txt:
+ hosen name for the Traveler)?
+Media:vo chongyun mimitomo hello 02.ogg Chongyun: Strange anecdotes, rumors of evil spirits... If you come across such news, please remem
+purified_Collei.txt:
+ the woods where she often patrols, you should chance upon a tree hollow full of strange notes, or hear someone whispering nearby...No matter what you witnessed or over
+purified_Collei.txt:
+ 
+On the Cat's Tail Message Board, one message left by a customer talks about a "strange girl" that was "wrapped in bandages," referring to Collei.
+In the Japanese vers
+purified_Cyno.txt:
+ etting out a few dry, strangled laughs in concert...The awkward laughter lent a strange sense of human warmth then to the often somber and solemn Matra office.However,
+purified_Cyno.txt:
+ on TCG, don't you?
+Media:vo cyno mimitomo friendship3 06.ogg Cyno: Yes. Is that strange? You have a funny look on your face.
+Media:vo cyno mimitomo friendship3 07.ogg 
+purified_Diluc.txt:
+ e Dawn Winery's master should have been a momentous occasion for Mondstadt, but strangely it went completely unnoticed.The reason? Mondstadt's citizens were far too bu
+purified_Diluc.txt:
+ _About Kaeya and Diluc.ogg Media:VO KO_Lumine_About Kaeya and Diluc.ogg Paimon: Strange...(Traveler): What's wrong?Paimon: Diluc and Kaeya are really alike, so why don
+purified_Diona.txt:
+ ul."Thus did Dr. Edith write of Diona in her notes for "Studies Into Bloodlines Strange and Unfamiliar."Character Story 4 Friendship Lv. 5
+Diona's appearance did indee
+purified_Diona.txt:
+ lted loach from the cabinet? Time to destroy the wine industry!
+Good Afternoon: Strange NoisesGood Afternoon: Strange NoisesMedia:VO_Diona Good Afternoon - Strange Noi
+purified_Diona.txt:
+ ime to destroy the wine industry!
+Good Afternoon: Strange NoisesGood Afternoon: Strange NoisesMedia:VO_Diona Good Afternoon - Strange Noises.ogghttps://genshin-impact.
+purified_Diona.txt:
+ on: Strange NoisesGood Afternoon: Strange NoisesMedia:VO_Diona Good Afternoon - Strange Noises.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Diona_Good_Afternoon_-
+purified_Diona.txt:
+  can add it to my next cocktail to give it a dreadful taste... Huh? It's just a strange-looking mushroom, how boring...
+About the Vision: Heirloom Friendship Lv. 3Abou
+purified_Diona.txt:
+ Here you go — fried fish with my special sauce! ...Relax, I didn't add anything strange! My cooking is actually really good when I want it to be — stop talking and try
+purified_Dori.txt:
+  for glittering Mora.With her persuasive eloquence, she is able to sell various strange and mysterious products for a very high price.—Description from the Official We
+purified_Dori.txt:
+ blood for no reason. At this time, their home came to be ringed by a great many strange adults.The strangers explained the elder sister's situation in serious tones an
+purified_Dori.txt:
+ . At this time, their home came to be ringed by a great many strange adults.The strangers explained the elder sister's situation in serious tones and with unfathomable
+purified_Eula.txt:
+ ing occurs almost on a monthly basis. But... if they're engaged in some sort of strange sparring ritual in there for the sake of settling old grievances and honing the
+purified_Eula.txt:
+ pirited, and her mental fortitude is out of this world. If other people gave me strange looks all the time and talked behind my back like they do about her, I don't th
+purified_Eula.txt:
+ nshin-impact.fandom.com/wiki/File:VO_Eula_Feelings_About_Ascension_-_03.ogg How strange... In the time I've spent with you, my strength seems to have improved exceptio
+purified_Faruzan.txt:
+ ere.She had returned to Sumeru indeed, but it was as if she had drifted to some strange land instead.Even wayfarers adrift may return to their home, but she had been l
+purified_Fischl.txt:
+ , as her instincts are very keen.
+Outside of guild duties, many people view her strangely due to her her antics and roleplay, while this sometimes bothers her, she con
+purified_Fischl.txt:
+ hat day at midnight, she hid herself in the library she knew so well. She had a strange feeling that she was being watched... Suddenly, she heard an otherworldly flapp
+purified_Fischl.txt:
+ enturer Who Bears the World's Curses," the "Visitor From Outer Worlds" and the "Strange Fae-shaped Emergency Sustenance..."They would become the Prinzessin's new frien
+purified_Fischl.txt:
+ st open by Oz's beak into the boundless tapestry of darkness.Oz: You do say the strangest of things, mein Fräulein.
+Good NightGood NightMedia:VO_Fischl Good Night.oggh
+purified_Freminet.txt:
+  many a lonely day.One day, when his mother returned home, she suddenly heard a strange noise that stopped her in her tracks. It was the sound of their clock, which Fr
+purified_Furina.txt:
+  useless, so I sent them all to the troupe to be used as props in performances. Strange... before I bought those things, I was certain they would all be of good use to
+purified_Gaming.txt:
+ capture pests and harmful bugs...As an oddball, Gaming's head is always full of strange, bright new ideas, leaving others quite dumbfounded, and so his parents only ev
+purified_Gaming.txt:
+ 05.ogg Gaming: Hehe, anyway, it's easy to poke fun at business people and their strange rituals when I don't know the first thing about business. But a client's a clie
+purified_Ganyu.txt:
+ 02.ogg Ganyu: For once, I don't need to work overtime at night... Huh... what a strange feeling...
+When a character is invited to or invites themselves to their favori
+purified_Hu_Tao.txt:
+ e yet to be published.Xingqiu, ever immersed in books, also wanted to meet this strange person, and so chose an auspicious date to visit, bringing a gift with him.The 
+purified_Hu_Tao.txt:
+ gqiu's traditional, artistic bent, Hu Tao could always return in kind with some strange and marvelous verse.And there was meaning in the chaos, indeed, a rhythm to the
+purified_Hu_Tao.txt:
+ ia:VO KO_Shenhe About Hu Tao.ogg I often see her wandering in the woods singing strange songs. Actually, I must have heard all of her songs several times each by now. 
+purified_Hu_Tao.txt:
+ r songs several times each by now. I'm used to her singing, but I still find it strange. That being said, I don't hate it either.XianglingAbout Hu Tao Media:VO_Xiangli
+purified_Kaedehara_Kazuha.txt:
+ The Omnipresent GodStory QuestsAcer Palmatum Chapter (Kaedehara Kazuha)Act I: A Strange and Friendless RoadUpon the Plain, a Purple ShadowEre the End, a Glance BackThr
+purified_Kaedehara_Kazuha.txt:
+ Glance Back in Kaedehara Kazuha's Story Quest, Acer Palmatum Chapter: Act I - A Strange and Friendless RoadEvent Story Quest Immernachtreich Apokalypse in Summertime O
+purified_Kaedehara_Kazuha.txt:
+ me Unveiled in Kaedehara Kazuha's Story Quest, Acer Palmatum Chapter: Act I - A Strange and Friendless RoadQuest DomainsImmernachtreich Apokalypse: Part III — Event St
+purified_Kaedehara_Kazuha.txt:
+ Glance Back in Kaedehara Kazuha's Story Quest, Acer Palmatum Chapter: Act I - A Strange and Friendless RoadEventsMisty Dungeon: Realm of LightA Study in Potions/Dusty 
+purified_Kaeya.txt:
+ ced in Mondstadt to serve their interests. His father had abandoned him in this strange and unknown land to fulfill this mission, and it was Master Crepus and the city
+purified_Kaeya.txt:
+ _About Kaeya and Diluc.ogg Media:VO KO_Lumine_About Kaeya and Diluc.ogg Paimon: Strange...(Traveler): What's wrong?Paimon: Diluc and Kaeya are really alike, so why don
+purified_Kamisato_Ayato.txt:
+ Hiratsuka notes that whenever he hangs out with Thoma, he ropes him into eating strange food, causing Thoma to become terrified whenever he sees him. Itto remarks that
+purified_Kamisato_Ayato.txt:
+ SettlesEventsHues of the Violet GardenTrue Tales of the Violet GardenAct I: The Strange Tale of Suikou's Tipsy TinctureFestive EleganceAct IV: The Palace, Dyed in Blac
+purified_Kamisato_Ayato.txt:
+ mpact.fandom.com/wiki/File:VO_Kamisato_Ayato_More_About_Kamisato_Ayato_-_02.ogg Strange tastes, you say...? You seem to misunderstand me. Let me be quite clear: Most o
+purified_Kamisato_Ayato.txt:
+ 're put in an awkward position. Watching them squirm, you might say. Is that so strange? I would have thought you tease your little friend here on a regular basis for 
+purified_Kamisato_Ayato.txt:
+ ything that tastes new and different, bring some back for me too.
+ For example, strange new dishes?
+Media:vo ayato mimitomo friendship2 2b 6a.ogg Kamisato Ayato: Hmm..
+purified_Kirara.txt:
+ nstruments from their packs. Fwoosh! Suddenly there was a fire roaring. Bong! A strange cauldron was set over the fire. And then, with a bubbling sound, an intoxicatin
+purified_Kirara.txt:
+ n Kirara thinks back to that first night, she'll cock her head and ask herself:"Strange... what was I thinking about before I fell asleep again...?"Character Story 2 F
+purified_Kirara.txt:
+ Kirara stops uncertainly.Upon closer inspection, this young lady has two tails. Strange, to be sure, but she looks frail and her face is kind — the perfect prey, throu
+purified_Kirara.txt:
+ .Cupping the parcel in their hands and shaking their heads, they might think it strange, as they haven't bought anything recently, nor is there any writing on the pack
+purified_Kirara.txt:
+ restless, and no matter how much she licked it, it was never enough to calm it."Strange, Granny left this morning, she's been gone way too long..." she quietly mewed t
+purified_Kirara.txt:
+ of removing the bones and scales! But the restaurant staff always gives me this strange look whenever I start working my way through the fish heads...
+Least Favorite F
+purified_Klee.txt:
+ nFestival DeedsPart I: A Story for YouTrue Tales of the Violet GardenAct I: The Strange Tale of Suikou's Tipsy TinctureThe Strange Tale of Suikou's Tipsy TinctureOf Ba
+purified_Klee.txt:
+ Tales of the Violet GardenAct I: The Strange Tale of Suikou's Tipsy TinctureThe Strange Tale of Suikou's Tipsy TinctureOf Ballads and BrewsAct II: Bonds of MelodyAct I
+purified_Kujou_Sara.txt:
+  the mountains.She knows them like the back of her hand, and has witnessed many strange creatures not often told of in human tales.Among them are many fierce and evil 
+purified_Kujou_Sara.txt:
+ mighty Narukami Ogosho, God of ThunderTrue Tales of the Violet GardenAct I: The Strange Tale of Suikou's Tipsy TinctureThe Strange Tale of Suikou's Tipsy TinctureAct I
+purified_Kujou_Sara.txt:
+ Tales of the Violet GardenAct I: The Strange Tale of Suikou's Tipsy TinctureThe Strange Tale of Suikou's Tipsy TinctureAct II: What the Blue Flowers Left BehindWhat th
+purified_Kuki_Shinobu.txt:
+ Shinobu_When_the_Sun_Is_Out.ogg It's a nice day, but I can't seem to shake this strange feeling... Huh, let's just hope it's my imagination.
+When the Wind Is BlowingWh
+purified_Layla.txt:
+ r or what she does either.Besides sleepwalking, she has also discovered another strange recurrence in her life.Each time she awakes from sleepwalking, she finds her un
+purified_Layla.txt:
+ ous and accurate calculations included! Even the handwriting appears to be hers.Stranger still, the author of her papers also has a habit of viciously critiquing the a
+purified_Layla.txt:
+ score bull's-eyes through distantly placed apples with thrown daggers.She met a strange individual who claimed to be capable of flight; using a mere carpet, they manag
+purified_Layla.txt:
+ Layla: Okay, so get this: There's this creepy laboratory in our institute where strange things happen.
+Media:vo layla mimitomo friendship2 06.ogg Layla: Several people
+purified_Lynette.txt:
+  is desirable, Lynette has, to her relief, been relieved of all housework.It is strange, however, that she is able to wreck even the simplest machines due to mishandli
+purified_Lynette.txt:
+  Media:VO KO_Lyney About Navia.ogg I didn't think that she'd be willing to help strangers like us. If it hadn't been for all of you, Lynette and I wouldn't have been a
+purified_Lynette.txt:
+ om.com/wiki/File:VO_Lynette_Chat_-_Older_Brother.ogg Seems Lyney is saying some strange things again... it's really worrying.
+Chat: Spacing OutChat: Spacing OutMedia:V
+purified_Lynette.txt:
+ ws of the night could never understand one another. But in you, I see a kind of strange complexity that has needlessly piqued my curiosity... I'll have to keep a close
+purified_Lynette.txt:
+ m.com/wiki/File:VO_Lynette_About_Neuvillette.ogg The Chief Justice always feels strangely aloof, though his words are always humble... or perhaps he just doesn't like 
+purified_Lyney.txt:
+ her.ogg Media:VO KO_Lynette Chat - Older Brother.ogg Seems Lyney is saying some strange things again... it's really worrying.About Lynette: Magic Media:VO_Lynette Abou
+purified_Lyney.txt:
+ wiki/File:VO_Lyney_About_Navia.ogg I didn't think that she'd be willing to help strangers like us. If it hadn't been for all of you, Lynette and I wouldn't have been a
+purified_Mika.txt:
+ ns. However, he can't seem to hide his bashful and shy personality when meeting strangers.—Description from the Official Website[1]
+A young knight born to an ordinary 
+purified_Mika.txt:
+ s not like he's a stubborn fellow. He's well aware that engaging in battle in a strange and foreign land would've been disadvantageous for both of us."It was until the
+purified_Mika.txt:
+  under Varka's direct command... His teammates quickly connected the dots and a strange chain of logic emerged:"Mika fought against the Fatui! Mika might've fought aga
+purified_Mika.txt:
+ pirited, and her mental fortitude is out of this world. If other people gave me strange looks all the time and talked behind my back like they do about her, I don't th
+purified_Mona.txt:
+ en the previous contributing author was traveling the world, he heard tell of a strange astrologist, and his hobbyist's curiosity compelled him to seek her out.Their c
+purified_Nahida.txt:
+ nery changes around it, the emptiness always occupies the most important place. Strange, isn't it? I think there used to be something there, but for all the power I ha
+purified_Navia.txt:
+ eased with this start.The game, however, got off to a bumpy beginning, with the strange commissioner bursting his way into Demoiselle's residence during her birthday p
+purified_Navia.txt:
+ VO KO_Chiori About Navia.ogg She used to beg me to help her design all kinds of strange things. For example, little crowns for every handle on a ship's helm... I could
+purified_Navia.txt:
+  Media:VO KO_Lyney About Navia.ogg I didn't think that she'd be willing to help strangers like us. If it hadn't been for all of you, Lynette and I wouldn't have been a
+purified_Navia.txt:
+ that's just come out. You wanna try it together? Sounds like it'll taste pretty strange... but I still gotta try it!
+Good EveningGood EveningMedia:VO_Navia Good Evenin
+purified_Neuvillette.txt:
+  addressed as 'she,' rather than 'it,' for they are people too."This might look strange on its face, but the more one considers it, the more it makes sense. After all,
+purified_Neuvillette.txt:
+ found an outlet, becoming the love of a father.Oddly enough, this one only gets stranger the more one knows about Neuvillette.For he is the Hydro Dragon, and in this c
+purified_Neuvillette.txt:
+ te.ogg Media:VO KO_Lynette About Neuvillette.ogg The Chief Justice always feels strangely aloof, though his words are always humble... or perhaps he just doesn't like 
+purified_Neuvillette.txt:
+ o the sight of a man in the rain without an umbrella as if it were some sort of strange spectacle.
+Favorite FoodFavorite FoodMedia:VO_Neuvillette Favorite Food.ogghttp
+purified_Neuvillette.txt:
+ ons.
+Media:vo mimitomo fd neuvillette office 02.ogg Neuvillette: When receiving strangers, the presence of a physical boundary always proves more effective than a verb
+purified_Raiden_Shogun.txt:
+  of her unique perspective. Everyone has their own perspective, there's nothing strange about that.The only thing I don't understand is her goal in doing so. What does
+purified_Raiden_Shogun.txt:
+  were pretty enthusiastic about Rex Lapis and the Almighty Shogun.Paimon: Those strange scholars are one thing, but even everyone living downtown only ever seems to ta
+purified_Razor.txt:
+ dense forests of Wolvendom.
+========================================
+Tales of a strange young boy are spreading in Mondstadt.
+It is said that he prefers the company of
+purified_Razor.txt:
+ e:VO_Razor_About_Klee.ogg Klee, friend! Friend, but... big hassle.
+About Varka: Stranger Friendship Lv. 4About Varka: Stranger Friendship Lv. 4Media:VO_Razor About Var
+purified_Razor.txt:
+ ! Friend, but... big hassle.
+About Varka: Stranger Friendship Lv. 4About Varka: Stranger Friendship Lv. 4Media:VO_Razor About Varka - Stranger.ogghttps://genshin-impac
+purified_Razor.txt:
+ endship Lv. 4About Varka: Stranger Friendship Lv. 4Media:VO_Razor About Varka - Stranger.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Razor_About_Varka_-_Stranger
+purified_Razor.txt:
+ andom.com/wiki/File:VO_Razor_Opening_Treasure_Chest_03.ogg Smell of treasure... strange.Low HPLow HPMedia:VO Razor Low HP 01.ogghttps://genshin-impact.fandom.com/wiki/
+purified_Rosaria.txt:
+ hurch colleagues and only rarely shows up to celebratory events in the city.The strange and mysterious Rosaria moves about almost like a wisp of black smoke — blink, a
+purified_Rosaria.txt:
+ moking sister, but behind the scenes, she is a formidable purveyor of justice.A strange fate for one who ostensibly basks in the light of the gods.What led her to beco
+purified_Rosaria.txt:
+ impact.fandom.com/wiki/File:VO_Rosaria_Feelings_About_Ascension_-_04.ogg I'm no stranger to spilling blood, but never have I possessed such power before. For such bles
+purified_Rosaria.txt:
+ riendship1 04a 2.ogg Rosaria: I've lived this way for such a long time, it'd be strange to change.
+Media:vo rosaria mimitomo friendship1 04b 1.ogg Rosaria: ...There's 
+purified_Sangonomiya_Kokomi.txt:
+ d to see her.Surprise, suspicion, confusion, chuckles... Their expressions were strange, all on account of her overly-young appearance in their eyes.Plots were hatched
+purified_Shenhe.txt:
+ ing and training in the mountains for over a decade, might sometimes experience strange surges.So it was with Shenhe. On impulse, she came down from the mountains one 
+purified_Shenhe.txt:
+ en she encountered that Traveler from a distant land:Long-dormant emotions, now strangers to her, came loose all at once from the depths of fate's tableau.Perhaps it r
+purified_Shenhe.txt:
+ ip.Shenhe did exactly as the adeptus said without any hesitation. And something strange happened then — for as the jade comb brushed through Shenhe's hair once, a laye
+purified_Shenhe.txt:
+ that the "divine damsel" in question is actually a real person. Life is full of strange twists sometimes! My only hope is that she can find true friendship and never b
+purified_Shenhe.txt:
+ /File:VO_Shenhe_About_Hu_Tao.ogg I often see her wandering in the woods singing strange songs. Actually, I must have heard all of her songs several times each by now. 
+purified_Shenhe.txt:
+ r songs several times each by now. I'm used to her singing, but I still find it strange. That being said, I don't hate it either.
+About Xiao Friendship Lv. 4 A New Sta
+purified_Shikanoin_Heizou.txt:
+ d, feeling like prey in the sights of some hawk-eyed predator.Out of nowhere, a strange sensation came over him, as if at that moment, he was the one being scrutinized
+purified_Shikanoin_Heizou.txt:
+  02.ogg Shikanoin Heizou: Remember, if you ever find yourself caught up in some strange case, just notify me immediately.
+Media:vo heizou mimitomo friendship1 01.ogg S
+purified_Sigewinne.txt:
+ As such, allow me to open with an apology. I lied to you, even at the end.""The strange illness I discovered manifests as the dissolution of the human body. All bodily
+purified_Sigewinne.txt:
+ noticed that he would constantly stare at a specific date on the calendar, some strange light stubbornly lingering in those long deadened eyes of his."No matter how ad
+purified_Sigewinne.txt:
+ es.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Sigewinne_Troubles.ogg How strange. My storage room is running out of space — soon, I won't be able to fit any mor
+purified_Sucrose.txt:
+ aring fresh blood.Her eyes would light up with excitement at the sight of these strange and rare bones. She would thank Katheryne of the Adventurers' Guild profusely, 
+purified_Sucrose.txt:
+  really is fascinating. Just how much do we really know?
+About Sucrose: Fear of StrangersAbout Sucrose: Fear of StrangersMedia:VO_Sucrose About Sucrose - Fear of Stran
+purified_Sucrose.txt:
+  much do we really know?
+About Sucrose: Fear of StrangersAbout Sucrose: Fear of StrangersMedia:VO_Sucrose About Sucrose - Fear of Strangers.ogghttps://genshin-impact.f
+purified_Sucrose.txt:
+ rangersAbout Sucrose: Fear of StrangersMedia:VO_Sucrose About Sucrose - Fear of Strangers.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Sucrose_About_Sucrose_-_Fea
+purified_Sucrose.txt:
+ myself suddenly wondering when I'll next get to go on an adventure with you. So strange... Why do you think that is? I need to do some scientific investigation to find
+purified_Thoma.txt:
+ s often regarded as an "outsider" by the local residents of Inazuma.Despite the strange looks and gossip directed towards him, Thoma never showed any dissatisfaction, 
+purified_Thoma.txt:
+  a peaceful life.This calm mood disappeared the moment when he was swept into a strange country by the waves, across the ocean in a small boat.Here, he had to receive 
+purified_Thoma.txt:
+  of her unique perspective. Everyone has their own perspective, there's nothing strange about that.The only thing I don't understand is her goal in doing so. What does
+purified_Tighnari.txt:
+ enshin-impact.fandom.com/wiki/File:VO_Tighnari_Favorite_Food.ogg This may sound strange, but although the blood of a carnivore runs through my veins, mushrooms are the
+purified_Venti.txt:
+ o the UnknownHues of the Violet GardenTrue Tales of the Violet GardenAct I: The Strange Tale of Suikou's Tipsy TinctureThe Strange Tale of Suikou's Tipsy TinctureAct I
+purified_Venti.txt:
+ Tales of the Violet GardenAct I: The Strange Tale of Suikou's Tipsy TinctureThe Strange Tale of Suikou's Tipsy TinctureAct II: What the Blue Flowers Left BehindWhat th
+purified_Wanderer.txt:
+ have lived normal and happy lives, if not for husband and wife contracting some strange illness during their work, often coughing up blood as a result. That they had n
+purified_Wanderer.txt:
+ et he spoke of, and so accompanied the man to Snezhnaya to serve in the Fatui.A stranger named The Doctor would welcome him warmly in this frigid northern land, inviti
+purified_Wanderer.txt:
+ much time practicing, doing this thing that did not augur with his personality. Strange, perhaps, but he did not hate it.He had done such things with great patience in
+purified_weapon_descriptions.txt:
+ bjectives)
+World Quest The Three Primary Colors of the Solar Corona
+World Quest Strange Stone Chronicle
+World Quest Echoes of the Ancient World
+Hidden Exploration Obje
+purified_weapon_descriptions.txt:
+ or this recipient, he was slightly different from the rumors. Not only was he a strange character who had fought a vicious battle against Lavender Melon trees, but one
+purified_weapon_descriptions.txt:
+ o died in the disasters could be heard wailing in the distance.
+Then one day, a stranger arrived at Mt. Qingce.
+The stranger was dressed in a full-length gown and spok
+purified_weapon_descriptions.txt:
+ rd wailing in the distance.
+Then one day, a stranger arrived at Mt. Qingce.
+The stranger was dressed in a full-length gown and spoke in an esoteric and eloquent manner
+purified_weapon_descriptions.txt:
+ Glance Back in Kaedehara Kazuha's Story Quest, Acer Palmatum Chapter: Act I - A Strange and Friendless Road awards Kagotsurube Isshin (4-star, unique.)
+The permanent E
+purified_weapon_descriptions.txt:
+ fter completing Kaedehara Kazuha's Story Quest Acer Palmatum Chapter: Act I - A Strange and Friendless Road.
+A single copy of  End of the Line, along with Refinement M
+purified_weapon_descriptions.txt:
+ ) appear during Kaedehara Kazuha's Story Quest Acer Palmatum Chapter: Act I - A Strange and Friendless Road.
+ Sword of Narzissenkreuz (Quest) appears during World Ques
+purified_weapon_descriptions.txt:
+ summation's ATK increase is doubled.
+MAX
+A keenly honed weapon forged from some strange crystal. Its faint blue light seems to whisper of countless matters now past.
+C
+purified_weapon_descriptions.txt:
+ tead by the icicle. Can only occur once every 10s.
+MAX
+A fruit that possesses a strange, frosty will. A faint sense of agony emanates from it.
+Frostbearer is a craftab
+purified_weapon_descriptions.txt:
+ e destroyed, tempted by the illusory silhouette of the moon in the water."
+"How strange. For a moment, I thought I saw a maiden lost in the forest..."
+"I must continue
+purified_weapon_descriptions.txt:
+ in Blade
+								Info
+								Details
+Weapon Type
+ Sword
+Quality
+Exclusive To
+A Strange and Friendless Road
+Release Date
+July 13, 20222 years ago
+EffectsHealingPhysica
+purified_weapon_descriptions.txt:
+ appears during Kaedehara Kazuha's Story Quest, Acer Palmatum Chapter: Act I - A Strange and Friendless Road.
+The sword breaks upon the completion of the Quest Domain O
+purified_weapon_descriptions.txt:
+ ighty machine creatures, and so it was the apex predator of that world.
+But the strange girl corrected him.
+She was just going to use this to hunt wild boars next, sin
+purified_weapon_descriptions.txt:
+ orm and Tides
+↑ Chinese: 绪论/緒論 Xùlùn refers to the preface of a written work.
+A strangely-shaped anthology of scripts. All the scripts written by Coppelius are recorde
+purified_weapon_descriptions.txt:
+ in Blade
+								Info
+								Details
+Weapon Type
+ Sword
+Quality
+Exclusive To
+A Strange and Friendless Road
+Release Date
+July 13, 20222 years ago
+EffectsPhysical DMGDM
+purified_weapon_descriptions.txt:
+  appears during Kaedehara Kazuha's Story Quest Acer Palmatum Chapter: Act I - A Strange and Friendless Road.
+The sword is remade into the Kagotsurube Isshin at the end
+purified_weapon_descriptions.txt:
+ fter completing Kaedehara Kazuha's Story Quest Acer Palmatum Chapter: Act I - A Strange and Friendless Road.
+Contents
+1 Ascensions and Stats
+2 Gameplay Notes
+3 Preview
+purified_weapon_descriptions.txt:
+ g the events of Kaedehara Kazuha's Story Quest Acer Palmatum Chapter: Act I - A Strange and Friendless Road, he encounters Kazuha and is forced to face his lack of pow
+purified_weapon_descriptions.txt:
+ he Knight is always nameless.
+But before the story was a story, he was merely a strange traveler clad in a dust-stained and tattered cloak. Some noticed the exquisitel
+purified_weapon_descriptions.txt:
+ ade hallways and pathways narrow, she discovered the intruder's intent from the strangeness of their scent...
+Adrift between memory and ambition, however, the exile wa
+purified_weapon_descriptions.txt:
+ is's admonishment, instead continuing their battle. In the end, they invented a strange summoning magic. And now, the two of them have traversed millennia to continue 
+purified_weapon_descriptions.txt:
+ ll trigger even if the character has less than three energy.[1]
+Description[]
+A strangely-shaped spear made by Kitain Bunsou for his own unique style of spearmanship.
+
+purified_weapon_descriptions.txt:
+ or 8s. This can be triggered even when the character is not on the field.
+MAX
+A strange longbow that resembles a sea creature. Its string makes no sound at all.
+Song o
+purified_weapon_descriptions.txt:
+ lness
+Description[]
+Legend has it that a hero who fell into the abyss left this strange bow behind, the body of which shines brightly like pearls and secret silver.
+Th
+purified_weapon_descriptions.txt:
+ ..
+All things have their portents, and that was the night before the storm,
+And strangely, he was uncharacteristically nattering on about his selfish wishes:
+"Leticia,
+purified_weapon_descriptions.txt:
+ f provided by The Bell is active while protected by any shield.
+Description[]
+A strange greatsword decorated with an exquisite clock.
+The distinctive sound of clockwor
+purified_Wriothesley.txt:
+ part of his life. He had a new identity, a new home, and new friends.This was a strange experience for him. He'd met and known many people, and of all of them, very fe
+purified_Wriothesley.txt:
+  things, he was somewhat on the fence about this reasoning. The Fortress was no stranger to issues that needed "mediation," with eyewitnesses often giving different te
+purified_Wriothesley.txt:
+ s.ogg Media:VO JA_Sigewinne Troubles.ogg Media:VO KO_Sigewinne Troubles.ogg How strange. My storage room is running out of space — soon, I won't be able to fit any mor
+purified_Xiangling.txt:
+ m to induce diarrhea..."She learned a valuable experience to add to her journal.Strange. She ate her own dishes, but nothing ever happened to her. Xiangling did feel g
+purified_Xiangling.txt:
+ , she was already tired and hungry. She stumbled into a cave, and came across a strange shrine.So she sat down by the shrine, and took out two pieces of spicy cornbrea
+purified_Xiangling.txt:
+ Media:VO KO_Yaoyao About Xiangling.ogg Xiangling hasn't been, um... looking for strange ingredients lately, has she? She gave me a real fright last time. She said she 
+purified_Xiangling.txt:
+ ogg Xiangling: I was just coming up with a new dish... don't worry, nothing too strange!
+Media:vo xiangling mimitomo friendship1 01.ogg Xiangling: I love it! Very cozy
+purified_Xiangling.txt:
+ 3 03.ogg Xiangling: I want to go adventuring with you into the unknown, collect strange new ingredients from all over Teyvat, and invent new recipes for you to sample!
+purified_Xiangling.txt:
+ idea?
+Media:vo xiangling mimitomo friendship3 07.ogg Xiangling: I won't add any strange seasonings... promise!
+Media:vo xiangling mimitomo friendship3 08.ogg Xiangling
+purified_Xianyun.txt:
+ nd going. Local businessman weighed down by sacks of gold, outlanders garbed in strange attire, shrewd and canny public servants, warm-hearted guards... People from al
+purified_Xianyun.txt:
+ ngs lifts herself up toward the firmament.But of course, there's really nothing strange about any of this. Liyue Harbor is a city that embraces all — so it's only natu
+purified_Xianyun.txt:
+  mean, Master looked like she was really happy to see her, so how could it be a stranger? Evidently, she was an old friend!As Cloud Retainer:More About Yaoyao: IV Medi
+purified_Xianyun.txt:
+ ehold:
+Media:vo xianyun mimitomo friendship3 08.ogg Xianyun: "Play mahjong with strangers," "Go to Mt. Hulao to knock on some amber"... Whenever one feels in need of r
+purified_Xiao.txt:
+ ao is unfamiliar with many human customs and societal norms, often finding them strange, childish, or pointless. To others, he can come off as distant and intimidating
+purified_Xingqiu.txt:
+ n hour of lecturing, Xingqiu was finally let go, but his brother said something strange at the end:"I'll not enter your room without permission next time... I'll make 
+purified_Xingqiu.txt:
+ the swashbuckling Xingqiu's personality. While quiet and unassuming in front of strangers, he is gregarious and chatty in the company of close friends and family. Thou
+purified_Xingqiu.txt:
+  what's that ridiculous look for? You look as if you're trying to decipher some strange text written on my forehead.
+Good MorningGood MorningMedia:VO_Xingqiu Good Morn
+purified_Yae_Miko.txt:
+ k Reviews, and the Super Lucky GeneralTrue Tales of the Violet GardenAct I: The Strange Tale of Suikou's Tipsy TinctureFestive EleganceAct III: A New Painting in Pale 
+purified_Yanfei.txt:
+  with her parents to "live happily."As Liyue's leading legal exegete, she is no stranger to exploiting some existing loopholes in the law — at times for herself, and s
+purified_Yanfei.txt:
+ ct.fandom.com/wiki/File:VO_Yanfei_Chat_-_Reading.ogg The case before us... is a strange and unprecedented one indeed.
+When It RainsWhen It RainsMedia:VO_Yanfei When It
+purified_Yanfei.txt:
+ e effect of he didn't know either, though he seemed a little evasive. It was so strange... Anyway, makes me wonder if my father is hiding something from me. Hmph, alri
+purified_Yaoyao.txt:
+ iki/File:VO_Yaoyao_About_Xiangling.ogg Xiangling hasn't been, um... looking for strange ingredients lately, has she? She gave me a real fright last time. She said she 
+purified_Yaoyao.txt:
+  mean, Master looked like she was really happy to see her, so how could it be a stranger? Evidently, she was an old friend!
+More About Yaoyao: IMore About Yaoyao: IMed
+purified_Yelan.txt:
+ precious one of them as compensation for her bracelet.Now, there once existed a strange mystical beast in times of old. A robe made from its fur would be worth a fortu
+purified_Yoimiya.txt:
+ ssius Auratus Chapter (Yoimiya)Act I: Dreamlike TimelessnessThe Firework Girl's Strange StoriesExpectations Not to Be BetrayedA Sliver of HopeTogether Under the Firewo
+purified_Yun_Jin.txt:
+ that the "divine damsel" in question is actually a real person. Life is full of strange twists sometimes! My only hope is that she can find true friendship and never b
+purified_Zhongli.txt:
+  who secretly pride themselves on their powers of flattery, Zhongli is a man of strange proclivities: in truth, he knows a great deal about the value of money and fina
+purified_Zhongli.txt:
+ et the Anemo Archon kept coming to visit, to explore Liyue Harbor, all sorts of strange questions on his lips. The Anemo Archon's questions knew as little limits as th
+purified_Zhongli.txt:
+ et the Anemo Archon kept coming to visit, to explore Liyue Harbor, all sorts of strange questions on his lips. The Anemo Archon's questions knew as little limits as th
+purified_Zhongli.txt:
+ e effect of he didn't know either, though he seemed a little evasive. It was so strange... Anyway, makes me wonder if my father is hiding something from me. Hmph, alri
+Qiming_word_salad.txt:
+ ver budges a Mora on the price... Maybe I don't have enough charm?
+Qiming: It's strange though, because my divination clearly said my chances of finding true love toda
+Qi_Nan_word_salad.txt:
+ 
+
+
+
+
+Qi Nan
+Strange Little Girl
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+								Family
+							
+
+
+
+
+
+Region
+Reekwind_word_salad.txt:
+ u've seen a Millelith-issue polearm around here, have you?
+Reekwind: This is so strange... It must be around here somewhere...
+Reekwind: *sigh* If any of my squad mate
+Rex_Lapis_word_salad.txt:
+  were pretty enthusiastic about Rex Lapis and the Almighty Shogun.Paimon: Those strange scholars are one thing, but even everyone living downtown only ever seems to ta
+Rika_word_salad.txt:
+ dori 01.ogg "Welcome home, Almighty Shogun!"
+
+Dialogue[]
+
+(After completing The Strange Tale of Suikou's Tipsy Tincture)
+Rika: Welcome back, Almighty Shogun!
+ Al... mi
+Robert_word_salad.txt:
+ ing out...
+
+Event Dialogue[]
+Hues of the Violet Garden[]
+
+(After completing The Strange Tale of Suikou's Tipsy Tincture)
+Robert: I'm quite tired of fretting about the 
+Ryouhei_word_salad.txt:
+ that appears in Kaedehara Kazuha's Story Quest Acer Palmatum Chapter: Act I - A Strange and Friendless Road.
+
+Contents
+
+1 Profile
+
+1.1 Appearance
+
+
+2 Quests and Events
+Ryouhei_word_salad.txt:
+ uests and Events[]
+Story QuestsAcer Palmatum Chapter (Kaedehara Kazuha)Act I: A Strange and Friendless RoadUpon the Plain, a Purple Shadow
+Idle Quotes[]
+
+Media:vo wylq
+Ryouko_word_salad.txt:
+ tely buzzing with activity.
+(Continue non-event dialogue)
+(After completing The Strange Tale of Suikou's Tipsy Tincture)
+Ryouko: Welcome. Are you here in Ritou to take
+Ryuuji_word_salad.txt:
+ uests and Events[]
+Story QuestsAcer Palmatum Chapter (Kaedehara Kazuha)Act I: A Strange and Friendless RoadThrough the Mist, a Name UnveiledHangout EventsShikanoin Hei
+Ryuuji_word_salad.txt:
+ ks highly of them.(Traveler): Uh, I heard that they frequently get caught up in strange incidents, and some places have banned them from entering their premises...Paim
+Saika_word_salad.txt:
+ ssius Auratus Chapter (Yoimiya)Act I: Dreamlike TimelessnessThe Firework Girl's Strange StoriesA Sliver of HopeTogether Under the FireworksEventsHues of the Violet Gar
+Saimon_Eri_word_salad.txt:
+ (To be added.)
+
+Quests and Events[]
+World QuestsSacred Sakura Cleansing RitualA Strange Story in KondaThe Farmer's Treasure
+Idle Quotes[]
+
+ Lots of stories...
+Media:VO
+Saimon_Eri_word_salad.txt:
+ ll the tanuki were sealed inside Chinju Forest.
+Saimon Eri: So if you ever hear strange voices in the forest, it might be the tanuki saying "Help me~ Heeeelp me~~"...
+
+Saimon_Jirou_word_salad.txt:
+ Person Bulletin Board
+
+↑ 2.0 2.1 World Quest, Sacred Sakura Cleansing Ritual: A Strange Story in Konda
+
+
+
+
+
+
+Sakujirou_word_salad.txt:
+ ssius Auratus Chapter (Yoimiya)Act I: Dreamlike TimelessnessThe Firework Girl's Strange StoriesExpectations Not to Be BetrayedTogether Under the Fireworks
+Other Langua
+Samail_word_salad.txt:
+  mechanism in King Deshret's Mausoleum, Samail and the Fatui ran into Benben, a strange Primal Construct and captured it. After a short but heated conversation, Samail
+Sango_word_salad.txt:
+ ks highly of them.(Traveler): Uh, I heard that they frequently get caught up in strange incidents, and some places have banned them from entering their premises...Paim
+Sasano_word_salad.txt:
+ ]
+Hues of the Violet Garden[]
+
+(Talk to Sasano or Tingting after completing The Strange Tale of Suikou's Tipsy Tincture)
+Tingting: Have you finished reading the fan no
+Scylla_word_salad.txt:
+ These deep waters are far more tranquil now.
+Scylla: Still, the dearth of those strange noises makes sleep a more tempting prospect, haha!
+ We're good.
+Scylla: Very we
+Serene_word_salad.txt:
+  her...
+(After completing Limner, Dreamer, and Robotic Dog but before beginning Strange Stone Chronicle)
+
+Serene: Huh. Let me see... Right, I believe Puca said that sh
+Serene_word_salad.txt:
+ ! If you need anything, you can trade with her using these components!
+(Obtain  Strange Part x4)
+
+Dialogue Set #3[]
+Available after completing Ancient Colors.
+
+
+ About
+Shajar_word_salad.txt:
+ elcome to Bayda Harbor...
+Media:VO Shajar 01.ogg "Welcome to Bayda Harbor, good strangers!"
+
+Thoughts[]
+Shajar's thoughts can be accessed by using Nahida's Elemental S
+Shizhuang_the_Strong_word_salad.txt:
+ ing round the clock at this place. Until one day, they dug up... something very strange...
+Shizhuang the Strong: In an effort to contain it, the Qixing insisted on sea
+Shizhuang_the_Strong_word_salad.txt:
+ e big business types to look past the Mora signs in their eyes.
+ Something very strange?
+Shizhuang the Strong: ...I didn't see it with my own eyes. But I'm told the on
+Sir_Pouncelot_word_salad.txt:
+ er, then... If all that had happened to me, I would be afraid of new people and strange animals too...
+Media:vo mkeq003b 1 albedo 09.ogg Albedo: You don't need to worr
+Slippery_Wu_word_salad.txt:
+ " front while hinting at his original demands to the trio. Taking it to be some strange joke, the three fail to catch on and so Tartaglia decides to pretend to offer t
+Sluasi_word_salad.txt:
+ d before arrived yet...
+Sluasi: Hmm. The accessories you're wearing seem rather strange...
+ My accessories?
+Sluasi: Ah, I'm sorry. I'm an artisan — whenever I see orna
+Souka_word_salad.txt:
+ rlying mystery and slowly feed the reader different clues! It would be a little strange if the twist came too abruptly.
+Souka: However, the arc where the villain is de
+Squirrel_(Summertime_Odyssey)_word_salad.txt:
+ 
+
+
+
+
+Squirrel
+Strange Life-Form Here
+
+
+
+
+
+
+
+
+
+
+								Bio
+							
+
+
+
+								Voice Actors
+							
+
+
+
+Squirrel_(Summertime_Odyssey)_word_salad.txt:
+ Courtyard in Spring Once Appeared (Part 1)
+Trivia[]
+The title of the squirrel, "Strange Life-Form Here" (Chinese: 神奇生物在这里 lit. "Here Are the Fantastic Life-Forms"), is
+Takeda_word_salad.txt:
+ d...
+Media:VO Takeda 01.ogg "Hot springs are really nice, something still feels strange though..."
+
+Dialogue[]
+
+Satou: Phew... It feels so good... The hot springs real
+Takeru_word_salad.txt:
+  a blue shirt.
+
+Quests and Events[]
+World QuestsSacred Sakura Cleansing RitualA Strange Story in Konda
+Idle Quotes[]
+
+ A magnificent person...
+Media:VO Takeru 01.ogg "
+Taketani_word_salad.txt:
+ that appears in Kaedehara Kazuha's Story Quest Acer Palmatum Chapter: Act I - A Strange and Friendless Road.
+
+Contents
+
+1 Profile
+
+1.1 Appearance
+
+
+2 Quests and Events
+Taketani_word_salad.txt:
+ uests and Events[]
+Story QuestsAcer Palmatum Chapter (Kaedehara Kazuha)Act I: A Strange and Friendless RoadUpon the Plain, a Purple Shadow
+Idle Quotes[]
+
+Media:vo wylq
+Tea_Master_Liu_Su_word_salad.txt:
+  a thing from within.
+Tea Master Liu Su: Even the guards outside wondered: what strange power does Lady Ningguang's mansion have, that no sound should be heard?
+Tea Ma
+The_Balladeer_word_salad.txt:
+ er
+
+↑ 22.0 22.1 Story Quest, Kaedehara Kazuha, Acer Palmatum Chapter: Act I - A Strange and Friendless Road, Part 2: Ere the End, a Glance Back
+
+↑ Weapon: Kagotsurube 
+The_Doctor_word_salad.txt:
+  to the sages is unknown.
+Dottore was also interested in the Aranara, a race of strange mushroom creatures as he was interested in the connection between them, dreams,
+Tia_word_salad.txt:
+ 's my father.
+ Tell me about your father.
+Tia: My father says I should tell all strangers that he is a traveling merchant.
+Tia: If you're friends with Tia, then I can 
+Tia_word_salad.txt:
+ in my dreams when I wake up.
+Tia: But everyone's saying that if you touch those strange stones, you'll sleep for a long, long time. If I dream for that long, I'll defi
+Tingting_word_salad.txt:
+ ]
+Hues of the Violet Garden[]
+
+(Talk to Sasano or Tingting after completing The Strange Tale of Suikou's Tipsy Tincture)
+Tingting: Have you finished reading the fan no
+Tomoki_word_salad.txt:
+ I took things one step at a time...
+Tomoki: Though my dishes may sound a little strange, everyone who's tried it has said that they taste pretty good.
+Tomoki: Sir Kami
+Tomoki_word_salad.txt:
+ king to our milk tea!
+Tomoki: However, perhaps the mix of foods is a little too strange, because we rarely get any returning guests. I suppose people are still too use
+Turenna_word_salad.txt:
+ ra protection like that!
+ Keep it up, I've gotta get going!
+Turenna: Don't be a stranger, I hope we'll see each other soon!
+
+Trivia[]
+Etymology[]
+Turenna (French: Tour
+Valerina_word_salad.txt:
+ 
+Valerina: Quite often my entire team relied on my intelligence to overcome the strange mechanisms in the ruins and get us to the treasure.
+Valerina: That's to say, I 
+Varka_word_salad.txt:
+  of people. But that doesn't change the fact he prizes me too!RazorAbout Varka: Stranger Media:VO_Razor About Varka - Stranger.ogg Media:VO ZH_Razor About Varka - Stra
+Varka_word_salad.txt:
+ e fact he prizes me too!RazorAbout Varka: Stranger Media:VO_Razor About Varka - Stranger.ogg Media:VO ZH_Razor About Varka - Stranger.ogg Media:VO JA_Razor About Varka
+Varka_word_salad.txt:
+ anger Media:VO_Razor About Varka - Stranger.ogg Media:VO ZH_Razor About Varka - Stranger.ogg Media:VO JA_Razor About Varka - Stranger.ogg Media:VO KO_Razor About Varka
+Varka_word_salad.txt:
+ gg Media:VO ZH_Razor About Varka - Stranger.ogg Media:VO JA_Razor About Varka - Stranger.ogg Media:VO KO_Razor About Varka - Stranger.ogg Varka? Razor doesn't know...A
+Varka_word_salad.txt:
+ gg Media:VO JA_Razor About Varka - Stranger.ogg Media:VO KO_Razor About Varka - Stranger.ogg Varka? Razor doesn't know...About Varka: Memory Media:VO_Razor About Varka
+Varsha_word_salad.txt:
+ logue[]
+If Giving Flowers has not been completed
+
+
+(Approaching Varsha)
+Paimon: Strange, what's this kid doing here? Hey kid! Why are you here all alone?
+???: Ah! A we
+Vasco_word_salad.txt:
+ tions anywhere you go. And rainforests and deserts are infested with quite some strange things.
+Vasco: But I'm not going to sea again anytime soon. I'll just wait and 
+Venier_word_salad.txt:
+ lium?
+Venier: Capitolium? Why, it's... it's... Wait. Where is it again?
+Venier: Strange. Why did that word suddenly leave my lips? It's as if it was my hometown, where
+Wafiq_word_salad.txt:
+ ikes your food! Have some faith in yourself!
+ Goodbye.
+Wafiq: Goodbye, powerful stranger.
+
+Other Languages[]
+
+LanguageOfficial NameEnglishWafiqChinese(Simplified)瓦菲格Wǎ
+Wangjuan_word_salad.txt:
+ er's too loud! I can't hear you at all.
+Wangjuan: Let me guess... You think I'm strange, right?
+Wangjuan: Now, I used to be a fisherman who didn't care about anything 
+Washizu_word_salad.txt:
+ wary people in. Chouji states that, after the mine closed, Washizu began acting stranger, with his shrine practices becoming more "crazy," and people in the village wh
+Wenze_word_salad.txt:
+ es a sheathed sword that hangs from his belt on his left side.
+
+Idle Quotes[]
+
+ Strange...
+Media:VO Wenze 01.ogg "Hmm... Strange. There's nothing here after all."
+
+Dia
+Wenze_word_salad.txt:
+ elt on his left side.
+
+Idle Quotes[]
+
+ Strange...
+Media:VO Wenze 01.ogg "Hmm... Strange. There's nothing here after all."
+
+Dialogue[]
+
+Wenze: Hello, are you also an ad
+Will_word_salad.txt:
+  and Events[]
+EventsUnreconciled StarsTo Each Their Duty
+Idle Quotes[]
+
+ What a strange man...
+Media:VO Will 01.ogg "Ah, he's still following us..."
+
+Dialogue[]
+
+Will:
+Wolsey_word_salad.txt:
+ e, for who knows how long...
+Wolsey: After Camden started complaining about the strange sounds it was making disturbing his naps, I brought it back here to fix it up. 
+Xana_word_salad.txt:
+ n-world NPC located in Merusea Village, Fontaine, who sells goods in return for Strange Parts.
+She is only available after finishing World Quest Series Ancient Colors 
+Xana_word_salad.txt:
+ her Languages
+7 Change History
+
+
+Shop[]
+ItemMaterial CostStock
+ Beryl Conch ×10 Strange Part ×11
+ Romaritime Flower ×10 Strange Part ×11
+ Transoceanic Pearl ×10 Strang
+Xana_word_salad.txt:
+ ItemMaterial CostStock
+ Beryl Conch ×10 Strange Part ×11
+ Romaritime Flower ×10 Strange Part ×11
+ Transoceanic Pearl ×10 Strange Part ×12
+ Meshing Gear ×10 Strange Par
+Xana_word_salad.txt:
+ trange Part ×11
+ Romaritime Flower ×10 Strange Part ×11
+ Transoceanic Pearl ×10 Strange Part ×12
+ Meshing Gear ×10 Strange Part ×12
+ Rift Core ×10 Strange Part ×12
+ Gu
+Xana_word_salad.txt:
+ ×10 Strange Part ×11
+ Transoceanic Pearl ×10 Strange Part ×12
+ Meshing Gear ×10 Strange Part ×12
+ Rift Core ×10 Strange Part ×12
+ Guide to Equity ×2 Strange Part ×22
+ 
+Xana_word_salad.txt:
+ ic Pearl ×10 Strange Part ×12
+ Meshing Gear ×10 Strange Part ×12
+ Rift Core ×10 Strange Part ×12
+ Guide to Equity ×2 Strange Part ×22
+ Enigmatic Page (XIII) ×1 Strange
+Xana_word_salad.txt:
+ g Gear ×10 Strange Part ×12
+ Rift Core ×10 Strange Part ×12
+ Guide to Equity ×2 Strange Part ×22
+ Enigmatic Page (XIII) ×1 Strange Part ×11
+
+Location[]
+Xana's location
+Xana_word_salad.txt:
+ Strange Part ×12
+ Guide to Equity ×2 Strange Part ×22
+ Enigmatic Page (XIII) ×1 Strange Part ×11
+
+Location[]
+Xana's locationAdditional context
+Idle Quotes[]
+
+ Shinies.
+Xana_word_salad.txt:
+ : Well, all this stuff here! If you see anything you like, just tell me!
+(Opens Strange Part exchange shop.)
+ Shiny stuff?
+Xana: That's right. Shiny components just li
+Xixi_word_salad.txt:
+ Goodbye...
+
+Event Dialogue[]
+Hues of the Violet Garden[]
+
+(After completing The Strange Tale of Suikou's Tipsy Tincture)
+Xixi: *yawn*
+Xixi: Gah, I burned several night
+Xi_the_Maid_word_salad.txt:
+ g master is quite feckless and has a difficult temper, he does come up with the strangest requests at times...
+Xi the Maid: ...That said, I would like to thank you for
+Xuanji_word_salad.txt:
+ working on it as we speak.
+ What do you do here exactly?
+Xuanji: Hmm? That is a strange question. This here is my tea store, and what would one do with such a place, i
+Yakov_word_salad.txt:
+  to restore Yakov's mind, before the Traveler learned they had thrown away some strange conches as they had believed them to be ordinary. After finding them and placin
+Yanbo_word_salad.txt:
+ seems that they really were just selling foodstuffs to the Fatui, which is very strange..
+ Maybe the Fatui really need food?
+Yanbo: That... doesn't seem all that belie
+Ying'er_word_salad.txt:
+ gettable~!
+(After completing Farewell, Archaic Lord)
+Ying'er: Well hello there, stranger... Did you come all this way just to see me?
+Ying'er: Shame — this girl's stil
+Yoh_word_salad.txt:
+ out the other "Atsuko"...
+Yoh: Ah yes, speaking of that... That was certainly a strange incident. When Atsuko came back, she told us that the "Atsuko" who had returned
+Yuften_word_salad.txt:
+ om Has Built Her House, She Has Hewn Out Her Seven Pillars.
+
+
+Yuften: He—Hello, stranger. D—Do you need something?
+ These crocodiles...
+Yuften: T—These crocodiles a—ar
+Yuften_word_salad.txt:
+ ing here, so...
+ I shan't disturb you any longer.
+Yuften: Yeah. S—Safe travels, stranger.
+
+Dialogue Set #2[]
+Available after completing Step 11 of Wisdom Has Built Her

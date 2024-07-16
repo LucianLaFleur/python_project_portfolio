@@ -1,0 +1,10 @@
+all_nation_main_page_info_collection.txt:
+ eptus Bridges are golden, ribbon-like structures that the player can walk on to cross over gaps, usually found in the abodes of Adepti. Some can be activated, deactivated
+---
+all_npc_text.txt:
+ ogghttps://genshin-impact.fandom.com/wiki/File:VO_Hu_Tao_Elemental_Burst_02.ogg Cross over!Media:VO Hu Tao Elemental Burst 03.ogghttps://genshin-impact.fandom.com/wiki/Fi
+---
+a_purified_misc_content.txt:
+ 
+They say that in the past, when the fragile and short-lived mortals had yet to cross over the sea unto these lands, Inazuma was once a land that belonged to the tanuki. 
+---

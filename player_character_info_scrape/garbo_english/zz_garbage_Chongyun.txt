@@ -1,0 +1,557 @@
+Born with an excess of yang (positive) energy, Chongyun has become a highly effective exorcist in Liyue — so effective to the point where he hasn't seen a spirit himself, as they immediately flee when he approaches. The excessive yang energy also makes him particularly susceptible to heat and strong emotion, which has led to some rather unexpected results.
+
+
+
+
+
+Pure Spirit
+
+
+
+
+
+							Wish
+							
+						
+
+
+
+							In-Game
+							
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Type
+Default
+
+
+Char­ac­ter
+Chongyun
+
+
+De­scrip­tion
+Chongyun's outfit. A traditional thaumaturge's trappings.
+
+
+How to Obtain
+Unlocked upon obtaining character
+
+
+Pure Spirit is Chongyun's Default Character Outfit.
+
+Contents
+
+1 Appearance
+2 Gallery
+
+2.1 In-Game Assets
+2.2 Animations
+2.3 Turnarounds
+
+
+3 Other Languages
+4 Change History
+5 Navigation
+
+
+Appearance[]
+Chongyun wears a symmetrical white hooded jacket with navy embroidery. Under this, he wears a blue shirt over white pants with gold cuffs, along with a dark navy undershirt. He has bandages around his right wrist and right ankle. He wears his Vision on the left side of his belt.
+
+Gallery[]
+In-Game Assets[]
+Character IconItem IconParty IconOutfit Preview
+Animations[]
+Hover over previews to view in higher quality.(Preview Preferences)Media:Idle Chongyun 1.mp4      Media:Idle Chongyun 2.mp4      Media:Talent Menu Chongyun.mp4      Media:Weapon Menu Chongyun.mp4      Media:Party Setup Chongyun.mp4      
+Turnarounds[]
+In-game model turnaround
+Other Languages[]
+
+LanguageOfficial NameLiteral MeaningEnglishPure Spirit—Chinese(Simplified)清正灵台Qīngzhèng LíngtáiPure SoulChinese(Traditional)清正靈臺Qīngzhèng LíngtáiJapanese清浄霊台Seijou ReidaiPure SoulKorean청정한 영혼Cheongjeonghan YeonghonPure SpiritSpanishJusticia espiritualSpiritual JusticeFrenchEsprit purPure SpiritRussianЧистый духChistyy dukhPure SpiritThaiนักปราบวิญญาณร้ายNak prap winyan raiExorcist of Evil SpiritsVietnameseThanh Tẩy Tâm HồnSoul CleansingGermanReiner GeistPure SpiritIndonesianPure Spirit—PortugueseEspírito PuroPure SpiritTurkishSaf RuhPure SpiritItalianPurezza spiritualeSpiritual Purity
+Change History[]
+Released in Version 1.0[Create New History]
+Navigation[]
+ Dressing Room
+ Character OutfitsDefault
+
+Alternate
+
+Themed
+
+
+
+ Wind GlidersProgress
+
+Other
+
+
+
+ Echoes
+
+
+
+
+
+
+
+
+
+OverviewLoreVoice-OversOutfitsCompanionGallery
+An exorcist who roams the land with Liyue as his base of operations, evil spirits fleeing wherever he goes. As the heir to a clan of exorcists, he has always possessed abilities superior to most. However, these abilities are not the result of training, but of an inborn trait — a pure yang spirit.—Description from the Official Website[1]
+Contents
+
+1 Personality
+2 Appearance
+3 Official Introduction
+4 Character Stories
+
+4.1 Character Details
+4.2 Character Story 1
+4.3 Character Story 2
+4.4 Character Story 3
+4.5 Character Story 4
+4.6 Character Story 5
+4.7 Field Guide to Demons and Beasts
+4.8 Vision
+
+
+5 Namecard
+6 Constellation
+7 Quests and Events
+
+7.1 Story Quests
+
+7.1.1 Hangout Events
+
+
+7.2 Events
+7.3 Web Events
+
+
+8 Character Trials
+
+8.1 Quests
+8.2 Events
+8.3 Test Run Events
+
+
+9 Character Mentions
+
+9.1 Character Stories
+9.2 Character Voice-Overs
+
+
+10 Mail
+11 Trivia
+
+11.1 NPCs Mentions
+11.2 Etymology
+
+
+12 Other Languages
+
+12.1 Character Title: Frozen Ardor
+
+
+13 References
+14 Navigation
+
+
+Personality
+A young exorcist from a family of exorcists. He does everything he can to suppress his abundance of yang energy.—In-game character attributes and profile page text
+The young exorcist from Liyue, Chongyun. One might find Chongyun as a composed and stoic individual, though his friends might not say it is true most of the time.
+Chongyun is a positive individual quite literally, as he has an excess of positive energy in him. Due to this excess in positive energy, he's vulnerable to things that warm him — fiery events, food, drinks, clothing, the sun, and even blushing. In the event he is not able to suppress those feelings, he might enter a manic state of being excited, friendly or faint. In extreme cases, he may show extreme signs of irrationality. To counter said positive energy, he always wears light-colored and light-weight clothing and usually eats cold food, though even with these methods and despite his efforts, he still has issues overcoming his unusual constitution.
+Despite having a Vision, he's not as fond of it as others, believing that training is the way to become a stronger individual. Due to his intense training and the sole focus of exorcising a demon, Chongyun is extremely introverted in everything outside of exorcism.[2] He regards Xingqiu as a friend due to their similar agendas despite being pranked on by the bookworm on a frequent basis, which he usually tolerates.[3] Even beyond Xingqiu's pranks, Chongyun can be quite gullible, such as once taking the contents of a novel to be real-life events until informed otherwise.
+
+Appearance
+See also: Pure Spirit
+Chongyun uses the medium male model. He has light blue hair reaching his ears, pale skin, and ice-blue cat slit eyes.
+
+Official Introduction
+Like Dawn, Dashing; Like Frost, Flawless - Chongyun
+Want to see a different side of Chongyun? Find a way to get him into a hot spring, and you'll see!—Wise words from Young Master Xingqiu, who enjoys playing pranks on his friend.
+With Liyue as his base of operations, the exorcist Chongyun roams the land, ridding it of evil. As the heir to a clan of exorcists, he has always possessed abilities superior to most. However, this ability is not the result of training, but of an inborn trait he has come to term, "congenital positivity."
+Congenital positivity is an exceedingly rare physiology that makes the body susceptible to heating up due to an overabundance of positive energy. If unchecked, those who possess such a form can easily become hot blooded. Chongyun is a particularly serious case, his shifts in mood are explosive, and he remembers nothing from such episodes. However, Chongyun's condition is also his greatest asset, for all he needs to do to expel evil spirits is to sit awhile in whatever dark corner they may haunt.
+As such, Chongyun's path as an exorcist has been smooth as smooth can be. However, he himself does not approve of this manner of doing things. In his honest and upright heart, leaning on his unique physiology to exorcise evil is but a cheap trick. An exorcist must, in his estimation, perform their duties with an exorcist's arts.
+To counteract this congenital positivity, Chongyun has several disciplines that he practices. He does not go out in the sun or wear thick clothes, and he abstains from hot beverages and hot and spicy food. He takes up no quarrels, and he indulges no tempers. Yet despite searching high and low, and far and wide, he has been unable to find a lasting solution to his condition.
+This troubled the young exorcist. The evil spirits were expelled, yes, but if things kept going like this, how would he ever prove himself to be a qualified exorcist?
+As he sits atop an ice-capped mountain chewing on a snow bun, Chongyun cannot help but sigh. The road ahead is still long indeed.
+
+Character Stories
+Character Details
+Throughout its long history, Liyue has never had a lack of rumors and myths regarding all manner of evil spirits and demons. And regardless of the truth of such rumors, someone has to do something about them.Chongyun was born into a renowned family of exorcists, and has possessed a natural ability to drive away evil spirits from a young age due to his pure-yang spirit. His powers of exorcism are far beyond the norm: his mere presence is sufficient to scatter evil spirits.However, this has proven to be an inconvenience for Chongyun himself, for though he has undertaken hundreds of successful exorcisms, he has never come face-to-face with a single ghost or demon.Chongyun believes in his heart that a true exorcist should exorcize evil with charms and swordsmanship. This natural ability that he has... is just not orthodox.Therefore, he has dedicated himself to the study of exorcism techniques and martial arts, as well as seeking the haunts of evil spirits to prove himself an able and professional exorcist even without his unique physical condition.Yet, when will that condition stop being a stumbling block on his path to self-realization?Character Story 1 Friendship Lv. 2
+When Chongyun first ventured out as an exorcist, there had been much talk of an evil spirit lurking inside Liyue Harbor.The victim of these hauntings was a woman from a family with a high enough stature to even have a word or two with the Liyue Qixing.From a time she knew not when, her sleep began to be harassed by sounds that kept her awake, but every time she tried to follow the sound, it would suddenly shift behind her, and begin ringing again in her ears.This shock caused her unspeakable distress, and she even lost weight for loss of appetite.Her wealth was enough to hire the best exorcists from all over, but no matter what they tried, they had to retreat empty-handed. And not only did the noises persist, they even grew in boldness.It was then, just when she had given up all hope, that Chongyun walked through her door."I apologize for coming just now, it has been far too sunny lately... I heard that this place houses a very stubborn ghost. Please, leave it to me."Then Chongyun brought a chair over, and sat upon it in the middle of the house for a time.That night, the strange sounds were no more.The wealthy woman finally had a good night's sleep, and she came running to Chongyun the next morning with an overabundance of gold and jewelry as a reward.But Chongyun, as was his wont, only accepted his usual fee of a few hundred Mora without an ounce of emotion on his face.Ever since that incident, Chongyun has found that his reputation precedes him for miles around. He has become beloved in Liyue for his "style and character," and indeed scholars have given him this appellation: "a heart of clear water, and a face of ice."Character Story 2 Friendship Lv. 3
+However, calling his mannerisms and style "frosty" couldn't be farther from the truth.Due to the abundance of yang energy in his constitution, he is constantly troubled by increased body temperature and sudden urges or impulses.He has tried everything to alleviate the issues both physically and psychologically.His methods include not drinking hot water, not eating hot or spicy food, wearing light clothes, not getting into arguments, keeping himself from being angered, staying indoors on sweltering days, and always bringing a parasol when on the job.In short, he attempted to stay away from everything that might aggravate his condition.Despite all this, his yang energy did not subside a whit.A little depressed, Chongyun began to wrestle with his own body. When he heard about an evil spirit in Dragonspine, he made for the peak wearing only a shirt.Though it was hard enough to keep himself warm, he still felt this insufficient. Digging a hole in a frozen lake, he jumped in and soaked in the icy water while waiting for the evil spirit to show itself.After staying in the lake for half a day, he finally caught a glimpse of his target.However, after pursuing it down to the mountainside, he discovered it was only a snow rabbit that had been frightened off by his flying swords and floating charms.The fever that he ran afterward lasted far longer than it would in a normal person.Character Story 3 Friendship Lv. 4
+Chongyun's pure-yang spirit is not only a huge obstacle in his path as an exorcist, but a constant daily hassle.He must be extra careful to stay away from "heaty" things, to which he is very sensitive, or risk his yang energy and emotions going out of control.Chongyun's clan once held a celebration party at Wanmin Restaurant. And though he waited until all the dishes had gone cold, he did not expect the tender rice balls to be stuffed with Jueyun Chili.After but a single bite... Chongyun had no recollection of what happened next.However, according to the victim, chef Xiangling of Wanmin Restaurant, many unforgettable things happened.Chongyun first jumped onto the reception desk and shouted, "Everything's on me tonight!" — never mind that he did not actually have any money on him.He then began to chat with customers at other tables as if they were old pals, bragging to them of how incredible his clan's exorcist arts were, never forgetting to taste other people's dishes on the tables before he left.Lastly, he claimed to have sensed an evil spirit in Wanmin Restaurant. This he did not find, but he did slap a charm on Xiangling's forehead and chase her around with his sword.Afterwards, Chongyun scrimped and saved for an entire month to pay Wanmin Restaurant back for the mess and any damages he might have caused; he also gave Xiangling an evil-warding talisman that he carved by hand.But Xiangling, for her part, didn't mind Chongyun's "transgressions" at all. Instead, she felt that the crazy Chongyun was the real Chongyun, without any personal walls up.Character Story 4 Friendship Lv. 5
+Chongyun has had the privilege of meeting a true friend in his long journey as an exorcist: Xingqiu.In contrast to the hard-working Chongyun, Xingqiu was naturally gifted, and had a more flexible way of looking at problems.After learning about Chongyun's troubles, Xingqiu came up with a possible solution."If you can't reduce the effects of your yang energy, what if you sought out an evil spirit that is immune to it?"This was a eureka moment for Chongyun. Since then, Chongyun has no longer sought to alleviate his condition. Instead, he now tries to get Xingqiu to come with him to find such a spirit."What? Sightings of the legendary Aoyin near the Sea of Clouds? Leave it to me!""The old house at Feiyun Slope has been taken over by an evil spirit? My bad. I'll attend to it right away.""A master exorcist is staying over at Wangshu Inn? I could learn a lot from him... Hmm, better go with a gift."Xingqiu usually just makes these "leads" up as he goes, and thanks to his "advice," Chongyun often comes back empty-handed, blaming his bad luck."I tried my best to look for it, and even spent quite a sum purchasing more intelligence on that evil spirit — but I wound up missing it by a hair anyway," Chongyun says, abashed.If Xingqiu has time to spare when such an occasion arises, he will encourage Chongyun, treat him to some new cold dishes he has found and then set off to get Chongyun's swindled money back.A warm and reliable companion, indeed! — So Chongyun thinks at such moments. Who could he possibly trust, if not his fine friend Xingqiu?Character Story 5 Friendship Lv. 6
+In truth, Chongyun wishes that he could fit in more, but he is often forced to reject the invitations of others on account of his need to control his abundance of yang energy.Of these practices, he finds one particularly incomprehensible: hot springs.Bathing and "relaxing" in steaming-hot water? Even the sound of that scares him a hundred times more than freezing in a lake on Dragonspine.However, he has also heard everyone sing yearning praises of these hot springs, praising their comfort, and asserting that they become more so the hotter they are, and that one is filled with energy for a whole week afterward.Chongyun still doesn't know if this is true or if people are just teasing him.And he would have dared to try it out, if not for the ever-present problem of his pure-yang spirit.Xingqiu once asked him this:"If you were able to master your yang energy and rid the world of all evil spirits someday...what would you do after that?"This seemingly off-the-cuff remark troubled Chongyun deeply.Perhaps he had indeed missed out on a lot in life on account of his condition.But he doesn't regret spending time. If one way of living doesn't work, he just needs to find himself another — and in any case, he already has his answer.If that day comes, well, he'll go to the hot springs then.Field Guide to Demons and Beasts Friendship Lv. 4
+The tomes that Chongyun's family has passed down from generation to generation detail every evil spirit they have ever subdued.From little critters to the monstrous demons found in tall tales of horror, their varieties are almost dazzling.It was one such terrifying story that inspired Chongyun's vow to rid the world of evil spirits.But as far as he is concerned, inheriting these books has... also proved inconvenient.Other than textual descriptions, the books also contain illustrations of said evil spirits that carefully detail their unique characteristics — even if the artist may not have been the greatest talent.But Chongyun has never seen an evil spirit in his life. Unwilling to break with this artistic tradition, he was at a loss.Ultimately, he would attempt to use his imagination to draw some suitably strange images.—Thus did the Field Guide to Demons and Beasts grow ever more exotic. Best not to think too deeply about that seven-winged, five-legged chicken-beast or that half-fish, half-hilichurl demon.Vision Friendship Lv. 6
+"Those other exorcists at least have the courtesy to wave their swords or tack on some talismans. You just sat here for a while, and now you say you're done, and that I should pay you? Who are you trying to fool?"Chongyun faced a great deal of suspicion when he first took up the role of an exorcist.He immediately faced one big hurdle: it was a lot easier to prove that "evil spirits are present" than not.Of course he would seem a charlatan even compared to "exorcists" who just went through the motions.With all the ability in the world but no place to use it, looked on with suspicion, and needing to suppress any passionate impulses...Those who eventually apologized to him were also few.But even so, Chongyun would not go with the flow, and use some fancy act to cover for his real method of conducting exorcism.Even with his unique composition posing countless obstacles for him, Chongyun has never once considered giving up.One day, he will become the greatest exorcist in Liyue, control his abundance of yang energy, and rid the world of evil spirits.Perhaps it was this resolve that earned him the gods' favor — that said, the Vision granted to Chongyun was one of "Cryo" rather than "Pyro."As to which of his goals it was that the Vision responded to, that is also a mystery.
+Namecard
+
+
+Chongyun: Spirit Blade
+
+
+
+
+Obtain:Reward for reaching Friendship Level 10 with ChongyunDescription:This was originally a peachwood sword made of ice. But a big enough ice block makes a better exorcist's tool than peachwood.
+
+Constellation
+Nubis CaesorMeaning:Cloud Cutter 
+Quests and Events
+Story QuestsHangout EventsChongyunAct I: Signs of EvilDistant GazeFor A Child's SmileHard to TrackIndependent ActionsKilljoyPopsicles and Their Curious UsesSudden DiscomfortTest of CourageThe Bottom of ThingsThe Exorcist's PathEventsMoonlight MerrimentPart I: One for the Foodies, Two for the ShowPart II: Three to Get Ready, and Here We Go (cinematic)Fleeting Colors in FlightSky-Gazers, Land-WalkersThe Stars Inscribe the Year's WishesThe Exquisite Night ChimesPart II: A Single Harmony for an Irreplaceable SoulEpilogue: Between Facades and Familiar FacesDuel! The Summoners' Summit!Round 2: Roll! A Sea of New AcquaintancesWaterborne PoetryPart I: Congenial GatheringCongenial GatheringPart II: Tears Among the LeavesTears Among the LeavesPart III: Heart of the DeepHeart of the DeepWeb EventsSide by Side We VentureAn Unforgettable JourneyFestive Celebration of Flowing HuesCanvas of Starlight MemoriesDiscover Teyvat
+Character Trials
+QuestsEvent Story Quest Tears Among the Leaves in Waterborne Poetry: Part II - Tears Among the LeavesEventsA Study in Potions/Sealed RuinsVibro-Crystal ResearchPerilous TrailFayz TrialsTest Run EventsHu Tao, Xingqiu, Chongyun — 2021-03-02Kamisato Ayaka, Yanfei, Chongyun, Ningguang — 2021-07-21Tartaglia, Ningguang, Chongyun, Yanfei — 2021-10-13Shenhe, Xiao, Yun Jin, Ningguang, Chongyun — 2022-01-05Arataki Itto, Kuki Shinobu, Chongyun, Gorou — 2022-06-21Yoimiya, Yae Miko, Kirara, Yun Jin, Chongyun — 2023-05-24Sangonomiya Kokomi, Wanderer, Faruzan, Rosaria, Yanfei — 2023-07-25Wriothesley, Venti, Chongyun, Thoma, Dori — 2023-10-17Navia, Kamisato Ayaka, Sucrose, Rosaria, Candace — 2023-12-20Sigewinne, Furina, Gaming, Rosaria — 2024-06-25
+Character Mentions
+Character StoriesCharacterStoriesHu TaoCharacter Story 5XingqiuCharacter Story 4Character Voice-OversCharacterVoice-OversGamingAbout Chongyun Media:VO_Gaming About Chongyun.ogg Media:VO ZH_Gaming About Chongyun.ogg Media:VO JA_Gaming About Chongyun.ogg Media:VO KO_Gaming About Chongyun.ogg I heard that guy's got a "pure-yang spirit"? Where I'm from, we call that heatiness. Dude needs to drink more herbal teas, for real.Hu TaoAbout Chongyun Media:VO_Hu Tao About Chongyun.ogg Media:VO ZH_Hu Tao About Chongyun.ogg Media:VO JA_Hu Tao About Chongyun.ogg Media:VO KO_Hu Tao About Chongyun.ogg All yang and no yin? Who knew such people existed in this world.ShenheAbout Chongyun Media:VO_Shenhe About Chongyun.ogg Media:VO ZH_Shenhe About Chongyun.ogg Media:VO JA_Shenhe About Chongyun.ogg Media:VO KO_Shenhe About Chongyun.ogg It's hard for me to believe that... I still have living relatives in this world. If he has any difficulties with his training, I am more than willing to help enlighten him. However, he will need to meet me alone in the mountains. Their family is too... sociable. I wouldn't know how to turn down their invitations without being impolite.XianglingAbout Chongyun Media:VO_Xiangling About Chongyun.ogg Media:VO ZH_Xiangling About Chongyun.ogg Media:VO JA_Xiangling About Chongyun.ogg Media:VO KO_Xiangling About Chongyun.ogg Chongyun? I always see him on his way to eat at Wanmin Restaurant with Xingqiu... Ah... or perhaps I should say I see him being dragged there by Xingqiu? Chongyun doesn't eat hot food. Every time the hot food arrives, Xingqiu politely apologizes and proceeds to try every dish. I just wanna dig in with him! The look on Chongyun's face is priceless. They're quite interesting, those two.About Xinyan Media:VO_Xiangling About Xinyan.ogg Media:VO ZH_Xiangling About Xinyan.ogg Media:VO JA_Xiangling About Xinyan.ogg Media:VO KO_Xiangling About Xinyan.ogg Xinyan always comes to the Wanming Restaurant for a late-night snack! She gobbles up all the new dishes that the likes of Xingqiu and Chongyun don't go near... and nine times out of ten, she enjoys them too! She's great.XingqiuAbout Chongyun Media:VO_Xingqiu About Chongyun.ogg Media:VO ZH_Xingqiu About Chongyun.ogg Media:VO JA_Xingqiu About Chongyun.ogg Media:VO KO_Xingqiu About Chongyun.ogg Ah, dear Chongyun. Though he understands me quite well, one has to exercise caution when teaming up with him to go on a quest. He is making good progress in the martial arts, but I would say he hasn't quite internalized the chivalric code yet... He needs more practice. Especially at eating spicy food...About Xiangling Media:VO_Xingqiu About Xiangling.ogg Media:VO ZH_Xingqiu About Xiangling.ogg Media:VO JA_Xingqiu About Xiangling.ogg Media:VO KO_Xingqiu About Xiangling.ogg When you first spot Xiangling out and about, the first thing you should do is check the look on her face. Especially when she's just coming back from collecting new ingredients — the more excited she looks, the more dangerous it is to approach. Because if she sees you, she'll force you to taste-test her latest concoction... I usually get Chongyun to handle these situations, hehe...XinyanAbout Chongyun Media:VO_Xinyan About Chongyun.ogg Media:VO ZH_Xinyan About Chongyun.ogg Media:VO JA_Xinyan About Chongyun.ogg Media:VO KO_Xinyan About Chongyun.ogg He's one interesting guy. He looks introverted enough, but there was this one time when he came to one of my performances. A friend brought him or something, and he had some words for me, but I couldn't hear 'em over the music. Before I knew it, he was right up there on the stage with me, singing and rockin' his heart out. Guess you really can't judge a book by its cover!
+Mail
+Today... (2021-09-07)My Family Say... (2022-09-07)Exorcise Evil! (2023-09-07)
+Trivia
+The three symbols on Chongyun's clothes, underneath his belt, are from the Bagua, eight trigrams in Taoist cosmology that link between various concepts. In order of top to bottom, they are: ☳ (震 Zhèn, represents thunder), ☵ (坎 Kǎn, represents water), and ☶ (艮 Gèn, represents mountains).
+Chongyun's popsicles, which he can be seen eating in one of his idle animations, are specially made at Wanmin Restaurant and have yang-suppressing qualities. It is made using water, Mist Flowers, and Qingxin, and has no particular flavor.[4]
+Chongyun's Chinese voice actor kinsen (金船) is also the voice actor for Xiao. Chongyun mentions in his Hangout Event Signs of Evil and his voice-over About Xiao that he has deep respect for the guardian yaksha Xiao.
+NPCs Mentions
+Hongyu mentions that Chongyun once exorcised an evil spirit from his house for him.
+After completing the quest Wangshu, if you talk to the chef Smiley Yanxiao and ask how things are going, he will say that, if another ghost appears, his boss will call Chongyun.
+On the Wangshu Inn Bulletin Board, Chongyun leaves a note apologizing for losing control after eating heaty foods. Based on the reply to his note, Xingqiu was with him, as he paid for the damages.
+Based on Zhi's message on the Qingce Village Bulletin Board, Chongyun saved her from falling into an abyss.
+During the Fleeting Colors in Flight event, Little Zuo calls Chongyun and Xingqiu as weirdos who always go to Qingce Village discussing "evil spirits" and assumes that they are writing a story.
+Chongyun is mentioned in the description of the following Furnishing: Large Stone Mill
+Etymology
+His constellation, Nubis Caesor, is Latin for "The Cloud Cutter."
+This could be an allusion to his name, which means "layers of clouds."
+Other Languages
+Character Title: Frozen Ardor
+
+LanguageOfficial NameLiteral MeaningEnglishFrozen Ardor—Chinese(Simplified)雪融有踪Xuě Róng Yǒu ZōngTraces of Snow MeltingChinese(Traditional)雪融有蹤Xuě Róng Yǒu ZōngJapanese雪消の跡Yukige no Ato‍[!][!]Assumed readingTraces of Snow MeltingKorean얼어붙은 열정열정熱情Eoreobuteun YeoljeongFrozen PassionSpanishEl Hielo ArdienteThe Burning IceFrenchCorps de glace et cœur de feuBody of Ice and Heart of FireRussianМорозная пылкостьMoroznaya pylkost'Frosty ArdorThaiร่องรอยในหิมะRong Roi Nai HimaTraces in SnowVietnameseBóng Hình Băng GiáGermanSpuren im schmelzenden SchneeTraces in Melting SnowIndonesianFrozen Ardor—PortuguesePegadas na NeveFootprints in The SnowTurkishDonmuş AteşItalianArdore ghiacciatoFrozen Ardor
+References
+
+↑ Official Genshin Impact Website: Chongyun
+
+↑ Story Quest Act, Chongyun: Act I: Signs of Evil
+
+↑ Chongyun's Voice-Over: About Xingqiu
+
+↑ Hangout Event, Chongyun, Act  I - Signs of Evil: Popsicles and Their Curious Uses
+
+
+Navigation
+  Characters  (Lore)AnotherWorld
+
+Mondstadt
+
+Liyue
+
+Inazuma
+
+Sumeru
+
+Fontaine
+
+Snezhnaya
+
+
+Upcoming Characters announced by HoYoverse.
+
+
+
+
+
+
+
+OverviewLoreVoice-OversOutfitsCompanionGallery
+EnglishChineseJapaneseKorean
+Contents
+
+1 Story
+2 Combat
+3 Trivia
+4 Navigation
+
+
+Story
+
+Title and RequirementsDetails
+HelloHelloMedia:VO_Chongyun Hello.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_Hello.ogg My name is Chongyun. My family has practiced the art of exorcism in Liyue for many generations. Fate has been generous in allowing my path to cross with that of your distinguished self. ...Oh, no — my services are free of charge!
+Chat: The Art of ExorcismChat: The Art of ExorcismMedia:VO_Chongyun Chat - The Art of Exorcism.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_Chat_-_The_Art_of_Exorcism.ogg Exorcism uses thaumaturgy and martial arts to conquer evil. There are other means to the same end, but they are not the true way.
+Chat: DietChat: DietMedia:VO_Chongyun Chat - Diet.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_Chat_-_Diet.ogg I take my meals cold to quiet the spirit and calm my vital energies. Qingxin-infused water with ice is the most effective.
+Chat: MantrasChat: MantrasMedia:VO_Chongyun Chat - Mantras.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_Chat_-_Mantras.ogg "Heart be pure, evil be erased. Mind be purged, world be..." Um... Ugh, I always forget that last part.
+When It RainsWhen It RainsMedia:VO_Chongyun When It Rains.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_When_It_Rains.ogg There is no purer form of water than rain. It can aid us greatly in the purging of evil.
+When Thunder StrikesWhen Thunder StrikesMedia:VO_Chongyun When Thunder Strikes.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_When_Thunder_Strikes.ogg Before the resounding thunder, evil must cower in fear.
+When It SnowsWhen It SnowsMedia:VO_Chongyun When It Snows.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_When_It_Snows.ogg Ah, this weather is delightful.
+Good MorningGood MorningMedia:VO_Chongyun Good Morning.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_Good_Morning.ogg It is unwise to waste the precious morning hours. Time to train!
+Good AfternoonGood AfternoonMedia:VO_Chongyun Good Afternoon.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_Good_Afternoon.ogg One's spiritual energies are at their peak at noon. We must take that time to practice.
+Good EveningGood EveningMedia:VO_Chongyun Good Evening.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_Good_Evening.ogg As the day winds down and the quiet of evening sets in, the atmosphere is ripe for focusing your mind. There is no better time than this for training.
+Good NightGood NightMedia:VO_Chongyun Good Night.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_Good_Night.ogg Whew. What a tiring day. You should get some rest. Don't forget what we agreed — we will investigate that haunted house tomorrow.
+About Chongyun: ExorcistsAbout Chongyun: ExorcistsMedia:VO_Chongyun About Chongyun - Exorcists.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_About_Chongyun_-_Exorcists.ogg We exorcists have been protectors of Liyue since ancient times, and our techniques have been passed down from generation to generation. Purging evil is second nature to us.
+About Chongyun: CommissionsAbout Chongyun: CommissionsMedia:VO_Chongyun About Chongyun - Commissions.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_About_Chongyun_-_Commissions.ogg *sigh* I didn't actually do anything. I just walked into that haunted house, and the problem was resolved... Do you think I should still take payment for this exorcism?
+About Us: CompanionsAbout Us: CompanionsMedia:VO_Chongyun About Us - Companions.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_About_Us_-_Companions.ogg Your skills are impressive. When you finish with a hilichurl— I mean, an evil spirit, it is surely banished from this world for good. How about we team up?
+About Us: Ghost Stories Friendship Lv. 6About Us: Ghost Stories Friendship Lv. 6Media:VO_Chongyun About Us - Ghost Stories.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_About_Us_-_Ghost_Stories.ogg By now, you must be well acquainted with Liyue's supernatural phenomena. Now, about the evil beings you speak of in lands beyond... I would very much like to see them too.
+About the Vision Friendship Lv. 4About the Vision Friendship Lv. 4Media:VO_Chongyun About the Vision.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_About_the_Vision.ogg Visions are powerful, but one would be foolish to place blind faith in them. Personally, I trust more in thaumaturgy and martial arts. In the end, one cannot become truly proficient without vigorous training.
+Something to ShareSomething to ShareMedia:VO_Chongyun Something to Share.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_Something_to_Share.ogg There are rumors abound concerning evil spirits in Liyue, but not all have truth to them. In fact, some strange commissions wind up having nothing to do with them at all.
+Interesting Things A New Star ApproachesInteresting Things A New Star ApproachesMedia:VO_Chongyun Interesting Things.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_Interesting_Things.ogg I have heard there are many strange and rare things sealed within the amber from Mt. Hulao. Could some of them be the fabled demons of which the ancient legends speak? I would love to investigate.
+About Zhongli Friendship Lv. 4 Farewell, Archaic LordAbout Zhongli Friendship Lv. 4 Farewell, Archaic LordMedia:VO_Chongyun About Zhongli.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_About_Zhongli.ogg That Zhongli from the Wangsheng Funeral Parlor seems to be quite an incredible man. Just think, common folk might gang up to commit a murder, we exorcists vanquish demons — but he alone buries the bodies of the adepti.
+About Xingqiu Friendship Lv. 4About Xingqiu Friendship Lv. 4Media:VO_Chongyun About Xingqiu.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_About_Xingqiu.ogg I do admire Xingqiu for his devotion to chivalry and his martial arts proficiency. However — I must warn you that he definitely has a mean side, too. If you find that you fall foul of any of his antics, come to me and we'll form a "Victims of Xingqiu" alliance. There is strength in numbers.
+About Xiao Friendship Lv. 4About Xiao Friendship Lv. 4Media:VO_Chongyun About Xiao.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_About_Xiao.ogg The Conqueror of Demons himself has defended Liyue side-by-side with we exorcists for generations, day after day, night after night. I have the utmost respect for Adeptus Xiao. It's just... Why must he be so disparaging toward us? He says our repertoire is lacking and our power is trivial. I'm sorry, but I just can't accept that.
+About Hu Tao Friendship Lv. 4About Hu Tao Friendship Lv. 4Media:VO_Chongyun About Hu Tao.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_About_Hu_Tao.ogg The Wangsheng Funeral Parlor is a reputable institution that acts with integrity. But whenever I see that cheeky smile that says, "It's nothing you exorcists need to worry about," it just makes my blood boil... Whoa, deep breaths, Chongyun. Stay calm.
+About Qiqi Friendship Lv. 4About Qiqi Friendship Lv. 4Media:VO_Chongyun About Qiqi.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_About_Qiqi.ogg She looks like a zombie, but as an exorcist, I feel there's... something different about her. Hmm, her name is also absent from all the praised names I've seen... Where exactly does she fit in among the deities?
+About Xinyan Friendship Lv. 4About Xinyan Friendship Lv. 4Media:VO_Chongyun About Xinyan.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_About_Xinyan.ogg I avoid Xinyan's performances like the plague. That heated atmosphere... Even if you don't intend to get involved, it still... Let's just say that it gets me all hot and bothered.
+About Xiangling Friendship Lv. 4About Xiangling Friendship Lv. 4Media:VO_Chongyun About Xiangling.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_About_Xiangling.ogg Xiangling's cooking is universally praised, but I personally don't touch any of her spicy dishes. Why? Oh, you know — just, uh... personal preference, that's all. I mean, come on, Mushroom Slime Stew... Does that sound appetizing to you?
+About Shenhe Friendship Lv. 4 The Crane Returns on the WindAbout Shenhe Friendship Lv. 4 The Crane Returns on the WindMedia:VO_Chongyun About Shenhe.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_About_Shenhe.ogg The elders in my clan have mentioned her before. The fate of her family... *sigh* It's something we can all sympathize with. I originally thought we would be able to bring back a long-lost relative back into our clan. The elders were overjoyed too, when they heard she was alive — they even prepared gifts for her, and picked an auspicious day for a grand reunion. What we hadn't counted on was that most of the time, she's extremely difficult to track down. Wait a minute, based on our relative positions in the family tree, does that mean I... There's no way I'd have to call her "Auntie Shenhe"... right?
+About Yelan Friendship Lv. 4About Yelan Friendship Lv. 4Media:VO_Chongyun About Yelan.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_About_Yelan.ogg I met her once, back when I'd just become an exorcist. I'd taken a commission to perform an exorcism in someone's home, and was just leaving at the end when I ran into her. She wrote my name down in a booklet — I guess she just wanted to confirm I wasn't doing anything suspicious... Anyway, it was just that one time, I never saw her again after that.Now that I think about it, it's probably because the sight of me meditating motionless must be pretty boring to watch. Not exactly suspicious.
+More About Chongyun: IMore About Chongyun: IMedia:VO_Chongyun More About Chongyun - 01.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_More_About_Chongyun_-_01.ogg Discipline is everything. Unbridled passion can have disastrous consequences. Trust me, I would know. ...Oh, no no no, not from personal experience, of course. Haha... Uh... I'm just stating my observations from what I've seen in my travels around Liyue.
+More About Chongyun: II Friendship Lv. 3More About Chongyun: II Friendship Lv. 3Media:VO_Chongyun More About Chongyun - 02.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_More_About_Chongyun_-_02.ogg I was born with something called congenital positivity, meaning I have too much positive energy... Apparently it's so rare it only happens once every thousand generations or so. It means I repel all evil for miles around... *sigh* Actually, that's a bad thing. I must be the only exorcist in history who can't get within ten miles of an evil spirit.(Actual Voice-Over: I was born with a pure yang spirit, meaning I have too much yang energy... Apparently, it's so rare it only happens once every thousand generations or so. It means I repel all evil for miles around... *sigh* Actually, that's a bad thing. I must be the only exorcist in history who can't get within ten miles of an evil spirit.)
+More About Chongyun: III Friendship Lv. 4More About Chongyun: III Friendship Lv. 4Media:VO_Chongyun More About Chongyun - 03.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_More_About_Chongyun_-_03.ogg One of the main symptoms of congenital positivity is excess passion, something which has gotten me into many embarrassing situations. In an effort to alleviate these symptoms, I have to abstain from eating chilis and all hot food. I also have to take a parasol with me everywhere, and I avoid listening to rousing music. I wonder, will I ever overcome my condition for good?(Actual Voice-Over: One of the main consequences of having a pure yang spirit is excess passion, something which has gotten me into many embarrassing situations. In an effort to counteract my yang energy, I have to abstain from eating chilis and all hot food. I also have to take a parasol with me everywhere, and I avoid listening to rousing music. I wonder, will I ever find a way to work around my condition?)
+More About Chongyun: IV Friendship Lv. 5More About Chongyun: IV Friendship Lv. 5Media:VO_Chongyun More About Chongyun - 04.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_More_About_Chongyun_-_04.ogg Waiting for evil to show up at the doorstep will get you nowhere — you have to go out and hunt it down. By purging Liyue of evil spirits, I bring peace of mind to people and also broaden my horizons. If an evil spirit ever bothers you, just let me know. I'll come and help you out right away.
+More About Chongyun: V Friendship Lv. 6More About Chongyun: V Friendship Lv. 6Media:VO_Chongyun More About Chongyun - 05.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_More_About_Chongyun_-_05.ogg To permanently banish the forces of evil from the world is my ultimate goal as an exorcist. If that grand day ever comes, I suppose I should be able to consider trying many new things, such as hot springs, Jueyun Chilis, and... partaking in other activities of a more passionate nature. Ugh, what am I doing... Ugh, I shouldn't be dwelling on these things, even thinking about them is too stimulating for me...
+Chongyun's HobbiesChongyun's HobbiesMedia:VO_Chongyun Hobbies.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_Hobbies.ogg I like listening to Tea Master Liu's stories. His narration really brings the hair-raising tales of the supernatural to life. Why not come with me some time?
+Chongyun's TroublesChongyun's TroublesMedia:VO_Chongyun Troubles.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_Troubles.ogg After making numerous inquiries and putting in an enormous amount of effort, I finally tracked down the location of an old haunted temple. So I camped out there for four whole days, ready to exorcise the hell out of that place... and nothing happened. Not even the faintest glimpse of an evil spirit. *sigh* Sadly, this is a regular occurrence for me.
+Favorite FoodFavorite FoodMedia:VO_Chongyun Favorite Food.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_Favorite_Food.ogg Nothing makes me happier than sitting down to an authentic Inazuman meal, ingredients imported of course. After training hard all day, the ice-cold freshness of Inazuman cuisine takes the exhaustion away.
+Least Favorite FoodLeast Favorite FoodMedia:VO_Chongyun Least Favorite Food.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_Least_Favorite_Food.ogg Anything piping hot and laden with chilis is an absolute no-go for me. The mere thought of a Jueyun Chili gives me hot flashes.
+Receiving a Gift: IReceiving a Gift: IMedia:VO Chongyun Receiving a Gift - 01.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_Receiving_a_Gift_-_01.ogg Cold dishes are just to my liking! I'll save some for after my training.
+Receiving a Gift: IIReceiving a Gift: IIMedia:VO Chongyun Receiving a Gift - 02.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_Receiving_a_Gift_-_02.ogg I'm sorry, I know you mean well, but I really need to wait for it to cool off before I eat it.
+Receiving a Gift: IIIReceiving a Gift: IIIMedia:VO Chongyun Receiving a Gift - 03.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_Receiving_a_Gift_-_03.ogg Oh no! Did you put Jueyun Chilis in this?
+BirthdayBirthdayMedia:VO_Chongyun Birthday.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_Birthday.ogg On the anniversary of your birth, please accept this gift of a flower, made of ice crystals. I carved it myself. If you ever encounter an evil spirit, cast this toward it — the spell I have cast upon it will immediately come into effect and hopefully get you out alive. Also... Happy birthday.
+Feelings About Ascension: Intro Ascension Phase 1Feelings About Ascension: Intro Ascension Phase 1Media:VO_Chongyun Feelings About Ascension - 01.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_Feelings_About_Ascension_-_01.ogg We often use these materials for thaumaturgy during exorcisms — I never knew they could be used to purify one's own spirit, too.
+Feelings About Ascension: Building Up Ascension Phase 2Feelings About Ascension: Building Up Ascension Phase 2Media:VO_Chongyun Feelings About Ascension - 02.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_Feelings_About_Ascension_-_02.ogg Martial arts and thaumaturgy are alike in that there are always new dimensions to explore. Thanks to your guidance, I can see myself making progress.
+Feelings About Ascension: Climax Ascension Phase 4Feelings About Ascension: Climax Ascension Phase 4Media:VO_Chongyun Feelings About Ascension - 03.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_Feelings_About_Ascension_-_03.ogg Never before have I fathomed such lofty heights of martial prowess! For eye and hand, man and blade to act in unity... Truly, I have been enlightened.
+Feelings About Ascension: Conclusion Ascension Phase 6Feelings About Ascension: Conclusion Ascension Phase 6Media:VO_Chongyun Feelings About Ascension - 04.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_Feelings_About_Ascension_-_04.ogg With all the secrets arts that I have learned, my goal of banishing all evil from the world is finally in view. I will never forget how much you have done for me. Maybe now I even have what it takes to face the flames of my positive energy, and see if I can take the heat.
+Combat
+TitleDetailsElemental SkillElemental SkillMedia:VO Chongyun Elemental Skill 1 01.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_Elemental_Skill_1_01.ogg A touch of frost!Media:VO Chongyun Elemental Skill 1 02.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_Elemental_Skill_1_02.ogg Forth, my blade!Media:VO Chongyun Elemental Skill 1 03.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_Elemental_Skill_1_03.ogg Swift and merciful!Media:VO Chongyun Elemental Skill 1 04.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_Elemental_Skill_1_04.ogg One with my blade!Elemental BurstElemental BurstMedia:VO Chongyun Elemental Burst 01.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_Elemental_Burst_01.ogg From whence you came!Media:VO Chongyun Elemental Burst 02.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_Elemental_Burst_02.ogg Spirit blade, attack!Media:VO Chongyun Elemental Burst 03.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_Elemental_Burst_03.ogg Submit for judgment!Sprint StartSprint StartMedia:VO Chongyun Sprint Start 01.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_Sprint_Start_01.ogg Media:VO Chongyun Sprint Start 02.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_Sprint_Start_02.ogg Media:VO Chongyun Sprint Start 03.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_Sprint_Start_03.ogg Sprint EndSprint EndMedia:VO Chongyun Sprint End 01.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_Sprint_End_01.ogg Deploying Wind GliderDeploying Wind GliderMedia:VO Chongyun Deploying Wind Glider 01.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_Deploying_Wind_Glider_01.ogg I ride on wind and cloud alike.Media:VO Chongyun Deploying Wind Glider 02.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_Deploying_Wind_Glider_02.ogg Media:VO Chongyun Deploying Wind Glider 03.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_Deploying_Wind_Glider_03.ogg Opening Treasure ChestOpening Treasure ChestMedia:VO Chongyun Opening Treasure Chest 01.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_Opening_Treasure_Chest_01.ogg Hmm, objects like this may prove useful when purging evil spirits.Media:VO Chongyun Opening Treasure Chest 02.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_Opening_Treasure_Chest_02.ogg It was worth the trouble!Media:VO Chongyun Opening Treasure Chest 03.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_Opening_Treasure_Chest_03.ogg Unexpected, but welcome.Low HPLow HPMedia:VO Chongyun Low HP 01.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_Low_HP_01.ogg Barely a scratch.Media:VO Chongyun Low HP 02.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_Low_HP_02.ogg I cannot underestimate my enemy.Media:VO Chongyun Low HP 03.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_Low_HP_03.ogg Curb your fury!Ally at Low HPAlly at Low HPMedia:VO Chongyun Ally at Low HP 01.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_Ally_at_Low_HP_01.ogg I'm in position.Media:VO Chongyun Ally at Low HP 02.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_Ally_at_Low_HP_02.ogg Hang on!FallenFallenMedia:VO Chongyun Fallen 01.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_Fallen_01.ogg After all that training...Media:VO Chongyun Fallen 02.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_Fallen_02.ogg The scourge of evil remains...Media:VO Chongyun Fallen 03.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_Fallen_03.ogg This spells the end of exorcists...Light Hit TakenLight Hit TakenMedia:VO Chongyun Light Hit Taken 01.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_Light_Hit_Taken_01.ogg Media:VO Chongyun Light Hit Taken 02.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_Light_Hit_Taken_02.ogg Media:VO Chongyun Light Hit Taken 03.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_Light_Hit_Taken_03.ogg Media:VO Chongyun Light Hit Taken 04.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_Light_Hit_Taken_04.ogg Media:VO Chongyun Light Hit Taken 05.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_Light_Hit_Taken_05.ogg Media:VO Chongyun Light Hit Taken 06.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_Light_Hit_Taken_06.ogg Heavy Hit TakenHeavy Hit TakenMedia:VO Chongyun Heavy Hit Taken 01.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_Heavy_Hit_Taken_01.ogg But how!?Media:VO Chongyun Heavy Hit Taken 02.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_Heavy_Hit_Taken_02.ogg Media:VO Chongyun Heavy Hit Taken 03.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_Heavy_Hit_Taken_03.ogg Media:VO Chongyun Heavy Hit Taken 04.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_Heavy_Hit_Taken_04.ogg Media:VO Chongyun Heavy Hit Taken 05.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_Heavy_Hit_Taken_05.ogg Media:VO Chongyun Heavy Hit Taken 06.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_Heavy_Hit_Taken_06.ogg Joining PartyJoining PartyMedia:VO Chongyun Joining Party 01.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_Joining_Party_01.ogg Present.Media:VO Chongyun Joining Party 02.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_Joining_Party_02.ogg My demon-expelling mantra is ready.Media:VO Chongyun Joining Party 03.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_Joining_Party_03.ogg Time for some training?Character Idles(Note: Chat & Weather voice-over can also be heard as idles.)Character Idles(Note: Chat & Weather voice-over can also be heard as idles.)Media:VO Chongyun Standby 01.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_Standby_01.ogg Media:VO Chongyun Standby 02.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_Standby_02.ogg Light AttackLight AttackMedia:VO Chongyun Light Attack 01.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_Light_Attack_01.ogg Media:VO Chongyun Light Attack 02.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_Light_Attack_02.ogg Media:VO Chongyun Light Attack 03.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_Light_Attack_03.ogg Media:VO Chongyun Light Attack 04.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_Light_Attack_04.ogg Media:VO Chongyun Light Attack 05.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_Light_Attack_05.ogg Media:VO Chongyun Light Attack 06.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_Light_Attack_06.ogg Media:VO Chongyun Light Attack 07.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_Light_Attack_07.ogg Mid AttackMid AttackMedia:VO Chongyun Mid Attack 01.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_Mid_Attack_01.ogg Media:VO Chongyun Mid Attack 02.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_Mid_Attack_02.ogg Media:VO Chongyun Mid Attack 03.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_Mid_Attack_03.ogg Heavy AttackHeavy AttackMedia:VO Chongyun Heavy Attack 01.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_Heavy_Attack_01.ogg Media:VO Chongyun Heavy Attack 02.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_Heavy_Attack_02.ogg Media:VO Chongyun Heavy Attack 03.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_Heavy_Attack_03.ogg ClimbingClimbingMedia:VO Chongyun Climbing 01.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_Climbing_01.ogg Media:VO Chongyun Climbing 02.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_Climbing_02.ogg Media:VO Chongyun Climbing 03.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_Climbing_03.ogg Climbing BreathClimbing BreathMedia:VO Chongyun Climbing Breath 01.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_Climbing_Breath_01.ogg Media:VO Chongyun Climbing Breath 02.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_Climbing_Breath_02.ogg Media:VO Chongyun Climbing Breath 03.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_Climbing_Breath_03.ogg Media:VO Chongyun Climbing Breath 04.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_Climbing_Breath_04.ogg Media:VO Chongyun Climbing Breath 05.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_Climbing_Breath_05.ogg Media:VO Chongyun Climbing Breath 06.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_Climbing_Breath_06.ogg JumpingJumpingMedia:VO Chongyun Jumping 01.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_Jumping_01.ogg Media:VO Chongyun Jumping 02.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_Jumping_02.ogg Media:VO Chongyun Jumping 03.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_Jumping_03.ogg Media:VO Chongyun Jumping 04.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_Jumping_04.ogg Media:VO Chongyun Jumping 05.ogghttps://genshin-impact.fandom.com/wiki/File:VO_Chongyun_Jumping_05.ogg 
+Trivia
+Chongyun had a formerly unused voice-over for When the Sun Is Out...: Media:VO Chongyun When the Sun Is Out.ogg These are the perfect conditions for training. Come on Traveler, train with me!
+With the characters now saying their respective lines whenever a weather condition is met, Chongyun now says this line whenever it is sunny, although it doesn't appear in the character voice-over tab.
+Navigation
+  Characters  (Voice-Overs)AnotherWorld
+
+Mondstadt
+
+Liyue
+
+Inazuma
+
+Sumeru
+
+Fontaine
+
+Snezhnaya
+
+
+Upcoming Characters announced by HoYoverse.
+
+
+
+
+
+
+
+OverviewLoreVoice-OversOutfitsCompanionGallery
+
+
+Chongyun
+
+
+
+
+
+
+
+
+
+
+Category
+Companion Companion
+
+
+Quality
+
+
+
+
+
+Adeptal Energy
+Load 
+
+
+300
+1200 
+
+
+
+
+Adeptal Energy per Load 
+
+
+0.25
+
+
+
+
+
+
+
+
+
+								Description
+							
+
+
+
+
+
+Character In-Residence
+
+
+
+
+
+Chongyun can be invited as a Companion into the player's Serenitea Pot after obtaining him and completing the World Quest Idle Teapot Talk.
+
+Contents
+
+1 Favorite Furnishing Sets
+2 Idle Quotes
+3 Dialogue
+4 Special Dialogue
+
+4.1 Cloudy Haze Dream-Court
+4.2 Iter Ad Astra Abyssosque
+
+
+5 Change History
+6 Navigation
+
+
+Favorite Furnishing Sets
+If a character's favorite furnishing set is placed in the same realm as the character for the first time, the character will automatically teleport to the furnishing set. Interacting with the character will initiate a special dialogue, after which the character will teleport back to their original position.
+
+Chongyun has 2 Favorite Furnishing Sets:Furnishing SetRewardsCloudy Haze Dream-Court 20 1 20,000Iter Ad Astra Abyssosque 20 2 20,000
+Idle Quotes
+
+ Evil spirits...
+ My mantra...
+ I've heard rumors...
+ My constitution...
+ It's time for training...
+(When the player is nearby)
+ Have you been well?
+ Heard any new rumors?
+
+Dialogue
+
+Media:vo chongyun mimitomo hello 01.ogg Chongyun: Have you been well, (TravelerTravelerThe player's chosen name for the Traveler)?
+Media:vo chongyun mimitomo hello 02.ogg Chongyun: Strange anecdotes, rumors of evil spirits... If you come across such news, please remember to share them with me.
+ How do you like it here?
+Media:vo chongyun mimitomo friendship1 01.ogg Chongyun: Hmm. If you ask me, it would be a nice place to settle down in.
+Media:vo chongyun mimitomo friendship1 02.ogg Chongyun: This realm isn't as cool as the snowy mountains, but I don't need to worry about being scorched by the sun or sudden temperature changes.
+Media:vo chongyun mimitomo friendship1 03.ogg Chongyun: I can concentrate on training since there's no need to worry about the effects of my yang energy.
+ Not going to go outside and walk around?
+Media:vo chongyun mimitomo friendship1 04a.ogg Chongyun: If I do, I have to carry a parasol around and keep an eye on the sun.
+ Looks like I won't have to worry about evil spirits in here.
+Media:vo chongyun mimitomo friendship1 04b.ogg Chongyun: Naturally. I can assure you of that.
+Media:vo chongyun mimitomo friendship1 05.ogg Chongyun: Anyway, thank you for inviting me to such a cozy place...
+Media:vo chongyun mimitomo friendship1 06.ogg Chongyun: If you need anything from me, I'll help out.
+(Unlocks at Friendship Level 4)
+ Would you like to have a chat with me?
+Media:vo chongyun mimitomo friendship2 01.ogg Chongyun: Alright. I actually just had an infuriating experience.
+Media:vo chongyun mimitomo friendship2 02.ogg Chongyun: It went like this. Not too long ago, I heard someone talking about a book called "Anecdotes of Demons and Oddities." I spent a lot to buy a copy.
+Media:vo chongyun mimitomo friendship2 03.ogg Chongyun: Who would've thought that this book was all about some dastardly, immoral villain!
+Media:vo chongyun mimitomo friendship2 04.ogg Chongyun: It was really hard to control my anger.
+Media:vo chongyun mimitomo friendship2 05.ogg Chongyun: It took half a day to get my breathing and blood pressure under control.
+ Not quite what was said on the label, huh?
+Media:vo chongyun mimitomo friendship2 06a.ogg Chongyun: The label...? No, I wasn't bothered by the book's title.
+ I'll go explain what happened and help you return the book.
+Media:vo chongyun mimitomo friendship2 06b.ogg Chongyun: That's not it. It's not a matter of Mora...
+Media:vo chongyun mimitomo friendship2 07.ogg Chongyun: What made me angry was... How could there be such an atrocious person on this earth!?
+Media:vo chongyun mimitomo friendship2 08.ogg Chongyun: If I ran into them, I'd definitely...
+Media:vo chongyun mimitomo friendship2 09.ogg Chongyun: Whoa, whoa... Calm down.
+ A book's plot is usually made up by its author.
+Media:vo chongyun mimitomo friendship2 10.ogg Chongyun: You mean... this person isn't real?
+Media:vo chongyun mimitomo friendship2 11.ogg Chongyun: But the plot's twists and turns felt like they were unfolding right before my eyes!
+Media:vo chongyun mimitomo friendship2 12.ogg Chongyun: ...
+Media:vo chongyun mimitomo friendship2 13.ogg Chongyun: You don't mean... I mistakenly believed...
+ It's alright, it just means that the author writes very well.
+ It happens.
+Media:vo chongyun mimitomo friendship2 14.ogg Chongyun: *sigh* I'm sorry... I made a fool of myself.
+(Unlocks at Friendship Level 7)
+ Is there anything you'd like to do?
+Media:vo chongyun mimitomo friendship3 01.ogg Chongyun: Uhh... I'd like to invite you to... eat two-flavor hot pot with me.
+Media:vo chongyun mimitomo friendship3 02.ogg Chongyun: You know, because of my constitution, I can't eat food until it has completely cooled down.
+Media:vo chongyun mimitomo friendship3 03.ogg Chongyun: I've always thought it was a pity... that I was unable to eat at the same time as you...
+Media:vo chongyun mimitomo friendship3 04.ogg Chongyun: After much deliberation, I finally thought of a solution in two-flavor hot pot.
+Media:vo chongyun mimitomo friendship3 05.ogg Chongyun: A partition is placed onto a steaming Liyue-style pot to divide the soup into two sides.
+Media:vo chongyun mimitomo friendship3 06.ogg Chongyun: This way, I can enjoy a light soup base even if you have Jueyun Chili soup as yours.
+Media:vo chongyun mimitomo friendship3 07.ogg Chongyun: Also, hot pot ingredients are usually thinly sliced, so I can quickly cool them down in a bowl of ice water before eating.
+ Alright, sounds like it'll be fun.
+Media:vo chongyun mimitomo friendship3 08a 1.ogg Chongyun: You... you already agreed...?
+Media:vo chongyun mimitomo friendship3 08a 2.ogg Chongyun: I—In other words, we can go soon...?
+ I can have light soup together with you if you like.
+Media:vo chongyun mimitomo friendship3 08b 1.ogg Chongyun: Uh... Uhh...
+Media:vo chongyun mimitomo friendship3 08b 2.ogg Chongyun: Cooking in the same pot...?
+Media:vo chongyun mimitomo friendship3 09.ogg Chongyun: Uh...
+ Your face is really red...
+Media:vo chongyun mimitomo friendship3 10.ogg Chongyun: I... I'm fine. I just...
+Media:vo chongyun mimitomo friendship3 11.ogg Chongyun: Everything went better than I thought. I'm a little too happy... I'll be fine in a moment...
+(Between 6:00 and 19:00)
+ Good morning, Chongyun.
+Media:vo chongyun mimitomo morning 01.ogg Chongyun: Good morning, (TravelerTravelerThe player's chosen name for the Traveler).
+Media:vo chongyun mimitomo morning 02.ogg Chongyun: Do you have any plans today?
+Media:vo chongyun mimitomo morning 03.ogg Chongyun: If you're looking to train today, or hunt evil spirits, I'll definitely accompany you.
+(Between 19:00 and 6:00)
+ Good night, Chongyun.
+Media:vo chongyun mimitomo night 01.ogg Chongyun: Good night, (TravelerTravelerThe player's chosen name for the Traveler).
+Media:vo chongyun mimitomo night 02.ogg Chongyun: You head to bed first. Don't worry, I'll rest after another round of practice.
+Media:vo chongyun mimitomo night 03.ogg Chongyun: Phew... This is the last round for today...
+
+Special Dialogue
+When a character is invited to or invites themselves to their favorite set for the first time, the character will provide a reward. They will provide a reward for each of their favorite sets.
+Inviting them to the furnishing set again will replay the dialogue, but no further reward will be given.
+
+Cloudy Haze Dream-Court
+
+Media:vo mimitomo ly chongyun bedroom 01.ogg Chongyun: After returning from a long journey, it would feel nice to rest here before heading out again.
+Media:vo mimitomo ly chongyun bedroom 02.ogg Chongyun: Weapons can go there, and Sigils can go under my pillow. Mm-hmm.
+Media:vo mimitomo ly chongyun bedroom 03.ogg Chongyun: But where should I put my parasol... I suppose I'll just put it by the door.
+
+Iter Ad Astra Abyssosque
+
+Media:vo mimitomo ly chongyun adventure 01.ogg Chongyun: How did you know that I was worrying about finding a place to practice?
+Media:vo mimitomo ly chongyun adventure 02.ogg Chongyun: Simple tents... and a traveler's pack... Practicing here would be great.
+Media:vo mimitomo ly chongyun adventure 03.ogg Chongyun: Good thinking, setting this up around your house. Many thanks for the trouble you went to.
+
+Change History
+Released in Version 1.6[Create New History]
+Navigation
+  Living Beings
+ Companions5★
+
+4★
+
+Paimon
+
+
+
+ AnimalsCreatures
+
+
+
+
+
+
