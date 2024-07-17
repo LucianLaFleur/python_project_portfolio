@@ -66,6 +66,18 @@ Statistics and balance will be found here.
 
 Devlog:
 
+16 July:
+    Filtered all German main articles from 7000 lines to less than 1000 lines of target text.
+    Preserved multiple text files to show the iteration process for improving the data filtration pattern.
+
+15 July:
+    Merge data from "master" to "main" branch.
+    Documentation of main projects added to professional CV (separate doc, not included)
+
+    Continue development on German genshin wiki scrape. 
+        - scrapped tag/id based scraping for h1's with id's since they're not used consistently
+        - Must generalize to scraping entire content, and then purifying later with text filters later...
+
 14 July:
     create DANGEROUS_consolidate_many_textfiles_to_one.py
         [ Danger ] - Why is this dangerous?
@@ -77,7 +89,8 @@ Devlog:
         - shows outputs from searching, based on words in title.
         - correctly works for fragments of words
 
-    create sample vocab translation batch in DIR translation_utility_tools:
+    (Translation suite works!)
+    create sample vocab translation batch in DIR [translation_utility_tools]:
     Made process_translation_pairs... python file:
         - Input expects german/english translation pairs from .txt
             (like what I get from my notes doing AI German lessons)
